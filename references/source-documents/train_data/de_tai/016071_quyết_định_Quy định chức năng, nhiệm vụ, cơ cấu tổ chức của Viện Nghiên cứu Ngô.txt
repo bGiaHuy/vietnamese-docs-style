@@ -1,0 +1,146 @@
+# Quy định chức năng, nhiệm vụ, cơ cấu tổ chức của Viện Nghiên cứu Ngô
+# Loại: Quyết định
+# Số hiệu: 33/2006/QĐ-BNN
+# Ngày ban hành: 09/05/2006
+# Cơ quan: Bộ Nông nghiệp và Phát triển nông thôn
+# Người ký: Cao Đức Phát
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Về việc phê duyệt "Quy hoạch băng tần cho các hệ thống thông tin vô tuyến cố định
+
+và lưu động mặt đất của Việt Nam trong dải tần 406,1 - 470MHz"
+
+____________________________
+
+BỘ TRƯỞNG BỘ BƯU CHÍNH, VIỄN THÔNG
+
+
+
+Căn cứ Pháp lệnh Bưu chính, Viễn thông ngày 25 tháng 05 năm 2002;
+
+Căn cứ Nghị định 90/2002/NĐ-CP ngày 11 tháng 11 năm 2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Bưu chính, Viễn thông;
+
+Căn cứ Nghị định 24/2004/NĐ-CP ngày 14 tháng 01 năm 2004 của Chính phủ quy định chi tiết thi hành một số điều của Pháp lệnh Bưu chính, Viễn thông về tần số vô tuyến điện;
+
+Căn cứ Quyết định 85/1998/QĐ-TTg ngày 16 tháng 04 năm 1998 của Thủ tướng Chính phủ về việc phê duyệt "Quy hoạch phổ tần số vô tuyến điện của Việt Nam cho các nghiệp vụ";
+
+Theo đề nghị của Cục trưởng Cục Tần số vô tuyến điện,
+
+
+
+QUYẾT ĐỊNH:
+
+
+
+Điều 1. Phê duyệt "Quy hoạch băng tần cho các hệ thống thông tin vô tuyến cố định và lưu động mặt đất của Việt Nam trong dải tần 406,1 - 470MHz" với các nội dung chủ yếu sau đây:
+
+1. Phạm vi điều chỉnh
+
+Quy hoạch này được áp dụng cho các hệ thống thông tin vô tuyến cố định và lưu động mặt đất của Việt Nam trong dải tần 406,1 - 470MHz.
+
+2. Nội dung
+
+Quy hoạch băng tần cho các hệ thống thông tin vô tuyến cố định và lưu động mặt đất của Việt Nam trong dải tần 406,1 - 470MHz như sau:
+
+Quy hoạch băng tần 406,1 - 470
+
+406,1     430        440         445       450      452,73      457,02    462,73      467,02     470
+
+
+
+
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+VÔ TUYẾN ĐỊNH VỊ
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT (CDMA-BR)
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT (CDMA- BT)
+
+
+
+
+CỐ ĐỊNH LƯU ĐỘNG MẶT ĐẤT
+
+
+
+
+
+
+
+
+- 406,1 - 430MHz, 450 - 452,73MHz, 457,02 - 462,73MHz, 467,02 - 470MHz: Dành cho các hệ thống thông tin vô tuyến điện cố định, lưu động mặt đất có khoảng cách kênh 12,5kHz hoặc 25kHz (Các hệ thống sử dụng tần số trong đoạn băng tần 467,02 - 470MHz phải chấp nhận nhiễu do phát xạ ngoài băng của kênh truyền hình 21 gây ra).
+
+- 430 - 440MHz: Dành cho nghiệp vụ vô tuyến định vị.
+
+- 440 - 445MHz và 445 - 450MHz: Dành cho các hệ thống vi ba ít kênh và các hệ thống thông tin vô tuyến điện cố định, lưu động mặt đất có khoảng cách kênh 12,5kHz hoặc 25kHz, khoảng cách thu - phát 5MHz nhưng không hạn chế sử dụng cho các hệ thống cố định, lưu động mặt đất có khoảng cách kênh 12,5kHz hoặc 25kHz sử dụng 1 tần số.
+
+- 452,73 - 457,02MHz và 462,73 - 467,02MHz: Dành cho các hệ thống thông tin vô tuyến lưu động mặt đất và các hệ thống mạch vòng vô tuyến nội hạt (WLL) sử dụng công nghệ CDMA.
+
+BT = Base station transmit segment (Đoạn tần số phát của trạm gốc)
+
+BR = Base station receive segment (Đoạn tần số thu của trạm gốc)
+
+3. Tổ chức thực hiện
+
+3.1. Các hệ thống thông tin vô tuyến điện đang sử dụng tần số không đúng mục đích được quy định trong Quy hoạch này phải chuyển đổi tần số cho phù hợp với Quy hoạch.
+
+3.2. Thời hạn chuyển đổi:
+
+3.2.1. Trường hợp thiết bị có khả năng điều chỉnh tần số theo Quy hoạch mà không cần kinh phí chuyển đổi, tổ chức, cá nhân phải chuyển đổi tần số của thiết bị ngay sau khi Quy hoạch có hiệu lực.
+
+3.2.2. Trường hợp thiết bị không có khả năng điều chỉnh tần số theo Quy hoạch hoặc thiết bị có khả năng điều chỉnh tần số nhưng cần kinh phí chuyển đổi, tổ chức, cá nhân phải chuyển đổi tần số của thiết bị trong thời hạn không quá 5 năm kể từ ngày Quy hoạch có hiệu lực. Kinh phí chuyển đổi được thực hiện theo quy định của pháp luật.
+
+3.3. Cục Tần số vô tuyến điện chịu trách nhiệm hướng dẫn thực hiện Quy hoạch này.
+
+Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.
+
+Điều 3. Chánh Văn phòng, Cục trưởng Cục Tần số vô tuyến điện, Thủ trưởng cơ quan, đơn vị thuộc Bộ Bưu chính, Viễn thông, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+

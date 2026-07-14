@@ -1,0 +1,1112 @@
+# Công văn về việc quản lý, sử dụng và xử lý tài sản được trang cấp để phục vụ hoạt động của các ban quản lý dự án có sử dụng vốn ngân sách nhà nước
+# Loại: Công văn
+# Số hiệu: 8494/BTC-QLCS
+# Ngày ban hành: 10/07/2006
+# Cơ quan: Bộ Tài chính
+# Người ký: Đỗ Hoàng Anh Tuấn
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định về quy trình xây dựng cơ sở dữ liệu đất đai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013;
+
+Căn cứ Nghị định số 43/2014/NĐ-CP ngày 15 tháng 5 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai;
+
+Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường;
+
+Căn cứ Nghị định số 01/2017/NĐ-CP ngày 06 tháng 01 năm 2017 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Quản lý đất đai, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ Pháp chế;
+
+Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về quy trình xây dựng cơ sở dữ liệu đất đai.
+
+
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+
+
+Điều 1.Phạm vi điều chỉnh
+
+1. Thông tư này quy định về quy trình xây dựng, cập nhật cơ sở dữ liệu thành phần của cơ sở dữ liệu đất đai quốc gia gồm: cơ sở dữ liệu địa chính; cơ sở dữ liệu thống kê, kiểm kê đất đai; cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất; cơ sở dữ liệu giá đất.
+
+2. Cơ sở dữ liệu thành phần khác của cơ sở dữ liệu đất đai quốc gia và các cơ sở dữ liệu theo chuyên đề phục vụ yêu cầu quản lý nhà nước về đất đai không quy định tại khoản 1 Điều này được thực hiện theo quy định khác của pháp luật.
+
+Điều 2.Đối tượng áp dụng
+
+1. Cơ quan quản lý nhà nước về tài nguyên và môi trường; cơ quan chuyên môn về tài nguyên và môi trường; Văn phòng đăng ký đất đai; công chức địa chính xã, phường, thị trấn có liên quan đến việc xây dựng, cập nhật cơ sở dữ liệu đất đai quốc gia.
+
+2. Các tổ chức, cá nhân khác có liên quan đến việc xây dựng, cập nhật cơ sở dữ liệu đất đai quốc gia.
+
+Điều 3.Xây dựng cơ sở dữ liệu đất đai quốc gia
+
+1. Cơ sở dữ liệu đất đai do cơ quan Trung ương tổ chức xây dựng gồm:
+
+a) Cơ sở dữ liệu thống kê, kiểm kê đất đai: dữ liệu báo cáo, biểu, bảng số liệu thống kê, kiểm kê đất đai, bản đồ hiện trạng sử dụng đất cấp vùng và cả nước; dữ liệu về quản lý sử dụng đất theo chuyên đề;
+
+b) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất: dữ liệu báo cáo thuyết minh tổng hợp, bản đồ hiện trạng sử dụng đất, bản đồ quy hoạch, kế hoạch sử dụng đất và bản đồ điều chỉnh quy hoạch, kế hoạch sử dụng đất cấp quốc gia, vùng kinh tế - xã hội;
+
+c) Cơ sở dữ liệu giá đất: dữ liệu khung giá đất, giá đất tại khu vực giáp ranh giữa các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là khu vực giáp ranh).
+
+2. Cơ sở dữ liệu đất đai do tỉnh, thành phố trực thuộc Trung ương tổ chức xây dựng gồm:
+
+a) Cơ sở dữ liệu địa chính: dữ liệu về lập, chỉnh lý bản đồ địa chính, đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất (sau đây gọi là Giấy chứng nhận), hồ sơ địa chính;
+
+b) Cơ sở dữ liệu thống kê, kiểm kê đất đai: dữ liệu báo cáo, biểu, bảng số liệu thống kê, kiểm kê đất đai, bản đồ hiện trạng sử dụng đất cấp xã, huyện, tỉnh; dữ liệu về quản lý sử dụng đất theo chuyên đề được thực hiện theo quyết định của cấp có thẩm quyền;
+
+c) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất: dữ liệu báo cáo thuyết minh tổng hợp, bản đồ hiện trạng sử dụng đất, bản đồ quy hoạch, kế hoạch sử dụng đất, bản đồ điều chỉnh quy hoạch, kế hoạch sử dụng đất của cấp tỉnh, cấp huyện;
+
+d) Cơ sở dữ liệu giá đất: dữ liệu bảng giá đất, bảng giá đất điều chỉnh, bổ sung; hệ số điều chỉnh giá đất; giá đất cụ thể; giá trúng đấu giá quyền sử dụng đất; thông tin giá đất trong Phiếu thu thập thông tin về thửa đất.
+
+Điều 4.Trách nhiệm quản lý cơ sở dữ liệu đất đai quốc gia
+
+1. Tổng cục Quản lý đất đai có trách nhiệm:
+
+a) Tổ chức xây dựng, quản lý, cập nhật cơ sở dữ liệu đất đai quy định tại khoản 1 Điều 3 của Thông tư này; chỉ đạo, hướng dẫn, kiểm tra định kỳ hoặc đột xuất việc xây dựng, quản lý, cập nhật cơ sở dữ liệu đất đai ở các địa phương;
+
+b) Đánh giá, xếp hạng năng lực thực hiện việc xây dựng cơ sở dữ liệu đất đai của các tổ chức và công bố công khai hàng năm;
+
+c) Phối hợp với đơn vị có liên quan để xử lý những vấn đề phát sinh trong quá trình thực hiện.
+
+2. Sở Tài nguyên và Môi trường có trách nhiệm:
+
+a) Xây dựng kế hoạch triển khai việc xây dựng cơ sở dữ liệu đất đai trình Ủy ban nhân dân cấp tỉnh phê duyệt;
+
+b) Tổ chức xây dựng, quản lý, cập nhật cơ sở dữ liệu đất đai quy định tại khoản 2 Điều 3 của Thông tư này;
+
+c) Kiểm tra việc thực hiện cập nhật cơ sở dữ liệu đất đai của Văn phòng đăng ký đất đai;
+
+d) Báo cáo tình hình xây dựng và vận hành cơ sở dữ liệu đất đai trên địa bàn tỉnh theo Phụ lục số 01 kèm theo Thông tư này, gửi về Tổng cục Quản lý đất đai trước ngày 15 tháng 01 hàng năm.
+
+Điều 5.Nguyên tắc xây dựng, cập nhật cơ sở dữ liệu đất đai quốc gia
+
+1. Việc xây dựng, cập nhật cơ sở dữ liệu đất đai quốc gia phải đảm bảo tính đầy đủ, chính xác, khoa học, kịp thời.
+
+2. Nội dung, cấu trúc và kiểu thông tin của cơ sở dữ liệu đất đai quốc gia được thực hiện theo quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+3. Các cơ sở dữ liệu thành phần của cơ sở dữ liệu đất đai quốc gia phải được xây dựng đồng thời và được liên kết, tích hợp với nhau; trường hợp chưa đủ điều kiện thì ưu tiên xây dựng cơ sở dữ liệu địa chính làm cơ sở để xây dựng và định vị không gian các cơ sở dữ liệu thành phần khác của cơ sở dữ liệu đất đai quốc gia.
+
+4. Quy mô tổ chức triển khai xây dựng cơ sở dữ liệu địa chính được xác định theo đơn vị hành chính cấp huyện.
+
+Điều 6.Giá trị pháp lý của nguồn tài liệu, dữ liệu sử dụng để xây dựng cơ sở dữ liệu đất đai quốc gia
+
+Nguồn tài liệu, dữ liệu sử dụng để xây dựng cơ sở dữ liệu đất đai quốc gia là tài liệu, dữ liệu đã được các cơ quan có thẩm quyền phê duyệt, ký duyệt, xác nhận theo quy định của pháp luật.
+
+
+
+Chương II
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU ĐẤT ĐAI DO TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG TỔ CHỨC XÂY DỰNG
+
+
+
+Mục 1
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU ĐỊA CHÍNH
+
+
+
+Tiểu mục 1
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU ĐỊA CHÍNH ĐỐI VỚI TRƯỜNG HỢP ĐÃ THỰC HIỆN ĐĂNG KÝ, CẤP GIẤY CHỨNG NHẬN
+
+
+
+Điều 7.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện từng bước công việc; lập kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu địa chính trên địa bàn thi công.
+
+2. Chuẩn bị nhân lực, địa điểm làm việc.
+
+3. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm phục vụ cho công tác xây dựng cơ sở dữ liệu địa chính.
+
+Điều 8.Thu thập tài liệu, dữ liệu
+
+Tài liệu, dữ liệu thu thập cho việc xây dựng cơ sở dữ liệu địa chính gồm:
+
+1. Bản đồ địa chính mới nhất dạng số (hoặc dạng giấy đối với những khu vực không có bản đồ địa chính dạng số) và các loại tài liệu đo đạc khác đã sử dụng để cấp Giấy chứng nhận (bản đồ giải thửa, sơ đồ, trích đo địa chính).
+
+2. Sổ mục kê, sổ địa chính, sổ cấp Giấy chứng nhận, sổ đăng ký biến động, bản lưu Giấy chứng nhận.
+
+3. Hồ sơ đăng ký đất đai, tài sản gắn liền với đất.
+
+4. Hồ sơ giao đất, cho thuê đất, thu hồi đất.
+
+5. Bản đồ hiện trạng sử dụng đất cấp xã (dạng số) của kỳ kiểm kê gần nhất.
+
+6. Đơn đăng ký đã được Ủy ban nhân dân cấp xã xác nhận đối với trường hợp cơ quan có thẩm quyền tổ chức việc đăng ký đất đai trong thời gian xây dựng cơ sở dữ liệu địa chính nhưng đã hết thời gian xây dựng cơ sở dữ liệu địa chính mà chưa hoàn thành việc đăng ký đất đai.
+
+Điều 9.Rà soát, đánh giá, phân loại và sắp xếp tài liệu, dữ liệu
+
+1. Rà soát, đánh giá tài liệu, dữ liệu:
+
+Nội dung rà soát, đánh giá phải xác định được thời gian xây dựng, mức độ đầy đủ thông tin, khả năng liên kết của các thửa đất liền kề trên một nền không gian, tính pháp lý của từng tài liệu, dữ liệu để lựa chọn sử dụng cho việc xây dựng cơ sở dữ liệu địa chính; ưu tiên lựa chọn loại tài liệu, dữ liệu có thời điểm lập mới nhất, có đầy đủ thông tin nhất, có giá trị pháp lý cao nhất.
+
+Kết quả rà soát, đánh giá được lập thành báo cáo, trong đó phải xác định được từng loại tài liệu sử dụng để xây dựng dữ liệu không gian địa chính và xây dựng dữ liệu thuộc tính địa chính theo quy định sau:
+
+a) Tài liệu để xây dựng dữ liệu không gian địa chính
+
+Tài liệu để xây dựng dữ liệu không gian địa chính ưu tiên sử dụng bản đồ địa chính. Trường hợp khu vực chưa thành lập bản đồ địa chính thì sử dụng các loại tài liệu đo đạc khác đã dùng để cấp Giấy chứng nhận để xây dựng dữ liệu không gian địa chính và phải đánh giá độ chính xác, khả năng liên kết không gian giữa các thửa đất liền kề để có phương án xây dựng dữ liệu không gian địa chính cho phù hợp;
+
+b) Tài liệu để xây dựng dữ liệu thuộc tính địa chính
+
+Tài liệu để xây dựng dữ liệu thuộc tính địa chính ưu tiên sử dụng bản lưu Giấy chứng nhận và sổ địa chính. Trường hợp bản lưu Giấy chứng nhận, sổ địa chính không đầy đủ thông tin, không được cập nhật chỉnh lý biến động thường xuyên thì phải lựa chọn hồ sơ đăng ký đất đai đối với trường hợp còn thiếu để cập nhật.
+
+Các tài liệu để cập nhật hoặc chỉnh lý biến động hồ sơ địa chính gồm: hồ sơ đăng ký biến động đất đai, tài liệu giao đất, cho thuê đất, thu hồi đất.
+
+2. Phân loại các thửa đất:
+
+Thực hiện phân loại thửa đất trên cơ sở hồ sơ đăng ký đất đai, tài sản gắn liền với đất. Kết quả phân loại thửa đất được lập theo Phụ lục số 02 kèm theo Thông tư này. Các thửa đất được phân loại như sau:
+
+a) Thửa đất đã được cấp Giấy chứng nhận chưa có tài sản gắn liền với đất (thửa đất loại A);
+
+b) Thửa đất đã được cấp Giấy chứng nhận có tài sản gắn liền với đất (thửa đất loại B);
+
+c) Thửa đất được cấp chung một Giấy chứng nhận (thửa đất loại C);
+
+d) Căn hộ, văn phòng, cơ sở dịch vụ - thương mại trong nhà chung cư, nhà hỗn hợp đã được cấp Giấy chứng nhận (thửa đất loại D);
+
+đ) Thửa đất chưa được cấp Giấy chứng nhận hoặc không được cấp Giấy chứng nhận (thửa đất loại E).
+
+3. Đối với các thửa đất chưa thực hiện đăng ký đất đai thì lập danh sách và chuyển cơ quan có thẩm quyền để thực hiện đăng ký đất đai bắt buộc theo quy định của pháp luật.
+
+4. Đối với hồ sơ đăng ký đất đai, tài sản gắn liền với đất đã được thu thập phải được làm sạch, sắp xếp và đánh số thứ tự theo quy định về hồ sơ địa chính.
+
+Điều 10.Xây dựng dữ liệu không gian đất đai nền
+
+1. Dữ liệu không gian đất đai nền được xây dựng để làm cơ sở xây dựng, định vị dữ liệu không gian địa chính, dữ liệu không gian kiểm kê đất đai, dữ liệu không gian quy hoạch, kế hoạch sử dụng đất và các dữ liệu không gian chuyên đề khác.
+
+2. Dữ liệu không gian đất đai nền được xây dựng theo phạm vi đơn vị hành chính cấp xã và phải được thực hiện đồng thời với việc xây dựng dữ liệu không gian địa chính.
+
+3. Tài liệu để xây dựng dữ liệu không gian đất đai nền:
+
+a) Trường hợp đơn vị hành chính cấp xã đã có bản đồ địa chính phủ kín thì sử dụng bản đồ địa chính;
+
+b) Trường hợp đơn vị hành chính cấp xã có bản đồ địa chính nhưng chưa phủ kín thì sử dụng bản đồ địa chính đối với khu vực có bản đồ địa chính, những khu vực còn lại thì sử dụng bản đồ hiện trạng sử dụng đất cấp xã của kỳ kiểm kê gần nhất;
+
+c) Trường hợp đơn vị hành chính cấp xã chưa có bản đồ địa chính thì sử dụng bản đồ hiện trạng sử dụng đất cấp xã của kỳ kiểm kê gần nhất.
+
+4. Xây dựng dữ liệu không gian đất đai nền:
+
+a) Xử lý biên theo quy định về bản đồ đối với các tài liệu bản đồ tiếp giáp nhau;
+
+b) Tách, lọc và chuẩn hóa các lớp đối tượng không gian đất đai nền;
+
+c) Chuyển đổi các lớp đối tượng không gian đất đai nền từ tệp (File) bản đồ số vào cơ sở dữ liệu;
+
+d) Gộp các thành phần tiếp giáp nhau của cùng một đối tượng không gian đất đai nền thành một đối tượng duy nhất phù hợp với thông tin thuộc tính của đối tượng theo phạm vi đơn vị hành chính cấp xã.
+
+5. Tích hợp dữ liệu không gian đất đai nền:
+
+a) Xử lý tiếp biên dữ liệu không gian đất đai nền giữa các đơn vị hành chính cấp xã, cấp huyện liền kề;
+
+b) Tích hợp dữ liệu không gian đất đai nền vào cơ sở dữ liệu đất đai để quản lý, vận hành, khai thác sử dụng.
+
+Điều 11.Xây dựng dữ liệu không gian địa chính
+
+1. Chuẩn hóa các lớp đối tượng không gian địa chính:
+
+a) Lập bảng đối chiếu giữa lớp đối tượng không gian địa chính với nội dung tương ứng trong bản đồ địa chính để tách, lọc các đối tượng từ nội dung bản đồ địa chính;
+
+b) Chuẩn hóa các lớp đối tượng không gian địa chính chưa phù hợp với quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+c) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian địa chính theo quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+2. Chuyển đổi các lớp đối tượng không gian địa chính từ tệp (File) bản đồ số vào cơ sở dữ liệu theo phạm vi đơn vị hành chính cấp xã.
+
+3. Gộp các thành phần tiếp giáp nhau của cùng một đối tượng không gian địa chính thành một đối tượng duy nhất phù hợp với thông tin thuộc tính của đối tượng theo phạm vi đơn vị hành chính cấp xã.
+
+4. Bổ sung, chỉnh sửa các thửa đất đã thay đổi hình thể, kích thước theo hồ sơ cấp Giấy chứng nhận, hồ sơ đăng ký biến động.
+
+5. Bổ sung, chỉnh sửa thửa đất bị chồng lấn diện tích do đo đạc địa chính, cấp Giấy chứng nhận trên nền các bản đồ có tỷ lệ khác nhau hoặc thời điểm đo đạc khác nhau. Kết quả chỉnh sửa được lập theo Phụ lục số 03 kèm theo Thông tư này.
+
+6. Rà soát dữ liệu không gian của từng đơn vị hành chính để xử lý các lỗi dọc biên giữa các xã tiếp giáp nhau (nếu có). Trường hợp có sự sai lệch về hình thể (do độ chính xác của các loại bản đồ địa chính khác loại tỷ lệ) cần xử lý đồng bộ với các loại hồ sơ có liên quan. Kết quả xử lý biên các đối tượng còn mâu thuẫn được lập theo Phụ lục số 04 kèm theo Thông tư này.
+
+7. Đối với trường hợp bản đồ địa chính được sử dụng để xây dựng cơ sở dữ liệu địa chính ở dạng giấy hoặc chưa được thành lập trong hệ tọa độ quốc gia VN-2000 thì thực hiện việc số hóa, chuyển đổi hệ tọa độ và biên tập nội dung bản đồ số theo quy định hiện hành.
+
+8. Đối với khu vực chưa có bản đồ địa chính thì thực hiện như sau:
+
+a) Trường hợp có bản trích đo địa chính theo hệ tọa độ quốc gia VN-2000 thì chuyển đổi các lớp đối tượng vào dữ liệu không gian địa chính;
+
+b) Trường hợp có sơ đồ, bản trích đo địa chính chưa theo hệ tọa độ quốc gia VN-2000 hoặc bản đồ giải thửa dạng số thì chuyển đổi vào dữ liệu không gian địa chính và định vị trên dữ liệu không gian đất đai nền;
+
+c) Trường hợp có sơ đồ, bản trích đo địa chính theo hệ tọa độ giả định hoặc bản đồ giải thửa dạng giấy thì quét và định vị trên dữ liệu không gian đất đai nền.
+
+9. Đối với khu vực đất sản xuất nông nghiệp đang thực hiện dồn điền đổi thửa thì thực hiện định vị khu vực dồn điền đổi thửa đó trên dữ liệu không gian đất đai nền trên cơ sở các hồ sơ, tài liệu hiện có. Dữ liệu không gian địa chính sẽ được cập nhật sau khi đo đạc lại bản đồ địa chính hoặc được cập nhật đồng thời với việc đăng ký biến động khi người sử dụng đất thực hiện quyền.
+
+10. Đối với trường hợp tài liệu đo đạc địa chính mới đã được cơ quan có thẩm quyền kiểm tra, nghiệm thu xác nhận thay thế tài liệu, số liệu đo đạc đã sử dụng để đăng ký, cấp Giấy chứng nhận trước đây nhưng chưa cấp đổi Giấy chứng nhận thì thông tin về mã thửa đất, ranh giới thửa và diện tích thửa đất được xác định theo tài liệu đo đạc mới.
+
+Điều 12.Quét giấy tờ pháp lý và xử lý tệp tin
+
+1. Việc quét các giấy tờ pháp lý nhằm xác thực thông tin của thửa đất được nhập vào cơ sở dữ liệu. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các giấy tờ pháp lý quét bao gồm:
+
+a) Đối với thửa đất, tài sản gắn liền với đất đã được cấp Giấy chứng nhận:
+
+- Giấy chứng nhận (đang sử dụng) hoặc bản lưu Giấy chứng nhận; trang bổ sung (nếu có);
+
+- Đơn đăng ký, cấp Giấy chứng nhận (lần đầu);
+
+- Hợp đồng thuê đất đối với trường hợp thuê đất của Nhà nước;
+
+- Chứng từ thực hiện nộp tiền sử dụng đất, tiền thuê đất;
+
+b) Đối với thửa đất đã thực hiện đăng ký nhưng chưa được cấp Giấy chứng nhận hoặc không được cấp Giấy chứng nhận thì quét đơn đăng ký cấp Giấy chứng nhận;
+
+c) Đối với trường hợp đã thực hiện dồn điền đổi thửa thì quét đơn đề nghị cấp đổi Giấy chứng nhận, văn bản thỏa thuận về việc chuyển đổi quyền sử dụng đất nông nghiệp của hộ gia đình, cá nhân (nếu có) và biên bản giao nhận ruộng đất theo phương án dồn điền đổi thửa (nếu có).
+
+2. Xử lý các tệp tin quét thành tệp (File) hồ sơ quét dạng số của thửa đất, lưu trữ dưới khuôn dạng tệp tin PDF (ở định dạng không chỉnh sửa được); chất lượng hình ảnh số phải sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo liên kết hồ sơ quét dạng số với thửa đất trong cơ sở dữ liệu.
+
+Điều 13.Xây dựng dữ liệu thuộc tính địa chính
+
+Dữ liệu thuộc tính địa chính được xây dựng đồng thời trong quá trình xây dựng dữ liệu không gian quy định tại điểm c khoản 1 Điều 11 của Thông tư này và được tiếp tục xây dựng từ các nguồn tài liệu đã được thu thập tại Điều 8 của Thông tư này theo các bước như sau:
+
+1. Kiểm tra tính đầy đủ thông tin của thửa đất, lựa chọn tài liệu để lấy thông tin ưu tiên theo Phụ lục số 05 kèm theo Thông tư này.
+
+2. Lập bảng tham chiếu số tờ, số thửa và diện tích đối với các thửa đất đã được cấp Giấy chứng nhận theo bản đồ cũ nhưng chưa cấp đổi Giấy chứng nhận theo bản đồ địa chính mới.
+
+3. Nhập thông tin từ tài liệu đã lựa chọn tại khoản 1 Điều này vào cơ sở dữ liệu địa chính.
+
+Điều 14.Hoàn thiện dữ liệu địa chính
+
+1. Thực hiện hoàn thiện 100% thông tin trong cơ sở dữ liệu.
+
+2. Thực hiện xuất sổ địa chính (điện tử) theo khuôn dạng tệp tin PDF.
+
+Điều 15.Xây dựng siêu dữ liệu địa chính
+
+1. Thu nhận các thông tin cần thiết để xây dựng siêu dữ liệu (thông tin mô tả dữ liệu) địa chính.
+
+2. Nhập thông tin siêu dữ liệu địa chính cho từng đơn vị hành chính cấp xã.
+
+Điều 16.Kiểm tra, nghiệm thu cơ sở dữ liệu địa chính
+
+1. Đơn vị thi công có trách nhiệm:
+
+a) Chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu;
+
+b) Tổng hợp, xác định khối lượng sản phẩm đã thực hiện theo định kỳ hàng tháng, theo công đoạn công trình và kết thúc công trình;
+
+c) Lập biên bản bàn giao theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu có trách nhiệm:
+
+a) Thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu địa chính theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+b) Làm thủ tục xác nhận sản phẩm theo định kỳ hàng tháng, theo công đoạn công trình và kết thúc công trình.
+
+Điều 17.Đối soát, tích hợp dữ liệu vào hệ thống
+
+Văn phòng đăng ký đất đai thực hiện:
+
+1. Đối soát thông tin của thửa đất trong cơ sở dữ liệu với nguồn tài liệu, dữ liệu đã sử dụng để xây dựng cơ sở dữ liệu.
+
+2. Thực hiện ký số vào sổ địa chính (điện tử).
+
+3. Tích hợp dữ liệu vào hệ thống đang vận hành tại địa phương theo định kỳ hàng tháng phục vụ quản lý, vận hành, khai thác sử dụng.
+
+
+
+Tiểu mục 2
+
+QUY TRÌNH CHUYỂN ĐỔI, BỔ SUNG, HOÀN THIỆN CƠ SỞ DỮ LIỆU ĐỊA CHÍNH ĐÃ XÂY DỰNG TRƯỚC NGÀY 01 THÁNG 8 NĂM 2016
+
+(NGÀY THÔNG TƯ SỐ 75/2015/TT-BTNMT CÓ HIỆU LỰC THI HÀNH)
+
+
+
+Điều 18.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; lập kế hoạch làm việc với các đơn vị có liên quan đến công tác chuyển đổi, bổ sung, hoàn thiện cơ sở dữ liệu địa chính trên địa bàn thi công.
+
+2. Chuẩn bị nhân lực, địa điểm làm việc.
+
+3. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm phục vụ cho công tác chuyển đổi, bổ sung, hoàn thiện cơ sở dữ liệu địa chính.
+
+Điều 19.Chuyển đổi dữ liệu địa chính
+
+1. Lập mô hình chuyển đổi cấu trúc dữ liệu của cơ sở dữ liệu địa chính đã xây dựng sang cấu trúc dữ liệu hiện hành.
+
+2. Xây dựng dữ liệu không gian đất đai nền:
+
+a) Tách, lọc và chuyển đổi dữ liệu không gian đất đai nền từ dữ liệu không gian của cơ sở dữ liệu địa chính đã có;
+
+b) Đối với những khu vực chưa có cơ sở dữ liệu không gian địa chính thì tiến hành xây dựng mới dữ liệu không gian đất đai nền theo quy định tại Điều 10 của Thông tư này để đảm bảo dữ liệu không gian đất đai nền được phủ kín phạm vi đơn vị hành chính cấp xã.
+
+3. Chuyển đổi cấu trúc dữ liệu không gian địa chính.
+
+4. Chuyển đổi cấu trúc dữ liệu thuộc tính địa chính.
+
+5. Chuyển đổi cấu trúc dữ liệu hồ sơ quét.
+
+Điều 20.Bổ sung, hoàn thiện dữ liệu địa chính
+
+1. Rà soát, bổ sung dữ liệu không gian địa chính.
+
+2. Rà soát, bổ sung dữ liệu thuộc tính địa chính.
+
+3. Thực hiện hoàn thiện 100% thông tin trong cơ sở dữ liệu đã được chuyển đổi, bổ sung.
+
+4. Thực hiện xuất sổ địa chính (điện tử) đối với những thửa đất chưa có sổ địa chính (điện tử) theo khuôn dạng tệp tin PDF; đối với các thửa đất đã có sổ địa chính (điện tử) thì sử dụng sổ địa chính (điện tử) đã có.
+
+Điều 21.Xây dựng siêu dữ liệu địa chính
+
+1. Chuyển đổi siêu dữ liệu địa chính theo mô hình chuyển đổi cấu trúc dữ liệu đã lập quy định tại khoản 1 Điều 19 của Thông tư này.
+
+2. Thu nhận các thông tin cần thiết để bổ sung thông tin cho siêu dữ liệu địa chính.
+
+3. Nhập bổ sung thông tin cho siêu dữ liệu địa chính theo từng đơn vị hành chính cấp xã.
+
+Điều 22.Kiểm tra, nghiệm thu cơ sở dữ liệu địa chính
+
+1. Đơn vị thi công có trách nhiệm:
+
+a) Chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu;
+
+b) Tổng hợp, xác định khối lượng sản phẩm đã thực hiện theo công đoạn công trình và kết thúc công trình;
+
+c) Lập biên bản bàn giao theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu có trách nhiệm:
+
+a) Thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu địa chính theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+b) Làm thủ tục xác nhận sản phẩm theo công đoạn công trình và kết thúc công trình.
+
+Điều 23.Đối soát dữ liệu
+
+Văn phòng đăng ký đất đai có trách nhiệm thực hiện:
+
+1. Đối soát thông tin của thửa đất trong cơ sở dữ liệu đã được chuyển đổi, bổ sung với nguồn tài liệu, dữ liệu đã sử dụng để xây dựng cơ sở dữ liệu đối với trường hợp phải xuất mới sổ địa chính (điện tử).
+
+2. Thực hiện ký số vào sổ địa chính (điện tử) đối với trường hợp xuất mới sổ địa chính (điện tử).
+
+
+
+Tiểu mục 3
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU ĐỊA CHÍNH ĐỐI VỚI TRƯỜNG HỢP THỰC HIỆN ĐỒNG BỘ VỚI LẬP, CHỈNH LÝ BẢN ĐỒ ĐỊA CHÍNH VÀ ĐĂNG KÝ ĐẤT ĐAI, CẤP GIẤY CHỨNG NHẬN
+
+
+
+Điều 24.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện lồng ghép từng bước công việc lập, chỉnh lý bản đồ địa chính, đăng ký đất đai, cấp Giấy chứng nhận, xây dựng cơ sở dữ liệu địa chính trên địa bàn thi công; lập kế hoạch làm việc với các đơn vị có liên quan.
+
+2. Chuẩn bị địa điểm và nhân lực thực hiện của từng bước công việc.
+
+3. Chuẩn bị vật tư, thiết bị, kiểm nghiệm thiết bị đo đạc, phần mềm, tài liệu, bản đồ, mẫu Đơn đăng ký, cấp Giấy chứng nhận, mẫu Đơn đề nghị cấp lại, cấp đổi Giấy chứng nhận.
+
+4. Xác định ranh giới hành chính cấp xã ngoài thực địa.
+
+5. Tổ chức phổ biến, tuyên truyền chủ trương, chính sách về đo đạc, đăng ký, cấp mới hoặc cấp đổi Giấy chứng nhận, xây dựng cơ sở dữ liệu.
+
+Điều 25.Thu thập tài liệu, dữ liệu
+
+1. Thu thập tài liệu phục vụ công tác đo đạc:
+
+Thu thập và sao (photocopy) các tài liệu có liên quan đến hiện trạng sử dụng đất của địa phương đang lưu trữ tại cấp tỉnh, cấp huyện, cấp xã; bản sao các tài liệu có liên quan đến hiện trạng sử dụng đất của người sử dụng, người quản lý đất cung cấp tại địa bàn thi công (không cần công chứng, chứng thực).
+
+2. Thu thập tài liệu phục vụ công tác đăng ký, cấp Giấy chứng nhận, xây dựng cơ sở dữ liệu địa chính:
+
+a) Tài liệu phục vụ công tác đăng ký, cấp Giấy chứng nhận gồm các tài liệu đã thu thập tại khoản 1 Điều này và thu thập bổ sung các tài liệu còn thiếu để phục vụ cho việc đăng ký, cấp Giấy chứng nhận;
+
+b) Trường hợp không có nhu cầu cấp đổi Giấy chứng nhận thì tiến hành thu thập bổ sung các tài liệu gồm: hồ sơ đăng ký đất đai, tài sản gắn liền với đất được lưu trữ tại Văn phòng đăng ký đất đai.
+
+Điều 26.Xây dựng dữ liệu không gian gắn với lập, chỉnh lý bản đồ địa chính
+
+Việc lập, chỉnh lý bản đồ địa chính thực hiện theo quy định hiện hành về quy định bản đồ địa chính. Trong quá trình lập, chỉnh lý bản đồ địa chính cần thực hiện lồng ghép các bước công việc kê khai đăng ký, cấp Giấy chứng nhận và xây dựng cơ sở dữ liệu địa chính, cụ thể như sau:
+
+1. Khi biên tập, in bản đồ địa chính theo phạm vi đơn vị hành chính cấp xã thì thực hiện việc xây dựng dữ liệu không gian đất đai nền và dữ liệu không gian địa chính theo quy định tại Điều 10 và Điều 11 của Thông tư này.
+
+2. Trong quá trình thực hiện giao nhận kết quả đo đạc địa chính thửa đất cho người sử dụng đất, người được giao quản lý đất cần thực hiện lồng ghép việc cấp phát mẫu đơn và hướng dẫn kê khai, lập hồ sơ đăng ký, cấp Giấy chứng nhận lần đầu, hồ sơ cấp đổi Giấy chứng nhận, hồ sơ đăng ký biến động đất đai.
+
+3. Khi giao nộp sản phẩm đo đạc phải đồng thời giao nộp sản phẩm dữ liệu không gian đất đai nền và dữ liệu không gian địa chính cho chủ đầu tư.
+
+4. Dữ liệu không gian địa chính sau khi giao nộp được nhập vào hệ thống để sử dụng cho công tác đăng ký, cấp mới, cấp đổi Giấy chứng nhận.
+
+Điều 27.Xây dựng dữ liệu thuộc tính địa chính gắn với đăng ký, cấp Giấy chứng nhận
+
+Việc đăng ký, cấp Giấy chứng nhận được thực hiện theo quy định hiện hành. Trong quá trình đăng ký, cấp Giấy chứng nhận cần thực hiện lồng ghép các bước công việc về xây dựng dữ liệu thuộc tính địa chính, hoàn thiện dữ liệu không gian địa chính, cụ thể như sau:
+
+1. Xây dựng dữ liệu thuộc tính địa chính được thực hiện đồng thời trong quá trình đăng ký, cấp mới, cấp đổi Giấy chứng nhận và nội dung phải đảm bảo theo quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+Đối với những trường hợp không có nhu cầu cấp đổi Giấy chứng nhận trong đợt này thì thực hiện xây dựng dữ liệu thuộc tính địa chính theo quy định tại Điều 13 của Thông tư này.
+
+2. Việc quét tài liệu và xử lý tệp tin được thực hiện theo quy định tại Điều 12 của Thông tư này và được thực hiện trước khi trao Giấy chứng nhận cho người sử dụng đất hoặc trước khi xuất sổ địa chính (điện tử).
+
+3. Thực hiện việc chỉnh lý, hoàn thiện dữ liệu không gian địa chính nếu có thay đổi trong quá trình kê khai đăng ký, cấp Giấy chứng nhận.
+
+Điều 28.Hoàn thiện dữ liệu địa chính
+
+1. Thực hiện hoàn thiện 100% thông tin trong cơ sở dữ liệu.
+
+2. Thực hiện xuất sổ địa chính (điện tử) theo khuôn dạng tệp tin PDF.
+
+Điều 29.Xây dựng siêu dữ liệu địa chính
+
+1. Thu nhận các thông tin cần thiết để xây dựng siêu dữ liệu (thông tin mô tả dữ liệu) địa chính.
+
+2. Nhập thông tin siêu dữ liệu địa chính theo đơn vị hành chính cấp xã.
+
+Điều 30.Kiểm tra, nghiệm thu cơ sở dữ liệu địa chính
+
+1. Đơn vị thi công có trách nhiệm:
+
+a) Chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu;
+
+b) Tổng hợp, xác định khối lượng sản phẩm đã thực hiện theo công đoạn công trình và kết thúc công trình;
+
+c) Lập biên bản bàn giao theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu có trách nhiệm:
+
+a) Thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu địa chính theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+b) Làm thủ tục xác nhận sản phẩm theo công đoạn công trình và kết thúc công trình.
+
+Điều 31.Đối soát, tích hợp dữ liệu vào hệ thống
+
+Văn phòng đăng ký đất đai thực hiện:
+
+1. Đối soát thông tin của thửa đất trong cơ sở dữ liệu với nguồn tài liệu, dữ liệu đã sử dụng để xây dựng cơ sở dữ liệu.
+
+2. Rà soát, cập nhật bổ sung cơ sở dữ liệu đối với các trường hợp biến động sau thời điểm nghiệm thu sản phẩm cơ sở dữ liệu địa chính đến thời điểm triển khai tích hợp vào hệ thống.
+
+3. Thực hiện ký số vào sổ địa chính (điện tử).
+
+4. Tích hợp dữ liệu vào hệ thống, xử lý những sai sót về thông tin thuộc tính địa chính trong quá trình tích hợp.
+
+
+
+Mục 2
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU
+
+VỀ THỐNG KÊ, KIỂM KÊ ĐẤT ĐAI
+
+
+
+Điều 32.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện từng bước công việc; lập kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai trên địa bàn thi công.
+
+2. Chuẩn bị nhân lực, địa điểm làm việc.
+
+3. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm phục vụ cho công tác xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 33.Thu thập tài liệu, dữ liệu
+
+Tài liệu, dữ liệu được thu thập cho việc xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai gồm:
+
+1. Bản đồ hiện trạng sử dụng đất, bản đồ kết quả điều tra kiểm kê đất đai của kỳ kiểm kê gần nhất.
+
+2. Các báo cáo, biểu, bảng số liệu thống kê, kiểm kê đất đai cấp xã, cấp huyện, cấp tỉnh theo quy định của Bộ Tài nguyên và Môi trường về thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất từ thời điểm năm 2000.
+
+3. Dữ liệu, tài liệu kiểm kê theo chuyên đề (nếu có).
+
+Điều 34.Rà soát, đánh giá, phân loại và sắp xếp tài liệu, dữ liệu
+
+1. Rà soát, đánh giá mức độ đầy đủ về các thành phần, nội dung của tài liệu, dữ liệu; xác định được thời gian xây dựng, mức độ đầy đủ thông tin, tính pháp lý của từng tài liệu, dữ liệu để lựa chọn sử dụng cho việc xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Kết quả rà soát phải phân loại được từng loại tài liệu, dữ liệu sử dụng để xây dựng dữ liệu không gian kiểm kê đất đai và xây dựng dữ liệu thuộc tính thống kê, kiểm kê đất đai theo quy định sau:
+
+a) Tài liệu để xây dựng dữ liệu không gian kiểm kê đất đai gồm: bản đồ kết quả điều tra kiểm kê đất đai, bản đồ hiện trạng sử dụng đất;
+
+b) Tài liệu để xây dựng dữ liệu thuộc tính thống kê, kiểm kê đất đai gồm: báo cáo, bảng, biểu số liệu thống kê, kiểm kê đất đai (đối với cấp tỉnh, cấp huyện, cấp xã) và bảng liệt kê danh sách các khoanh đất thống kê, kiểm kê đất đai (đối với cấp xã).
+
+2. Tài liệu thống kê, kiểm kê đất đai phải được làm sạch, sắp xếp theo trình tự thời gian hình thành tài liệu, theo các kỳ thống kê, kiểm kê, theo đơn vị hành chính.
+
+3. Lập báo cáo kết quả thực hiện tại khoản 1 Điều này và lựa chọn tài liệu, dữ liệu nguồn.
+
+Điều 35.Xây dựng dữ liệu không gian kiểm kê đất đai
+
+1. Chuẩn hóa các lớp đối tượng không gian kiểm kê đất đai:
+
+a) Lập bảng đối chiếu giữa lớp đối tượng không gian kiểm kê đất đai với nội dung tương ứng trong bản đồ kết quả điều tra kiểm kê và lập bảng đối chiếu giữa lớp đối tượng không gian kiểm kê đất đai với nội dung tương ứng trong bản đồ hiện trạng sử dụng đất để tách, lọc các đối tượng từ nội dung bản đồ kết quả điều tra kiểm kê và bản đồ hiện trạng sử dụng đất;
+
+b) Chuẩn hóa các lớp đối tượng không gian kiểm kê đất đai chưa phù hợp với quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+c) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian kiểm kê đất đai theo quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường; nhập bổ sung các thông tin thuộc tính cho đối tượng không gian kiểm kê đất đai còn thiếu (nếu có).
+
+2. Chuyển đổi và tích hợp dữ liệu không gian kiểm kê đất đai:
+
+a) Chuyển đổi các lớp đối tượng không gian kiểm kê đất đai từ tệp (File) bản đồ số của bản đồ kết quả điều tra kiểm kê và bản đồ hiện trạng sử dụng đất vào cơ sở dữ liệu theo đơn vị hành chính;
+
+b) Rà soát dữ liệu không gian để xử lý các lỗi dọc biên giữa các đơn vị hành chính tiếp giáp nhau. Trường hợp có mâu thuẫn cần xử lý đồng bộ với các loại hồ sơ có liên quan, kết quả xử lý các đối tượng còn mâu thuẫn được lập theo Phụ lục số 04 kèm theo Thông tư này.
+
+Điều 36.Quét giấy tờ pháp lý và xử lý tệp tin
+
+1. Quét các giấy tờ đưa vào cơ sở dữ liệu thống kê, kiểm kê đất đai. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các tài liệu quét bao gồm: các báo cáo, biểu, bảng số liệu là sản phẩm của công tác thống kê, kiểm kê đất đai các cấp theo quy định.
+
+2. Xử lý các tệp tin quét hình thành tệp (File) hồ sơ quét tài liệu thống kê, kiểm kê đất đai dạng số, lưu trữ dưới khuôn dạng tệp tin PDF; chất lượng hình ảnh số sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo danh mục tra cứu hồ sơ quét trong cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 37.Xây dựng dữ liệu thuộc tính thống kê, kiểm kê đất đai
+
+1. Đối với tài liệu, số liệu là bảng, biểu dạng số thì thực hiện như sau:
+
+a) Lập mô hình chuyển đổi cơ sở dữ liệu thống kê, kiểm kê đất đai;
+
+b) Chuyển đổi vào cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+2. Đối với tài liệu, số liệu là báo cáo dạng số thì tạo danh mục tra cứu trong cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+3. Đối với tài liệu, số liệu là bảng, biểu, báo cáo dạng giấy thì không xây dựng dữ liệu thuộc tính mà sử dụng danh mục tra cứu theo quy định tại khoản 3 Điều 36 của Thông tư này.
+
+Điều 38.Đối soát, hoàn thiện dữ liệu thống kê, kiểm kê đất đai
+
+Đối soát và hoàn thiện chất lượng dữ liệu thống kê, kiểm kê đất đai của 100% khoanh đất, các báo cáo, bảng biểu số liệu với tài liệu thống kê, kiểm kê đất đai đã sử dụng để xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 39.Xây dựng siêu dữ liệu thống kê, kiểm kê đất đai
+
+1. Thu nhận các thông tin cần thiết để xây dựng siêu dữ liệu (thông tin mô tả dữ liệu) thống kê, kiểm kê đất đai.
+
+2. Nhập thông tin siêu dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 40.Kiểm tra, nghiệm thu cơ sở dữ liệu thống kê, kiểm kê đất đai
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát kiểm tra, nghiệm thu. Lập biên bản bàn giao cơ sở dữ liệu thống kê, kiểm kê đất đai theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu thống kê, kiểm kê đất đai theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+3. Thực hiện kiểm tra tổng thể cơ sở dữ liệu thống kê, kiểm kê đất đai và tích hợp vào hệ thống ngay sau khi được nghiệm thu để phục vụ quản lý, vận hành, khai thác sử dụng.
+
+
+
+
+
+Mục 3
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU QUY HOẠCH, KẾ HOẠCH SỬ DỤNG ĐẤT
+
+
+
+Điều 41.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất trên địa bàn thi công.
+
+2. Chuẩn bị nhân lực, địa điểm làm việc.
+
+3. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm cho công tác xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 42.Thu thập tài liệu, dữ liệu
+
+1. Tài liệu, dữ liệu được thu thập cho việc xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất cấp tỉnh gồm: Nghị quyết của Chính phủ; báo cáo thuyết minh tổng hợp; bản đồ hiện trạng sử dụng đất; bản đồ quy hoạch sử dụng đất và bản đồ điều chỉnh quy hoạch sử dụng đất; bản đồ kế hoạch sử dụng đất; bản đồ chuyên đề (nếu có).
+
+2. Tài liệu, dữ liệu được thu thập cho việc xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất cấp huyện gồm: Quyết định của Ủy ban nhân dân cấp tỉnh; báo cáo thuyết minh tổng hợp; bản đồ hiện trạng sử dụng đất; bản đồ quy hoạch sử dụng đất và bản đồ điều chỉnh quy hoạch sử dụng đất, bản đồ kế hoạch sử dụng đất năm đầu và hàng năm; bản đồ chuyên đề (nếu có).
+
+Điều 43.Rà soát, đánh giá, phân loại và sắp xếp tài liệu, dữ liệu
+
+1. Rà soát, đánh giá mức độ đầy đủ về các thành phần, nội dung của tài liệu, dữ liệu; xác định được thời gian xây dựng, mức độ đầy đủ thông tin, tính pháp lý của từng tài liệu, dữ liệu để lựa chọn sử dụng cho việc xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất theo quy định sau:
+
+Kết quả rà soát phải phân loại được từng loại tài liệu, dữ liệu sử dụng để xây dựng dữ liệu không gian quy hoạch, kế hoạch sử dụng đất và xây dựng dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất.
+
+a) Phân loại, lựa chọn tài liệu để xây dựng dữ liệu không gian quy hoạch, kế hoạch sử dụng đất.
+
+Tài liệu để xây dựng dữ liệu không gian quy hoạch, kế hoạch sử dụng đất gồm: bản đồ hiện trạng sử dụng đất, bản đồ quy hoạch sử dụng đất và bản đồ điều chỉnh quy hoạch sử dụng đất, bản đồ kế hoạch sử dụng đất, bản đồ kế hoạch sử dụng đất năm đầu và hàng năm, bản đồ chuyên đề (nếu có);
+
+b) Phân loại, lựa chọn tài liệu để xây dựng dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất.
+
+Tài liệu để xây dựng dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất gồm: Nghị quyết của Chính phủ, báo cáo thuyết minh tổng hợp, Quyết định của Ủy ban nhân dân cấp tỉnh.
+
+2. Tài liệu quy hoạch, kế hoạch sử dụng đất được làm sạch và sắp xếp theo trình tự thời gian hình thành tài liệu quy hoạch, kế hoạch sử dụng đất.
+
+3. Lập báo cáo kết quả thực hiện tại khoản 1 Điều này và lựa chọn tài liệu, dữ liệu nguồn.
+
+Điều 44.Xây dựng dữ liệu không gian quy hoạch, kế hoạch sử dụng đất
+
+1. Chuẩn hóa các lớp đối tượng không gian quy hoạch, kế hoạch sử dụng đất:
+
+a) Lập bảng đối chiếu giữa lớp đối tượng không gian quy hoạch, kế hoạch sử dụng đất với nội dung tương ứng trong bản đồ quy hoạch, kế hoạch sử dụng đất để tách, lọc các đối tượng cần thiết từ nội dung bản đồ quy hoạch, kế hoạch sử dụng đất;
+
+b) Chuẩn hóa các lớp đối tượng không gian quy hoạch, kế hoạch sử dụng đất chưa phù hợp với quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường;
+
+c) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian quy hoạch, kế hoạch sử dụng đất theo quy định kỹ thuật về cơ sở dữ liệu đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+2. Chuyển đổi và tích hợp không gian quy hoạch, kế hoạch sử dụng đất:
+
+a) Chuyển đổi các lớp đối tượng không gian quy hoạch, kế hoạch sử dụng đất của bản đồ vào cơ sở dữ liệu đất đai theo đơn vị hành chính;
+
+b) Rà soát dữ liệu không gian để xử lý các lỗi dọc biên giữa các đơn vị hành chính tiếp giáp nhau. Trường hợp có mâu thuẫn cần xử lý đồng bộ với các loại hồ sơ có liên quan, thống kê kết quả xử lý các đối tượng còn mâu thuẫn theo Phụ lục số 04 kèm theo Thông tư này.
+
+Điều 45.Quét giấy tờ pháp lý và xử lý tệp tin
+
+1. Quét các giấy tờ đưa vào cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các tài liệu quét là sản phẩm dạng giấy của công tác quy hoạch, kế hoạch sử dụng đất các cấp bao gồm:
+
+a) Nghị quyết phê duyệt quy hoạch, kế hoạch sử dụng đất và báo cáo về quy hoạch, kế hoạch sử dụng đất kèm theo cấp tỉnh;
+
+b) Quyết định phê duyệt quy hoạch, kế hoạch sử dụng đất và phụ lục về quy hoạch, kế hoạch sử dụng đất kèm theo cấp huyện.
+
+2. Xử lý tệp tin quét hình thành tệp (File) hồ sơ quét tài liệu quy hoạch, kế hoạch sử dụng đất dạng số, lưu trữ dưới khuôn dạng tệp tin PDF; chất lượng hình ảnh số sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo danh mục tra cứu hồ sơ quét trong cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 46.Xây dựng dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất
+
+1. Đối với tài liệu, số liệu là bảng, biểu dạng số thì thực hiện như sau:
+
+a) Lập mô hình chuyển đổi cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;
+
+b) Chuyển đổi vào cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+2. Đối với tài liệu, số liệu là báo cáo dạng số thì tạo danh mục tra cứu trong cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+3. Nhập dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất gồm:
+
+a) Số nghị quyết của Chính phủ phê duyệt quy hoạch, kế hoạch sử dụng đất cấp tỉnh;
+
+b) Số quyết định của Uỷ ban nhân dân cấp tỉnh phê duyệt quy hoạch, kế hoạch sử dụng đất cấp huyện;
+
+c) Tên công trình, dự án sử dụng đất;
+
+d) Mục đích sử dụng đất của công trình, dự án theo quy hoạch;
+
+đ) Diện tích sử dụng đất của công trình, dự án;
+
+e) Năm thực hiện công trình, dự án theo kế hoạch sử dụng đất được phê duyệt.
+
+Điều 47.Đối soát, hoàn thiện dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+Đối soát và hoàn thiện chất lượng dữ liệu quy hoạch, kế hoạch sử dụng đất của 100% các vùng quy hoạch (công trình, dự án), các báo cáo, bảng biểu số liệu với tài liệu quy hoạch, kế hoạch sử dụng đất để xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 48.Xây dựng siêu dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+1. Thu nhận các thông tin cần thiết để xây dựng siêu dữ liệu (thông tin mô tả dữ liệu) quy hoạch, kế hoạch sử dụng đất.
+
+2. Nhập thông tin siêu dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 49.Kiểm tra, nghiệm thu cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát kiểm tra, nghiệm thu. Lập biên bản bàn giao cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+3. Thực hiện kiểm tra tổng thể cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất và tích hợp vào hệ thống ngay sau khi được nghiệm thu phục vụ quản lý, vận hành, khai thác sử dụng.
+
+
+
+Mục 4
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU GIÁ ĐẤT
+
+
+
+Điều 50.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu giá đất trên địa bàn thi công.
+
+2. Chuẩn bị nhân lực, địa điểm làm việc.
+
+3. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm cho công tác xây dựng cơ sở dữ liệu giá đất.
+
+Điều 51.Thu thập tài liệu, dữ liệu
+
+1. Tài liệu, dữ liệu được thu thập cho việc xây dựng cơ sở dữ liệu giá đất gồm:
+
+a) Quyết định ban hành bảng giá đất; Quyết định điều chỉnh, bổ sung bảng giá đất; Quyết định ban hành hệ số điều chỉnh giá đất; Quyết định phê duyệt giá đất cụ thể; Quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất;
+
+b) Phiếu thu thập thông tin về thửa đất.
+
+2. Tài liệu, dữ liệu quy định tại khoản 1 Điều này là các tài liệu, dữ liệu được hình thành sau ngày 01 tháng 7 năm 2014.
+
+Điều 52.Rà soát, đánh giá, phân loại và sắp xếp tài liệu, dữ liệu
+
+1. Rà soát, đánh giá, phân loại:
+
+a) Nội dung rà soát, đánh giá phải xác định được thời gian xây dựng, mức độ đầy đủ thông tin, tính pháp lý của từng tài liệu, dữ liệu để lựa chọn sử dụng cho việc xây dựng cơ sở dữ liệu giá đất;
+
+b) Phân loại, lựa chọn tài liệu để xây dựng dữ liệu giá đất gồm: Quyết định ban hành bảng giá đất; Quyết định điều chỉnh, bổ sung bảng giá đất; Quyết định ban hành hệ số điều chỉnh giá đất; Quyết định phê duyệt giá đất cụ thể; Quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất; Phiếu thu thập thông tin về thửa đất.
+
+2. Tài liệu giá đất phải được làm sạch, sắp xếp theo các nhóm dữ liệu giá đất, theo trình tự thời gian hình thành tài liệu, dữ liệu.
+
+3. Lập báo cáo kết quả thực hiện tại khoản 1 Điều này.
+
+Điều 53.Dữ liệu không gian giá đất
+
+Sử dụng dữ liệu không gian địa chính làm dữ liệu không gian giá đất.
+
+Điều 54.Quét giấy tờ pháp lý và xử lý tệp tin
+
+1. Quét các giấy tờ đưa vào cơ sở dữ liệu giá đất. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các tài liệu quét bao gồm:
+
+a) Quyết định ban hành bảng giá đất; Quyết định điều chỉnh, bổ sung bảng giá đất; Quyết định ban hành hệ số điều chỉnh giá đất;
+
+b) Quyết định phê duyệt giá đất cụ thể; Quyết định công nhận kết quả trúng đấu giá quyền sử dụng đất; Phiếu thu thập thông tin về thửa đất.
+
+2. Xử lý tệp tin quét thành tệp (File) hồ sơ tài liệu giá đất dạng số, lưu trữ dưới khuôn dạng tệp tin PDF; chất lượng hình ảnh số sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo danh mục tra cứu hồ sơ quét trong cơ sở dữ liệu giá đất.
+
+4. Tạo liên kết bộ tài liệu quét giá đất quy định tại điểm b khoản 1 Điều này với thửa đất trong cơ sở dữ liệu.
+
+Điều 55.Xây dựng dữ liệu thuộc tính giá đất
+
+Nhập dữ liệu thuộc tính giá đất vào cơ sở dữ liệu giá đất gồm:
+
+1. Dữ liệu giá đất theo bảng giá đất đối với địa phương đã ban hành bảng giá đất đến từng thửa đất.
+
+2. Dữ liệu giá đất cụ thể.
+
+3. Dữ liệu giá đất trúng đấu giá quyền sử dụng đất.
+
+4. Dữ liệu giá đất chuyển nhượng trên thị trường theo Phiếu thu thập thông tin về thửa đất.
+
+5. Dữ liệu vị trí thửa đất, tên đường, phố hoặc tên đoạn đường, đoạn phố hoặc khu vực theo bảng giá đất, hệ số điều chỉnh giá đất (đối với thửa đất đã có Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai).
+
+Điều 56.Đối soát, hoàn thiện dữ liệu giá đất
+
+Đối soát và hoàn thiện chất lượng dữ liệu giá đất với các tài liệu giá đất đã sử dụng để xây dựng cơ sở dữ liệu giá đất.
+
+Điều 57.Xây dựng siêu dữ liệu giá đất
+
+1. Thu nhận các thông tin cần thiết để xây dựng siêu dữ liệu (thông tin mô tả dữ liệu) giá đất.
+
+2. Nhập thông tin siêu dữ liệu giá đất.
+
+Điều 58.Kiểm tra, nghiệm thu cơ sở dữ liệu giá đất
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu. Lập biên bản bàn giao cơ sở dữ liệu giá đất theo Phụ lục số 06 kèm theo Thông tư này.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu giá đất theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+3. Thực hiện kiểm tra tổng thể cơ sở dữ liệu giá đất và tích hợp vào hệ thống ngay sau khi được nghiệm thu phục vụ quản lý, vận hành, khai thác sử dụng.
+
+
+
+Chương III
+
+QUY TRÌNH XÂY DỰNG CƠ SỞ DỮ LIỆU ĐẤT ĐAI DO CƠ QUAN  TRUNG ƯƠNG TỔ CHỨC XÂY DỰNG
+
+
+
+Mục 1
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU VỀ THỐNG KÊ, KIỂM KÊ ĐẤT ĐAI
+
+
+
+Điều 59.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+2. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm cho công tác xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+3. Chuẩn bị nhân lực, địa điểm làm việc.
+
+Điều 60.Thu thập tài liệu, dữ liệu
+
+1. Tài liệu, dữ liệu báo cáo, biểu, bảng số liệu thống kê, kiểm kê đất đai các vùng và cả nước từ thời điểm năm 2000.
+
+2. Bản đồ hiện trạng sử dụng đất các vùng và cả nước của kỳ kiểm kê gần nhất.
+
+3. Bản đồ chuyên đề (nếu có).
+
+4. Các tài liệu, dữ liệu và các cơ sở dữ liệu khác có liên quan đến xây dựng cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 61.Xây dựng dữ liệu không gian kiểm kê đất đai
+
+1. Chuẩn hóa các lớp đối tượng không gian hiện trạng sử dụng đất:
+
+a) Tách, lọc các đối tượng từ nội dung bản đồ hiện trạng sử dụng đất;
+
+b) Chuẩn hóa các lớp đối tượng bản đồ hiện trạng sử dụng đất;
+
+c) Nhập bổ sung các thông tin thuộc tính cho đối tượng không gian bản đồ hiện trạng sử dụng đất còn thiếu (nếu có);
+
+d) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian hiện trạng sử dụng đất.
+
+2. Chuyển đổi và tích hợp dữ liệu không gian hiện trạng sử dụng đất:
+
+a) Chuyển đổi các lớp dữ liệu không gian hiện trạng sử dụng đất từ tệp (File) bản đồ số vào cơ sở dữ liệu;
+
+b) Rà soát dữ liệu không gian hiện trạng sử dụng đất để xử lý các lỗi dọc biên giữa các tỉnh, các vùng.
+
+Điều 62.Quét giấy tờ pháp lý và xử lý tệp tin
+
+1. Quét các giấy tờ đưa vào cơ sở dữ liệu thống kê, kiểm kê đất đai. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các tài liệu quét bao gồm: các báo cáo, biểu, bảng số liệu thống kê, kiểm kê đất đai cấp vùng và cả nước.
+
+2. Xử lý các tệp tin quét hình thành tệp (File) hồ sơ quét tài liệu thống kê, kiểm kê đất đai dạng số, lưu trữ dưới khuôn dạng tệp tin PDF; chất lượng hình ảnh số phải sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo danh mục tra cứu hồ sơ quét trong cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+Điều 63.Xây dựng dữ liệu thuộc tính thống kê, kiểm kê đất đai
+
+1. Đối với tài liệu, số liệu là bảng, biểu dạng số thì thực hiện như sau:
+
+a) Lập mô hình chuyển đổi cơ sở dữ liệu thống kê, kiểm kê đất đai;
+
+b) Chuyển đổi vào cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+2. Đối với tài liệu, số liệu là báo cáo dạng số thì tạo danh mục tra cứu trong cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+3. Đối với tài liệu, số liệu là bảng, biểu, báo cáo dạng giấy thì không xây dựng dữ liệu thuộc tính mà sử dụng danh mục tra cứu theo quy định tại khoản 3 Điều 62 của Thông tư này.
+
+Điều 64.Đối soát, hoàn thiện dữ liệu và xây dựng siêu dữ liệu thống kê, kiểm kê đất đai
+
+1. Thực hiện đối soát, hoàn thiện dữ liệu, tạo liên kết dữ liệu.
+
+2. Thu nhận các thông tin cần thiết về các dữ liệu để xây dựng siêu dữ liệu.
+
+3. Nhập thông tin siêu dữ liệu.
+
+Điều 65.Kiểm tra, nghiệm thu cơ sở dữ liệu thống kê, kiểm kê đất đai
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu. Đóng gói giao nộp cơ sở dữ liệu thống kê, kiểm kê đất đai.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu thống kê, kiểm kê đất đai theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+
+
+Mục 2
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU QUY HOẠCH, KẾ HOẠCH SỬ DỤNG ĐẤT
+
+
+
+Điều 66.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+2. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm cho công tác xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+3. Chuẩn bị nhân lực, địa điểm làm việc.
+
+Điều 67.Thu thập tài liệu, dữ liệu
+
+1. Tài liệu, dữ liệu về Nghị quyết của Quốc hội, báo cáo thuyết minh tổng hợp.
+
+2. Bản đồ hiện trạng sử dụng đất, bản đồ quy hoạch sử dụng đất và bản đồ điều chỉnh quy hoạch sử dụng đất cấp quốc gia, các vùng kinh tế - xã hội.
+
+3. Bản đồ chuyên đề (nếu có).
+
+4. Các tài liệu, dữ liệu và các cơ sở dữ liệu khác có liên quan đến xây dựng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 68.Xây dựng dữ liệu không gian quy hoạch, kế hoạch sử dụng đất
+
+1. Chuẩn hóa các lớp đối tượng không gian quy hoạch sử dụng đất:
+
+a) Tách, lọc các đối tượng từ nội dung bản đồ quy hoạch sử dụng đất;
+
+b) Chuẩn hóa các lớp đối tượng bản đồ quy hoạch sử dụng đất;
+
+c) Nhập bổ sung các thông tin thuộc tính cho đối tượng không gian bản đồ quy hoạch sử dụng đất còn thiếu (nếu có);
+
+d) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian quy hoạch sử dụng đất.
+
+2. Chuyển đổi và tích hợp dữ liệu không gian quy hoạch sử dụng đất:
+
+a) Chuyển đổi các lớp dữ liệu không gian quy hoạch sử dụng đất từ tệp (File) bản đồ số vào cơ sở dữ liệu đất đai;
+
+b) Rà soát dữ liệu không gian quy hoạch sử dụng đất để xử lý các lỗi dọc biên giữa các vùng kinh tế - xã hội.
+
+Điều 69.Quét tài liệu pháp lý và xử lý tệp tin
+
+1. Quét các giấy tờ đưa vào cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất. Chế độ quét của thiết bị được thiết lập theo hệ màu RGB với độ phân giải tối thiểu là 150 DPI. Các tài liệu quét là sản phẩm dạng giấy của công tác quy hoạch, kế hoạch sử dụng đất gồm: Nghị quyết của Quốc hội, các báo cáo thuyết minh tổng hợp.
+
+2. Xử lý tệp tin quét hình thành tệp (File) hồ sơ quét tài liệu quy hoạch, kế hoạch sử dụng đất dạng số, lưu trữ dưới khuôn dạng tệp tin PDF; chất lượng hình ảnh số sắc nét và rõ ràng, các hình ảnh được sắp xếp theo cùng một hướng, hình ảnh phải được quét vuông góc, không được cong vênh.
+
+3. Tạo danh mục tra cứu hồ sơ quét trong cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 70.Xây dựng dữ liệu thuộc tính quy hoạch, kế hoạch sử dụng đất
+
+1. Đối với tài liệu, số liệu là bảng, biểu dạng số thì thực hiện như sau:
+
+a) Lập mô hình chuyển đổi cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;
+
+b) Chuyển đổi vào cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+2. Đối với tài liệu, số liệu là báo cáo dạng số thì tạo danh mục tra cứu trong cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+Điều 71.Đối soát, hoàn thiện dữ liệu và xây dựng siêu dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+1. Thực hiện đối soát, hoàn thiện dữ liệu, tạo liên kết dữ liệu.
+
+2. Thu nhận các thông tin cần thiết về các dữ liệu để xây dựng siêu dữ liệu.
+
+3. Nhập thông tin siêu dữ liệu.
+
+Điều 72.Kiểm tra, nghiệm thu cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu. Đóng gói giao nộp cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+
+
+Mục 3
+
+XÂY DỰNG CƠ SỞ DỮ LIỆU GIÁ ĐẤT
+
+
+
+Điều 73.Công tác chuẩn bị
+
+1. Lập kế hoạch thi công chi tiết: xác định thời gian, địa điểm, khối lượng và nhân lực thực hiện của từng bước công việc; kế hoạch làm việc với các đơn vị có liên quan đến công tác xây dựng cơ sở dữ liệu giá đất.
+
+2. Chuẩn bị vật tư, thiết bị, dụng cụ, phần mềm cho công tác xây dựng cơ sở dữ liệu giá đất.
+
+3. Chuẩn bị nhân lực, địa điểm làm việc.
+
+Điều 74.Thu thập tài liệu, dữ liệu
+
+Tài liệu, dữ liệu được thu thập cho việc xây dựng cơ sở dữ liệu giá đất của Trung ương gồm:
+
+1. Nghị định quy định về khung giá đất, khung giá đất điều chỉnh đối với từng loại đất theo từng vùng.
+
+2. Giá đất, bản đồ giá đất tại khu vực giáp ranh giữa các tỉnh, thành phố trực thuộc Trung ương.
+
+Điều 75.Xây dựng dữ liệu không gian giá đất
+
+1. Chuẩn hóa các lớp đối tượng không gian của bản đồ giá đất tại khu vực giáp ranh:
+
+a) Tách, lọc các đối tượng từ nội dung bản đồ giá đất tại khu vực giáp ranh;
+
+b) Chuẩn hóa các lớp đối tượng bản đồ giá đất tại khu vực giáp ranh;
+
+c) Rà soát chuẩn hóa thông tin thuộc tính cho từng đối tượng không gian của bản đồ giá đất tại khu vực giáp ranh.
+
+2. Chuyển đổi và tích hợp dữ liệu không gian giá đất tại khu vực giáp ranh.
+
+Điều 76.Xây dựng dữ liệu thuộc tính giá đất
+
+Nhập dữ liệu giá đất tại khu vực giáp ranh giữa các tỉnh, thành phố trực thuộc Trung ương vào cơ sở dữ liệu giá đất.
+
+Điều 77.Đối soát, hoàn thiện dữ liệu và xây dựng siêu dữ liệu giá đất
+
+1. Thực hiện đối soát, hoàn thiện dữ liệu, tạo liên kết dữ liệu.
+
+2. Thu nhận các thông tin cần thiết về các dữ liệu để xây dựng siêu dữ liệu.
+
+3. Nhập thông tin siêu dữ liệu.
+
+Điều 78.Kiểm tra, nghiệm thu cơ sở dữ liệu giá đất
+
+1. Đơn vị thi công chuẩn bị tài liệu và phục vụ giám sát, kiểm tra, nghiệm thu. Đóng gói giao nộp cơ sở dữ liệu giá đất.
+
+2. Đơn vị kiểm tra, nghiệm thu thực hiện kiểm tra khối lượng, chất lượng cơ sở dữ liệu giá đất theo quy định về công tác giám sát, kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực quản lý đất đai của Bộ trưởng Bộ Tài nguyên và Môi trường.
+
+
+
+Chương IV
+
+CẬP NHẬT CƠ SỞ DỮ LIỆU ĐẤT ĐAI
+
+
+
+Điều 79.Cập nhật, chỉnh lý cơ sở dữ liệu địa chính
+
+1. Việc cập nhật, chỉnh lý cơ sở dữ liệu địa chính được thực hiện liên tục, thường xuyên ngay trong quá trình giải quyết thủ tục hành chính về đất đai như sau:
+
+a) Cơ quan tiếp nhận hồ sơ thực hiện việc nhập thông tin và quét hồ sơ do người sử dụng đất, người quản lý đất nộp khi thực hiện thủ tục hành chính về đất đai và luân chuyển hồ sơ số qua hệ thống thông tin đất đai theo quy trình xử lý thủ tục hành chính;
+
+b) Việc nhập thông tin vào cơ sở dữ liệu địa chính được cơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện trên hệ thống thông tin đất đai thông qua phần mềm ứng dụng khi giải quyết thủ tục hành chính về đất đai.
+
+2. Thông tin cập nhật phải đảm bảo tính đầy đủ, thống nhất đồng thời trên các khối dữ liệu gồm: dữ liệu không gian, dữ liệu thuộc tính, dữ liệu hồ sơ quét, dữ liệu hồ sơ giải quyết thủ tục hành chính theo quy trình điện tử đã được thiết lập trên hệ thống tương ứng với thủ tục hành chính theo quy định và được thiết lập chế độ bảo vệ (chỉ cho phép đọc) sau khi kết thúc thủ tục hành chính.
+
+Điều 80.Cập nhật cơ sở dữ liệu thống kê, kiểm kê đất đai
+
+1. Cơ sở dữ liệu thống kê, kiểm kê đất đai được cập nhật theo các kỳ thống kê, kiểm kê sau khi cơ quan có thẩm quyền phê duyệt, công bố.
+
+2. Tổng cục Quản lý đất đai thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu thống kê, kiểm kê đất đai do cơ quan Trung ương xây dựng.
+
+3. Văn phòng đăng ký đất đai thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu thống kê, kiểm kê đất đai do tỉnh, thành phố trực thuộc Trung ương xây dựng.
+
+Điều 81.Cập nhật cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất
+
+1. Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất được cập nhật theo kết quả điều chỉnh trong kỳ hoặc kết quả lập quy hoạch, kế hoạch sử dụng đất của kỳ tiếp theo sau khi cơ quan có thẩm quyền phê duyệt.
+
+2. Tổng cục Quản lý đất đai thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất do cơ quan Trung ương xây dựng.
+
+3. Sở Tài nguyên và Môi trường thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất do tỉnh, thành phố trực thuộc Trung ương xây dựng.
+
+Điều 82.Cập nhật cơ sở dữ liệu giá đất
+
+1. Cơ sở dữ liệu giá đất được cập nhật theo kết quả xác định giá đất tại khu vực giáp ranh; xây dựng, điều chỉnh, bổ sung bảng giá đất; định giá đất cụ thể; trúng đấu giá quyền sử dụng đất; Phiếu thu thập thông tin về thửa đất; Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai.
+
+2. Tổng cục Quản lý đất đai thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu giá đất do cơ quan Trung ương xây dựng.
+
+3. Sở Tài nguyên và Môi trường thực hiện việc cập nhật dữ liệu vào hệ thống đối với cơ sở dữ liệu giá đất do tỉnh, thành phố trực thuộc Trung ương xây dựng.
+
+
+
+Chương V
+
+TỔ CHỨC THỰC HIỆN
+
+
+
+Điều 83.Điều khoản chuyển tiếp
+
+Đối với công trình, dự án xây dựng cơ sở dữ liệu đất đai hoặc có hạng mục xây dựng cơ sở dữ liệu đất đai đã được phê duyệt, thực hiện trước ngày Thông tư này có hiệu lực thi hành mà chưa hoàn thành thì thực hiện như sau:
+
+1. Các công trình, dự án có nội dung Thiết kế kỹ thuật - Dự toán đã được phê duyệt mà chưa được triển khai thực hiện thì chủ đầu tư có trách nhiệm rà soát, điều chỉnh bổ sung theo quy định tại Thông tư này để phê duyệt bổ sung và tổ chức thực hiện.
+
+2. Các công trình, dự án đang triển khai nhưng chưa được nghiệm thu cấp đơn vị thi công theo Thiết kế kỹ thuật - Dự toán đã được phê duyệt thì chủ đầu tư có trách nhiệm rà soát, điều chỉnh bổ sung Thiết kế kỹ thuật - Dự toán cho phù hợp với quy định tại Thông tư này để đơn vị thi công tiếp tục thực hiện.
+
+3. Các công trình, dự án đang triển khai mà đã nghiệm thu công đoạn cấp đơn vị thi công theo Thiết kế kỹ thuật - Dự toán đã được phê duyệt thì chủ đầu tư thực hiện nghiệm thu với những nội dung, khối lượng đã thực hiện và rà soát, điều chỉnh bổ sung Thiết kế kỹ thuật - Dự toán cho phù hợp với quy định tại Thông tư này để tổ chức thực hiện.
+
+Điều 84.Lập Thiết kế kỹ thuật - Dự toán xây dựng cơ sở dữ liệu đất đai
+
+1. Thiết kế kỹ thuật - Dự toán xây dựng cơ sở dữ liệu đất đai được lập theo quy định tại Thông tư này và quy định của Bộ Tài nguyên và Môi trường về quản lý dự án, công trình trong lĩnh vực quản lý đất đai.
+
+2. Sau khi Thiết kế kỹ thuật - Dự toán xây dựng cơ sở dữ liệu đất đai được cấp có thẩm quyền phê duyệt, phải nộp Quyết định phê duyệt kèm theo Thiết kế kỹ thuật - Dự toán xây dựng cơ sở dữ liệu đất đai (bản số) về Tổng cục Quản lý đất đai để kiểm tra, theo dõi.
+
+3. Bố cục, nội dung của Thiết kế kỹ thuật - Dự toán xây dựng cơ sở dữ liệu đất đai theo Phụ lục số 07 kèm theo Thông tư này.
+
+Điều 85.Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15 tháng 7 năm 2017.
+
+2. Thông tư này thay thế Thông tư số 04/2013/TT-BTNMT ngày 24 tháng 4 năm 2013 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về xây dựng cơ sơ dữ liệu đất đai.
+
+Điều 86.Trách nhiệm thực hiện
+
+1. Tổng cục Quản lý đất đai có trách nhiệm kiểm tra việc thực hiện Thông tư này.
+
+2. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phổ biến và chỉ đạo thực hiện Thông tư này.
+
+3. Sở Tài nguyên và Môi trường có trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương triển khai thực hiện Thông tư này.
+
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, giải quyết./.
+
+
+
+
+
+
+
+
+

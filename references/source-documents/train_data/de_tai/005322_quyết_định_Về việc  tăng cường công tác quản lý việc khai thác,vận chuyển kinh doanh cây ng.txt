@@ -1,0 +1,240 @@
+# Về việc  tăng cường công tác quản lý việc khai thác,vận chuyển kinh doanh cây nguyên liệu giấy
+# Loại: Quyết định
+# Số hiệu: 14/1997/CT-UB
+# Ngày ban hành: 14/05/1997
+# Cơ quan: UBND tỉnh Phú Thọ
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+Số: 21/2000/TT-BTM, ngày 14 tháng 11 năm 2000( văn bn pháp quy số 24 năm 2000)THÔNG TƯ
+
+Về quản lý chất lượng dầu nhờn động cơ trong lưu thông
+
+
+
+Căn cứ luật thương mại ngày 10 tháng 5 năm 1997.
+
+Căn cứ Nghị định Số 95/CP ngày 4/12/1993 của Chính phủ về nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Thương mại.
+
+Nhằm tăng cường quản lý Nhà nước đối với chất lượng dầu nhờn động cơ, Bộ thương mại hướng dẫn về quản lý chất lượng dầu nhờn động cơ trong lưu thông như sau:
+
+
+
+1. Đối tượng và phạm vi áp dụng
+
+a. Các tổ chức, cá nhân, kể cả tổ chức và cá nhân nước ngoài (gọi tắt là thương nhân), hoạt động kinh doanh dầu nhờn động cơ tại Việt Nam bao gồm: nhập khẩu, bán buôn, bán lẻ.
+
+b. Các loại dầu nhờn dùng cho động cơ pít-tông (không kể loại dùng cho tàu hàng hải) bao gồm: Động cơ đốt trong 4 kỳ và 2 kỳ sử dụng nhiên liệu đốt là xăng hoặc đi-ê-zen (DO - Diesel Oil) hoặc khí tự nhiên (natural gas).
+
+c. Thông tư này không áp dụng đối với dầu bôi trơn động cơ máy bay.
+
+2. Quy định về ghi nhãn đối với dầu nhờn động cơ:
+
+Dầu nhờn động cơ lưu thông trên thị trường Việt Nam phải thực hiện ghih nhãn hàng hoá theo quy định của pháp luật hiện hành và Văn bản số 486/BTM - QLCL ngày 21/7/20000 của Bộ Thương mại.
+
+3. Các quy định về chất lượng
+
+3.1 Phân cấp độ nhớt và phân cấp chất lượng:
+
+a. Phân cấp độ nhớt: Cấp độ nhớt của dầu nhờn động cơ nêu tại khoản b, mục 1 được sử dụng theo hệ thống phân cấp độ nhớt của Hiệp hội kỹ sư ô tô Hoa kỳ- SAE (Society of Automoive Engineers) tại bảng 1.
+
+Bảng 1
+
+CÁC CẤP ĐỘ NHỚT CỦA DẦU NHỜN ĐỘNG CƠ PHÂN LOẠI THEO SAE
+
+Cấp độ nhớt SAE
+
+Độ nhớt ở 1000C, cSt
+
+Nhỏ nhất
+
+Lớn nhất
+
+OW
+
+3,8
+
+-
+
+5W
+
+3,8
+
+-
+
+10W
+
+4,1
+
+-
+
+15W
+
+5,6
+
+-
+
+20W
+
+5,6
+
+-
+
+25W
+
+9,3
+
+-
+
+20
+
+5,6S
+
+< 9,3
+
+30
+
+9,3
+
+< 12,5
+
+40
+
+12,5
+
+< 16,3
+
+50
+
+16,3
+
+< 21,9
+
+60
+
+21,9
+
+< 26,1
+
+b. Phân cấp chất lượng: Cấp chất lượng của dầu nhờn động cơ nêu tại khoản b, mục 1, được sử dụng theo hệ thống cấp chất lượng của Viện nghiên cứu dầu mỏ Hoa kỳ- API (American Petroleum Institute) tại bảng 2.
+
+Bảng 2
+
+CÁC CẤP CHẤT LƯỢNG CỦA DẦU NHỜN ĐỘNG CƠ PHÂN LOẠI THEO API
+
+Loại dầu nhờn
+
+Cấp chất lượng
+
+Dầu nhờn động cơ dùng cho động cơ xăng
+
+SA, SB, SC, SD, SE, SF, SG, ...
+
+Dầu nhờn động cơ dùng cho động cơ đi ê zen
+
+CA, CB, CC, CD, CE, ...
+
+Dầu nhờn động cơ đa năng dùng cho cả động cơ xăng và đi- ê- zen bao gồm cả hai ký hiệu trên
+
+
+
+SA/CB, SG/CD,...
+
+3.2 Các chỉ tiêu bắt buộc và cấp tối thiểu:
+
+Các chỉ tiêu bắt buộc và cấp chất lượng tối thiểu dầu nhờn động cơ nêu tại khoản b, mục 1 được phép lưu thông trên thhị trường Việt Nam theo quy định tại Bảng 3 (tương ứng với cấp chất lượng SC/CB).
+
+Bảng 3.
+
+CÁC CHỈ TIÊU BẮT BUỘC VÀ CẤP CHẤT LƯỢNG TỐI THIỂU
+
+Số TT
+
+Tên chỉ tiêu
+
+Mức giới hạn
+
+Phương pháp kiểm nghiệm
+
+1
+
+Độ nhớt động học ở 1000C (cSt)
+
+Theo bảng phân laọi cấp độ nhớt SAE
+
+ASTM - D445
+
+2
+
+Chỉ số độ nhớt
+
+Không nhỏ hơn 95
+
+ASTM - D 2270
+
+3
+
+Trị số kiềm tổng(TBN) (mg KOH/g)
+
+Không nhỏ hơn 2,4
+
+ASTM - D 2896
+
+4
+
+Nhiệt độ chớp cháy cốc hở (0C)
+
+Không nhỏ hơn 180
+
+ASTM - D 92
+
+5
+
+Độ tạo bọt ở 93,50 C (ml)
+
+Không lớn hơn 50/0
+
+ASTM - D 892
+
+6
+
+Tổng hàm lượng kim loại Ca, Mg, Zn (% khối lượng)
+
+Không nhỏ hơn 0,07
+
+ASTM - D 4628
+
+7
+
+Hàm lượng nước (% thể tích)
+
+Không lớn hơn 0,05
+
+ASTM - D 95
+
+(ASTM: Amercan Socity for Testinh Materials- Hội kiểm nghiệm nguyên vật liệu Hoa kỳ).
+
+3.3 Thương nhân chỉ được phép kinh doanh dầu nhờn động cơ có cấp chất lượng bàng hoặc lớn hơn cấp chất lượng tại bảng 3.
+
+3.4 Thương nhân là doanh nghiệp thuộc mọi thành phần kinh tế đã có giấy chứng nhận đăng ký kinh doanh ngành nghề phù hợp, đã đăng ký mã số doanh nghiệp xuất khẩu, nhập khẩu được nhập khẩu nguyên liệu và dầu nhờn thành phẩm để sản xuất, lưu thông theo quy định của Thông tư này.
+
+3.5 Cấp chất lượng thực tế, chỉ tiêu chất lượng đã công bố trên nhãn hàng hoá, hợp đồng mua bán và các quy định tại Thông tư này là cơ sở pháp lý để cơ quan thẩm quyền của Nhà nước kiểm tra, thanh tra chất lượng, kiểm soát thị trường đối với dầu nhờn động cơ.
+
+4. Điều khoản thi hành
+
+4.1 Thông tư này thay thế Thông tư Thông tư số 06/2000/TT-BTM ngày 20/3/2000 của Bộ Thương mại. Các quy định trái với Thông tư này đều bị bãi bỏ.
+
+4.2 Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ban hành./.
+
+
+
+
+
+

@@ -1,0 +1,456 @@
+# Về việc hướng dẫn việc quản lý chi tiêu về nghiên cứu khoa học kỹ thuật
+# Loại: Thông tư liên tịch
+# Số hiệu: 33/TC-UBKHKTNN
+# Ngày ban hành: 21/10/1975
+# Cơ quan: Bộ Tài chính
+# Người ký: Trịnh Văn Bính
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn thực hiện chế độ tài chính đối với
+
+Ngân hàng Nhà nước Việt Nam
+
+Căn cứ Nghị định số 100/1998/NĐ-CP ngày 10 tháng 12 năm 1998 của Chính phủ về chế độ tài chính của Ngân hàng Nhà nước Việt Nam, sau khi trao đổi thống nhất với Ngân hàng Nhà nước Việt Nam, Bộ Tài chính hướng dẫn thực hiện như sau:
+
+I. NHỮNG QUY ĐỊNH CHUNG
+
+1. Thông tư này áp dụng cho Ngân hàng Nhà nước Việt Nam (sau đây được viết tắt là NHNN), bao gồm: NHNN Trung ương; các chi nhánh NHNN tỉnh, thành phố trực thuộc Trung ương; các văn phòng đại diện ở trong và nước ngoài; các đơn vị sự nghiệp trực thuộc NHNN gồm: Thời báo ngân hàng, Tạp chí ngân hàng, trung tâm thông tin tín dụng, Trung tâm tuyên truyền báo chí, Ban quản lý các dự án tín dụng quốc tế.
+
+Học viện ngân hàng và các doanh nghiệp trực thuộc NHNN không thuộc phạm vi điều chỉnh của Thông tư này và thực hiện chế độ quản lý tài chính theo các quy định chung của Nhà nước đối với các đơn vị sự nghiệp và doanh nghiệp nhà nước.
+
+2. Thu chi tài chính của NHNN về nguyên tắc thực hiện theo Luật Ngân sách Nhà nước và Luật Ngân hàng Nhà nước Việt Nam. NHNN được sử dụng các nguồn thu để trang trải chi phí hoạt động của mình. Chênh lệch thu, chi sau khi trích lập quỹ theo quy định của Luật NHNH Việt Nam, Nghị định số 100/1998/NĐ-CP ngày 10/12/1998 của Chính phủ về chế độ tài chính của NHNH Việt Nam và quy định cụ thể tại Thông tư này, số còn lại nộp Ngân sách Nhà nước.
+
+3. NHNN không phải nộp các loại thuế đối với các hoạt động nghiệp vụ và dịch vụ Ngân hàng.
+
+4. Thống đốc NHNN chịu trách nhiệm trước Chính phủ về việc lập kế hoạch thu chi tài chính và thực hiện các quy định về quản lý tài chính tại Nghị định số 100/1998/NĐ-CP ngày 10/12/1998 của Chính phủ về chế độ tài chính của NHNN Việt Nam và những hướng dẫn cụ thể trong Thông tư này.
+
+5. Bộ Tài chính thực hiện chức năng quản lý Nhà nước về tài chính, thực hiện quản lý tài chính đối với NHNN thông qua việc thẩm định, tổng hợp kế hoạch và thanh tra, kiểm tra hoạt động thu, chi tài chính của NHNN.
+
+
+
+II. QUY ĐỊNH VỀ VỐN, QUỸ VÀ TÀI SẢN
+
+1. NHNN có trách nhiệm quản lý chặt chẽ, sử dụng hợp lý, đúng mục đích và an toàn vốn, quỹ, tài sản Nhà nước đã được giao quản lý, cụ thể:
+
+1.1. Vốn pháp định: Mức vốn pháp định của NHNH là 5000 tỷ đồng (năm ngàn tỷ đồng) thuộc nguồn vốn Nhà nước.
+
+NHNN phối hợp với Bộ Tài chính xác định các nguồn vốn Nhà nước hiện NHNN đang quản lý được tính vào vốn pháp định của NHNN. Phần chênh lệch thiếu giữa vốn hiện có với mức vốn pháp định ban đầu theo quy định được bổ sung hàng năm từ các nguồn sau:
+
+- Vốn mua sắm tài sản cố định, trang bị phương tiện kỹ thuật, tin học và an toàn kho quỹ được hạch toán vào chi phí hàng năm theo quy định.
+
+- Vốn đầu tư xây dựng cơ bản được Nhà nước cấp hàng năm.
+
+Việc thay đổi mức vốn pháp định do Thủ tướng Chính phủ quyết định theo đề nghị của Thống đốc NHNN và Bộ trưởng Bộ Tài chính.
+
+1.2. Vốn đầu tư xây dựng cơ bản và mua sắm tài sản cố định:
+
+- Vốn đầu tư xây dựng cơ bản và mua sắm tài sản cố định hàng năm của NHNN được hình thành từ các nguồn sau:
+
++ Khấu hao tài sản cố định.
+
++ Nhà nước cấp vốn để xây dựng cơ bản theo kế hoạch Nhà nước.
+
++ Khoản trích từ chi phí hàng năm bằng 12% giá trị tài sản cố định bình quân trong năm.
+
++ Các khoản thu về thanh lý, nhượng bán tài sản cố định sau khi đã trừ đi chi phí thanh lý, nhượng bán (nếu có).
+
++ Các nguồn hợp pháp khác theo quy định của Nhà nước.
+
+Toàn bộ công tác xây dựng cơ bản, mua sắm tài sản cố định của NHNN được thực hiện trong phạm vi nguồn vốn được duyệt trong Kế hoạch xây dựng cơ bản năm. Việc đầu tư xây dựng cơ bản, mua sắm tài sản cố định của NHNN phải thực hiện đúng theo quy định của Nhà nước về quản lý đầu tư và xây dựng.
+
+Vốn đầu tư xây dựng cơ bản trong năm không sử dụng hết được tính chung vào nguồn vốn đầu tư xây dựng cơ bản đề sử dụng tiếp cho năm sau.
+
+1.3. NHNN có trách nhiệm quản lý, sử dụng đúng mục đích số tiền phát hành vào lưu thông đã được Chính phủ phê duyệt để thực hiện chính sách tiền tệ.
+
+1.4. Các khoản tiền gửi của các tổ chức tín dụng, Kho bạc nhà nước.
+
+1.5. Vốn đi vay của các tổ chức quốc tế, Chính phủ, tổ chức tín dụng nước ngoài.
+
+1.6. Vốn khác như các khoản chênh lệch tỷ giá, chênh lệch giá do đánh giá lại ngoại tệ, vàng bạc và tài sản.
+
+1.7. NHNN quản lý chặt chẽ quỹ dự trữ vàng bạc, ngoại tệ của Nhà nước, sử dụng cho mục tiêu thực hiện chính sách tiền tệ và đảm bảo khả năng thanh toán quốc tế, Quỹ dự trữ vàng bạc, ngoại tệ được bổ sung theo Quyết định của Thủ tướng Chính phủ. Định kỳ hàng quý NHNN báo cáo tình hình sử dụng các quỹ này cho Chính phủ và Bộ Tài chính.
+
+1.8. Quỹ thực hiện chính sách tiền tệ quốc gia và khoản dự phòng rủi ro của NHNN là vốn Nhà nước giao cho NHNN quản lý và sử dụng. Hàng năm NHNN được trích 10% từ chênh lệch thu, chi để bổ sung Quỹ thực hiện chính sách tiền tệ quốc gia. Quỹ thực hiện chính sách tiền tệ quốc gia do Thống đốc NHNN điều hành theo các mục tiêu đã được Chính phủ phê duyệt hàng năm nhằm phục vụ cho việc thực hiện chính sách tiền tệ Quốc gia. Khoản dự phòng rủi ro được trích lập và sử dụng theo hướng dẫn cụ thể tại Thông tư này.
+
+1.9. Vốn, quỹ khác phục vụ cho hoạt động nghiệp vụ của NHNN.
+
+2. NHNN không được góp vốn, mua cổ phần của các tổ chức tín dụng và các doanh nghiệp khác.
+
+3. NHNN thực hiện đánh giá lại giá trị tài sản trong các trường hợp sau đây:
+
+- Kiểm kê đánh giá lại giá trị tài sản theo quyết định của cơ quan Nhà nước có thẩm quyền.
+
+- Chuyển giao, nhượng bán tài sản cho các tổ chức ngoài NHNN.
+
+Việc kiểm kê, đánh giá lại tài sản thực hiện theo đúng quy định của Nhà nước. Các khoản chênh lệch tăng hoặc giảm do đánh giá lại giá trị tài sản được hạch toán tăng hoặc giảm vốn Nhà nước.
+
+4. Chuyển giao, thanh lý, nhượng bán tài sản của NHNN được thực hiện như sau:
+
+4.1. Việc chuyển giao tài sản Nhà nước tại NHNN thực hiện theo quy định tại Nghị định số 14/1998/NĐ-CP ngày 6/3/1998 của Chính phủ về quản lý tài sản Nhà nước và các quy định khác có liên quan.
+
+4.2. Việc mua sắm, thanh lý, nhượng bán tài sản ô tô, tầu thuyền, phương tiện đi lại, máy móc trang thiết bị phục vụ nhu cầu công tác do Thống đốc NHNN quyết định. NHNN phải định giá tài sản và tổ chức đấu giá theo quy định của Luật pháp.
+
+4.3. Chênh lệch giữa số tiền thu được do thanh lý, nhượng bán tài sản với chi phí thanh lý, nhượng bán (nếu có) hạch toán vào nguồn vốn đầu tư xây dựng cơ bản, mua sắm tài sản cố định.
+
+5. Tổn thất tài sản tại NHNN phải được Hội đồng kiểm tra tổn thất do Thống đốc NHNN quyết định thành lập xác định. Hội đồng lập biên bản xác định rõ nguyên nhân, mức độ tổn thất và báo cáo Thống đốc NHNN xem xét quyết định xử lý theo nguyên tắc:
+
+- Nếu do nguyên nhân chủ quan thì người gây ra phải chịu trách nhiệm bồi thường.
+
+- Nếu do nguyên nhân khách quan, đối với những tài sản đã mua bảo hiểm thì được tổ chức bảo hiểm bồi thường.
+
+- Tổn thất còn lại (sau khi trừ khoản bồi thường của người gây ra và tiền đền bù của tổ chức bảo hiểm) được hạch toán vào chi phí.
+
+- Các trường hợp tổn thất tài sản vì lý do bất khả kháng như thiên tai, hoả hoạn, địch hoạ... trước khi hạch toán vào chi phí thì NHNN báo cáo cụ thể về mức độ tổn thất và đề xuất phương án để Bộ Tài chính xem xét, giải quyết theo thẩm quyền, nếu ngoài thẩm quyền thì Bộ Tài chính trình Thủ tướng Chính phủ xem xét, quyết định.
+
+Mọi trường hợp tổn thất, thừa thiếu tài sản phải làm rõ nguyên nhân, xác định trách nhiệm, xử lý bù đắp tổn thất và phải được hạch toán và báo cáo đầy đủ trong quyết toán năm.
+
+6. Việc xoá nợ gốc cho vay của NHNN đối với các khách hàng thực hiện theo Quyết định của Thủ tướng Chính phủ theo đề nghị của liên Bộ Tài chính - Ngân hàng Nhà nước.
+
+7. Vốn và tài sản Nhà nước tại NHNN phải được kiểm kê tại thời điểm cuối cùng ngày 31/12 hàng năm. Số chênh lệch về hiện vật và giá trị qua kiểm kê phải xử lý theo quy định của Nhà nước.
+
+III. QUY ĐỊNH VỀ QUẢN LÝ THU NHẬP VÀ CHI PHÍ
+
+A. NGUYÊN TẮC:
+
+- NHNN có trách nhiệm hạch toán đầy đủ, chính xác, kịp thời các khoản thu nhập và chi phí theo đúng quy định của Pháp luật về Kế toán - Thống kê và Điều lệ tổ chức kế toán Nhà nước. NHNN hạch toán các khoản thu nhập và chi phí theo nguyên tắc tiền mặt (thực thu, thực chi).
+
+- Các khoản thu, chi đều phải có hoá đơn hoặc chứng từ theo quy định của Nhà nước.
+
+- Các khoản thu, chi bằng ngoại tệ, bằng vàng phải quy đổi ra đồng Việt Nam. Các khoản thu, chi bằng ngoại tệ được quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do NHNN công bố tại thời điểm có nghiệp vụ kinh tế phát sinh để hạch toán vào các tài khoản thu nhập - chi phí.
+
+- Các khoản chênh lệch tỷ giá ngoài tệ phát sinh trong kỳ do hoạt động mua, bán kinh doanh ngoại tệ của NHNN được hạch toán vào thu nhập hoặc chi phí trong năm; Các khoản chênh lệch tỷ giá ngoại tệ do đánh giá lại số dư các tài khoản ngoại tệ cuối kỳ thì không hạch toán vào chi phí hoặc thu nhập mà hạch toán tăng giảm vốn.
+
+- Việc giảm, miễn thu, thoái thu các khoản thu lãi của NHNN thực hiện theo quyết định của cấp có thẩm quyền và phải được thống kê đầy đủ trong báo cáo quyết toán tài chính.
+
+B. NỘI DUNG THU CHI TÀI CHÍNH
+
+1. Thu nhập của NHNN là toàn bộ các khoản thu từ hoạt động nghiệp vụ của NHNN, gồm:
+
+- Thu về nghiệp vụ tín dụng: Thu lãi tái cấp vốn; thu lãi cho vay; thu lãi tiền gửi; thu phí bảo lãnh;
+
+- Thu về nghiệp vụ thị trường mở: bao gồm các khoản thu từ nghiệp vụ mua bán tín phiếu kho bạc, chứng chỉ tiền gửi, tín phiếu NHNN và các loại giấy tờ có giá ngắn hạn khác trên thị trường tiền tệ.
+
+- Thu về nghiệp vụ mua bán và giao dịch ngoại hối (ngoại tệ và vàng) theo quy định.
+
+- Thu về dịch vụ thanh toán, thông tin và ngân quỹ.
+
+- Thu lãi góp vốn vào các tổ chức quốc tế.
+
+- Thu về tiêu huỷ tiền.
+
+- Các khoản thu dịch vụ ngân hàng khác;
+
+- Các khoản thu về phí và lệ phí. Riêng các khoản phí, lệ phí thuộc Ngân sách Nhà nước thực hiện theo Nghị định số 04/1999/NĐ-CP ngày 30/1/1999 của Chính phủ và các văn bản hướng dẫn thực hiện của Bộ Tài chính.
+
+- Các khoản thu trong hoạt động ngân hàng: thu thừa quỹ; tiền phạt vi phạm hợp đồng kinh tế; thu về thanh lý công cụ lao động và vật rẻ tiền mau hỏng; thu nợ đã xoá nay thu hồi được; thu về xuất bản tập san, tài liệu, báo chí....
+
+- Các khoản thu khác.
+
+2. Chi của NHNN là toàn bộ các khoản chi phát sinh để duy trì hoạt động nghiệp vụ của hệ thống NHNN, được hạch toán vào tài khoản chi và theo hướng dẫn tại Thông tư này, gồm:
+
+2.1. Chi hoạt động nghiệp vụ và dịch vụ Ngân hàng:
+
+2.1.1. Chi trả lãi tiền gửi, trả lãi tiền vay, chi về nghiệp vụ mua, bán và giao dịch ngoại hối (ngoại tệ và vàng); Chi về nghiệp vụ thị trường mở.
+
+2.1.2. Chi in, đúc, bảo quản, vận chuyển, giao nhận, phát hành, thu hồi thay thế, tiêu huỷ tiền và các phương tiện thanh toán thay tiền.
+
+Bao gồm:
+
+- Chi in, đúc tiền và các phương tiện thanh toán thay tiền.
+
+- Chi bảo quản, vận chuyển, tiêu huỷ tiền.
+
+Các chi này được thực hiện như sau:
+
+a. Các khoản chi về vẽ mẫu tiền, chế bản mẫu tiền và chi đặc biệt phục vụ cho nhiệm vụ chiến lược của Nhà nước do Thống đốc NHNN quyết định.
+
+b. Đơn giá sản phẩm in tiền do Liên Bộ NHNN - Bộ Tài chính duyệt cho từng năm. Căn cứ vào đơn giá được duyệt và hợp đồng in tiền đã ký, NHNN thanh toán tiền mua sản phẩm cho nhà máy in theo các chứng từ giao nhận sản phẩm để hạch toán.
+
+c. Trường hợp NHNN mua giấy in tiền của các cơ sở sản xuất trong nước và nước ngoài, việc thanh toán thực hiện trên cơ sở hợp đồng ký kết và các chứng từ hợp lệ. Chi mua giấy in tiền hạch toán trên tài khoản "Vật liệu dự trữ" và được phân bổ dần vào chi phí ngân hàng mỗi khi ngân hàng thanh toán sản phẩm tiền in.
+
+d. Chi bảo vệ tiền: Bao gồm các khoản chi:
+
+- Các khoản phụ cấp theo chế độ quy định cho lực lượng canh gác, bảo vệ kho, áp tải tiền, vàng bạc, đá quý, các phương tiện thanh toán thay tiền, chi phòng cháy chữa cháy, chống đột nhập....
+
+- Chi cho công tác chống tiền giả.
+
+Mức chi cho công tác bảo vệ tiền trong năm do NHNN xây dựng và thuyết minh trong kế hoạch tài chính năm.
+
+đ. Chi vận chuyển, bốc xếp: Gồm các khoản chi:
+
+- Chi xăng dầu cho phương tiện vận chuyển.
+
+- Chi thuê phương tiện vận chuyển được thanh toán theo hợp đồng ký kết với bên cung cấp dịch vụ.
+
+- Chi bốc xếp tại cảng, nhà ga, sân bay... theo hợp đồng ký kết với bên cung cấp dịch vụ. Mức chi vượt định mức bốc xếp hàng ra vào kho tiền do NHNN quy định được Bộ Tài chính chấp thuận.
+
+e. Chi về vật liệu kiểm đếm tiền, phân loại, đóng gói tiền: được chi và quyết toán giá trị vật liệu thực xuất dùng trong năm (bao bì, dây buộc, keo dán...) theo định mức do NHNN quy định.
+
+h. Chi tiêu huỷ tiền: Các định mức chi cho công tác tiêu huỷ tiền như chi bồi dưỡng cho cán bộ tham gia công tác tiêu huỷ, chi vật liệu cho công tác tiêu huỷ... do Thống đốc Ngân hàng Nhà nước quyết định. Riêng mức chi bồi dưỡng cho cán bộ tham gia tiêu huỷ tiền phải có sự chấp thuận của Bộ Tài chính.
+
+2.1.3. Các khoản chi về dịch vụ thanh toán và thông tin.
+
+2.2. Chi cho cán bộ, công chức, viên chức NHNN, nhân viên hợp đồng và chi khen thưởng, phúc lợi.
+
+Bao gồm:
+
+- Chi lương, phụ cấp lương cho cán bộ, công chức, viên chức NHNN theo chế độ quy định.
+
+- Chi ăn trưa cho cán bộ, công chức, viên chức có mặt làm việc trong năm do Thống đốc NHNN quyết định nhưng mức chi cho mỗi người hàng tháng không vượt quá mức lương tối thiểu do Nhà nước quy định đối với công chức nhà nước. (Riêng năm 1999 mức chi ăn trưa cho cán bộ, công chức, viên chức có mặt làm việc trong năm là 150.000 đồng/người/tháng).
+
+- Chi trang phục giao dịch cho cán bộ, công chức, viên chức NHNN theo định mức chi cho mỗi cán bộ, công chức, nhân viên NHNN trong kế hoạch tài chính năm. Mức chi trang phục hàng năm do Bộ Tài chính quy định.
+
+- Chi bảo hộ lao động áp dụng đối với các đối tượng được trang cấp bảo hộ lao động theo chế độ hiện hành của Nhà nước.
+
+- Chi khen thưởng, phúc lợi định kỳ và đột xuất cho tập thể và cá nhân cán bộ, công chức, viên chức NHNN. Tổng mức chi hàng năm 2 khoản này bằng tổng quỹ lương thực hiện trong năm. Các khoản chi khen thưởng bao gồm:
+
++ Chi khen thưởng theo chế độ Nhà nước quy định.
+
++ Chi khen thưởng định kỳ và đột xuát theo quy định của Thống đốc NHNN.
+
+- Chi khen thưởng cho tập thể, cá nhân của các ngành có đóng góp xuất sắc cho Ngân hàng: khoản chi này tối đa hàng năm không quá 1/2 tháng lương thực hiện trong năm của NHNN. Đối tượng, hình thức khen và mức chi cụ thể do Thống đốc NHNN quyết định.
+
+2.3. Chi các khoản đóng góp theo lương: bảo hiểm xã hội, bảo hiểm y tế, kinh phí công đoàn và các khoản đóng góp khác theo chế độ quy định.
+
+2.4. Chi hỗ trợ cho các hoạt động của Đảng, các đoàn thể của cơ quan theo quy định của Nhà nước (không bao gồm các khoản chi ủng hộ công đoàn ngành, địa phương, các tổ chức xã hội và các cơ quan khác).
+
+2.5. Chi trợ cấp khó khăn, trợ cấp thôi việc: đối tượng, mức chi thực hiện theo quy định của Nhà nước.
+
+2.6. Chi cho hoạt động quản lý và công vụ:
+
+Các khoản chi này được thực hiện theo nguyên tắc:
+
+- Mức chi đối với từng khoản chi thực hiện theo chế độ Nhà nước quy định.
+
+- Tổng mức chi hoạt động quản lý và công vụ hàng năm của NHNN tính trên số cán bộ, công chức, viên chức NHNN bình quân năm tối đa không qua 16 triệu đồng/người/năm.
+
+Các khoản chi cho hoạt động công vụ bao gồm:
+
+a. Chi về vật tư văn phòng.
+
+b. Chi về cước phí Bưu điện và truyền tin:
+
+Là các khoản chi về bưu phí, truyền tin, điện báo, thuê kênh truyền tin, telex, fax ... trả theo hoá đơn của cơ quan bưu điện.
+
+Việc chi trang bị điện thoại tại nhà riêng của các đối tượng theo quy định hiện hành của Nhà nước đối với đơn vị hành chính sự nghiệp. Trong trường hợp, do đặc thù hoạt động của NHNN cần lắp đặt điện thoại thêm cho một số đối tượng ngoài quy định của Nhà nước để phục vụ nhu cầu công tác như bảo vệ an toàn kho, vận chuyển tiền... thì NHNN phải có văn bản đề nghị gửi Bộ Tài chính và thực hiện sau khi được Bộ Tài chính chấp thuận.
+
+c. Chi điện, nước, y tế, vệ sinh cơ quan.
+
+d. Chi xăng dầu:
+
+- Chi mua xăng dầu vận chuyển phục vụ cán bộ, công chức, viên chức đi công tác và cán bộ lãnh đạo đi làm việc theo chế độ Nhà nước quy định.
+
+e. Công tác phí:
+
+Chi công tác phí cho cán bộ, công chức, viên chức đi công tác trong và ngoài nước thanh toán theo quy định hiện hành của Bộ Tài chính.
+
+f. Chi lễ tân, khánh tiết hội nghị:
+
+Gồm các khoản chi tổ chức hội nghị, tiếp khách quốc tế, trong nước; các khoản chi để tổ chức các buổi họp mặt nhân các ngày kỷ niệm lớn.
+
+Các khoản chi này thực hiện theo chế độ quy định hiện hành của Bộ Tài chính và trong phạm vi kế hoạch tài chính năm được duyệt.
+
+g. Chi cho việc thanh tra, kiểm toán NHNN theo chế độ quy định.
+
+h. Chi về đào tạo, huấn luyện nghiệp vụ và chi nghiên cứu khoa học công nghệ gồm:
+
+- Chi tổ chức các lớp đào tạo, bồi dưỡng, huấn luyện nghiệp vụ, vi tính, ngoại ngữ ngắn hạn cho cán bộ, công chức, viên chức NHNN.
+
+- Chi mua tài liệu, in ấn, biên dịch tài liệu phục vụ cho công tác đào tạo, bồi dưỡng huấn luyện nghiệp vụ, nghiên cứu.
+
+- Chi tổ chức các cuộc hội thảo khoa học.
+
+- Chi nghiên cứu đề tài khoa học.
+
+- Chi nghiên cứu, xây dựng văn bản pháp luật.
+
+- Chi triển khai, ứng dụng khoa học công nghệ ngân hàng.
+
+- Chi hỗ trợ giáo dục (khoản chi này được thực hiện sau khi có sự chấp thuận của Bộ Tài chính).
+
+- Các khoản chi khác theo quy định của Ngân hàng Nhà nước (nếu có).
+
+Chi cho công tác đào tạo, huấn luyện nghiệp vụ ngân hàng và chi nghiên cứu khoa học, công nghệ thực hiện căn cứ vào tổng mức chi trong kế hoạch tài chính năm được duyệt. Kế hoạch đào tạo, huấn luyện nghiệp vụ, hội thảo khoa học và nghiên cứu khoa học do Thống đốc NHNN quyết định và duyệt dự toán. Việc chi tiêu thực hiện theo chế độ Nhà nước quy định và trong phạm vi định mức kế hoạch được duyệt.
+
+i. Chi cho các sáng kiến cải tiến, kỹ thuật.
+
+k. Chi về tài liệu, sách báo, tạp chí, thư viện, tuyên truyền, quảng cáo bao gồm:
+
+- Chi xuất bản các tạp chí, báo, bản tin và tài liệu nghiệp vụ
+
++ Chi nhuận bút cho người viết bài áp dụng theo quy định chung.
+
++ Chi thuê in thanh toán theo hợp đồng với cơ sở in.
+
+Kế hoạch xuất bản tạp chí, báo, bản tin và tài liệu nghiệp vụ ngân hàng phải được Thống đốc NHNN duyệt và lập dự toán trong kế hoạch tài chính năm.
+
+- Chi mua sách báo, tài liệu nghiên cứu.....
+
+- Chi tuyên truyền, quảng cáo. Chi về quảng cáo căn cứ vào hợp đồng quảng cáo giữa bên nhận quảng cáo và NHNN.
+
+2.7. Chi về tài sản tại NHNN gồm:
+
+- Trích khấu hao tài sản cố định
+
+- Chi sửa chữa, bảo dưỡng tài sản
+
+- Chi xây dựng nhỏ
+
+- Chi mua sắm công cụ lao động
+
+- Chi thuê tài sản
+
+a. Khấu hao tài sản cố định:
+
+- Việc trích khấu hao tài sản cố định của NHNN được áp dụng theo quy định của Nhà nước đối với các doanh nghiệp Nhà nước.
+
+- Hàng tháng căn cứ giá trị tài sản cố định được trích khấu hao và tỷ lệ trích khấu hao theo quy định, NHNN thực hiện trích đúng, trích đủ số khấu hao tài sản cố định phải trích, hạch toán vào chi phí ngân hàng. Khấu hao tài sản cố định trích được hàng năm của NHNN được tập trung quản lý tại NHNN Trung ương.
+
+b. Chi sửa chữa, bảo dưỡng tài sản: là số thực chi trong năm cho mục tiêu này và tối đa không quá 5% giá trị tài sản cố định bình quân trong năm. Chi phí cho công tác sửa chữa, bảo dưỡng tài sản hoàn thành không được hạch toán tăng giá trị tài sản.
+
+c. Chi xây dựng nhỏ: Việc chi xây dựng nhỏ ghi vào chi phí chỉ được thực hiện đối với các công trình phụ được xây dựng bổ sung cho các công trình chính đang sử dụng như tường rào, sân, cổng, nhà thường trực, bảo vệ, nhà vệ sinh, nhà bếp, nhà để xe, bể nước, giếng nước, đường nội bộ cơ quan, cống rãnh thoát nước... Đối với các công trình mới không được tách riêng các công trình phụ này ra khỏi công trình chính mà phải sử dụng nguồn vốn đầu tư xây dựng cơ bản để thực hiện. Không sử dụng kinh phí xây dựng nhỏ để xây dựng các công trình thuộc nguồn vốn xây dựng cơ bản như các công trình nhà làm việc từ cấp 4 trở lên.
+
+d. Chi mua sắm công cụ lao động.
+
+Tổng mức chi mua sắm công cụ lao động hàng năm của NHNN tính trên số cán bộ, công chức, viên chức NHNN bình quân năm tối đa không quá 2,2 triệu đồng/người/năm.
+
+e. Chi thuê tài sản: là số tiền chi về thuê tài sản căn cứ vào hợp đồng thuê tài sản giữa bên cho thuê và NHNN.
+
+2.8. Chi đầu tư phát triển kỹ thuật nghiệp vụ và công nghệ ngân hàng: hàng năm NHNN được chi và hạch toán vào chi phí bằng 12% giá trị tài sản cố định bình quân trong năm để bổ sung nguồn vốn mua sắm tài sản cố định, trang bị phương tiện kỹ thuật, tin học và an toàn kho quỹ. Khoản chi này được quản lý và sử dụng theo quy định của Nhà nước về đầu tư xây dựng cơ bản.
+
+2.9. Chi lập dự phòng rủi ro
+
+- Hàng năm NHNN được trích lập khoản dự phòng rủi ro từ chi nghiệp vụ ngân hàng bằng 10% tổng thu trừ đi các khoản chi chưa bao gồm khoản chi dự phòng rủi ro.
+
+- Khoản dự phòng rủi ro được sử dụng theo Quyết định của Thống đốc NHNN để bù đắp các tổn thất về hoạt động tín dụng, dịch vụ thanh toán và ngân quỹ trong quá trình hoạt động do nguyên nhân khách quan và phần chênh lệch tổn thất sau khi tập thể hoặc cá nhân bồi thường theo đúng quy định của Pháp luật. Đối với những tổn thất do nguyên nhân chủ quan: Phải xác định mức độ gây thiệt hại của từng đương sự để buộc đền bù thiệt hại (nếu do cá nhân gây ra) hoặc trừ vào khoản chi phúc lợi, khen thưởng của NHNN (nếu do tập thể gây ra).
+
+Khoản dự phòng rủi ro NHNN sử dụng không hết trong năm được chuyển sang năm sau sử dụng tiếp. Trường hợp nguồn dự phòng không đủ bù đắp các khoản tổn thất thì NHNN và Bộ Tài chính trình Thủ tướng Chính phủ biện pháp xử lý phần còn thiếu.
+
+2.10. Các khoản chi khác gồm các khoản chi phát sinh trong quá trình hoạt động, không nằm trong các quy định nêu trên, gồm các khoản chủ yếu sau:
+
+- Chi cho việc thu hồi các khoản nợ đã xoá.
+
+- Khoản tổn thất sau khi đã bù đắp bằng các nguồn quy định tại điểm 5 phần II Thông tư này.
+
+- Chi bảo quản hồ sơ, chứng từ, sổ kế toán và tài liệu.
+
+- Chi nộp thuế, lệ phí (Trừ các khoản thuế, phí khi mua sắm tài sản cố định phải hạch toán vào giá trị tài sản cố định theo quy định của Nhà nước).
+
+- Chi về bảo hiểm xe;
+
+- Các khoản chi khác theo thực tế phát sinh và có chứng từ hợp lệ.
+
+3. Các khoản chi hạch toán trong chi phí NHNN phải là các khoản chi có căn cứ hợp lệ, hợp pháp và theo đúng chế độ quy định. NHNN không được hạch toán vào chi phí các khoản sau đây:
+
+- Các khoản tiền phạt phải nộp Nhà nước hoặc phải trả cho khách hàng về những thiệt hại vật chất do nguyên nhân chủ quan NHNN gây ra trong quá trình thực hiện nghiệp vụ ngân hàng.
+
+- Các khoản chi đầu tư xây dựng cơ bản, mua sắm, cải tạo, nâng cấp tài sản cố định thuộc nguồn vốn đầu tư xây dựng cơ bản, mua sắm tài sản cố định.
+
+Các khoản chi cho xây dựng, sửa chữa, bảo dưỡng và trang thiết bị các tài sản phúc lợi như nhà ở, nhà nghỉ của cán bộ, công chức, viên chức NHNN; các khoản chi cho các công trình phúc lợi khác.
+
+- Các khoản chi ủng hộ địa phương, các tổ chức xã hội, các cơ quan khác.
+
+- Các khoản chi thuộc các nguồn kinh phí khác đài thọ.
+
+IV. PHÂN PHỐI CHÊNH LỆCH THU CHI
+
+VÀ NỘP NGÂN SÁCH NHÀ NƯỚC
+
+1. Chênh lệch thu chi của NHNN được xác định khi kết thúc niên độ tài chình và được xác định theo công thức:
+
+Chênh lệch thu chi = Thu nhập-(Chi phí hợp lý, hợp lệ +Khoản dự phòng rủi ro)
+
+Chênh lệch thu chi NHNN được phân phối theo trình tự sau:
+
+- Trích quỹ thực hiện chính sách tiền tệ quốc gia: 10% chênh lệch thu chi.
+
+- Phần chênh lệch còn lại nộp Ngân sách Nhà nước.
+
+2. NHNN có trách nhiệm nộp Ngân sách Nhà nước đầy đủ và kịp thời toàn bộ số chênh lệch thu chi phải nộp hàng năm theo số liệu báo cáo quyết toán tài chính năm được Thống đốc NHNN phê duyệt và được cơ quan Kiểm toán Nhà nước xác nhận.
+
+Hàng quý, NHNN thực hiện tạm nộp Ngân sách Nhà nước 60% chênh lệch thu chi thực hiện của quý, số còn lại sẽ nộp vào ngân sách nhà nước sau khi báo cáo quyết toán tài chính năm đã được Thống đốc NHNN phê duyệt.
+
+3. Trường hợp kết quả tài chính năm của NHNN bị lỗ (thu nhập không đủ bù đắp chi phí) do thực hiện chức năng quản lý Nhà nước về tiền tệ - tín dụng - ngân hàng, Bộ Tài chính sẽ kiểm tra và báo cáo Thủ tướng Chính phủ xử lý.
+
+V. KẾ HOẠCH TÀI CHÍNH, BÁO CÁO TÀI CHÍNH VÀ CÁC QUY ĐỊNH VỀ KẾ TOÁN, QUYẾT TOÁN TÀI CHÍNH, KIỂM TOÁN VÀ KIỂM TRA TÀI CHÍNH
+
+1. Năm tài chính của NHNN bắt đầu từ ngày 01 tháng 01 và kết thúc vào cuối ngày 31 tháng 12 năm dương lịch.
+
+2. Kế hoạch tài chính:
+
+a. Ngân hàng Nhà nước lập kế hoạch tài chính hàng năm theo hướng dẫn của Bộ Tài chính. Kế hoạch tài chính của NHNN bao gồm các bộ phận kế hoạch:
+
+- Kế hoạch thu nhập - chi phí (kèm theo thuyết minh chi tiết về các mục thu - chi và các định mức chi tiêu cụ thể dự kiến cho năm kế hoạch).
+
+- Kế hoạch xây dựng cơ bản và mua sắm tài sản cố định (kèm theo thuyết minh chi tiết về dự kiến xây dựng cơ bản, mua sắm tài sản cố định và cân đối các nguồn vốn).
+
+- Kế hoạch biên chế - tiền lương - thu nhập.
+
+b. NHNN gửi Bộ Tài chính kế hoạch tài chính năm để Bộ Tài chính thẩm định và tổng hợp trình Chính phủ. Việc duyệt và thông báo kế hoạch tài chính cho NHNN thực hiện theo quy định chung của Chính phủ. Kế hoạch tài chính được duyệt là căn cứ NHNN thực hiện và duyệt quyết toán tài chính năm.
+
+Trong năm tài chính, nếu do những biến động khách quan không dự kiến trước dẫn đến phải điều chỉnh kế hoạch tài chính năm, NHNN phối hợp với Bộ Tài chính trình Thủ tướng Chính phủ quyết định.
+
+3. Hạch toán kế toán
+
+- NHNN thực hiện công tác kế toán, kiểm toán theo quy định của Luật NHNN, Pháp luật về kế toán, thống kê và các quy định hiện hành khác của Nhà nước về kế toán, kiểm toán.
+
+- NHNN có trách nhiệm thực hiện đúng, đầy đủ những quy định trong chế độ kế toán áp dụng cho NHNN, gồm: những quy định pháp lý chung, chế độ chứng từ kế toán, hệ thống tài khoản kế toán, chế độ sổ kế toán, chế độ báo cáo tài chính...
+
+4. Báo cáo tài chính
+
+- NHNN thực hiện quyết toán tài chính và chấp hành đầy đủ các quy định về báo cáo tài chính về việc lập và gửi cho Bộ Tài chính theo quy định của Pháp luật về kế toán, thống kê và quy định cụ thể tại Thông tư này.
+
+- Báo cáo tài chính gửi Bộ Tài chính bao gồm:
+
+a. Báo cáo quý gửi Bộ Tài chính chậm nhất sau 20 ngày kể từ ngày kết thúc quý, bao gồm:
+
+- Báo cáo thực hiện kế hoạch thu nhập - chi phí.
+
+- Thuyết minh báo cáo tình hình thực hiện kế hoạch thu nhập - chi phí.
+
+- Báo cáo tình hình biến động các quỹ dự trữ vàng bạc, ngoại tệ của Nhà nước, quỹ thực hiện chính sách tiền tệ quốc gia và khoản dự phòng rủi ro.
+
+b. Báo cáo tài chính năm được gửi Bộ Tài chính chậm nhất sau 45 ngày kể từ ngày kết thúc năm tài chính, bao gồm:
+
+- Bảng cân đối tài khoản kế toán năm và bảng tổng kết tài sản.
+
+- Thực hiện kế hoạch thu nhập - chi phí năm.
+
+- Thuyết minh báo cáo tình hình thực hiện kế hoạch thu nhập - chi phí năm và các kiến nghị xử ký về mặt tài chính.
+
+- Báo cáo tình hình biến động các quỹ dự trữ vàng bạc, ngoại tệ của Nhà nước, quỹ thực hiện chính sách tiền tệ quốc gia và khoản dự phòng rủi ro.
+
+Báo cáo quyết toán tài chính năm của NHNN phải được cơ quan Kiểm toán Nhà nước kiểm toán và xác nhận. Kết quả kiểm toán được báo cáo Thủ tướng Chính phủ và thông báo cho Bộ Tài chính.
+
+5. Kiểm tra tài chính:
+
+Bộ Tài chính kiểm tra tài chính của NHNN gồm:
+
+- Kiểm tra tài chính định kỳ hoặc đột xuất.
+
+- Kiểm tra theo từng chuyên đề theo yêu cầu của cồng tác quản lý tài chính.
+
+- Trong trường hợp xét thấy các vi phạm kỷ luật tài chính của NHNN xảy ra ở nhiều chi nhánh, đơn vị trực thuộc, số liệu báo cáo quyết toán chưa đủ tin cậy, Bộ Tài chính báo cáo Thủ tướng Chính phủ và dề nghị Kiểm toán Nhà nước kiểm tra xác định lại số liệu quyết toán năm.
+
+VI. TỔ CHỨC THỰC HIỆN
+
+1. NHNN có trách nhiệm hướng dẫn các đơn vị cơ sở tổ chức thực hiện chế độ tài chính theo đúng quy định tại Nghị định số 100/1998/NĐ-CP ngày 10/12/1998 của Chính phủ về chế độ tài chính NHNN và nội dung hướng dẫn tại Thông tư này.
+
+NHNN có trách nhiệm gửi các văn bản hướng dẫn Thông tư này trong nội bộ ngành cho Bộ Tài chính đề theo rõi thực hiện. NHNN không được tự quy định các khoản chi tiêu trái với Nghị định số 100/1998/NĐ-CP ngày 10/12/1998 của Chính phủ về Chế độ tài chính NHNN, nội dung hướng dẫn cụ thể tại văn bản này và các quy định khác của Nhà nước.
+
+2. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 01 năm 1999. Trong qua trình thực hiện nếu có vướng mắc, đề nghị NHNN phản ánh về Bộ Tài chính đề ngiên cứu, xem xét, giải quyết.
+
+
+
+
+
+

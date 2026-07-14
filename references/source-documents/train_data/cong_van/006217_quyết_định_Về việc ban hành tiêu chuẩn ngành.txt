@@ -1,0 +1,274 @@
+# Về việc ban hành tiêu chuẩn ngành
+# Loại: Quyết định
+# Số hiệu: 20/2000/QĐ-BNNPTNT/KHCN
+# Ngày ban hành: 06/03/2000
+# Cơ quan: Bộ Nông nghiệp và Phát triển nông thôn
+# Người ký: Ngô Thế Dân
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Về quản lý chất lượng dầu nhờn động cơ trong kinh doanh
+
+Căn cứ Luật Thương mại ngày 10 tháng 5 năm 1997;
+
+Căn cứ Nghị định số 95/CP ngày 4/12/1993 của Chính phủ về nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Thương mại;
+
+Căn cứ Nghị định số 11/1999/NĐ-CP ngày 3/3/1999 của Chính phủ về hàng hoá cấm lưu thông, dịch vụ thương mại cấm thực hiện; hàng hoá, dịch vụ thương mại hạn chế kinh doanh, kinh doanh có điều kiện.
+
+Nhằm tăng cường quản lý Nhà nước đối với chất lượng dầu nhờn động cơ trong kinh doanh, Bộ Thương mại hướng dẫn về quản lý chất lượng dầu nhơn động cơ như sau:
+
+Điều 1. Phạm vi áp dụng
+
+1.1. Thông tư này áp dụng đối với:
+
+a) Các tổ chức, cá nhân, kể cả tổ chức và cá nhân nước ngoài (sau đây gọi tắt là thương nhân) đang hoạt động kinh doanh dầu nhờn động cơ tại Việt Nam (bao gồm: nhập khẩu, pha chế, đóng gói, bán buôn, bán lẻ).
+
+b) Các loại dầu nhờn dùng cho động cơ pít-tông bao gồm: Động cơ đốt trong 4 kỳ và 2 kỳ sử dụng nhiên liệu đốt là xăng hoặc đi-ê-zen (DO - Diesel Oil) hoặc khí tự nhiên (natural gas).
+
+1.2. Thông tư này không áp dụng đối với dầu bôi trơn động cơ máy bay.
+
+Điều 2. Quy định về ghi nhãn hàng hoá đối với dầu nhờn động cơ:
+
+Dầu nhờn động cơ tiêu thụ tại thị trường Việt Nam phải ghi nhãn theo Quyết định số 178/1999/QĐ-TTg ngày 30/8/1999 của Thủ tướng Chính phủ về quy chế Ghi nhãn hàng hoá lưu thông trong nước và hàng hoá xuất khẩu, nhập khẩu; Thông tư hướng dẫn thực hiện số 34/1999/TT-BTM ngày 15/9/1999 và công văn số 486/BTM-QLCL ngày 31/1/2000 của Bộ Thương mại.
+
+Điều 3. Quy định phân cấp độ nhớt và mức chất lượng; mức chất lượng tối thiểu; phương pháp kiểm nghiệm; và mức chất lượng thực tế của dầu nhờn động cơ được phép tiêu thụ tại Việt Nam.
+
+3.1. Phân cấp độ nhớt và mức chất lượng:
+
+Cấp độ nhớt của dầu nhờn động cơ nêu tại khoản b, mục 1.1, Điều 1 ghi trên nhãn hàng hoá được sử dụng theo hệ thống phân cấp độ nhớt của Hiệp hội kỹ sư ô tô Hoa Kỳ - SAE (Society of Automotive Engineers) tại phụ lục 1 và mức chất lượng ghi trên nhãn hàng hoá được sử dụng theo hệ thống mức chất lượng của Viện nghiên cứu dầu mỏ Hoa Kỳ - API (American Petroleum institute) tại phụ lục 2.
+
+3.2. Mức chất lượng tối thiểu và phương pháp kiểm nghiệm của dầu nhờn động cơ nêu tại khoản b, mục 1.1, Điều 1 được phép tiêu thụ tại Việt Nam theo quy định tại tại Bảng 1 (tương ứng mức chất lượng SC/CB).
+
+BẢNG 1
+
+
+
+
+
+STT
+
+
+
+
+Tên chỉ tiêu
+
+
+
+
+Mức giới hạn
+
+
+
+
+Phương pháp kiểm nghiệm
+
+
+
+
+
+
+1
+
+
+
+
+Độ nhớt động học ở 1000C (cSt)
+
+
+
+
+Theo bảng phân loại cấp độ nhớt SAE
+
+
+
+
+ASTM-D445
+
+
+
+
+
+
+2
+
+
+
+
+Chỉ số độ nhớt
+
+
+
+
+Không nhỏ hơn 95
+
+
+
+
+ASTM-D2270
+
+
+
+
+
+
+3
+
+
+
+
+Trị số kiềm tổng (TBN) (mg KOH/g)
+
+
+
+
+Không nhỏ hơn 24
+
+
+
+
+ASTM-D2896
+
+
+
+
+
+
+4
+
+
+
+
+Nhiệt độ chớp cháy cốc hở (0C)
+
+
+
+
+Không nhỏ hơn 180
+
+
+
+
+ASTM-D92
+
+
+
+
+
+
+5
+
+
+
+
+Độ tạo bọt ở 93,50C (ml)
+
+
+
+
+Không nhỏ hơn 50/0
+
+
+
+
+ASTM-D892
+
+
+
+
+
+
+6
+
+
+
+
+Tổng hàm lượng kim loại Ca, Mg, Zn (% khối lượng)
+
+
+
+
+Không nhỏ hơn 0,07
+
+
+
+
+ASTM-D4628
+
+
+
+
+
+
+7
+
+
+
+
+Hàm lượng nước (% thể tích)
+
+
+
+
+Không nhỏ hơn 0,05
+
+
+
+
+ASTM-D95
+
+
+
+
+
+(ASTM: American Society for Testing Materials - Hội kiểm nghiệm nguyên vật liệu Hoa Kỳ).
+
+3.3. Mức chất lượng thực tế:
+
+Thương nhân chỉ được phép kinh doanh dầu nhờn động cơ có mức chất lượng bằng hoặc lớn hơn mức chất lượng đã nêu tại bảng 1. Mức chất lượng thực tế tương ứng với mức chất lượng tại hệ thống API và cấp độ nhớt tại hệ thống SAE.
+
+Điều 4. Quy định về quản lý nhập khẩu dầu nhờn động cơ
+
+4.1. Thương nhân nhập khẩu dầu nhờn động cơ để tiêu thị tại thị trường Việt Nam phải thực hiện các quy định tại Điều 2 và các quy định tại Điều 3.
+
+4.2. Mức chất lượng thực tế, quy định kỹ thuật đã công bố trên nhãn hàng hoá, hợp đồng mua bán và các quy định tại Điều 2, Điều 3 Thông tư này là cơ sở pháp lý để giám định hàng hoá, thanh tra chất lượng, kiểm soát thị trường đối với dầu nhờn động cơ.
+
+Điều 5. Quy định về quản lý pha chế dầu nhờn động cơ và quản lý nhập khẩu nguyên liệu (dầu gốc và phụ gia) để pha chế dầu nhờn động cơ.
+
+5.1. Chỉ các thương nhân có cơ sở sản xuất; pha chế có đủ điều kiện về năng lực kỹ thuật, công nghệ và giấy chứng nhận mới được tổ chức pha chế dầu nhờn động cơ từ dầu gốc và phụ gia.
+
+5.2. Bộ Thương mại phối hợp với Bộ Khoa học công nghệ và môi trường tổ chức thẩm định: Năng lực kỹ thuật; Công nghệ pha chế; Môi trường sản xuất; Thiết bị an toàn chống cháy nổ; Các chứng chỉ chuyên môn phù hợp với ngành, nghề của cơ sở pha chế dầu nhờn động cơ và giấy chứng nhận đối với cơ sở được phép pha chế dầu nhờn động cơ.
+
+Nội dung giấy chứng nhận bao gồm: Công suất pha chế, chủng loại sản phẩm, mức chất lượng đạt được của sản phẩm. Thương nhân chỉ được phép pha chế các loại sản phẩm với mức chất lượng theo giấy chứng nhận được cấp.
+
+5.3. Thương nhân được cấp giấy chứng nhận nêu tại mục 5.2 mới được quyền nhập khẩu dầu gốc và phụ gia; Số lượng dầu gốc và phụ gia nhập khẩu không được vượt quá công suất pha chế đã được chứng nhận. Thương nhân không được bán dầu gốc và phụ gia ra thị trường trong nước.
+
+5.4. Giấy chứng nhận nêu tại mục 5.2 là một cơ sở pháp lý để thương nhân tiến hành làm thủ tục nhập khẩu dầu gốc và phụ gia tại cơ quan Hải quan. Các thủ tục pháp lý khác theo quy định hiện hành.
+
+5.5. Thương nhân phải kiểm tra chất lượng dầu nhờn động cơ pha chế tại Việt Nam trước khi đưa ra lưu thông. Mức chất lượng và những quy định kỹ thuật công bố trên nhãn hàng hoá phải phù hợp với thực tế của hàng hoá.
+
+Điều 6. Điều khoản thi hành
+
+6.1. Thông tư này thay thế Thông tư liên tịch giữa Bộ Khoa học Công nghệ và Môi trường - Bộ Thương mại số 565/KCM-TM ngày 15/5/1997.
+
+6.2. Thương nhân nêu tại khoản a, mục 1.1 Điều 1, phải chấp hành các quy định tại Thông tư này. Nếu vi phạm sẽ bị xử phạt hành chính trong lĩnh vực hoạt động thương mại và bị thu hồi giấy chứng nhận nêu tại mục 5.2, Điều 5.
+
+6.3. Thông tư này có hiệu lực thi hành sau 30 ngày kể từ ngày ban hành.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1457 @@
+# Về việc triển khai thực hiện đề án điện nông thôn ngoại thành Hà Nội
+# Loại: Chỉ thị
+# Số hiệu: 15/2003/CT-UB
+# Ngày ban hành: 29/04/2003
+# Cơ quan: UBND thành phố Hà Nội
+# Người ký: Nguyễn Thế Quang
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ XÂY DỰNG
+
+Về việc ban hành Tiêu chuẩn xây dựng Việt Nam TCXD VN 281: 2004 '' Nhà văn hoá thể thao - Nguyên tắc cơ bản để thiết kế ''
+
+
+
+BỘ TRƯỞNG BỘ XÂY DỰNG
+
+Căn cứ  Nghị định số 36/ 2003/ NĐ - CP ngày 04 / 04 /  2003 của Chính Phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng.
+
+Căn cứ biên bản số 09/ BB - HĐKHKT ngày 18 / 1 / 2002 của Hội đồng Khoa học kỹ thuật  chuyên ngành nghiệm thu tiêu chuẩn  '' Nhà văn hoá thể thao  - Nguyên tắc cơ bản để thiết kế ''
+
+Xét đề nghị của Vụ trưởng Vụ Khoa học Công nghệ và Viện trưởng Viện Nghiên cứu Kiến trúc.
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1: Ban hành kèm theo quyết định này 01 Tiêu chuẩn Xây dựng Việt Nam TCXD VN 281: 2004 '' Nhà  văn hoá thể thao - Nguyên tắc cơ bản để thiết kế ''
+
+Điều 2: Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng công báo.
+
+Điều 3: Các Ông: Chánh Văn phòng Bộ, Vụ trưởng Vụ Khoa học Công nghệ, Viện trưởng Viện Nghiên cứu Kiến trúc và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này ./.
+
+Tiêu chuẩn xây dựng Việt Nam                                                     TCXDVN
+
+
+
+Nhà văn hoá -thể thao - Nguyên tắc cơ bản để thiết kế
+
+Building for sports-culture- basic principles for design
+
+
+
+1. Phạm vi áp dụng
+
+Tiêu chuẩn này áp dụng để thiết kế xây dựng mới hoặc cải tạo nhà văn hoá- thể thao.
+
+Chú thích:
+
+1. Nhà văn hoá- thể thao được dùng vào mục đích tổ chức các hoạt động văn hoá, thể thao ở cấp quận, huyện.
+
+2. Đối với nhà văn hoá- thể  thao có yêu cầu đặc biệt, khi các cơ quan có thẩm quyền cho phép thì được thiết kế theo yêu cầu, nhiệm vụ thiết kế riêng.
+
+2. Tiêu chuẩn viện dẫn
+
+Quy chuẩn Xây dựng Việt Nam.
+
+TCVN    2748 - 1991. Phân cấp công trình xây dựng - Nguyên tắc chung.
+
+TCXDVN 276: 2002.  Công trình công cộng - Nguyên tắc cơ bản thiết kế.
+
+TCVN 4250-1986.  Công trình thể thao- Sân thể thao - Tiêu chuẩn thiết kế.
+
+TCVN 4529- 1988.  Công trình thể thao- Nhà thể thao - Tiêu chuẩn thiết kế.
+
+TCVN 4474-1987.  Thoát nước bên trong nhà và công trình - Tiêu chuẩn thiết     kế.
+
+TCVN 4513-1988.  Cấp nước bên trong nhà và công trình - Tiêu chuẩn thiết kế.
+
+TCVN 2622 -1995.  Phòng cháy, chống cháy cho nhà và công trình- Yêu cầu thiết kế.
+
+TCVN 5687- 1991.  Thông gió điều tiết không khí, sưởi ấm - Tiêu chuẩn thiết kế
+
+TCXD  16- 1986.    Chiếu sáng nhân tạo trong công trình dân dụng.
+
+TCXD  25-1991 .   Đặt đường dây điện trong nhà ở và công trình công cộng - Tiêu chuẩn thiết kế
+
+TCXD  27- 1991.  Đặt thiết bị điện trong nhà ở và công trình công cộng - Tiêu chuẩn thiết kế
+
+3. Quy định chung
+
+3.1. Căn cứ vào tính chất, chức năng sử dụng và quy mô công trình, nhà văn hoá- thể thao được phân làm hai loại:
+
+Nhà văn hoá- thể thao với nội dung hoạt động thông thường;
+
+Nhà văn hoá- thể thao với nội dung hoạt động mang tính chất đặc trưng của vùng miền.
+
+3.2. Quy mô nhà văn hoá-  thể thao được tính theo sức chứa của phòng khán giả, thông thường lấy từ 200 người đến 500 người.
+
+3.3. Nhà văn hoá- thể thao được thiết kế theo 3 cấp công trình. Việc phân cấp  được áp dụng theo tiêu chuẩn “Phân cấp công trình xây dựng. Nguyên tắc chung- TCVN 2748- 1991”.
+
+4. Yêu cầu về khu đất xây dựng và tổ chức quy hoạch tổng mặt bằng
+
+
+
+4.1. Địa điểm khu đất xây dựng nhà văn hoá- thể thao phải nằm trong quy hoạch chung đã được duyệt phù hợp với sự phát triển kinh tế, văn hoá, xã hội hiện tại của địa phương và khả năng phát triển trong tương lai.
+
+4.2. Khu đất xây dựng nhà văn hoá- thể thao phải đảm bảo các yêu cầu sau:
+
+Môi trường sạch đẹp phù hợp với các hoạt động văn hoá, thể thao, học tập, rèn luyện;
+
+Có hệ thống giao thông thuận tiện, đảm bảo cho công tác xây dựng và đáp ứng được yêu cầu hoạt động của nhà văn hoá - thể thao trong tương lai;
+
+Thuận lợi cho việc cung cấp điện, nước, thông tin liên lạc v.v...;
+
+Khu đất ở vị trí cao ráo, thoáng mát, ít tốn kém cho biện pháp xử lý đặc biệt về nền móng công trình hoặc thoát nước khu vực.
+
+Nhà văn hoá- thể thao phải được bố trí ở khu vực trung tâm quận, huyện với bán kính phục vụ theo quy định trong bảng 1.
+
+
+
+Bảng 1- Bán kính phục vụ của nhà văn hoá- thể thao
+
+
+
+
+
+Loại nhà văn hoá- thể thao
+
+
+
+
+Bán kính phục vụ (m)
+
+
+
+
+
+
+
+
+
+Đối với các quận
+
+
+
+
+Từ 2000 đến 3500
+
+
+
+
+
+
+
+
+
+Đối với các huyện
+
+
+
+
+Từ 3500 đến 5000
+
+
+
+
+
+
+
+
+4.3. Diện tích đất xây dựng nhà văn hoá- thể thao căn cứ vào quy mô và tính chất điểm dân cư được quy định trong bảng 2.
+
+Bảng 2. Diện tích đất xây dựng nhà văn hoá- thể thao
+
+
+
+
+
+Tên gọi
+
+
+
+
+Sức chứa của phòng khán giả (người)
+
+
+
+
+Diện tích xây dựng (ha)
+
+
+
+
+
+
+1. Nhà văn hoá- thể thao với nội dung hoạt động thông thường
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Loại lớn
+
+
+
+
+Từ 400 đến 500
+
+
+
+
+Từ 0,8 đến 1,0
+
+
+
+
+
+
+- Loại trung bình
+
+
+
+
+Từ 200 đến 300
+
+
+
+
+Từ 0,6  đến 0,7
+
+
+
+
+
+
+- Loại nhỏ
+
+
+
+
+Từ 100 đến 200
+
+
+
+
+Từ 0,4 đến 0,5
+
+
+
+
+
+
+2. Nhà văn hoá- thể thao với nội dung hoạt động mang tính chất đặc trưng của vùng miền
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Loại lớn
+
+
+
+
+Nhỏ hơn 500
+
+
+
+
+Từ 0,6 đến 0,7
+
+
+
+
+
+
+- Loại trung bình
+
+
+
+
+Nhỏ hơn 400
+
+
+
+
+0,5
+
+
+
+
+
+
+- Loại nhỏ
+
+
+
+
+Từ 200 đến 300
+
+
+
+
+Từ 0,3 đến 0,4
+
+
+
+
+
+4.4. Nên bố trí nhà văn hoá- thể thao gần các công trình văn hoá, thể thao khác và phải tính tới khả năng phối hợp giữa các công trình để tạo thành các tổ hợp văn hoá- thể thao của đô thị.
+
+4.5. Phải triệt để hạn chế sử dụng đất nông nghiệp để xây dựng nhà văn hoá- thể thao. Trường hợp sử dụng đất nông nghiệp thì phải được các cơ quan có thẩm quyền phê duyệt.
+
+4.6. Nhà văn hoá- thể thao phải được bố trí cách chỉ giới xây dựng hoặc đường đỏ của đường giao thông chính ít nhất là 6m. Trường hợp phải tổ chức bãi để xe trong phạm vi công trình thì khoảng cách nói trên được phép tăng lên.
+
+
+
+4.7. Phải tuân theo các quy định về khu bảo vệ và khoảng cách ly an toàn đối với các công trình xây dựng như đã nêu trong các điều từ điều 4.5 đến 4.14 của Quy chuẩn xây dựng Việt Nam, tập I.
+
+Khoảng cách ly vệ sinh tối thiểu của nhà văn hoá- thể thao được quy định như sau:
+
+2000m- đối với nghĩa trang, bãi rác;
+
+
+
+
+
+1000m - đối với bệnh viện có điều trị các bệnh truyền nhiễm;
+
+
+
+
+
+
+1000m - đối với nhà máy có độ độc hại cấp I;
+
+
+
+
+
+
+500m   - đối với nhà máy có độ độc hại cấp II;
+
+
+
+
+
+
+300m   - đối với nhà máy có độ độc hại cấp III;
+
+
+
+
+
+
+100m   - đối với nhà máy có độ độc hại cấp IV;
+
+
+
+
+
+
+50m     - đối với nhà máy có độ độc hại cấp V.
+
+
+
+
+
+Chú thích: Nếu công trình ở vị trí cuối hướng gió chủ đạo so với nhà máy thì khoảng cách này cần được tính toán cụ thể cho thích hợp.
+
+4.8. Hướng của các khối chức năng chính của nhà văn hoá- thể thao phải bảo đảm đón được gió chủ đạo về mùa hè. Tận dụng được ánh sáng tự nhiên để chiếu sáng tối đa cho các phòng trong công trình.
+
+4.9. Thiết kế tổng mặt bằng nhà văn hoá- thể thao cần phù hợp với các yêu cầu sau:
+
+Phân khu chức năng rõ ràng;
+
+Tổ chức giao thông hợp lý;
+
+Phù hợp với yêu cầu sử dụng.
+
+4.10. Tỷ lệ diện tích đất xây dựng cho các khu chức năng chính của nhà văn hoá- thể thao được tính toán như sau:
+
+
+
+
+
+- Diện tích xây dựng các loại công trình kiến trúc
+
+
+- Diện tích phần sân tập ngoài trời
+
+
+- Diện tích cây xanh, sân vườn
+
+
+- Diện tích đất làm đường đi
+
+
+
+
+Từ 30% đến 35%
+
+
+Từ 25% đến 30%
+
+
+Từ 15% đến 20%
+
+
+10%
+
+
+
+
+
+4.11. Xung quanh khu đất xây dựng nhà văn hoá- thể thao phải có hàng rào bảo vệ và nên trồng dải cây xanh để chắn gió, bụi và giảm tiếng ồn. Chiều rộng dải cây xanh không nhỏ hơn 5m đối với đường giao thông thường và 10m đối với đường giao thông có mật độ lớn.
+
+4.12.    Trước lối ra vào của nhà văn hoá- thể thao (nơi có phòng biểu diễn) cần có bãi đỗ xe và nơi tập kết người, tiêu chuẩn diện tích lấy 0,3m2/chỗ ngồi. Chiều rộng đường phân tán khán giả được quy định theo tính toán nhưng không nhỏ hơn 1m/500 khán giả.
+
+4.13.    Khu đất xây dựng nhà văn hoá- thể thao phải có ít nhất hai cổng ra vào cho người đi bộ và xe máy, ô tô. Cần có đường giao thông riêng cho khu vực kho và bãi để xe.
+
+5. Nội dung công trình và yêu cầu giải pháp thiết kế.
+
+5.1. Nhà văn hoá- thể thao bao gồm các khối chức năng chính sau đây:
+
+Khối hoạt động quần chúng;
+
+Khối học tập;
+
+Khối công tác chuyên môn;
+
+Khối quản lý hành chính.
+
+5.2. Chỉ tiêu diện tích xây dựng của các khối chức năng chính trong nhà văn hoá - thể thao được quy định như sau:
+
+
+
+
+
+- Khối hoạt động quần chúng
+
+
+- Khối học tập
+
+
+- Khối công tác chuyên môn
+
+
+- Khối quản lý hành chính
+
+
+
+
+50%
+
+
+35%
+
+
+10%
+
+
+5%
+
+
+
+
+
+5.3. Không gian các phòng chức năng của nhà văn hoá- thể thao cần có tính thích ứng và tính linh hoạt cao về mặt sử dụng. Các phòng phải được bố trí sao cho tiện về mặt phân khu sử dụng và thống nhất quản lý.
+
+5.4. Khi thiết kế nhà văn hóa- thể thao cần bố trí các phòng hoạt động riêng cho trẻ em,  người già tại nơi có thể ra vào an toàn, thuận tiện. Phòng hoạt động của trẻ em cần trang trí vui nhộn, màu sắc tươi sáng phù hợp với đặc điểm và sự phát triển tâm sinh lý trẻ.
+
+Chú thích : Cần tính đến nhu cầu sử dụng của người tàn tật trong công trình. Yêu cầu thiết kế được lấy theo tiêu chuẩn TCXDVN 264: 2002 “Nhà và công trình- Nguyên tắc cơ bản xây dựng công trình để đảm bảo người tàn tật tiếp cận sủ dụng”
+
+5.6. Nội dung của khối hoạt động quần chúng gồm các phòng chính sau:
+
+Phòng khán giả;
+
+Phòng vui chơi giải trí;
+
+Phòng giao tiếp;
+
+Phòng triển lãm (phòng trưng bày, phòng truyền thống);
+
+Phòng đọc sách, thư viện;
+
+Phòng thi đấu thể thao, sân thi đấu thể thao.
+
+5.7. Phòng khán giả :
+
+Phòng khán giả gồm: sảnh, phòng khán giả, sân khấu, phòng máy chiếu.;
+
+Diện tích của phòng khán giả được tính cho một chỗ ngồi là 0,7m2  đến 1 m2/chỗ ngồi.
+
+Chú thích: Khi quy mô phòng khán giả lớn hơn 300 chỗ: việc thiết kế tia nhìn, bố trí ghế, lối đi lại, thiết kế âm thanh, phòng máy chiếu phải tuân theo TCVN 5577-  1991. Rạp chiếu bóng - Tiêu chuẩn thiết kế. Khi quy mô phòng khán giả từ 300 chỗ trở xuống có thể thiết kế thành phòng hoạt động đa năng với nền phẳng. Cốt cao độ của sân khấu có thể bằng cốt cao độ của phòng khán giả. Yêu cầu về chất lượng âm thanh phải đảm bảo về độ rõ của lời nói.
+
+5.8. Phòng vui chơi giải trí.
+
+Phòng vui chơi giải trí cần căn cứ vào nội dung hoạt động và nhu cầu thực tế để thiết kế hình dáng và bố cục. Có thể thiết kế kèm theo phòng quản lý và kho v.v...
+
+Khi quy mô của phòng giải trí lớn thì nên tách riêng phòng giải trí của trẻ em và phòng giải trí của người lớn.  Bên ngoài phòng giải trí trẻ em nên kết hợp khu vực sân chơi.
+
+Diện tích của phòng giải trí được xác định như sau:
+
+
+
+
+
+Phòng giải trí loại lớn
+
+
+
+
+70m2
+
+
+
+
+
+
+Phòng giải trí loại trung bình
+
+
+
+
+50m2
+
+
+
+
+
+
+Phòng giải trí loại nhỏ
+
+
+
+
+30m2
+
+
+
+
+
+5.9. Phòng gia tiếp:
+
+Phòng giao tiếp bao gồm: phòng khiêu vũ, phòng trà, phòng quản lý, căng tin.
+
+Cạnh phòng khiêu vũ cần thiết kế gian gửi mũ áo, gian hút thuốc và kho nhỏ. Diện tích hoạt động của phòng này được tính 2m2/người.
+
+Phòng khiêu vũ cần có 2 cửa mở trực tiếp với bên ngoài, hoặc hành lang. Diện tích phòng khiêu vũ nên lấy từ 160m2 đến 220m2.
+
+Sàn nhà cần phải bằng phẳng, không trơn trượt. Trang trí nội thất và ánh sáng tốt, âm thanh không chói tai và không ảnh hưởng đến các khu vực khác.
+
+Phòng trà cần có gian chuẩn bị trong đó có bố trí chậu rửa, thiết bị đun nước.
+
+5.10. Phòng triển lãm:
+
+Phòng liển lãm bao gồm : phòng trưng bày, hành lang triển lãm và kho. Diện tích sử dụng của phòng trưng bày không nhỏ hơn 65m2.
+
+Phòng trưng bày cần dùng chiếu sáng tự nhiên là chính và cần tránh ánh sáng loá và ánh sáng chiếu thẳng.
+
+Chiều rộng và chiều cao lối ra vào của phòng trưng bày, hành lang cần phù hợp với các yêu cầu về thoát người, đảm bảo an toàn cho việc vận chuyển tranh ảnh và đồ triển lãm.
+
+Đường đi trong các gian trưng bày cần bố trí thuận tiện cho việc đi lại. vị trí đặt các tủ trưng bày và thiết bị chiếu sáng phải được sắp xếp sao cho để có tính linh hoạt cao.
+
+5.11. Phòng đọc sách:
+
+Phòng đọc sách bao gồm : phòng đọc, phòng tư liệu, kho sách báo;
+
+Phòng đọc sách cần đặt ở nơi yên tĩnh, có đủ ánh sáng. Cần tránh ánh sáng loá và ánh sáng chiếu thẳng. Cửa sổ lấy ánh sáng nên có thiết bị che nắng.
+
+Khi quy mô của phòng đọc sách lớn hơn 50m2 nên tách phòng đọc trẻ em riêng.
+
+5.12.    Nội dung của khối học tập gồm các phòng: phòng luyện tập tổng hợp, phòng tập thể thao, sân tập thể thao, phòng học nhỏ, phòng học lớn, phòng dạy mỹ thuật. Vị trí của khối học tập cần bố trí ở nơi yên tĩnh trong nhà văn hoá- thể thao (trừ phòng luyện tập tổng hợp, phòng tập thể thao, saan thể thao).
+
+5.13.    Phòng luyện tập tổng hợp.
+
+Phòng luyện tập tổng hợp cần ở vị trí hợp lý để không làm ảnh hưởng đến các phòng lân cận;
+
+Cần bố trí khu vệ sinh, nhà tắm cho người đến tập; Khi cần phải thiết kế các gian, kho;
+
+Trong phòng tập các môn như: múa, thể dục thẩm mỹ, thể hình, thể dục nghệ thuật, dọc theo tường cần bố trí tay vịn, lan can để tập luyện. Trên mặt tường  không bố trí cửa cần đặt gương soi toàn thân;
+
+Tiêu chuẩn diện tích sử dụng của phòng luyện tập tổng hợp là 6m2/người. Số người luyện tập không nên lớn hơn 25 người;
+
+Chiều cao phòng cần được xác định hợp lý dựa trên yêu cầu sử dụng, nhưng không được thấp hơn 3,6m;
+
+Nền của phòng luyện tập tổng hợp nên làm bằng gỗ pắc kê;
+
+Cửa ra vào nên làm bằng cửa cách âm.
+
+Chú thích : Đối với phòng thể thao, chiều cao phòng cần phù hợp với tiêu chuẩn thiết kế các công trình thể thao hiện hành.
+
+5.14. Một số môn thể thao nên đưa vào nội dung hoạt động của nhà văn hoá- thể thao như : cầu lông, bóng bàn, vật cổ điển, vật tự do, thể dục thể hình, thể dục thẩm mỹ. Khi thiết kế phòng tập thể thao của các bộ môn phải đảm bảo đúng kích thước sàn tập theo quy định  trong bảng 3.
+
+Bảng 3. kích thước sàn tập củamột số môn thể thao trong
+
+nhà văn hoá-thể thao
+
+
+
+
+
+Môn thể thao
+
+
+
+
+Kích thước (m)
+
+
+
+
+Số người
+
+
+
+
+Ghi chú
+
+
+
+
+
+
+
+
+
+
+
+Dài
+
+
+
+
+Rộng
+
+
+
+
+Chiều cao thông thuỷ
+
+
+
+
+trong 1
+
+
+ca tập
+
+
+
+
+
+
+
+
+
+
+
+1) Cầu lông
+
+
+
+
+15
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+12
+
+
+
+
+Sân chơi đơn 13,4x5,18. Sân chơi đôi 15,4x6,1. Nếu bố trí 2 sân liền nhau thì khoảng cách nhỏ nhất giữa chúng là 3m
+
+
+
+
+
+
+2) Bóng bàn
+
+
+
+
+7,7
+
+
+
+
+4,5
+
+
+
+
+4
+
+
+
+
+8 ng/bàn
+
+
+
+
+
+
+
+
+
+
+
+3) Vật cổ điển, tự do
+
+
+
+
+24
+
+
+
+
+14
+
+
+
+
+5
+
+
+
+
+12
+
+
+
+
+
+
+
+
+
+
+
+4) Thể dục thể hình, thẩm mỹ
+
+
+
+
+50
+
+
+
+
+18
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chú thích: Trường hợp trong nhà văn hoá- thể thao có tổ chức thêm một số các hoạt động thể thao khác như bóng chuyền, bóng rổ, cầu lông, bóng đá... thì tiêu chuẩn diện tích được lấy theo các quy định trong tiêu chuẩn TCVN 4250-1986.  Công trình thể thao- Sân thể thao -  Tiêu chuẩn thiết kế và TCVN 4529- 1988.  Công trình thể thao- Nhà thể thao- Tiêu chuẩn thiết kế.
+
+5.15. Lớp học được tổ chức thành 2 loại: Lớp học nhỏ và lớp học lớn.
+
+Số người của mỗi lớp học nhỏ nên lấy khoảng 40 người. Lớp học lớn khoảng 80 người. Chỉ tiêu tính toánd diện tích sử dụng của lớp học được tính 1,4m2/người. Yêu cầu thiết kế lớp học phải tuân theo các quy định trong tiêu chuẩn thiết kế trường học phổ thông hiện hành.
+
+5.16. Lớp dạy mỹ thuật.
+
+Diện tích sử dụng của lớp học mỹ thuật được tính 2,8m2/người. Mỗi lớp không nên quá 30 người;
+
+Lớp mỹ thuật nên lấy ánh sáng từ cửa sổ phía Bắc;
+
+Ngoài các thiết bị dùng cho học tập, trong lớp cần đặt chậu rửa ở bốn góc phòng. Trên tường có bố trí ổ cắm điện.
+
+5.17. Nội dung của khối công tác chuyên môn gồm: phòng làm công tác văn hoá văn nghệ, mỹ thuật, âm nhạc, múa, kịch, nhiếp ảnh, ghi âm - hình .v.v..., lãnh đạo các phòng ban, ban chỉ huy thiếu niên nhi đồng, ban nghiên cứu văn hoá quần chúng.
+
+
+
+5.18. Phòng mỹ thuật nên đặt hệ dây treo tường (treo tranh ảnh), thiết bị che ánh sáng, chậu rửa. Diện tích sử dụng từ 24m2 đến 32m2.
+
+5.19. Phòng âm nhạc cần bố trí từ 1 đến 2 phòng đàn. Mỗi phòng có diện tích sử dụng từ 16m2 đến 32m2 và phải tính đến yêu cầu chất lượng âm thanh trong phòng và cách âm.
+
+5.20. Phòng nhiếp ảnh cần bố trí phòng chụp ảnh và buồng tối in tráng phim.
+
+Buồng tối cần có thiết bị che ánh sáng và thông gió, trao đổi khí, bàn làm việc, chậu rửa;
+
+Cần bố trí gian thực hành trong phòng nhiếp ảnh. Căn cứ vào quy mô có thể bố trí từ  2 đến 4 gian, mỗi gian có diện tích không nhỏ hơn 4m2.
+
+5.21. Phòng  ghi âm, ghi hình cần bố trí ở nơi yên tĩnh trong nhà văn hoá - thể thao. Yêu cầu thiết kế phòng ghi âm, ghi hình phải áp dụng những quy định trong TCVN  5577 - 1991.  Rạp chiếu bóng. Tiêu chuẩn thiết kế.
+
+Trang trí nội thất của phòng ghi âm, ghi hình và phòng điều khiển cần đảm bảo chất lượng âm thanh trong phòng;
+
+Trên tường ngăn giữa phòng ghi âm với phòng điều khiển cần có cửa quan sát cách âm.
+
+5.22.  Nội dung của khối quản lý hành chính gồm các phòng giám đốc, phòng làm việc, phòng văn thư đánh máy, phòng kế toán, phòng lễ tân, phòng trực ban. Vị trí của khối nên bố trí sao cho liên hệ với bên ngoài và quản lý bên trong thuận tiện.
+
+5.23. Các phòng phụ trợ của khối quản lý hành chính bao gồm : kho, phòng kỹ thuật điện, nhà xe... được bố trí theo yêu cầu thực tế. Diện tích các phòng được lấy theo tiêu chuẩn thiết kế  trụ sở cơ quan hiện hành.
+
+6.Yêu cầu về phòng cháy, chữa cháy.
+
+6.1.Thiết kế phòng cháy, chữa cháy cho nhà văn hoá- thể thao phải tuân theo các quy định trong “TCVN  2622-  1995. Phòng cháy,  chống cháy cho nhà và công trình - Yêu cầu thiết kế”.
+
+6.2. Bậc chịu lửa của nhà văn hoá - thể thao được quy định trong bảng 4.
+
+Bảng 4. Bậc chịu lửa của nhà văn hoá- thể thao
+
+
+
+
+
+Số tầng cao
+
+
+
+
+Bậc chịu lửa
+
+
+
+
+
+
+
+
+
+Lớn hơn hoặc bằng 3 tầng
+
+
+
+
+
+Nhỏ hơn 3 tầng
+
+
+
+
+Lớn hơn hoặc bằng bậc II
+
+
+
+
+
+Bậc III
+
+
+
+
+
+6.3. Các phòng biểu diễn, phòng triển lãm, phòng khiêu vũ, phòng giải trí ... nên bố trí tại tầng 1 và có lối ra vào trực tiếp an toàn.
+
+6.4. Chiều rộng thông thuỷ nhỏ nhất của hành lang trong nhà văn hoá- thể thao không được nhỏ hơn quy định trong bảng 5.
+
+Bảng 5. Chiều rộng thông thuỷ nhỏ nhất của hành lang
+
+trong nhà văn hoá- thể thao
+
+
+
+
+
+Bộ phận
+
+
+
+
+Hành lang giữa
+
+
+phòng đặt ở 2 bên
+
+
+(m)
+
+
+
+
+Hành lang bên
+
+
+phòng đặt ở 1 bên
+
+
+(m)
+
+
+
+
+
+
+Khối hoạt động quần chúng
+
+
+Khối học tập
+
+
+Khối công tác chuyên môn
+
+
+
+
+2,1
+
+
+1,8
+
+
+1,5
+
+
+
+
+1,8
+
+
+1,5
+
+
+1,2
+
+
+
+
+
+6.6. Tất cả các cửa trên lối thoát người đều phải mở ra ngoài hành lang. Không được dùng cửa quay, cửa xếp, cửa đẩy.
+
+6.7. Chiều rộng cửa ra vào chính của phòng triển lãm, phòng khiêu vũ, phòng vui chơi giải trí lớn không được nhỏ hơn 1,5m.
+
+Những nơi  tập trung  đông người ở sảnh, cầu thang, đường thoát người cần bố trí đèn chiếu sáng sự cố và bảng hiệu chỉ dẫn phân tán.
+
+7. Yêu cầu về cấp thoát nước và thiết bị kỹ thuật vệ sinh.
+
+7.1. Khi thiết kế hệ thống cấp thoát nước và thiết bị kỹ thuật vệ sinh cho nhà văn hoá- thể thao phải tuân theo những quy định trong tiêu chuẩn “TCVN 4513-1988- Cấp nước bên trong nhà và công trình - Tiêu chuẩn thiết kế và  TCVN 4474-1987- Thoát nước bên trong nhà và công trình-  Tiêu chuẩn thiết kế”.
+
+
+
+7.2. Nước cấp cho nhà văn hoá- thể thao phải được lấy từ hệ thống cấp nước chung. Trường hợp ở những nơi không có hệ thống cấp nước đô thị, cho phép tận dụng các nguồn nước tự nhiên để sử dụng nhưng phải được xử lý bằng các biện pháp lắng, lọc đơn giản.
+
+7.3. Khi thiết kế mạng lưới đường ống cấp nước bên trong phải tính theo tổng lưu lượng dùng nước lớn nhất của mọi yêu cầu sử dụng.
+
+7.4. Cho phép thiết kế hệ thống cấp nước nóng cục bộ cho các phòng có nhu cầu cần thiết phục vụ học tập.
+
+8. Yêu cầu về thông gió và điều hoà không khí.
+
+8.1. Trong nhà văn hoá- thể thao phải thiết kế hệ thống thông gió và điều hoà không khí cho những phòng có số lượng người tập trung đông như : phòng khán giả, phòng triển lãm, phòng khiêu vũ, phòng giải trí lớn v.v... để đảm bảo yêu cầu vệ sinh và chống nóng về mùa hè.
+
+8.2. Khi thiết kế hệ thống thông gió, điều hoà không khí cho nhà văn hoá- thể thao phải bảo đảm nhiệt độ tính toán trong nhà của các phòng theo quy định trong bảng 6.
+
+Bảng 6. nhiệt độ tính toán trong một số phòng của nhà văn hoá- thể thao
+
+
+
+
+
+Tên phòng
+
+
+
+
+Nhiệt độ trong phòng
+
+
+(oC)
+
+
+
+
+
+
+Phòng khán giả, phòng triển lãm, phòng khiêu vũ, phòng đọc sách, lớp học, nhà làm việc chuyên môn
+
+
+Phòng giải trí
+
+
+
+
+
+
+
+Từ 20  đến 25
+
+
+
+
+
+
+Phòng thể thao
+
+
+
+
+
+
+
+Từ 18  đến 20
+
+
+
+
+
+
+Phòng luyện tập tổng hợp
+
+
+
+
+
+
+
+Từ 22 đến 25
+
+
+
+
+
+8.3. Các phòng khán giả dưới 400 chỗ và tất cả các phòng học, làm việc phải thiết kế thông gió tự nhiên và có hệ thống quạt trần.
+
+8.4 Các khu vệ sinh  cần có thiết bị thông gió, thải khí độc lập.
+
+8.5. Cấp tiếng ồn cho phép trong các loại phòng không được lớn hơn quy định trong bảng 7.
+
+Bảng 7. Cấp tiếng ồn cho phép trong nhà văn hoá-,thể thao
+
+
+
+
+
+Tên các phòng
+
+
+
+
+
+
+
+Cấp tiếng ồn cho phép (dB)
+
+
+
+
+
+
+- Phòng âm nhạc (phòng có yêu cầu yên tĩnh cao)
+
+
+- Phòng học, phòng đọc sách...
+
+
+- Phong vui chơi giải trí
+
+
+
+
+30
+
+
+50
+
+
+55
+
+
+
+
+
+9. Yêu cầu về chiếu sáng, kỹ thuật điện và thiết bị điện yếu.
+
+9.1.Cần tận dụng triệt để chiếu sáng tự nhiên, trực tiếp cho các phòng : phòng tập thể thao, phòng học, phòng triển lãm v.v... Khi thiết kế chiếu sáng tự nhiên cho các phòng nói trên cần áp dụng các hình thức chiếu sáng sau:
+
+Chiếu sáng bên qua cửa sổ các tường bao che;
+
+Chiếu sáng bên qua mái, cửa mái qua lỗ lấy sáng ở mái và các lỗ sáng ở vị trí cao của nhà;
+
+Chiếu sáng hỗn hợp (kết hợp chiếu sáng bên và chiếu sáng bên).
+
+9.2. Khi thiết kế chiếu sáng tự nhiên cho các phòng phải đảm bảo độ đồng đều nhỏ nhất 0,7 cho chiếu sáng bên và 21 cho chiếu sáng hỗn hợp (tỷ số giữa độ rọi lớn nhất và nhỏ nhất).
+
+9.3. Các phòng có chức năng chính trong nhà văn hoá- thể thao cần được ưu tiên chiếu sáng tự nhiên. Tỷ lệ diện tích cửa sổ với diện tích sàn của phòng đó không được nhỏ hơn quy định trong bảng 8.
+
+Bảng 8 Tỷ lệ diện tích của sổ với diện tích sàn để tính
+
+chiếu sáng tự nhiên
+
+
+
+
+
+Tên phòng
+
+
+
+
+Tỷ lệ DT cửa sổ/DT sàn
+
+
+
+
+
+
+- Phòng triển lãm - Phòng đọc sách
+
+
+- Phòng mỹ thuật
+
+
+
+
+1/3
+
+
+
+
+
+
+- Phòng vui chơi giải trí, giao tiếp
+
+
+- Phòng văn nghệ, âm nhạc, múa, kịch
+
+
+- Phòng học
+
+
+- Phòng luyện tập tổng hợp
+
+
+
+
+
+
+
+1/5
+
+
+
+
+
+9.4. Cần có biện pháp và thiết bị làm giảm chói hoặc không bị chói loá do ánh sáng trực tiếp hay phản chiếu khi có mặt trời.
+
+9.5. Tất cả các bộ phận trong nhà văn hoá- thể thao phải được thiết kế chiếu sáng nhân tạo. Độ chiếu sáng nhỏ nhất trên mặt phẳng tính toán quy ước được quy định trong bảng 9.
+
+Bảng 9 . Độ rọi chiếu sáng nhỏ nhất trên mặt phẳng tính toán
+
+
+
+
+
+Tên các phòng
+
+
+
+
+Độ chiếu sáng bình quân ( lux)
+
+
+
+
+Ghi chú
+
+
+
+
+
+
+Các phòng biểu diễn
+
+
+
+
+- Phòng khán giả
+
+
+- Sân khấu
+
+
+- Phòng hoá trang
+
+
+- Máy chiếu
+
+
+
+
+75 ~ 150
+
+
+50 ~ 100
+
+
+50 ~ 100
+
+
+20 ~ 50
+
+
+
+
+Sân khấu cần có chiếu sáng làm việc
+
+
+
+
+
+
+Phòng giải trí
+
+
+
+
+Phòng giải trí
+
+
+
+
+50 ~ 100
+
+
+
+
+
+
+
+
+
+
+
+Phòng giao tiếp
+
+
+
+
+Phòng khiêu vũ - phòng trà
+
+
+
+
+50 ~ 100
+
+
+
+
+
+
+
+
+
+
+
+Phòng triển lãm
+
+
+
+
+Phòng triển lãm - hành lang
+
+
+
+
+75 ~ 150
+
+
+
+
+Nên đặt chiếu sáng cục bộ
+
+
+
+
+
+
+Các phòng đọc
+
+
+
+
+Phòng đọc
+
+
+
+
+75 ~ 150
+
+
+
+
+Nên đặt chiếu sáng cục bộ
+
+
+
+
+
+
+Các phòng học tập
+
+
+
+
+- Phòng làm việc mỹ thuật
+
+
+- Phòng chụp ảnh
+
+
+- Phòng ghi âm
+
+
+- Các phòng khác
+
+
+
+
+75 ~ 150
+
+
+75 ~ 150
+
+
+50 ~ 100
+
+
+50 ~ 100
+
+
+50~ 100
+
+
+
+
+- Cần có chiếu sáng cục bộ
+
+
+- Cần có chiếu sáng cục bộ
+
+
+
+
+
+
+Các phòng làm việc chuyên môn
+
+
+
+
+- Phòng luyện tập tổng hợp
+
+
+- Lớp học thường
+
+
+- Lớp học lớn
+
+
+- Lớp học mỹ thuật
+
+
+
+
+75 ~ 150
+
+
+75 ~ 150
+
+
+75 ~ 150
+
+
+~ 200
+
+
+
+
+
+
+
+
+
+
+9.6.  Mặt phẳng tính toán quy ước để thiết kế chiếu sáng là mặt phẳng cách  sàn 0,8m.
+
+9.7. Khi thiết kế chiếu sáng nhân tạo cho nhà văn hoá -thể thao ngoài những quy định trên còn phải tuân theo TCXD 16 - 1986. Chiếu sáng nhân tạo cho công trình dân dụng.
+
+9.8. Kỹ thuật điện và điện yếu.
+
+9.8.1. Thiết bị phân phối điện cần bố trí ở nơi dễ quản lý, đường ra vào thuận tiện.
+
+9.8.2. Thiết kế điện trong các phòng nhà văn hoá- thể thao cần tính đến khả năng các phòng hoạt động đa chức năng và tăng thêm nội dung thiết bị.
+
+9.8.3. Đường dây phân phối điện cần bố trí phù hợp  với các thiết bị sử dụng điện khác nhau.
+
+9.8.4. Đường dây trong các phòng cần đi ngầm. Việc lắp đặt đường dây dẫn điện và thiết bị điện cần tuân theo những quy định trong “TCXD 25-1991. Đặt đường dây dẫn điện trong nhà ở và công trình công cộng-Tiêu chuẩn thiết kế và   TCXD 27- 1991 Đặt thiết bị điện trong nhà ở và công trình công cộng- Tiêu chuẩn thiết kế”
+
+10. Yêu cầu về công tác hoàn thiện.
+
+10.1. Công tác hoàn thiện cần tuân theo các quy định trong tiêu chuẩn “TCVN 5674- 1992. Công tác hoàn thiện trong xây dựng. Tiêu chuẩn thi công nghiệm thu” và phải đảm bảo yêu cầu thích dụng, bền vững và mỹ thuật.
+
+10.2. Sàn của phòng khán giả phải chống trơn, trượt và quét dọn dễ dàng. Trong các phòng kỹ thuật thì đường và mặt sàn phải ốp và lát bằng vật liệu không cháy.
+
+10.3. Các phòng hoạt động quần chúng cần sử dụng vật liệu lát nền  dễ cọ rửa, lau chùi, chịu mài mòn. Phòng hoạt động của trẻ và người già cần sử dụng sàn gỗ để có tác dụng tốt cho sức khoẻ.
+
+10.4. Tường và sàn trong khu vệ sinh phải có lớp chống thấm.  Chiều cao lớp chống thấm của tầng tính từ mặt nền hoặc sàn từ 0,1m đến 1,2m cho các phòng khu vệ sinh và 1,5m cho phòng tắm.
+
+10.5. Cánh cửa vào phòng khán giả, phòng khiêu vũ, phòng ghi âm ở khe cửa   phải có đệm cách âm. Cửa của khối hoạt động quần chúng, khối học tập của nhà văn hoá - thể thao không được làm ngưỡng cửa.
+
+10.6. Công tác hoàn thiện công trình gồm các việc : sơn, lát, trát, ốp... phải đáp ứng các yêu cầu kỹ thuật, mỹ thuật và sử dụng. Cần kết hợp đồng bộ trang trí nội thất, ngoại thất, đường xá, cây cảnh, sân vườn.
+
+10.7. Khi mái của nhà văn hoá- thể thao được sử dụng làm nơi hoạt động ngoài trời thì chiều cao lan can bảo vệ không được nhỏ hơn 1,2m. Khi làm lan can bằng kim loại thì các chi tiết của lan can không được làm ảnh hưởng đến hoạt động của người sử dụng.
+
+
+
+
+
+

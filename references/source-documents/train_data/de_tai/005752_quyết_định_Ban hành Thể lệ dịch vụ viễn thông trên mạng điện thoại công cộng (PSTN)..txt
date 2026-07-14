@@ -1,0 +1,5283 @@
+# Ban hành Thể lệ dịch vụ viễn thông trên mạng điện thoại công cộng (PSTN).
+# Loại: Quyết định
+# Số hiệu: 953/2000/QĐ-TCBĐ
+# Ngày ban hành: 17/10/2000
+# Cơ quan: Hội đồng Bộ trưởng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+Bộ tài chínhQUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Về ban hành Chế độ kế toán hộ kinh doanh
+
+
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ vào Luật thuế Giá trị gia tăng (Số 2/1997/QH9) và Luật thuếthu nhập doanh nghiệp (Số 3/1997/QH9)được Quốc hội thông qua ngày 10/5/1997;
+
+Căn cứ Pháp lệnh Kế toán - Thống kê được công bố theo Lệnh số 06-LCT/HĐNN ngày 20/5/1988 của Hội đồng Nhà nước và Điều lệ tổ chức kế toán Nhà nướcban hành theo Nghị định số 25 - HĐBT ngày 18/3/1989 của Hội đồng Bộ trưởng (naylà Chính phủ);
+
+Căn cứ Nghị định số 28/1998/NĐ-CP ngày 11/5/1998 của Chính phủ quiđịnh chi tiết thi hành Luật thuế GTGT và Nghị định số 102/1998/NĐ-CP ngày28/12/1998 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định28/1998/NĐ-CP.
+
+Căn cứ Nghị định số 15/ CP ngày 02/3/1993 của Chính phủ về nhiệmvụ, quyền hạn và trách nhiệm quản lý Nhà nước của các Bộ, cơ quan ngang Bộ;
+
+Căn cứ Nghị định số 178/CP ngày 28/10/1994 của Chính phủ quy địnhchức năng, nhiệm vụ và tổ chức bộ máy của Bộ Tài chính;
+
+Để giúp các hộ kinh doanh thực hiện công tác kế toán phù hợp vớiquy định của Luật thuế GTGT, Luật thuế tiêu thụ đặc biệt và Luật thuế thu nhậpdoanh nghiệp; Theo đề nghị của Vụ trưởng Vụ Chế độ kế toán và Tổng cục trưởngTổng cục Thuế,
+
+QUYẾT ĐỊNH:
+
+Điều 1:Ban hành kèm theo Quyết định này "Chế độ kế toán hộ kinh doanh".
+
+Điều 2:Chế độ kế toán hộ kinh doanh áp dụng cho tất cả các hộ sản xuất, kinh doanh chưađủ điều kiện thành lập doanh nghiệp tư nhân hoạt động trong lĩnh vực sản xuấtcông nghiệp, xây dựng, vận tải, khai thác tài nguyên, nuôi trồng thuỷ sản, kinhdoanh thương nghiệp, ăn uống, phục vụ, sửa chữa và các dịch vụ khác,... códoanh số bán hàng theo mức qui định của Bộ Tài chính (Tổng cục Thuế) đối vớitừng ngành nghề cụ thể (dưới đây gọi tắt là hộ kinh doanh).
+
+Điều 3:Chế độ kế toán hộ kinh doanh có hiệu lực thi hành từ 01/01/2001, được áp dụngthống nhất trong cả nước và thay thế Chế độ kế toán hộ kinh doanh ban hành theoQuyết định số 1271-TC/QĐ/CĐKT ngày 14/12/1995 của Bộ trưởng Bộ Tài chính.
+
+Điều 4:Cục thuế các Tỉnh, Thành phố trực thuộc Trung ương phối hợp với các ngành cóliên quan ở địa phương giúp UBND Tỉnh, Thành phố hướng dẫn, kiểm tra các hộkinh doanh trong địa bàn thực hiện chế độ kế toán này.
+
+Điều 5-Chủ tịch UBND các Tỉnh, Thành phố trực thuộc Trung ương và Tổng cục trưởng Tổngcục Thuế, Vụ trưởng Vụ Chế độ kế toán chịu trách nhiệm hướng dẫn, kiểm tra vàthi hành quyết định này./.
+
+CHẾ ĐỘ KẾ TOÁN HỘ KINH DOANH
+
+(Ban hành theo Quyết định số 169 - 2000/QĐ-BTC ngày 25/10/2000 củaBộ trưởng Bộ Tài chính)
+
+CHƯƠNGI
+
+QUYĐỊNH CHUNG
+
+Điều 1:Tất cả các hộ sản xuất, kinh doanh chưa đủ điều kiện thành lập doanh nghiệp tưnhân hoạt động trong lĩnh vực sản xuất công nghiệp, xây dựng, vận tải, khaithác tài nguyên, nuôi trồng thuỷ sản, kinh doanh thương nghiệp, ăn uống, phụcvụ, sửa chữa và các dịch vụ khác,... có doanh số bán hàng theo quy định của BộTài chính (Tổng cục Thuế) đối với từng ngành nghề cụ thể (dưới đây gọi chung làhộ kinh doanh), đều phải thực hiện chế độ kế toán này.
+
+Cáchộ kinh doanh thực hiện đúng qui định trong chế độ kế toán này được cơ quanthuế sử dụng số liệu kế toán để tính thuế.
+
+Điều 2:Kế toán các hộ kinh doanh phải đảm bảo phản ánh các nội dung chủ yếu sau đây:
+
+Sốlượng và giá trị tài sản, vật tư, tiền vốn, các khoản nợ hiện có đang sử dụngvào sản xuất, kinh doanh;
+
+Sốlượng và giá trị hàng hoá, dịch vụ mua vào;
+
+Sốlượng và giá trị hàng hoá, sản phẩm đã bán, dịch vụ đã cung cấp;
+
+Cáckhoản chi phí đã sử dụng vào SXKD;
+
+Kếtquả sản xuất, kinh doanh và các khoản thuế, lệ phí phải nộp Nhà nước, các khoảnthuế được hoàn (nếu có).
+
+Điều 3:Kế toán hộ kinh doanh phải ghi chép đầy đủ, chính xác, kịp thời, trung thực mọinghiệp vụ kinh tế, tài chính phát sinh liên quan đến hoạt động sản xuất, kinhdoanh của hộ. Mọi nghiệp vụ kinh tế, tài chính phát sinh đều phải lập và ghichép đầy đủ vào chứng từ kế toán. Mọi số liệu ghi trên sổ kế toán phải có chứngtừ hợp pháp, hợp lệ chứng minh. Việc lập chứng từ và ghi sổ kế toán phải đúngngày, tháng phát sinh. Cuối tháng, cuối quý, cuối năm phải khoá sổ kế toán, lậptờ kê khai thuế và các bảng kê theo quy định.
+
+Điều 4:Đơn vị tính, đơn vị tiền tệ và chữ viết trong kế toán:
+
+Việcghi chép kế toán hộ kinh doanh phải dùng chữ viết, chữ số phổ thông;
+
+Vềgiá trị, đơn vị tiền tệ sử dụng trong ghi chép kế toán là "Đồng ViệtNam"; Các nghiệp vụ kinh tế phát sinh bằng ngoại tệ phải quy đổi ra"Đồng Việt Nam" theo tỷ giá thực tế phát sinh hoặc tỷ giá giao dịchbình quân do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh nghiệpvụ kinh tế.
+
+Vềhiện vật, đơn vị tính là đơn vị đo lường chính thức của Nhà nước Cộng hoà Xãhội Chủ nghĩa Việt Nam (như: cái, chiếc, Kg, tấn, m, m2, m3,lít,..).
+
+Điều 5:Việc ghi chép kế toán phải dùng mực thường, không phai, không bỏ trống dòng,không viết tắt, không viết xen kẽ, không viết chồng đè, không tẩy xoá. Nếu viếtsai thì phải gạch bỏ chỗ sai bằng một gạch bằng mực đỏ, để có thể vẫn nhìn rõchữ hoặc số đã viết sai, sau đó ghi chữ hoặc số đúng lên phía trên và người sửachữa ký tên ở bên cạnh. Nếu viết sót thì viết bổ sung lên phía trên chỗ sót(bằng mực thường) và ký tên người viết bổ sung ở bên cạnh.
+
+Điều 6:Các hộ kinh doanh phải bố trí người có hiểu biết nghiệp vụ kế toán để giữ vàghi sổ kế toán.
+
+Sổ,chứng từ và các tài liệu kế toán phải lưu giữ tại cơ sở sản xuất, kinh doanh đểphục vụ cho ghi chép hàng ngày và việc kiểm tra, kiểm soát của cơ quan thuế vàcác cơ quan chức năng nhà nước.
+
+Sổ,chứng từ và các tài liệu kế toán khác phải được sắp xếp, bảo quản và lưu trữtheo đúng thời gian quy định trong chế độ bảo quản, lưu trữ hồ sơ tài liệu kếtoán của Nhà nước.
+
+Điều 7:Nghiêm cấm các hành vi sau đây:
+
+1-Bán hàng hoặc cung cấp dịch vụ không lập hoá đơn và không giao hoá đơn cho ngườimua (trừ trường hợp bán lẻ hàng hoá, cung cấp dịch vụ cho người tiêu dùng cógiá trị dưới 100 000đ cho mỗi lần bán hàng thu tiền mà người mua không yêu cầulấy hoá đơn); lập hoá đơn bán hàng, cung cấp dịch vụ sai sự thật và khai khốngchi phí để trốn lậu thuế hoặc thông đồng với người mua để có lợi ích bất chính.
+
+2-Sử dụng hoá đơn chứng từ không đúng mẫu qui định của Nhà nước;
+
+3-Để ngoài sổ sách kế toán doanh số bán hàng, doanh số cung cấp dịch vụ và tàisản, vật tư, tiền vốn;
+
+4-Giả mạo chứng từ, lập sổ sách, kê khai thuế sai sự thật.
+
+CHƯƠNG II
+
+KẾ TOÁN THU NHẬP VÀ CHI PHÍ
+
+Điều 8:Doanh thu:
+
+1-Doanh thu là số tiền bán sản phẩm, hàng hoá, tiền cung ứng dịch vụ (bao gồm cảcác khoản phụ thu và phí thu thêm ngoài giá bán hàng hoá, cung ứng dịch vụ màcơ sở kinh doanh được hưởng) đã thu hoặc chưa thu tiền được người mua chấp nhậnthanh toán.
+
+2-Doanh thu để tính thu nhập chịu thuế:
+
+a/Đối với hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừthuế là giá bán chưa có thuế GTGT;
+
+b/Đối với hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp trực tiếptrên giá trị gia tăng là tổng giá thanh toán ghi trên hoá đơn mua hàng có cảthuế GTGT.
+
+Điều 9- Chiphí sản xuất, kinh doanh:
+
+1-Chi phí sản xuất, kinh doanh là những khoản chi phí liên quan trực tiếp đến sảnxuất, kinh doanh.
+
+2-Các khoản chi phí sản xuất, kinh doanh được trừ vào doanh thu để xác định thunhập chịu thuế phải là những khoản chi phí thực tế phát sinh và có đầy đủ chứngtừ hợp pháp, hợp lệ chứng minh.
+
+3-Nội dung chi phí sản xuất, kinh doanh của hộ kinh doanh gồm các khoản:
+
+a/Khấu hao tài sản cố định;
+
+b/Chi phí nguyên liệu, vật liệu, nhiên liệu, năng lượng, hàng hoá, dịch vụ muangoài thực tế đã sử dụng vào sản xuất, kinh doanh có liên quan đến doanh thu đểtính thu nhập chịu thuế:
+
+Đốivới hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ thuế,giá trị vật tư, tài sản, hàng hoá, dịch vụ mua vào là giá mua thực tế chưa cóthuế GTGT;
+
+Đốivới hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp trực tiếp tínhtrên GTGT và các mặt hàng thuộc diện không chịu thuế GTGT, giá trị vật tư, tàisản, hàng hoá, dịch vụ mua vào là tổng giá thanh toán ghi trên hoá đơn mua hàngbao gồm cả thuế GTGT.
+
+c/Tiền công và các khoản có tính chất tiền công trả cho lao động thuê ngoài;
+
+d/Tiền thuê nhà, các khoản thuế, phí và lệ phí hộ kinh doanh phải nộp (Không kểphần thuế thu nhập doanh nghiệp và các khoản tiền phạt):
+
+Tiềnthuê nhà, thuê chỗ bán hàng được tính theo số tiền trả hàng tháng hoặc hàngquý. Đối với những hộ trả trước tiền thuê nhà, thuê chỗ bán hàng cho nhiều nămthì phải tính ra số tiền trả 1 năm, 1 tháng để có căn cứ tính vào chi phí.
+
+Cáckhoản thuế, phí và lệ phí phải nộp tính vào chi phí gồm:
+
+ThuếGTGT (chỉ các hộ thuộc đối tượng nộp thuế GTGT theo phương pháp tính trực tiếptrên GTGT mới được tính số thuế GTGT đầu ra vào chi phí sản xuất, kinh doanh);
+
+Cáckhoản thuế khác và các khoản phí, lệ phí phải nộp.
+
+e/Lãi tiền vay phải trả cho Ngân hàng và các đối tượng khác. Lãi suất tiền vaytrả cho đối tượng khác không vượt quá lãi suất trần do Ngân hàng Nhà nước quyđịnh cho các tổ chức tín dụng.
+
+f/Các khoản chi phí khác đã sử dụng cho sản xuất, kinh doanh.
+
+Đốivới các chi phí vừa dùng cho sản xuất, kinh doanh vừa dùng cho sinh hoạt củacác hộ (như điện, nước, điện thoại,..) thì căn cứ vào tỷ lệ dùng vào sản xuất,kinh doanh và sinh hoạt để phân bổ chi phí.
+
+Vídụ: Một hộ kinh doanh nhà nghỉ phải trả tiền điện sử dụng trong tháng là 900000 đ, biết rằng tỷ lệ điện dùng vào hoạt động kinh doanh là 2/3 thì chi phímua ngoài (điện năng) tính vào chi phí trong kỳ là:
+
+900000 x 2/3 = 600 000đ
+
+Điều 10- Chiphí khấu hao tài sản cố định
+
+1-Tài sản cố định là những tài sản có giá trị đơn vị từ 5.000.000đ trở lên vàthời gian sử dụng trên 1 năm.
+
+2-Tài sản cố định của các hộ kinh doanh sử dụng vào sản xuất, kinh doanh gồm:Kiốt, nhà bán hàng, tủ quầy bầy hàng, bàn tủ, giường ghế, tivi, tủ lạnh, bộ dànvà thiết bị âm thanh, bồn bể chứa xăng dầu và thiết bị đo, đếm bán xăng dầu,nhà xưởng, máy móc thiết bị sản xuất...có đủ tiêu chuẩn là TSCĐ.
+
+3-Các hộ kinh doanh chỉ được tính khấu hao đối với những tài sản cố định thuộc sởhữu của hộ sử dụng vào sản xuất, kinh doanh. Những tài sản cố định đi thuêkhông phải tính khấu hao. Tiền thuê tài sản cố định được tính vào chi phí kinhdoanh.
+
+4-Nguyên giá (hay giá trị) của tài sản cố định để làm căn cứ tính khấu hao đượcxác định như sau:
+
+Tàisản cố định mua sắm: Căn cứ vào hoá đơn mua tài sản để xác định nguyên giá (giátrị) của tài sản cố định;
+
+Tàisản cố định xây dựng mới: Căn cứ vào chi phí thực tế xây dựng tài sản cố định;Trường hợp không tính được chi phí thực tế xây dựng tài sản cố định thì căn cứvào giá xây dựng do Nhà nước quy định theo từng cấp nhà, từng địa phương để xácđịnh nguyên giá;
+
+Nhữngtài sản cố định không có đủ chứng từ, hoá đơn làm căn cứ xác định nguyên giáthì căn cứ vào hiện trạng tài sản và giá của loại tài sản này hoặc tài sản tươngtự đang bán trên thị trường để định giá.
+
+5-Cách tính khấu hao tài sản cố định:
+
+Căncứ vào nguyên giá (Giá trị) của tài sản cố định, thời gian sử dụng ước tính đểtính khấu hao:
+
+Mức
+
+
+
+Nguyên giá (Giá trị) tài sản cố định
+
+
+
+khấu hao
+
+=
+
+
+
+01 năm
+
+
+
+Số năm sử dụng
+
+Mức
+
+
+
+Mức khấu hao 01 năm
+
+
+
+khấu hao
+
+=
+
+
+
+01 tháng
+
+
+
+12 tháng
+
+Mức
+
+
+
+Mức khấu hao 01 năm
+
+
+
+khấu hao
+
+=
+
+
+
+01 quý
+
+
+
+4 quí
+
+Khitính mức khấu hao tài sản cố định năm, quý hoặc tháng nếu có số lẻ các hộ đượcphép làm tròn số.
+
+Sốnăm sử dụng tài sản cố định căn cứ vào thời gian sử dụng tài sản cố định quyđịnh trong phụ lục kèm theo Quyết định số 166- 1999/QĐ-BTC ngày 30/12/1999 củaBộ Tài chính ban hành Chế độ quản lý, sử dụng và trích khấu hao tài sản cố định(Phụ lục số 03).
+
+6-Nguyên tắc phân bổ khấu hao:
+
+Nhữngtài sản cố định hoàn toàn dùng cho sản xuất, kinh doanh thì số khấu hao tínhhết vào chi phí sản xuất, kinh doanh;
+
+Nhữngtài sản vừa dùng cho kinh doanh vừa dùng cho sinh hoạt của các hộ:
+
+Đốivới nhà cửa: Căn cứ vào diện tích thực tế sử dụng cho sản xuất, kinh doanh đểtính số khấu hao phân bổ cho sản xuất, kinh doanh;
+
+Đốivới những tài sản cố định khác: Căn cứ vào thời gian sử dụng của từng tài sảncho từng mục đích (sản xuất, kinh doanh hay cho sinh hoạt) để phân bổ khấu haovào chi phí sản xuất, kinh doanh.
+
+Việctính hoặc thôi không tính khấu hao tài sản cố định vào chi phí sản xuất, kinhdoanh được thực hiện tròn tháng. Tài sản cố định tham gia hoặc ngừng tham giavào sản xuất, kinh doanh tháng t thì tính hoặc thôi không tính khấu hao từtháng t + 1. Số khấu hao từ tháng t + 1 được tính theo công thức:
+
+Số  khấu hao
+
+
+
+Số  khấu hao
+
+
+
+Số  khấu hao
+
+
+
+Số  khấu hao
+
+trích  tháng
+
+=
+
+đã  trích
+
++
+
+tăng  trong
+
+-
+
+giảm  trong
+
+t
+
+
+
+tháng  t -1
+
+
+
+tháng  t
+
+
+
+tháng  t
+
+7-Các hộ kinh doanh phải lập danh mục những tài sản cố định sử dụng vào sản xuất,kinh doanh để đăng ký với cơ quan thuế trong đó ghi rõ tên, nguyên giá, thờigian sử dụng và mức khấu hao năm, tháng của từng tài sản cố định. Khi có tănghoặc giảm tài sản cố định chủ hộ kinh doanh phải đăng ký tăng, giảm tài sản vớicơ quan thuế và điều chỉnh mức tính khấu hao.
+
+Điều 11- Thunhập chịu thuế:
+
+Thunhập chịu thuế của hộ kinh doanh gồm:
+
+Thunhập chịu thuế từ hoạt động sản xuất, kinh doanh bằng (=) doanh thu bán hàng,cung cấp dịch vụ trừ (-) các khoản chi phí hợp lý có liên quan đến doanh thubán hàng, cung cấp dịch vụ;
+
+Thunhập chịu thuế khác (nếu có).
+
+CHƯƠNG III
+
+CHỨNG TỪ KẾ TOÁN
+
+Điều 12:Chứng từ kế toán của hộ kinh doanh bao gồm:
+
+Chứngtừ bên ngoài: Là chứng từ do hộ kinh doanh nhận được của các cơ quan, các tổchức kinh tế, cá nhân bên ngoài lập như: Hoá đơn mua vật tư, tài sản cố định,hàng hoá, dịch vụ; Thông báo nộp thuế, Biên lai nộp thuế,...
+
+Chứngtừ do hộ kinh doanh lập: Gồm hoá đơn GTGT, hoá đơn bán hàng, phiếu nhập kho,phiếu xuất kho, phiếu thu, phiếu chi và các chứng từ khác có liên quan đến hoạtđộng sản xuất, kinh doanh của hộ.
+
+Điều 13:Mọi nghiệp vụ kinh tế, tài chính phát sinh trong hoạt động sản xuất, kinh doanhcủa hộ đều phải lập chứng từ kế toán. Mọi số liệu ghi trên sổ kế toán phải cóchứng từ kế toán hợp pháp, hợp lệ chứng minh. Chứng từ kế toán chỉ được lập 1lần đúng với thực tế, thời gian và địa điểm mà nghiệp vụ kinh tế phát sinh bằngcách đặt giấy than viết 1 lần cho tất cả các liên. Tuỳ theo tính chất của sựviệc và yêu cầu quản lý của Nhà nước, chứng từ kế toán phải lập theo mẫu quyđịnh (chứng từ bắt buộc) hoặc mẫu hướng dẫn (chứng từ hướng dẫn). Đối với cácchứng từ hướng dẫn, dựa trên cơ sở các tiêu thức hướng dẫn, các hộ kinh doanhcó thể vận dụng phù hợp với đặc điểm sản xuất, kinh doanh của mình.
+
+Chứngtừ kế toán hợp pháp là chứng từ lập đúng theo mẫu qui định, việc ghi chép trênchứng từ phải đúng nội dung, bản chất của nghiệp vụ kinh tế phát sinh và nghiệpvụ kinh tế này phù hợp với các quy định của pháp luật, có đủ chữ ký cần thiếtvà dấu của cơ sở kinh doanh (nếu có) theo quy định của từng loại chứng từ.
+
+Cácchứng từ kế toán hợp lệ là chứng từ được lập đúng phương pháp, trình tự quyđịnh cho từng loại chứng từ và phải ghi đầy đủ các yếu tố sau:
+
+Têngọi, ngày, tháng, năm lập và số hiệu của chứng từ;
+
+Tên,địa chỉ hộ kinh doanh lập chứng từ;
+
+Tên,địa chỉ hộ kinh doanh nhận chứng từ;
+
+Tómtắt nội dung nghiệp vụ kinh tế phát sinh;
+
+Tên,nhãn hiệu, quy cách phẩm chất, số lượng, đơn giá, thành tiền của từng thứ vật tư,sản phẩm, hàng hoá, dịch vụ;
+
+Tổngsố tiền bằng số và chữ;
+
+Chữký của người chịu trách nhiệm về tính chính xác, trung thực của nghiệp vụ kinhtế.
+
+Điều 14:Tuỳ theo đặc điểm hoạt động sản xuất, kinh doanh, các hộ kinh doanh phải sửdụng một số chứng từ sau:
+
+a- Các chứng từ bắt buộc
+
+
+
+-  Hoá đơn GTGT áp dụng cho đối tượng nộp thuế GTGT theo phương pháp khấu trừ;
+
+Mẫu  số 01/GTKT-3LL và mẫu số 01/GTKT-2LN
+
+-  Hoá đơn bán hàng (áp dụng cho đối tượng nộp thuế GTGT theo phương pháp trực  tiếp và loại hàng hoá, dịch vụ không thuộc diện chịu thuế GTGT);
+
+-  Bảng kê thu mua nông sản, lâm sản, thuỷ sản,... của người trực tiếp sản xuất;
+
+Mẫu  số 02/GTTT-3LL và mẫu số 02/GTTT-2LN
+
+
+
+Mẫu  số 04/GTTT
+
+-  Bảng kê bán lẻ hàng hoá, dịch vụ;
+
+Mẫu  số 05/GTTT
+
+-  Phiếu xuất kho kiêm vận chuyển nội bộ
+
+Mẫu  số 03 - VT
+
+-  Bảng thanh toán hàng đại lý, ký gửi
+
+Mẫu  14 - BH
+
+-  Phiếu xuất kho hàng gửi bán đại lý
+
+Mẫu  04-XKĐL-3LL
+
+-  Các loại vé (vé tàu, xe, vé vui chơi giải trí, vé gửi xe, trông đồ,..)
+
+
+
+b- Các chứng từ hướng dẫn
+
+
+
+-  Phiếu nhập kho
+
+Mẫu  số 01- VT
+
+-  Phiếu xuất kho
+
+Mẫu  số 02- VT
+
+-  Bảng chấm công
+
+Mẫu  số 01 - LĐTL
+
+(Mẫu biểu và phương pháp ghi chép các hoá đơn và bảng kê xem phụlục số 1)
+
+Tấtcả các loại hoá đơn và các chứng từ liên quan đến việc bán hàng, cung ứng dịchvụ đều do Bộ Tài chính thống nhất in ấn và phát hành, các hộ kinh doanh phảimua từ cơ quan thuế.
+
+CHƯƠNG IV
+
+SỔ KẾ TOÁN
+
+Điều 15:Sổ kế toán là những quyển sổ theo mẫu nhất định có liên hệ chặt chẽ với nhaudùng để ghi chép các nghiệp vụ kinh tế phát sinh trên cơ sở số liệu của chứngtừ kế toán.
+
+Sổkế toán của các hộ kinh doanh phải được đóng thành quyển, đánh số trang, giữacác trang có đóng dấu giáp lai của cơ quan thuế. Ngoài bìa ghi rõ họ tên hộkinh doanh, mã số nộp thuế, địa điểm kinh doanh, tên sổ, số trang, ngày, tháng,năm mở sổ, tên người giữ và ghi sổ.
+
+Ngàyđầu năm hoặc khi bắt đầu đăng ký kinh doanh các hộ kinh doanh phải mở sổ kếtoán mới, lập danh mục sổ kế toán phù hợp với phương pháp xác định thuế mà hộkinh doanh đã đăng ký với cơ quan thuế quận, huyện.
+
+Khihết sổ các hộ kinh doanh phải mở sổ kế toán mới và chuyển các số liệu liên quantừ sổ kế toán cũ sang sổ kế toán mới.
+
+Cáchộ kinh doanh qui định tại Điều 1 chế độ này thực hiện ghi sổ kế toán theo phươngpháp "Ghi đơn".
+
+Hàngngày, căn cứ vào chứng từ kế toán để ghi vào các sổ kế toán có liên quan.
+
+Cuốitháng, cuối quý, cuối năm phải cộng sổ, xác định doanh thu bán sản phẩm, hànghoá, cung ứng dịch vụ: giá thanh toán đã có thuế GTGT (đối với hộ nộp thuế theophương pháp trực tiếp) hoặc giá thanh toán không có thuế GTGT và số thuế GTGTphải nộp (đối với hộ nộp thuế GTGT theo phương pháp khấu trừ); giá trị hàng hoámua vào, bán ra, tồn cuối kỳ; chi phí sản xuất, kinh doanh phát sinh trongkỳ.Tiến hành đối chiếu số liệu giữa các sổ kế toán với nhau; đối chiếu số liệutrên sổ kế toán với số thực tế về tiền mặt trong quỹ và vật tư, sản phẩm, hànghoá trong kho, hoặc ở quầy hàng, trên dây chuyền sản xuất và các khoản nợ phảithu, nợ phải trả...
+
+Điều 16:Tuỳ theo phương pháp xác định số thuế GTGT phải nộp mà các hộ kinh doanh phảimở những sổ kế toán sau:
+
+1-Hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ thuế phảimở các sổ kế toán bắt buộc sau:
+
+1-  Sổ Nhật ký bán hàng
+
+2-  Sổ Nhật ký mua hàng
+
+3-  Sổ Chi phí sản xuất, kinh doanh
+
+4-  Sổ chi tiết vật liệu, sản phẩm, hàng hoá
+
+5-  Bảng kê luân chuyển vật tư, sản phẩm, hàng hoá
+
+6-  Bảng đăng ký TSCĐ sử dụng vào sản xuất,
+
+kinh  doanh
+
+Mẫu  số S 01- HKD
+
+Mẫu  số S 02- HKD
+
+Mẫu  số S 03- HKD
+
+Mẫu  số S 04- HKD
+
+Mẫu  số S05- HKD
+
+Mẫu  số S06- HKD
+
+2-Hộ kinh doanh thuộc đối tượng nộp thuế GTGT theo phương pháp trực tiếp phải mởcác sổ kế toán bắt buộc sau:
+
+a-Đối với những hộ kinh doanh thực hiện việc mua, bán hàng hoá, cung ứng dịch vụcó đầy đủ hoá đơn, chứng từ mua, bán hàng, ghi chép sổ kế toán đầy đủ và tínhthuế trực tiếp trên GTGT phải mở các sổ kế toán sau:
+
+1-  Sổ Nhật ký bán hàng
+
+2-  Sổ Nhật ký mua hàng
+
+3-  Sổ Chi phí sản xuất, kinh doanh
+
+4-  Sổ chi tiết vật liệu, sản phẩm, hàng hoá
+
+Mẫu  số S 01- HKD
+
+Mẫu  số S 02- HKD
+
+Mẫu  số S 03- HKD
+
+Mẫu  số S 04- HKD
+
+5-  Bảng kê luân chuyển vật tư, sản phẩm, hàng hoá
+
+6-  Bảng đăng ký TSCĐ sử dụng vào sản xuất,
+
+kinh  doanh
+
+Mẫu  số S05- HKD
+
+
+
+Mẫu  số S06 - HKD
+
+b-Hộ kinh doanh đã thực hiện đầy đủ hoá đơn, chứng từ bán hàng, xác định đúngdoanh thu bán hàng nhưng không có đủ chứng từ, hoá đơn mua hàng và các hộ kinhdoanh thuộc diện ấn định thuế thì phải mở sổ kế toán sau:
+
+1-  Sổ Nhật ký bán hàng
+
+Mẫu  số S01- HKD
+
+
+
+
+
+Ngoàinhững sổ bắt buộc nói trên, tuỳ theo yêu cầu quản lý các hộ kinh doanh có thểmở thêm "Sổ theo dõi tiền mặt, tiền gửi " (mẫu S07-HKD), "Sổtheo dõi nợ phải thu" (mẫu S08-HKD), "Sổ theo dõi nợ phải trả"(mẫu S09-HKD).
+
+(Mẫuvà phương pháp ghi sổ xem phụ lục số 02).
+
+CHƯƠNGV
+
+KIỂMKÊ TÀI SẢN VÀ KIỂM TRA KẾ TOÁN
+
+Điều 17:Cuối tháng các hộ kinh doanh phải tiến hành kiểm kê vật tư, sản phẩm, hàng hoácòn tồn tại kho, tại quầy hàng và giá trị sản phẩm dở dang đang sản xuất để lập"Bảng kê luân chuyển vật tư, sản phẩm, hàng hoá" và lập Tờ khai thuếGTGT và thuế thu nhập doanh nghiệp theo quy định của các luật thuế và nộp chocơ quan thuế quận, huyện theo thời gian quy định.
+
+Cuốinăm, trước khi khoá sổ kế toán, các hộ kinh doanh phải thực hiện kiểm kê tàisản, vật tư, sản phẩm, hàng hoá, tiền vốn hiện có, sao kê đối chiếu các khoảnnợ để đảm bảo số liệu trên sổ kế toán khớp đúng với thực tế.
+
+Điều 18: Cáchộ kinh doanh phải chịu sự kiểm tra tài chính, thuế và kế toán của các cơ quanchức năng Nhà nước có thẩm quyền.
+
+Nộidung kiểm tra kế toán là kiểm tra tính trung thực, chính xác, đầy đủ, kịp thờicủa việc ghi chép, tính toán, phản ánh trên các chứng từ kế toán, sổ kế toán;Kiểm tra việc chấp hành các chính sách, chế độ về tài chính, kế toán và thựchiện nghĩa vụ thuế đối với Nhà nước.
+
+Chủhộ kinh doanh phải chấp hành quyết định kiểm tra kế toán của cơ quan có thẩmquyền và có trách nhiệm cung cấp đầy đủ số liệu, tài liệu kế toán cần thiết chocông tác kiểm tra tài chính, kế toán, thuế tiến hành thuận lợi.
+
+CHƯƠNG VI
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 19:Chủ hộ kinh doanh phải thực hiện nghiêm chỉnh các qui định trong chế độ kế toánnày.
+
+Đốivới các hộ kinh doanh ghi chép, phản ánh số liệu kế toán không chính xác, trungthực, cơ quan thuế có quyền không chấp nhận số liệu trên sổ kế toán để tínhthuế mà căn cứ vào tài liệu điều tra để ấn định doanh thu tính thuế và thu nhậpchịu thuế theo quy định của các luật thuế.
+
+Điều 20:Các cấp chính quyền (quận, huyện, phường, xã) và các ngành chức năng như côngan, tài chính, quản lý thị trường,.. phải có trách nhiệm phối hợp với ngànhthuế hướng dẫn kiểm tra xử lý các hộ kinh doanh cố tình không chấp hành việcthực hiện chế độ kế toán này, mọi hành vi che dấu việc làm sai trái nêu trêncủa các hộ đều bị xử lý theo quy định của pháp luật./.
+
+Phụ lục số 01
+
+CHỨNG TỪ KẾ TOÁN
+
+DANH MỤC CHỨNG TỪ KẾ TOÁN
+
+STT
+
+Tên chứng từ
+
+Ký hiệu
+
+
+
+1- Các chứng từ  bắt buộc
+
+
+
+1
+
+Hoá đơn
+
+01/GTKT- 3LL và  01/GTKT-2LN
+
+2
+
+Hoá đơn bán hàng
+
+02/GTTT-3LL và  02/GTTT-2LN
+
+3
+
+Bảng kê thu mua nông  sản, lâm sản, thuỷ sản,... của người trực tiếp sản xuất
+
+04/GTTT
+
+4
+
+Bảng kê bán lẻ hàng  hoá, dịch vụ
+
+05/GTTT
+
+5
+
+Các loại vé (vé tàu,  vé xe, vé vui chơi giải trí, vé gửi xe, trông đồ,....)
+
+
+
+6
+
+Phiếu xuất kho kiêm  vận chuyển nội bộ
+
+03-VT
+
+7
+
+Phiếu xuất kho hàng  gửi bán đại lý
+
+04-XKĐL-3LL
+
+8
+
+Bảng thanh toán hàng  đại lý, ký gửi
+
+14-BH
+
+
+
+
+
+
+
+
+
+2- Các chứng từ hướng  dẫn
+
+
+
+9
+
+Phiếu nhập kho
+
+01 - VT
+
+10
+
+Phiếu xuất kho
+
+02 - VT
+
+11
+
+Bảng chấm công
+
+01 - LĐTL
+
+
+
+
+
+
+
+HOÁ ĐƠN (GTGT)
+
+Liên 1(Lưu)
+
+Ngày... tháng... năm 200..
+
+Mẫu số: 01/GTKT-  3LL
+
+
+
+
+
+Ký hiệu: AA/98
+
+Số:000001
+
+Đơn vị bán  hàng:......................................................................................
+
+Địa  chỉ:...............................................Số tài  khoản...................................
+
+Điện thoại  ..................... MS
+
+
+
+Họ tên người mua  hàng:............................................................................
+
+Đơn  vị:.......................................................................................................
+
+Địa  chỉ:......................................................................................................
+
+Hình thức thanh  toán:......... MS
+
+STT
+
+Tên hàng hoá,
+
+dịch vụ
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3=1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng tiền hàng: ......................
+
+Thuế suất GTGT: % Tiền thuế GTGT:.  ....................
+
+Tổng cộng tiền thanh toán:. .....................
+
+Số tiền viết bằng  chữ:.....................................................................................
+
+Người mua hàng
+
+(Ký, ghi rõ họ, tên)
+
+Kế toán trưởng
+
+(Ký, ghi rõ họ, tên)
+
+Thủ trưởng đơn vị
+
+(Ký, đóng dấu, ghi rõ họ, tên)
+
+
+
+
+
+Liên 1: Lưu
+
+Liên 2: Giao khách  hàng
+
+Liên 3: Dùng thanh  toán
+
+HOÁ ĐƠN (GTGT)
+
+Liên 1(Lưu)
+
+Ngày... tháng... năm 200..
+
+Mẫu số: 01/GTKT-  2LN
+
+
+
+
+
+Ký hiệu: AA/98
+
+Số:000001
+
+Đơn vị bán  hàng:......................................................................................
+
+Địa  chỉ:....................................................................................................
+
+MS
+
+
+
+
+
+Họ tên người mua  hàng:............................................................................
+
+Hình thức thanh  toán:......... MS
+
+STT
+
+Tên hàng hoá,
+
+dịch vụ
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3=1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng tiền hàng: ......................
+
+Thuế suất GTGT: % Tiền thuế GTGT:.  ....................
+
+Tổng cộng tiền thanh toán:. .....................
+
+Số tiền viết bằng  chữ:.....................................................................................
+
+Người mua hàng
+
+(Ký, ghi rõ họ tên)
+
+
+
+Người bán hàng
+
+(Ký, ghi rõ họ tên)
+
+
+
+
+
+
+
+HOÁ ĐƠN BÁN HÀNG
+
+Liên 1(Lưu)
+
+Ngày... tháng... năm 200..
+
+Mẫu số: 02/GTTT-  3LL
+
+
+
+
+
+Ký hiệu: AA/98
+
+Số:000001
+
+Đơn vị bán  hàng:......................................................................................
+
+Địa  chỉ:.....................................Số tài  khoản:...........................................
+
+Điện  thoại:....................... MS
+
+
+
+
+
+Họ tên người mua  hàng:............................................................................
+
+Đơn  vị:......................................................................................................
+
+Địa  chỉ:.....................................................................................................
+
+Hình thức thanh  toán:......... MS
+
+STT
+
+Tên hàng hoá,
+
+dịch vụ
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3=1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng tiền bán hàng hoá, dịch vụ:  ......................
+
+Số tiền viết bằng  chữ:.....................................................................................
+
+Người mua hàng
+
+(Ký, ghi rõ họ, tên)
+
+Kế toán trưởng
+
+(Ký, ghi rõ họ, tên)
+
+Thủ trưởng đơn vị
+
+(Ký, đóng dấu, ghi rõ họ, tên)
+
+
+
+
+
+Liên 1: Lưu
+
+Liên 2: Giao khách  hàng
+
+Liên 3: Dùng thanh  toán
+
+HOÁ ĐƠN BÁN HÀNG
+
+Liên 1(Lưu)
+
+Ngày... tháng... năm 200..
+
+Mẫu số: 02/GTTT-  2LN
+
+
+
+
+
+Ký hiệu: AA/98
+
+Số:000001
+
+Đơn vị bán  hàng:......................................................................................
+
+Địa  chỉ:.....................................................................................................
+
+MS
+
+
+
+
+
+Họ tên người mua  hàng:............................................................................
+
+Hình thức thanh  toán:......... MS
+
+STT
+
+Tên hàng hoá,
+
+dịch vụ
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3=1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng tiền bán hàng hoá, dịch vụ:  ......................
+
+Số tiền viết bằng  chữ:.....................................................................................
+
+Người mua hàng
+
+(Ký, ghi rõ họ tên)
+
+
+
+Người bán hàng
+
+(Ký, ghi rõ họ tên)
+
+
+
+
+
+
+
+Mẫu số04/GTGT
+
+BẢNG KÊ THU MUA HÀNG NÔNG SẢN
+
+LÂM SẢN, THUỶ SẢN CỦA NGƯỜI TRỰC TIẾP SẢN XUẤT
+
+(Tháng... năm 200...)
+
+- Tên cơ sở sản xuất,chế biến:....................
+
+- Địachỉ:..................................................... Mã số:
+
+- Địa chỉ nơi tổ chứcthu mua:................
+
+- Người phụ trách thumua:......................
+
+Ngày
+
+Người bán
+
+Hàng hoá mua vào
+
+tháng mua
+
+Họ tên
+
+Địa chỉ
+
+Tên mặt hàng
+
+Số lượng
+
+Đơn giá
+
+Tổng giá thanh toán
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7 = 5x6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngày...tháng... năm 200...
+
+Người lập bảng
+
+Mẫu số:05/GTGT
+
+BẢNG KÊ BÁN LẺ HÀNG HOÁ, DỊCH VỤ
+
+(Ngày... tháng.... năm 200...)
+
+Tên cơ sở kinhdoanh:.................................. Mã số:
+
+Địachỉ:...................................................
+
+Họ tên người bánhàng:..............................
+
+Địa chỉ nơi bánhàng:..............................
+
+STT
+
+Tên hàng hoá,
+
+dịch vụ
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3 = 1x2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tổng cộng tiền thanh toán: ..................
+
+Tổng số tiền (bằngchữ):...................................................................
+
+Người bán
+
+(Ký, ghi rõ họ tên)
+
+Mẫu số : 03-VT
+
+( Ban hành theo QĐsố : 1141 TC/ QĐ/ CĐKT ngày 1/ 11/ 1995 của Bộ Tài chính )
+
+Hộ :......................
+
+Địachỉ:.................
+
+PHIẾU XUẤT KHO KIÊM VẬN CHUYỂN NỘI BỘ
+
+Số:.................
+
+Ngày .....tháng......năm 200....
+
+- Căn cứ lệnh điềuđộng số.... ngày... tháng.. năm của....................
+
+Vềviệc:..................................
+
+- Họ tên người vậnchuyển :...............Địa chỉ ( bộ phận ).............
+
+- Phương tiện vậnchuyển:.............................................................
+
+- Xuất tại kho:.............................................................................
+
+- Nhập tại kho:...................................................................................
+
+Số
+
+Tên, nhãn hiệu, qui
+
+Mã
+
+Đơn
+
+Số lượng
+
+Đơn
+
+Thành
+
+thứ
+
+cách, phẩm chất vật
+
+số
+
+vị
+
+Thực
+
+Thực
+
+giá
+
+tiền
+
+tự
+
+tư ( SP, hàng hoá )
+
+
+
+tính
+
+xuất
+
+nhập
+
+
+
+
+
+A
+
+B
+
+C
+
+D
+
+1
+
+2
+
+3
+
+4=2x3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+X
+
+X
+
+X
+
+X
+
+X
+
+
+
+Tổng số tiền (viếtbằng chữ): .........................................................
+
+Nhập, ngày...tháng... năm 200.....                 Xuất,ngày.......tháng........năm 200....
+
+Người nhận       Ngườivận chuyển Người giao
+
+(Ký, họ tên) (Ký,họ tên) (Ký, họ tên)
+
+Hộ:....................
+
+Mẫu số 04/XKĐL-3LL
+
+Địa  chỉ:.............
+
+Ban hành theo thông tư số 140-1999-TT-BTC ngày  27/12/1999 của Bộ Tài chính
+
+PHIẾU XUẤT KHO HÀNG GỬI BÁN ĐẠI LÝ
+
+Ngày... tháng... năm 200...
+
+Liên:..
+
+Căn cứ hợp đồng kinhtế số:...... ngày... tháng.... năm 200.. ........... ........... với (tổ chức,cá nhân).................... vềviệc...................................................
+
+Họ tên người vậnchuyển:................................. Hợp đồng số (nếu có)......
+
+Phương tiện vậnchuyển:.....................................................
+
+Xuất tạikho:.....................................................................
+
+Nhập tạikho:..................................................................
+
+Tên nhãn hiệu, quy cách, phẩm chất vật tư, sản phẩm,  hàng hoá
+
+Mã số
+
+Đơn vị tính
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6=4x5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+Xuất, ngày...tháng... năm...                Nhập,ngày... tháng... năm 200..
+
+Người nhận hàng Ngườilập phiếu Thủ kho xuất Người vận chuyển Chủ hộ
+
+(Ký, họ tên) (Ký,họ tên) (Ký, họ tên) (Ký, họ tên) (Ký, họ tên)
+
+Mẫu số : 14-BH
+
+Hộ :......................
+
+Địachỉ:.................
+
+( Ban hành theo QĐ số: 1141 TC/ QĐ/ CĐKTngày 1/ 11/1995 của Bộ Tài chính )
+
+BẢNG THANH TOÁN HÀNG ĐẠI LÝ (KÝ GỬI)
+
+Ngày... tháng... năm 200..
+
+Số:........
+
+Căn cứ hợp đồng số..ngày... tháng... năm về việc bán hàng đại lý (ký gửi)
+
+chúng tôi gồm:
+
+- Ông/Bà.........................chức vụ................đại diện đơnvị................ .........................là bên có hàng gửi bán
+
+-Ông/Bà..........................chức vụ................đạidiện.................................là bên nhận bán hàng đại lý, ký gửi
+
+Thanh quyết toán sốhàng đại lý từ ngày.../../... đến ngày.../.../... như sau
+
+STT
+
+Tên, quy cách, phẩm
+
+Đơn
+
+số lượng
+
+Số lượng
+
+Số hàng đã bán trong kỳ
+
+Số lượng
+
+
+
+
+
+chất hàng hoá
+
+vị tính
+
+tồn đầu kỳ
+
+nhận trong kỳ
+
+Số lượng
+
+Đơn giá
+
+Thành tiền
+
+tồn cuối kỳ
+
+Ghi chú
+
+A
+
+B
+
+C
+
+1
+
+2
+
+3
+
+4
+
+5=3x4
+
+6=1+2-5
+
+D
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hoa hồng được hưởng(%)...... thành tiền............ đồng (viết bằngchữ)................................
+
+Số tiền thanh toán chongười có hàng gửi bán........................ đồng... (viết bằngchữ).............
+
+Người giao hàng đạilý (ký gửi)                                                           Người nhận hàng đại lý(ký gửi)
+
+(Ký, họ tên)                                                                             (Ký, họ tên)
+
+Mẫu số : 01-VT
+
+Hộ :......................
+
+Địa chỉ:.............
+
+(Ban hành theo QĐsố : 1141 TC/ QĐ/ CĐKT ngày 1/ 11/ 1995 của Bộ Tài chính)
+
+PHIẾU NHẬP KHO Số :..............
+
+Ngày..... tháng.....năm 200....
+
+- Họ tên người giao:...............................địa chỉ:................................
+
+- Theo ..........Số........ngày .....tháng.....năm 200.......Của.........................
+
+..............................................................................................................
+
+Nhập tại kho:........................................................................................
+
+Số
+
+Tên qui vật tư
+
+Mã
+
+Đơn
+
+Số lượng
+
+Đơn
+
+Thành
+
+thứ
+
+tự
+
+sản phẩm, hàng hoá
+
+số
+
+vị
+
+tính
+
+Theo chứng từ
+
+Thực nhập
+
+giá
+
+tiền
+
+A
+
+B
+
+C
+
+D
+
+1
+
+2
+
+3
+
+4=2x3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Tổng số tiền (viếtbằng chữ): ...........................................................
+
+Nhập ngày ......tháng.......năm 200....
+
+Chủ hộ                                    Người giao hàng                       Thủ kho
+
+(Hoặc bộ phận cónhu cầu nhập) (Ký, họ tên) (Ký, họ tên)
+
+(Ký, họ tên)
+
+Mẫu số: 02-VT
+
+(Ban hành theo QĐsố: 1141 TC/ QĐ/ CĐKT ngày 1/ 11/ 1995 của Bộ Tài chính)
+
+Hộ :......................
+
+Địachỉ:.................
+
+PHIẾU XUẤT KHO
+
+Số :.................
+
+Ngày .....tháng......năm 200....
+
+- Họ tên người nhậnhàng :...............Địa chỉ (bộ phận).............
+
+- Lý do xuấtkho:.............................................................................
+
+- Xuất tạikho:...................................................................................
+
+Số
+
+Tên, nhãn hiệu, quy
+
+Mã
+
+Đơn
+
+Số lượng
+
+Đơn
+
+Thành
+
+thứ
+
+cách, phẩm chất vật
+
+số
+
+vị
+
+Yêu
+
+Thực
+
+giá
+
+Tiền
+
+tự
+
+tư (SP, hàng hoá\ )
+
+
+
+tính
+
+cầu
+
+xuất
+
+
+
+
+
+A
+
+B
+
+C
+
+D
+
+1
+
+2
+
+3
+
+4 = 2x3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+X
+
+X
+
+X
+
+X
+
+X
+
+
+
+Tổng số tiền (viếtbằng chữ): .........................................................
+
+Xuất,ngày.......tháng........năm 200....
+
+Chủ hộ                        Người nhận                 Thủkho
+
+(Ký, họ tên ) (Ký,họ tên) (Ký, họ tên)
+
+Mẫu số:01-LĐTL
+
+Ban hành theo QĐsố: 1141 TC/ QĐ/ CĐKTngày 1/ 11/ 1995 của
+
+Hộ :......................
+
+Địa chỉ: ............(BộTài chính)
+
+BẢNG CHẤM CÔNG
+
+Tháng... năm 200..
+
+STT
+
+
+
+
+
+Ngày trong tháng
+
+Quy ra công
+
+
+
+HỌ TÊN
+
+Mức lương
+
+1
+
+2
+
+...
+
+30
+
+31
+
+Số công hưởng theo thời gian
+
+Số công hưởng theo sản phẩm
+
+A
+
+B
+
+C
+
+1
+
+2
+
+...
+
+30
+
+31
+
+32
+
+33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chủ hộ                                                                                               Ngườichấm công
+
+(Ký, họ tên)                                                                  (Ký, họ tên)
+
+GIẢI THÍCH PHƯƠNG PHÁP LẬP CHỨNG TỪ KẾ TOÁN HOÁ ĐƠN(GTGT)
+
+(Mẫu số 01/GTKT)
+
+1- Mục đích: Hoá đơn (GTGT) dùng cho các hộnộp thuế GTGT theo phương pháp khấu trừ thuế để phản ánh số lượng và sốtiền từng loại hàng hoá, dịch vụ đã bán, đã cung cấp, số thuế GTGT mà người muaphải nộp làm căn cứ xác định doanh thu bán hàng và số thuế GTGT của hàng hoádịch vụ bán ra.
+
+Hoá đơn (GTGT), mẫu số01/GTGT-3LL dùng cho các hộ bán buôn và bán nhiều mặt hàng một lúc.
+
+Hoá đơn (GTGT), mẫu số01/GTGT-2LN dùng cho các hộ bán lẻ hàng hoá, ít mặt hàng.
+
+2- Cách lập:
+
+-Hoá đơn (GTGT) do ngườibán hàng hoá, dịch vụ lập khi bán hàng hoá, cung cấp dịch vụ.
+
+- Những hàng hoá, dịchvụ có cùng thuế suất lập riêng một hoá đơn.
+
+- Ghi rõ họ, tên, địachỉ, mã số thuế, số hiệu tài khoản của người bán hàng và người mua hàng, hìnhthức thanh toán bằng séc, tiền mặt,..
+
+- Cột A,B: Ghi số thứtự, tên hàng hoá, dịch vụ cung ứng thu tiền. Mỗi loại hàng hoá, dịch vụ bán thutiền ghi một dòng.
+
+- Cột C: Đơn vị tínhcủa hàng hoá, dịch vụ.
+
+- Cột 1: Ghi số lượnghoặc trọng lượng hàng hoá, dịch vụ bán ra hoặc đã cung cấp.
+
+- Cột 2: Ghi đơn giábán của từng loại hàng hoá, dịch vụ,.. trường hợp hàng hoá trao đổi ghi theođơn giá bán hàng hoá, dịch vụ mang trao đổi.
+
+- Cột 3: Thành tiền,đây là số tiền bán hàng hoá cung cấp dịch vụ chưa có thuế GTGT . Cột 3 = cột 1nhân (x) cột 2
+
+Các dòng còn thừa phíadưới các cột A, B, C, 1, 2, 3 được gạch chéo từ trên xuống dưới, từ trái quaphải.
+
+Dòng cộng tiền hàng:Ghi số tiền cộng cột 3
+
+Dòng thuế suất GTGT:Ghi thuế suất của nhóm hàng hoá, dịch vụ bán ra.
+
+Tiền thuế GTGT = Cộngtiền bán hàng nhân (x) thuế suất (%) thuế GTGT
+
+Dòng tổng cộng tiềnthanh toán: Bằng số tiền bán hàng cộng (+) số tiền thuế GTGT
+
+Dòng số tiền viết bằngchữ: Ghi tổng số tiền viết bằng chữ. Đây là tổng số tiền thanh toán người muaphải trả bao gồm tiền mua hàng hoá, dịch vụ và số thuế GTGT.
+
+Hoá đơn (GTGT) lập làm3 liên (loại 01/GTKT-3LL) hoặc 2 liên (loại 01/GTKT-2LN), nội dung ghi ở cácliên phải như nhau bằng cách đặt giấy than viết một lần cho các liên. Nghiêmcấm người bán hàng, cung cấp dịch vụ lập hoá đơn (GTGT) ghi mỗi liên một nộidung khác nhau hoặc ghi tên hàng hoá, số lượng, số tiền trên hoá đơn không đúngvới thực tế đã bán, đã cung cấp và số tiền đã thu của khách hàng.
+
+Hoá đơn (GTGT) sau khilập người mua và người bán phải ký tên, ghi rõ họ tên vào hoá đơn. Liên 1 lưucuống, liên 2 giao cho khách hàng, liên 1 (loại 2 liên) hoặc liên 3(loại 3liên) dùng để hạch toán.
+
+Hộ kinh doanh sử dụngsố liệu ghi trên hoá đơn (GTGT) để ghi sổ Nhật ký bán hàng và các sổ khác cóliên quan.
+
+HOÁ ĐƠN BÁN HÀNG
+
+(Mẫu số 02/GTTT)
+
+1- Mục đích: Hoá đơn bán hàng dùng cho các hộnộp thuế GTGT theo phương pháp trực tiếp để phản ánh số lượng và số tiềntừng loại hàng hoá, dịch vụ đã bán, đã cung cấp, làm căn cứ xác định doanh thubán hàng và tính toán số thuế GTGT phải nộp của hàng hoá bán ra, dịch vụ đãcung cấp.
+
+Hoá đơn bán hàng (mẫusố 02/GTTT-3LL) dùng cho các hộ bán buôn và bán nhiều mặt hàng cùng một lúc.
+
+Hoá đơn bán hàng (mẫusố 02/GTTT-2LN) dùng cho các hộ bán lẻ hàng hoá và bán ít mặt hàng.
+
+Hoá đơn bán hàng do ngườibán lập khi bán hàng hoặc cung ứng lao vụ, dịch vụ thu tiền.
+
+2- Phương pháp lập:
+
+Ghi rõ tên, địa chỉ,mã số thuế, số hiệu tài khoản của người bán hàng và người mua hàng
+
+Hình thức thanh toánbằng séc, tiền mặt, hoặc chuyển khoản...
+
+Cột A,B: Ghi số thứtự, tên hàng hoá, dịch vụ cung ứng thu tiền. Mỗi loại hàng hoá, dịch vụ bán raghi một dòng.
+
+Cột C: Đơn vị tính củahàng hoá, dịch vụ bán ra.
+
+Cột 1: Ghi số lượnghoặc trọng lượng hàng hoá, dịch vụ bán ra hoặc đã cung cấp.
+
+Cột 2: Ghi đơn giá báncủa từng loại hàng hoá, dịch vụ,.. Trường hợp hàng hoá trao đổi ghi theo đơngiá bán của hàng hoá, dịch vụ mang trao đổi.
+
+Cột 3: Ghi tổng sốtiền bán hàng hoá, cung cấp dịch vụ có cả thuế GTGT. cột 3 bằng (=) cột 1 nhân(x) cột 2
+
+Các dòng còn thừa phíadưới các cột A, B, C, 1, 2, 3 được gạch chéo từ trên xuống dưới, từ trái quaphải.
+
+Dòng cộng tiền bánhàng hoá, dịch vụ: Ghi tổng cộng số tiền ở cột 3.
+
+Dòng số tiền viết bằngchữ: Ghi bằng chữ tổng số tiền bán hàng hoá, cung cấp dịch vụ khách hàng phảithanh toán trong đó có cả thuế GTGT.
+
+Hoá đơn bán hàng lậplàm 3 liên (loại 02/GTTT-3LL) hoặc 2 liên (loại 02/GTTT-2LN), nội dung ghi ởcác liên phải như nhau bằng cách đặt giấy than viết một lần cho các liên.Nghiêm cấm người bán hàng, cung cấp dịch vụ lập hoá đơn ghi mỗi liên một nộidung khác nhau hoặc ghi tên hàng hoá, số lượng, số tiền trên hoá đơn không đúngvới thực tế của số lượng và giá trị của hàng hoá bán ra, dịch vụ đã cung cấp.
+
+Hoá đơn bán hàng saukhi lập người mua và người bán phải ký tên, ghi rõ họ tên vào hoá đơn. Liên 1 lưucuống, liên 2 giao cho khách hàng, liên 1 (loại 2 liên) hoặc liên 3(loại 3liên) dùng để hạch toán.
+
+Hộ kinh doanh sử dụngsố liệu trên hoá đơn bán hàng để ghi vào sổ Nhật ký bán hàng và các sổ có liênquan.
+
+BẢNG KÊ BÁN LẺ HÀNG HOÁ, DỊCH VỤ
+
+(Mẫu số 05/GTGT)
+
+1- Mục đích: Bảng kê bán lẻ hàng hoá, dịchvụ dùng cho các hộ kinh doanh trong trường hợp bán lẻ hàng hoá số lượng ít, giátrị nhỏ (dưới mức qui định phải lập hoá đơn hoặc không lập được hoá đơn bánhàng) để phản ánh số lượng và số tiền từng loại hàng hoá, dịch vụ đã bán, đãcung cấp làm căn cứ xác định doanh thu bán hàng và số thuế GTGT của hàng hoádịch vụ bán ra.
+
+2- Phương pháp lập:
+
+- Bảng kê bán lẻ hànghoá, dịch vụ do người bán hàng lập khi bán hàng hóa, cung cấp dịch vụ.
+
+- Ghi rõ tên hộ kinhdoanh, địa chỉ, tên người bán, nơi bán hàng.
+
+- Cột A, B: Ghi số thứtự, tên hàng hoá, dịch vụ cung ứng thu tiền
+
+- Cột C: Đơn vị tínhcủa hàng hoá, dịch vụ
+
+- Cột 1: Ghi số lượnghoặc trọng lượng hàng hoá bán ra, dịch vụ đã cung cấp.
+
+- Cột 2: Ghi đơn giábán của từng loại hàng hoá, dịch vụ,.. trường hợp hàng hoá trao đổi ghi theođơn giá bán hàng hoá, dịch vụ mang trao đổi.
+
+- Cột 3: Thành tiền.Cột 3 bằng (=) cột 1 nhân (x) cột 2
+
+Dòng tổng cộng tiềnthanh toán ghi số tiền tổng cộng ở cột 3
+
+Dòng tổng số tiền viếtbằng chữ: Ghi bằng chữ tổng cộng số tiền thu được của hàng hoá bán ra, dịch vụđã cung cấp.
+
+Bảng kê bán lẻ đượclập hàng ngày, vài ngày, hàng tuần hoặc hàng tháng. Sau khi lập, người bán hàngphải ký tên, ghi rõ họ tên vào cuối bảng kê. Số liệu trên Bảng kê bán lẻ hànghoá, dịch vụ được sử dụng để làm căn cứ ghi sổ nhật ký bán hàng và các sổ liênquan.
+
+Đối với hộ nộp thuếtheo phương pháp khấu trừ, giá thanh toán ghi trên bảng kê là giá đã có thuếGTGT, giá chưa có thuế được xác định như sau:
+
+
+
+
+
+Giá thanh toán (trên bảng kê)
+
+
+
+Giá chưa có thuế  GTGT
+
+=
+
+
+
+
+
+
+
+1+ (%) thuế suất của hàng hoá, dịch vụ đó
+
+Thuế suất thuế
+
+Thuế GTGT phải nộp =Giá chưa có thuế GTGT x GTGT của hàng hoá, dịch vụ đó hoặc:
+
+Thuế GTGT phải nộp =Giá thanh toán - Giá chưa có thuế GTGT
+
+Đối với hàng hoá, dịchvụ mua vào là loại được dùng chứng từ là Bảng kê bán lẻ thì hộ kinh doanh thuộcdiện nộp thuế theo phương pháp khấu trừ được căn cứ giá thanh toán đã có thuếvà phương pháp tính nêu trên để xác định giá không có thuế và thuế GTGT đầu vàođược khấu trừ.
+
+BẢNG KÊ THU MUA HÀNG NÔNG SẢN, LÂM SẢN, THUỶ SẢN...
+
+CỦA NGƯỜI TRỰC TIẾP SẢN XUẤT
+
+(Mẫu số 04/GTGT)
+
+1- Mục đích:
+
+Bảng kê thu mua hàngnông sản, lâm sản, thuỷ sản,... của người trực tiếp sản xuất dùng cho những hộthu mua nông, lâm, thuỷ sản khi mua hàng của người trực tiếp sản xuất thuộcdiện không phải lập hoá đơn để xác nhận số lượng, giá trị của hàng nông sản,lâm sản, thuỷ sản,... đã mua. Làm căn cứ xác định giá trị của hàng hoá mua vàovà tính toán số thuế đầu vào được khấu trừ (đối với các hộ thuộc đối tượng nộpthuế theo phương pháp khấu trừ) tính toán chi phí sản xuất, kinh doanh.
+
+2- Cách lập:
+
+Ghi rõ tên cơ sở sảnxuất, chế biến, địa chỉ, địa chỉ nơi tổ chức thu mua, người phụ trách thu mua.
+
+- Cột 1: Ghi ngàytháng mua hàng
+
+- Cột 2, 3: Ghi họtên, địa chỉ người bán
+
+- Cột 4: Ghi tên mặthàng mua vào
+
+- Cột 5: Ghi số lượngmặt hàng mua vào
+
+- Cột 6: Ghi đơn giáthanh toán
+
+- Cột 7: Thành tiền,Cột 7 bằng (=) cột 5 nhân (x) cột 6
+
+Tổng giá thanh toán làsố tổng cộng của cột 7.
+
+Sau khi lập xong ngườilập bảng kê ký tên. Số liệu bảng kê thu mua hàng nông sản, lâm sản, thuỷsản,... của người trực tiếp sản xuất được sử dụng để ghi vào Nhật ký mua hàngvà sổ chi phí sản xuất kinh doanh.
+
+Hộ kinh doanh khi muahàng thuộc diện dùng bảng kê thu mua hàng nông sản, lâm sản, thuỷ sản,.. chưaqua chế biến của người trực tiếp sản xuất sẽ được tính khấu trừ thuế đầu vàotheo tỷ lệ (%) tính trên giá trị hàng hoá mua vào:
+
+- 5% đối với sản phẩmtrồng trọt thuộc các loại cây lấy nhựa, lấy mủ, lấy dầu, mía cây, chè búp tươi,lúa, ngô, khoai, sắn; sản phẩm chăn nuôi là gia súc, gia cầm; cá tôm và cácloại thuỷ sản khác;
+
+- 3% đối với các loạisản phẩm là nông sản, lâm sản không quy định trong nhóm được khấu trừ (5%) trênđây.
+
+PHIẾU XUẤT KHO KIÊM VẬN CHUYỂN NỘI BỘ
+
+(Mẫu số 03- VT)
+
+1- Mục đích:Theo dõi số lượng vật tư, sản phẩm, hàng hoá di chuyển từ kho này đến kho kháctrong nội bộ hộ kinh doanh hoặc đến các đơn vị gia công chế biến,..., làm chứngtừ vận chuyển trên đường.
+
+2- Cách lập:
+
+Khi lập phiếu xuất khokiêm vận chuyển nội bộ phải ghi rõ:
+
++ Tên, địa chỉ của đơnvị có vật tư, sản phẩm, hàng hoá chuyển đi vào góc trên bên trái;
+
++ Số, ngày, tháng nămlập phiếu;
+
++ Họ tên người vậnchuyển (nếu là người ngoài đơn vị thì phải ghi thêm địa chỉ của người vậnchuyển) và hợp đồng vận chuyển số.. ngày... tháng... năm...
+
++ Tên, ký hiệu của phươngtiện vận chuyển;
+
++ Tên, địa chỉ của khoxuất hàng và kho nhận hàng;
+
++ Cột A, B, C, D: Ghisố thứ tự, tên nhãn hiệu, quy cách, mã số và đơn vị tính của từng loại vật tư,sản phẩm, hàng hoá chuyển đi;
+
++ Cột 1: Thủ kho xuấthàng ghi số thực xuất của từng thứ hàng;
+
++ Cột 2: Thủ kho nhậpghi số thực nhập của từng thứ hàng;
+
++ Cột 3, 4: Kế toáncủa hộ có vật tư, sản phẩm, hàng hoá chuyển đi ghi đơn giá và tính thành tiền(cột 4 = cột 2 x cột 3)
+
+Dòng cộng: Ghi tổng sốtiền của số lượng vật tư, sản phẩm, hàng hoá xuất kho chuyển đi theo số liệutính toán của kế toán.
+
+Sau khi xuất kho, thủkho xuất ghi ngày.. tháng.. năm xuất kho và ký vào các liên của phiếu (ghi rõhọ tên) giao cho người vận chuyển mang theo cùng hàng vận chuyển trên đường.
+
+Thủ kho nhập, sau khinhận hàng xong ghi số thực nhập vào cột 2, ngày.. tháng.. năm.. nhập và cùngvới người vận chuyển ký vào các liên của phiếu.
+
+Phiếu xuất kho kiêmvận chuyển nội bộ dùng làm căn cứ ghi sổ kho hàng và thẻ kho.
+
+PHIẾU XUẤT KHO HÀNG GỬI BÁN ĐẠI LÝ
+
+(Mẫu số04-XGĐL-3LL)
+
+1- Mục đích:
+
+Dùng để theo dõi số lượnghàng xuất kho gửi bán, làm chứng từ vận chuyển trên đường.
+
+2- Cách lập:
+
+Ghi rõ số, ngày thángcủa hợp đồng kinh tế, nội dung hợp đồng, họ tên người vận chuyển, phương tiệnvận chuyển. Nơi xuất, nơi nhận hàng
+
+- Cột 1: Ghi tên, nhãnhiệu, quy cách, phẩm chất vật tư, sản phẩm, hàng hoá xuất kho gửi bán
+
+- Cột 2: Ghi mã số củahàng xuất kho
+
+- Cột 3: Ghi đơn vịtính của hàng hoá
+
+- Cột 4: Ghi số lượnghàng xuất kho
+
+- Cột 5: Ghi đơn giáhàng gửi bán
+
+- Cột 6: Bằng cột 4nhân (x) cột 5
+
+Dòng cộng tiền hàngghi số tổng cộng của cột 6
+
+Phiếu xuất kho hànggửi bán đại lý được dùng để ghi sổ theo dõi vật tư, sản phẩm, hàng hoá (chitiết hàng gửi bán).
+
+BẢNG THANH TOÁN HÀNG ĐẠI LÝ (KÝ GỬI)
+
+(Mẫu số 14- BH)
+
+1- Mục đích:
+
+Phản ánh tình hìnhthanh toán hàng đại lý (ký gửi) giữa đơn vị có hàng và hộ nhận bán hàng. Làchứng từ để đơn vị có hàng và hộ nhận đại lý, ký gửi, thanh toán tiền và ghi sổkế toán.
+
+2- Cách lập:
+
+Ghi rõ tên, địa chỉ hộnhận bán hàng đại lý, ký gửi ở dòng trên bên trái.
+
+- Ghi rõ số và ngày,tháng, năm lập bảng thanh toán hàng đại lý, ký gửi.
+
+- Ghi rõ số hiệu,ngày, tháng năm của hợp đồng bán hàng đại lý, ký gửi.
+
+- Ghi rõ tên, chức vụcủa đại diện các bên gửi hàng và nhận hàng đại lý, ký gửi.
+
++ Cột A, B, C : Ghi sốthứ tự và tên quy cách, phẩm chất, đơn vị tính của sản phẩm, hàng hoá nhận đạilý, ký gửi.
+
++ Cột1: Ghi số lượnghàng chưa thanh toán cuối kỳ trước
+
++ Cột 2: Ghi số lượnghàng nhận đại lý, ký gửi kỳ này
+
++ Cột 3: Ghi số lượnghàng nhận đại lý, ký gửi đã bán trong kỳ
+
++ Cột 4: Ghi đơn giáhàng đại lý, ký gửi đã bán trong kỳ
+
++ Cột 5: Cột 5 = cột 3x cột 4
+
++ Cột 6: Số lượng hàngđại lý, ký gửi tồn cuối kỳ chưa bán được đến ngày lập bảng thanh toán.
+
+Dòng cộng: Ghi tổng sốtiền phải thanh toán trong kỳ là dòng tổng cộng của cột 5
+
+Ghi rõ số tiền hoahồng bên nhận bán hàng đại lý, ký gửi được hưởng và số tiền bên nhận bán hàngphải thanh toán cho bên gửi bán hàng đại lý, ký gửi.
+
+PHIẾU NHẬP KHO
+
+(Mẫu số 01-VT)
+
+1 - Mục đích: Nhằm xác nhận số lượng vật tư,sản phẩm, hàng hoá nhập kho làm căn cứ ghi sổ theo dõi vật tư, sản phẩm, hànghoá.
+
+2 - Cách lập:
+
+Phiếu nhập kho áp dụngtrong các trường hợp nhập kho vật tư, sản phẩm, hàng hoá mua ngoài, tự sảnxuất, thuê ngoài gia công chế biến.
+
+Khi lập phiếu nhập khophải ghi rõ số phiếu nhập và ngày, tháng, năm lập phiếu, họ tên người nhập vậttư, sản phẩm hàng hoá, số hoá đơn.
+
+Cột A, B, C, D: Ghi sốthứ tự, tên, nhãn hiệu qui cách, mã số và đơn vị tính của vật tư, sản phẩm,hàng hoá.
+
+Cột 1: Ghi số lượngtheo hoá đơn.
+
+Cột 2: Thủ kho ghi sốlượng thực nhập vào kho.
+
+Cột 3: Ghi đơn giá(theo giá hoá đơn)
+
+Cột 4: Tính ra số tiềncủa từng thứ vật tư, sản phẩm, hàng hoá thực nhập. Cột 4 = cột 2 x cột 3
+
+Dòng cộng: Ghi tổng sốtiền của các loại vật tư, sản phẩm hàng hoá nhập cùng một phiếu nhập kho.
+
+Phiếu nhập kho lậpthành 2 liên (đặt giấy than viết 1 lần), căn cứ vào phiếu nhập kho làm thủ tụcđể nhập vật tư, sản phẩm, hàng hoá và ghi sổ theo dõi vật tư, sản phẩm, hànghoá.
+
+Nhập kho xong thủ khoghi ngày, tháng, năm nhập kho và cùng người nhập ký vào phiếu, thủ kho giữ liên2 để ghi vào thẻ kho và sau đó chuyển cho kế toán để ghi sổ kho hàng và liên 1lưu ở nơi lập phiếu, liên 3 (nếu có) người nhập giữ.
+
+PHIẾU XUẤT KHO
+
+( Mẫu số 02- VT)
+
+1 - Mục đích: Theo dõi số lượng vật tư, sản phẩm, hàng hoá xuất kho cho các bộ phận sửdụng, để sản xuất hoặc để bán, làm căn cứ để hạch toán chi phí sản xuất, tínhgiá thành sản phẩm và giá vốn hàng bán.
+
+2 - Cách lập:
+
+Phiếu xuất kho lập chomột hoặc nhiều thứ vật tư, sản phẩm, hàng hoá cùng một kho dùng cho một mụcđích sử dụng.
+
+Khi lập phiếu xuất khophải ghi rõ: Số và ngày, tháng, năm lập phiếu; lý do sử dụng và kho xuất vật tư,sản phẩm, hàng hoá.
+
+- Cột A, B, C, D: Ghisố thứ tự, tên, nhãn hiệu, qui cách, đơn vị tính và mã số của vật tư, sản phẩm,hàng hoá.
+
+- Cột 1: Ghi số lượngvật tư, sản phẩm, hàng hoá theo yêu cầu xuất kho của người (bộ phận) sử dụng.
+
+- Cột 2: Thủ kho ghisố lượng thực tế xuất kho (số lượng thực tế xuất kho chỉ có thể bằng hoặc íthơn số lượng yêu cầu).
+
+- Cột 3, 4: Ghi đơngiá và tính thành tiền của từng loại vật tư, sản phẩm, hàng hoá xuất kho (cột 4= cột 2 x cột 3)
+
+Dòng cộng: Ghi tổng sốtiền của số vật tư, sản phẩm, hàng hoá thực tế đã xuất kho.
+
+Phiếu xuất kho lậpthành 3 liên (đặt giấy than viết 1 lần). Sau khi lập phiếu xong chủ hộ, kế toánký (ghi rõ họ tên) sau đó giao cho người nhận xuống kho để lĩnh. Sau khi xuấtkho thủ kho ghi vào cột 2 số lượng thực xuất của từng thứ, ghi ngày, tháng, nămxuất kho và cùng người nhận hàng ký tên vào phiếu xuất (ghi rõ họ tên ).
+
+Liên 1: Lưu ở bộ phậnlập phiếu
+
+Liên 2: Thủ kho giữ đểghi vào thẻ kho và sau đó chuyển cho kế toán để kế toán ghi vào cột 3, 4 và ghivào sổ kho hàng.
+
+Liên 3: Người nhận giữđể ghi sổ kế toán bộ phận sử dụng.
+
+BẢNG CHẤM CÔNG
+
+(Mẫu số 01-LĐTL)
+
+1 - Mục đích: Bảng chấm công dùng để theodõi ngày công thực tế làm việc, nghỉ việc, nghỉ hưởng BHXH....... của người laođộng và là căn cứ để tính trả lương.
+
+2 - Cách lập:
+
+Cột A, B: Ghi số thứtự, họ và tên của từng người lao động.
+
+Cột C: Ghi mức lươngcủa từng người
+
+Cột 1 - 31: Ghi cácngày trong tháng (từ ngày 01 đến ngày cuối tháng)
+
+Cột 32: Ghi tổng sốcông hưởng lương thời gian của từng người lao động trong tháng
+
+Cột 33: Ghi tổng sốcông hưởng lương theo sản phẩm của từng người lao động trong tháng
+
+Cuối tháng, người chấm công cộngtổng số lương được hưởng của từng người lao động, chủ hộ ký duyệt. Bảng này đượclàm căn cứ để trả lương.
+
+Phụ lục số 02
+
+SỔ KẾ TOÁN
+
+DANH MỤC SỔ
+
+
+
+
+
+
+
+ĐƠN VỊ ÁP DỤNG
+
+STT
+
+TÊN SỔ
+
+MẪU SỐ
+
+Hộ nộp thuế theo phương pháp trực tiếp
+
+Hộ nộp thuế
+
+
+
+
+
+
+
+Ấn định doanh số
+
+Kế toán được
+
+doanh số bán ra
+
+Kế toán được doanh số mua vào, bán ra
+
+theo phương pháp khấu trừ
+
+
+
+A- Sổ kế toán bắt  buộc
+
+
+
+
+
+
+
+
+
+
+
+1
+
+Sổ Nhật ký bán hàng
+
+S 01-HKD
+
+x
+
+x
+
+x
+
+x
+
+2
+
+Sổ nhật ký mua hàng
+
+S02-HKD
+
+
+
+
+
+x
+
+x
+
+3
+
+Sổ chi phí sản xuất,  kinh doanh
+
+S03- HKD
+
+
+
+
+
+x
+
+x
+
+4
+
+Sổ theo dõi vật tư,  sản phẩm, hàng hoá
+
+S04- HKD
+
+
+
+
+
+x
+
+x
+
+5
+
+Bảng kê luân chuyển  vật tư, sản phẩm, hàng hoá
+
+S05- HKD
+
+
+
+
+
+x
+
+x
+
+6
+
+Bảng đăng ký TSCĐ sử  dụng vào sản xuất, kinh doanh
+
+
+
+S06 - HKD
+
+
+
+
+
+x
+
+x
+
+
+
+B- Sổ kế toán hướng  dẫn
+
+
+
+
+
+
+
+
+
+
+
+7
+
+Sổ tiền mặt, tiền  gửi
+
+S07- HKD
+
+
+
+
+
+x
+
+x
+
+8
+
+Sổ theo dõi nợ phải  thu
+
+S08- HKD
+
+
+
+
+
+x
+
+x
+
+9
+
+Sổ theo dõi nợ phải  trả
+
+S09- HKD
+
+
+
+
+
+x
+
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quận,  huyện:...
+
+
+
+Mẫu số: S01-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế:.....
+
+
+
+
+
+SỔ NHẬT KÝ BÁN HÀNG
+
+Tháng... năm 200..
+
+Nhóm mặt hàng, dịch vụ có thuế suất.....%
+
+Chứng từ
+
+
+
+Doanh số bán
+
+Thuế GTGT
+
+Tổng giá thanh
+
+
+
+Số
+
+hiệu
+
+Ngày tháng
+
+Diễn giải
+
+(Tên người mua)
+
+hàng
+
+đầu ra
+
+toán đã có thuế GTGT
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế:                          Người ghi sổ                Chủhộ
+
+- Sổ này có...trang được đánh số từ 1 đến.. . (Ký, họ tên)         (Ký, họ tên)
+
+- Ngày mở sổ:...
+
+(Ký tên, đóng dấu)
+
+.Quận, huyện:...
+
+
+
+Mẫu số: S02-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế:....
+
+
+
+
+
+SỔ NHẬT KÝ MUA HÀNG
+
+Tháng... năm 200..
+
+Chứng từ
+
+
+
+Giá trị hàng
+
+Thuế GTGT
+
+Tổng giá thanh
+
+
+
+Số
+
+hiệu
+
+Ngày tháng
+
+Diễn giải
+
+(Tên người bán)
+
+mua chưa có thuế GTGT
+
+đầu vào
+
+toán của hàng mua đã có thuế GTGT
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế:                          Người ghi sổ    Chủhộ
+
+- Sổ này có...trang được đánh số từ 1 đến... (Ký, họ tên)          (Ký, họ tên)
+
+- Ngày mở sổ:...
+
+(Ký tên, đóng dấu)
+
+Quận,  huyện:...
+
+
+
+Mẫu số: S03 -HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+SỔ CHI PHÍ SẢN XUẤT KINH DOANH
+
+Tháng... năm 200...
+
+Chứng từ
+
+
+
+
+
+Trong đó
+
+
+
+Số hiệu
+
+Ngày tháng
+
+DIỄN GIẢI
+
+Tổng số
+
+Vật liệu hàng hoá
+
+Dịch vụ mua ngoài
+
+Khấu hao TSCĐ
+
+Tiền công thuê ngoài
+
+Các khoản thuế, phí, lệ phí đã nộp
+
+Các khoản chi phí khác
+
+Ghi chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Cộng
+
+- Thuế GTGT của dịch  vụ mua ngoài
+
+- Chi phí hợp lý để  tính thuế TNDN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơ quanthuế:                          Người ghi sổ                Chủhộ
+
+- Sổ này có...trang được đánh số từ 1 đến...                  (Ký, họ tên)                (Ký, họ tên)
+
+- Ngày mở sổ:...
+
+(Ký tên, đóng dấu)
+
+Quận, huyện:...
+
+
+
+Mẫu số: S04-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+SỔ THEO DÕI VẬT TƯ, SẢN PHẨM, HÀNG HOÁ
+
+Tên vật tư, sản phẩm, hàng hoá:............
+
+Đơnvị tính:...............
+
+Chứng từ
+
+
+
+
+
+Nhập
+
+Xuất
+
+Tồn
+
+Ghi
+
+Số hiệu
+
+Ngày tháng
+
+Diễn giải
+
+Đơn giá
+
+Số
+
+lượng
+
+Thành tiền
+
+Số
+
+lượng
+
+Thành tiền
+
+Số
+
+lượng
+
+Thành tiền
+
+chú
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tồn đầu kỳ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng phát sinh trong kỳ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tồn cuối kỳ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế: Người ghi sổ                 Chủhộ
+
+(Ký tên, đóng dấu)(Ký, họ tên)           (Ký, họ tên)
+
+- Sổ này có...trang được đánh số từ 1 đến...
+
+- Ngày mở sổ:...
+
+Quận, huyện:...
+
+
+
+Mẫu số: S05-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+BẢNG KÊ LUÂN CHUYỂN VẬT TƯ, SẢN PHẨM, HÀNG HOÁ
+
+Tháng... năm 200..
+
+S
+
+Tên qui cách vật
+
+Tồn đầu kỳ
+
+Nhập trong kỳ
+
+Xuất trong kỳ
+
+Tồn cuối kỳ
+
+
+
+
+
+
+
+T
+
+T
+
+tư, sản phẩm, hàng hoá
+
+Số lượng
+
+Giá trị
+
+Số lượng
+
+Giá trị
+
+Số lượng
+
+Giá trị
+
+Số lượng
+
+Giá trị
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Người lập                                                                                             Chủhộ
+
+(Ký, họ tên)                                                                             (Ký, họ tên)
+
+Quận, huyện:...
+
+
+
+Mẫu số: S 06 -HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+BẢNG ĐĂNG KÝ TÀI SẢN CỐ ĐỊNH SỬ DỤNG VÀO SẢN XUẤT KINHDOANH
+
+Năm 200...
+
+Kính gửi: Chicục Thuế.......
+
+Hộ chúng tôi xin đăngký những tài sản cố định sử dụng vào SXKD để làm căn cứ tính khấu hao TSCĐ nhưsau:
+
+STT
+
+Tên tài sản
+
+Ký, mã hiệu
+
+Số lượng
+
+Thời điểm đưa vào sử dụng
+
+Giá trị
+
+(Nguyên giá)
+
+Thời gian sử dụng (năm)
+
+Mức khấu hao 1 năm
+
+Mức khấu hao 1 tháng
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8 = 6/7
+
+9= 8/12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế:                                                                                     Ngày... tháng... năm 200...
+
+Sau khi thẩm định xácnhận số lượng và giá trị tài sản của hộ.... sử dụng vào sản xuất, kinh doanh nhưsau
+
+Chủ hộ:
+
+- Tổng giá trị tài sản(tổng nguyên giá)......... đồng
+
+- Số khấu haonăm:....................................... đồng
+
+- Số khấu hao bìnhquân tháng;..................... đồng
+
+Ngày.... tháng...năm...
+
+Chi cục Thuế
+
+Quận, huyện:...
+
+
+
+Mẫu số: S07-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+SỔ THEO DÕI TIỀN MẶT, TIỀN GỬI
+
+Tháng.. năm 200..
+
+Chứng từ
+
+
+
+Số tiền
+
+Ghi chú
+
+Số hiệu
+
+Ngày tháng
+
+DIỄN GIẢI
+
+Thu
+
+(gửi vào)
+
+Chi
+
+(Rút ra)
+
+Tồn
+
+(Còn lại)
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế: Người ghi sổ                 Chủhộ
+
+(Ký tên, đóng dấu)       (Ký, họ tên) (Ký, họ tên)
+
+- Sổ này có...trang được đánh số từ 1 đến...
+
+- Ngày mở sổ:...
+
+Quận, huyện:...
+
+
+
+Mẫu số: S08-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+SỔ THEO DÕI NỢ PHẢI THU
+
+Tháng... năm 200..
+
+Chứng từ
+
+
+
+Số tiền
+
+Xác nhận
+
+Số hiệu
+
+Ngày tháng
+
+DIỄN GIẢI
+
+Phải thu
+
+Đã thu
+
+Còn phải thu cuối kỳ
+
+nợ
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+
+
+Xác nhận của cơ quan thuế:              Người ghi sổ                Chủhộ
+
+(Kýtên, đóng dấu) (Ký, họ tên)          (Ký, họ tên)
+
+- Sổ nàycó... trang được đánh số từ 1 đến...
+
+- Ngày mở sổ:...
+
+Quận, huyện:...
+
+
+
+Mẫu số: S09-HKD
+
+Phường, xã:...
+
+
+
+Ban hành kèm theo QĐ số 169-2000/QĐ-BTC
+
+Số nhà:....
+
+
+
+ngày 25 tháng10 năm 2000 của Bộ trưởng Bộ Tài chính
+
+Tên hộ:....
+
+
+
+
+
+Số đăng ký kinh  doanh:...
+
+
+
+
+
+Mã số nộp thuế: ...
+
+
+
+
+
+SỔ THEO DÕI NỢ PHẢI TRẢ
+
+Tháng... năm 200..
+
+Chứng từ
+
+
+
+Số tiền
+
+
+
+Số hiệu
+
+Ngày tháng
+
+DIỄN GIẢI
+
+Phải trả
+
+Đã trả
+
+Còn phải trả
+
+cuối kỳ
+
+Xác nhận nợ
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cộng
+
+
+
+
+
+
+
+
+
+Xác nhận của cơquan thuế: Người ghi sổ                 Chủhộ
+
+(Kýtên, đóng dấu) (Ký,họ tên)            (Ký, họ tên)
+
+- Sổ này có...trang được đánh số từ 1 đến...
+
+- Ngày mở sổ:...
+
+GIẢI THÍCH PHƯƠNG PHÁP GHI SỔ KẾ TOÁN
+
+SỔ NHẬT KÝ BÁN HÀNG
+
+(Mẫu số 01- HKD)
+
+1- Mục đích: Sổ nhật ký bán hàng dùng để ghichép các nghiệp vụ bán hàng, cung ứng dịch vụ và theo dõi doanh thu bán hàng,cung ứng dịch vụ trên cơ sở đó xác định số thuế GTGT phải nộp của hàng hoá,dịch vụ bán ra của hộ kinh doanh.
+
+2- Cách ghi:
+
+- Nhật ký bán hàng đượcghi hàng ngày.
+
+- Căn cứ để ghi nhật ký bán hànglà các hoá đơn bán hàng hoá, cung ứng dịch vụ và bảng kê bán lẻ hàng hoá, dịchvụ.
+
+a- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp khấu trừ:
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn bán hàng và bảng kê bán lẻ hàng hoá, dịch vụ. Mỗi hoáđơn, bảng kê ghi 1 dòng.
+
+Cột 3: Ghi tên ngườimua hàng và tóm tắt tên, số lượng những mặt hàng chính đã bán.
+
+Cột 4: Ghi tổng doanhsố bán hàng chưa có thuế GTGT.
+
+Cột 5: Thuế GTGT đầura. Căn cứ vào dòng thuế GTGT ghi trên hoá đơn để ghi vào cột này hoặc cột 5 =cột 4 x thuế suất thuế GTGT .
+
+Cột 6: Ghi tổng giáthanh toán đã có thuế GTGT.
+
+Hàng ngày, cuối trangvà cuối tháng kế toán phải cộng doanh số bán hàng, số luỹ kế hết trang của cột4, 5, 6 được mang sang trang tiếp theo để tính luỹ kế tổng số doanh thu bánhàng, cung cấp dịch vụ và tổng số thuế GTGT của hàng bán ra, dịch vụ đã cungcấp của cả tháng.
+
+Cuối tháng căn cứ vàosố liệu trên sổ Nhật ký mua hàng, sổ nhật ký bán hàng và bảng kê luân chuyểnvật tư, sản phẩm, hàng hoá cuối tháng trước và cuối tháng này để xác định thuếGTGT phải nộp và thuế thu nhập doanh nghiệp phải nộp.
+
+b- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp trực tiếp:
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn bán hàng. Mỗi hoá đơn ghi 1 dòng.
+
+Cột 3: Ghi tên ngườimua hàng và tóm tắt tên, số lượng những mặt hàng chính đã bán.
+
+Cột 4, cột 5: Khôngghi
+
+Cột 6: Tổng số tiềntrên hoá đơn. Đây là số tiền bán hàng trong đó đã có thuế GTGT.
+
+Hàng ngày, cuối trangvà cuối tháng kế toán phải cộng doanh số bán hàng, số luỹ kế hết trang của cột6 được mang sang trang tiếp theo để tính luỹ kế tổng số doanh thu bán hàng.
+
+Cuối tháng căn cứ vàosố liệu trên sổ Nhật ký mua hàng, sổ Nhật ký bán hàng và Bảng kê luân chuyểnvật tư, sản phẩm, hàng hoá cuối tháng trước và cuối tháng này để xác định giátrị gia tăng chịu thuế làm căn cứ tính thuế GTGT và thuế thu nhập doanh nghiệpphải nộp.
+
+c- Đối với hànghóa, dịch vụ chịu thuế tiêu thụ đặc biệt và hàng hoá, dịch vụ không thuộc đối tượngchịu thuế GTGT.....
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn bán hàng. Mỗi hoá đơn ghi 1 dòng.
+
+Cột 3: Ghi tên ngườimua hàng và tóm tắt tên, số lượng những mặt hàng chính đã bán.
+
+Cột 4, cột 5: Khôngghi
+
+Cột 6: Tổng số tiềntrên hoá đơn.
+
+Hàng ngày, cuối trangvà cuối tháng kế toán phải cộng doanh số bán hàng, số luỹ kế hết trang của cột6 được mang sang trang tiếp theo để tính luỹ kế tổng số doanh thu bán hàng.Cuối tháng, số tổng cộng cột 6 là tổng doanh số bán hàng trong tháng, là căn cứđể tính thuế tiêu thụ đặc biệt.
+
+SỔ NHẬT KÝ MUA HÀNG
+
+(Mẫu số 02 - HKD)
+
+1- Mục đích: Sổ nhật ký mua hàng dùng đểtheo dõi tình hình mua vật tư, hàng hoá của hộ kinh doanh cả về số lượng và giátrị trên cơ sở đó xác định số thuế GTGT của hàng hoá dịch vụ mua vào.
+
+2- Cách ghi:
+
+Nhật ký mua hàng đượcghi hàng ngày.
+
+Căn cứ để ghi nhật kýmua hàng là các hoá đơn mua hàng hoặc bảng kê thu mua nông, lâm, thuỷ sản,...của người trực tiếp sản xuất.
+
+a- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp khấu trừ.
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn mua hàng hoặc bảng kê thu mua nông, lâm, thuỷ sản,...của người trực tiếp sản xuất, mỗi hoá đơn mua hàng ghi 1 dòng.
+
+Cột 3: Ghi tên ngườibán, tóm tắt tên, số lượng những mặt hàng chính mua vào.
+
+Cột 4: Ghi số tiềnthanh toán của hàng mua vào chưa có thuế GTGT.
+
+Cột 5: Ghi thuế GTGTcủa hàng mua vào. Căn cứ số tiền thuế GTGT ghi trên hoá đơn để ghi hoặc cột 5 =cột 4 x thuế suất thuế GTGT. Tổng cộng cột 5 là tổng số thuế GTGT của hàng muavào trong tháng.
+
+Cột 6: Ghi tổng giáthanh toán của hàng mua đã có thuế GTGT. Số liệu ghi cột này căn cứ vào dòngtổng cộng số tiền thanh toán trên hoá đơn để ghi.
+
+Hàng ngày, cuối trang vàcuối tháng kế toán phải cộng sổ Nhật ký mua hàng, số luỹ kế hết trang của cột4, 5, 6 được mang sang trang tiếp theo để tính luỹ kế tổng số giá trị hàng mua,tổng số thuế GTGT đầu vào của hàng mua trong tháng.
+
+b- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp trực tiếp.
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn mua hàng hoặc bảng kê thu mua nông, lâm, thuỷ sản,...của người trực tiếp sản xuất. Mỗi hoá đơn ghi 1 dòng.
+
+Cột 3: Ghi tên ngườimua hoặc tóm tắt tên, số lượng các mặt hàng chính trên hoá đơn.
+
+Cột 4, 5: Không ghi.
+
+Cột 6: Ghi tổng sốtiền thanh toán ghi trên hoá đơn, đây là số tiền của giá trị hàng hoá mua vàobao gồm cả thuế GTGT
+
+Hàng ngày, cuối trangvà cuối tháng kế toán phải cộng sổ Nhật ký mua hàng, số luỹ kế hết trang củacột 6 được mang sang trang tiếp theo để tính luỹ kế tổng số giá trị hàng muatrong tháng.
+
+Căn cứ vào Bảng kêluân chuyển vật tư, sản phẩm, hàng hoá để xác định giá trị của vật tư, hàng hoámua vào tương ứng với hàng bán ra.
+
+Giá thanh toán củahàng hoá mua vào tương ứng = Trị giá vốn của hàng tồn đầu tháng + Trị giá vốncủa hàng mua trong tháng - Trị giá vốn hàng còn lại cuối tháng.
+
+c- Đối với hànghóa, dịch vụ chịu thuế tiêu thụ đặc biệt và hàng hoá, dịch vụ không thuộc đối tượngchịu thuế GTGT.....
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của hoá đơn mua hàng hoặc bảng kê thu mua nông, lâm, thuỷ sản,...của người trực tiếp sản xuất. Mỗi hoá đơn ghi 1 dòng.
+
+Cột 3: Ghi tên ngườimua hoặc tóm tắt tên, số lượng các mặt hàng chính trên hoá đơn.
+
+Cột 4, 5: Không ghi.
+
+Cột 6: Ghi tổng sốtiền thanh toán ghi trên hoá đơn.
+
+Hàng ngày, cuối trangvà cuối tháng kế toán phải cộng sổ Nhật ký mua hàng, số luỹ kế hết trang củacột 6 được mang sang trang tiếp theo để tính luỹ kế tổng số giá trị hàng muatrong tháng.
+
+SỔ CHI PHÍ SẢN XUẤT, KINH DOANH
+
+(Mẫu số 03 - HKD)
+
+1- Mục đích:Dùng để tập hợp toàn bộ các khoản chi phí của các hộ kinh doanh phát sinh trongquá trình sản xuất, kinh doanh, cung ứng dịch vụ, làm căn cứ xác nhận số chiphí hợp lý, hợp lệ để tính trừ vào doanh thu bán hàng và xác định thu nhập chịuthuế.
+
+2- Cách ghi:
+
+Căn cứ để ghi vào sổchi phí sản xuất, kinh doanh là các chứng từ liên quan đến chi phí sản xuất,kinh doanh.
+
+- Mỗi hoạt động sảnxuất, kinh doanh được theo dõi trên một hoặc một số trang sổ riêng.
+
+- Cột 1, 2: Ghi sốhiệu, ngày tháng của chứng từ liên quan đến các khoản chi phí được dùng làm căncứ ghi sổ.
+
+- Cột 3: Ghi tóm tắtnội dung chi phí.
+
+- Cột 4: Ghi tổng sốchi phí phát sinh theo chứng từ.
+
+- Cột 5 đến cột 9: Ghinội dung chi phí theo các khoản mục như:
+
+a- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp khấu trừ.
+
++ Cột 5 - Giá trị vậtliệu, hàng hoá dùng vào sản xuất (không có thuế GTGT). Không tính vào chi phígia công phần nguyên, vật liệu của khách hàng đưa gia công.
+
+Đối với hoạt động kinhdoanh vật tư, hàng hoá, cột này phản ánh giá vốn của vật tư, hàng hoá bán ra(chưa có thuế GTGT). Cuối tháng, căn cứ vào sổ Nhật ký mua hàng và bảng kê luânchuyển vật tư, sản phẩm, hàng hoá để tính ra trị giá vốn của vật tư, hàng hoábán ra trong kỳ để ghi.
+
++ Cột 6 - Dịch vụ muangoài: Giá trị dịch vụ mua ngoài sử dụng vào sản xuất, kinh doanh không có thuếGTGT như tiền điện, tiền nước, tiền điện thoại, tiền thuê nhà, thuê chỗ bánhàng,...
+
++ Cột 7- Khấu haoTSCĐ: Số khấu hao bình quân tháng đã đăng ký với cơ quan Thuế
+
++ Cột 8 - Tiền cônglao động thuê ngoài: Là số tiền công thực trả cho người lao động thuê ngoài.Không tính vào chi phí kinh doanh này tiền công của hộ kinh doanh.
+
+Khi tính chi phí hợplệ, hợp lý để tính thuế thu nhập doanh nghiệp, chi phí tiền công trả cho ngườilao động không được vượt quá mức thu nhập bình quân của từng ngành nghề tại địaphương do Uỷ ban nhân dân tỉnh, thành phố quyết định.
+
++ Cột 9 - Các khoảnthuế, phí, lệ phí: gồm
+
+Các khoản thuế, lệ phíphải nộp Nhà nước được phép tính vào chi phí (thuế môn bài, thuế nhà, đất, lệphí qua cầu, lệ phí chứng thư,....)
+
+Riêng các khoản thuếGTGT được khấu trừ của dịch vụ mua ngoài và thuế GTGT của tài sản cố định muavào thuộc diện chịu thuế GTGT (nếu có) cũng được kê và tập hợp ở cột này, cuốitháng nhặt ra để khấu trừ thuế GTGT hàng bán ra và loaị trừ khỏi chi phí.
+
++ Cột 10 - Các khoảnchi phí khác như chi phí vận chuyển, bốc xếp, chi trả lãi tiền vay,...
+
+- Cuối kỳ cộng tổngchi phí phát sinh trong kỳ (tổng cộng cột 4) làm căn cứ tính giá thành sảnphẩm.
+
+- Dòng thuế GTGT củadịch vụ mua ngoài: Nhặt và tổng hợp số thuế GTGT của dịch vụ mua ngoài đượckhấu trừ từ cột 9 để ghi vào cột 4, số liệu này cũng được dùng để tính số thuếGTGT được khấu trừ trong tháng của hộ kinh doanh.
+
+Chi phí hợp lý để tínhthuế thu nhập doanh nghiệp = Số tổng cộng của cột 4 - số thuế GTGT của dịch vụmua ngoài được khấu trừ.
+
+b- Đối với hộkinh doanh nộp thuế GTGT theo phương pháp trực tiếp.
+
++ Cột 5 - Giá trị vậtliệu, hàng hoá dùng vào sản xuất, kinh doanh (đã có thuế GTGT). Không tính vàochi phí gia công phần nguyên, vật liệu của khách hàng đưa gia công.
+
+Đối với hoạt động kinhdoanh vật tư, hàng hoá, căn cứ vào sổ Nhật ký mua hàng và bảng kê luân chuyểnvật tư, sản phẩm, hàng hoá để tính ra trị giá vốn của sản phẩm, hàng hoá bán ratrong kỳ để ghi vào cột này.
+
++ Cột 6 - Dịch vụ muangoài: Giá trị dịch vụ mua ngoài sử dụng vào sản xuất, kinh doanh đã có thuếGTGT như tiền điện, tiền nước, tiền điện thoại, tiền thuê chỗ bán hàng.
+
++ Cột 7- Khấu haoTSCĐ: Số khấu hao bình quân tháng đã đăng ký với cơ quan Thuế
+
++ Cột 8 - Tiền cônglao động thuê ngoài: Là số tiền công thực trả cho người lao động thuê ngoài.Không tính vào chi phí này tiền công của hộ kinh doanh.
+
+Khi tính chi phí hợplệ, hợp lý để tính thuế thu nhập doanh nghiệp, chi phí tiền công trả cho ngườilao động không được vượt quá mức thu nhập bình quân của từng ngành nghề tại địaphương do Uỷ ban nhân dân tỉnh, thành phố quyết định.
+
++ Cột 9 - Các khoảnthuế, phí, lệ phí: Gồm các khoản thuế, lệ phí phải nộp Nhà nước được phép tínhvào chi phí (thuế môn bài, thuế nhà, đất, lệ phí qua cầu, lệ phí chứng thư,...)
+
++ Cột 10 - Các khoảnchi phí khác như chi phí vận chuyển, bốc xếp, chi phí trả lãi tiền vay,...
+
+- Cuối kỳ cộng tổngchi phí phát sinh trong kỳ (tổng cộng cột 4), chi phí này chính là chi phí hợplý, hợp lệ để tính trừ vào doanh thu xác định thu nhập chịu thuế.
+
+- Dòng thuế GTGT củadịch vụ mua ngoài được khấu trừ: Không ghi
+
+- Chi phí hợp lý đểtính thuế thu nhập doanh nghiệp: Ghi lại số tổng cộng ở trên.
+
+c- Đối với hànghoá, dịch vụ chịu thuế tiêu thụ đặc biệt và hàng hoá, dịch vụ không thuộc đối tượngchịu thuế GTGT.
+
++ Cột 5 - Giá trị vậtliệu, hàng hoá dùng vào sản xuất, kinh doanh (đã có thuế GTGT đối với những vậtliệu, hàng hoá thuộc diện chịu thuế GTGT). Không tính vào chi phí gia công phầnnguyên, vật liệu của khách hàng đưa gia công.
+
++ Cột 6 - Dịch vụ muangoài: Giá trị dịch vụ mua ngoài sử dụng vào sản xuất, kinh doanh đã có thuếGTGT như tiền điện, tiền nước, tiền điện thoại, tiền thuê chỗ bán hàng.
+
++ Cột 7- Khấu haoTSCĐ: Số khấu hao bình quân tháng đã đăng ký với cơ quan Thuế
+
++ Cột 8 - Tiền cônglao động thuê ngoài: Là số tiền công thực trả cho người lao động thuê ngoài.Không tính vào chi phí này tiền công của hộ kinh doanh.
+
+Khi tính chi phí hợplệ, hợp lý để tính thuế thu nhập doanh nghiệp, chi phí tiền công trả cho ngườilao động không được vượt quá mức thu nhập bình quân của từng ngành nghề tại địaphương do Uỷ ban nhân dân tỉnh, thành phố quyết định.
+
++ Cột 9 - Các khoảnthuế, phí, lệ phí : Gồm các khoản thuế, lệ phí phải nộp Nhà nước được phép tínhvào chi phí (thuế môn bài, thuế nhà, đất, lệ phí qua cầu, lệ phí chứng thư,thuế tiêu thụ đặc biệt phải nộp trong tháng,....)
+
++ Cột 10 - Các khoảnchi phí khác như chi phí vận chuyển, bốc xếp, chi phí trả lãi tiền vay,...
+
+- Cuối kỳ cộng tổngchi phí phát sinh trong kỳ (tổng cộng cột 4), chi phí này chính là chi phí hợplý, hợp lệ để tính trừ vào doanh thu xác định thu nhập chịu thuế.
+
+- Dòng thuế GTGT củadịch vụ mua ngoài được khấu trừ: Không ghi
+
+- Chi phí hợp lý đểtính thuế thu nhập doanh nghiệp: Ghi lại số tổng cộng ở trên.
+
+SỔ THEO DÕI VẬT TƯ, SẢN PHẨM, HÀNG HOÁ
+
+(Mẫu số 04- HKD)
+
+1- Mục đích:
+
+Dùng để theo dõi tìnhhình nhập, xuất, tồn về mặt số lượng và giá trị của từng thứ vật liệu, sảnphẩm, hàng hoá của hộ kinh doanh bao gồm hàng hoá sản xuất, mua về nhập khohoặc bán ngay không qua kho.
+
+2- Cách ghi:
+
+- Căn cứ ghi vào sổnày là các hoá đơn mua hàng, hoá đơn bán hàng.
+
+- Mỗi thứ vật liệu,sản phẩm, hàng hoá được ghi riêng một số trang sổ.
+
+- Đầu tháng ghi số lượng,số tiền tồn kho vào cột 9, cột 10.
+
+- Cột 1, 2: Ghi sốhiệu, ngày tháng của hoá đơn mua hàng, hoá đơn bán hàng.
+
+- Cột 3: Ghi nội dungxuất, nhập kho
+
+- Cột 4: Ghi đơn gíacủa sản phẩm, hàng hoá. Đây là giá mua theo hoá đơn (giá vốn) của vật tư, hànghoá. Đơn giá này dùng hạch toán nhập, xuất vật tư, hàng hoá
+
+Đơn giá nhập ghi theođơn giá mua trên hoá đơn
+
+Đơn giá xuất được xácđịnh bằng 1 trong các phương pháp sau:
+
++ Phương pháp nhập trước,xuất trước
+
++ Phương pháp giá đíchdanh
+
++ Phương pháp bìnhquân gia quyền
+
+Các phương pháp tínhgiá xuất nói trên phải đảm bảo sự tương ứng giữa số lượng và giá trị tồn kho.
+
+Các chi phí bốc xếp,vận chuyển vật tư, hàng hoá không tính vào đơn giá mà tính vào chi phí sảnxuất, kinh doanh.
+
+- Cột 5: Ghi số lượngsản phẩm, hàng hoá nhập kho
+
+- Cột 6: Thành tiền,cột 6 = cột 4 (đơn giá nhập) X cột 5 (số lượng nhập theo hoá đơn mua hoặc phiếunhập kho)
+
+- Cột 7: Ghi số lượngsản phẩm, hàng hoá xuất kho
+
+- Cột 8: Thành tiền,cột 8 = cột 4 (đơn giá xuất) X cột 7 (số lượng xuất theo hoá đơn bán hàng hoặcphiếu xuất kho)
+
+- Cột 9: Ghi số lượngsản phẩm, hàng hoá tồn kho
+
+- Cột 10: Thành tiền
+
+Cuối tháng cộng sổtính ra số lượng và giá trị nhập, xuất trong tháng và tồn kho cuối tháng.
+
+BẢNG KÊ LUÂN CHUYỂN VẬT TƯ, SẢN PHẨM, HÀNG HOÁ
+
+(Mẫu số 05-HKD)
+
+1- Mục đích: Bảng kê luân chuyển vật tư,hàng hoá tồn kho dùng để kê toàn bộ số vật tư, sản phẩm, hàng hoá mua vào, bánra và tồn kho cuối tháng làm cơ sở căn cứ để xác định giá vốn của sản phẩm,hàng hoá bán ra, tính giá trị gia tăng và thuế GTGT phải nộp trong tháng.
+
+2- Cách ghi:
+
+Bảng kê này được lậpvào cuối tháng. Mỗi thứ vật tư, sản phẩm, hàng hoá được ghi trên một dòng (Kểcả những loại hàng hoá mua về bán ngay không qua kho).
+
+Số liệu để ghi vàobảng này là số liệu dòng "cộng" của từng thứ vật tư, sản phẩm, hànghoá trên sổ theo dõi vật tư, sản phẩm, hàng hoá.
+
+Cột 1: Ghi số thứ tự
+
+Cột 2: Ghi tên quicách vật tư, sản phẩm, hàng hoá
+
+Cột 3, 4 - Tồn đầu kỳ:Ghi số lượng và giá trị tồn kho đầu kỳ. Số liệu 2 cột này được căn cứ vào sốliệu ở dòng tồn đầu kỳ của cột 9 và cột 10 trên sổ theo dõi vật tư, sản phẩm,hàng hoá hoặc lấy số liệu tồn cuối kỳ của bảng kê này tháng trước.
+
+Cột 5, 6 - Nhập trongkỳ: Ghi số lượng và giá trị của vật tư, sản phẩm, hàng hoá nhập kho (dòng tổngcộng của cột 5, 6 trên sổ theo dõi vật tư, sản phẩm, hàng hoá)
+
+Cột 7, 8 - Xuất trongkỳ: Ghi số lượng và giá trị của vật tư, sản phẩm, hàng hoá xuất kho (dòng tổngcộng của cột 7, 8 trên sổ theo dõi vật tư, sản phẩm, hàng hoá)
+
+Cột 9, 10 - Tồn cuốikỳ: Ghi số lượng và giá trị của vật tư, sản phẩm, hàng hoá tồn kho (dòng tổngcộng của cột 9, 10 trên sổ theo dõi vật tư, sản phẩm, hàng hoá)
+
+Số liệu ở cột 9, 10 đượcdùng để đối chiếu với số liệu thực tế hàng tồn kho ở quầy hàng hay trên dâychuyền sản xuất.
+
+Chú ý: Để tính giá vốn của hàng hoábán ra chính xác đối với những thứ vật tư, sản phẩm, hàng hoá nếu có số tồn đầutháng, nhưng trong tháng nếu không có mua vào hoặc bán ra thì đến cuối thángvẫn phải kê số tồn đầu tháng và số tồn cuối tháng.
+
+BẢNG ĐĂNG KÝ TÀI SẢN CỐ ĐỊNH SỬ DỤNG
+
+VÀO SẢN XUẤT, KINH DOANH
+
+(Mẫu số 06- HKD)
+
+1- Mục đích: Bản đăng ký tài sản cố địnhdùng cho các hộ kinh doanh kê khai, đăng ký số lượng, giá trị tài sản cố địnhdùng vào sản xuất, kinh doanh với Chi cục Thuế để làm căn cứ tính chi phí khấuhao tài sản cố định vào chi phí sản xuất, kinh doanh.
+
+2- Cách ghi:
+
+Khi hộ kinh doanh bắtđầu hoạt động hoặc khi có sự biến động về tài sản, hộ kinh doanh phải lập bảngđăng ký tài sản gửi đến cơ quan thuế.
+
+- Cột 1: Ghi số thứ tựtài sản
+
+- Cột 2: Ghi tên tàisản
+
+- Cột 3: Ký, mã hiệutài sản
+
+- Cột 4: Ghi số lượngtài sản thuộc cùng loại
+
+- Cột 5: Ghi thời điểmđưa vào sử dụng
+
+- Cột 6: Ghi giá trịcủa TSCĐ (nguyên giá)
+
+- Cột 7: Ghi thời giandự định sử dụng của tài sản (thời gian này là căn cứ tính khấu hao TSCĐ)
+
+- Cột 8: Mức khấu hao1 năm
+
+- Cột 9: Mức khấu hao1 tháng
+
+Khi nào có biến độngvề tài sản (tăng hoặc giảm) chủ hộ phải đăng ký bổ sung với cơ quan thuế. Địnhkỳ cán bộ thuế chuyên quản các hộ phải nắm chắc biến động tài sản của các hộ đểđiều chỉnh chi phí khấu hao.
+
+Bảng đăng ký tài sảncố định lập thành 2 bản. Sau khi lập xong chủ hộ mang đến cơ quan thuế đăng kývà xác nhận, chủ hộ giữ 1 bản và cơ quan thuế giữ 1 bản.
+
+SỔ THEO DÕI TIỀN MẶT, TIỀN GỬI
+(Mẫu sốS 07-HKD)
+
+1- Mục đích:
+
+Sổ theo dõi tiền mặt,tiền gửi dùng để theo dõi tình hình thu, chi, tồn quỹ tiền mặt hoặc tiền gửivào, số tiền rút ra, số tiền còn gửi tại ngân hàng của hộ kinh doanh.
+
+2- Cách ghi:
+
+- Căn cứ để ghi sổtheo dõi tiền mặt là các phiếu thu, phiếu chi, căn cứ ghi sổ tiền gửi là giấybáo Có, giấy báo Nợ của ngân hàng.
+
+- Tiền mặt, tiền gửi đượctheo dõi riêng trên một số trang sổ hoặc trên một quyển sổ riêng.
+
+- Cột 1, 2: Ghi sốhiệu, ngày tháng của phiếu thu, phiếu chi hoặc giấy báo nợ, báo có.
+
+- Cột 3: Ghi nội dungcủa phiếu thu, phiếu chi (giấy báo nợ, báo có)
+
+- Cột 4: Số tiền nhậpquỹ hoặc số tiền gửi vào ngân hàng
+
+- Cột 5: Số tiền xuấtquỹ hoặc số tiền rút ra khỏi ngân hàng
+
+- Cột 6: Số dư tồn quỹcuối ngày, số tồn quỹ cuối ngày phải khớp đúng với số tiền mặt trong két hoặcsố dư tiền gửi của ngân hàng, số dư phải khớp đúng với số dư trên sổ phụ ngânhàng.
+
+SỔ THEO DÕI NỢ PHẢI THU
+
+(Mẫu số 08-HKD)
+
+1- Mục đích:Sổ theo dõi nợ phải thu dùng để theo dõi các khoản nợ phải thu của khách hàng.
+
+2- Cách ghi:
+
+Căn cứ để ghi sổ làcác chứng từ ghi nợ mà khách hàng phải trả cho hộ kinh doanh như hoá đơn bánhàng, cung cấp dịch vụ chưa thu tiền, giấy nhận nợ,...
+
+Mỗi khách hàng đượctheo dõi riêng trên 1 hoặc một số trang sổ.
+
+- Cột 1, 2: Ghi sốhiệu, ngày tháng của chứng từ nợ
+
+- Cột 3: Ghi diễn giảinội dung các khoản nợ phải thu
+
+- Cột 4: Ghi số tiềnbán hàng, cung cấp dịch vụ mà khách hàng còn nợ.
+
+- Cột 5: Ghi số tiềnkhách hàng đã trả
+
+- Cột 6: Số còn phảithu cuối kỳ
+
+Dòng cộng tính ra tổngsố phải thu cuối kỳ.
+
+SỔ THEO DÕI NỢ PHẢI TRẢ
+
+(Mẫu số 09-HKD)
+
+1- Mục đích:Sổ theo dõi nợ phải thu dùng để theo dõi các khoản nợ hộ có trách nhiệm phảitrả cho các đối tượng như nhà cung cấp, ngân hàng,...
+
+2- Cách ghi chép:
+
+Căn cứ ghi sổ là cácgiấy vay nợ, hoá đơn mua hàng chưa trả tiền, giấy nhận nợ của hộ kinh doanh vớikhách hàng, với người cung cấp,..
+
+Cột 1, 2: Ghi số hiệu,ngày tháng của chứng từ nợ
+
+Cột 3: Ghi diễn giảinội dung các khoản nợ phải thu
+
+Cột 4: Ghi số tiềnphải trả cho chủ hàng hay người cung cấp,..
+
+Cột 5: Ghi số tiền đãtrả cho người bán hoặc người cho vay
+
+Cột 6: Số còn phải trảcuối kỳ
+
+Dòng cộng tính ra tổngsố phải trả tính đến cuối kỳ.
+
+Phụ lục 03
+
+KHUNG THỜI GIAN SỬ DỤNG TÀI SẢN LÀM CĂN CỨ TÍNH KHẤUHAO
+
+(Ban hành theo Quyết định số 166- 1999/QĐ/BTC ngày30/12/1999 của Bộ Tài chính)
+
+S
+
+
+
+Thời gian sử
+
+Thời gian sử
+
+T
+
+Danh mục các nhóm TSCĐ
+
+dụng tối thiểu
+
+dụng tối đa
+
+T
+
+
+
+(Năm)
+
+(Năm)
+
+
+
+
+
+
+
+
+
+A
+
+Nhà cửa, vật kiến  trúc
+
+
+
+
+
+1
+
+Nhà cửa loại kiên cố
+
+25
+
+50
+
+2
+
+Nhà cửa khác
+
+6
+
+25
+
+3
+
+Kho chứa, bể chứa,  sân phơi
+
+5
+
+20
+
+4
+
+Đập, kênh, mương dẫn  nước
+
+6
+
+30
+
+5
+
+Các vật kiến trúc  khác
+
+5
+
+10
+
+B
+
+Máy móc, thiết bị  động lực
+
+
+
+
+
+1
+
+Máy phát điện
+
+7
+
+13
+
+2
+
+Máy biến áp và thiết  bị nguồn điện
+
+7
+
+12
+
+3
+
+Máy móc, thiết bị  động lực khác
+
+6
+
+15
+
+C
+
+Máy móc, thiết bị  công tác
+
+
+
+
+
+1
+
+Máy công cụ
+
+7
+
+10
+
+2
+
+Máy kéo
+
+6
+
+8
+
+3
+
+Máy dùng cho nông,  lâm nghiệp
+
+6
+
+8
+
+4
+
+Máy bơm nước và xăng  dầu
+
+6
+
+8
+
+5
+
+Máy móc, thiết bị  chuyên dùng sản xuất vật liệu xây dựng, đồ sành sứ, thuỷ tinh
+
+6
+
+8
+
+6
+
+Máy móc, thiết bị  dùng trong các ngành sản xuất da, in, văn phòng phẩm, văn hoá phẩm
+
+7
+
+10
+
+7
+
+Máy móc, thiết bị  dùng cho ngành dệt
+
+10
+
+15
+
+8
+
+Máy móc, thiết bị  dùng cho ngành may mặc
+
+5
+
+10
+
+9
+
+Máy móc, thiết bị  dùng cho ngành giấy
+
+5
+
+15
+
+10
+
+Máy móc, thiết bị  sản xuất, chế biến lương thực, thực phẩm
+
+7
+
+12
+
+11
+
+Máy móc, thiết bị  loại điền tử, tin học
+
+3
+
+15
+
+12
+
+Máy móc, thiết bị  công tác khác
+
+5
+
+12
+
+D
+
+Thiết bị, phương  tiện vận tải
+
+
+
+
+
+1
+
+Thiết bị và phương  tiện vận tải khác
+
+6
+
+10
+
+E
+
+Dụng cụ quản lý
+
+
+
+
+
+
+
+Thiết bị tính toán,  đo lường
+
+5
+
+8
+
+
+
+Máy móc, thiết bị  điện tử và phần mềm tin học phục vụ quản lý
+
+3
+
+8
+
+
+
+Phương tiện và dụng  cụ quản lý khác
+
+5
+
+10
+
+G
+
+Súc vật, vườn cây  lâu năm
+
+
+
+
+
+1
+
+Các loại súc vật
+
+4
+
+15
+
+2
+
+Vườn cây công  nghiệp, vườn cây ăn quả, vườn cây lâu năm
+
+6
+
+40
+
+H
+
+Các loại TSCĐ  khác chưa quy định trong các nhóm trên
+
+4
+
+25
+
+Ghi chú: Nhà cửa loại kiên cố là loạinhà ở, trụ sở làm việc, nhà văn phòng, khách sạn, được xác định là có độ bềnvững bậc 1, bậc 2. Nhà cửa khác là nhà ở, trụ sở làm việc, nhà văn phòng... đượcxác định là có độ bền bậc 3, bậc 4 theo quy định của Bộ Xây dựng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,677 @@
+# Công văn về việc hướng dẫn sử dụng kinh phí CT05/CP-1997
+# Loại: Công văn
+# Số hiệu: 1811/PCTNXH-KH
+# Ngày ban hành: 25/05/1997
+# Cơ quan: Bộ Tài chính
+# Người ký: Nguyễn Sinh Hùng
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định chi tiết và hướng dẫn thủ tục cấp giấy phép sử dụng tần số vô tuyến điện; cho thuê, cho mượn
+
+thiết bị vô tuyến điện; sử dụng chung tần số vô tuyến điện
+
+__________________________________
+
+BỘ TRƯỞNG BỘ THÔNG TIN VÀ TRUYỀN THÔNG
+
+Căn cứ Luật tần số vô tuyến điện ngày 23 tháng 11 năm 2009;
+
+Căn cứ Nghị định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông,
+
+QUY ĐỊNH:
+
+Chương I
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này hướng dẫn thủ tục cấp, sửa đổi, bổ sung, gia hạn, thu hồi giấy phép sử dụng tần số vô tuyến điện; cho thuê, cho mượn thiết bị vô tuyến điện đã được cấp giấy phép sử dụng tần số vô tuyến điện; sử dụng chung tần số vô tuyến điện.
+
+Thông tư này không áp dụng đối với việc sử dụng tần số vô tuyến điện phục vụ mục đích quốc phòng, an ninh và các trường hợp được miễn giấy phép sử dụng tần số vô tuyến điện quy định tại Điều 27 của Luật tần số vô tuyến điện.
+
+Điều 2. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Đài vệ tinh trái đất là một đài vô tuyến đặt trên bề mặt trái đất hoặc trong tầng khí quyển để liên lạc với đài vệ tinh không gian.
+
+Đài vệ tinh không gian là một đài vô tuyến điện đặt trên vệ tinh nhân tạo của trái đất có quỹ đạo địa tĩnh hoặc phi địa tĩnh.
+
+2. Đài vô tuyến điện nghiệp dư là một đài vô tuyến điện thuộc nghiệp vụ vô tuyến điện nghiệp dư.
+
+Nghiệp vụ vô tuyến điện nghiệp dư là nghiệp vụ thông tin vô tuyến điện nhằm mục đích tự đào tạo, nghiên cứu kỹ thuật thông tin do các khai thác viên vô tuyến điện nghiệp dư thực hiện vì sở thích cá nhân, không vì mục đích lợi nhuận và được cơ quan có thẩm quyền cho phép.
+
+3. Đài cố định là một đài vô tuyến điện thuộc nghiệp vụ cố định.
+
+Nghiệp vụ cố định là nghiệp vụ thông tin vô tuyến điện giữa các điểm cố định đã xác định trước.
+
+4. Đài di động là một đài vô tuyến điện thuộc nghiệp vụ di động, sử dụng lúc chuyển động hoặc tạm dừng ở những điểm không định trước.
+
+Nghiệp vụ di động là nghiệp vụ thông tin vô tuyến điện giữa các đài di động và các đài mặt đất hoặc giữa các đài di động.
+
+Đài mặt đất là một đài thuộc nghiệp vụ di động nhưng không sử dụng trong khi chuyển động.
+
+5. Đài tàu là một đài di động có sử dụng tần số thuộc nghiệp vụ di động hàng hải đặt trên tàu, thuyền và các phương tiện nổi khác.
+
+Nghiệp vụ di động hàng hải là nghiệp vụ di động giữa đài bờ với đài tàu hoặc giữa các đài tàu với nhau hoặc giữa các đài thông tin trên tàu; các đài cứu nạn và các đài pha vô tuyến chỉ báo vị trí khẩn cấp cũng thuộc nghiệp vụ này.
+
+6. Đài vô tuyến điện đặt trên phương tiện nghề cá là đài di động đặt trên phương tiện nghề cá, sử dụng tần số dành riêng cho phương tiện nghề cá và các tần số để bảo đảm an toàn trên biển.
+
+7. Đài vô tuyến điện liên lạc với phương tiên nghề cá là đài vô tuyến điện đặt trên đất liền, sử dụng tần số dành riêng cho phương tiện nghề cá để liên lạc với phương tiện nghề cá, không cung cấp dịch vụ viễn thông.
+
+8. Đài bờ là đài vô tuyến điện đặt trên đất liền, sử dụng tần số thuộc nghiệp vụ di động hàng hải, tần số dành riêng cho phương tiện nghề cá để liên lạc với tàu, thuyền và các phương tiện nổi khác.
+
+9. Đài truyền thanh không dây là đài vô tuyến điện truyền tín hiệu âm thanh một chiều từ đài phát đến các cụm loa không dây.
+
+10. Mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động là mạng thông tin gồm các đài vô tuyến điện di động hoặc các đài vô tuyến điện cố định và di động do tổ chức, cá nhân thiết lập để phục vụ liên lạc cho các thành viên của mạng, không nhằm mục đích sinh lợi trực tiếp từ hoạt động của mạng.
+
+11. Mạng thông tin vô tuyến điện nội bộ là mạng thông tin gồm các đài vô tuyến điện di động do tổ chức, cá nhân thiết lập tại địa điểm có địa chỉ và phạm vi xác định mà chủ mạng đó được quyền sử dụng để phục vụ liên lạc nội bộ không nhằm mục đích sinh lợi trực tiếp từ hoạt động của mạng.
+
+12. Cơ quan đại diện nước ngoài bao gồm cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện tổ chức quốc tế tại Việt Nam được hưởng quy chế ưu đãi, miễn trừ ngoại giao.
+
+Điều 3. Cơ quan cấp giấy phép sử dụng tần số vô tuyến điện
+
+Cục Tần số vô tuyến điện cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện và thu hồi giấy phép sử dụng tần số vô tuyến điện.
+
+Điều 4. Cấp giấy phép sử dụng tần số vô tuyến điện
+
+1. Các thiết bị vô tuyến điện kê khai trong hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện phải là thiết bị đã được chứng nhận hợp quy theo quy định.
+
+2. Đối với trường hợp cấp giấy phép trực tiếp, tổ chức, cá nhân nộp hồ sơ đề nghị cấp giấy phép đầy đủ, hợp lệ trước thì được xem xét cấp giấy phép trước.
+
+3. Khi tổ chức, cá nhân đề nghị cấp lần đầu giấy phép sử dụng tần số vô tuyến điện hoặc khi có thay đổi về tần số được ấn định trong giấy phép thì thời hạn của giấy phép được cấp theo đề nghị của tổ chức, cá nhân, nhưng không vượt quá thời hạn tối đa tương ứng với từng loại giấy phép và bảo đảm phù hợp với các quy hoạch tần số vô tuyến điện.
+
+4. Các giới hạn phát xạ vô tuyến điện trong Giấy phép sử dụng băng tần được quy định theo quy chuẩn kỹ thuật. Trường hợp chưa có quy chuẩn kỹ thuật thì áp dụng tiêu chuẩn quốc tế và khả năng thực tế của công nghệ để bảo đảm giảm thiểu khả năng gây nhiễu có hại.
+
+5. Tổ chức, doanh nghiệp được cấp Giấy phép sử dụng băng tần có trách nhiệm báo cáo đột xuất, định kỳ cho Cục Tần số vô tuyến điện danh mục thiết bị phát sóng vô tuyến điện sử dụng trong mạng thông tin vô tuyến điện (theo mẫu quy định tại Phụ lục 3).
+
+6. Đối với các trường hợp phải đăng k‎ý, phối hợp quốc tế về tần số vô tuyến điện theo quy định tại Điều 41 của Luật tần số vô tuyến điện, trong thời gian thực hiện đăng ký, phối hợp theo quy định của Liên minh viễn thông quốc tế, Cục Tần số vô tuyến điện chỉ xét cấp giấy phép tạm thời khi tổ chức, cá nhân cam kết bằng văn bản về việc ngừng hoạt động nếu việc đăng ký, phối hợp không thành công. Việc cấp phép chính thức được thực hiện theo kết quả đăng ký, phối hợp quốc tế về tần số vô tuyến điện với Liên minh viễn thông quốc tế.
+
+7. Mẫu giấy phép sử dụng tần số vô tuyến điện được quy định tại Phụ lục 1 của Thông tư này.
+
+Điều 5. Gia hạn giấy phép sử dụng tần số vô tuyến điện
+
+1. Trước khi hết hạn ít nhất là 30 ngày đối với Giấy phép sử dụng tần số và thiết bị vô tuyến điện, 60 ngày đối với Giấy phép sử dụng băng tần, 90 ngày đối với Giấy phép sử dụng tần số và quỹ đạo vệ tinh, tổ chức, cá nhân phải gửi hồ sơ đề nghị gia hạn giấy phép sử dụng tần số số vô tuyến điện để được gia hạn theo đúng quy định. Giấy phép được gia hạn chỉ kéo dài thời hạn sử dụng, các thông số khác của giấy phép không thay đổi.
+
+2. Trường hợp không tuân thủ thời gian quy định tại khoản 1 Điều này, tổ chức, cá nhân muốn tiếp tục sử dụng tần số phải làm thủ tục như thủ tục cấp mới và phải sử dụng tần số mới nếu tần số sử dụng trước đây đã được cấp cho tổ chức, cá nhân khác.
+
+Điều 6. Sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện
+
+Khi giấy phép còn hiệu lực, tổ chức, cá nhân có nhu cầu sửa đổi, bổ sung một số nội dung trong giấy phép (trừ thời hạn sử dụng) thì phải làm hồ sơ đề nghị sửa đổi, bổ sung nội dung giấy phép.
+
+Điều 7. Ngừng sử dụng tần số, thiết bị vô tuyến điện
+
+1. Trong thời hạn còn hiệu lực của giấy phép, nếu tổ chức, cá nhân không còn nhu cầu sử dụng tần số, thiết bị vô tuyến điện thì thông báo bằng văn bản cho Cục Tần số vô tuyến điện.
+
+2. Nội dung thông báo bao gồm thông tin về số của giấy phép ngừng, ngày hết hạn, ngày ngừng sử dụng.
+
+Điều 8. Kê khai và hủy bỏ hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện
+
+1. Tổ chức, cá nhân đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện chịu trách nhiệm trước pháp luật về tính chính xác, tính hợp pháp của các tài liệu và nội dung kê khai trong hồ sơ.
+
+Các tài liệu trong hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện mà Thông tư này không yêu cầu công chứng hoặc chứng thực thì phải được tổ chức, cá nhân đề nghị cấp giấy phép xác nhận là tài liệu do tổ chức, cá nhân đó gửi bằng cách đóng dấu (đối với tổ chức) hoặc ký xác nhận (đối với cá nhân) vào từng tài liệu.
+
+2. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện bị hủy bỏ trong các trường hợp sau:
+
+a) Sau 30 ngày kể từ ngày gửi thông báo về việc bổ sung, hoàn thiện hồ sơ mà Cục Tần số vô tuyến điện không nhận được hồ sơ bổ sung, hoàn thiện của tổ chức, cá nhân.
+
+b) Sau 30 ngày kể từ ngày gửi thông báo nộp lệ phí, phí sử dụng tần số vô tuyến điện mà tổ chức, cá nhân không thực hiện đầy đủ nghĩa vụ phí, lệ phí theo quy định để được nhận giấy phép.
+
+Điều 9. Tiếp nhận hồ sơ và cấp phép bằng phương tiện điện tử
+
+Việc tiếp nhận hồ sơ và việc cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện bằng phương tiện điện tử thực hiện theo quy định của pháp luật về giao dịch điện tử và phải đáp ứng quy định về hồ sơ, thủ tục của Thông tư này.
+
+Điều 10. Nộp lệ phí, phí sử dụng tần số vô tuyến điện và nhận giấy phép
+
+Tổ chức, cá nhân chỉ được nhận giấy phép khi đã nộp đủ lệ phí cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép tương ứng và nộp đủ phí sử dụng tần số vô tuyến điện theo quy định.
+
+Chương II
+
+THỦ TỤC CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, THU HỒI GIẤY PHÉP SỬ DỤNG TẦN SỐ VÔ TUYẾN ĐIỆN
+
+MỤC 1. CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG NỘI DUNG GIẤY PHÉP SỬ DỤNG TẦN SỐ VÀ THIẾT BỊ VÔ TUYẾN ĐIỆN
+
+Điều 11. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện nghiệp dư
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1b Phụ lục 2 của Thông tư này;
+
+b) Bản sao có chứng thực theo quy định Chứng chỉ khai thác viên vô tuyến điện nghiệp dư được cấp hoặc công nhận theo Quyết định số 18/2008/QĐ-BTTTT ngày 04 tháng 4 năm 2008 của Bộ trưởng Bộ Thông tin và Truyền thông về việc ban hành quy định về hoạt động vô tuyến điện nghiệp dư;
+
+c) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 12. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện đặt trên phương tiện nghề cá
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1c Phụ lục 2 của Thông tư này;
+
+b) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 13. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1i Phụ lục 2 của Thông tư này;
+
+b) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 14. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với thiết bị phát thanh, truyền hình
+
+1. Đối với tổ chức là cơ quan báo chí
+
+a) Hồ sơ cấp mới gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép hoạt động báo chí đối với nội dung kênh chương trình phát sóng.
+
+b) Hồ sơ gia hạn giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép hoạt động báo chí đối với nội dung kênh chương trình phát sóng (nếu giấy phép được cấp trước đây có thay đổi).
+
+c) Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+2. Đối với doanh nghiệp cung cấp dịch vụ truyền dẫn, phát sóng phát thanh, truyền hình
+
+a) Hồ sơ cấp mới gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép cung cấp dịch vụ truyền dẫn phát sóng phát thanh truyền hình có liên quan theo quy định.
+
+b) Hồ sơ gia hạn giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép cung cấp dịch vụ truyền dẫn phát sóng phát thanh truyền hình có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+c) Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+3. Đối với tổ chức không phải là cơ quan báo chí phát lại các chương trình phát thanh, truyền hình quảng bá
+
+a) Hồ sơ cấp mới gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Văn bản đồng ý của Sở Thông tin và Truyền thông sở tại đối với việc phát lại chương trình phát thanh, truyền hình của địa phương mình (nêu rõ tên chương trình được phát lại).
+
+Việc phát lại chương trình phát thanh, truyền hình của Trung ương hoặc địa phương khác, Cục Tần số vô tuyến điện xem xét cấp giấy phép trên cơ sở ý kiến đồng ý của Cục quản l‎ý phát thanh truyền hình và thông tin điện tử - Bộ Thông tin và Truyền thông.
+
+b) Hồ sơ gia hạn giấy phép gồm:
+
+Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này.
+
+c) Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1d Phụ lục 2 của Thông tư này;
+
+- Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 15. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài truyền thanh không dây
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1đ Phụ lục 2 của Thông tư này.
+
+b) Văn bản đồng ý của Sở Thông tin và Truyền thông sở tại đối với việc truyền tải thông tin bằng đài truyền thanh không dây.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 16. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với tuyến truyền dẫn vi ba
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1e Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định.
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 17. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vệ tinh trái đất (trừ trường hợp quy định tại Điều 18 của Thông tư này và đài vệ tinh trái đất thuộc hệ thống GMDSS đặt trên tàu biển)
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1f Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định (áp dụng cho đài vệ tinh trái đất thuộc mạng viễn thông đã được cấp giấy phép); hoặc
+
+Bản sao công chứng hoặc chứng thực theo quy định Hợp đồng sử dụng dịch vụ thông tin vệ tinh (áp dụng cho đài vệ tinh trái đất hoạt động độc lập của tổ chức, doanh nghiệp sử dụng dịch vụ thông tin vệ tinh của các doanh nghiệp viễn thông đã được Bộ Thông tin và Truyền thông cấp giấy phép); hoặc
+
+Bản sao giấy phép cung cấp dịch vụ truyền dẫn phát sóng phát thanh truyền hình qua vệ tinh theo quy định (áp dụng đối với cơ quan báo chí, doanh nghiệp cung cấp dịch vụ truyền dẫn phát sóng phát thanh truyền hình); hoặc
+
+Bản sao Quyết định thành lập hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đầu tư (áp dụng đối với tổ chức, doanh nghiệp kinh doanh ngoài biển, công ty đa quốc gia, cơ quan Chính phủ, khu phát triển phần mềm và khu công nghệ cao khi sử dụng vệ tinh khu vực hoặc quốc tế); hoặc
+
+Bản sao có chứng thực văn bản do cơ quan có thẩm quyền cấp theo quy định (áp dụng đối với tổ chức, doanh nghiệp được phép tham gia hoạt động bảo đảm an toàn hàng không, an toàn hàng hải theo quy định của Tổ chức Hàng không thế giới - ICAO, Tổ chức Hàng hải thế giới – IMO khi sử dụng vệ tinh khu vực hoặc quốc tế).
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Bản sao một trong các giấy tờ tương ứng quy định tại điểm b khoản 1 Điều này (nếu giấy tờ yêu cầu tương ứng trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 18. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đối với đài vô tuyến điện của Cơ quan đại diện nước ngoài, đoàn đại biểu cấp cao nước ngoài được hưởng quy chế ưu đãi, miễn trừ ngoại giao, phóng viên nước ngoài đi theo phục vụ đoàn
+
+1. Việc cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện cho đài vệ tinh trái đất của Cơ quan đại diện nước ngoài, đoàn đại biểu cấp cao nước ngoài đến thăm Việt Nam được hưởng quy chế ưu đãi, miễn trừ ngoại giao và phóng viên nước ngoài đi theo phục vụ cho đoàn thực hiện theo quy định tại Thông tư số 01/2006/TTLT-BBCVT-BNG-BCA ngày 03/03/2006 hướng dẫn việc cấp giấy phép sử dụng đài thông tin vệ tinh (được gọi là đài vệ tinh trái đất trong Thông tư này) cho cơ quan đại diện nước ngoài, đoàn đại biểu nước ngoài, phóng viên nước ngoài đi theo phục vụ đoàn đại biểu nước ngoài.
+
+2. Đối với đài vô tuyến điện (trừ đài vệ tinh trái đất) của Cơ quan đại diện nước ngoài
+
+a) Hồ sơ cấp mới gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu tương ứng quy định tại Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định;
+
+- Văn bản đề nghị của Bộ Ngoại giao (đối với đài vô tuyến điện của cơ quan đại diện ngoại giao, cơ quan lãnh sự).
+
+b) Hồ sơ gia hạn giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu tương ứng quy định tại Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+c) Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu tương ứng quy định tại Phụ lục 2 của Thông tư này;
+
+- Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+3. Đối với đài vô tuyến điện (trừ đài vệ tinh trái đất) của đoàn đại biểu cấp cao nước ngoài được hưởng quy chế ưu đãi, miễn trừ ngoại giao, phóng viên nước ngoài đi theo phục vụ đoàn
+
+a) Hồ sơ cấp mới gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1k Phụ lục 2 của Thông tư này;
+
+- Văn bản đề nghị của cơ quan chủ quản đón đoàn.
+
+b) Hồ sơ gia hạn giấy phép gồm:
+
+Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1k Phụ lục 2 của Thông tư này.
+
+c) Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1k Phụ lục 2 của Thông tư này;
+
+- Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 19. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với mạng thông tin vô tuyến điện nội bộ, mạng viễn thông dùng riêng sử dụng tần số thuộc nghiệp vụ di động
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1g Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông dùng riêng có liên quan theo quy định (không áp dụng đối với mạng thông tin vô tuyến điện nội bộ);
+
+c) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông dùng riêng có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 20. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài tàu (không áp dụng đối với đài vệ tinh trái đất không thuộc hệ thống GMDSS)
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1h Phụ lục 2 của Thông tư này;
+
+b) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 21. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với thiết bị vô tuyến điện dùng cho mục đích giới thiệu công nghệ tại triển lãm, hội chợ
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1k Phụ lục 2 của Thông tư này;
+
+b) Bản sao văn bản cho phép tạm nhập tái xuất thiết bị vô tuyến điện do Bộ Thông tin và Truyền thông cấp.
+
+2. Hồ sơ gia hạn giấy phép theo quy định tại điểm a khoản 1 Điều này.
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 22. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài cố định, đài bờ (không liên lạc với vệ tinh), thiết bị riêng lẻ và các trường hợp không quy định tại các Điều 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 và Điều 21 của Thông tư này
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện theo mẫu 1a Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định;
+
+c) Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn đối với cá nhân đề nghị cấp giấy phép.
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 23. Thời gian giải quyết cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện
+
+1. Đối với hồ sơ đề nghị cấp giấy phép cho đài vô tuyến điện nghiệp dư, đài tàu, đài vô tuyến điện đặt trên phương tiện nghề cá, Cục Tần số vô tuyến điện giải quyết cấp, gia hạn sửa đổi, bổ sung nội dung giấy phép trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Đối với hồ sơ đề nghị cấp giấy phép cho các trường hợp còn lại, Cục Tần số vô tuyến điện giải quyết cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+2. Trường hợp đặc biệt, khi hồ sơ đề nghị cấp, sửa đổi, bổ sung nội dung giấy phép sử dụng tần số vô tuyến điện của cùng một tổ chức, cá nhân gửi trong vòng 20 ngày làm việc có số lượng tần số vô tuyến điện cần phải ấn định vượt quá 100 tần số thì trong thời hạn 5 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Tần số số vô tuyến điện thông báo bằng văn bản l‎‎ý do và dự kiến thời gian giải quyết (tối đa không quá 6 tháng) cho tổ chức, cá nhân đề nghị cấp giấy phép.
+
+3. Nếu hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện có trách nhiệm thông báo, hướng dẫn bằng văn bản cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
+
+4. Trường hợp từ chối cấp giấy phép, Cục Tần số vô tuyến điện thông báo bằng văn bản nêu rõ lý do từ chối cho tổ chức, cá nhân trong thời hạn quy định tại khoản 1, 2 Điều này.
+
+5. Đối với trường hợp phải thay đổi tần số do không xử lý được nhiễu có hại, thời hạn giải quyết cấp giấy phép không quá 10 ngày làm việc kể từ ngày có kết luận về xử lý nhiễu có hại.
+
+Điều 24. Cơ quan tiếp nhận hồ sơ và giao nhận giấy phép
+
+Tổ chức, cá nhân đề nghị cấp Giấy phép sử dụng tần số và thiết bị vô tuyến điện nộp hồ sơ và nhận giấy phép tại một trong các cơ quan sau:
+
+1. Cục Tần số vô tuyến điện;
+
+2. Các Trung tâm Tần số vô tuyến điện khu vực thuộc Cục Tần số vô tuyến điện;
+
+3. Các cơ quan phối hợp khác do Cục Tần số vô tuyến điện ủy quyền.
+
+MỤC 2. CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG NỘI DUNG GIẤY PHÉP SỬ DỤNG BĂNG TẦN
+
+Điều 25. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng băng tần
+
+1. Hồ sơ cấp mới gồm:
+
+a) Đối với tổ chức, doanh nghiệp đã thắng trong đấu giá hoặc trúng tuyển trong thi tuyển quyền sử dụng tần số vô tuyến điện thì không phải nộp hồ sơ đề nghị cấp Giấy phép sử dụng băng tần và được cấp Giấy phép sử dụng băng tần sau khi đã được cấp giấy phép viễn thông có liên quan.
+
+b) Đối với tổ chức, doanh nghiệp được xét cấp giấy phép theo hình thức cấp giấy phép trực tiếp, hồ sơ gồm:
+
+- Bản khai đề nghị cấp Giấy phép sử dụng băng tần theo mẫu 2 Phụ lục 2 của Thông tư này;
+
+- Bản sao giấy phép viễn thông có liên quan theo quy định.
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng băng tần theo mẫu 2 Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép viễn thông có liên quan theo quy định (nếu giấy phép viễn thông được cấp trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng băng tần theo mẫu 2 Phụ lục 2 của Thông tư này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 26. Thời gian giải quyết cấp Giấy phép sử dụng băng tần
+
+1. Cục Tần số vô tuyến điện giải quyết cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng băng tần như sau:
+
+a) Đối với trường hợp đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện: cấp mới trong thời hạn không quá 20 ngày làm việc, kể từ ngày doanh nghiệp thắng trong đấu giá hoặc trúng tuyển trong thi tuyển được cấp giấy phép viễn thông; gia hạn, sửa đổi, bổ sung nội dung giấy phép trong thời hạn không quá 60 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Không áp dụng quy định này khi trong Quy định về đấu giá, thi tuyển có quy định riêng.
+
+b) Đối với trường hợp cấp giấy phép trực tiếp: cấp mới, gia hạn, sửa đổi, bổ sung nội dung giấy phép trong thời hạn không quá 60 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+2. Nếu hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện có trách nhiệm thông báo, hướng dẫn bằng văn bản cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
+
+3. Trường hợp từ chối cấp giấy phép, Cục Tần số vô tuyến điện thông báo bằng văn bản nêu rõ lý do từ chối cho tổ chức, cá nhân trong thời hạn quy định tại khoản 1 Điều này.
+
+Điều 27. Cơ quan tiếp nhận hồ sơ và giao nhận Giấy phép sử dụng băng tần
+
+Cơ quan nhận hồ sơ và giao nhận Giấy phép sử dụng băng tần: Cục Tần số vô tuyến điện.
+
+MỤC 3. CẤP, GIA HẠN, SỬA ĐỔI BỔ SUNG NỘI DUNG GIẤY PHÉP SỬ DỤNG TẦN SỐ VÀ QUỸ ĐẠO VỆ TINH
+
+Điều 28. Hồ sơ đề nghị cấp, gia hạn, sửa đổi, bổ sung nội dung Giấy phép sử dụng tần số và quỹ đạo vệ tinh
+
+1. Hồ sơ cấp mới gồm:
+
+a) Bản khai đề nghị cấp Giấy phép sử dụng tần số và quỹ đạo vệ tinh theo mẫu 3 Phụ lục 2 của Thông tư này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định.
+
+2. Hồ sơ gia hạn giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Bản sao giấy phép thiết lập mạng viễn thông có liên quan theo quy định (nếu giấy phép được cấp trước đây có thay đổi).
+
+3. Hồ sơ sửa đổi, bổ sung nội dung giấy phép gồm:
+
+a) Bản khai theo quy định tại điểm a khoản 1 Điều này;
+
+b) Các tài liệu giải thích nội dung cần sửa đổi, bổ sung (khi được yêu cầu).
+
+Điều 29. Thời gian giải quyết cấp giấy phép
+
+1. Cục Tần số vô tuyến điện thẩm định và giải quyết cấp, gia hạn, sửa đổi, bổ sung nội dung giấy phép trong thời hạn không quá 45 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;
+
+2. Nếu hồ sơ chưa đầy đủ, chưa hợp lệ thì trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện có trách nhiệm thông báo, hướng dẫn bằng văn bản cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
+
+3. Trường hợp từ chối cấp giấy phép, Cục Tần số vô tuyến điện thông báo bằng văn bản nêu rõ lý do từ chối cho tổ chức, cá nhân trong thời hạn quy định tại khoản 1 Điều này.
+
+Điều 30. Cơ quan tiếp nhận hồ sơ và giao nhận giấy phép
+
+Cơ quan tiếp nhận hồ sơ và giao nhận Giấy phép sử dụng tần số và quỹ đạo vệ tinh: Cục Tần số vô tuyến điện.
+
+MỤC 4. THU HỒI GIẤY PHÉP SỬ DỤNG TẦN SỐ VÔ TUYẾN ĐIỆN
+
+Điều 31. Thu hồi giấy phép sử dụng tần số vô tuyến điện
+
+1. Việc thu hồi giấy phép sử dụng tần số vô tuyến điện đối với tổ chức, cá nhân vi phạm pháp luật về tần số vô tuyến điện theo quy định tại khoản 1 Điều 23 của Luật tần số vô tuyến điện được quy định như sau:
+
+a) Đối với các trường hợp quy định tại các điểm a và b khoản 1 Điều 23 của Luật tần số vô tuyến điện, việc thu hồi giấy phép sử dụng tần số vô tuyến điện căn cứ vào quyết định của Toà án hoặc cơ quan nhà nước có thẩm quyền.
+
+b) Đối với các trường hợp quy định tại các điểm c, d và e khoản 1 Điều 23 của Luật tần số vô tuyến điện, việc thu hồi giấy phép sử dụng tần số vô tuyến điện căn cứ vào kết luận của Thanh tra hoặc kết quả kiểm tra tần số vô tuyến điện hoặc quyết định của Toà án.
+
+c) Đối với trường hợp quy định tại điểm đ khoản 1 Điều 23 của Luật tần số vô tuyến điện, việc thu hồi giấy phép sử dụng tần số vô tuyến điện được thực hiện nếu sau 60 ngày kể từ ngày cơ quan có thẩm quyền gửi thông báo về phí, lệ phí hoặc về các nghĩa vụ tài chính khác theo quy định mà tổ chức, cá nhân không nộp đủ phí, lệ phí tần số vô tuyến điện hoặc không thực hiện các nghĩa vụ tài chính.
+
+2. Tổ chức, cá nhân phải ngừng sử dụng tần số và thiết bị vô tuyến điện theo Quyết định thu hồi giấy phép sử dụng tần số vô tuyến điện của Cục Tần số vô tuyến điện.
+
+3. Danh sách tổ chức, cá nhân có giấy phép sử dụng tần số vô tuyến điện bị thu hồi và l‎ý do thu hồi được đăng công khai trên trang thông tin điện tử của Cục Tần số vô tuyến điện.
+
+Chương III
+
+CHO THUÊ, CHO MƯỢN THIẾT BỊ VÔ TUYẾN ĐIỆN
+
+Điều 32. Quy định về cho thuê, cho mượn thiết bị vô tuyến điện
+
+1. Tổ chức, cá nhân là chủ sở hữu tàu biển, tàu bay, tàu sông, phương tiện nghề cá, đài vô tuyến điện nghiệp dư và chủ sở hữu các phương tiện giao thông khác có trang bị thiết bị vô tuyến điện (trừ đài vệ tinh trái đất) có thể cho tổ chức, cá nhân khác thuê, mượn thiết bị vô tuyến điện đã được cấp giấy phép của mình để khai thác.
+
+2. Bên cho thuê, cho mượn và bên thuê, bên mượn thiết bị vô tuyến điện phải tuân thủ quy định trong Giấy phép sử dụng tần số và thiết bị vô tuyến điện, quy định của pháp luật về tần số vô tuyến điện và các quy định khác của pháp luật có liên quan. Các hành vi vi phạm pháp luật về tần số vô tuyến điện của bên thuê, bên mượn, bên cho thuê, cho mượn thiết bị vô tuyến điện xử lý theo quy định.
+
+3. Bên cho thuê, cho mượn thiết bị vô tuyến điện có trách nhiệm:
+
+a) Bảo đảm bên thuê, bên mượn thiết bị vô tuyến điện không thuộc danh sách bị thu hồi giấy phép sử dụng tần số vô tuyến điện được thông báo công khai theo quy định tại khoản 3 Điều 31 của Thông tư này.
+
+b) Kiểm tra, lưu giữ trong quá trình cho thuê, cho mượn và sau khi chấm dứt việc cho thuê, cho mượn 1 năm các hồ sơ, tài liệu sau:
+
+- Bản sao có chứng thực theo quy định Giấy chứng minh nhân dân hoặc Hộ chiếu còn thời hạn của cá nhân thuê, mượn; hoặc
+
+- Bản sao có chứng thực theo quy định Quyết định thành lập hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đầu tư của tổ chức thuê, mượn;
+
+- Bản sao có chứng thực theo quy định Chứng chỉ vô tuyến điện viên của bên thuê, bên mượn;
+
+- Hợp đồng cho thuê, cho mượn thiết bị vô tuyến điện.
+
+Điều 33. Điều kiện để được thuê, mượn thiết bị vô tuyến điện
+
+1. Đối tượng thuê, mượn thiết bị vô tuyến điện là tổ chức, công dân Việt Nam; tổ chức nước ngoài hoạt động hợp pháp tại Việt Nam; người nước ngoài sử dụng đài vô tuyến điện nghiệp dư.
+
+2. Người trực tiếp khai thác thiết bị vô tuyến điện thuộc nghiệp vụ di động hàng hải, di động hàng không, vô tuyến điện nghiệp dư của bên thuê, bên mượn phải có chứng chỉ vô tuyến điện viên.
+
+3. Đối tượng thuê, mượn thiết bị vô tuyến điện không thuộc danh sách bị thu hồi giấy phép sử dụng tần số vô tuyến điện được thông báo công khai theo quy định tại khoản 3 Điều 31 của Thông tư này.
+
+Điều 34. Hợp đồng cho thuê, cho mượn thiết bị vô tuyến điện
+
+1. Hợp đồng cho thuê, cho mượn thiết bị vô tuyến điện ngoài việc tuân thủ các quy định của pháp luật có liên quan phải bao gồm các thông tin sau:
+
+a) Tên, địa chỉ, số điện thoại liên lạc của bên thuê, bên mượn;
+
+b) Số của Giấy phép sử dụng tần số và thiết bị vô tuyến điện;
+
+c) Tần số sử dụng, thời gian liên lạc;
+
+d) Thời hạn cho thuê, cho mượn thiết bị vô tuyến điện;
+
+đ) Ngày bàn giao thiết bị vô tuyến điện.
+
+2. Trường hợp có thay đổi về nội dung Giấy phép sử dụng tần số và thiết bị vô tuyến điện hoặc thay đổi thông tin quy định tại khoản 1 Điều này thì phải sửa đổi, bổ sung nội dung Hợp đồng cho phù hợp.
+
+3. Trong vòng 7 ngày làm việc sau khi Hợp đồng cho thuê, cho mượn thiết bị vô tuyến điện được sửa đổi, bổ sung hoặc bị huỷ bỏ, tổ chức, cá nhân cho thuê, cho mượn thiết bị vô tuyến điện phải thông báo bằng văn bản cho Trung tâm tần số vô tuyến điện khu vực sở tại về việc sửa đổi, bổ sung hoặc hủy bỏ Hợp đồng.
+
+Điều 35. Thủ tục cho thuê, cho mượn thiết bị vô tuyến điện
+
+1. Tổ chức, cá nhân cho thuê, cho mượn thiết bị vô tuyến điện lập hồ sơ cho thuê, cho mượn. Hồ sơ bao gồm:
+
+a) Văn bản thông báo về việc cho thuê, cho mượn;
+
+b) Hợp đồng cho thuê, cho mượn.
+
+2. Trước khi bàn giao thiết bị vô tuyến điện cho bên thuê, mượn thiết bị vô tuyến điện ít nhất 5 ngày làm việc, tổ chức, cá nhân cho thuê, cho mượn thiết bị vô tuyến điện phải gửi Hồ sơ cho thuê, cho mượn đến Trung tâm Tần số vô tuyến điện khu vực sở tại.
+
+3. Thủ tục thuê, mượn thiết bị vô tuyến điện nghiệp dư để liên lạc tại những địa điểm khác với quy định trong giấy phép và việc di chuyển đài vô tuyến điện nghiệp dư đến địa phương khác để khai thác thực hiện theo quy định tại điểm d khoản 7 Điều 21 Quyết định số 18/2008/QĐ-BTTTT ngày 04 tháng 4 năm 2008 của Bộ trưởng Bộ Thông tin và Truyền thông về việc ban hành “Quy định về hoạt động vô tuyến điện nghiệp dư”.
+
+Chương IV
+
+SỬ DỤNG CHUNG TẦN SỐ VÔ TUYẾN ĐIỆN
+
+Điều 36. Trường hợp phải sử dụng chung tần số vô tuyến điện
+
+Tổ chức, cá nhân sử dụng tần số và thiết bị vô tuyến điện thuộc các trường hợp sau đây phải sử dụng chung tần số vô tuyến điện với tổ chức cá nhân khác theo đúng quy định của Giấy phép sử dụng tần số và thiết bị vô tuyến điện:
+
+1. Mạng viễn thông dùng riêng sử dụng tần số vô tuyến điện thuộc nghiệp vụ di động có công suất phát từ 5w trở xuống (không áp dụng với mạng thông tin vô tuyến điện mà việc sử dụng tần số và thiết bị vô tuyến điện có liên quan đến an toàn tính mạng con người; mạng thông tin vô tuyến điện nội bộ);
+
+2. Đài vô tuyến điện liên lạc với phương tiện nghề cá;
+
+3. Đài bờ (không cung cấp dịch vụ viễn thông, dịch vụ công ích trên biển).
+
+Điều 37. Quy định về khai thác trên tần số sử dụng chung
+
+1. Tuân thủ nguyên tắc đàm thoại chỉ phục vụ công việc, đúng đối tượng, đúng mục đích sử dụng trong giấy phép.
+
+2. Chỉ thiết lập cuộc gọi khi kênh tần số vô tuyến điện đang trong tình trạng rỗi, không có người sử dụng trừ khi liên quan đến cấp cứu, an toàn tính mạng con người.
+
+3. Phải sử dụng hô hiệu được quy định trong Giấy phép sử dụng tần số và thiết bị vô tuyến điện.
+
+4. Phải bảo đảm thời gian liên lạc ngắn gọn nhất, không vượt quá 5 phút đối với mỗi cuộc đàm thoại.
+
+Điều 38. Quy trình khai thác trên các tần số sử dụng chung
+
+1. Trước khi phát, phải lắng nghe trên tần số dự định phát để đảm bảo tần số này đang rỗi.
+
+2. Phát hô hiệu tại đầu và cuối mỗi cuộc gọi.
+
+3. Được phép chuyển sang tần số dự phòng (quy định trong giấy phép sử dụng tần số vô tuyến điện) trong trường hợp tần số ấn định chính bị nhiễu hoặc đang có tổ chức, cá nhân khác sử dụng.
+
+Điều 39. Trách nhiệm của tổ chức, cá nhân sử dụng chung tần số
+
+1. Sử dụng mã hóa hoặc các biện pháp kỹ thuật khác để bảo đảm giữ bí mật thông tin theo mã do Cục Tần số vô tuyến điện cấp (đối với trường hợp tổ chức, cá nhân có nhu cầu sử dụng mã hóa).
+
+2. Thông báo cho Cục Tần số vô tuyến điện khi phát hiện việc khai thác trên tần số sử dụng chung không đúng quy định.
+
+3. Không được cố ý thu và sử dụng thông tin thu được từ các đài vô tuyến điện khác sử dụng chung tần số vô tuyến điện.
+
+Chương V
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 40. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 15/12/2010.
+
+2. Bãi bỏ Thông tư số 02/2008/TT-BTTTT ngày 4 tháng 4 năm 2008 của Bộ trưởng Bộ Thông tin và Truyền thông hướng dẫn về cấp giấy phép băng tần.
+
+3. Trong quá trình thực hiện nếu có vấn đề phát sinh, vướng mắc, tổ chức, cá nhân phản ánh kịp thời về Bộ Thông tin và Truyền thông để xem xét, bổ sung, sửa đổi./.
+
+
+
+
+
+
+

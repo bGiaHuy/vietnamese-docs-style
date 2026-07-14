@@ -1,0 +1,128 @@
+# Hướng dẫn thi hành quy chế đầu tư theo hình thức hợp đồng xây dựng-kinh doanh-chuyển giao (BOT)
+# Loại: Thông tư
+# Số hiệu: 333/UB-LTX
+# Ngày ban hành: 28/02/1994
+# Cơ quan: Uỷ ban Nhà nước về hợp tác và đầu tư
+# Người ký: Đậu Ngọc Xuân
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn xác định đơn giá tiền lương của Tổng công ty Bưu chính Việt Nam theo Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ
+
+về cung ứng dịch vụ bưu chính công ích
+
+________________
+
+Căn cứ Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ về cung ứng dịch vụ bưu chính công ích, Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện việc xác định đơn giá tiền lương đối với Tổng công ty Bưu chính Việt Nam như sau:
+
+I. ĐỐI TƯỢNG, PHẠM VI ÁP DỤNG VÀ NGUYÊN TẮC XÁC ĐỊNH
+
+1. Thông tư này hướng dẫn việc xác định đơn giá tiền lương của người lao động làm việc theo chế độ hợp đồng lao động quy định tại Nghị định số 44/2003/NĐ-CP ngày 9 tháng 5 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về hợp đồng lao động và quỹ tiền lương của các viên chức quản lý làm việc tại Tổng công ty Bưu chính Việt Nam thuộc Tập đoàn Bưu chính Viễn thông Việt Nam.
+
+2. Nguyên tắc xác định:
+
+a. Tiền lương của người lao động thuộc mạng bưu chính công cộng nếu hoàn thành nhiệm vụ được giao thì từ năm 2008 đến hết năm 2010 được xác định ổn định không thấp hơn mức tiền lương bình quân thực tế thực hiện năm 2007 (thời điểm trước khi chia tách với viễn thông).
+
+b. Đơn giá tiền lương đối với Tổng công ty Bưu chính Việt Nam được xác định gắn với việc thực hiện mức khoán sản lượng hàng năm đối với dịch vụ bưu chính công ích do Nhà nước đặt hàng theo quy định tại điểm a, khoản 1 Điều 5 Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ, hoàn thành vượt mức khoán sản lượng hàng năm đối với dịch vụ bưu chính công ích do Nhà nước đặt hàng thì tiền lương tăng, không hoàn thành thì tiền lương giảm.
+
+c. Từ năm 2011 trở đi việc xác định đơn giá tiền lương và quỹ tiền lương thực hiện theo quy định chung của pháp luật về tiền lương trong các công ty nhà nước.
+
+II. XÁC ĐỊNH ĐƠN GIÁ TIỀN LƯƠNG ÁP DỤNG ĐỐI VỚI PHÓ TỔNG GIÁM ĐỐC, KẾ TOÁN TRƯỞNG VÀ NGƯỜI LAO ĐỘNG LÀM VIỆC THEO HỢP ĐỒNG LAO ĐỘNG
+
+1. Từ năm 2008 đến hết năm 2010:
+
+a. Để bảo đảm tiền lương của người lao động thuộc mạng bưu chính công cộng ổn định trong 03 năm đầu, từ năm 2008 đến 2010 so với trước khi chia tách với viễn thông theo quy định tại điểm a, khoản 1 Điều 5 Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ thì Phó Tổng giám đốc, Kế toán trưởng Tổng công ty và người lao động làm việc theo hợp đồng lao động được hưởng tiền lương (bao gồm tiền lương từ hoạt động cung ứng dịch vụ bưu chính công ích do Nhà nước đặt hàng và tiền lương từ các hoạt động sản xuất kinh doanh khác) tính theo đơn giá tiền lương, công thức tính như sau:
+
+
+
+
+
+
+
+Vđg  =
+
+
+
+
+Lđb x [TLbq + (TLbq x K/100% x 0,8 )] x 12 tháng
+
+
+
+
+
+
+Tổng doanh thu kế hoạch
+
+
+
+
+
+Trong đó:
+
+- Lđb là số lao động định biên (hoặc lao động định mức) được xác định theo quy định tại Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ và hướng dẫn tại Thông tư số 06/2005/TT-BLĐTBXH ngày 05 tháng 01 năm 2005 của Bộ Lao động-Thương binh và Xã hội.
+
+- TLbq là tiền lương bình quân tháng thực tế thực hiện năm trước liền kề.
+
+- K là mức tăng khoán sản lượng hàng năm đối với dịch vụ bưu chính công ích do Nhà nước đặt hàng kế hoạch so với thực hiện năm trước liền kề, được tính theo tỷ lệ phần trăm (%). Riêng năm 2008, do mới chia tách với viễn thông, chưa có chỉ tiêu để so sánh, Tổng giám đốc Tổng công ty Bưu chính Việt Nam căn cứ vào khối lượng nhiệm vụ, mức khoán sản lượng dịch vụ bưu chính công ích xác định K và báo cáo Hội đồng quản trị Tập đoàn Bưu chính Viễn thông Việt Nam quyết định để làm căn cứ tính đơn giá tiền lương cho phù hợp với thực tế.
+
+- Tổng doanh thu kế hoạch là chỉ tiêu sản xuất, kinh doanh dùng làm cơ sở để xác định đơn giá tiền lương.
+
+b. Quỹ tiền lương kế hoạch của Phó Tổng giám đốc, Kế toán trưởng và người lao động làm việc theo hợp đồng lao động được xác định theo quy định tại khoản 3, mục III Thông tư số 07/2005/TT-BLĐTBXH ngày 5 tháng 01 năm 2005 của Bộ Lao động-Thương binh và Xã hội.
+
+c. Quỹ tiền lương thực hiện của Phó Tổng giám đốc, Kế toán trưởng và người lao động làm việc theo hợp đồng lao động được xác định theo quy định tại khoản 4, mục III Thông tư số 07/2005/TT-BLĐTBXH ngày 5 tháng 01 năm 2005 của Bộ Lao động-Thương binh và Xã hội, trong đó quỹ tiền lương thực hiện theo đơn giá tiền lương được xác định trên cơ sở đơn giá tiền lương, tổng doanh thu thực hiện và điều chỉnh theo chỉ tiêu năng suất lao động thực hiện bình quân của Tổng công ty.
+
+2. Từ năm 2011 trở đi việc xác định đơn giá tiền lương, quỹ tiền lương kế hoạch, quỹ tiền lương thực hiện thực hiện theo quy định chung.
+
+III. XÁC ĐỊNH QUỸ TIỀN LƯƠNG CỦA TỔNG GIÁM ĐỐC TỔNG CÔNG TY BƯU CHÍNH VIỆT NAM
+
+1. Từ năm 2008 đến hết năm 2010:
+
+a. Quỹ tiền lương kế hoạch của Tổng giám đốc Tổng công ty được tính theo công thức sau:
+
+Vqlkh   =  [TLbq + (TLbq x K/100% x 0,8 )] x 12 tháng
+
+Trong đó:
+
+- Vqlkh  là quỹ tiền lương kế hoạch của Tổng giám đốc Tổng công ty Bưu chính Việt Nam.
+
+- TLbq là tiền lương bình quân tháng thực tế thực hiện năm trước liền kề
+
+- K là mức tăng khoán sản lượng hàng năm đối với dịch vụ bưu chính công ích do Nhà nước đặt hàng kế hoạch so với thực hiện năm trước liền kề dùng làm căn cứ tính đơn giá tiền lương theo khoản 1, mục II Thông tư này.
+
+b. Quỹ tiền lương thực hiện của Tổng giám đốc Tổng công ty được xác định trên cơ sở quỹ tiền lương kế hoạch và điều chỉnh theo chỉ tiêu năng suất lao động thực hiện bình quân của Tổng công ty.
+
+2. Từ năm 2011 trở đi việc xác định đơn giá tiền lương, quỹ tiền lương kế hoạch, quỹ tiền lương thực hiện thực hiện theo quy định chung.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Tổng giám đốc Tổng công ty Bưu chính Việt Nam có trách nhiệm:
+
+a. Tháng 1 hàng năm xây dựng kế hoạch sử dụng lao động, đơn giá tiền lương, quỹ tiền lương của Tổng giám đốc Tổng công ty theo hướng dẫn tại Thông tư này báo cáo Hội đồng quản trị Tập đoàn Bưu chính Viễn thông Việt Nam.
+
+b. Thực hiện các trách nhiệm quy định đối với Tổng giám đốc, Giám đốc công ty nhà nước quy định tại khoản 1, mục IV Thông tư số 07/2005/TT-BLĐTBXH ngày 5 tháng 01 năm 2005 và khoản 1, mục IV Thông tư số 08/2005/TT-BLĐTBXH ngày 5 tháng 01 năm 2005 của Bộ Lao động-Thương binh và Xã hội.
+
+2. Hội đồng quản trị Tập đoàn Bưu chính Viễn thông Việt Nam có trách nhiệm cân đối, quyết định theo thẩm quyền về đơn giá tiền lương, quỹ tiền lương của Tổng công ty Bưu chính Việt Nam theo hướng dẫn tại mục II Thông tư này và báo cáo Bộ Thông tin và Truyền thông làm cơ sở để xác định chi phí tiền lương trong mức khoán chi phí duy trì hoạt động của mạng bưu chính công cộng; báo cáo Bộ Lao động - Thương binh và Xã hội để theo dõi, kiểm tra.
+
+3. Tiền công của lao động phát xã và lao động điểm Bưu điện – Văn hoá xã làm việc cho Tổng công ty Bưu chính Việt Nam được xác định theo quy định tại khoản 1, mục II phụ lục ban hành kèm theo Quyết định số 65/2008/QĐ-TTg ngày 22 tháng 5 năm 2008 của Thủ tướng Chính phủ, trong đó mức lương tối thiểu do Nhà nước quy định dùng làm căn cứ xác định tiền công là mức lương tối thiểu vùng do Chính phủ quy định đối với người lao động làm việc ở công ty, doanh nghiệp, hợp tác xã, tổ hợp tác, trang trại, hộ gia đình, cá nhân và các tổ chức khác của Việt Nam có thuê mướn lao động. Tiền công của lao động phát xã và lao động điểm Bưu điện - Văn hoá xã không tính trong đơn giá tiền lương và quỹ tiền lương của Tổng công ty Bưu chính Việt Nam.
+
+4. Thông tư này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo.
+
+Trong quá trình thực hiện có gì vướng mắc, đề nghị Bộ Thông tin và Truyền thông, Tập đoàn Bưu chính Viễn thông Việt Nam và Tổng công ty Bưu chính Việt Nam phản ánh về Bộ Lao động - Thương binh và Xã hội xem xét, giải quyết./.
+
+
+
+
+
+
+
+
+
+

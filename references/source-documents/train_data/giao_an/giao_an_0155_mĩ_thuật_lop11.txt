@@ -1,0 +1,77 @@
+GIÁO ÁN MĨ THUẬT - LỚP 11
+Bài: Bài học số 1
+Thời lượng: 1 tiết
+Ngày soạn: 2026-01-17
+
+I. MỤC TIÊU
+1. Kiến thức:
+  - Học sinh hiểu được vai trò về bài học số 1.
+  - Học sinh trình bày được vai trò về bài học số 1.
+  - Học sinh phân tích được khái niệm về bài học số 1.
+2. Năng lực:
+  - Năng lực thẩm mĩ
+  - Năng lực tự chủ và tự học
+3. Phẩm chất:
+  - Trung thực
+  - Chăm chỉ
+  - Trách nhiệm
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. Giáo viên: SGK, SGV, giáo án, máy chiếu, bảng phụ, phiếu học tập.
+2. Học sinh: SGK, vở ghi, đồ dùng học tập.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+Hoạt động 1: Khởi động (9 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Bài học số 1.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 2: Hình thành kiến thức (21 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 3: Luyện tập (14 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV sử dụng phương pháp {random.choice(pp)} để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 4: Vận dụng (14 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, bài tập nhóm.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 5: Mở rộng (17 phút)
+a) Mục tiêu: Học sinh mở rộng kiến thức về Bài học số 1.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS đọc SGK và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+IV. RÚT KINH NGHIỆM
+  ...
+Nguồn: Tài liệu tập huấn giáo viên Mĩ thuật lớp 11 - Bộ GD&ĐT

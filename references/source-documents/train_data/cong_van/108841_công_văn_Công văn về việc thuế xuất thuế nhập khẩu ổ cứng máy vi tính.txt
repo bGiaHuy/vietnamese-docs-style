@@ -1,0 +1,263 @@
+# Công văn về việc thuế xuất thuế nhập khẩu ổ cứng máy vi tính
+# Loại: Công văn
+# Số hiệu: 4433/TC/TCT
+# Ngày ban hành: 05/10/2000
+# Cơ quan: Bộ Tài chính
+# Người ký: Trương Chí Trung
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+CHÍNH PHỦ
+
+--------
+
+
+Số: 08/2017/NĐ-CP
+
+
+
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+---------------
+
+
+Hà Nội, ngày 08 tháng 02 năm 2017
+
+
+
+
+
+
+
+
+
+
+
+NGHỊ ĐỊNH
+
+QUY ĐỊNH VỀ LƯU CHIỂU ĐIỆN TỬ ĐỐI VỚI LOẠI HÌNH BÁO NÓI, BÁO HÌNH VÀ BÁO ĐIỆN TỬ ĐỘC LẬP VỚI CƠ QUAN BÁO CHÍ
+
+
+
+
+
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật báo chí ngày 05 tháng 4 năm 2016;
+
+Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông;
+
+Chính phủ ban hành Nghị định quy định về lưu chiểu điện tử đối với loại hình báo nói, báo hình và báo điện tử độc lập với cơ quan báo chí.
+
+
+
+Chương I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Nghị định này quy định về hoạt động lưu chiểu điện tử đối với loại hình báo nói, báo hình, báo điện tử của cơ quan quản lý nhà nước về báo chí ở trung ương.
+
+2. Nghị định này áp dụng đối với cơ quan quản lý nhà nước về báo chí ở trung ương, các cơ quan báo nói, báo hình, báo điện tử và các tổ chức, cá nhân có liên quan đến hoạt động lưu chiểu điện tử.
+
+Điều 2. Giải thích từ ngữ
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Lưu chiểu là việc lưu giữ nguyên trạng nội dung các tác phẩm báo nói, báo hình và báo điện tử để đối chiếu, kiểm tra.
+
+2. Lưu chiểu điện tử là việc sử dụng các phương tiện điện tử để thực hiện việc lưu chiểu.
+
+3. Hoạt động lưu chiểu điện tử là việc cơ quan quản lý nhà nước về báo chí ở trung ương tổ chức tiếp nhận, lưu giữ, bảo quản và sử dụng các tác phẩm báo nói, báo hình, báo điện tử.
+
+Điều 3. Thẩm quyền lưu chiểu điện tử của cơ quan quản lý nhà nước về báo chí
+
+Bộ Thông tin và Truyền thông là cơ quan thực hiện lưu chiểu điện tử đối với loại hình báo nói, báo hình và báo điện tử.
+
+Điều 4. Trách nhiệm của cơ quan thực hiện lưu chiểu điện tử
+
+1. Xây dựng, vận hành và quản lý hệ thống lưu chiểu điện tử để lưu giữ, bảo quản và sử dụng tác phẩm báo chí theo quy định của pháp luật.
+
+2. Đánh giá, nhận xét về nội dung tác phẩm báo chí được lưu chiểu theo yêu cầu của công tác quản lý.
+
+3. Kiểm tra nội dung tác phẩm báo chí lưu chiểu, phát hiện và xử lý đối với các trường hợp vi phạm theo quy định của pháp luật.
+
+Điều 5. Trách nhiệm của các cơ quan báo nói, báo hình, báo điện tử
+
+1. Thực hiện chế độ lưu chiểu theo quy định tại điểm c, d khoản 1 Điều 52 Luật báo chí.
+
+2. Cung cấp tín hiệu truyền dẫn (đối với báo nói, báo hình), quyền truy xuất dữ liệu (đối với báo điện tử) theo yêu cầu của cơ quan thực hiện lưu chiểu điện tử.
+
+3. Đảm bảo tính thống nhất, chính xác giữa nội dung tác phẩm đăng, phát với nội dung tác phẩm cung cấp cho cơ quan thực hiện lưu chiểu điện tử.
+
+
+
+Chương II
+
+HOẠT ĐỘNG LƯU CHIỂU ĐIỆN TỬ
+
+
+
+Điều 6. Tiếp nhận tác phẩm báo chí để thực hiện lưu chiểu điện tử
+
+1. Người đứng đầu cơ quan thực hiện lưu chiểu điện tử có trách nhiệm tổ chức việc tiếp nhận các tác phẩm báo nói, báo hình, báo điện tử để thực hiện việc lưu chiểu điện tử.
+
+2. Việc tiếp nhận tác phẩm báo nói, báo hình, báo điện tử được thực hiện theo quy trình sau:
+
+a) Cơ quan thực hiện lưu chiểu điện tử có văn bản thông báo cho cơ quan báo nói, báo hình, báo điện tử để kết nối theo quy định tại khoản 2 Điều 5 Nghị định này.
+
+Trong văn bản thông báo phải nêu phương án kết nối, truyền dẫn tín hiệu phát sóng (đối với báo nói, báo hình), phương án kết nối và truy xuất các tác phẩm báo chí đăng tải trên trang báo điện tử (đối với báo điện tử) về hệ thống lưu chiểu điện tử của cơ quan thực hiện lưu chiểu; thời gian, địa điểm thực hiện việc kết nối.
+
+b) Chậm nhất 10 ngày làm việc, kể từ ngày nhận được văn bản thông báo về phương án kết nối, cơ quan báo nói, báo hình và báo điện tử phải có văn bản trả lời, thống nhất việc kết nối với cơ quan thực hiện lưu chiểu điện tử.
+
+c) Sau khi kết nối, cơ quan thực hiện lưu chiểu điện tử kiểm tra, đảm bảo tác phẩm đã được lưu tại hệ thống và xác nhận với cơ quan báo chí sau 15 ngày làm việc kể từ ngày nhận được tác phẩm báo chí.
+
+d) Cơ quan thực hiện lưu chiểu điện tử tổ chức lưu giữ nguyên trạng nội dung tác phẩm báo chí trên hệ thống lưu chiểu; tổ chức phân loại nội dung để lưu giữ phục vụ công tác quản lý.
+
+Điều 7. Thời gian lưu giữ tác phẩm báo chí được lưu chiểu điện tử
+
+1. Đối với báo nói, báo hình, thời gian lưu giữ nguyên trạng tối thiểu là 06 tháng kể từ ngày được phát sóng lần đầu.
+
+2. Đối với báo điện tử, thời gian lưu giữ nguyên trạng tối thiểu là 12 tháng kể từ ngày đăng tải lần đầu.
+
+Điều 8. Bảo quản tác phẩm báo chí được lưu chiểu điện tử
+
+1. Các tác phẩm trong hệ thống lưu chiểu điện tử phải được bảo quản an toàn và lưu giữ nguyên trạng về nội dung thông tin.
+
+2. Cơ quan thực hiện lưu chiểu điện tử phải thường xuyên kiểm tra để đảm bảo an toàn, tính toàn vẹn, khả năng truy xuất và sử dụng các biện pháp kỹ thuật để việc phân loại, lưu giữ được thuận lợi nhưng không làm thay đổi nội dung của tác phẩm.
+
+3. Cơ quan thực hiện lưu chiểu điện tử xây dựng giải pháp bảo đảm chất lượng kỹ thuật, giải pháp an toàn thông tin cho hệ thống lưu chiểu điện tử.
+
+Điều 9. Sử dụng tác phẩm báo chí được lưu chiểu điện tử
+
+1. Tác phẩm báo chí lưu chiểu điện tử được sử dụng để phục vụ công tác quản lý nhà nước về báo chí, gồm: Đánh giá, nhận xét về nội dung thông tin theo chuyên đề, sự kiện, cho các cuộc kiểm tra, thanh tra chuyên ngành thường xuyên và đột xuất theo yêu cầu.
+
+2. Cơ quan thực hiện lưu chiểu điện tử được sử dụng tác phẩm báo chí lưu chiểu điện tử làm căn cứ để xử lý trong trường hợp tác phẩm có nội dung sai phạm.
+
+Điều 10. Kinh phí cho hoạt động lưu chiểu điện tử
+
+1. Ngân sách nhà nước đảm bảo kinh phí cho hoạt động lưu chiểu điện tử của cơ quan quản lý nhà nước và được bố trí trong dự toán ngân sách hàng năm của Bộ Thông tin và Truyền thông.
+
+2. Ngân sách nhà nước cho hoạt động lưu chiểu điện tử, gồm:
+
+a) Mua sắm công cụ, dụng cụ, trang thiết bị, phương tiện để quản lý, duy trì hệ thống lưu chiểu điện tử.
+
+b) Tổng hợp, phân tích, báo cáo về kết quả đánh giá chất lượng nội dung thông tin trên báo nói, báo hình, báo điện tử.
+
+c) Các hoạt động khác phục vụ hoạt động lưu chiểu điện tử.
+
+
+
+Chương III
+
+ĐIỀU KHOẢN THI HÀNH
+
+
+
+Điều 11. Hiệu lực thi hành
+
+Nghị định này có hiệu lực thi hành từ ngày 30 tháng 3 năm 2017.
+
+Điều 12. Trách nhiệm thi hành
+
+1. Bộ trưởng Bộ Thông tin và Truyền thông chịu trách nhiệm tổ chức triển khai, kiểm tra việc thực hiện Nghị định này.
+
+2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.
+
+
+
+
+
+
+
+Nơi nhận:
+
+- Ban Bí thư Trung ương Đảng;
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+
+- Văn phòng Trung ương và các Ban của Đảng;
+
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Chủ tịch nước;
+
+- Hội đồng dân tộc và các Ủy ban của Quốc hội;
+
+- Văn phòng Quốc hội;
+
+- Tòa án nhân dân tối cao;
+
+- Viện kiểm sát nhân dân tối cao;
+
+- Kiểm toán nhà nước;
+
+- Ủy ban Giám sát tài chính Quốc gia;
+
+- Ngân hàng Chính sách xã hội;
+
+- Ngân hàng Phát triển Việt Nam;
+
+- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+
+- Cơ quan trung ương của các đoàn thể;
+
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;
+
+- Lưu: VT, KGVX (3b).
+
+
+
+
+TM. CHÍNH PHỦ
+
+THỦ TƯỚNG
+
+
+
+
+
+
+
+
+
+Nguyễn Xuân Phúc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

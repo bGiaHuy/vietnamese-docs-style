@@ -1,0 +1,236 @@
+# Về việc phê duyệt Đề án sắp xếp, đổi mới lâm trường quốc doanh trực thuộc Uỷ ban nhân dân tỉnh Điện Biên
+# Loại: Quyết định
+# Số hiệu: 275/2005/QĐ-TTg
+# Ngày ban hành: 01/11/2005
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Tấn Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Ban hành Điều lệ Tổ chức và Hoạt động của Trung tâm Tin học
+
+_______________________
+
+
+
+BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+
+
+Căn cứ Nghị định số 54/2003/NĐ-CP ngày 19/5/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ và Nghị định số 28/2004/NĐ-CP ngày 16/1/2004 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 54/2003/NĐ-CP;
+
+
+
+Xét đề nghị của các Ông Giám đốc Trung tâm Tin học và Vụ trưởng Vụ Tổ chức cán bộ,
+
+
+
+
+
+QUYẾT ĐỊNH:
+
+
+
+Điều 1:  Ban hành kèm theo Quyết định này Điều lệ Tổ chức và Hoạt độngc của Trung tâm Tin học trực thuộc Bộ Khoa học và Công nghệ.
+
+
+
+Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng Công báo. Các Ông Chánh Văn phòng, Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Trung tâm Tin học và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+ĐIỀU LỆ
+
+TỔ CHỨC VÀ HOẠT ĐỘNG CỦA TRUNG TÂM TIN HỌC
+
+(Ban hành kèm theo Quyết định số 01/2004/QĐ-BKHCN ngày 29/4/2004 của Bộ trưởng Bộ Khoa học và công nghệ)
+
+
+
+CHƯƠNG I
+
+QUY ĐỊNH CHUNG
+
+
+
+Điều 1. Trung tâm Tin học là đơn vị trực thuộc Bộ Khoa học và Công nghệ, cã chức năng tổ chức thực hiện việc phát triển và ứng dụng công nghệ thông tin (CNTT), tin học hoá quản lý hành chính phục vụ công tác quản lý Nhà nước của Bộ;
+
+Trung tâm Tin học có tên giao dịch quốc tế là: Information Communication Technology Centre, viết tắt là ICTC.
+
+Trung tâm Tin học có trụ sở chính đặt tại Hà Nội và Văn phòng Đại diện đặt tại một số địa phương.
+
+
+
+Điều 2. Trung tâm Tin học là đơn vị sự nghiệp có thu, có tư cách pháp nhân, có con dấu riêng, được mở tài khoản tại Kho bạc nhà nước và Ngân hàng để hoạt động và giao dịch theo quy định của pháp luật (viết tắt là Trung tâm).
+
+
+
+CHƯƠNG II
+
+NHIỆM VỤ VÀ QUYỀN HẠN
+
+Điều 3. Trung tâm có các nhiệm vụ và quyền hạn chính sau đây:
+
+1. Chủ trì phối hợp với các đơn vị trong Bộ xây dựng trình Bộ trưởng ban hành các quy định về khai thác và sử dụng các thiết bị, phần cứng, phần mềm tin học có bản quyền, các hệ thống thông tin trên mạng; quy định giao nộp thông tin lên hệ thống mạng CNTT của Bộ;
+
+2. Chủ trì phối hợp với các đơn vị trong Bộ xây dựng trình Bộ trưởng kế hoạch dài hạn, hàng năm về phát triển và ứng dụng CNTT phục vụ công tác quản lý Nhà nước của Bộ vµ tổ chức thực hiện sau khi được phê duyệt; lập kế hoạch mua sắm, cấp phát và hướng dẫn sử dụng các trang thiết bị, phần cứng, phần mềm tin học có bản quyền cho các đơn vị trong Bộ.
+
+3. Xây dựng, quản lý hệ thống thông tin và tin học của Bộ, bao gồm:
+
+a. Thiết kế, xây dựng hệ thống thông tin phục vụ cho quản lý hành chính của Bộ;
+
+b. Chủ trì và phối hợp với các đơn vị trong Bộ và các đơn vị liên quan để xây dựng các cơ sở dữ liệu thông tin về các lĩnh vực quản lý Nhà nước của Bộ;
+
+c. Tổ chức cung cấp, khai thác thông tin, cơ sở dữ liệu, truy cập Internet qua hệ thống mạng của Bộ cho các cá nhân, đơn vị theo đúng quy định;
+
+d. Tổ chức xây dựng và khai thác các dịch vụ CNTT, dịch vụ công trực tuyến về các lĩnh vực quản lý Nhà nước của Bộ thông qua hệ thống mạng của Bộ;
+
+e. Chủ trì nghiên cứu, xây dựng, quản lý và vận hành mạng máy tính cho lĩnh vực khoa học và công nghệ trên cơ sở mạng STE-NET. Tổ chức triển khai kết nối mạng máy tính giữa Bộ với các Sở, các tổ chức khoa học và công nghệ trong cả nước;
+
+4. Xây dựng và đảm bảo quản lý hạ tầng CNTT của Bộ, bao gåm:
+
+a. Nghiên cứu phát triển hạ tầng CNTT phục vụ quản lý hành chính của Bộ;
+
+b. Tổ chức thiết kế, xây dựng, lắp đặt hệ thống các thiết bị tin học theo kế hoạch cho các đơn vị trong Bộ;
+
+c. Bảo trì, bảo dưỡng hệ thống máy tính và các thiết bị mạng tin học của Bộ; sửa chữa khắc phục sự cố kỹ thuật của hệ thống thiết bị mạng, bảo đảm sự hoạt động liên tục, thông suốt, an toàn và bảo mật của hệ thống.
+
+5. Tổ chức thiết kế, xây dựng, hướng dẫn sử dụng (soạn, thuê, mua) các phần mềm dùng chung, phần mềm ứng dụng, chuyên ngành thuộc phạm vi quản lý Nhà nước của Bộ;
+
+6. Chủ trì tiếp nhận, xây dựng và tổ chức triển khai các dự án, đề án có nguồn kinh phí trong nước, ngoài nước liên quan đến ứng dụng, phát triển CNTT và tin học hoá quản lý hành chính thuộc phạm vi quản lý Nhà nước của Bộ sau khi được cấp có thẩm quyền phê duyệt;
+
+7. Chñ tr×, phối hợp với các đơn vị có chức năng ®Ó tæ chøc các hoạt động đào tạo, bồi dưỡng, nâng cao kiến thức và cấp chứng chỉ về CNTT theo quy định của pháp luật hiện hành;
+
+8. Được ký kết các hợp đồng kinh tế về dịch vụ CNTT với các tổ chức, cá nhân theo quy định của pháp luật hiện hành;
+
+9. Chủ trì, tham gia thực hiện các đề tài nghiên cứu khoa học trong lĩnh vực CNTT khi được phân công;
+
+10. Phối hợp với các đơn vị liên quan của Bộ thực hiện hợp tác quốc tế về CNTT trong lĩnh vực quản lý Nhà nước của Bộ;
+
+11. Quản lý và sử dụng có hiệu quả tài sản, trang thiết bị làm việc được cấp theo các quy định của Bộ; Thực hiện các nhiệm vụ khác do Bộ trưởng giao.
+
+
+
+CHƯƠNG III
+
+CƠ CẤU TỔ CHỨC
+
+Điều 4. Cơ cấu tổ chức bộ máy của Trung tâm gồm có: Giám đốc và một số Phó giám đốc phụ trách lĩnh vực công tác được phân công.
+
+Các phòng nghiệp vụ thuộc Trung tâm:
+
+1. Văn phòng;
+
+2. Phòng Phát triển và Đảm bảo mạng;
+
+3. Phòng Phần mềm;
+
+4. Phòng Đảm bảo thông tin và Tích hợp cơ sở dữ liệu.
+
+5. Phòng Đào tạo.
+
+
+
+Điều 5. Trung tâm tổ chức và làm việc theo chế độ thủ trưởng kết hợp với bàn bạc tập thể.
+
+Giám đốc Trung tâm chịu trách nhiệm trước Bộ trưởng về toàn bộ tổ chức và hoạt động của Trung tâm.
+
+Các Phó giám đốc là người giúp việc cho Giám đốc, thực hiện các nhiệm vụ theo sự phân công của Giám đốc và chịu trách nhiệm trước Giám đốc về phần việc được phân công phụ trách.
+
+Trong trường hợp Giám đốc đi vắng, một Phó giám đốc được uỷ quyền thay mặt Giám đốc lãnh đạo và điều hành công việc của Trung tâm.
+
+Giám đốc có trách nhiệm quy định chức năng, nhiệm vụ, tổ chức và hoạt động của các phòng nghiệp vụ thuộc Trung tâm.
+
+
+
+Điều 6. Trung tâm thực hiện chế độ chuyên viên làm việc trực tiếp với Lãnh đạo Trung tâm. Khi cần thiết, Giám đốc có thể thành lập các tổ, nhóm công tác tuỳ theo yêu cầu công việc và quy định cụ thể nhiệm vụ của các tổ nhóm, công tác đó.
+
+
+
+Điều 7. Nhân lực của Trung tâm gồm có:
+
+1. Cán bộ thuộc chỉ tiêu biên chế được Bộ giao;
+
+2. Cán bộ làm việc theo chế độ hợp đồng lao động:
+
+a. Loại hợp đồng lao động có sử dụng quỹ lương của Bộ, sau khi có ý kiến thoả thuận của Vụ Tổ chức cán bộ, Văn phòng tiến hành ký hợp đồng.
+
+b. Loại hợp đồng lao động sử dụng kinh phí tự có của Trung tâm, do Trung tâm tự ký hợp đồng với người lao động theo Bộ Luật lao động trong khuôn khổ yêu cầu của công việc và khả năng tài chính của Trung tâm (không cần có ý kiến thoả thuận cña Vụ Tổ chức cán bộ).
+
+Riêng đối với loại hợp đồng lao động không xác định thời hạn phải báo cáo Vụ Tổ chức cán bộ để theo dõi.
+
+3. Cán bộ làm việc theo chế độ cộng tác viên.
+
+
+
+Điều 8. Trung tâm thực hiện chế độ quản lý lao động, trả tiền lương, tiền công và các thu nhập khác, thực hiện chế độ bảo hiểm đối với cán bộ làm việc tại Trung tâm theo đúng các quy định hiện hành của Nhà nước và của Bộ.
+
+
+
+CHƯƠNG IV
+
+QUAN HỆ CÔNG TÁC
+
+Điều 9. Giám đốc Trung tâm điều hành mọi hoạt động của Trung tâm trên cơ sở Điều lệ Tổ chức và Hoạt động của Trung tâm; thực hiện chế độ làm việc, quan hệ công tác với thủ trưởng các đơn vị trùc thuộc Bộ theo quy chế làm việc của Bộ và các quy định khác do Bộ trưởng ban hành.
+
+
+
+Điều 10. Trung tâm có trách nhiệm cộng tác chặt chẽ với các đơn vị của Bộ Bưu chính Viễn thông, các trung tâm tin học của các Bộ, ngành, các Sở Khoa học và Công nghệ của các địa phương và các tổ chức khác có liên quan trong việc thực hiện các nhiệm vụ được giao.
+
+
+
+CHƯƠNG V
+
+QUẢN LÝ TÀI CHÍNH CỦA TRUNG TÂM
+
+Điều 11. Công tác tài chính
+
+1. Nguồn thu:
+
+a. Từ ngân sách Nhà nước cấp;
+
+b. Từ các hoạt động dịch vụ, tư vấn, đào tạo CNTT theo quy định của pháp luật.
+
+c. Nguồn thu khác theo quy định (nếu có): Các dự án viện trợ, quà biếu tặng, vay tín dụng...
+
+2. Các khoản chi:
+
+a. Chi cho các nhiệm vụ chi thường xuyên và nhiệm vụ nghiên cứu khoa học khi được giao;
+
+b. Chi cho các hoạt động dịch vụ, tư vấn, đào tạo CNTT theo các hợp đồng đã ký kết;
+
+c. Chi để thuê lao động;
+
+d. Các khoản chi khác;
+
+
+
+Điều 12. Giám đốc Trung tâm có trách nhiệm quản lý, sử dụng hiệu quả nguồn tài chính của Trung tâm; thực hiện nghĩa vụ đóng góp với Nhà nước; trích lập các quỹ phát triển hoạt động sự nghiệp, dự phòng ổn định thu nhập, phúc lợi và khen thưởng, thực hiện chế độ kế toán theo các quy định hiện hành của Nhà nước.
+
+
+
+CHƯƠNG VI
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 13. Giám đốc Trung tâm phối hợp với Vụ trưởng Vụ Tổ chức cán bộ thực hiện Điều lệ này.
+
+
+
+Điều 14. Việc sửa đổi, bổ sung Điều lệ này do Giám đốc Trung tâm phối hợp với Vụ trưởng Vụ Tổ chức cán bộ đề nghị Bộ trưởng Bộ Khoa học và Công nghệ xem, quyết định./.
+
+
+
+
+
+

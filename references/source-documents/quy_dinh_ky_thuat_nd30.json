@@ -1,0 +1,451 @@
+{
+  "quy_dinh_chung": {
+    "kho_giay": "A4 (210 mm x 297 mm)",
+    "nguon": "PL I, Phần I, Mục I.1",
+    "kieu_trinh_bay": "Theo chiều dài khổ A4. Trường hợp nội dung văn bản có các bảng, biểu nhưng không được làm thành các phụ lục riêng thì văn bản có thể được trình bày theo chiều rộng.",
+    "nguon_kieu_trinh_bay": "PL I, Phần I, Mục I.2",
+    "dinh_le": {
+      "tren": "20 - 25 mm",
+      "duoi": "20 - 25 mm",
+      "trai": "30 - 35 mm",
+      "phai": "15 - 20 mm"
+    },
+    "nguon_dinh_le": "PL I, Phần I, Mục I.3",
+    "phong_chu": "Times New Roman, bộ mã ký tự Unicode theo TCVN 6909:2001",
+    "nguon_phong_chu": "PL I, Phần I, Mục I.4",
+    "mau_chu": "Màu đen",
+    "nguon_mau_chu": "PL I, Phần I, Mục I.4",
+    "so_trang": "Đánh từ số 1, chữ số Ả Rập, cỡ chữ 13 đến 14, kiểu chữ đứng, canh giữa theo chiều ngang trong phần lề trên, không hiển thị số trang thứ nhất.",
+    "nguon_so_trang": "PL I, Phần I, Mục I.7"
+  },
+  "thanh_phan_the_thuc": [
+    {
+      "ten": "Quốc hiệu và Tiêu ngữ",
+      "nguon": "PL I, Phần I, Mục II.1",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Quốc hiệu",
+          "noi_dung": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+          "vi_tri": "Phía trên cùng, bên phải trang đầu tiên của văn bản (ô số 1)",
+          "co_chu": "12 đến 13",
+          "kieu_chu": "In hoa, đứng, đậm",
+          "ghi_chu": "Hai dòng chữ Quốc hiệu và Tiêu ngữ cách nhau dòng đơn"
+        },
+        {
+          "yeu_to": "Tiêu ngữ",
+          "noi_dung": "Độc lập - Tự do - Hạnh phúc",
+          "vi_tri": "Canh giữa dưới Quốc hiệu (ô số 1)",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In thường, đứng, đậm",
+          "ghi_chu": "Chữ cái đầu của các cụm từ viết hoa; giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang nét liền, độ dài bằng độ dài của dòng chữ"
+        }
+      ]
+    },
+    {
+      "ten": "Tên cơ quan, tổ chức ban hành văn bản",
+      "nguon": "PL I, Phần I, Mục II.2",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Tên cơ quan, tổ chức chủ quản trực tiếp (nếu có)",
+          "vi_tri": "Canh giữa phía trên tên cơ quan ban hành (ô số 2)",
+          "co_chu": "12 đến 13",
+          "kieu_chu": "In hoa, đứng",
+          "ghi_chu": "Cách tên cơ quan ban hành dòng đơn; có thể trình bày nhiều dòng nếu dài"
+        },
+        {
+          "yeu_to": "Tên cơ quan, tổ chức ban hành văn bản",
+          "vi_tri": "Canh giữa dưới tên cơ quan chủ quản (ô số 2)",
+          "co_chu": "12 đến 13",
+          "kieu_chu": "In hoa, đứng, đậm",
+          "ghi_chu": "Phía dưới có đường kẻ ngang nét liền, độ dài từ 1/3 đến 1/2 độ dài dòng chữ, đặt cân đối so với dòng chữ"
+        }
+      ]
+    },
+    {
+      "ten": "Số, ký hiệu của văn bản",
+      "nguon": "PL I, Phần I, Mục II.3",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Số văn bản",
+          "vi_tri": "Canh giữa dưới tên cơ quan ban hành (ô số 3)",
+          "co_chu": "13",
+          "kieu_chu": "In thường, đứng",
+          "ghi_chu": "Sau từ 'Số' có dấu hai chấm (:); số nhỏ hơn 10 phải ghi thêm số 0 phía trước; giữa số và ký hiệu có dấu gạch chéo (/); giữa các nhóm trong ký hiệu có dấu gạch nối (-), không cách chữ"
+        },
+        {
+          "yeu_to": "Ký hiệu văn bản",
+          "vi_tri": "Cùng dòng với số văn bản (ô số 3)",
+          "co_chu": "13",
+          "kieu_chu": "In hoa, đứng",
+          "ghi_chu": "Bao gồm chữ viết tắt tên loại văn bản và chữ viết tắt tên cơ quan ban hành. Với công văn: thêm chữ viết tắt tên đơn vị soạn thảo hoặc lĩnh vực."
+        }
+      ]
+    },
+    {
+      "ten": "Địa danh và thời gian ban hành văn bản",
+      "nguon": "PL I, Phần I, Mục II.4",
+      "vi_tri": "Cùng dòng với số, ký hiệu văn bản, đặt dưới và canh giữa so với Quốc hiệu và Tiêu ngữ (ô số 4)",
+      "co_chu": "13 đến 14",
+      "kieu_chu": "In thường, nghiêng",
+      "ghi_chu": "Chữ cái đầu của địa danh viết hoa; sau địa danh có dấu phẩy (,); ngày/tháng/năm viết đầy đủ bằng chữ số Ả Rập, ngày nhỏ hơn 10 và tháng 1, 2 phải ghi thêm số 0"
+    },
+    {
+      "ten": "Tên loại và trích yếu nội dung văn bản",
+      "nguon": "PL I, Phần I, Mục II.5",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Tên loại văn bản (văn bản có tên loại)",
+          "vi_tri": "Canh giữa theo chiều ngang (ô số 5a)",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In hoa, đứng, đậm"
+        },
+        {
+          "yeu_to": "Trích yếu nội dung (văn bản có tên loại)",
+          "vi_tri": "Ngay dưới tên loại văn bản (ô số 5a)",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In thường, đứng, đậm",
+          "ghi_chu": "Bên dưới có đường kẻ ngang nét liền, độ dài từ 1/3 đến 1/2 độ dài dòng chữ, đặt cân đối"
+        },
+        {
+          "yeu_to": "Trích yếu nội dung công văn",
+          "vi_tri": "Sau chữ 'V/v', canh giữa dưới số và ký hiệu văn bản (ô số 5b)",
+          "co_chu": "12 đến 13",
+          "kieu_chu": "In thường, đứng",
+          "ghi_chu": "Cách dòng 6pt với số và ký hiệu văn bản"
+        }
+      ]
+    },
+    {
+      "ten": "Nội dung văn bản",
+      "nguon": "PL I, Phần I, Mục II.6",
+      "vi_tri": "Ô số 6",
+      "co_chu": "13 đến 14",
+      "kieu_chu": "In thường, đứng, canh đều cả hai lề",
+      "ghi_chu": "Khi xuống dòng, chữ đầu dòng lùi vào 1 cm hoặc 1,27 cm; khoảng cách giữa các đoạn văn tối thiểu 6pt; khoảng cách giữa các dòng tối thiểu dòng đơn, tối đa 1.5 lines",
+      "bo_cuc": {
+        "can_cu_ban_hanh": {
+          "kieu_chu": "In thường, nghiêng",
+          "co_chu": "13 đến 14",
+          "ghi_chu": "Sau mỗi căn cứ xuống dòng, cuối dòng có dấu chấm phẩy (;), dòng cuối kết thúc bằng dấu chấm (.)"
+        },
+        "phan_chuong": {
+          "tu_phan_chuong": "Từ 'Phần', 'Chương' + số thứ tự: in thường, đứng, đậm, canh giữa, cỡ 13-14. Số thứ tự dùng chữ số La Mã.",
+          "tieu_de_phan_chuong": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+        },
+        "muc_tieu_muc": {
+          "tu_muc": "Từ 'Mục', 'Tiểu mục' + số thứ tự: in thường, đứng, đậm, canh giữa, cỡ 13-14. Số thứ tự dùng chữ số Ả Rập.",
+          "tieu_de_muc": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+        },
+        "dieu": {
+          "trinh_bay": "Từ 'Điều' + số thứ tự + tiêu đề: in thường, lùi đầu dòng 1 cm hoặc 1,27 cm. Số thứ tự dùng chữ số Ả Rập, sau có dấu chấm (.). Cỡ chữ bằng cỡ lời văn, đứng, đậm."
+        },
+        "khoan": {
+          "trinh_bay": "Số thứ tự dùng chữ số Ả Rập, sau có dấu chấm (.). Cỡ chữ bằng cỡ lời văn, đứng. Nếu khoản có tiêu đề: trình bày trên dòng riêng, in thường, đậm."
+        },
+        "diem": {
+          "trinh_bay": "Dùng chữ cái tiếng Việt theo thứ tự bảng chữ cái, sau có dấu đóng ngoặc đơn. In thường, cỡ bằng cỡ lời văn, đứng."
+        }
+      }
+    },
+    {
+      "ten": "Chức vụ, họ tên và chữ ký của người có thẩm quyền",
+      "nguon": "PL I, Phần I, Mục II.7",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Quyền hạn của người ký (TM., Q., KT., TL., TUQ.)",
+          "vi_tri": "Ô số 7a",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In hoa, đứng, đậm",
+          "ghi_chu": "TM. = thay mặt tập thể; Q. = quyền cấp trưởng; KT. = ký thay; TL. = thừa lệnh; TUQ. = thừa ủy quyền"
+        },
+        {
+          "yeu_to": "Chức vụ của người ký",
+          "vi_tri": "Ô số 7a (dưới quyền hạn) hoặc ô số 7b (chức vụ khác)",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In hoa, đứng, đậm"
+        },
+        {
+          "yeu_to": "Chữ ký của người có thẩm quyền",
+          "vi_tri": "Ô số 7c (canh giữa chức vụ và họ tên)",
+          "ghi_chu": "Văn bản giấy: ký bằng bút mực xanh, không dùng mực dễ phai (Điều 13.6). Văn bản điện tử: chữ ký số, hình ảnh chữ ký màu xanh, định dạng .png nền trong suốt."
+        },
+        {
+          "yeu_to": "Họ và tên người ký",
+          "vi_tri": "Ô số 7b",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In thường, đứng, đậm",
+          "ghi_chu": "Canh giữa quyền hạn, chức vụ. Trước họ tên không ghi học hàm, học vị (trừ văn bản lực lượng vũ trang, tổ chức giáo dục, y tế, khoa học theo quy định riêng)."
+        }
+      ]
+    },
+    {
+      "ten": "Dấu, chữ ký số của cơ quan, tổ chức",
+      "nguon": "PL I, Phần I, Mục II.8",
+      "vi_tri": "Ô số 8",
+      "ghi_chu": "Văn bản điện tử: hình ảnh dấu màu đỏ, kích thước bằng thực tế, định dạng .png nền trong suốt, trùm lên khoảng 1/3 hình ảnh chữ ký số về bên trái."
+    },
+    {
+      "ten": "Nơi nhận",
+      "nguon": "PL I, Phần I, Mục II.9",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Kính gửi (Tờ trình, Báo cáo, Công văn)",
+          "vi_tri": "Ô số 9a",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In thường, đứng",
+          "ghi_chu": "Sau 'Kính gửi' có dấu hai chấm (:). Gửi một nơi: cùng dòng; gửi nhiều nơi: xuống dòng, đầu dòng có gạch đầu dòng (-), cuối dòng có dấu chấm phẩy (;), cuối cùng có dấu chấm (.)."
+        },
+        {
+          "yeu_to": "Nơi nhận (chung)",
+          "vi_tri": "Ô số 9b (ngang hàng với quyền hạn, chức vụ người ký, sát lề trái)",
+          "co_chu": "Từ 'Nơi nhận': 12; danh sách nơi nhận: 11",
+          "kieu_chu": "Từ 'Nơi nhận': in thường, nghiêng, đậm; danh sách: in thường, đứng",
+          "ghi_chu": "Tên mỗi nơi nhận trên một dòng, đầu dòng có gạch đầu dòng (-) sát lề trái, cuối dòng có dấu chấm phẩy (;). Dòng cuối: 'Lưu: VT, [tên đơn vị soạn thảo].'"
+        }
+      ]
+    },
+    {
+      "ten": "Phụ lục (thành phần bổ sung)",
+      "nguon": "PL I, Phần I, Mục III.1",
+      "vi_tri": "Cuối văn bản",
+      "co_chu": "Từ 'Phụ lục': 14; tiêu đề phụ lục: 13-14; thông tin chỉ dẫn: 13-14",
+      "kieu_chu": "Từ 'Phụ lục' + số thứ tự: in thường, đứng, đậm, canh giữa; tiêu đề phụ lục: in hoa, đứng, đậm, canh giữa; thông tin chỉ dẫn: in thường, nghiêng, canh giữa",
+      "ghi_chu": "Số thứ tự phụ lục dùng chữ số La Mã. Số trang của Phụ lục đánh riêng theo từng Phụ lục. Màu đen."
+    },
+    {
+      "ten": "Dấu chỉ độ mật, mức độ khẩn, chỉ dẫn phạm vi lưu hành (bổ sung)",
+      "nguon": "PL I, Phần I, Mục III.2",
+      "cac_yeu_to": [
+        {
+          "yeu_to": "Dấu chỉ độ mật (TUYỆT MẬT / TỐI MẬT / MẬT)",
+          "vi_tri": "Ô số 10a",
+          "ghi_chu": "Theo quy định pháp luật về bảo vệ bí mật nhà nước"
+        },
+        {
+          "yeu_to": "Dấu chỉ mức độ khẩn (HỎA TỐC / THƯỢNG KHẨN / KHẨN)",
+          "vi_tri": "Ô số 10b",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In hoa, đứng, đậm, trong khung hình chữ nhật viền đơn",
+          "ghi_chu": "Kích thước khung: HỎA TỐC 30mm×8mm, THƯỢNG KHẨN 40mm×8mm, KHẨN 20mm×8mm. Mực đỏ tươi. Phông Times New Roman."
+        },
+        {
+          "yeu_to": "Chỉ dẫn phạm vi lưu hành (XEM XONG TRẢ LẠI / LƯU HÀNH NỘI BỘ)",
+          "vi_tri": "Ô số 11",
+          "co_chu": "13 đến 14",
+          "kieu_chu": "In hoa, đứng, đậm, trong khung hình chữ nhật viền đơn",
+          "ghi_chu": "Phông Times New Roman"
+        }
+      ]
+    },
+    {
+      "ten": "Ký hiệu người soạn thảo và số lượng bản phát hành (bổ sung)",
+      "nguon": "PL I, Phần I, Mục III.3",
+      "vi_tri": "Ô số 12",
+      "co_chu": "11",
+      "kieu_chu": "Ký hiệu: in hoa, đứng; số lượng: chữ số Ả Rập, đứng",
+      "ghi_chu": "Ví dụ: PL.(300)"
+    },
+    {
+      "ten": "Địa chỉ cơ quan, tổ chức; thư điện tử; trang thông tin điện tử; số điện thoại; số Fax (bổ sung)",
+      "nguon": "PL I, Phần I, Mục III.4",
+      "vi_tri": "Ô số 13, trang thứ nhất của văn bản",
+      "co_chu": "11 đến 12",
+      "kieu_chu": "In thường, đứng",
+      "ghi_chu": "Dưới một đường kẻ nét liền kéo dài hết chiều ngang vùng trình bày văn bản"
+    }
+  ],
+  "bo_cuc_noi_dung": {
+    "nguon": "PL I, Phần I, Mục II.6.c-đ",
+    "mo_ta": "Tuỳ theo tên loại và nội dung, văn bản có thể có phần căn cứ pháp lý, phần mở đầu và bố cục theo phần, chương, mục, tiểu mục, điều, khoản, điểm; hoặc phân chia thành các phần, mục từ lớn đến nhỏ theo trình tự nhất định.",
+    "cac_cap": [
+      {
+        "cap": "Phần",
+        "so_thu_tu": "Chữ số La Mã",
+        "tu_dinh_dang": "In thường, đứng, đậm, canh giữa, cỡ 13-14",
+        "tieu_de": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+      },
+      {
+        "cap": "Chương",
+        "so_thu_tu": "Chữ số La Mã",
+        "tu_dinh_dang": "In thường, đứng, đậm, canh giữa, cỡ 13-14",
+        "tieu_de": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+      },
+      {
+        "cap": "Mục",
+        "so_thu_tu": "Chữ số Ả Rập",
+        "tu_dinh_dang": "In thường, đứng, đậm, canh giữa, cỡ 13-14",
+        "tieu_de": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+      },
+      {
+        "cap": "Tiểu mục",
+        "so_thu_tu": "Chữ số Ả Rập",
+        "tu_dinh_dang": "In thường, đứng, đậm, canh giữa, cỡ 13-14",
+        "tieu_de": "In hoa, đứng, đậm, canh giữa, cỡ 13-14"
+      },
+      {
+        "cap": "Điều",
+        "so_thu_tu": "Chữ số Ả Rập, sau có dấu chấm (.)",
+        "tu_dinh_dang": "In thường, lùi đầu dòng 1 cm hoặc 1,27 cm, cỡ bằng lời văn, đứng, đậm"
+      },
+      {
+        "cap": "Khoản",
+        "so_thu_tu": "Chữ số Ả Rập, sau có dấu chấm (.)",
+        "tu_dinh_dang": "Cỡ bằng lời văn, đứng. Khoản có tiêu đề: in thường, đậm, dòng riêng."
+      },
+      {
+        "cap": "Điểm",
+        "so_thu_tu": "Chữ cái tiếng Việt (a, b, c...), sau có dấu đóng ngoặc đơn )",
+        "tu_dinh_dang": "In thường, cỡ bằng lời văn, đứng"
+      }
+    ]
+  },
+  "quy_tac_viet_hoa": [
+    {
+      "loai": "Viết hoa vì phép đặt câu",
+      "nguon": "PL II, Mục I",
+      "quy_tac": "Viết hoa chữ cái đầu âm tiết thứ nhất của một câu hoàn chỉnh: Sau dấu chấm câu (.); sau dấu chấm hỏi (?); sau dấu chấm than (!) và khi xuống dòng."
+    },
+    {
+      "loai": "Tên người Việt Nam",
+      "nguon": "PL II, Mục II.1",
+      "quy_tac": "Viết hoa chữ cái đầu tất cả các âm tiết của danh từ riêng chỉ tên người. Ví dụ: Nguyễn Ái Quốc, Trần Phú."
+    },
+    {
+      "loai": "Tên hiệu, tên gọi nhân vật lịch sử",
+      "nguon": "PL II, Mục II.1.b",
+      "quy_tac": "Viết hoa chữ cái đầu tất cả các âm tiết. Ví dụ: Vua Hùng, Bà Triệu, Bác Hồ."
+    },
+    {
+      "loai": "Tên người nước ngoài phiên âm Hán-Việt",
+      "nguon": "PL II, Mục II.2.a",
+      "quy_tac": "Viết theo quy tắc tên người Việt Nam. Ví dụ: Kim Nhật Thành, Mao Trạch Đông."
+    },
+    {
+      "loai": "Tên người nước ngoài phiên âm không sang Hán-Việt",
+      "nguon": "PL II, Mục II.2.b",
+      "quy_tac": "Viết hoa chữ cái đầu âm tiết thứ nhất trong mỗi thành phần. Ví dụ: Vla-đi-mia I-lích Lê-nin."
+    },
+    {
+      "loai": "Tên đơn vị hành chính Việt Nam",
+      "nguon": "PL II, Mục III.1.a",
+      "quy_tac": "Viết hoa chữ cái đầu của các âm tiết tạo thành tên riêng, không dùng gạch nối. Ví dụ: thành phố Thái Nguyên, tỉnh Nam Định."
+    },
+    {
+      "loai": "Tên đơn vị hành chính kết hợp chữ số/tên người/sự kiện",
+      "nguon": "PL II, Mục III.1.b",
+      "quy_tac": "Viết hoa cả danh từ chung chỉ đơn vị hành chính. Ví dụ: Quận 1, Phường Điện Biên Phủ."
+    },
+    {
+      "loai": "Tên địa lý (sông, núi, hồ, biển...) + danh từ riêng một âm tiết",
+      "nguon": "PL II, Mục III.1.d",
+      "quy_tac": "Viết hoa tất cả các chữ cái tạo nên địa danh. Ví dụ: Cửa Lò, Vũng Tàu. Trường hợp danh từ chung chỉ địa hình đi liền với danh từ riêng: không viết hoa danh từ chung. Ví dụ: biển Cửa Lò, sông Vàm Cỏ."
+    },
+    {
+      "loai": "Tên địa lý chỉ vùng miền (phương hướng + phương hướng)",
+      "nguon": "PL II, Mục III.1.đ",
+      "quy_tac": "Viết hoa chữ cái đầu của tất cả các âm tiết. Ví dụ: Tây Bắc, Đông Bắc, Bắc Bộ."
+    },
+    {
+      "loai": "Tên địa lý nước ngoài phiên âm Hán-Việt",
+      "nguon": "PL II, Mục III.2.a",
+      "quy_tac": "Viết theo quy tắc viết hoa tên địa lý Việt Nam. Ví dụ: Bắc Kinh, Bình Nhưỡng."
+    },
+    {
+      "loai": "Tên cơ quan, tổ chức Việt Nam",
+      "nguon": "PL II, Mục IV.1",
+      "quy_tac": "Viết hoa chữ cái đầu của các từ, cụm từ chỉ loại hình cơ quan; chức năng, lĩnh vực hoạt động. Ví dụ: Bộ Tài nguyên và Môi trường, Ủy ban nhân dân thành phố Hà Nội."
+    },
+    {
+      "loai": "Danh từ thuộc trường hợp đặc biệt",
+      "nguon": "PL II, Mục V.1",
+      "quy_tac": "Nhân dân, Nhà nước."
+    },
+    {
+      "loai": "Tên huân chương, huy chương, danh hiệu vinh dự",
+      "nguon": "PL II, Mục V.2",
+      "quy_tac": "Viết hoa chữ cái đầu của các âm tiết tạo thành tên riêng và các từ chỉ thứ, hạng. Ví dụ: Huân chương Sao vàng, Nghệ sĩ Nhân dân."
+    },
+    {
+      "loai": "Tên chức vụ, học vị, danh hiệu đi liền với tên người",
+      "nguon": "PL II, Mục V.3",
+      "quy_tac": "Viết hoa tên chức vụ, học vị nếu đi liền với tên người cụ thể. Ví dụ: Chủ tịch Quốc hội, Thủ tướng Chính phủ, Giáo sư Tôn Thất Tùng."
+    },
+    {
+      "loai": "Danh từ chung đã riêng hóa",
+      "nguon": "PL II, Mục V.4",
+      "quy_tac": "Viết hoa chữ cái đầu khi dùng trong nhân xưng, đứng độc lập, thể hiện sự trân trọng. Ví dụ: Bác, Người (chỉ Chủ tịch Hồ Chí Minh), Đảng."
+    },
+    {
+      "loai": "Tên các ngày lễ, ngày kỷ niệm",
+      "nguon": "PL II, Mục V.5",
+      "quy_tac": "Viết hoa chữ cái đầu của âm tiết tạo thành tên gọi. Ví dụ: ngày Quốc khánh 2-9, ngày Quốc tế Lao động 1-5."
+    },
+    {
+      "loai": "Tên các loại văn bản",
+      "nguon": "PL II, Mục V.6",
+      "quy_tac": "Viết hoa chữ cái đầu của tên loại văn bản và chữ cái đầu của âm tiết thứ nhất tạo thành tên gọi khi nói đến một văn bản cụ thể. Ví dụ: Bộ luật Hình sự, Luật Tổ chức Quốc hội."
+    },
+    {
+      "loai": "Viện dẫn phần, chương, mục, tiểu mục, điều, khoản, điểm",
+      "nguon": "PL II, Mục V.7",
+      "quy_tac": "Viết hoa chữ cái đầu của phần, chương, mục, tiểu mục, điều khi viện dẫn cụ thể."
+    },
+    {
+      "loai": "Tên các năm âm lịch, ngày tết, ngày và tháng",
+      "nguon": "PL II, Mục V.8",
+      "quy_tac": "Năm âm lịch: viết hoa chữ cái đầu tất cả âm tiết (ví dụ: Kỷ Tỵ). Ngày tết: viết hoa âm tiết thứ nhất (ví dụ: tết Nguyên đán). Ngày/tháng không dùng chữ số: viết hoa âm tiết chỉ ngày/tháng (ví dụ: thứ Hai, tháng Năm)."
+    },
+    {
+      "loai": "Tên các sự kiện lịch sử và triều đại",
+      "nguon": "PL II, Mục V.9",
+      "quy_tac": "Viết hoa chữ cái đầu của các âm tiết tạo thành sự kiện và tên sự kiện. Ví dụ: Triều Lý, Cách mạng tháng Tám."
+    },
+    {
+      "loai": "Tên tác phẩm, sách báo, tạp chí",
+      "nguon": "PL II, Mục V.10",
+      "quy_tac": "Viết hoa chữ cái đầu của âm tiết thứ nhất tạo thành tên. Ví dụ: từ điển Bách khoa toàn thư, tạp chí Cộng sản."
+    },
+    {
+      "loai": "Thủ đô và Thành phố Hồ Chí Minh (đặc biệt)",
+      "nguon": "PL II, Mục III.1.c",
+      "quy_tac": "Thủ đô Hà Nội, Thành phố Hồ Chí Minh."
+    }
+  ],
+  "chu_viet_tat_ten_loai": {
+    "nguon": "PL III, Mục I",
+    "van_ban_hanh_chinh": {
+      "Nghị quyết (cá biệt)": "NQ",
+      "Quyết định (cá biệt)": "QĐ",
+      "Chỉ thị": "CT",
+      "Quy chế": "QC",
+      "Quy định": "QyĐ",
+      "Thông cáo": "TC",
+      "Thông báo": "TB",
+      "Hướng dẫn": "HD",
+      "Chương trình": "CTr",
+      "Kế hoạch": "KH",
+      "Phương án": "PA",
+      "Đề án": "ĐA",
+      "Dự án": "DA",
+      "Báo cáo": "BC",
+      "Biên bản": "BB",
+      "Tờ trình": "TTr",
+      "Hợp đồng": "HĐ",
+      "Công điện": "CĐ",
+      "Bản ghi nhớ": "BGN",
+      "Bản thỏa thuận": "BTT",
+      "Giấy uỷ quyền": "GUQ",
+      "Giấy mời": "GM",
+      "Giấy giới thiệu": "GGT",
+      "Giấy nghỉ phép": "GNP",
+      "Phiếu gửi": "PG",
+      "Phiếu chuyển": "PC",
+      "Phiếu báo": "PB"
+    },
+    "ban_sao_van_ban": {
+      "Bản sao y": "SY",
+      "Bản trích sao": "TrS",
+      "Bản sao lục": "SL"
+    }
+  }
+}

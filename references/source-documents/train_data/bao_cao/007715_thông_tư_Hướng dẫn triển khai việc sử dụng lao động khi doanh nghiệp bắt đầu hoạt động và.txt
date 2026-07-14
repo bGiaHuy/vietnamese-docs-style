@@ -1,0 +1,76 @@
+# Hướng dẫn triển khai việc sử dụng lao động khi doanh nghiệp bắt đầu hoạt động và báo cáo việc chấm dứt sử dụng lao động khi doanh nghiệp chấm dứt hoạt động.
+# Loại: Thông tư
+# Số hiệu: 06/1998/TT-BLĐTBXH
+# Ngày ban hành: 15/04/1998
+# Cơ quan: Bộ Lao động - Thương binh và Xã hội
+# Người ký: Nguyễn Lương Trào
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Về việc thực hiện giao dịch SWAP giữa Ngân hàng Nhà nước và các ngân hàng thương mại
+
+THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC
+
+- Căn cứ Pháp lệnh Ngân hàng Nhà nước công bố theo Lệnh số 37/LCT-HĐNN8 ngày 24/5/1990.
+
+- Căn cứ Nghị định 15/CP ngày 2/3/1993 của Chính phủ về nhiệm vụ, quyền hạn và trách nhiệm quản lý nhà nước của bộ, cơ quan ngang bộ.
+
+- Căn cứ Quy chế tổ chức và hoạt động của Thị trường Ngoại tệ liên ngân hàng ban hành theo Quyết định số 203-QĐ/NH13 ngày 20 tháng 9 năm 1994 của Thống đốc Ngân hàng Nhà nước.
+
+- Theo đề nghị của Vụ trưởng Vụ Quản lý Ngoại hối, Vụ trưởng Vụ Nghiên cứu kinh tế, Giám đốc Sở giao dịch Ngân hàng Nhà nước.
+
+QUYẾT ĐỊNH
+
+Điều 1. - Ngân hàng Nhà nước thực hiện giao dịch SWAP đôla Mỹ/ Đồng Việt Nam (và các loại ngoại tệ khác khi điều kiện cho phép) cho các kỳ hạn 2 tuần, 1 tháng, 2 tháng và 3 tháng với các ngân hàng thương mại là thành viên Thị trường ngoại tệ liên ngân hàng. Số ngày quy ước làm cơ sở tính toán tỷ lệ SWAP của một tháng là 30 ngày, của một năm là 360 ngày.
+
+Điều 2. - Tỷ giá áp dụng cho các giao dịch SWAP do Sở giao dịch Ngân hàng Nhà nước thông báo hàng ngày và được tính trên cơ sở:
+
+- Tỷ giá bán ngoại tệ cho Ngân hàng Nhà nước là tỷ giá mua giao ngay của Ngân hàng Nhà nước tại ngày ký hợp đồng.
+
+- Tỷ giá mua lại ngoại tệ từ Ngân hàng Nhà nước là tỷ giá được tính trên cơ sở tỷ giá giao ngay nêu trên và chênh lệch giữa lãi xuất cho vay tái cấp vốn Đồng Việt Nam của Ngân hàng Nhà nước áp dụng với các Ngân hàng thương mại và lãi xuất Libor Đôla Mỹ cùng kỳ hạn của ngày làm việc trước ngày ký hợp đồng,
+
+Điều 3. - Công thức tính tỷ lệ SWAP và điểm SWAP như sau:
+
+- Tỷ giá SWAP = Tỷ giá giao ngay + Điểm SWAP
+
+(LSTCV ĐVN - LIBOR Đôla Mỹ) x SNHĐ
+
+
+
+- Điểm SWAP = TGGN x
+
+
+
+360
+
+Trong đó: TGGN = Tỷ giá giao ngay
+
+LSTCV ĐVN = Lãi suất tái cấp vốn Đồng Việt Nam
+
+SNHĐ = Số ngày Hợp đồng
+
+Điều 4. - Quyết định này có hiệu lực thi hành kể từ ngày 25 tháng 12 năm 1997.
+
+Điều 5. - Chủ tịch thị trường ngoại tệ liên ngân hàng, Chánh văn phòng Thống đốc, Vụ trưởng Vụ kế toán Tài chính, Giám đốc Sở giao dịch ngân hàng Nhà nước, Vụ trưởng Vụ quản lý ngoại hối, Thủ trưởng các đơn vị có liên quan ở Ngân hàng Trung ương, Giám đốc chi nhánh Ngân hàng Nhà nước tỉnh, thành phố, Tổng giám đốc, (Giám đốc) các ngân hàng thương mại là thành viên thị trường ngoại tệ liên ngân hàng có trách nhiệm thi hành quyết định này. Vụ trưởng Vụ Kế toán tài chính có trách nhiệm hướng dẫn hạch toán nghiệp vụ này.
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+# Công văn về việc "Thuế đối với nhà thầu nước ngoài"
+# Loại: Công văn
+# Số hiệu: 4082-TC/TCT
+# Ngày ban hành: 14/11/1997
+# Cơ quan: Bộ Tài chính
+# Người ký: Vũ Mộng Giao
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng
+
+_________________________________
+
+Căn cứ Nghị định số 62/2013/NĐ-CP ngày 25/06/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;
+
+Căn cứ Nghị định số 32/2015/NĐ-CP ngày 25/3/2015 của Chính phủ về quản ỉý chi phí đầu  tư  xây dựng công trình;
+
+Xét đề nghị của Vụ trưởng Vụ Kinh tế xây dựng và Viện trưởng Viện Kinh tế xây dựng;
+
+Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng.
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này hướng dẫn xác định đơn giá nhân công để quản lý chi phí đầu tư xây dựng công trình bao gồm: tổng mức đầu tư, dự toán xây dựng, dự toán gói thầu, giá xây dựng, giá hợp đồng, chỉ số giá xây dựng.
+
+Điều 2. Đối tượng áp dụng
+
+1.    Các cơ quan, tổ chức, cá nhân có liên quan đến quản lý chi phí đầu tư xây dựng của các dự án đầu tư xây dựng sử dụng vốn ngân sách nhà nước, vốn nhà nước ngoài ngân sách và các dự án đầu tư theo hình thức đối tác công tư (PPP) áp dụng các quy định của Thông tư này.
+
+2.    Khuyến khích các cơ quan, tổ chức, cá nhân có liên quan đến việc quản lý chi phí đầu tư xây dựng sử dụng các nguồn vốn khác áp dụng các quy định của Thông tư này.
+
+Điều 3. Nguyên tắc xác định và điều chỉnh đơn giá nhân công
+
+1. Đơn giá nhân công xác định theo hướng dẫn tại Thông tư này đảm bảo các nguyên tắc sau:
+
+a)    Phù hợp vói trình độ tay nghề theo cấp bậc nhân công trong hệ thống định mức dự toán xây dựng công trình.
+
+b)    Phù họp với mặt bằng giá nhân công xây dựng (đã bao gồm các yếu tố bù đắp lương do điều kiện sinh hoạt) trên thị trường lao động của từng địa phương, nhưng không thấp hơn mức lương tối thiểu vùng do Chính phủ quy định.
+
+c)   Phù hợp với đặc điểm, tính chất công việc của nhân công xây dựng.
+
+d)     Đáp ứng yêu cầu chi trả một số khoản chi phí thuộc trách nhiệm của người lao động phải trả theo quy định (bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp).
+
+2. Đơn giá nhân công xây dựng được điều chỉnh khi mặt bằng giá nhân công xây dựng trên thị trường lao động có sự biến động.
+
+Điều 4. Xác định đơn giá nhân công
+
+Đơn giá nhân công của công nhân trực tiếp sản xuất xây dựng được xác định theo công thức sau:
+
+
+
+
+
+GNC=LNC x HCB x 1/t
+
+
+
+
+
+Trong đó:
+
+- GNC: đơn giá nhân công tính cho một ngày công theo cấp bậc của công nhân trực tiếp sản xuất xây dựng,
+
+- LNC: mức lương cơ sở đầu vào theo tháng để xác định đơn giá nhân công cho một ngày công theo cấp bậc của công nhân trực tiếp sản xuất xây dựng, đã bao gồm các khoản phụ cấp lương theo đặc điểm, tính chất của sản xuất xây dựng và đã tính đến các yếu tố thị trường, và các khoản bảo hiểm người lao động phải trả theo quy định (bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp). Mức lương cơ sở đầu vào công bố tại Bảng số 1 Phụ lục số 1 của Thông tư này để tham khảo.
+
+- HCB: hệ số lương theo cấp bậc của nhân công trực tiếp sản xuất xây dựng công bố tại Phụ lục 2 kèm theo Thông tư này.
+
+- t: 26 ngày làm việc trong tháng.
+
+Điều 5. Tổ chức thực hiện
+
+1.   Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương căn cứ hướng dẫn của Thông tư này chỉ đạo Sở Xây dựng chủ trì phối hợp với các cơ quan có liên quan điều tra, khảo sát, xác định và công bố đơn giá nhân công xây dựng làm cơ sở lập, quản lý chi phí đầu tư xây dựng trên địa bàn.
+
+2.    Trường hợp mặt bằng đơn giá nhân công xây dựng trên thị trường của địa phương lớn hơn đơn giá nhân công xác định trên cơ sở mức lương cơ sở đầu vào ở mức cao nhất công bố tại Phụ lục số 1 nhân với hệ số cấp bậc của Phụ lục số 2 của Thông tư này chia 26 ngày thì Ủy ban nhân dân tỉnh, Thành phố trực thuộc Trung ương thống nhất với Bộ Xây dựng trước khi công bố.
+
+3. Mức lương cơ sở đầu vào (LNC) công bố tại Phụ lục 1 của Thông tư này sẽ được Bộ Xây dựng công bố điều chỉnh khi mặt bằng giá nhân công xây dựng trên thị trường biến động trên 10%.
+
+Điều 6. Xử lý chuyển tiếp
+
+1.    Đơn giá nhân công trong tổng mức đầu tư xây dựng, dự toán xây dựng đã được phê duyệt trước thời điểm có hiệu lực của Thông tư thì người quyết định đầu tư quyết định việc áp dụng theo quy định của Thông tư. Các gói thầu đã ký hợp đồng xây dựng trước thời điểm có hiệu lực của Thông tư thì thực hiện theo nội dung hợp đồng đã ký kết.
+
+2.   Đối với một số dự án đầu tư xây dựng đang áp dụng mức lương và một số khoản phụ cấp có tính đặc thù riêng do cơ quan có thẩm quyền cho phép thì tiếp tục thực hiện cho đến khi kết thúc đầu tư xây dựng đưa dự án vào khai thác sử dụng.
+
+Điều 7. Hiệu lực thi hành
+
+1.    Thông tư này có hiệu lực kể từ ngày 01/5/2016 và thay thế Thông tư số 01/2015/TT-BXD ngày 20/3/2015 của Bộ Xây dựng hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng.
+
+2.    Trong quá trình thực hiện nếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Xây dựng để xem xét giải quyết./.
+
+
+
+
+
+
+

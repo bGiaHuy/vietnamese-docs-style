@@ -1,0 +1,156 @@
+# Về việc giải thể Ban Nghiên cứu và Tổ nghiên cứu về kinh tế đối ngoại của Thủ tướng Chính phủ
+# Loại: Quyết định
+# Số hiệu: 1008/QĐ-TTg
+# Ngày ban hành: 28/07/2006
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Tấn Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG
+
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Về việc ban hành Quy chế Tổ chức và Hoạt động của Ban chỉ đạo
+
+Dự án tổng thể  "Ứng dụng và phát triển phần mềm nguồn mở
+
+ở Việt Nam giai đoạn 2004 -2008”
+
+BỘ TRƯỞNG
+
+BỘ KHOA HỌC VÀ CÔNG NGHỆ
+
+Căn cứ Nghị định số 54/2003/NĐ-CP ngày 19 tháng 05 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ và Nghị định số 28/2004/NĐ-CP ngày 16 tháng 01 năm 2004 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 54/2003/NĐ-CP;
+
+Căn cứ Quyết định số 235/QĐ-TTg ngày 02 tháng 03 năm 2004 của Thủ tướng Chính phủ phê duyệt Dự án tổng thể Ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam giai đoạn 2004-2008;
+
+Căn cứ Quyết định số 709/QĐ-BKHCN ngày 12 tháng 5 năm 2003 của Bộ trưởng Bộ Khoa học và Công nghệ về việc thành lập Ban chỉ đạo Dự án tổng thể “Ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam giai đoạn 2004 - 2008";
+
+Xét đề nghị của các ông Vụ trưởng Vụ Tổ chức cán bộ và Chánh Văn phòng chương trình Kỹ thuật - Kinh tế về Công nghệ thông tin,
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế Tổ chức và Hoạt động của Ban chỉ đạo Dự án tổng thể “Ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam giai đoạn 2004 - 2008”.
+
+Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày đăng công báo.
+
+Điều 3. Các ông Vụ trưởng Vụ Tổ chức cán bộ, Chánh văn phòng chương trình Kỹ thuật - Kinh tế về Công nghệ thông tin, thành viên Ban chỉ đạo và Thủ trưởng các đơn vị liên quan có trách nhiệm thi hành Quyết định này./.
+
+
+
+QUY CHẾ
+
+Tổ chức và hoạt động của Ban chỉ đạo Dự án tổng thể “Ứng dụng và phát triển
+
+phần mềm nguồn mở ở Việt Nam giai đoạn 2004 – 2008”
+
+(Ban hành kèm theo Quyết định số 26/2004/QĐ-BKHCN
+
+Ngày  06 tháng  9 năm 2004 của Bộ trưởng Bộ Khoa học và Công nghệ)
+
+CHƯƠNG I
+
+NHŨNG QUY ĐỊNH CHUNG
+
+Điều 1. Ban chỉ đạo Dự án tổng thể “Ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam giai đoạn 2004 - 2008” được thành lập theo Quyết định số 709/QĐ-BKHCN ngày 12 tháng 05 năm 2004 của Bộ trưởng Bộ Khoa học và Công nghệ (gọi tắt là Ban chỉ đạo phần mềm nguồn mở).
+
+Điều 2. Ban chỉ đạo phần mềm nguồn mở hoạt động dưới hình thức kiêm nhiệm. Ban chỉ đạo phần mềm nguồn mở có Bộ phận giúp việc Ban chỉ đạo.
+
+CHƯƠNG II
+
+CHỨC NĂNG VÀ NHIỆM VỤ
+
+Điều 3. Chức năng và nhiệm vụ của Ban chỉ đạo phần mềm nguồn mở:
+
+Ban chỉ đạo phần mềm nguồn mở có nhiệm vụ giúp Bộ trưởng Bộ Khoa học và Công nghệ:
+
+1. Chỉ đạo thực hiện Dự án tổng thể “Ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam giai đoạn 2004 - 2008” được Thủ tướng Chính phủ phê duyệt tại Quyết định số 235/QĐ-TTg ngày 02 tháng 03 năm 2004;
+
+2. Tổng hợp nội dung, dự toán kinh phí cho các tiểu dự án và các nhiệm vụ của các Bộ, ngành và địa phương báo cáo Bộ trưởng để Bộ Khoa học và Công nghệ trình các cấp có thẩm quyền xem xét, phê duyệt. Huy động các nguồn lực cho việc triển khai thực hiện Dự án;
+
+3. Đề xuất các cơ chế, chính sách và biện pháp quản lý để triển khai có hiệu quả việc ứng dụng và phát triển phần mềm nguồn mở ở Việt Nam;
+
+4. Đôn đốc, kiểm tra, hướng dẫn các Bộ, ngành và địa phương triển khai thực hiện ứng dụng và phát triển phần mềm nguồn mở ở đơn vị mình;
+
+5. Tổng hợp báo cáo tình hình, đánh giá kết quả thực hiện và kiến nghị các biện pháp cần thiết để đảm bảo thực hiện có hiệu quả Dự án.
+
+CHƯƠNG III
+
+NGUYÊN TẮC HOẠT ĐỘNG VÀ PHÂN CÔNG TRÁCH NHIỆM
+
+Điều 4. Nguyên tắc hoạt động:
+
+Ban chỉ đạo phần mềm nguồn mở họp toàn thể ít nhất mỗi quý một lần. Ngoài ra, tuỳ theo yêu cầu công tác sẽ tổ chức các cuộc họp bất thường khi cần thiết để thảo luận thông qua những chủ trương và biện pháp nhằm chỉ đạo thực hiện các nhiệm vụ quy định tại Điều 4 của Qui chế này.
+
+Trong trường hợp cần thiết, Văn phòng chương trình Kỹ thuật – Kinh tế về Công nghệ thông tin trình Thứ trưởng - Trưởng Ban chỉ đạo thành lập hội đồng tư vấn, tổ công tác chuyên môn hoặc thuê tư vấn phục vụ công tác thẩm định, đánh giá, đề xuất phương án, giải pháp trong quá trình triển khai thực hiện.
+
+Trong các phiên họp của Ban chỉ đạo, các vấn đề được đưa ra thảo luận, bàn bạc tập thể, sau đó Trưởng Ban chỉ đạo kết luận và báo cáo Bộ trưởng các kết quả thảo luận.
+
+Việc xem xét nội dung, dự toán kinh phí cho các tiểu dự án và kế hoạch của các Bộ, ngành và địa phương được thực hiện trên cơ sở đề xuất của các đơn vị chủ trì, Ban chỉ đạo sẽ xem xét, quyết định và trong trường hợp cần thiết có thể thành lập hội đồng tư vấn.
+
+Trong quá trình triển khai nếu có vấn đề nảy sinh, Ban chỉ đạo có thể tổ chức thực hiện các hoạt động điều tra, nghiên cứu, phân tích và đánh giá để đưa ra các quyết định nhằm giải quyết các vấn đề này.
+
+Điều 5. Phân công trách nhiệm:
+
+1. Trưởng Ban chỉ đạo có trách nhiệm:
+
+Chịu trách nhiệm trước Bộ trưởng Bộ Khoa học và Công nghệ về việc thực hiện các nhiệm vụ của Ban chỉ đạo phần mềm nguồn mở và báo cáo Bộ trưởng về hoạt động của Ban chỉ đạo;
+
+Phân công nhiệm vụ cho các thành viên Ban chỉ đạo phần mềm nguồn mở;
+
+Chỉ đạo, điều hành việc triển khai các kế hoạch hoạt động của Ban chỉ đạo phần mềm nguồn mở.
+
+Chủ trì các phiên họp của Ban chỉ đạo phần mềm nguồn mở.
+
+2. Phó trưởng Ban chỉ đạo:
+
+Giúp Trưởng ban chỉ đạo phần mềm nguồn mở trong việc chỉ đạo, điều hành việc triển khai kế hoạch hoạt động của Ban chỉ đạo phần mềm nguồn mở;
+
+Thay mặt Trưởng Ban chỉ đạo phần mềm nguồn mở điều hành công việc khi được Trưởng Ban chỉ đạo uỷ quyền;
+
+Trực tiếp chỉ đạo Bộ phận giúp việc Ban chỉ đạo phần mềm nguồn mở.
+
+3. Các thành viên Ban chỉ đạo phần mềm nguồn mở có trách nhiệm:
+
+Giúp Trưởng Ban chỉ đạo trong việc điều phối, triển khai các kế hoạch theo sự phân công của Trưởng Ban chỉ đạo;
+
+Trực tiếp chỉ đạo điều hành, kiểm tra đôn đốc các hoạt động liên quan đến phần công việc được phân công phụ trách và đề xuất các biện pháp thực hiện;
+
+Thay mặt Trưởng Ban chỉ đạo trong một số công việc khi được Trưởng Ban chỉ đạo uỷ quyền;
+
+Tham dự đầy đủ và báo cáo phần công việc được phân công phụ trách tại các phiên họp của Ban chỉ đạo phần mềm nguồn mở. Tham gia ý kiến về những vấn đề đưa ra thảo luận tại các phiên họp của Ban chỉ đạo phần mềm nguồn mở và các vấn đề do Trưởng ban chỉ đạo phần mềm nguồn mở đề xuất;
+
+Lưu giữ và bảo quản các tài liệu của Ban chỉ đạo theo quy định hiện hành.
+
+Điều 6. Bộ phận giúp việc:
+
+Ban chỉ đạo phần mềm nguồn mở có Bộ phận giúp việc. Bộ phận giúp việc có nhiệm vụ chuẩn bị và tổ chức các hoạt động của Ban chỉ đạo. Chức năng nhiệm vụ cụ thể của Bộ phận giúp việc do Bộ trưởng Bộ Khoa học và Công nghệ quy định.
+
+Điều 7. Kinh phí hoạt động của Ban chỉ đạo phần mềm nguồn mở được cân đối trong dự toán chi Ngân sách Nhà nước hàng năm của Bộ Khoa học và Công nghệ giao cho Văn phòng chương trình Kỹ thuật – Kinh tế về Công nghệ thông tin.
+
+
+
+CHƯƠNG IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 8. Vụ trưởng Vụ Tổ chức cán bộ cùng Chánh Văn phòng chương trình Kỹ thuật – Kinh tế về Công nghệ thông tin tổ chức thực hiện Quy chế này. Việc bổ sung, sửa đổi Quy chế này do Bộ trưởng Bộ Khoa học và Công nghệ xem xét quyết định theo đề nghị của Chánh Văn phòng chương trình Kỹ thuật – Kinh tế về Công nghệ thông tin và Vụ trưởng Vụ Tổ chức cán bộ./.
+
+
+
+
+
+
+
+
+
+

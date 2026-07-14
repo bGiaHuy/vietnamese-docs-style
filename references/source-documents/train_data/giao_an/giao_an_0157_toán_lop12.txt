@@ -1,0 +1,75 @@
+GIÁO ÁN TOÁN - LỚP 12
+Bài: Phương trình bậc hai
+Thời lượng: 2 tiết
+Ngày soạn: 2026-02-03
+
+I. MỤC TIÊU
+1. Kiến thức:
+  - Học sinh trình bày được ý nghĩa về phương trình bậc hai.
+  - Học sinh vận dụng được đặc điểm về phương trình bậc hai.
+2. Năng lực:
+  - Năng lực công nghệ
+  - Năng lực thể chất
+3. Phẩm chất:
+  - Trách nhiệm
+  - Yêu nước
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. Giáo viên: SGK, SGV, giáo án, máy chiếu, bảng phụ, phiếu học tập.
+2. Học sinh: SGK, vở ghi, đồ dùng học tập.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+Hoạt động 1: Khởi động (5 phút)
+a) Mục tiêu: Học sinh nắm bắt kiến thức về Phương trình bậc hai.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 2: Hình thành kiến thức (5 phút)
+a) Mục tiêu: Học sinh mở rộng kiến thức về Phương trình bậc hai.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 3: Luyện tập (18 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Phương trình bậc hai.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS đọc SGK và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 4: Vận dụng (12 phút)
+a) Mục tiêu: Học sinh nắm bắt kiến thức về Phương trình bậc hai.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, bài tập nhóm.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 5: Mở rộng (22 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Phương trình bậc hai.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS đọc SGK và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+IV. RÚT KINH NGHIỆM
+  ...
+Nguồn: Tài liệu tập huấn giáo viên Toán lớp 12 - Bộ GD&ĐT

@@ -1,0 +1,75 @@
+# Công văn đính chính Thông tư số 51/2004/TT-BTC ngày 9/6/2004 của Bộ Tài chính
+# Loại: Công văn
+# Số hiệu: 6616 TC/NSNN
+# Ngày ban hành: 16/06/2004
+# Cơ quan: Bộ Tài chính
+# Người ký: Trần Văn Tá
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+CHỈ THỊ
+
+Về việc quản lý quy hoạch và đầu tư phát triển cơ sở hạ tầng viễn thông
+
+tại thành phố, thị xã, thị trấn và khu đô thị trên địa bàn tỉnh Bà Ria - Vũng Tàu
+
+____________________________________________
+
+
+
+Trong quá trình quản lý và thực hiện chỉnh trang đô thị, việc cải tạo và xây dựng ngầm hóa mạng cáp viễn thông; xây dựng các trụ ăng ten thu, phát  sóng di động (BTS), phát thanh, truyền hình tại thành phố, thị xã, các thị trấn và các khu đô thị mới (gọi chung là đô thị) trên địa bàn tỉnh rất quan trọng và cần thiết nhằm đảng bảo an toàn, an ninh thông tin và mỹ quan đô thị.
+
+Thời gian qua, nhiều doanh nghiệp viễn thông đã tiến hành đầu tư xây dựng phát triển mạng lưới, thi công mạng cáp, xây dựng các BTS trong các khu đô thị không tuân thủ các quy định về quy hoạch; không xin phép xây dựng, tự ý kéo cáp băng ngang các trực lộ giao thông; gắn cáp trên các trụ điện trung thế ảnh hưởng đến an toàn điện; an toàn tĩnh không; an toàn phát xạ, bức xạ; an toàn chống sét, tiếp đất; an toàn mạng viễn thông và mỹ quan đô thị.
+
+Thực hiện Nghị định số 41/2007/NĐ-CP ngày 22 tháng 3 năm 2007 của Chính phủ về xây dựng ngầm đô thị; Quyết định số 31/2006/QĐ-BBCVT ngày 06 tháng 9 năm 2006 về kiểm định kỹ thuật công trình chuyên ngành viễn thông và Quyết định số 32/2006/QĐ-BBCVT ngày 06 tháng 9 năm 2006 vê ban hành danh mục công trình viễn thông bắt buộc kiểm định của Bộ trưởng Bộ Bưu chính - Viễn thông (nay là Bộ Thông tin và Truyền thông); tăng cường quản lý việc quy hoạch, đầu tư và phát triển hạ tầng viễn thông trên địa bàn toàn tỉnh đáp ứng yêu cầu quản lý đô thị trong thời kỳ mới, Ủy ban nhân dân tỉnh chỉ thị:
+
+I. Đối với các cơ quan quản lý:
+
+1. Ủy ban nhân dân các huyện, thị, thành phố quản lý chặt chẽ việc đầu tư phát triển hệ thông cơ sở hạ tầng viễn thông trên địa bàn, nhất là đối với việc đầu tư xây dựng các trạm thu, phát sóng di động và thi công mạng cáp. Tăng cường kiểm tra, giám sát, xử lý hành chính và đình chỉ các công trình phát triển mạng viễn thông không đảm bảo các quy định về đầu tư xây dựng và quy định chuyên ngành về viễn thông.
+
+2. Các sở, ban, ngành kịp thời thông tin về quy hoạch, kế hoạch phát triển ngành, lĩnh vực, các dự án đầu tư xây dựng và kế hoạch giải tỏa, di dời .. ở đô thị cho các doanh nghiệp viễn thông biết.
+
+Các cơ quan quản lý chuyên ngành khi thẩm định dự án đầu tư đáp ứng yêu cầu phát triển kinh tế - xã hội, an ninh quốc phòng của tỉnh của các ngành, các doanh nghiệp, phải bảo đảm tính đồng bộ giữa các công trình của các ngành và lĩnh vực, chống lãng phí trong đầu tư; đồng thời tạo điều kiện thuận lợi cho các doanh nghiệp thuộc các thành phần kinh tế tham gia xây dựng cơ sở hạ tầng viễn thông thông các đô thị.
+
+3. Các cơ quan chuyên môn, các địa phương khi lập quy hoạch xây dựng, quy hoạch phát triển đô thị, quy hoạch phát triển cơ sở hạ tầng viễn thông, truyền hình cáp... ở các đô thị cần đưa ra tiêu chí về xây dựng ngầm các hệ thống cáp.
+
+4. Giao Sở Bưu chính - Viễn thông chủ trì, phối hợp với các Sở: Xây dựng, Công nghiệp, Giao thông vận tải; Ủy ban nhân dân các huyện, thị xã, thành phố và các ngành liên quan kiểm tra việc đầu tư xây dựng, khai thác các trạm BTS trên địa bàn; kiểm tra các tuyến cáp treo, cáp ngầm hiện hữu báo cáo đề xuất Ủy ban nhân dân tỉnh.
+
+II. Đối với các doanh nghiệp:
+
+1. Các doanh nghiệp viễn thông (hoặc chủ đầu tư) phải thực hiện dự án đầu tư theo quy hoạch được duyệt. Khi đầu tư xây dựng các trạm BTS phải xin phép xây dựng theo quy định hiện hành và chỉ được phép đưa vào sử dụng trạm BTS sau khi được Cục quản lý Chất lượng Bưu chính - Viễn thông và Công nghệ Thông tin thuộc Bộ Thông tin và Truyền thông cáp Giấy chứng nhận kiểm định công trình viễn thông.
+
+Đối với các trạm BTS đầu tư trước ngày 01 tháng 01 năm 2007, nhưng chưa kiểm định, phải có báo cáo với Ủy ban nhân dân tỉnh về lý do chưa kiểm định và lập kế hoạch kiểm định.
+
+2. Khi đầu tư phát triển mạng lưới viễn thông (cáp viễn thông, cáp quang, cáp truyền hình) tại các tuyến đường chính ở đô thị, các khu dân cư và khu đô thị mới phải thực hiện xây dựng ngầm mạng cáp; từng bước đầu tư mạng lưới viễn thông ngầm trong các khu đô thị, khu công nghiệp và cụm công nghiệp. Trong quá trình triển khai thực hiện dự án đầu tư, chủ đầu tư và đơn vị thi công phải phối hợp chặt chẽ với các ngành, địa phương và phải đảm bảo nguyên tắc an toàn trong thi công và mỹ quan đô thị.
+
+Đối với các dự án viễn thông triển khai thực hiện ở đô thị nhưng chưa thể xây dựng ngầm với lý do khách quan, phải được Ủy ban nhân dân tỉnh chấp thuận bằng văn bản.
+
+3. Đối với các mạng cáp viễn thông treo đang hiện hữu, các doanh nghiệp phải lập kế hoạch đầu tư xây dựng ngầm hóa, thông qua Sở Bưu chính - Viễn thông thẩm định, trình Ủy ban nhân dân tỉnh trong quý I năm 2008; phấn đấu đến năm 2010, tỷ lệ ngầm hóa mạng viễn thông trong các đô thị của tỉnh đạt 90%. Trong thời gian chưa thể thực hiện ngầm hóa, các chủ đầu tư cần quan tâm cải tạo, nâng cấp nhằm đảm bảo an toàn và nâng cao mỹ quan đô thị.
+
+4. Khi thi công các công trình xây dựng ngầm hoặc cải tạo hệ thống mạng cáp viễn thông, chủ đầu tư và đơn vị thi công phối hợp chặt chẽ, đồng bộ với các đơn vị quản lý cơ sở hạ tầng kỹ thuật nhằm bảo đảm các điều kiện về an toàn, tiến độ thi công, tránh tình trạng thi công kéo dài, ảnh hưởng đến đời sống, sinh hoạt của nhân dân và sản xuất, kinh doanh của doanh nghiệp.
+
+5. Các doanh nghiệp viễn thông báo cáo kế hoạch phát triển hạ tầng viễn thông về Sở Bưu chính - viễn thông theo định kỳ 6 tháng một lần (tháng 01 và tháng 06 hàng năm), để Sở Bưu chính - Viễn thông tổng hợp và tham mưu cho Ủy ban nhân dân tỉnh về quy hoạch phát triển hạ tầng viễn thông trên địa bàn tỉnh.
+
+Yêu cầu Giám đốc các sở, Thủ trưởng các ngành, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố và các cơ quan, đơn vị có liên quan triển khai tổ chức thực hiện Chỉ thị này.
+
+Chỉ thị này có hiệu lực sau 10 ngày, kể từ ngày ký./.
+
+
+
+
+
+
+
+
+

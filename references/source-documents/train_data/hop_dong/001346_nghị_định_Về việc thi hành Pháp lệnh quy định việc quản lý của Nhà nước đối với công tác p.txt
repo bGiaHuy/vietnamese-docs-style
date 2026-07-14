@@ -1,0 +1,301 @@
+# Về việc thi hành Pháp lệnh quy định việc quản lý của Nhà nước đối với công tác phòng cháy và chữa cháy
+# Loại: Nghị định
+# Số hiệu: 220-CP
+# Ngày ban hành: 28/12/1961
+# Cơ quan: Hội đồng Chính phủ
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+CỦA BỘ TÀI CHÍNH SỐ 27-TC/CĐKT NGÀY 29-5-1985 HƯỚNG DẪN
+
+KẾ TOÁN KẾT QUẢ TỔNG KIỂM KÊ VÀ ĐÁNH GIÁ LẠI TÀI SẢN
+
+CỐ ĐỊNH 0 GIỜ NGÀY 1 THÁNG 10 NĂM 1985
+
+Thực hiện Quyết định số 157-HĐBT ngày 16-12-1983 và Quyết định số 125-HĐBT ngày 23-4-1985 của Hội đồng Bộ trưởng về tổng kiểm kê và đánh giá lại tài sản cố định ở các đơn vị xí nghiệp sản xuất kinh doanh vào 0 giờ ngày 1-10-1985, Bộ Tài chính hướng dẫn kế toán kết quả tổng kiểm kê và đánh giá lại tài sản cố định như sau:
+
+
+
+I. KẾ TOÁN KẾT QUẢ TỔNG KIỂM KÊ
+
+1. Kế toán tài sản cố định thừa phát hiện trong tổng kiểm kê.
+
+a) Tài sản cố định của đơn vị thừa phát hiện trong tổng kiểm kê nếu là tài sản để ngoài sổ sách thì ngay sau khi báo cáo kết quả tổng kiểm kê được Thủ trưởng đơn vị duyệt y, kế toán phải căn cứ vào biên bản tài sản cố định thừa và hồ sơ tài sản cố định lập thẻ tài sản cố định, ghi sổ tài sản cố định và hạch toán tăng giá trị tài sản cố định, vốn cố định theo nguyên giá ghi trên hồ sơ:
+
+Nợ TK 01 "Tài sản cố định"
+
+Có TK 85 "Vốn cơ bản" (85.1 - Vốn cố định)
+
+b) Nếu tài sản cố định của đơn vị thừa nói trên là tài sản cố định đang sử dụng thì phải căn cứ vào nguyên giá và tỷ lệ khấu hao, xác định số khấu hao cơ bản và khấu hao sửa chữa lớn trong thời gian sử dụng để tính thêm vào giá thành hoặc phí lưu thông trong kỳ:
+
+Nợ các tài khoản chi phí sản xuất hoặc phí lưu thông
+
+Có TK 86 "Vốn khấu hao"
+
+(Khấu hao cơ bản và khấu hao sửa chữa lớn)
+
+Đồng thời hạch toán giá trị hao mòn tài sản cố định theo số khấu hao cơ bản đã xác định:
+
+Nợ TK 85:"Vốn cơ bản" (85.1 - Vốn cố định)
+
+Có TK 02 - "Khấu hao tài sản cố định"
+
+c) Nếu tài sản cố định thừa phát hiện trong tổng kiểm kê được xác định là tài sản cố định của đơn vị khác thì phải báo ngay cho đơn vị chủ tài sản đó biết. Nếu không xác định được đơn vị chủ tài sản thì phải báo ngay lên cơ quan chủ quản cấp trên và cơ quan tài chính cùng cấp biết để xử lý. Kế toán căn cứ vào tài liệu kiểm kê hạch toán vào tài khoản ngoài bảng tổng kết tài sản để theo dõi.
+
+2. Kế toán tài sản cố định thiếu phát hiện trong tổng kiểm kê.
+
+Tài sản cố định thiếu phát hiện trong tổng kiểm kê phải được truy cứu nguyên nhân, xác định người chịu trách nhiệm và xử lý theo đúng chế độ nguyên tắc; đồng thời lập báo cáo kèm theo các kiến nghị gửi lên cơ quan chủ quản cấp trên xem xét quyết định. Trong khi chờ đợi giải quyết, kế toán căn cứ vào biên bản tài sản cố định thiếu đã được Thủ trưởng đơn vị duyệt y và hồ sơ tài sản cố định ghi giảm ngay giá trị tài sản cố định; vốn cố định theo nguyên giá và khấu hao cơ bản đã trích trên sổ sách kế toán:
+
++ Nợ TK 85 - "Vốn cơ bản" (85.1 - Vốn cố định)
+
+Có TK 01 - "Tài sản cố định"
+
++ Nợ TK 02 - "Khấu hao tài sản cố định"
+
+Có TK 85 - "Vốn cơ bản" (85.1 - Vốn cố định)
+
+Đồng thời chuyển giá trị còn lại (nguyên giá - khấu hao cơ bản đã trích) của tài sản cố định thiếu sang tài khoản "Tài sản hư hỏng, thiếu hụt hoặc thừa chờ giải quyết":
+
+Nợ TK 84 (84.1) - "Tài sản hư hỏng, thiếu hụt hoặc thừa chờ giải quyết"
+
+Có TK 85 - "Vốn cơ bản" (85.2 - Vốn lưu động)
+
+Khi nhận được quyết định của cơ quan có thẩm quyền căn cứ vào quyết định, kế toán ghi sổ theo quy định chung:
+
+- Nếu người phạm lỗi bồi thường, ghi:
+
+Nợ TK 75 - "Thanh toán về các khoản bồi thường vật chất"
+
+Có TK 84 - "Tài sản hư hỏng thiếu hụt hoặc thừa chờ giải quyết"
+
+- Nếu được giảm vốn, ghi:
+
+Nợ TK 85 - (Vốn cơ bản) "85.2 - Vốn lưu động"
+
+Có TK 84 - (84.1) "Tài sản hư hỏng thiếu hụt hoặc thừa chờ giải quyết"
+
+- Nếu đưa vào lỗ, ghi:
+
+Nợ TK 99 - "Lãi và lỗ"
+
+Có TK 84 (84.1) - "Tài sản hư hỏng thiếu hụt hoặc thừa chờ giải quyết".
+
+
+
+II. KẾ TOÁN KẾT QUẢ ĐÁNH GIÁ LẠI TÀI SẢN CỐ ĐỊNH
+
+Kế toán kết quả đánh giá lại tài sản cố định là kế toán khoản chênh lệch tăng nguyên giá tài sản cố định hiện có do đánh giá lại theo hệ thống giá khôi phục. Mặt khác, do việc xác định lại mức độ hao mòn thực tế của tài sản cố định nên còn phải kế toán khoản chênh lệch giữa giá trị hao mòn thực tế tính theo giá khôi phục và giá trị hao mòn theo sổ sách.
+
+Kế toán kết quả đánh giá lại tài sản cố định được thực hiện theo quyết định của Nhà nước sau khi xét duyệt kết quả tổng kiểm kê và đánh giá lại tài sản cố định.
+
+1. Kế toán khoản chênh lệch tăng nguyên giá tài sản cố định do đánh giá lại:
+
+Khoản chênh lệch tăng nguyên giá tài sản cố định do đánh giá lại được phép ghi tăng giá trị tài sản cố định và vốn cố định trên sổ sách kế toán khi có quyết định của Nhà nước:
+
+Nợ TK 01 - "Tài sản cố định"
+
+Có TK 85 - (Vốn cơ bản) "85.1 - Vốn cố định"
+
+Khi ghi tăng giá trị tài sản cố định và vốn cố định theo giá đánh lại (giá khôi phục) thì đồng thời phải phản ánh nguyên giá mới (giá khôi phục) trên sổ và thẻ tài sản cố định.
+
+Trong thời gian Nhà nước chưa quyết định cho ghi tăng giá trị tài sản cố định và vốn cố định theo nguyên giá mới (giá khôi phục), các nghiệp vụ chuyển giao, nhượng bán hoặc thanh lý tài sản cố định sau thời điểm tổng kiểm kê và đánh giá lại tài sản cố định 0 giờ ngày 1-10-1985 được phản ánh trên chứng từ gốc theo hai giá (nguyên giá cũ và nguyên giá mới). Kế toán đơn vị giao ghi giảm giá trị tài sản cố định, vốn cố định và kế toán đơn vị nhận ghi tăng giá trị tài sản cố định, vốn cố định theo nguyên giá cũ; đồng thời theo dõi riêng khoản chênh lệch do đánh giá lại của những tài sản cố định tăng hoặc giảm đó để sau này điều chỉnh lại sổ sách kế toán theo giá đánh lại (giá khôi phục) khi có quyết định ghi tăng hoặc giảm vốn của Nhà nước ở mỗi đơn vị.
+
+Ví dụ 1: Theo tài liệu kiểm kê 0 giờ ngày 1-10-1985 của xí nghiệp A, tổng số chênh lệch tăng nguyên giá của các loại tài sản cố định do đánh giá lại là 8.000.000 đồng, tổng số chênh lệch về hao mòn thực tế so với hao mòn theo sổ sách (số khấu hao cơ bản đã trích) là 2.000.000 đồng. Trong thời gian từ thời điểm kiểm kê đến khi có quyết định của Nhà nước ghi tăng giá trị tài sản cố định và vốn cố định, xí nghiệp A nhượng bán một tài sản cố định nguyên giá cũ là 10.000 đồng, nguyên giá mới (giá khôi phục) là 25.000 đồng khấu hao cơ bản đã trích theo sổ sách là 5.000 đồng giá trị hao mòn thực tế xác định qua tổng kiểm kê là 9.000 đồng.
+
+Kế toán ghi sổ như sau:
+
+- Khi nhượng bán tài sản cố định: căn cứ vào biên bản nhượng bán tài sản cố định kế toán ghi vào thẻ tài sản cố định, sổ tài sản cố định và ghi giảm giá trị tài sản cố định vốn cố định theo nguyên giá cũ:
+
++ Nợ TK 85 - "Vốn cơ bản": 10.000 đồng
+
+(85.1 - Vốn cố định)
+
+Có TK 01 - "Tài sản cố định": 10.000 đồng + Nợ TK 02 - "Khấu hao tài sản cố định": 5.000 đồng Có TK 85 - "Vốn cơ bản": 5.000 đồng
+
+(85.1 - Vốn cố định)
+
+Đồng thời hạch toán nghiệp vụ nhượng bán tài sản cố định theo chế độ hiện hành.
+
+Khi có quyết định của Nhà nước cho phép phản ánh kết quả đánh giá lại tài sản cố định vào sổ sách, kế toán ghi:
+
++ Khoản chênh lệch về nguyên giá:
+
+Nợ TK 01 - "Tài sản cố định": 8.000.000 đồng Có TK 85 - "Vốn cơ bản": 8.000.000 đồng
+
+(85.1 - Vốn cố định)
+
++ Khoản chênh lệch về hào mòn tài sản cố định:
+
+Nợ TK 85 - "Vốn cơ bản": 2.000.000 đồng
+
+(85.1 - Vốn cố định)
+
+Có TK 02 - "Khấu hao tài sản cố định": 2.000.000 đồng
+
+Đồng thời điều chỉnh lại sổ sách kế toán tài sản cố định về khoản chênh lệch nguyên giá và khoản chênh lệch giá trị hao mòn thực tế so với giá trị hao mòn theo sổ sách (số khấu hao cơ bản đã trích) của tài sản cố định nhượng bán:
+
+- Nợ TK 85 - "Vốn cơ bản": 15.000 đồng (25.000 - 10.000)
+
+(85.1 - Vốn cố định)
+
+Có TK 01 - "Tài sản cố định": 15.000 đồng
+
+- Nợ TK 02 - "Khấu hao tài sản cố định": 4.000 đồng (9.000 - 5.000)
+
+Có TK 85 - "Vốn cơ bản": 4.000 đồng
+
+(85.1 - Vốn cố định)
+
+2. Kế toán khoản chênh lệch giữa giá trị hao mòn thực tế tính theo giá khôi phục và giá trị hao mòn (số khấu hao cơ bản đã trích) trên sổ sách kế toán tài sản cố định.
+
+Khoản chênh lệch giữa giá trị hao mòn thực tế và giá trị hao mòn theo sổ sách kế toán tài sản cố định được xác định theo từng đối tượng ghi tài sản cố định và được phản ánh trên phiếu kiểm kê tài sản cố định. Khoản chênh lệch này được xác định bằng cách: lấy tỷ lệ hao mòn thực tế của từng tài sản cố định xác định trong tổng kiểm kê nhân (x) với giá trị khôi phục (nguyên giá mới) của tài sản cố định đó tính ra giá trị hao mòn thực tế của từng tài sản cố định và cộng toàn bộ tài sản cố định, so sánh giá trị hao mòn thực tế với giá trị hao mòn theo sổ sách (số khấu hao cơ bản đã trích) để rút ra chênh lệch tăng hoặc giảm của từng tài sản cố định và toàn bộ tài sản cố định.
+
+Ví dụ 2: Theo tài liệu tổng kiểm kê ở xí nghiệp B, một tài sản cố định có giá trị (theo nguyên giá cũ) là 1.000.000 đồng theo nguyên giá mới là 3. 000.000 đồng số khấu hao cơ bản đã trích 500.000 đồng tỷ lệ hao mòn thực tế xác định được khi tổng kiểm kê là 60%.
+
+Vậy giá trị hao mòn thực tế tính theo giá khôi phục là:
+
+3.000.000 x 60% = 1.800.000 đồng
+
+Số chênh lệch tăng giữa giá trị hao mòn thực tế tính theo giá khôi phục và giá trị hao mòn (số khấu hao cơ bản đã trích) trên sổ sách kế toán của tài sản cố định nói trên là:
+
+1.800.000đ - 500.000đ = 1.300.000 đồng
+
+Kế toán ghi sổ như sau:
+
++ Khoản chênh lệch về nguyên giá (3.000.000 - 1.000.000)
+
+Nợ TK 01 "Tài sản cố định" 2.000.000 Có TK 85 "Vốn cơ bản" 2.000.000
+
+(85.1 - Vốn cố định)
+
++ Khoản chênh lệch về hao mòn tài sản cố định.
+
+Nợ TK 85 "Vốn cơ bản": 1.300.000
+
+(85.1 Vốn cố định)
+
+Nợ TK 02 "Khấu hao tài sản cố định": 1.300.000
+
+Toàn bộ số chênh lệch tăng hoặc giảm giữa giá trị hao mòn thực tế và giá trị hao mòn theo sổ sách của tài sản cố định được phản ánh vào sổ sách kế toán đồng thời với kết quả đánh giá lại tài sản cố định khi có quyết định của Nhà nước:
+
+Nếu chênh lệch tăng ghi:
+
+Nợ TK 85 "Vốn cơ bản":
+
+(85.1 - Vốn cố định)
+
+Có TK 02 "Khấu hao tài sản cố định":
+
+Nếu chênh lệch giảm ghi:
+
+Nợ TK 02 "Khấu hao tài sản cố định":
+
+Có TK 85 "Vốn cơ bản":
+
+(85.1 - Vốn cố định) (Xem ví dụ 1 mục II)
+
+Ngoài ra, phải xác định khoản chênh lệch về số khấu hao cơ bản và khấu hao sửa chữa lớn đã trích theo nguyên giá cũ kể từ thời điểm đánh giá lại 0 giờ ngày 1-10-1985 đến thời điểm được ghi tăng hoặc giảm vốn để ghi tăng hoặc giảm giá trị hao mòn của Tài sản cố định và ghi bổ sung vào cho phí sản xuất hoặc phí lưu thông trong kỳ theo quyết định của Nhà nước.
+
+Số chênh lệch này được xác định bằng cách: lấy tỷ lệ khấu hao cơ bản và khấu hao sửa chữa lớn nhân (x) với nguyên giá mới (giá khôi phục) của tài sản cố định, kết quả tìm được so sách với số khấu hao đã trích theo nguyên giá cũ trong khoảng thời gian nói trên. Khoản chênh lệch này nếu được Nhà nước cho phép hạch toán bổ sung vào chi phí sản xuất hoặc phí lưu thông thì ghi:
+
+Nợ các tài khoản chi phí sản xuất hoặc phí lưu thông
+
+Có TK 86 - "Vốn khấu hao":
+
+Còn khoản chênh lệch về khấu hao cơ bản trong khoảng thời gian nói trên được hạch toán tăng hoặc giảm giá trị hao mòn của tài sản cố định:
+
+Nếu chênh lệch tăng, ghi:
+
+Nợ TK 85 - "Vốn cơ bản":
+
+(85.1 - Vốn cố định)
+
+Có TK 02 - "Khấu hao tài sản cố định":
+
+Nếu chênh lệch giảm, ghi:
+
+Nợ TK 02 - "Khấu hao tài sản cố định":
+
+Có TK 85 - "Vốn cơ bản":
+
+(85.1 - Vốn cố định)
+
+
+
+III. MỘT SỐ VIỆC CẦN LÀM ĐỂ CHẤN CHỈNH CÔNG TÁC
+
+KẾ TOÁN TÀI SẢN CỐ ĐỊNH SAU TỔNG KIỂM KÊ VÀ ĐÁNH GIÁ LẠI TÀI SẢN CỐ ĐỊNH
+
+1. Kế toán tài sản cố định chuyển xuống công cụ lao động thuộc tài sản lưu động theo tiêu chuẩn mới.
+
+Theo quy định của mục II, Thông tư số 13-TC/ĐTXD ngày 10-3-1985 của Bộ Tài chính "hướng dẫn việc trích lập và sử dụng quỹ khấu hao cơ bản để lại cho xí nghiệp và bổ sung sửa đổi một số điểm trong chế độ khấu hao tài sản cố định" thì tiêu chuẩn tài sản cố định (có thay đổi so với quy định trong Quyết định số 215-TC/CĐTC ngày 2-10-1985 của Bộ Tài chính) phải có đủ 2 điều kiện dưới đây:
+
+- Có giá trị 10.000 đồng tiền Ngân hàng trở lên.
+
+- Thời gian sử dụng trên 1 năm.
+
+Căn cứ vào tiêu chuẩn trên, từ ngày 1-1-1985 những tư liệu lao động xây dựng hoặc mua sắm nếu đủ 2 điều kiện nói trên thì xí nghiệp hạch toán vào tài sản cố định. Đối với những tư liệu lao động xây dựng hoặc mua sắm trước ngay 1-1-1985 xí nghiệp phải căn cứ vào kết quả tổng kiểm kê và đánh giá lại theo giá khôi phục, soát xét lại và loại trừ những tư liệu lao động không đủ một trong hai điều kiện trên (trừ một số loại có quy định riêng theo đặc thù của ngành) chuyển sang công cụ lao động thuộc tài sản lưu động.
+
+Phòng kế toán căn cứ vào phiếu kiểm kê, thẻ (hoặc sổ) tài sản cố định lập bảng kê những tài sản cố định chuyển thành công cụ lao động thuộc tài sản lưu động, xếp các thẻ tài sản cố định cũ vào hồ sơ lưu trữ và ghi giảm trừ số tài sản cố định của xí nghiệp, đồng thời ghi giảm giá trị tài sản cố định, vốn cố định và ghi tăng giá trị công cụ lao động thuộc tài sản lưu động, tăng vốn lưu động khi có quyết định của Nhà nước: Nợ TK 12 "Công cụ lao động thuộc tài sản lưu động"
+
+Nợ 12.1 - Nếu là tài sản chưa sử dụng còn ở trong kho.
+
+Nợ 12.2 - Nếu là tài sản đang sử dụng
+
+Có TK 01 - "Tài sản cố định":
+
+(Ghi nguyên giá tài sản cố định)
+
+Đồng thời ghi:
+
+Nợ TK 85 (85.1) - "Vốn cơ bản" (Vốn cố định)
+
+Có TK 85 (85.2) - "Vốn cơ bản" (Vốn lưu động)
+
+Nếu là tài sản cố định đang sử dụng đã trích khấu hao được chuyển sang công cụ lao động thuộc tài sản lưu động, thì khi chuyển từ nguồn vốn cố định sang nguồn vốn lưu động chỉ chuyển theo giá trị còn lại của tài sản (nguyên giá - số khấu hao cơ bản đã trích). Số khấu hao cơ bản đã trích được chuyển thành giá trị công cụ lao động thuộc tài sản lưu động đã phân bổ và ghi sổ:
+
+Nợ TK 02 - "Khấu hao tài sản cố định":
+
+Có TK 13 - "Phân bổ công cụ lao động thuộc tài sản lưu động".
+
+Phòng kế toán tiến hành ghi sổ theo dõi số lượng và giá trị công cụ lao động đang dùng theo đơn vị sử dụng.
+
+2. Chỉnh lý, sắp xếp và tổ chức bảo quản bộ hồ sơ gốc tài sản cố định đã sưu tầm và hoàn chỉnh được trong tổng kiểm kê.
+
+Hồ sơ gốc của tài sản cố định gồm có:
+
+- Hồ sơ kỹ thuật bao gồm: tài liệu thiết kế kỹ thuật, bản chỉ dẫn tính năng, tác dụng, cách sử dụng v.v... (do bộ phận kỹ thuật chịu trách nhiệm). - Hồ sơ kế toán bao gồm: Các tài liệu: giá dự toán, hoá đơn, chi phí vận chuyển, các chứng từ giao nhận tài sản cố định, sửa chữa lớn, lắp đặt, chạy thử v.v... (do phòng kế toán chịu trách nhiệm).
+
+Hồ sơ của từng tài sản cố định phải sắp xếp vào phong bì riêng và được bảo quản ngăn nắp trong tủ hồ sơ theo thứ tự loại và sổ danh điểm tài sản cố định.
+
+3. Kiểm tra lại toàn bộ việc ghi chép phản ánh kết quả tổng kiểm kê và đánh giá lại tài sản cố định.
+
+Trên các sổ sách kế toán chi tiết, tổng hợp và từ nay về sau các xí nghiệp phải chấn chỉnh, giữ vững nền nếp lập và luân chuyển chứng từ ban đầu về tài sản cố định. Phải chấn chỉnh lại việc ghi chép sổ và thẻ tài sản cố định theo đúng chế độ quy định, tổ chức lại hòm thẻ tài sản cố định, xây dựng quy trình luân chuyển chứng từ ban đầu và hạch toán tài sản cố định trong xí nghiệp và các đơn vị trực thuộc, tổ chức kiểm tra thường xuyên việc bảo quản sử dụng tài sản cố định và công tác hạch toán tài sản cố định ở phòng kế toán cũng như ở đơn vị sử dụng. Định kỳ tổ chức phân tích tình hình và hiệu quả sử dụng tài sản cố định.
+
+Trên đây Bộ Tài chính hướng dẫn kế toán kết quả tổng kiểm kê và đánh giá lại tài sản cố định vào 0 giờ ngày 1-10-1985. Trong quá trình thực hiện có khó khăn vướng mắc, đề nghị các ngành, các địa phương, các đơn vị phản ánh cho Bộ Tài chính biết để giải quyết.
+
+
+
+
+
+
+
+

@@ -30,8 +30,10 @@ assert "•" not in full_text, "FOUND BULLET DOT — replace with '-'"
 
 ## 3. Font
 
-- [ ] Toàn bộ văn bản dùng Times New Roman?
-- [ ] East-Asian fallback cũng là Times New Roman?
+- [ ] Body text là Times New Roman, đen (#000000)?
+- [ ] Heading là Times New Roman, đen (#000000)?
+- [ ] Text trong bảng là Times New Roman, đen (#000000)?
+- [ ] Không có màu tự chế nào (phải là #000000)?
 
 ## 4. Dòng trống giữa section
 
@@ -69,10 +71,15 @@ assert "•" not in full_text, "FOUND BULLET DOT — replace with '-'"
 - [ ] Đầy đủ các phần bắt buộc của loại tài liệu đó?
 - [ ] Có trang bìa với đầy đủ: tên trường, tiêu đề, phụ đề, thành viên, địa điểm, năm?
 
-## 10. Page setup
+## 6. Page setup
+- [ ] Khổ A4 (210 × 297 mm)?
+- [ ] Margins: Trái 3cm, Phải 1.5cm, Trên 2cm, Dưới 2cm?
 
-- [ ] Letter size (8.5 x 11 inch)?
-- [ ] Margins: Trái 3cm, Phải 3cm, Trên 2cm, Dưới 2cm?
+## 7. Profile-specific checks
+- [ ] Đối với `administrative`: Có Quốc hiệu, tiêu ngữ, nơi nhận?
+- [ ] Đối với `academic`: KHÔNG dùng Quốc hiệu trừ khi có template?
+- [ ] Đối với `administrative`: Không dùng shading trong bảng?
+- [ ] Đối với `administrative`: Dấu chấm phẩy (;) cuối các căn cứ, dòng cuối là dấu chấm (.)?
 - [ ] Page break giữa các section lớn?
 
 ---

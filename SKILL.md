@@ -1,186 +1,143 @@
----
-name: vn-report-pro-v3
+﻿---
+name: vietnamese-docx
 description: >
-  Phiên bản V3 — skill tạo văn bản học thuật / hành chính tiếng Việt chuẩn , tích hợp
-  toàn bộ python-docx code triển khai + quy tắc ngôn ngữ hành chính + validation checklist.
-  Hỗ trợ 4 loại tài liệu: Đề xuất dự án, Báo cáo nghiên cứu, Biên bản họp, Văn bản tổng hợp.
-  Dùng khi người dùng yêu cầu: "tạo file word", "viết báo cáo", "đề xuất dự án", "soạn .docx",
-  "làm biên bản họp", "viết tài liệu học thuật", "tạo văn bản hành chính", "generate academic doc",
-  "create proposal document", hoặc bất kỳ yêu cầu tạo file Word tiếng Việt trang trọng nào.
-  Toàn bộ văn bản màu đen (#000000), font Times New Roman, danh sách dùng dấu gạch ngang thủ công,
-  TUYỆT ĐỐI KHÔNG dùng bullet dot (•).
+  Tạo, định dạng và kiểm tra tài liệu DOCX tiếng Việt, gồm văn bản hành chính,
+  báo cáo học thuật, đề xuất dự án và biên bản. Sử dụng khi người dùng yêu cầu
+  tạo hoặc chỉnh sửa file Word tiếng Việt. Chỉ áp dụng thể thức Nghị định
+  30/2020/NĐ-CP khi tài liệu thực sự là văn bản hành chính hoặc người dùng
+  yêu cầu rõ ràng; không tự áp dụng NĐ30 cho mọi báo cáo học thuật.
 ---
 
-# Vn Report Pro V3
+# Vietnamese DOCX
 
-Skill tạo văn bản học thuật / hành chính tiếng Việt — bản hợp nhất từ `vietnamese-academic-doc` (V1: code + cấu trúc) và `vn-report-pro-v2` (V2: quy tắc ngôn ngữ + trình bày).
+Tạo tài liệu Word tiếng Việt đúng loại văn bản, đúng nguồn chuẩn và có thể
+kiểm chứng bằng cấu trúc lẫn kết quả render.
 
-## Prerequisites
+## Nguyên tắc ưu tiên
+
+Khi các yêu cầu xung đột, áp dụng thứ tự sau:
+
+1. Yêu cầu trực tiếp của người dùng.
+2. Template hoặc quy định của trường/cơ quan do người dùng cung cấp.
+3. Quy định chuyên ngành tương ứng.
+4. Nghị định 30/2020/NĐ-CP đối với văn bản hành chính.
+5. Mặc định của skill.
+
+Không trình bày sở thích mặc định của skill như một yêu cầu pháp lý.
+
+## Quy trình
+
+### 1. Xác định profile tài liệu
+
+Chọn một trong các profile:
+
+- `administrative`: công văn, quyết định, thông báo, tờ trình, giấy mời.
+- `academic`: báo cáo nghiên cứu, tiểu luận, bài tập môn học.
+- `proposal`: đề xuất dự án hoặc kế hoạch.
+- `minutes-administrative`: biên bản hành chính.
+- `minutes-general`: biên bản họp nhóm hoặc doanh nghiệp.
+- `custom`: có template riêng do người dùng cung cấp.
+
+Đọc `references/document-profiles.md` để biết thêm chi tiết về từng profile.
+
+Nếu loại tài liệu ảnh hưởng đáng kể đến cấu trúc mà chưa xác định được,
+hỏi người dùng một câu ngắn. Không hỏi lại thông tin đã có.
+
+### 2. Đọc reference phù hợp
+
+- Với `administrative` và `minutes-administrative`, đọc `references/administrative-format-nd30.md`.
+- Với `academic`, đọc `references/academic-report.md`.
+- Với biên bản, đọc `references/meeting-minutes.md`.
+- Với mọi tài liệu tiếng Việt, đọc `references/editorial-quality-vi.md`.
+- Đọc `references/validation-checklist.md` trước khi kiểm tra output.
+- Đọc `references/style-spec.md` để biết thông số kỹ thuật cấu trúc tài liệu.
+
+Không tải reference không liên quan.
+
+### 3. Xử lý thông tin thiếu
+
+Không tự bịa:
+
+- Tên cơ quan.
+- Số và ký hiệu văn bản.
+- Căn cứ pháp lý.
+- Người ký.
+- Số liệu nghiên cứu.
+- Nguồn tham khảo.
+- Ngày, địa điểm hoặc thành viên.
+
+Dùng placeholder có nhãn `[CẦN BỔ SUNG: ...]` nếu người dùng cho phép tạo
+bản nháp. Hỏi lại nếu thiếu dữ liệu làm thay đổi tính hợp lệ của tài liệu.
+
+### 4. Tạo DOCX
+
+Ưu tiên dùng template trong `assets/` (nếu có) và script `scripts/build_docx.py`.
+
+Mặc định cho văn bản hành chính khi không có template khác:
+
+- Khổ A4 (210 x 297 mm).
+- Font Times New Roman, Unicode.
+- Màu chữ đen (#000000).
+- Lề trong phạm vi NĐ30 (trái 30-35mm, phải 15-20mm, trên/dưới 20-25mm).
+- Body căn đều hai lề (Justify).
+- Cỡ chữ, vị trí và kiểu chữ theo từng thành phần thể thức.
+
+Không áp dụng tự động các quy tắc sau cho mọi profile:
+
+- Quốc hiệu và tiêu ngữ.
+- Trang bìa.
+- Nơi nhận.
+- Thư ngỏ.
+- Ngôi thứ ba.
+- Mục tiêu bắt buộc phải có số.
+- Cấm bullet hoặc auto-numbering.
+- Cấm shading của bảng.
+
+Chỉ áp dụng khi profile hoặc template yêu cầu.
+
+### 5. Biên tập ngôn ngữ
+
+Bảo đảm (theo `references/editorial-quality-vi.md`):
+
+- Câu rõ chủ thể và hành động.
+- Không bịa dữ kiện để làm văn bản có vẻ cụ thể.
+- Hạn chế sáo rỗng và từ nối dư thừa.
+- Không lạm dụng bị động.
+- Thuật ngữ và cách xưng hô nhất quán.
+- Phân biệt dữ kiện, nhận định và kiến nghị.
+- Không tuyên bố có nguồn nếu chưa kiểm chứng.
+
+### 6. Kiểm tra
+
+Chạy:
 
 ```bash
-pip install python-docx
+python scripts/validate_docx.py <file.docx> --profile <profile>
+python scripts/render_docx.py <file.docx>
 ```
 
-## Workflow
+Validation phải kiểm tra:
 
-### Bước 1: Xác định loại tài liệu
+* Tất cả section và kích thước trang (A4).
+* Toàn bộ lề.
+* Font và màu trong paragraph, bảng, header và footer.
+* Các trường bắt buộc theo profile.
+* Heading, numbering và page break.
+* Bảng tràn lề.
+* Placeholder chưa được xử lý.
+* Render lỗi, trang trắng bất thường hoặc nội dung bị cắt.
 
-| Loại | Cấu trúc | Tín hiệu nhận biết |
-|---|---|---|
-| **Đề xuất dự án** (Proposal) | Cover → Thư ngỏ → Phần I (Team) → Phần II (8 mục: Tổng quan → Mục tiêu → Đối tượng → Giải pháp → AI Tools → Rủi ro → Tiêu chí → Tham khảo) → Phụ lục | "đề xuất", "proposal", "dự án", "khóa học" |
-| **Báo cáo nghiên cứu** (Research Report) | Cover → Tóm tắt → Đặt vấn đề → Phương pháp → Kết quả → Thảo luận → Kết luận → Tham khảo | "báo cáo", "nghiên cứu", "report", "phân tích" |
-| **Biên bản họp** (Meeting Minutes) | Header (thời gian/địa điểm) → Thành phần → Nội dung → Kết luận → Ký tên | "biên bản", "họp", "meeting", "minutes" |
-| **Văn bản tổng hợp** (General Formal) | Cover → Nội dung (theo yêu cầu) → Kết luận | Các yêu cầu khác không khớp 3 loại trên |
+Không bàn giao nếu còn lỗi nghiêm trọng. Nếu không thể sửa vì thiếu dữ liệu,
+nêu rõ trường còn thiếu.
 
-Nếu không rõ loại, hỏi người dùng.
+### 7. Bàn giao
 
-### Bước 2: Thu thập nội dung
+Trả về:
 
-Hỏi người dùng những thông tin còn thiếu:
-- Tiêu đề, phụ đề, tên tổ chức
-- Thành viên (tên, vai trò, ban)
-- Nội dung chính từng phần
-- Số liệu, dữ liệu cụ thể
+* File DOCX hoàn chỉnh.
+* Profile đã áp dụng.
+* Chuẩn hoặc template đã sử dụng.
+* Những placeholder còn lại, nếu có.
 
-Chỉ hỏi những gì thực sự thiếu. Dùng giá trị mặc định hợp lý cho phần còn lại.
+Không gọi tài liệu là “chuẩn NĐ30” nếu chỉ áp dụng một phần của NĐ30.
 
-### Bước 3: Xây dựng file DOCX
-
-Dùng python-docx. Toàn bộ thông số kỹ thuật + code mẫu nằm trong:
-
-- **[style-spec.md](references/style-spec.md)** — Load file này khi viết code. Chứa tất cả hàm helper, page setup, style, table, bullet, cover page, cover letter.
-
-### Bước 4: Validate trước khi lưu
-
-Sau khi tạo xong file, chạy qua checklist bắt buộc:
-
-- **[validation-checklist.md](references/validation-checklist.md)** — Load file này trước khi `doc.save()`. Kiểm tra 10 lỗi phổ biến nhất.
-
-### Bước 5: Lưu và bàn giao
-
-Lưu vào thư mục người dùng yêu cầu, hoặc mặc định vào `output/`. Thông báo đường dẫn và dung lượng.
-
----
-
-## Quy tắc bắt buộc (MANDATORY)
-
-### Trình bày
-
-1. **Màu sắc**: Toàn bộ văn bản dùng **đen tuyệt đối** (`#000000`). Không xanh, không xám, không màu nào khác — kể cả heading.
-2. **Font**: Times New Roman toàn bộ, kể cả East-Asian fallback.
-3. **Bullet**: Cấp 1 `- `, cấp 2 `+ `, cấp 3 `* `. **TUYỆT ĐỐI KHÔNG DÙNG `•` (bullet dot)**. Không dùng auto-numbering của Word.
-4. **Dòng trống**: Phải có một dòng trống giữa các section lớn và giữa các đoạn văn.
-5. **Căn lề**: Body text căn đều hai bên (JUSTIFY). Cover page căn giữa (CENTER). Signature căn phải (RIGHT).
-6. **Bảng**: Style Table Grid, header bold, không shading màu nền.
-
-### Ngôn ngữ
-
-7. **Ngôi kể**: Ngôi thứ ba khách quan ("Dự án được triển khai...", "Nhóm thực hiện..."). Không dùng "Tôi", "Chúng tôi" quá nhiều. Ngoại lệ: Thư ngỏ được dùng "Chúng em".
-8. **Từ vựng hành chính**: Dùng các cụm từ chuẩn:
-
-| Ngữ cảnh | Cụm từ mẫu |
-|---|---|
-| Mở đầu / Lý do | "Căn cứ vào...", "Trên cơ sở khảo sát...", "Xuất phát từ thực trạng..." |
-| Mục tiêu | "Hướng tới...", "Phấn đấu đạt...", "Nhằm mục tiêu..." |
-| Giải pháp | "Đề xuất triển khai...", "Áp dụng phương pháp..." |
-| Kết luận | "Từ những phân tích trên...", "Có thể khẳng định...", "Kiến nghị..." |
-| Cam kết | "Đảm bảo tính...", "Cam kết thực hiện..." |
-
-9. **Định lượng**: Mọi mục tiêu phải có con số cụ thể (%, số lượng, thời gian). Ví dụ: "Đạt 85% tỷ lệ hoàn thành", không viết "Đạt tỷ lệ cao".
-
----
-
-## Cấu trúc tài liệu
-
-### A. Đề xuất dự án (đầy đủ)
-
-```
-1. TRANG BÌA
-   - Tên trường / tổ chức (bold, 16pt, centered)
-   - Tên đề xuất (bold, 16pt, centered)
-   - Phụ đề / khóa học (bold, 14pt, centered)
-   - Bảng thông tin nhóm (centered)
-   - Địa điểm, năm (italic, centered)
-
-2. THƯ NGỎ
-   - "THƯ NGỎ" (bold, 14pt, centered)
-   - Lời chào → Bối cảnh → Đề xuất → Kêu gọi
-   - "Trân trọng," + tên nhóm (right-aligned)
-
-3. PHẦN I: THÔNG TIN CHUNG
-   - 1.1 Thông tin dự án (bullet)
-   - 1.2 Thành viên nhóm (bảng: STT | Họ tên | Vai trò | Ban)
-   - 1.3 Mô tả vai trò (từng vai trò)
-
-4. PHẦN II: THÔNG TIN DỰ ÁN
-   - I. Tổng quan vấn đề
-   - II. Mục tiêu dự án (3 mục con: kiến thức, thực hành, truyền thông)
-   - III. Đối tượng hưởng lợi
-   - IV. Giải pháp & Kế hoạch triển khai
-   - V. Công cụ AI sử dụng (bảng: STT | Công cụ | Mục đích | Giai đoạn)
-   - VI. Đánh giá tính khả thi & Rủi ro (bảng 3 cột: Rủi ro | Phòng ngừa | Khắc phục)
-   - VII. Tiêu chí đánh giá hiệu quả
-   - VIII. Tài liệu tham khảo
-
-5. PHỤ LỤC (nếu có)
-   - Kế hoạch chi tiết, giáo án, timeline...
-```
-
-### B. Báo cáo nghiên cứu
-
-```
-1. TRANG BÌA (như trên)
-2. TÓM TẮT (abstract, 150-200 từ)
-3. ĐẶT VẤN ĐỀ (bối cảnh, câu hỏi nghiên cứu)
-4. PHƯƠNG PHÁP (cách thu thập & xử lý dữ liệu)
-5. KẾT QUẢ (trình bày findings, bảng biểu)
-6. THẢO LUẬN (ý nghĩa, so sánh với nghiên cứu trước)
-7. KẾT LUẬN & KIẾN NGHỊ
-8. TÀI LIỆU THAM KHẢO
-```
-
-### C. Biên bản họp
-
-```
-1. HEADER: Thời gian, Địa điểm, Chủ trì, Thư ký
-2. THÀNH PHẦN THAM DỰ (bảng: STT | Họ tên | Vai trò)
-3. NỘI DUNG (từng mục theo agenda)
-4. KẾT LUẬN & PHÂN CÔNG (bảng: Công việc | Người phụ trách | Deadline)
-5. KÝ TÊN (Chủ trì + Thư ký, right-aligned)
-```
-
-### D. Văn bản tổng hợp
-
-```
-1. TRANG BÌA (như trên)
-2. NỘI DUNG (theo yêu cầu người dùng)
-3. KẾT LUẬN
-```
-
----
-
-## Reference Files
-
-- **[style-spec.md](references/style-spec.md)**: Toàn bộ python-docx code — page setup, style, helper functions cho heading, body, bullet, table, cover page, cover letter. Load file này trước khi viết code tạo DOCX.
-- **[validation-checklist.md](references/validation-checklist.md)**: Checklist 10 mục kiểm tra trước khi lưu file. Load file này ở bước cuối.
-
----
-
-## Prompt Template cho người dùng
-
-```
-Tạo file Word chuẩn FPT với nội dung sau:
-
-Loại tài liệu: [đề xuất dự án / báo cáo nghiên cứu / biên bản họp / văn bản tổng hợp]
-Tiêu đề: [tiêu đề chính]
-Phụ đề: [tên môn học / khóa học / không bắt buộc]
-Tổ chức: [tên trường / công ty]
-
-Thành viên (nếu có):
-- [Tên] - [Vai trò] - [Ban]
-
-Nội dung:
-[Viết tự do nội dung chính, AI sẽ tự tổ chức cấu trúc]
-
-Lưu tại: [đường dẫn hoặc để trống]
-```

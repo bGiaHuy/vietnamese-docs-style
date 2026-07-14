@@ -1,89 +1,45 @@
-# VN Report Pro — Skill tạo văn bản hành chính tiếng Việt
+# Vietnamese Docs Style (vn-report-pro)
 
-Skill dành cho AI agent (Claude, Marvis, v.v.) để tạo file Word (.docx) theo chuẩn văn bản hành chính — học thuật Việt Nam, 
+Kho lưu trữ chuyên môn dành cho AI Agent để tạo, định dạng, và biên tập các tài liệu tiếng Việt đạt chuẩn, bao gồm văn bản hành chính theo Nghị định 30/2020/NĐ-CP, báo cáo học thuật, đề xuất dự án, và các loại biên bản.
 
-## SKILL v5 — NĐ30/2020 + Ngôn ngữ hành chính (Mới nhất)
+## Điểm nổi bật
+- **Phân loại Profile rõ ràng**: Hỗ trợ định dạng chính xác theo ngữ cảnh (administrative, academic, proposal, minutes-administrative, minutes-general).
+- **Tuân thủ NĐ30**: Đảm bảo khổ giấy A4, font Times New Roman, lề chuẩn (trái 30mm, phải 15mm), và đầy đủ các thành phần thể thức đối với văn bản hành chính.
+- **Biên tập ngôn ngữ (Editorial Quality)**: Các hướng dẫn và pattern cụ thể để văn bản tiếng Việt tự nhiên, rõ ràng, tránh các lỗi phổ biến (bị động dư thừa, từ nối đơn điệu).
+- **Executable Validation**: Kèm theo script xác thực (`validate_docx.py`) và tạo DOCX (`build_docx.py`) giúp AI dễ dàng kiểm tra tính đúng đắn trước khi bàn giao cho người dùng.
 
-Bản cập nhật lớn dựa trên **Nghị định 30/2020/NĐ-CP**, đối chiếu với **TT01/2011/TT-BNV**, kết hợp phân tích ngôn ngữ từ **6.010 văn bản train_data**. File: [`SKILL_v5_NĐ30.md`](./SKILL_v5_NĐ30.md).
+## Cấu trúc Repository
 
-**Cấu trúc (12 mục):**
-
-| Mục | Nội dung | Mới? |
-|---|---|---|
-| **I–IV** | Thông số kỹ thuật, 9 thành phần thể thức, 16 loại văn bản, 5 skeleton biểu mẫu | v4 |
-| **V** | Quy tắc viết hoa (22 trường hợp PL II) + viết tắt (27 mã PL III) | v4 |
-| **VI** | Checklist 22 mục — từ quốc hiệu đến lỗi ngôn ngữ | Cập nhật |
-| **VII** | Bảng tra nhanh cỡ chữ & kiểu chữ (24 thành phần) | v4 |
-| **VIII** | Cách dùng từ & cụm cố định — top 10 động từ hành chính, động từ tình thái, từ nối, cụm cố định theo loại văn bản | **v5** |
-| **IX** | Cấu trúc câu điển hình — mẫu câu cho văn bản quy phạm, biên bản, giáo án | **v5** |
-| **X** | Lỗi thường gặp — 14 lỗi (cấu trúc + ngôn ngữ) kèm tỷ lệ và cách khắc phục | **v5** |
-| **XI** | Nhận diện nhanh loại văn bản — 9 loại với dấu hiệu, từ khóa, cấu trúc đặc biệt | **v5** |
-| **XII** | Bảng công thức câu theo loại — Quyết định/Nghị quyết/Chỉ thị, Biên bản, Giáo án | **v5** |
-
-**SKILL v4** vẫn được giữ lại tại [`SKILL_v4_NĐ30.md`](./SKILL_v4_NĐ30.md).
-
-## Tính năng (v3)
-
-- **4 loại tài liệu**: Đề xuất dự án, Báo cáo nghiên cứu, Biên bản họp, Văn bản tổng hợp
-- **Chuẩn trình bày**: Times New Roman, đen toàn bộ (#000000), Letter size, margin 3/3/2/2 cm
-- **Bullet thủ công**: 3 cấp (`-`, `+`, `*`), tuyệt đối không dùng `•`
-- **Bảng biểu**: Table Grid, header bold, không shading màu
-- **Ngôn ngữ hành chính**: Ngôi thứ ba, từ vựng chuẩn ("Căn cứ vào...", "Từ những phân tích trên...")
-- **Validation checklist**: 10 mục kiểm tra tự động trước khi lưu file
-- **Code python-docx đầy đủ**: Helper functions cho mọi thành phần (trang bìa, thư ngỏ, heading, bullet, bảng, chữ ký)
-
-## Cấu trúc thư mục
-
-```
-vn-report-pro/
-├── SKILL.md                          # Hướng dẫn chính cho AI agent (v3)
-├── SKILL_v4_NĐ30.md                  # Quy tắc trình bày theo NĐ30/2020/NĐ-CP (v4)
-├── SKILL_v5_NĐ30.md                  # v5: thể thức + ngôn ngữ hành chính từ 6.010 tài liệu
-└── references/
-    ├── style-spec.md                 # Toàn bộ python-docx code blueprint
-    └── validation-checklist.md       # Checklist 10 mục + code tự kiểm
+```text
+├── SKILL.md                          # Entry point dành cho AI Agent
+├── assets/
+│   └── samples/                      # Các file mẫu .docx 
+├── references/                       # Tài liệu chuyên môn (Agent đọc khi cần)
+│   ├── academic-report.md            # Báo cáo học thuật
+│   ├── administrative-format-nd30.md # Chuẩn NĐ30 cho VB hành chính
+│   ├── document-profiles.md          # Bảng định tuyến profile tài liệu
+│   ├── editorial-quality-vi.md       # Hướng dẫn biên tập văn phong
+│   ├── meeting-minutes.md            # Các loại biên bản
+│   ├── style-spec.md                 # Blueprint cho python-docx
+│   ├── validation-checklist.md       # Danh sách kiểm tra chất lượng
+│   └── source-documents/             # Tài liệu nguồn và tham chiếu cũ
+├── scripts/                          # Script hỗ trợ Agent
+│   ├── build_docx.py                 # Hàm helper tạo file DOCX
+│   ├── render_docx.py                # Rendering stub
+│   └── validate_docx.py              # Script kiểm tra cấu trúc file DOCX
+└── tests/                            # Pytest fixtures và tests
+    └── test_validation.py            
 ```
 
-## Cách dùng
+## Dành cho AI Agent
 
-### Với Marvis / Claude / gemini
+Hãy đọc trực tiếp file `SKILL.md` để hiểu quy trình làm việc, cách đọc các reference, và các chuẩn mực ưu tiên.
 
-Đặt thư mục skill vào `skills/market/`, sau đó ra lệnh bằng tiếng Việt:
+## Dành cho Người Dùng
 
-```
-Tạo đề xuất dự án Machine Learning cho lớp SSA101
-Làm biên bản họp nhóm hôm nay
-Viết báo cáo nghiên cứu về AI trong giáo dục
-```
+Để sử dụng skill này, bạn chỉ cần yêu cầu AI Agent của mình:
+- "Tạo một thông báo họp theo chuẩn NĐ30."
+- "Viết báo cáo học thuật về AI, có trang bìa."
+- "Chỉnh sửa lại file DOCX này sao cho đúng thể thức văn bản hành chính."
 
-### Chạy độc lập
-
-Cài `python-docx`, load `references/style-spec.md` và làm theo blueprint:
-
-```bash
-pip install python-docx
-```
-
-## Loại tài liệu hỗ trợ
-
-| Loại | Cấu trúc | Tín hiệu nhận biết |
-|---|---|---|
-| Đề xuất dự án | Cover → Thư ngỏ → Phần I (Team) → Phần II (8 mục) → Phụ lục | "đề xuất", "proposal", "dự án" |
-| Báo cáo nghiên cứu | Cover → Tóm tắt → Đặt vấn đề → Phương pháp → Kết quả → Thảo luận → Kết luận | "báo cáo", "nghiên cứu", "report" |
-| Biên bản họp | Header → Thành phần → Nội dung → Kết luận → Ký tên | "biên bản", "họp", "meeting" |
-| Văn bản tổng hợp | Cover → Nội dung → Kết luận | Các yêu cầu khác |
-
-## Quy tắc bắt buộc
-
-- Toàn bộ văn bản màu **đen** (#000000) — kể cả heading
-- Font **Times New Roman** toàn bộ
-- **Không** dùng bullet dot (`•`)
-- **Không** dùng auto-numbering của Word
-- Body text căn đều **JUSTIFY**
-- Có dòng trống giữa các section
-- Ngôi thứ ba khách quan
-- Mọi mục tiêu có con số cụ thể
-
-## License
-
-MIT
+Hệ thống sẽ tự động đối chiếu các quy chuẩn trong kho lưu trữ này và áp dụng chính xác.

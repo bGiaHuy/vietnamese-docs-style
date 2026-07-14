@@ -1,0 +1,399 @@
+# Công văn về việc cấp vốn đầu tư XDCB kế hoạch năm 2001
+# Loại: Công văn
+# Số hiệu: 525-TC/ÐT
+# Ngày ban hành: 16/01/2001
+# Cơ quan: Bộ Tài chính
+# Người ký: Vũ Văn Ninh
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+NGHỊ ĐỊNH
+
+Về nhãn hàng hóa
+
+____________
+
+Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007;
+
+Căn cứ Luật thương mại ngày 14 tháng 6 năm 2005;
+
+Căn cứ Luật bảo vệ quyền lợi người tiêu dùng ngày 30 tháng 11 năm 2010;
+
+Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ;
+
+Chính phủ ban hành Nghị định về nhãn hàng hóa.
+
+Chương I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Nghị định này quy định nội dung, cách ghi và quản lý nhà nước về nhãn đối với hàng hóa lưu thông tại Việt Nam, hàng hóa nhập khẩu.
+
+2. Những hàng hóa sau đây không thuộc phạm vi điều chỉnh của Nghị định này:
+
+a) Bất động sản;
+
+b) Hàng hóa tạm nhập tái xuất; hàng hóa tạm nhập để tham gia hội chợ, triển lãm sau đó tái xuất; hàng hóa quá cảnh, hàng hóa chuyển khẩu; hàng hóa trung chuyển;
+
+c) Hành lý của người xuất cảnh, nhập cảnh; tài sản di chuyển;
+
+d) Hàng hóa bị tịch thu bán đấu giá;
+
+đ) Hàng hóa là thực phẩm tươi, sống, thực phẩm chế biến không có bao bì và bán trực tiếp cho người tiêu dùng;
+
+e) Hàng hóa là nhiên liệu, nguyên liệu (nông sản, thủy sản, khoáng sản), vật liệu xây dựng (gạch, ngói, vôi, cát, đá, sỏi, xi măng, đất màu, vữa, hỗn hợp bê tông thương phẩm), phế liệu (trong sản xuất, kinh doanh) không có bao bì và bán trực tiếp cho người tiêu dùng;
+
+g) Hàng hóa là xăng dầu, khí (LPG, CNG, LNG) chất lỏng, xi măng rời không có bao bì thương phẩm đựng trong container, xi tec;
+
+h) Hàng hóa đã qua sử dụng;
+
+i) Hàng hóa xuất khẩu không tiêu thụ nội địa;
+
+k) Hàng hóa thuộc lĩnh vực an ninh, quốc phòng; hàng hóa là chất phóng xạ, hàng hóa sử dụng trong trường hợp khẩn cấp nhằm khắc phục thiên tai, dịch bệnh; phương tiện giao thông đường sắt, đường thủy, đường không.
+
+Điều 2. Đối tượng áp dụng
+
+Nghị định này áp dụng đối với tổ chức, cá nhân sản xuất, kinh doanh hàng hóa tại Việt Nam; tổ chức, cá nhân nhập khẩu hàng hóa; cơ quan nhà nước; tổ chức, cá nhân có liên quan.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Nghị định này, những từ ngữ dưới đây được hiểu như sau:
+
+1. Nhãn hàng hóa là bản viết, bản in, bản vẽ, bản chụp của chữ, hình vẽ, hình ảnh được dán, in, đính, đúc, chạm, khắc trực tiếp trên hàng hóa, bao bì thương phẩm của hàng hóa hoặc trên các chất liệu khác được gắn trên hàng hóa, bao bì thương phẩm của hàng hóa;
+
+2. Ghi nhãn hàng hóa là thể hiện nội dung cơ bản, cần thiết về hàng hóa lên nhãn hàng hóa để người tiêu dùng nhận biết, làm căn cứ lựa chọn, tiêu thụ và sử dụng; để nhà sản xuất, kinh doanh, thông tin, quảng bá cho hàng hóa của mình và để các cơ quan chức năng thực hiện việc kiểm tra, kiểm soát;
+
+3. Nhãn gốc của hàng hóa là nhãn thể hiện lần đầu do tổ chức, cá nhân sản xuất hàng hóa gắn trên hàng hóa, bao bì thương phẩm của hàng hóa;
+
+4. Nhãn phụ là nhãn thể hiện những nội dung bắt buộc được dịch từ nhãn gốc của hàng hóa bằng tiếng nước ngoài ra tiếng Việt và bổ sung những nội dung bắt buộc bằng tiếng Việt theo quy định của pháp luật Việt Nam mà nhãn gốc của hàng hóa còn thiếu;
+
+5. Bao bì thương phẩm của hàng hóa là bao bì chứa đựng hàng hóa và lưu thông cùng với hàng hóa; bao bì thương phẩm của hàng hóa gồm hai loại: Bao bì trực tiếp và bao bì ngoài:
+
+a) Bao bì trực tiếp là bao bì chứa đựng hàng hóa, tiếp xúc trực tiếp với hàng hóa, tạo ra hình khối hoặc bọc kín theo hình khối của hàng hóa;
+
+b) Bao bì ngoài là bao bì dùng để bao gói một hoặc một số đơn vị hàng hóa có bao bì trực tiếp;
+
+6. Hàng hóa đóng gói đơn giản là hàng hóa được đóng gói không có sự chứng kiến của người tiêu dùng mà khi mua có thể mở ra kiểm tra trực tiếp hàng hóa đó;
+
+7. Lưu thông hàng hóa là hoạt động trưng bày, khuyến mại, vận chuyển và lưu giữ hàng hóa trong quá trình mua bán hàng hóa, trừ trường hợp vận chuyển hàng hóa của tổ chức, cá nhân nhập khẩu hàng hóa từ cửa khẩu về kho lưu giữ;
+
+8. Hàng hóa trung chuyển là hàng hóa được chuyển từ nước xuất khẩu đến nước nhập khẩu qua cửa khẩu hải quan và đưa vào khu vực trung chuyển tại các cảng Việt Nam;
+
+9. Định lượng của hàng hóa là lượng hàng hóa được thể hiện bằng đơn vị đo lường hoặc theo số đếm hàng hóa;
+
+10. Ngày sản xuất là mốc thời gian hoàn thành công đoạn cuối cùng để hoàn thiện hàng hóa hoặc lô hàng hóa đó;
+
+11. “Hạn sử dụng” hoặc “hạn dùng” là mốc thời gian sử dụng ấn định cho hàng hóa hoặc một lô hàng hóa mà sau thời gian này hàng hóa không còn giữ được đầy đủ các đặc tính chất lượng vốn có của nó.
+
+Hạn dùng của hàng hóa được thể hiện bằng khoảng thời gian tính từ ngày sản xuất đến ngày hết hạn hoặc thể hiện bằng ngày, tháng, năm hết hạn. Trường hợp hạn dùng chỉ thể hiện tháng, năm thì hạn dùng được tính đến ngày cuối cùng của tháng hết hạn;
+
+12. Thành phần của hàng hóa là các nguyên liệu kể cả chất phụ gia dùng để sản xuất ra sản phẩm hàng hóa và tồn tại trong thành phẩm kể cả trường hợp hình thức nguyên liệu đã bị thay đổi;
+
+13. Thành phần định lượng là lượng của mỗi loại nguyên liệu kể cả chất phụ gia dùng để sản xuất ra hàng hóa đó;
+
+14. Hướng dẫn sử dụng, hướng dẫn bảo quản hàng hóa là thông tin liên quan đến cách sử dụng, các điều kiện cần thiết để sử dụng, bảo quản hàng hóa; cảnh báo nguy hại; cách xử lý khi xảy ra sự cố nguy hại;
+
+15. Thông tin cảnh báo là những thông tin lưu ý để đảm bảo an toàn cho sức khỏe, tài sản và môi trường trong quá trình vận chuyển, lưu giữ, bảo quản, sử dụng;
+
+16. Thông số kỹ thuật gồm các chỉ tiêu kỹ thuật quyết định giá trị sử dụng hoặc có ảnh hưởng đến an toàn, sức khỏe người sử dụng, môi trường, quá trình được quy định trong tiêu chuẩn hoặc quy chuẩn kỹ thuật của sản phẩm, hàng hóa đó.
+
+Điều 4. Vị trí nhãn hàng hóa
+
+1. Nhãn hàng hóa phải được thể hiện trên hàng hóa, bao bì thương phẩm của hàng hóa ở vị trí khi quan sát có thể nhận biết được dễ dàng, đầy đủ các nội dung quy định của nhãn mà không phải tháo rời các chi tiết, các phần của hàng hóa.
+
+2. Trường hợp không được hoặc không thể mở bao bì ngoài thì trên bao bì ngoài phải có nhãn và nhãn phải trình bày đầy đủ nội dung bắt buộc.
+
+Điều 5. Kích thước nhân hàng hóa, kích thước của chữ và số trên nhãn
+
+Tổ chức, cá nhân chịu trách nhiệm ghi nhãn hàng hóa tự xác định kích thước của nhãn hàng hóa, kích thước chữ và số thể hiện trên nhãn hàng hóa nhưng phải bảo đảm các yêu cầu sau đây:
+
+1. Ghi được đầy đủ nội dung bắt buộc theo quy định tại khoản 1 Điều 10 Nghị định này;
+
+2. Kích thước của chữ và số phải bảo đảm đủ để đọc bằng mắt thường và đáp ứng các yêu cầu sau đây:
+
+a) Kích thước của chữ và số thể hiện đại lượng đo lường thì phải tuân thủ quy định của pháp luật về đo lường;
+
+b) Trường hợp hàng hóa là thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm bao gói sẵn thì chiều cao chữ của các nội dung bắt buộc trên nhãn không được thấp hơn 1,2 mm. Đối với trường hợp một mặt của bao gói dùng để ghi nhãn (không tính phần biên giáp mí) nhỏ hơn 80 cm2 thì chiều cao chữ không được thấp hơn 0,9 mm.
+
+Điều 6. Màu sắc của chữ, ký hiệu và hình ảnh trên nhãn hàng hóa
+
+Màu sắc của chữ, chữ số, hình vẽ, hình ảnh, dấu hiệu, ký hiệu ghi trên nhãn hàng hóa phải rõ ràng. Đối với những nội dung bắt buộc theo quy định thì chữ, chữ số phải có màu tương phản với màu nền của nhãn hàng hóa.
+
+Điều 7. Ngôn ngữ trình bày nhãn hàng hóa
+
+1. Những nội dung bắt buộc thể hiện trên nhãn hàng hóa phải được ghi bằng tiếng Việt, trừ trường hợp quy định tại khoản 4 Điều này.
+
+2. Hàng hóa được sản xuất và lưu thông trong nước, ngoài việc thực hiện quy định tại khoản 1 Điều này, nội dung thể hiện trên nhãn có thể được ghi bằng ngôn ngữ khác. Nội dung ghi bằng ngôn ngữ khác phải tương ứng nội dung tiếng Việt. Kích thước chữ được ghi bằng ngôn ngữ khác không được lớn hơn kích thước chữ của nội dung ghi bằng tiếng Việt.
+
+3. Hàng hóa nhập khẩu vào Việt Nam mà trên nhãn chưa thể hiện hoặc thể hiện chưa đủ những nội dung bắt buộc bằng tiếng Việt thì phải có nhãn phụ thể hiện những nội dung bắt buộc bằng tiếng Việt và giữ nguyên nhãn gốc của hàng hóa. Nội dung ghi bằng tiếng Việt phải tương ứng với nội dung ghi trên nhãn gốc.
+
+4. Các nội dung sau được phép ghi bằng các ngôn ngữ khác có gốc chữ cái La tinh:
+
+a) Tên quốc tế hoặc tên khoa học của thuốc dùng cho người trong trường hợp không có tên tiếng Việt;
+
+b) Tên quốc tế hoặc tên khoa học kèm công thức hóa học, công thức cấu tạo của hóa chất, dược chất, tá dược, thành phần của thuốc;
+
+c) Tên quốc tế hoặc tên khoa học của thành phần, thành phần định lượng của hàng hóa trong trường hợp không dịch được ra tiếng Việt hoặc dịch được ra tiếng Việt nhưng không có nghĩa;
+
+d) Tên và địa chỉ doanh nghiệp nước ngoài có liên quan đến sản xuất hàng hóa.
+
+Điều 8. Ghi nhãn phụ
+
+1. Nhãn phụ sử dụng đối với hàng hóa nhập khẩu theo quy định tại khoản 3 Điều 7 của Nghị định này.
+
+2. Nhãn phụ được sử dụng đối với hàng hóa không xuất khẩu được hoặc bị trả lại, đưa ra lưu thông trên thị trường.
+
+3. Nhãn phụ phải được gắn trên hàng hóa hoặc bao bì thương phẩm của hàng hóa và không được che khuất những nội dung bắt buộc của nhãn gốc.
+
+4. Nội dung ghi trên nhãn phụ là nội dung dịch nguyên ra tiếng Việt từ các nội dung bắt buộc ghi trên nhãn gốc và bổ sung các nội dung bắt buộc khác còn thiếu theo tính chất của hàng hóa theo quy định tại Nghị định này. Tổ chức, cá nhân ghi nhãn phải chịu trách nhiệm về tính chính xác, trung thực của nội dung ghi. Nội dung ghi trên nhãn phụ gồm cả nội dung được ghi bổ sung không làm hiểu sai nội dung trên nhãn gốc và phải phản ánh đúng bản chất và nguồn gốc của hàng hóa.
+
+Đối với hàng hóa không xuất khẩu được hoặc bị trả lại, đưa ra lưu thông trên thị trường thì trên nhãn phụ phải có dòng chữ in đậm “Được sản xuất tại Việt Nam”.
+
+5. Những hàng hóa sau đây không phải ghi nhãn phụ:
+
+a) Linh kiện nhập khẩu để thay thế các linh kiện bị hỏng trong dịch vụ bảo hành hàng hóa của tổ chức, cá nhân chịu trách nhiệm đối với hàng hóa đó, không bán ra thị trường;
+
+b) Nguyên liệu, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, linh kiện nhập khẩu về để sản xuất, không bán ra thị trường.
+
+Điều 9. Trách nhiệm ghi nhãn hàng hóa
+
+1. Tổ chức, cá nhân chịu trách nhiệm ghi nhãn hàng hóa kể cả nhãn phụ phải bảo đảm ghi nhãn trung thực, rõ ràng, chính xác, phản ánh đúng bản chất của hàng hóa.
+
+2. Hàng hóa sản xuất để lưu thông trong nước thì tổ chức, cá nhân sản xuất phải chịu trách nhiệm thực hiện ghi nhãn hàng hóa.
+
+Trong trường hợp tổ chức, cá nhân chịu trách nhiệm ghi nhãn hàng hóa yêu cầu tổ chức, cá nhân khác thực hiện việc ghi nhãn thì tổ chức, cá nhân đó vẫn phải chịu trách nhiệm về nhãn hàng hóa của mình.
+
+3. Trong trường hợp hàng hóa xuất khẩu không xuất khẩu được hoặc bị trả lại, đưa ra lưu thông trên thị trường thì tổ chức, cá nhân đưa hàng hóa ra lưu thông phải ghi nhãn theo quy định của Nghị định này.
+
+4. Hàng hóa nhập khẩu vào Việt Nam mà nhãn gốc không phù hợp với quy định của Nghị định này thì tổ chức, cá nhân nhập khẩu phải ghi nhãn phụ theo quy định tại khoản 3 Điều 7 và các khoản 3, 4 Điều 8 của Nghị định này khi đưa ra lưu thông và phải giữ nguyên nhãn gốc.
+
+Chương II
+
+NỘI DUNG VÀ CÁCH GHI NHÃN HÀNG HÓA
+
+Điều 10. Nội dung bắt buộc phải thể hiện trên nhãn hàng hóa
+
+1. Nhãn hàng hóa bắt buộc phải thể hiện các nội dung sau:
+
+a) Tên hàng hóa;
+
+b) Tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa;
+
+c) Xuất xứ hàng hóa;
+
+d) Các nội dung khác theo tính chất của mỗi loại hàng hóa được quy định tại Phụ lục I của Nghị định này và văn bản quy phạm pháp luật liên quan.
+
+2. Trường hợp hàng hóa có tính chất thuộc nhiều nhóm tại Phụ lục I hoặc chưa được quy định trong văn bản quy phạm pháp luật, căn cứ vào công dụng chính của hàng hóa, tổ chức, cá nhân chịu trách nhiệm về hàng hóa tự xác định nhóm của hàng hóa để ghi các nội dung quy định tại điểm d khoản 1 Điều này.
+
+3. Trường hợp do kích thước của hàng hóa không đủ để thể hiện tất cả các nội dung bắt buộc trên nhãn thì phải ghi những nội dung quy định tại các điểm a, b và c khoản 1 Điều này trên nhãn hàng hóa, những nội dung quy định tại điểm d khoản 1 Điều này được ghi trong tài liệu kèm theo hàng hóa và trên nhãn phải chỉ ra nơi ghi các nội dung đó.
+
+Đối với hàng hóa là trang thiết bị y tế thì việc thể hiện những nội dung quy định tại điểm d khoản 1 Điều này được thực hiện theo quy định tại Phụ lục I của Nghị định này.
+
+Điều 11. Tên hàng hóa
+
+Tên hàng hóa phải ở vị trí dễ thấy, dễ đọc trên nhãn hàng hóa. Chữ viết tên hàng hóa phải là chữ có kích thước lớn nhất so với các nội dung bắt buộc khác trên nhãn hàng hóa.
+
+Tên hàng hóa ghi trên nhãn do tổ chức, cá nhân sản xuất hàng hóa tự đặt. Tên hàng hóa không được làm hiểu sai lệch về bản chất, công dụng và thành phần của hàng hóa.
+
+Trường hợp tên của thành phần được sử dụng làm tên hay một phần của tên hàng hóa thì thành phần đó bắt buộc phải ghi định lượng, trừ trường hợp quy định tại khoản 4 Điều 13 của Nghị định này.
+
+Điều 12. Tên và địa chỉ tổ chức, cá nhân chịu trách nhiệm về hàng hóa
+
+1. Tên riêng của tổ chức, cá nhân và địa danh ghi trên nhãn hàng hóa không được viết tắt.
+
+2. Hàng hóa được sản xuất trong nước thì ghi tên của tổ chức, cá nhân và địa chỉ cơ sở sản xuất hàng hóa đó.
+
+a) Cơ sở sản xuất hàng hóa là thành viên trong một tổ chức như công ty, tổng công ty, tập đoàn, hiệp hội và các tổ chức khác thì có quyền ghi tên hoặc tên và địa chỉ và các nội dung khác của tổ chức đó trên nhãn khi được các tổ chức này cho phép.
+
+b) Hàng hóa có cùng thương hiệu được sản xuất tại nhiều cơ sở sản xuất khác nhau, thì tổ chức, cá nhân chịu trách nhiệm về hàng hóa, được ghi tên và địa chỉ của tổ chức, cá nhân đó trên nhãn hàng hóa nếu chất lượng của hàng hóa phù hợp với tiêu chuẩn chất lượng hàng hóa do tổ chức, cá nhân chịu trách nhiệm về hàng hóa đó công bố hoặc đăng ký lưu hành và phải bảo đảm truy xuất được nguồn gốc của hàng hóa.
+
+3. Hàng hóa được nhập khẩu để lưu thông tại Việt Nam thì ghi tên và địa chỉ của tổ chức, cá nhân sản xuất và ghi tên, địa chỉ của tổ chức, cá nhân nhập khẩu.
+
+Đối với hàng hóa là trang thiết bị y tế được nhập khẩu để lưu thông tại Việt Nam thì ghi tên và địa chỉ của tổ chức, cá nhân sản xuất gắn với xuất xứ của hàng hóa đó và ghi tên, địa chỉ của chủ sở hữu số đăng ký lưu hành trang thiết bị y tế.
+
+4. Hàng hóa của tổ chức, cá nhân làm đại lý bán hàng trực tiếp cho thương nhân nước ngoài nhập khẩu hàng hóa vào Việt Nam thì ghi tên và địa chỉ của tổ chức, cá nhân sản xuất và tên, địa chỉ của tổ chức, cá nhân làm đại lý bán hàng hóa đó.
+
+5. Hàng hóa được một tổ chức, cá nhân nhượng quyền về nhãn hàng hóa thì ngoài việc thực hiện theo quy định tại khoản 2, 3 và 4 Điều này còn phải ghi thêm tên, địa chỉ của tổ chức, cá nhân nhượng quyền.
+
+6. Trường hợp tổ chức, cá nhân thực hiện lắp ráp, đóng gói, đóng chai thì trên nhãn phải ghi tên và địa chỉ của tổ chức, cá nhân lắp ráp, đóng gói, đóng chai đó và phải ghi tên hoặc tên và địa chỉ, và các nội dung khác của tổ chức, cá nhân sản xuất ra hàng hóa trước khi lắp ráp, đóng gói, đóng chai khi được các tổ chức, cá nhân này cho phép.
+
+Điều 13. Định lượng hàng hóa
+
+1. Hàng hóa định lượng bàng đại lượng đo lường thì phải ghi định lượng theo quy định của pháp luật Việt Nam về đo lường.
+
+2. Hàng hóa định lượng bằng số đếm thì phải ghi định lượng theo số đếm tự nhiên.
+
+3. Trường hợp trong một bao bì thương phẩm có nhiều đơn vị hàng hóa thì phải ghi định lượng của từng đơn vị hàng hóa và định lượng tổng của các đơn vị hàng hóa.
+
+4. Trường hợp chất phụ gia dùng để tạo màu sắc, hương, vị mà màu sắc, hương, vị đó ghi kèm theo tên hàng hóa thì không phải ghi định lượng.
+
+5. Trường hợp tên chất chiết xuất, tinh chất từ các nguyên liệu tự nhiên ghi kèm tên hàng hóa thì phải ghi thành phần định lượng chất chiết xuất, tinh chất hoặc khối lượng nguyên liệu tương đương dùng để tạo ra lượng chất chiết xuất, tinh chất đó.
+
+6. Cách ghi định lượng hàng hóa quy định tại Phụ lục II của Nghị định này.
+
+Điều 14. Ngày sản xuất, hạn sử dụng
+
+1. Ngày sản xuất, hạn sử dụng hàng hóa được ghi theo thứ tự ngày, tháng, năm của năm dương lịch. Trường hợp ghi theo thứ tự khác thì phải có chú thích thứ tự đó bằng tiếng Việt.
+
+Mỗi số chỉ ngày, chỉ tháng, chỉ năm ghi bằng hai chữ số, được phép ghi số chỉ năm bằng bốn chữ số. Số chỉ ngày, tháng, năm của một mốc thời gian phải ghi cùng một dòng.
+
+Trường hợp quy định ghi tháng sản xuất thì ghi theo thứ tự tháng, năm của năm dương lịch.
+
+Trường hợp quy định ghi năm sản xuất thì ghi bốn chữ số chỉ năm của năm dương lịch.
+
+“ngày sản xuất”, “hạn sử dụng” hoặc “hạn dùng” ghi trên nhãn được ghi đầy đủ hoặc ghi tắt bằng chữ in hoa là: “NSX”, “HSD” hoặc “HD”.
+
+2. Trường hợp hàng hóa bắt buộc phải ghi ngày sản xuất và hạn sử dụng theo quy định tại Phụ lục I của Nghị định này mà nhãn hàng hóa đã ghi ngày sản xuất theo quy định tại khoản 1 Điều này thì hạn sử dụng được phép ghi là khoảng thời gian kể từ ngày sản xuất và ngược lại nếu nhãn hàng hóa đã ghi hạn sử dụng thì ngày sản xuất được phép ghi là khoảng thời gian trước hạn sử dụng.
+
+3. Đối với hàng hóa được san chia, sang chiết, nạp, đóng gói lại phải thể hiện ngày san chia, sang chiết, nạp, đóng gói lại và hạn sử dụng phải được tính từ ngày sản xuất được thể hiện trên nhãn gốc.
+
+4. Cách ghi ngày sản xuất, hạn sử dụng được quy định cụ thể tại Mục 1 Phụ lục III của Nghị định này.
+
+Hàng hóa có cách ghi mốc thời gian khác với quy định tại khoản 1 Điều này quy định tại Mục 2 Phụ lục III của Nghị định này.
+
+Điều 15. Xuất xứ hàng hóa
+
+1. Tổ chức, cá nhân sản xuất, nhập khẩu tự xác định và ghi xuất xứ đối với hàng hóa của mình nhưng phải bảo đảm trung thực, chính xác, tuân thủ các quy định của pháp luật về xuất xứ hàng hóa hoặc các Hiệp định mà Việt Nam đã tham gia hoặc ký kết.
+
+2. Cách ghi xuất xứ hàng hóa được quy định như sau: Ghi cụm từ “sản xuất tại” hoặc “chế tạo tại”, “nước sản xuất”, “xuất xứ” hoặc “sản xuất bởi” kèm tên nước hoặc vùng lãnh thổ sản xuất ra hàng hóa đó.
+
+Tên nước hoặc vùng lãnh thổ sản xuất ra hàng hóa đó không được viết tắt.
+
+Điều 16. Thành phần, thành phần định lượng
+
+1. Ghi thành phần là ghi tên nguyên liệu kể cả chất phụ gia dùng để sản xuất ra hàng hóa và tồn tại trong thành phẩm kể cả trường hợp hình thức nguyên liệu đã bị thay đổi.
+
+Trường hợp tên của thành phần được ghi trên nhãn hàng hóa để gây sự chú ý đối với hàng hóa thì thành phần đó bắt buộc phải ghi định lượng, trừ trường hợp quy định tại khoản 4 Điều 13 của Nghị định này.
+
+2. Ghi thành phần định lượng là ghi thành phần kèm định lượng của từng thành phần. Tùy theo tính chất, trạng thái của hàng hóa, thành phần định lượng được ghi là khối lượng của thành phần đó có trong một đơn vị sản phẩm hoặc ghi theo một trong các tỷ lệ: Khối lượng với khối lượng; khối lượng với thể tích; thể tích với thể tích; phần trăm khối lượng; phần trăm thể tích.
+
+Trường hợp thành phần hàng hóa được định lượng bằng các đại lượng đo lường phải ghi định lượng theo quy định của pháp luật Việt Nam về đo lường.
+
+3. Đối với một số loại hàng hóa, việc ghi thành phần, thành phần định lượng được quy định như sau:
+
+a) Đối với thực phẩm phải ghi thành phần theo thứ tự từ cao đến thấp về khối lượng.
+
+Nếu thành phần là chất phụ gia, phải ghi tên nhóm chất phụ gia, tên chất phụ gia hoặc mã số quốc tế INS (nếu có); trường hợp chất phụ gia là hương liệu, chất tạo ngọt, chất tạo màu thì phải ghi tên nhóm hương liệu, chất tạo ngọt, chất tạo màu, ghi tên chất (nếu có) và ghi thêm chất đó là chất “tự nhiên”, “giống tự nhiên”, “tổng hợp” hay “nhân tạo”;
+
+b) Đối với thuốc dùng cho người, vắc xin, sinh phẩm y tế, chế phẩm sinh học, thuốc thú y, thuốc bảo vệ thực vật, phải ghi thành phần và hàm lượng các hoạt chất;
+
+c) Đối với mỹ phẩm phải ghi thành phần bao gồm cả các chất phụ gia;
+
+d) Đối với đồ gia dụng kim khí, đồ dùng được chế tạo từ một loại nguyên liệu chính quyết định giá trị sử dụng thì phải ghi tên thành phần nguyên liệu chính cùng với tên hàng hóa và không phải ghi thành phần và thành phần định lượng.
+
+4. Thành phần, thành phần định lượng của hàng hóa có cách ghi khác với quy định tại khoản 3 Điều này quy định tại Phụ lục IV của Nghị định này.
+
+Điều 17. Thông số kỹ thuật, thông tin cảnh báo
+
+1. Thông số kỹ thuật và dung sai của thông số này (nếu có), thông tin cảnh báo phải tuân thủ quy định của pháp luật có liên quan. Trường hợp không có quy định cụ thể, tổ chức, cá nhân chịu trách nhiệm ghi nhãn hàng hóa tự xác định thông số kỹ thuật, dung sai và thông tin cảnh báo. Thông tin cảnh báo ghi trên nhãn bằng chữ, bằng hình ảnh hoặc bằng các ký hiệu theo thông lệ quốc tế và quy định liên quan.
+
+Giá trị khoảng dung sai được thể hiện trên nhãn phải tuân thủ quy định của pháp luật có liên quan và tiêu chuẩn công bố áp dụng. Trường hợp thể hiện một giá trị cụ thể thì không được ghi theo hướng tạo lợi thế cho chính hàng hóa đó.
+
+2. Hàng điện, điện tử, máy móc, thiết bị phải ghi các thông số kỹ thuật cơ bản.
+
+3. Thuốc dùng cho người, vắc xin, sinh phẩm y tế, chế phẩm sinh học phải ghi:
+
+a) Chỉ định, cách dùng, chống chỉ định của thuốc (nếu có);
+
+b) Số giấy đăng ký lưu hành thuốc, số giấy phép nhập khẩu, số lô sản xuất, dạng bào chế, quy cách đóng gói;
+
+c) Các dấu hiệu cần lưu ý cho từng loại thuốc theo quy định hiện hành.
+
+4. Thuốc thú y, thuốc bảo vệ thực vật phải ghi:
+
+a) Chỉ định, cách dùng, chống chỉ định của thuốc (nếu có);
+
+b) Số đăng ký, số lô sản xuất, dạng bào chế, quy cách đóng gói;
+
+c) Các dấu hiệu cần lưu ý cho từng loại thuốc theo quy định hiện hành.
+
+5. Đối với thực phẩm ghi giá trị dinh dưỡng thì tổ chức, cá nhân chịu trách nhiệm về hàng hóa thể hiện giá trị dinh dưỡng trên nhãn hàng hóa bảo đảm thể hiện khoảng giá trị dinh dưỡng tuân thủ quy định của pháp luật có liên quan và tiêu chuẩn công bố áp dụng. Trường hợp thể hiện một giá trị cụ thể thì ghi giá trị trung bình của khoảng giá trị dinh dưỡng.
+
+6. Thành phần hoặc chất trong thành phần phức hợp của hàng hóa thuộc loại đặc biệt có sử dụng chất bảo quản mà đã quy định liều lượng sử dụng và xếp trong danh sách gây kích ứng, độc hại đối với người, động vật và môi trường phải ghi tên chất bảo quản kèm theo các thành phần này.
+
+7. Hàng hóa hoặc thành phần của hàng hóa đã chiếu xạ, đã áp dụng kỹ thuật biến đổi gen ghi theo quy định của pháp luật và Điều ước quốc tế mà Việt Nam là thành viên.
+
+8. Thông số kỹ thuật; thông tin cảnh báo của hàng hóa có cách ghi khác với quy định tại Điều này thì ghi theo quy định tại Phụ lục V của Nghị định này và các văn bản pháp luật liên quan.
+
+Điều 18. Các nội dung khác thể hiện trên nhãn hàng hóa
+
+1. Tổ chức, cá nhân chịu trách nhiệm về hàng hóa được thể hiện mã số, mã vạch, dấu hợp chuẩn, dấu hợp quy và những nội dung khác (nếu có). Những nội dung thể hiện thêm không được trái với pháp luật và phải bảo đảm trung thực, chính xác, phản ánh đúng bản chất của hàng hóa, không che khuất, không làm sai lệch những nội dung bắt buộc trên nhãn.
+
+2. Nhãn hàng hóa không được thể hiện những hình ảnh, nội dung liên quan đến tranh chấp chủ quyền và các nội dung nhạy cảm khác có thể gây ảnh hưởng đến an ninh, chính trị, kinh tế, xã hội, quan hệ ngoại giao và thuần phong mỹ tục của Việt Nam.
+
+Điều 19. Các thông tin phải thể hiện đối với hàng hóa có bao bì đóng gói đơn giản, hàng hóa dạng rời không có bao bì thương phẩm
+
+Hàng hóa có bao bì đóng gói đơn giản, hàng hóa dạng rời là phụ gia thực phẩm, hóa chất, không có bao bì thương phẩm để bán trực tiếp cho người tiêu dùng thì tổ chức, cá nhân bán hàng phải công khai các thông tin sau để người tiêu dùng nhận biết:
+
+1. Tên hàng hóa;
+
+2. Hạn sử dụng;
+
+3. Cảnh báo an toàn (nếu có);
+
+4. Tên và địa chỉ tổ chức, cá nhân chịu trách nhiệm về hàng hóa;
+
+5. Hướng dẫn sử dụng.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 20. Bộ Khoa học và Công nghệ
+
+1. Xây dựng và trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật về nhãn hàng hóa.
+
+2. Chủ trì, phối hợp với các bộ, ngành, địa phương thực hiện quản lý, thanh tra, kiểm tra, xử lý vi phạm về nhãn hàng hóa.
+
+3. Tổng cục Tiêu chuẩn Đo lường Chất lượng thuộc Bộ Khoa học và Công nghệ là cơ quan giúp Bộ trưởng Bộ Khoa học và Công nghệ thực hiện thống nhất quản lý về nhãn hàng hóa.
+
+Điều 21. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ
+
+1. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Khoa học và Công nghệ thực hiện quản lý nhãn hàng hóa.
+
+2. Căn cứ yêu cầu thực tiễn quản lý đối với hàng hóa thuộc lĩnh vực được phân công, các bộ, cơ quan ngang bộ hướng dẫn cách ghi nhãn hàng hóa sau khi thống nhất với Bộ Khoa học và Công nghệ.
+
+Điều 22. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
+
+Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý, thanh tra, kiểm tra về nhãn hàng hóa tại địa phương.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 23. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2017.
+
+2. Nghị định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính phủ về nhãn hàng hóa hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
+
+Điều 24. Điều khoản chuyển tiếp
+
+1. Hàng hóa có nhãn đúng quy định tại Nghị định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 của Chính phủ quy định về nhãn hàng hóa đã được sản xuất, nhập khẩu, lưu thông, sử dụng trước thời điểm Nghị định này có hiệu lực thì được tiếp tục lưu thông, sử dụng cho đến hết hạn sử dụng ghi trên nhãn hàng hóa đó.
+
+2. Nhãn hàng hóa, bao bì thương phẩm gắn nhãn hàng hóa đúng quy định tại Nghị định số 89/2006/NĐ-CP đã được sản xuất, in ấn trước thời điểm Nghị định này có hiệu lực được tiếp tục sử dụng, nhưng không quá 02 năm kể từ ngày Nghị định này có hiệu lực thi hành.
+
+Điều 25. Trách nhiệm thi hành
+
+1. Bộ trưởng Bộ Khoa học và Công nghệ có trách nhiệm hướng dẫn thực hiện Nghị định này.
+
+2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+
+
+
+
+
+

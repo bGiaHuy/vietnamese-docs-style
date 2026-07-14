@@ -1,0 +1,78 @@
+GIÁO ÁN HÓA HỌC - LỚP 6
+Bài: Bảng tuần hoàn
+Thời lượng: 2 tiết
+Ngày soạn: 2026-01-13
+
+I. MỤC TIÊU
+1. Kiến thức:
+  - Học sinh vận dụng được nội dung về bảng tuần hoàn.
+  - Học sinh trình bày được ý nghĩa về bảng tuần hoàn.
+2. Năng lực:
+  - Năng lực giao tiếp và hợp tác
+  - Năng lực công nghệ
+  - Năng lực ngôn ngữ
+  - Năng lực tự chủ và tự học
+3. Phẩm chất:
+  - Nhân ái
+  - Chăm chỉ
+  - Trách nhiệm
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. Giáo viên: SGK, SGV, giáo án, máy chiếu, bảng phụ, phiếu học tập.
+2. Học sinh: SGK, vở ghi, đồ dùng học tập.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+Hoạt động 1: Khởi động (17 phút)
+a) Mục tiêu: Học sinh nắm bắt kiến thức về Bảng tuần hoàn.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS đọc SGK và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 2: Hình thành kiến thức (5 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bảng tuần hoàn.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, bài tập nhóm.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 3: Luyện tập (14 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Bảng tuần hoàn.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 4: Vận dụng (25 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Bảng tuần hoàn.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 5: Mở rộng (14 phút)
+a) Mục tiêu: Học sinh mở rộng kiến thức về Bảng tuần hoàn.
+b) Nội dung: GV sử dụng phương pháp {random.choice(pp)} để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS đọc SGK và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+IV. RÚT KINH NGHIỆM
+  ...
+Nguồn: Tài liệu tập huấn giáo viên Hóa Học lớp 6 - Bộ GD&ĐT

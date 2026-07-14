@@ -1,0 +1,117 @@
+# Định thể thức thi hành kỷ luật đối với công chức bỏ việc
+# Loại: Thông tư
+# Số hiệu: 1-NV-2A-TT
+# Ngày ban hành: 12/01/1951
+# Cơ quan: Bộ Nội vụ
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA THỦ TƯỚNG CHÍNH PHỦ
+
+Về việc phê duyệt "Quy hoạch phổ tần số vô tuyến điện của Việt Nam cho các nghiệp vụ"
+
+
+
+THỦ TƯỚNG CHÍNH PHỦ
+
+Căn cứ Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+
+Căn cứ Nghị định số 109/1997/NĐ-CP ngày) 11-12-1997 của Chính phủ về bưu chính và viễn thông;
+
+Xét đề nghị của Tổng Cục trưởng Tổng cục Bưu điện tại Văn bản số 338-CTS ngày 14-3-1998 và Chủ tịch Uỷ ban Tần số vô tuyến điện tại Văn bản số 61-UBTS ngày 25-2-1998,
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1. Phê duyệt Quy hoạch phổ tần số vô tuyến điện của Việt Nam cho các nghiệp vụ với nội dung chủ yếu sau đây:
+
+I. MỤC TIÊU QUY HOẠCH
+
+Phổ tần số vô tuyến điện là nguồn tài nguyên thiên nhiên quý hiếm. Việc sử dụng, khai thác và quản lý phổ tần số vô tuyến điện phải đạt được hiệu quả, hợp lý, tiết kiệm và bảo vệ được chủ quyền của quốc gia:
+
+Cùng với quy hoạch phát triển ngành Bưu chính viễn thông, Quy hoạch phổ tần số vô tuyến điện của Việt Nam cho các nghiệp vụ góp phần vào việc phát triển mạng thông tin vô tuyến điện theo hướng hiện đại, đồng bộ và ổn định lâu dài, phù hợp với xu hướng phát triển của quốc tế, đáp ứng các nhu cầu về thông tin phục vụ phát triển kinh tế - xã hội, quốc phòng và an ninh, tạo cơ sở cho việc xã hội hóa thông tin vào đầu thế kỷ 21.
+
+II. CÁC NGUYÊN TẮC CƠ BẢN TRONG XÂY DỤNG QUY HOẠCH
+
+1. Nhà nước thống nhất quản lý về tần số và máy phát vô tuyến điện.
+
+2. Quản lý và khai thác phổ tần số vô tuyến điện có hiệu quả, hợp lý, tiết kiệm, bảo đảm quyền lợi và chủ quyền của quốc gia.
+
+3. Đảm bảo an toàn thông tin và an ninh quốc gia.
+
+4. Phù hợp với những quy định về phân chia tần số cho các nghiệp vụ thông tin vô tuyến điện của Tổ chức Liên minh viễn thông quốc tế (TTU).
+
+5. Tính đến những đặc thù sử dụng phổ tần số vô tuyến điện của Việt Nam hiện nay, đảm bảo việc chuyển đổi từ hiện trạng sang quy hoạch mới với chi phí ít nhất, không làm ảnh hưởng đến hoạt động của các mạng thông tin quan trọng của quốc gia.
+
+6. Bưu điện dành băng tần cho các công nghệ mới và đáp ứng nhu cầu về băng tần vô tuyến điện cho các nghiệp vụ ở Việt Nam trong thời gian từ 10 đến 15 năm tới.
+
+7. Dành riêng một số băng tần cho an ninh, quốc phòng theo tỷ lệ phù hợp với nhiệm vụ chính trị của đất nước trong từng giai đoạn.
+
+III. NỘI DUNG VÀ NHIỆM VỤ CHỦ YẾU CỦA QUY HOẠCH
+
+A. NỘI DUNG QUY HOẠCH TẦN SỐ VÔ TUYẾN ĐIỆN GỒM
+
+1. Quy hoạch phổ tần số vô tuyến điện cho các nghiệp vụ:
+
+Quy hoạch phổ tần số vô tuyến điện cho các nghiệp vụ là phân chia giải tần từ 9 kHz - 400 GHz thành các băng tần nhỏ và quy định mục đích, điều kiện sử dụng các băng tần đó. Nội dung cụ thể quy hoạch này thể hiện trong bảng phân chia phế tần số cho các nghiệp vụ, được trình tại Văn bản số 388-CTS ngày 14-8-1998 của Tổng cục Bưu điện.
+
+Các nghiệp vụ chủ yếu của thông tin vô tuyến điện gồm: cố định, lưu động, quảng bá (phát thanh và truyền hình), hàng không, hàng hải, dẫn đường, định vị, vệ tinh, phát chuẩn...
+
+Quy hoạch phổ tần số vô tuyến điện cho các nghiệp vụ là nội dung quan trọng nhất, là cơ sở để các Bộ, ngành định hướng sử dụng vá đầu tư trang bị kỹ thuật vô tuyến điện, là cơ sở để tiến hành các bước quy hoạch chi tiết (quy hoạch theo kênh và quy hoạch theo vùng).
+
+2. Quy hoạch theo kênh và quy hoạch theo vùng:
+
+Quy hoạch theo kênh là phân chia một số băng tần thành các nhóm kênh tần số cụ thể cho các hệ thống vô tuyến cụ thể theo quy hoạch phổ tần số vô tuyến điện cho các nghiệp vụ để đảm bảo các tiêu chuẩn kỹ thuật.
+
+Quy hoạch theo vùng là thiết lập các vùng tái sử dụng tần số trong dải sóng cực ngắn để nâng cao hiệu quả sử dụng phổ tần số, nhằm đáp ứng nhu cầu phát triển của ngành Viễn thông, Phát thanh và Truyền hình.
+
+Tổng cục Bưu điện triển khai thực hiện các quy hoạch này trên cơ sở Quy hoạch phổ tần số vô tuyến điện cho các nghiệp vụ đã được Thủ tướng Chính phủ phê duyệt.
+
+B. CÁC NHIỆM VỤ CHỦ YẾU ĐỂ THỰC HIỆN QUY HOẠCH
+
+1. Xây dựng chính sách quốc gia, các văn bản pháp quy, quy định việc sử dụng, khai thác và quản lý phổ tần số vô tuyến điện.
+
+2. Xây dựng hệ thống đăng ký và phối hợp quốc tế nhằm đảm bảo quyền lợi và bảo vệ chủ quyền quốc gia về tần số vô tuyến điện, quỹ đạo vệ tinh.
+
+3. Hoàn thành việc xây dựng các Trung tâm kiểm soát khu vực, tiếp tục hiện đại hóa trang thiết bị kiểm tra, kiểm soát tần số. Đến năm 2000 kiểm soát thường xuyên được 100% các vùng trọng điểm và ít nhất là trên 50% diện tích lãnh thổ.
+
+4. Trên cơ sở Quy hoạch phổ tần số cho các nghiệp vụ của Việt Nam, hoàn thành việc phân chia phổ tần số phục vụ cho an ninh - quốc phòng.
+
+5. Tiến hành đăng ký và phối hợp với liên minh viễn thông quốc tế và các nước liên quan để có được ít nhất một quỹ đạo vệ tinh địa tĩnh trước năm 2000 cho Dự án vệ tinh viễn thông của Việt Nam.
+
+IV. TỔ CHỨC THỰC HIỆN QUY HOẠCH
+
+1. Trên cơ sở nội dung và nhiệm vụ chủ yếu của Quy hoạch, Tổng cục Bưu điện phối hợp với các Bộ, ngành hữu quan ban hành các văn bản pháp quy, thông tư hướng dẫn nhằm quán triệt nội dung Quy hoạch đến các đối tượng có sử dụng tần số, sản xuất xuất nhập khẩu thiết bị vô tuyến điện.
+
+2. Nội dung nhiệm vụ của Quy hoạch cần được thể hiện trong các kế hoạch hàng năm và dài hạn, các chương trình, phát triển và dự án đầu tư cụ thể.
+
+3. Trong quá trình thực hiện Quy hoạch, Tổng cục Bưu điện và Uỷ ban Tần số vô tuyến điện được phép điều chỉnh cho phù hợp với các quy định mới của quốc tế có tính tới điều kiện thực tế của Việt Nam. Những điều chỉnh lớn, quan trọng phải được Thủ tướng Chính phủ cho phép.
+
+Điều 2. Tổng cục Bưu điện có trách nhiệm hướng dẫn và kiểm tra việc thực hiện Quy hoạch.
+
+Điều 3. Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký.
+
+Điều 4. Bộ trưởng các Bộ, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết đinh này./.
+
+
+
+
+
+

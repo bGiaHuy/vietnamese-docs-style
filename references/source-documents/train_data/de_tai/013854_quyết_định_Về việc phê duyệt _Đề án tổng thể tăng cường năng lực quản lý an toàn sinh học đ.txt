@@ -1,0 +1,386 @@
+# Về việc phê duyệt "Đề án tổng thể tăng cường năng lực quản lý an toàn sinh học đối với sinh vật biến đổi gen và sản phẩm, hàng hoá có nguồn gốc từ sinh vật biến đổi gen từ nay đến năm 2010 thực hiện Nghị định thư Cartagena về An toàn sinh học"
+# Loại: Quyết định
+# Số hiệu: 102/2007/QĐ-TTg
+# Ngày ban hành: 10/07/2007
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Tấn Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+NGHỊ ĐỊNH
+
+Về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã
+
+để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước
+
+______________________
+
+
+
+Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;
+
+Căn cứ Pháp lệnh Cơ yếu ngày 15 tháng 4 năm 2001;
+
+Xét đề nghị của Trưởng ban Ban Cơ yếu Chính phủ.
+
+NGHỊ ĐỊNH
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Nghị định này quy định về hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước; quản lý nhà nước về mật mã dân sự, thanh tra, kiểm tra, xử lý vi phạm và giải quyết khiếu nại, tố cáo về mật mã dân sự.
+
+Điều 2. Đối tượng áp dụng
+
+Nghị định này áp dụng đối với tổ chức, cá nhân tham gia hoạt động nghiên cứu, sản xuất, kinh doanh và sử dụng mật mã để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+Trường hợp Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Nghị định này thì áp dụng quy định của Điều ước quốc tế đó.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Nghị định này các từ ngữ dưới đây được hiểu như sau:
+
+1. "Thông tin không thuộc phạm vi bí mật nhà nước" là thông tin không thuộc nội dung tin “tuyệt mật", "tối mật" và “mật" được quy định tại Pháp lệnh Bảo vệ bí mật nhà nước ngày 28 tháng 12 năm 2000.
+
+2. "Mật mã" là quy tắc, quy ước riêng dùng để thay đổi hình thức biểu hiện thông tin với mục đích giữ bí mật nội dung thông tin đó.
+
+3. "Mật mã dân sự" là mật mã dùng đề bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+4. "Sản phẩm mật mã dân sự" là các tài liệu, trang thiết bị kỹ thuật, chương trình phần mềm mật mã dùng để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+5. "Kinh doanh sản phẩm mật mã dân sự" là việc thực hiện một hoặc nhiều công đoạn của quá trình đầu tư, từ sản xuất đến tiêu thụ sản phẩm mật mã dân sự hoặc cung cấp dịch vụ mật mã dân sự trên thị trường nhằm mục đích sinh lợi.
+
+6. "Dịch vụ mật mã dân sự" bao gồm các dịch vụ tư vấn, cung cấp, triển khai lắp đặt, đào tạo, bảo hành, sửa chữa các loạt sản phẩm mật mã dân sự và các dịch vụ khác có liên quan để bảo vệ thông tin không thuộc phạm vi bí mật nhà nước.
+
+Điều 4. Quy chuẩn kỹ thuật và áp dụng quy chuẩn kỹ thuật đối với sản phẩm mật mã dân sự
+
+1. Danh mục sản phẩm mật mã dân sự phải áp dụng Quy chuẩn kỹ thuật quốc gia trong từng thời kỳ do Ban Cơ yếu Chính phủ chủ trì, phối hợp với Bộ Khoa học và Công nghệ xây dựng, trình cơ quan có thẩm quyền ban hành. Danh mục này được rà soát hàng năm để bổ sung các sản phẩm mật mã dân sự bắt buộc phải áp dụng Quy chuẩn kỹ thuật quốc gia theo quy định hiện hành.
+
+2. Danh mục sản phẩm mật mã dân sự phải được chứng nhận hợp quy phù hợp với Quy chuẩn kỹ thuật quốc gia trong từng thời kỳ do Ban Cơ yếu Chính phủ chủ trì, phối hợp với Bộ Khoa học và Công nghệ xây dựng, trình cơ quan có thẩm quyền ban hành trên cơ sở danh mục sản phẩm mật mã dân sự phải áp dụng Quy chuẩn kỹ thuật quốc gia quy định tại khoản 1 Điều này.
+
+Điều 5. Chính sách của Nhà nước về hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự
+
+1. Chú trọng đầu tư xây dựng cơ sở vật chất - kỹ thuật, đào tạo nguồn nhân lực phục vụ quản lý nhà nước về hoạt động trong lĩnh vực mật mã dân sự.
+
+2. Khuyến khích các hoạt động nghiên cứu, ứng dụng khoa học và phát triển công nghệ phục vụ hoạt động trong lĩnh vực mật mã dân sự.
+
+3. Khuyến khích và tạo điều kiện để tổ chức, cá nhân sử dụng sản phẩm mật mã dân sự đáp ứng yêu cầu phát triển kinh tế - xã hội.
+
+4. Bảo đảm quyền và lợi ích hợp pháp của tổ chức, cá nhân tham gia hoạt động nghiên cứu mật mã dân sự; sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự theo quy định của pháp luật.
+
+5. Khuyến khích mở rộng hợp tác quốc tế về lĩnh vực mật mã dân sự.
+
+Điều 6. Các hành vi bị nghiêm cấm trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự
+
+1. Tuyên truyền xuyên tạc, chống lại đường lối, chính sách của Đảng Cộng sản Việt nam, pháp luật của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, phá hoại khối đại đoàn kết dân tộc.
+
+2. Xâm hại đến lợi ích của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
+3. Xâm phạm quyền sở hữu trí tuệ; thu thập, chiếm đoạt, lừa dối, giả mạo, chuyển nhượng bất hợp pháp các sản phẩm mật mã dân sự.
+
+4. Xâm nhập, khám phá trái phép bí mật mật mã và thông tin đã mã hóa hợp pháp của tổ chức, cá nhân; tiết lộ thông tin về sản phẩm mật mã dân sự, thông tin về khách hàng sử dụng hợp pháp sản phẩm mật mã dân sự gây thiệt hại cho tổ chức, cá nhân; tiết lộ thông tin bí mật nhà nước dưới bất kỳ hình thức nào.
+
+5. Kinh doanh các sản phẩm mật mã dân sự không rõ nguồn gốc.
+
+Chương II
+
+NGHIÊN CỨU MẬT MÃ DÂN SỰ, SẢN XUẤT,KINH DOANH VÀ SỬ DỤNG SẢN PHẨM MẬT MÃ DÂN SỰ
+
+MỤC 1
+
+NGHIÊN CỨU MẬT MÃ DÂN SỰ
+
+Điều 7. Quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động nghiên cứu mật mã dân sự
+
+Tổ chức, cá nhân hoạt động nghiên cứu mật mã dân sự được hưởng các quyền và thực hiện nghĩa vụ theo quy định tại Điều 15, Điều 16, Điều 17, Điều 18 Luật khoa học và Công nghệ và theo quy định tại Điều 6, Điều 8 Nghị định này.
+
+Điều 8. Áp dụng quy định về chất lượng sản phẩm, hàng hoá đối với kết quả nghiên cứu mật mã dân sự
+
+1. Các sản phẩm mật mã dân sự là kết quả nghiên cứu thì khuyến khích tổ chức, cá nhân nghiên cứu thực hiện công bố phù hợp tiêu chuẩn theo quy định của Bộ Khoa học và Công nghệ và được phép chuyển giao cho doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự hoặc tổ chức, cá nhân sử dụng hợp pháp.
+
+2. Các sản phẩm mật mã dân sự là kết quả nghiên cứu nếu không thuộc danh mục sản phẩm mật mã dân sự phải áp dụng Quy chuẩn kỹ thuật quốc gia quy định tại Điều 4 Nghị định này thì khuyến khích tổ chức, cá nhân nghiên cứu thực hiện công bố phù hợp quy chuẩn theo quy định của Bộ Khoa học và Công nghệ và được phép chuyển giao cho doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự hoặc tổ chức, cá nhân sử dụng hợp pháp.
+
+3. Các sản phẩm mật mã dân sự là kết quả nghiên cứu thuộc danh mục sản phẩm mật mã dân sự phải áp dụng Quy chuẩn kỹ thuật quốc gia quy định tại Điều 4 Nghị định này thì tổ chức, cá nhân nghiên cứu phải thực hiện công bố phù hợp quy chuẩn theo quy định của Bộ Khoa học và Công nghệ và được phép chuyển giao cho doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự hoặc tổ chức, cá nhân sử dụng hợp pháp.
+
+4. Các sản phẩm mật mã dân sự là kết quả nghiên cứu khi có yêu cầu chứng nhận hợp chuẩn phù hợp Tiêu chuẩn quốc gia thì được Ban Cơ yếu Chính phủ thẩm định, đánh giá và chứng nhận hợp chuẩn đối với loại sản phẩm đó.
+
+5. Các sản phẩm mật mã dân sự là kết quả nghiên cứu nếu thuộc danh mục sản phẩm mật mã dân sự phải chứng nhận hợp quy phù hợp Quy chuẩn kỹ thuật quốc gia quy định tại Điều 4 Nghị định này thì phải được Ban Cơ yếu Chính phủ thẩm định, đánh giá và chứng nhận hợp quy đối với loại sản phẩm đó trước khi chuyển giao cho doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự hoặc tổ chức, cá nhân sử dụng hợp pháp.
+
+MỤC 2
+
+SẢN XUẤT, KINH DOANH SẢN PHẨM MẬT MÃ DÂN SỰ
+
+Điều 9. Quyền và nghĩa vụ của tổ chức, cá nhân tham gia sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+1. Có các quyền sau:
+
+a) Lựa chọn sản phẩm mật mã dân sự để sản xuất, kinh doanh;
+
+b) Ký kết hợp đồng đầu tư sản xuất, kinh doanh, xuất khẩu và nhập khẩu sản phẩm mật mã dân sự với các tổ chức, cá nhân trong và ngoài nước theo quy định của pháp luật;
+
+c) Từ chối cung cấp sản phẩm, dịch vụ mật mã dân sự khi phát hiện tổ chức, cá nhân vi phạm pháp luật về sử dụng sản phẩm mật mã dân sự, vi phạm cam kết đã thỏa thuận về quy định sử dụng sản phẩm do doanh nghiệp cung cấp;
+
+d) Được hưởng các quyền khác theo quy định của pháp luật.
+
+2. Có các nghĩa vụ sau:
+
+a) Quản lý hồ sơ, tài liệu về giải pháp kỹ thuật, công nghệ sản xuất;
+
+b) Áp dụng các biện pháp về an ninh, an toàn;
+
+c) Chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, dịch vụ mật mã dân sự, bảo vệ khách hàng sử dụng hợp pháp sản phẩm mật mã dân sự do doanh nghiệp cung cấp;
+
+d) Tạm ngừng hoặc ngừng cung cấp sản phẩm, dịch vụ mật mã dân sự trong trường hợp khẩn cấp để đảm bảo an ninh quốc gia;
+
+đ) Phối hợp và tạo điều kiện cho cơ quan có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu;
+
+e) Thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+
+Điều 10. Điều kiện sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+Sản phẩm mật mã dân sự và dịch vụ mật mã dân sự thuộc danh mục hàng hoá, dịch vụ hạn chế kinh doanh. Các tổ chức, cá nhân sản xuất, kinh doanh sản phẩm mật mã dân sự phải thoả mãn các yêu cầu sau:
+
+1. Thành lập doanh nghiệp và đăng ký sản xuất, kinh doanh theo quy định của Luật doanh nghiệp.
+
+2. Có Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự do Ban Cơ yếu Chính phủ cấp theo quy định của Điều 11 Nghị định này.
+
+3. Đáp ứng các quy định quản lý nhà nước về chất lượng sản phẩm, hàng hóa và dịch vụ.
+
+Điều 11. Điều kiện cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+1. Điều kiện về chủ thể: là doanh nghiệp thành lập theo Luật Doanh nghiệp.
+
+2. Điều kiện về nhân sự:
+
+a) Người đứng đầu doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự phải có lý lịch rõ ràng, có hiểu biết về pháp luật, có trình độ chuyên môn về lĩnh vực bảo mật và an toàn thông tin;
+
+b) Đội ngũ nhân viên kỹ thuật, nhân viên quản lý, nhân viên điều hành, nhân viên an ninh và nhân viên dịch vụ khách hàng có trình độ chuyên môn và ký Hợp đồng lao động theo quy định của pháp luật.
+
+3. Điều kiện bảo đảm khác:
+
+a) Bảo đảm điều kiện an ninh, an toàn, phòng, chống cháy nổ và bảo vệ tài nguyên, môi trường;
+
+b) Có phương án kỹ thuật và phương án sản xuất, kinh doanh khả thi, phù hợp với các quy định, quy chuẩn kỹ thuật và tiêu chuẩn chất lượng sản phẩm mật mã dân sự.
+
+Điều 12. Hồ sơ xin cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+1. Hồ sơ xin cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự gồm:
+
+a) Đơn đề nghị cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự theo mẫu quy định;
+
+b) Bản sao hợp lệ Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đầu tư của doanh nghiệp;
+
+e) Phương án kỹ thuật và phương án sản xuất, kinh doanh sản phẩm mật mã dân sự;
+
+d) Sơ yếu lý lịch người đứng đầu doanh nghiệp và các thành viên phụ trách về kỹ thuật có xác nhận của Ủy ban nhân dân phường, xã, thị trấn nơi cư trú.
+
+2. Doanh nghiệp xin cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự chịu trách nhiệm trước pháp luật về các nội dung kê khai trong hồ sơ.
+
+Điều 13. Thẩm định hồ sơ và cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+1. Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ của doanh nghiệp đề nghị cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự, Ban Cơ yếu Chính phủ có trách nhiệm thẩm định hồ sơ và cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự cho doanh nghiệp.
+
+2. Trường hợp doanh nghiệp không đáp ứng đủ các điều kiện quy định tại Điều 11 Nghị định này, Ban Cơ yếu Chính phủ thông báo cho doanh nghiệp bằng văn bản và nêu rõ lý do về việc không cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự.
+
+Điều 14. Thu hồi Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự
+
+1. Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự bị thu hồi trong các trường hợp sau:
+
+a) Doanh nghiệp bị giải thể, phá sản theo Luật Doanh nghiệp;
+
+b) Doanh nghiệp bị thu hồi Giấy chứng nhận đăng ký kinh doanh;
+
+c) Doanh nghiệp không còn đáp ứng đủ các điều kiện quy định tại Điều 10 của Nghị định này;
+
+d) Doanh nghiệp không triển khai hoạt động sau sáu tháng kể từ ngày được cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự mà không có lý do chính đáng.
+
+2. Sau thời hạn ba tháng kể từ khi bị thu hồi Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự, nếu đáp ứng đủ điều kiện quy định tại Điều 10 của Nghị định này thì doanh nghiệp có thể xin cấp lại Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự. Thủ tục như khi xin cấp mới.
+
+Điều 15. Hồ sơ xin cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự
+
+1. Hồ sơ xin cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự gồm:
+
+a) Đơn đề nghị cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự theo mẫu quy định;
+
+b) Bản sao giấy chứng minh nhân dân hoặc hộ chiếu đối với cá nhân; bản sao hợp lệ Giấy chứng nhận đăng ký kinh doanh đối với doanh nghiệp hoặc quyết định thành lập đối với tổ chức;
+
+c) Tài liệu kỹ thuật, tài liệu xuất xứ sản phẩm, tài liệu thiết kế, thuật toán, giải pháp nghiệp vụ, thuyết minh kỹ thuật;
+
+d) Mẫu sản phẩm.
+
+2. Tổ chức, cá nhân xin cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự chịu trách nhiệm trước pháp luật về các nội dung kê khai trong hồ sơ.
+
+Điều 16. Kiểm định, đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự
+
+1. Trong thời hạn 30 (ba mươi) ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ của tổ chức, cá nhân đề nghị cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự, Ban Cơ yếu Chính phủ có trách nhiệm kiểm định, đánh giá và cấp giấy chứng nhận.
+
+2. Trường hợp sản phẩm mật mã dân sự không đáp ứng đầy đủ các tiêu chuẩn, quy chuẩn kỹ thuật của sản phẩm theo quy định của pháp luật hiện hành, Ban Cơ yếu Chính phủ không cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự và nêu rõ lý do bằng văn bản.
+
+3. Trong trường hợp đặc biệt cần có thời gian kiểm định, đánh giá chất lượng sản phẩm mật mã dân sự thì thời gian kiểm định, đánh giá, cấp hoặc không cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự không được quá sáu tháng. Ban Cơ yếu Chính phủ có trách nhiệm thông báo bằng văn bản cho tổ chức, cá nhân đề nghị chứng nhận biết lý do.
+
+Điều 17. Trách nhiệm của doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự đối với việc áp dụng tiêu chuẩn, quy chuẩn kỹ thuật
+
+1. Doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự phải công bố hợp chuẩn áp dụng cho sản phẩm với cơ quan nhà nước có thẩm quyền.
+
+2. Doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự phải công bố hợp quy áp dụng cho sản phẩm khi các sản phẩm đó thuộc danh mục sản phẩm mật mã dân sự phải áp dụng quy chuẩn kỹ thuật quy định tại Điều 4 của Nghị định này với cơ quan nhà nước có thẩm quyền.
+
+3. Doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự tổ chức sản xuất, kinh doanh các sản phẩm mật mã dân sự có yêu cầu chứng nhận hợp chuẩn thì được Ban Cơ yếu Chính phủ kiểm tra, thẩm định, đánh giá và cấp Giấy chứng nhận hợp chuẩn đối với các sản phẩm đó.
+
+4. Doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự tổ chức sản xuất, kinh doanh các sản phẩm mật mã dân sự thuộc danh mục sản phẩm mật mã dân sự bắt buộc phải chứng nhận hợp quy quy định tại Điều 4 của Nghị định này phải được Ban Cơ yếu Chính phủ kiểm tra, thẩm định, đánh giá và cấp Giấy chứng nhận hợp quy đối với các sản phẩm đó trước khi đưa ra lưu thông trên thị trường.
+
+Điều 18. Xuất khẩu, nhập khẩu sản phẩm mật mã dân sự
+
+1. Danh mục các sản phẩm mật mã dân sự được xuất khẩu, nhập khẩu thuộc danh mục sản phẩm, hàng hóa hạn chế kinh doanh.
+
+2. Các tổ chức, cá nhân có hoạt động xuất khẩu, nhập khẩu sản phẩm mật mã dân sự phải theo quy định tại Điều 10 Nghị định này và chỉ được xuất khẩu, nhập khẩu các sản phẩm trong danh mục các sản phẩm mật mã dân sự xuất khẩu. nhập khẩu.
+
+MỤC 3
+
+SỬ DỤNG SẢN PHẨM MẬT MÃ DÂN SỰ
+
+Điều 19. Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng sản phẩm mật mã dân sự
+
+1. Có các quyền sau:
+
+a) Tự do lựa chọn sản phẩm mật mã dân sự và lựa chọn doanh nghiệp cung cấp sản phẩm mật mã dân sự, dịch vụ mật mã dân sự;
+
+b) Chuyển nhượng, cho, tặng, trao đổi sản phẩm mật mã dân sự;
+
+c) Được hưởng các quyền dân sự khác theo quy định của pháp luật.
+
+2. Có các nghĩa vụ sau:
+
+a) Tuân thủ các quy định đã cam kết với nơi cung cấp sản phẩm mật mã dân sự về: quản lý sử dụng khóa mã, chuyển nhượng, sửa chữa, bảo dưỡng sản phẩm mật mã dân sự và các nội dung khác có liên quan;
+
+b) Phối hợp và tạo điều kiện cho các cơ quan nhà nước có thẩm quyền thực hiện các biện pháp bảo đảm an toàn mật mã, an ninh thông tin, ngăn ngừa tội phạm đánh cắp thông tin, mật mã và sử dụng sản phẩm mật mã dân sự vào những mục đích không hợp pháp;
+
+c) Thực hiện các nghĩa vụ khác theo quy định của pháp luật.
+
+Chương III
+
+QUẢN LÝ NHÀ NƯỚC VỀ MẬT MÃ DÂN SỰ
+
+Điều 20. Nội dung quản lý nhà nước về mật mã dân sự
+
+1. Xây dựng cơ chế, chính sách, chiến lược, quy hoạch và kế hoạch phát triển khoa học công nghệ mật mã phục vụ cho các mục đích dân sự.
+
+2. Xây dựng, ban hành các văn bản quy phạm pháp luật và hướng dẫn về quản lý hoạt động nghiên cứu mật mã dân sự, sản xuất kinh doanh và sử dụng sản phẩm mật mã dân sự.
+
+3. Quản lý việc cấp giấy phép, thu hồi giấy phép hoạt động sản xuất, kinh doanh sản phẩm mật mã dân sự.
+
+4. Kiểm tra, thẩm định, đánh giá, chứng nhận hợp chuẩn, chứng nhận hợp quy các sản phẩm mật mã dân sự và cấp Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự cho tổ chức, cá nhân được phép sản xuất, kinh doanh.
+
+5. Quản lý an toàn, an ninh trong việc sử dụng sản phẩm mật mã dân sự.
+
+6. Thanh tra, kiểm tra, xử lý các vi phạm và giải quyết khiếu nại, tố cáo trong lĩnh vực mật mã dân sự.
+
+7. Hợp tác quốc tế trong lĩnh vực mật mã dân sự.
+
+Điều 21. Trách nhiệm của Ban Cơ yếu Chính phủ
+
+1. Chủ trì, phối hợp với các Bộ, ngành có liên quan xây dựng các văn bản quy phạm pháp luật về quản lý mật mã dân sự, dự thảo tiêu chuẩn, quy chuẩn kỹ thuật đối với các sản phẩm mật mã dân sự, trình cơ quan có thẩm quyền ban hành và hướng dẫn thực hiện.
+
+2. Chủ trì, phối hợp với các Bộ, ngành có liên quan xây dựng chính sách mật mã quốc gia, chiến lược phát triển tiềm lực khoa học và công nghệ mật mã dân sự.
+
+3. Tổ chức bộ máy quản lý, đăng ký, thẩm định, đánh giá, chứng nhận hợp chuẩn, chứng nhận hợp quy sản phẩm mật mã dân sự và cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự; Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự, Giấy chứng nhận hợp quy sản phẩm mật mã dân sự.
+
+4. Chủ trì, phối hợp với các Bộ, ngành có liên quan tổ chức thanh tra, kiểm tra, xử lý các vi phạm và giải quyết khiếu nại, tố cáo trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự theo thẩm quyền.
+
+5. Hợp tác quốc tế về mật mã dân sự.
+
+Điều 22. Trích nhiệm của Bộ, ngành, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương
+
+1. Bộ Công an chủ trì, phối hợp với Ban Cơ yếu Chính phủ thực hiện các biện pháp kỹ thuật, nghiệp vụ để phòng, chống tội phạm, bảo đảm an ninh quốc gia, an toàn xã hội trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự.
+
+2. Bộ Khoa học và Công nghệ chủ trì, phối hợp với Ban Cơ yếu Chính phủ thực hiện quản lý nhà nước về hoạt động nghiên cứu khoa học công nghệ mật mã dân sự; thẩm định và công bố Tiêu chuẩn quốc gia đối với sản phẩm mật mã dân sự; thẩm định Quy chuẩn kỹ thuật quốc gia đối với sản phẩm mật mã dân sự.
+
+3. Bộ Thương mại chủ trì, phối hợp với Ban Cơ yếu Chính phủ trình Thủ tướng Chính phủ ban hành: danh mục hàng hóa, dịch vụ mật mã dân sự thuộc danh mục hàng hóa, dịch vụ hạn chế kinh doanh; danh mục các sản phẩm mật mã dân sự được xuất khẩu, nhập khẩu của Việt Nam.
+
+4. Bộ Tài chính chủ trì, phối hợp vời Ban Cơ yếu Chính phủ quy định mức thu và chế độ quản lý, sử dụng đối với phí, lệ phí liên quan đến việc thẩm định, đánh giá, chứng nhận hợp chuẩn, chứng nhận hợp quy sản phẩm mật mã dân sự và cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự, Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự và Giấy chứng nhận hợp quy sản phẩm mật mã dân sự.
+
+5. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Ban Cơ yếu Chính phủ, hướng dẫn các doanh nghiệp sản xuất, kinh doanh sản phẩm mật mã dân sự theo quy định của pháp luật.
+
+6. Ủy ban nhân dân các tỉnh và thành phố trực thuộc Trung ương thực hiện chức năng quản lý nhà nước đối với hoạt động sản xuất, kinh doanh sản phẩm mật mã dân sự tại địa phương theo các quy định của Nghị định này.
+
+Chương IV
+
+THANH TRA, KIỂM TRA, XỬ LÝ VI PHẠM
+
+VÀ GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO
+
+Điều 23. Thanh tra, kiểm tra
+
+1. Ban Cơ yếu Chính phủ phối hợp với các Bộ, ngành, địa phương liên quan có trách nhiệm tổ chức, chỉ đạo thanh tra, kiểm tra về hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự.
+
+2. Các tổ chức, cá nhân nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự chịu sự thanh tra, kiểm tra của các cơ quan Nhà nước có thẩm quyền theo quy định của pháp luật về thanh tra.
+
+Điều 24. Xử lý vi phạm các quy định về nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự
+
+1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Cho thuê, cho mượn Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự,
+
+b) Tự viết thêm, tẩy xoá, sửa chữa các nội dung trong Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự.
+
+2. Phạt tiền từ 15.000.000 đồng đến 20.000.000 đồng đối với hành vi kinh doanh không dúng nội dung ghi trong Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự.
+
+3. Phạt tiền từ 25.000.000 đồng đến 30.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Vi phạm quy định tại khoản 4 Điều 17 Nghị định này;
+
+b) Sản xuất, kinh doanh sản phẩm mật mã dân sự mà không có Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự do Ban Cơ yếu Chính phủ cấp.
+
+4. Các hành vi vi phạm khác liên quan đến hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự thì tùy theo tính chất, mức độ vi phạm mà bị xử lý vi phạm theo quy định của pháp luật.
+
+Điều 25. Xử lý vi phạm các quy định về phí và lệ phí
+
+Đối với hành vi vi phạm về phí, lệ phí trong hoạt động cấp Giấy phép sản xuất, kinh doanh sản phẩm mật mã dân sự, Giấy chứng nhận hợp chuẩn sản phẩm mật mã dân sự và Giấy chứng nhận hợp quy sản phẩm mật mã dân sự áp dụng theo quy định tại Nghị định số l06/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực phí, lệ phí.
+
+Điều 26. Thẩm quyền xử phạt
+
+1. Thanh tra Cơ yếu Chính phủ đang thi hành công vụ có thẩm quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm hành chính trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự theo chức năng quản lý nhà nước và thẩm quyền xử phạt theo quy định của pháp luật.
+
+2. Chủ tịch Ủy ban nhân dân các cấp, Thanh tra chuyên ngành khác xử phạt theo quy định của pháp luật đối với các hành vi vi phạm hành chính về hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự quy định tại Nghị định này.
+
+Điều 27. Nguyên tắc, thời hiệu, thời hạn, thủ tục xử phạt
+
+1. Nguyên tắc xác định thẩm quyền xử phạt, thời hiệu xử phạt, thời hạn, thủ tục và trình tự xử phạt các hành vi vi phạm hành chính về hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự thực hiện theo quy định của Pháp lệnh Xử lý vi phạm hành chính.
+
+2. Tiền phạt vi phạm hành chính về hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự thu được phải nộp vào ngân sách nhà nước tại Kho bạc Nhà nước. Chế độ quản lý biên lai thu tiền phạt và tiền nộp phạt thực hiện theo quy định của pháp luật hiện hành.
+
+Điều 28. Khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo
+
+1. Tổ chức, cá nhân có quyền khiếu nại, tố cáo những hành vi vi phạm pháp luật trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự.
+
+2. Tổ chức, cá nhân có thẩm quyền có trách nhiệm xem xét, giải quyết và trả lời các khiếu nại, tố cáo theo đúng quy định của pháp luật về khiếu nại, tố cáo.
+
+Điều 29. Bồi thường thiệt hại
+
+Tổ chức, cá nhân gây thiệt hại cho tổ chức, cá nhân khác trong hoạt động nghiên cứu mật mã dân sự, sản xuất, kinh doanh và sử dụng sản phẩm mật mã dân sự phải bồi thường theo quy định của pháp luật.
+
+Chương V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 30. Hiệu lực thi hành
+
+Nghị định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo.
+
+Điều 31. Trách nhiệm thi hành
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./.
+
+
+
+
+
+

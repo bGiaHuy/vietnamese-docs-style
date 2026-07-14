@@ -1,0 +1,673 @@
+# Về việc chuyển Nhà máy Thuốc lá An Giang và Công ty Sản xuất kinh doanh Dịch vụ tổng hợp Tân Trụ về làm doanh nghiệp thành viên của Tổng công ty Thuốc lá Việt Nam
+# Loại: Quyết định
+# Số hiệu: 110/2000/QĐ-TTg
+# Ngày ban hành: 20/09/2000
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Tấn Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC
+
+
+Về việc ban hành Quy chế nghiệp vụ thị trường mở
+
+
+
+
+
+THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC
+
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 01/1997/QH10 ngày 12/12/1997và Luật Các tổ chức tín dụng số 01/1997/QH10 ngày 26/12/1997;
+
+
+Căn cứ Nghị định số 15/CP ngày 02/03/1993 của Chính phủ về nhiệmvụ, quyền hạn và trách nhiệm quản lý Nhà nước của Bộ, cơ quan ngang Bộ;
+
+
+Theo đề nghị của Vụ trưởng Vụ Tín dụng,
+
+
+
+
+
+QUYẾT ĐỊNH:
+
+
+Điều 1.Ban hành kèm theo Quyết định này Quy chế nghiệp vụ thị trường mở
+
+
+Điều 2.Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký
+
+
+Điều 3.Chánh Văn phòng, Vụ trưởng Vụ Chính sách tiền tệ, Giám đốc Sở Giao dịch Ngânhàng Nhà nước, Vụ trưởng Vụ Tín dụng, Thủ trưởng các đơn vị có liên quan thuộcNgân hàng Nhà nước, Giám đốc Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố trựcthuộc Trung ương, Chủ tịch Hội đồng quản trị, Tổng Giám đốc (Giám đốc) các tổchức tín dụng tham gia nghiệp vụ thị trường mở chịu trách nhiệm thi hành Quyếtđịnh này./.
+
+
+
+
+
+QUY CHẾ NGHIỆP VỤ THỊ TRƯỜNG MỞ
+
+
+(Ban hành kèm theo Quyết định số 85 /2000/QĐ-NHNN14
+
+
+ngày 9 tháng 3 năm 2000 của Thống đốc Ngân hàng Nhà nước)
+
+
+
+
+
+CHƯƠNG I. QUY ĐỊNH CHUNG
+
+
+Điều 1.Phạm vi điều chỉnh và đối tượng áp dụng
+
+
+Quychế này quy định việc mua, bán tín phiếu Kho bạc, chứng chỉ tiền gửi, tín phiếuNgân hàng Nhà nước và các loại giấy tờ có giá ngắn hạn khác (sau đây gọi tắt làgiấy tờ có giá) giữa Ngân hàng Nhà nước với các tổ chức tín dụng trên thị trườngtiền tệ nhằm thực hiện chính sách tiền tệ quốc gia.
+
+
+Điều 2. Giảithích từ ngữ
+
+
+1. Thời hạn còn lại: Là thời gian thanh toán còn lại của giấy tờ có giángắn hạn, tính từ ngày giấy tờ có giá được mua, bán thông qua nghiệp vụ thị trườngmở đến ngày đến hạn thanh toán.
+
+
+2. Bán và cam kết mua lại (gọi tắt là giao dịch có kỳ hạn):Là việc bên bán (Ngân hàng Nhà nước hoặc tổ chức tín dụng) bán và chuyển giaoquyền sở hữu giấy tờ có giá cho bên mua (tổ chức tín dụng hoặc Ngân hàng Nhà nước)đồng thời cam kết mua lại và nhận lại quyền sở hữu giấy tờ có giá đó sau mộtthời hạn nhất định.
+
+
+3. Mua hoặc bán hẳn: Là việc mua, bán và chuyển giao quyền sở hữu giấy tờ cógiá từ bên bán cho bên mua và không kèm theo thoả thuận mua, bán lại giấy tờ cógiá.
+
+
+4. Đấu thầu khối lượng: Là việc xác định khối lượng trúng thầu của các tổchức tín dụng tham gia nghiệp vụ thị trường mở trên cơ sở khối lượng dự thầucủa các tổ chức tín dụng, khối lượng giấy tờ có giá mua hoặc bán và lãi suất doNgân hàng Nhà nước thông báo.
+
+
+5. Đấu thầu lãi suất: Là việc xác định lãi suất trúng thầu của các tổ chứctín dụng tham gia nghiệp vụ thị trường mở trên cơ sở lãi suất dự thầu của cáctổ chức tín dụng và khối lượng giấy tờ có giá mua hoặc bán do Ngân hàng Nhà nướcthông báo.
+
+
+6.Ngày thông báo: Là ngày Ngân hàng Nhà nước gửi thông báo về việcmua hoặc bán các giấy tờ có giá.
+
+
+7.Ngày đấu thầu: Là ngày các tổ chức tín dụng nộp đơn dự thầu, Ngânhàng Nhà nước tổ chức xét thầu và thông báo kết quả đấu thầu.
+
+
+8. Ngày thanh toán: Là ngày các tổ chức tín dụng trúng thầu thực hiệngiao, nhận và thanh toán các giấy tờ có giá với Ngân hàng Nhà nước, sau 2 ngàykể từ ngày đấu thầu.
+
+
+Điều 3. BanĐiều hành Nghiệp vụ thị trường mở
+
+
+BanĐiều hành Nghiệp vụ thị trường mở được Ngân hàng Nhà nước thành lập do một PhóThống đốc làm Trưởng ban và các thành viên là đại diện của các đơn vị có liênquan thuộc Ngân hàng Nhà nước. Ban điều hành nghiệp vụ Thị trường mở được tổchức và hoạt động theo quy định của Thống đốc Ngân hàng Nhà nước.
+
+
+Điều 4.Thành viên tham gia nghiệp vụ thị trường mở
+
+
+Thànhviên tham gia nghiệp vụ thị trường mở là các tổ chức tín dụng thành lập và hoạtđộng theo Luật Các tổ chức tín dụng có đủ điều kiện quy định tại Điều 5 Quy chếnày.
+
+
+Điều 5. Điềukiện tham gia thị trường mở
+
+
+Cáctổ chức tín dụng được công nhận là thành viên tham gia nghiệp vụ thị trường mởkhi có đủ các điều kiện sau đây:
+
+
+1.Có tài khoản tiền gửi tại Ngân hàng Nhà nước (Sở Giao dịch Ngân hàng Nhà nướchoặc chi nhánh Ngân hàng Nhà nước tỉnh, thành phố);
+
+
+2.Có đủ các phương tiện cần thiết để tham gia nghiệp vụ thị trường mở gồm nối mạngmáy vi tính với Ngân hàng Nhà nước, có máy FAX và điện thoại để giao dịch vớiNgân hàng Nhà nước;
+
+
+3.Có đăng ký tham gia nghiệp vụ thị trường mở (theo Phụ lục số 01/TTM đính kèmQuy chế này).
+
+
+Điều 6:Công nhận thành viên tham gia nghiệp vụ thị trường mở
+
+
+Cáctổ chức tín dụng có đủ các điều kiện được quy định tại Điều 5 của Quy chế này,được Ngân hàng Nhà nước cấp giấy công nhận là thành viên của thị trường.
+
+
+Điều 7. Uỷquyền tham gia giao dịch
+
+
+TổngGiám đốc (Giám đốc) tổ chức tín dụng là người quyết định và ký các giấy tờ cóliên quan đến giao dịch nghiệp vụ Thị trường mở. Tổng Giám đốc (Giám đốc) cóthể uỷ quyền cho Phó Tổng Giám đốc (phó Giám đốc) hoặc Giám đốc Hội sở giaodịch hoặc Giám đốc chi nhánh của tổ chức tín dụng thực hiện các quyết định vàký các văn bản giao dịch Nghiệp vụ thị trường mở và phải chịu trách nhiệm về sựuỷ quyền đó.
+
+
+Điều 8. Cácloại giấy tờ có giá được giao dịch thông qua thị trường mở
+
+
+1.Tín phiếu Kho bạc.
+
+
+2.Tín phiếu Ngân hàng Nhà nước.
+
+
+3.Các loại giấy tờ có giá ngắn hạn khác do Thống đốc Ngân hàng Nhà nước quy địnhcụ thể trong từng thời kỳ.
+
+
+Điều 9. Phươngthức mua hoặc bán giấy tờ có giá
+
+
+BanĐiều hành nghiệp vụ thị trường mở quyết định mỗi phiên giao dịch chỉ áp dụngmột trong hai phương thức sau
+
+
+1.Bán và cam kết mua lại (giao dịch có kỳ hạn).
+
+
+2.Mua hoặc bán hẳn.
+
+
+Điều 10.Cấp mã số giao dịch cho các tổ chức tín dụng
+
+
+Cáctổ chức tín dụng được Ngân hàng Nhà nước công nhận là thành viên tham gianghiệp vụ thị trường mở được cấp mã số (code), mã khoá để giao dịch qua máy vitính, máy FAX và mã số chữ ký cho những người đại diện được tổ chức tín dụng uỷquyền tham gia giao dịch để thực hiện chế độ bảo mật đối với các giao dịchnghiệp vụ thị trường mở.
+
+
+Điều 11. Ngàygiao dịch và định kỳ tổ chức thực hiện nghiệp vụ thị trường mở
+
+
+1.Ngày giao dịch nghiệp vụ Thị trường mở được tính theo ngày làm việc, không tínhngày nghỉ cuối tuần, nghỉ lễ và nghỉ tết.
+
+
+2.Định kỳ và ngày tổ chức thực hiện nghiệp vụ thị trường mở do Ban Điều hànhNghiệp vụ thị trường mở quy định cụ thể trong từng thời kỳ.
+
+
+
+
+
+CHƯƠNG II. QUY ĐỊNH CỤ THỂ
+
+
+Điều 12.Điều kiện giao dịch thông qua thị trường mở của giấy tờ có giá
+
+
+Cácgiấy tờ có giá quy định Điều 8 của Quy chế này được giao dịch thông qua nghiệpvụ thị trường mở phải có đủ điều kiện sau đây:
+
+
+1.Có thể giao dịch được;
+
+
+2.Được phát hành bằng đồng Việt Nam;
+
+
+3.Đăng ký tại Ngân hàng Nhà nước theo quy định về việc đăng ký giấy tờ có giángắn hạn của Ngân hàng Nhà nước;
+
+
+4.Giấy tờ có giá được mua, bán hẳn phải có thời hạn còn lại tối đa là 90 ngày.
+
+
+Điều 13. Phươngthức đấu thầu
+
+
+Việcmua hoặc bán các loại giấy tờ có giá giữa Ngân hàng Nhà nước với các tổ chứctín dụng thực hiện thông qua phương thức đấu thầu khối lượng hoặc đấu thầu lãisuất.
+
+
+1.Đấu thầu khối lượng
+
+
+a.Ngân hàng Nhà nước thông báo cho các tổ chức tín dụng mức lãi suất và khối lượngcác loại giấy tờ có giá cần mua hoặc cần bán.
+
+
+b.Tổ chức tín dụng dự thầu khối lượng các loại giấy tờ có giá cần mua hoặc cầnbán theo mức lãi suất Ngân hàng Nhà nước thông báo.
+
+
+c.Trường hợp tổng khối lượng dự thầu của các tổ chức tín dụng bằng hoặc thấp hơnkhối lượng Ngân hàng Nhà nước cần mua hoặc cần bán thì khối lượng trúng thầucủa từng tổ chức tín dụng là khối lượng dự thầu của tổ chức tín dụng đó.
+
+
+d.Trường hợp tổng khối lượng dự thầu của các tổ chức tín dụng vượt quá khối lượngNgân hàng Nhà nước cần mua hoặc cần bán, khối lượng giấy tờ có giá trúng thầu đượcphân bổ theo tỷ lệ thuận với khối lượng dự thầu của các tổ chức tín dụng và đượclàm tròn đến 10 triệu đồng.
+
+
+2.Đấu thầu lãi suất
+
+
+a.Ngân hàng Nhà nước công bố khối lượng các loại giấy tờ có giá cần mua hoặc cầnbán.
+
+
+b.Tổ chức tín dụng dự thầu theo các mức lãi suất và khối lượng giấy tờ có giá cầnmua, cần bán tương ứng với các mức lãi suất đó. Lãi suất dự thầu được tính theotỷ lệ %/năm và được làm tròn đến 2 con số sau dấu phẩy.
+
+
+c.Các đơn dự thầu của các tổ chức tín dụng được xếp theo thứ tự lãi suất dự thầugiảm dần trong trường hợp Ngân hàng Nhà nước mua giấy tờ có giá, hoặc lãi suấtdự thầu tăng dần trong trường hợp Ngân hàng Nhà nước bán giấy tờ có giá.
+
+
+d.Lãi suất trúng thầu là lãi suất dự thầu thấp nhất (trường hợp Ngân hàng Nhà nướcmua giấy tờ có giá) hoặc lãi suất dự thầu cao nhất (trường hợp Ngân hàng Nhà nướcbán giấy tờ có giá) mà tại mức lãi suất đó đạt được khối lượng giấy tờ có giáNgân hàng Nhà nước cần mua hoặc cần bán.
+
+
+e.Khối lượng trúng thầu của các tổ chức tín dụng là khối lượng của các mức dựthầu có lãi suất bằng và cao hơn mức lãi suất trúng thầu (trường hợp Ngân hàngNhà nước mua giấy tờ có giá) hoặc có lãi suất dự thầu bằng và thấp hơn lãi suấttrúng thầu (trường hợp Ngân hàng Nhà nước bán giấy tờ có giá) .
+
+
+g.Trong từng thời kỳ, Ban Điều hành Nghiệp vụ thị trường mở sẽ thông báo việc ápdụng phương thức xét thầu theo mức lãi suất thống nhất hoặc lãi suất riêng lẻ.
+
+
+-Lãi suất thống nhất: Toàn bộ khối lượng trúng thầu được tính thống nhất theomức lãi suất trúng thầu.
+
+
+-Lãi suất riêng lẻ: Từng mức khối lượng trúng thầu được tính tương ứng với từngmức lãi suất dự thầu.
+
+
+h.Trường hợp tại mức lãi suất trúng thầu, tổng khối lượng dự thầu của các tổ chứctín dụng vượt quá khối lượng giấy tờ có giá Ngân hàng Nhà nước cần mua hoặc cầnbán, thì khối lượng giấy tờ có giá trúng thầu của các tổ chức tín dụng tại mứclãi suất trúng thầu được tính theo tỷ lệ thuận với khối lượng dự thầu của cáctổ chức tín dụng tại mức lãi suất trúng thầu và được làm tròn đến 10 triệuđồng;Trường hợp tại mức lãi suất trúng thầu của một tổ chức tín dụng có nhiềuloại giấy tờ có giá cần bán hoặc cần mua, Ngân hàng Nhà nước xét thầu xác địnhtheo thứ tự từng loại giấy tờ có giá như sau:
+
+
+-Giấy tờ có giá đăng ký bán hoặc đăng ký mua có khối lượng lớn hơn.
+
+
+-Giấy tờ có giá có thời hạn bán hoặc mua ngắn hơn (trường hợp mua hoặc bán hẳn).
+
+
+-Thời hạn còn lại của giấy tờ có giá ngắn hơn.
+
+
+Điều 14. Xácđịnh khối lượng, thời hạn giấy tờ có giá cần mua, cần bán
+
+
+1.Từ 8 giờ đến 10 giờ ngày thông báo, Trưởng Ban Điều hành Nghiệp vụ thị trườngmở hoặc Phó Trưởng ban được Trưởng ban uỷ quyền họp với các thành viên trongBan Điều hành Nghiệp vụ thị trường mở để xác định các nội dung chính như sau:
+
+
+a.Khối lượng các loại giấy tờ có giá cần mua hoặc cần bán;
+
+
+b.Phương thức đấu thầu;
+
+
+c.Phương thức xét thầu (Trường hợp đấu thầu lãi suất);
+
+
+d.Thời hạn của giao dịch mua bán có kỳ hạn;
+
+
+cLãi suất mua hoặc bán (Trường hợp đấu thầu khối lượng).
+
+
+2.Việc xác định các nội dung trên dựa vào các căn cứ sau đây:
+
+
+a.Mục tiêu của chính sách tiền tệ;
+
+
+b.Kết quả dự báo vốn khả dụng;
+
+
+c.Khối lượng, lãi suất trúng thầu của các loại giấy tờ có giá ngắn hạn Ngân hàngNhà nước đã mua hoặc đã bán thông qua nghiệp vụ thị trường mở tại phiên đấuthầu gần nhất;
+
+
+d.Tham khảo các loại lãi suất hiện hành trên thị trường;
+
+
+e.Tình hình hoạt động tái cấp vốn của Ngân hàng Nhà nước đối với các tổ chức tíndụng.
+
+
+3.Chậm nhất đến 11 giờ 30 ngày thông báo, Ban Điều hành Nghiệp vụ thị trường mởsẽ thông báo cho Sở Giao dịch Ngân hàng Nhà nước (Bộ phận Nghiệp vụ thị trườngmở) các nội dung quy định tại Khoản 1 Điều này.
+
+
+Điều 15. Thôngbáo mua, bán giấy tờ có giá
+
+
+Từ13 giờ đến 14 giờ 30 ngày thông báo, Sở Giao dịch Ngân hàng Nhà nước thông báomua giấy tờ có giá (Phụ lục 02/TTM) hoặc bán giấy tờ có giá (Phụ lục 03/TTM)cho các tổ chức tín dụng và chi nhánh Ngân hàng Nhà nước thông qua mạng máy vitính với nội dung chính như sau:
+
+
+1.Ngày đấu thầu;
+
+
+2.Ngày thanh toán;
+
+
+3.Các loại giấy tờ có giá cần mua hoặc cần bán;
+
+
+4.Kỳ hạn của giấy tờ có giá;
+
+
+5.Hình thức các loại giấy tờ có giá cần mua, cần bán (chứng chỉ, ghi sổ);
+
+
+6.Khối lượng cần mua hoặc cần bán (tính theo giá trị khi đến hạn thanh toán củagiấy tờ có giá);
+
+
+7.Ngày đến hạn thanh toán của từng loại giấy tờ có giá ngắn hạn (Trường hợp Ngânhàng Nhà nước bán);
+
+
+8.Thời hạn của giao dịch có kỳ hạn;
+
+
+9.Phương thức đấu thầu;
+
+
+10.Phương thức xét thầu (Trường hợp đấu thầu lãi suất);
+
+
+11.Phương thức mua, bán;
+
+
+12.Lãi suất Ngân hàng Nhà nước áp dụng khi mua hoặc bán (Trường hợp đấu thầu khốilượng).
+
+
+Tạimỗi phiên giao dịch mua hoặc bán, Ngân hàng Nhà nước chỉ áp dụng một thời hạnmua hoặc bán bán thống nhất cho các loại giấy tờ có giá và chỉ áp dụng một phươngthức đấu thầu lãi suất hoặc đấu thầu khối lượng.
+
+
+Điều 16.Nộp đơn dự thầu
+
+
+Từ8 giờ đến 10 giờ ngày đấu thầu (ngay sau ngày thông báo), các tổ chức tín dụngcăn cứ vào thông báo mua hoặc bán giấy tờ có giá của Ngân hàng Nhà nước để nộpđơn dự thầu đăng ký mua (phụ lục số 04/TTM) hoặc đăng ký bán (phụ lục số05/TTM) với Sở Giao dịch Ngân hàng Nhà nước (Bộ phận Nghiệp vụ thị trường mở)thông qua mạng máy vi tính với các nội dung sau:
+
+
+1.Các loại giấy tờ có giá cần mua hoặc cần bán;
+
+
+2.Kỳ hạn của giấy tờ có giá;
+
+
+3.Hình thức các loại giấy tờ có giá cần mua hoặc cần bán (chứng chỉ, ghi sổ);
+
+
+4.Khối lượng cần mua hoặc cần bán (tính theo giá trị khi đến hạn thanh toán củagiấy tờ có giá );
+
+
+5.Các mức lãi suất dự thầu của từng loại giấy tờ có giá cần mua hoặc cần bán (trườnghợp đấu thầu lãi suất);
+
+
+6.Ngày đến hạn thanh toán của từng loại;
+
+
+7.Phương thức mua hoặc bán;
+
+
+8.Thời hạn mua hoặc bán của từng loại (số ngày);
+
+
+9.Mã số chữ ký của người giao dịch (người lập biểu), người kiểm soát và người cóthẩm quyền.
+
+
+Trongthời hạn nộp đơn dự thầu, tổ chức tín dụng có thể thay đổi nội dung đơn dự thầubằng đơn dự thầu mới hoặc huỷ bỏ đơn dự thầu thông qua mạng máy vi tính. Nhữngthay đổi về nội dung đơn dự thầu của tổ chức tín dụng chỉ có hiệu lực sau khiđơn dự thầu cũ bị huỷ bỏ.
+
+
+Tổngkhối lượng giấy tờ có giá đăng ký mua hoặc bán của một tổ chức tín dụng trongmột đơn dự thầu tối thiểu là 100 triệu đồng.
+
+
+Điều 17.Đơn dự thầu không hợp lệ
+
+
+Đơndự thầu của tổ chức tín dụng bị coi là không hợp lệ trong các trường hợp sauđây:
+
+
+1.Đơn dự thầu không đúng với mã số (code) quy định;
+
+
+2.Mã số chữ ký của người đại diện tổ chức tín dụng trong đơn dự thầu không đúngvới mã số chữ ký do Ngân hàng Nhà nước cấp;
+
+
+3.Lãi suất dự thầu không làm tròn đến 2 con số sau dấu phẩy;
+
+
+4.Đơn dự thầu ghi cụ thể yêu cầu mua theo giá rẻ nhất hoặc yêu cầu bán theo giáđắt nhất;
+
+
+5.Tổng khối lượng giấy tờ có giá ghi trong một đơn dự thầu dưới 100 triệu đồng;
+
+
+6.Các nội dung trong đơn dự thầu không được điền đúng theo quy định của Quy chếnày;
+
+
+7.Tổ chức tín dụng bán giấy tờ có giá mà không có giấy tờ có giá đăng ký tại Ngânhàng Nhà nước theo quy định; Thời hạn còn lại của giấy tờ có giá đăng ký bánngắn hơn thời hạn của hợp đồng bán và mua lại.
+
+
+Đốivới những đơn dự thầu không hợp lệ, Ngân hàng Nhà nước (Sở Giao dịch) sẽ thôngbáo cho tổ chức tín dụng biết qua mạng máy vi tính hoặc bằng FAX.
+
+
+Điều 18. Tổchức xét thầu
+
+
+1.Từ 10 giờ đến 11 giờ 30 ngày đấu thầu, Ngân hàng Nhà nước thực hiện xét thầu.Thống đốc Ngân hàng Nhà nước giao cho Giám đốc Sở Giao dịch Ngân hàng Nhà nướctổ chức thực hiện xét thầu với sự chứng kiến của thành viên trong Ban Điều hànhNghiệp vụ thị trường mở do Trưởng Ban quyết định.
+
+
+2.Việcxét thầu thực hiện theo nội dung thông báo của Ban Điều hành Nghiệp vụ thị trườngmở và theo quy trình nghiệp ụ thị trường mở của Sở Giao dịch Ngân hàng Nhà nước.
+
+
+3.Trường hợp tổ chức tín dụng bán giấy tờ có giá không có đủ giấy tờ có giá đăngký tại Ngân hàng Nhà nước hoặc thời hạn còn lại của giấy tờ có giá đăng ký bánngắn hơn thời hạn của hợp đồng bán và mua lại, Ngân hàng Nhà nước chỉ chấp nhậnxét thầu khối lượng tương ứng với khối lượng giấy tờ có giá đã đăng ký tại Ngânhàng Nhà nước hoặc khối lượng giấy tờ có giá có thời hạn lớn hơn thời hạn củahợp đồng bán và mua lại.
+
+
+Điều 19.Xác định giá mua hoặc giá bán giấy tờ có giá
+
+
+1.Trường hợp bán có kỳ hạn kèm theo hợp đồng bán và mua lại:
+
+
+a.Giá bán giữa Ngân hàng Nhà nước với các tổ chức tín dụng xác định theo côngthức sau:
+
+
+
+
+
+Gđ :     Giá bán;
+
+
+GT:      Giá trị của giấy tờ có giá khi đến hạnthanh toán;
+
+
+T :        Thời hạn còn lại của giấy tờ có giá (sốngày);
+
+
+L :        Lãi suất thống nhất hoặc lãi suất riênglẻ (trường hợp đấu thầu lãi suất) hoặc lãi suất do Ngân hàng Nhà nước thông báo(trường hợp đấu thầu khối lượng) tại phiên đấu thầu, tính theo %/năm;
+
+
+365 : Số ngày quy ướccủa một năm.
+
+
+b. Giá mua lại giữaNgân hàng Nhà nước với các tổ chức tín dụng xác định theo công thức sau:
+
+
+
+
+
+Gv:      Giá mua lại;
+
+
+Gđ:     Giá bán;
+
+
+L:        Lãi suất thống nhất hoặc lãi suấtriêng lẻ (trường hợp đấu thầu lãi suất) hoặc lãi suất do Ngân hàng Nhà nướcthông báo (trường hợp đấu thầu khối lượng) tại phiên đấu thầu, tính theo %/năm;
+
+
+Tb:      Thời hạn bán (số ngày);
+
+
+365:    Số ngày quy ước của một năm.
+
+
+2.Trường hợp mua hoặc bán hẳn giấy tờ có giá giữa Ngân hàng Nhà nước với các tổchức tín dụng:
+
+
+Giámua hoặc bán hẳn giấy tờ có giá được áp dụng như công thức quy định tại Khoản 1Tiết a của Điều này.
+
+
+Điều 20. Thôngbáo kết quả đấu thầu
+
+
+1.Chậm nhất vào lúc 14 giờ ngày đấu thầu, Ngân hàng Nhà nước thông báo kếtquả đấu thầu cho các tổ chức tín dụng tham gia đấu thầu và chi nhánh Ngân hàngNhà nước tỉnh, thành phố qua mạng máy vi tính. Thông báo kết quả đấu thầu baogồm các nội dung chính như sau:
+
+
+a.Ngày đấu thầu;
+
+
+b.Khối lượng trúng thầu;
+
+
+c.Khối lượng không trúng thầu;
+
+
+d.Lãi suất trúng thầu;
+
+
+e.Số tiền thanh toán;
+
+
+g.Ngày thanh toán.
+
+
+2.Thông báo kết quả đấu thầu là căn cứ để thực hiện việc giao, nhận, thanh toángiấy tờ có giá trong trường hợp mua hoặc bán hẳn giấy tờ có giá; đồng thời làcăn cứ để lập hợp đồng bán và mua lại trong trường hợp mua, bán có kỳ hạn.
+
+
+Điều 21. Lậpvà giao, nhận hợp đồng bán và mua lại
+
+
+1.Hợp đồng bán và mua lại giấy tờ có giá do bên bán lập (Phụ lục số 06/TTM đínhkèm Quy chế này).
+
+
+2.Sau khi nhận được thông báo kết quả đấu thầu của Ngân hàng Nhà nước, tổ chứctín dụng bán giấy tờ có giá lập hợp đồng bán và mua lại, gửi cho Ngân hàng Nhànước qua mạng vi tính và bằng FAX.
+
+
+3.Ngân hàng Nhà nước (Sở Giao dịch) lập hợp đồng bán và mua lại trong trường hợpNgân hàng Nhà nước bán giấy tờ có giá cho tổ chức tín dụng. Hợp đồng bán và mualại do Ngân hàng Nhà nước lập được gửi cho tổ chức tín dụng trúng thầu qua mạngvi tính và bằng FAX.
+
+
+4.Thời hạn lập và gửi hợp đồng bán và mua lại chậm nhất vào lúc 15 giờ ngày đấuthầu.
+
+
+5.Sau khi nhận được hợp đồng bán và mua lại, người có thẩm quyền của tổ chức tíndụng trúng thầu hoặc Sở Giao dịch Ngân hàng Nhà nước ký tên và đóng dấu trênbản FAX hợp đồng và gửi cho bên bán qua mạng vi tính và bằng FAX chậm nhất vàolúc 15 giờ 30 ngày đấu thầu.
+
+
+6.Bộ phận Nghiệp vụ thị trường mở (Sở Giao dịch Ngân hàng Nhà nước) sẽ chuyểnbằng máy FAX bản hợp đồng bán và mua lại cho các bộ phận có liên quan của SởGiao dịch và chi nhánh Ngân hàng Nhà nước trước 16 giờ 30 cùng ngày.
+
+
+7.Hợp đồng bán và mua lại là căn cứ để thực hiện việc thanh toán và giao, nhậngiấy tờ có giá giữa Ngân hàng Nhà nước với các tổ chức tín dụng trong trườnghợp giao dịch có kỳ hạn.
+
+
+Điều 22.Thanh toán và chuyển giao quyền sở hữu giấy tờ có giá
+
+
+1.Khi nhận được thông báo kết quả thầu hoặc hợp đồng bán và mua lại đã được cácbên ký kết, bên bán phải chuyển giao quyền sở hữu giấy tờ có giá cho bên mua;đồng thời, bên mua phải thanh toán tiền mua giấy tờ có giá cho bên bán. Việcthanh toán và chuyển giao quyền sở hữu giấy tờ có giá thực hiện trong ngàythanh toán.
+
+
+2.Trường hợp tổ chức tín dụng trúng thầu mua giấy tờ có giá không đủ tiền đểthanh toán, Ngân hàng Nhà nước (Sở Giao dịch) sẽ trích tài khoản của tổ chứctín dụng trúng thầu tại Ngân hàng Nhà nước cho đủ số tiền tương ứng với khối lượngtrúng thầu; nếu không đủ số tiền phải thanh toán thì Ngân hàng Nhà nước sẽ huỷbỏ phần kết quả trúng thầu chưa được thanh toán .
+
+
+3.Vào ngày kết thúc hợp đồng bán và mua lại, bên mua và bên bán sẽ thực hiệnchuyển giao quyền sở hữu giấy tờ có giá và thanh toán theo cam kết của các bêntại hợp đồng bán và mua lại.
+
+
+4.Trường hợp đến hạn phải thanh toán mà tổ chức tín dụng bán và cam kết mua lạigiấy tờ có giá không thanh toán hoặc thanh toán không đủ số tiền phải thanh toánthì Ngân hàng Nhà nước ( Sở Giao dịch) sẽ trích tài khoản của tổ chức tín dụngđó tại Ngân hàng Nhà nước cho đủ số tiền phải thanh toán. Sau khi áp dụng biệnpháp trên mà vẫn chưa đủ số tiền phải thanh toán thì Ngân hàng Nhà nước sẽ tạmgiữ khối lượng giấy tờ có giá tương ứng với số tiền còn thiếu vào tài khoảnriêng. Sau 10 ngày kể từ ngày đến hạn phải thanh toán , tổ chức tín dụng khôngthanh toán đủ số tiền phải thanh toán , Ngân hàng Nhà nước sẽ bán khối lượnggiấy tờ có giá đó để thu hồi vốn . Việc thanh toán được thực hiện thông qua tàikhoản tiền gửi của tổ chức tín dụng tại Ngân hàng Nhà nước.
+
+
+Điều 23.Xử lý vi phạm
+
+
+Cáctổ chức tín dụng tham gia đấu thầu vi phạm 3 lần liên tiếp một trong các trườnghợp sau đây, Ngân hàng Nhà nước sẽ tạm đình chỉ việc tham gia mua, bán trongthời gian 3 tháng kể từ ngày có thông báo vi phạm lần thứ 3:
+
+
+1.Không đăng ký đủ giấy tờ có giá tương ứng với khối lượng đăng ký đấu thầu (đốivới trường hợp tổ chức tín dụng bán giấy tờ có giá);
+
+
+2.Không đủ số tiền phải thanh toán tương đương với khối lượng trúng thầu đượcNgân hàng Nhà nước thông báo;
+
+
+3.Không thanh toán hoặc thanh toán không đủ số tiền phải thanh toán trong trườnghợp đến hạn thanh toán đối với trường hợp tổ chức tín dụng bán và cam kết mualại.
+
+
+Điều 24.Báo cáo thực hiện nghiệp vụ thị trường mở
+
+
+Saumỗi phiên giao dịch, Sở Giao dịch Ngân hàng Nhà nước lập báo cáo (Phụ lục số07/TTM đính kèm Quy chế này) gửi Thống đốc Ngân hàng Nhà nước, Ban Điều hànhNghiệp vụ thị trường mở Vụ Chính sách tiền tệ, Vụ Tín dụng về kết quả đấu thầucủa phiên giao dịch đó.
+
+
+Hàngtháng, quý, năm, Sở Giao dịch Ngân hàng Nhà nước tổng hợp, báo cáo tình hìnhthực hiện nghiệp vụ thị trường mở trong kỳ cho Thống đốc Ngân hàng Nhà nước,Ban Điều hành Nghiệp vụ thị trường mở và các đơn vị có liên quan.
+
+
+
+
+
+CHƯƠNG III. ĐIỀU KHOẢN THI HÀNH
+
+
+Điều 25. Tráchnhiệm của các đơn vị thuộc Ngân hàng Nhà nước
+
+
+1.Vụ Tín dụng:
+
+
+a.Cung cấp thông tin về hoạt động tái cấp vốn cho Ban Điều hành Nghiệp vụ thị trườngmở và Bộ phận Quản lý vốn khả dụng.
+
+
+b.Phối hợp với Sở Giao dịch Ngân hàng Nhà nước để xác định cơ cấu của giấy tờ cógiá giao dịch thông qua nghiệp vụ thị trường mở.
+
+
+2.Vụ Chính sách tiền tệ:
+
+
+a.Quản lý, theo dõi và cung cấp kết quả dự báo vốn khả dụng của các tổ chức tíndụng theo định kỳ cho Ban Điều hành Nghiệp vụ thị trường mở theo Quy chế quảnlý vốn khả dụng.
+
+
+b.Đề xuất với Ban Điều hành Nghiệp vụ thị trường mở về khối lượng các loại giấytờ có giá ngắn hạn cần mua, cần bán, thời hạn cần mua hoặc bán và dự kiến cácmức lãi suất áp dụng khi mua, bán giấy tờ có giá.
+
+
+c.Phối hợp với Vụ Tín dụng, Sở Giao dịch Ngân hàng Nhà nước trình Thống đốc Ngânhàng Nhà nước bổ sung hoặc loại bỏ các loại giấy tờ có giá làm công cụ chonghiệp vụ thị trường mở.
+
+
+3.Sở Giao dịch Ngân hàng Nhà nước:
+
+
+a.Xem xét, công nhận tổ chức tín dụng là thành viên tham gia nghiệp vụ thị trườngmở; Phối hợp với Cục Công nghệ tin học ngân hàng quy định mã số, mã khoá đểgiao dịch qua mạng máy vi tính, máy Fax và mã số chữ ký của những người thamgia giao dịch nghiệp vụ thị trường mở.
+
+
+b.Thực hiện các giao dịch mua hoặc bán giấy tờ có giá với các tổ chức tín dụng.
+
+
+c.Thực hiện đăng ký, quản lý và theo dõi các giấy tờ có giá.
+
+
+d.Thanh toán các giấy tờ có giá.
+
+
+e.Ban hành quy trình hướng dẫn thực hiện nghiệp vụ thị trường mở.
+
+
+g.Phối hợp với Vụ Tín dụng và Vụ Chính sách tiền tệ tham mưu cho Ban Điều hànhNghiệp vụ thị trường mở xác định cơ cấu, thời hạn cần mua, cần bán của các loạigiấy tờ có giá.
+
+
+h.Thực hiện giao, nhận, lưu ký giấy tờ có giá và hạch toán kế toán theo quy định.
+
+
+i.Tổng hợp, theo dõi và báo cáo các thông tin về nghiệp vụ thị trường mở gửi BanĐiều hành Nghiệp vụ thị trường mở, Vụ Tín dụng và Vụ Chính sách tiền tệ.
+
+
+4.Vụ Kế toán-Tài chính:
+
+
+Hướngdẫn quy trình hạch toán kế toán có liên quan đến nghiệp vụ thị trường mở.
+
+
+5.Cục Công nghệ tin học ngân hàng:
+
+
+Lậpchương trình phần mềm cho nghiệp vụ thị trường mở và tổ chức cài đặt chươngtrình để đảm bảo hoạt động an toàn và bảo mật.
+
+
+6.Chi nhánh Ngân hàng Nhà nước:
+
+
+a.Thực hiện giao, nhận, lưu ký các giấy tờ có giá, thanh toán và hạch toán kếtoán theo quy định.
+
+
+b.Thông báo cho Sở Giao dịch Ngân hàng Nhà nước số dư tài khoản lưu ký giấy tờ cógiá của các tổ chức tín dụng.
+
+
+Điều 26.Sửa đổi, bổ sung
+
+
+Việcsửa đổi, bổ sung Quy chế này do Thống đốc Ngân hàng Nhà nước quyết định.
+
+
+
+
+
+

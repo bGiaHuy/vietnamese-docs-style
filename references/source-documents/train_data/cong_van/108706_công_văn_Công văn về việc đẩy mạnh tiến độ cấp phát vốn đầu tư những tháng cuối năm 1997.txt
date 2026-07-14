@@ -1,0 +1,356 @@
+# Công văn về việc đẩy mạnh tiến độ cấp phát vốn đầu tư những tháng cuối năm 1997
+# Loại: Công văn
+# Số hiệu: 1570-ÐTPT/CP
+# Ngày ban hành: 07/10/1997
+# Cơ quan: Bộ Tài chính
+# Người ký: Phạm Văn Trọng
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Ban hành quy chế phối hợp phòng, chống tội phạm trong lĩnh vực
+
+thông tin và truyền thông trên địa bàn tỉnh Lâm Đồng
+
+ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG
+
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Bộ luật Hình sự ngày 21 tháng 12 năm 1999; Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự ngày 19 tháng 6 năm 2009;
+
+Căn cứ Luật Sở hữu trí tuệ ngày 29 tháng 11 năm 2005 và Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ ngày 19 tháng 6 năm 2009;
+
+Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009;
+
+Căn cứ Luật Bưu chính ngày 17 tháng 6 năm 2010;
+
+Căn cứ Luật Xuất bản ngày 20 tháng 11 năm 2012;
+
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+
+Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015;
+
+Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016;
+
+Căn cứ Nghị định số 34/2016/NĐ-CP ngày 14/5/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật;
+
+Căn cứ Thông tư liên tịch số 06/2008/TTLT-BTTTT-BCA ngày 28 tháng 11 năm 2008 của Bộ Thông tin và Truyền thông và Bộ Công an về bảo đảm an toàn cơ sở hạ tầng và an ninh thông tin trong hoạt động bưu chính, viễn thông và công nghệ thông tin;
+
+Căn cứ Thông tư liên tịch số 16/2009/TTLT-BTTTT-BCA ngày 12 tháng 5 năm 2009 của Bộ Thông tin và Truyền thông và Bộ Công an về phối hợp phòng, chống in lậu;
+
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông.
+
+
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông trên địa bàn tỉnh Lâm Đồng.
+
+Điều 2. Quyết định có hiệu lực thi hành từ ngày 15 tháng 02 năm 2017 và thay thế Quyết định số 17/2009/QĐ-UBND ngày 09/4/2009 của Ủy ban nhân dân tỉnh Lâm Đồng về việc ban hành Quy chế phối hợp phòng, chống trộm cước viễn thông; vận chuyển hàng lậu, hàng cấm qua mạng bưu chính và chuyển phát trên địa bàn tỉnh Lâm Đồng.
+
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Thủ trưởng các cơ quan: Sở Thông tin và Truyền thông, Sở Công Thương; Công an tỉnh; Chi cục Hải quan; Chủ tịch Ủy ban nhân dân các huyện, thành phố; Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ỦY BAN NHÂN DÂN
+
+TỈNH LÂM ĐỒNG
+
+
+
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+
+
+
+
+
+
+
+
+QUY CHẾ
+
+Phối hợp phòng, chống tội phạm trong lĩnh vực thông tin
+
+và truyền thông trên địa bàn tỉnh Lâm Đồng
+
+(Ban hành kèm theo Quyết định số 01/2017/QĐ-UBND ngày 05 tháng 01 năm 2017 của Ủy ban nhân dân tỉnh Lâm Đồng)
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+1. Phạm vi điều chỉnh: Quy chế này quy định quan hệ phối hợp giữa các cơ quan Nhà nước trên địa bàn tỉnh Lâm Đồng trong việc cung cấp, trao đổi thông tin về phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông.
+
+2. Đối tượng áp dụng: Sở Thông tin và Truyền thông; Công an tỉnh; Sở Công Thương; Chi cục Hải quan Đà Lạt; các sở, ban, ngành; Ủy ban nhân dân các huyện, thành phố, các tổ chức và cá nhân khác có liên quan đến công tác phối hợp phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông.
+
+Điều 2. Nguyên tắc phối hợp
+
+1. Việc phối hợp được thực hiện trên nguyên tắc chủ động, kịp thời, hiệu quả, đảm bảo bí mật và tuân thủ đúng quy định của pháp luật. Quá trình phối hợp không làm ảnh hưởng đến hoạt động chung của các bên có liên quan;
+
+2. Vụ việc thuộc phạm vi chức năng, nhiệm vụ quản lý của cơ quan, đơn vị nào thì cơ quan, đơn vị đó chủ trì xử lý, các cơ quan, đơn vị khác trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp khi có yêu cầu và xử lý theo quy định của pháp luật;
+
+3. Các cơ quan, đơn vị phối hợp có trách nhiệm cử cán bộ chuyên trách theo dõi, cập nhật thông tin làm đầu mối trong việc tiếp nhận thông tin, phối hợp, giao nhận tài liệu, số liệu liên quan. Cán bộ được giao nhiệm vụ có trách nhiệm đảm bảo bí mật thông tin theo quy định của pháp luật về bảo vệ bí mật Nhà nước, bí mật thông tin cá nhân, kịp thời báo cáo lãnh đạo cơ quan, đơn vị trong việc xử lý thông tin và chỉ đạo công tác phối hợp;
+
+Trường hợp cần sự chỉ đạo, hướng dẫn, phối hợp với các cơ quan có thẩm quyền cấp trên hoặc ngoài tỉnh thì tùy theo vụ việc và theo chức năng, nhiệm vụ thuộc đơn vị nào thì đơn vị đó thực hiện.
+
+4. Hoạt động phối hợp phải đảm bảo đúng nguyên tắc và yêu cầu nghiệp vụ của mỗi đơn vị. Những vướng mắc phát sinh phải được trao đổi, giải quyết theo quy định của pháp luật và yêu cầu nghiệp vụ của mỗi đơn vị, trường hợp có ý kiến khác nhau thì Sở Thông tin và Truyền thông kịp thời báo cáo Ủy ban nhân dân tỉnh xem xét, chỉ đạo.
+
+Chương II
+
+PHƯƠNG THỨC PHỐI HỢP
+
+Điều 3. Phương thức phối hợp
+
+1. Trao đổi, phối hợp tìm kiếm thông tin, cung cấp thông tin về vụ việc vi phạm bằng văn bản, trao đổi trực tiếp qua điện thoại, tra cứu trực tuyến cơ sở dữ liệu liên quan đến vụ vi phạm;
+
+2. Tổ chức họp bàn giữa các đơn vị có liên quan về hành vi vi phạm, mức độ, hình thức, thủ đoạn mà đối tượng sử dụng và hình thức xử lý hành vi vi phạm;
+
+3. Tổ chức các đoàn liên ngành tiến hành thanh tra, kiểm tra việc chấp hành pháp luật;
+
+4. Tổng kết, rút kinh nghiệm và đề ra giải pháp hạn chế các hành vi vi phạm.
+
+Điều 4. Các nội dung phối hợp
+
+1. Phổ biến chính sách, pháp luật có liên quan đến công tác phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông;
+
+2. Đảm bảo an toàn mạng lưới, an ninh thông tin trong lĩnh vực thông tin và truyền thông;
+
+3. Xác minh hành vi, mức độ, công nghệ, hình thức, thủ đoạn đối tượng sử dụng để thực hiện hành vi vi phạm;
+
+4. Phối hợp trong công tác đấu tranh với các loại đối tượng vi phạm và xử lý hành vi vi phạm theo quy định của pháp luật;
+
+5. Phối hợp cưỡng chế việc chấp hành quyết định xử lý vi phạm của cơ quan quản lý Nhà nước;
+
+6. Thanh tra, kiểm tra và xử lý các hành vi vi phạm trong lĩnh vực thông tin và truyền thông theo quy định của pháp luật.
+
+Chương III
+
+TRÁCH NHIỆM CỦA CÁC CƠ QUAN, ĐƠN VỊ PHỐI HỢP
+
+Điều 5. Sở Thông tin và Truyền thông
+
+1. Chủ trì, phối hợp triển khai đầy đủ, kịp thời các văn bản quy phạm pháp luật liên quan đến công tác phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông cho các ngành, tổ chức, cá nhân biết và thực hiện;
+
+2. Chủ trì thực hiện công tác thông tin, tuyên truyền về công tác phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông trên địa bàn tỉnh;
+
+3. Thông báo, phổ biến những phương thức, thủ đoạn mới của các loại đối tượng thực hiện hành vi vi phạm; hướng dẫn các doanh nghiệp thông tin và truyền thông thực hiện phòng ngừa và hạn chế điều kiện phát sinh tội phạm;
+
+4. Tùy theo vụ việc, lĩnh vực cụ thể, kịp thời cung cấp số liệu, tài liệu và phối hợp với đơn vị liên quan trực tiếp để xử lý vi phạm;
+
+5. Chủ trì, phối hợp với các sở, ban, ngành liên quan tổ chức thanh tra, kiểm tra và xử lý đối tượng vi phạm hành chính trong lĩnh vực thuộc thẩm quyền quản lý. Khi phát hiện vụ việc có dấu hiệu tội phạm, chuyển ngay các tài liệu, chứng cứ có liên quan đến cơ quan Công an để tiến hành điều tra xử lý theo quy định của pháp luật;
+
+6. Chỉ đạo và phối hợp chặt chẽ với các cơ quan báo chí, phát thanh, truyền hình, thông tin điện tử tuyên truyền các quy định trong lĩnh vực thông tin và truyền thông cho các tổ chức, cá nhân, cơ quan liên quan và nhân dân biết, thực hiện;
+
+7. Tiếp nhận Quyết định trưng cầu giám định, lập thủ tục trình cơ quan có thẩm quyền quyết định thành lập Hội đồng giám định về lĩnh vực thông tin và truyền thông thuộc phạm vi quản lý theo quy định của pháp luật.
+
+Điều 6. Công an tỉnh
+
+1. Chủ trì tham mưu, hướng dẫn, phối hợp với các cơ quan, doanh nghiệp thực hiện công tác phát động phong trào toàn dân tham gia phòng, chống tội phạm;
+
+2. Chủ trì thanh tra, kiểm tra hoặc phối hợp tham gia các đoàn thanh tra, kiểm tra khi phát hiện có dấu hiệu vi phạm; nhận bàn giao hồ sơ đề nghị truy cứu trách nhiệm hình sự, tiếp nhận thông tin, chủ trì công tác điều tra, xác minh và xử lý tội phạm; trao đổi thông tin về các hành vi vi phạm hành chính trong lĩnh vực thông tin và truyền thông theo quy định của pháp luật;
+
+3. Thông báo tình hình, âm mưu, phương thức, thủ đoạn hoạt động của tội phạm trong lĩnh vực thông tin và truyền thông để Sở Thông tin và Truyền thông và các đơn vị liên quan có biện pháp phát hiện, phòng ngừa, ngăn chặn;
+
+4. Phối hợp với Sở Thông tin và Truyền thông, các đơn vị có liên quan xây dựng phương án, kế hoạch bảo vệ an toàn các công trình, mục tiêu của lĩnh vực thông tin và truyền thông, an ninh thông tin trên địa bàn tỉnh; lập phương án, kế hoạch, bố trí lực lượng phối hợp với các đơn vị có liên quan bảo vệ an toàn, đảm bảo an ninh trật tự cho các công trình, mục tiêu, an ninh thông tin trên lĩnh vực thông tin và truyền thông trọng điểm.
+
+Điều 7. Sở Công Thương
+
+1. Chủ trì kiểm tra, kiểm soát, xử lý nghiêm các trường hợp vi phạm, tàng trữ, lưu thông hàng lậu, hàng giả, hàng cấm, hàng kinh doanh có điều kiện theo quy định của Bộ Công Thương và của Ban Chỉ đạo 389 quốc gia;
+
+2. Cung cấp cho Sở Thông tin và Truyền thông và Công an tỉnh các thông tin về tình hình vi phạm tàng trữ, lưu thông hàng lậu, hàng giả, hàng cấm, hàng kinh doanh có điều kiện liên quan đến lĩnh vực thông tin và truyền thông của các tổ chức, cá nhân trong quá trình kiểm tra, kiểm soát thị trường; các thông tin phục vụ công tác thẩm tra, xác minh, làm rõ đối tượng vi phạm.
+
+Điều 8. Chi cục Hải quan Đà Lạt
+
+1. Quản lý về hoạt động xuất khẩu, nhập khẩu hàng hóa theo quy định của pháp luật. Tổ chức tiếp nhận thông tin, kiểm tra phát hiện và xử lý các hành vi vi phạm pháp luật về xuất khẩu, nhập khẩu hàng hóa liên quan đến lĩnh vực thông tin và truyền thông theo quy định của pháp luật;
+
+2. Cung cấp cho Sở Thông tin và Truyền thông và Công an tỉnh các thông tin về tình hình vi phạm trong lĩnh vực thông tin và truyền thông của các tổ chức, cá nhân trong quá trình làm thủ tục hải quan; các thông tin phục vụ công tác thẩm tra, xác minh, làm rõ đối tượng vi phạm.
+
+Điều 9. Các doanh nghiệp thông tin và truyền thông trên địa bàn tỉnh Lâm Đồng
+
+1. Khi phát hiện dấu hiệu nghi vấn trộm cắp cước viễn thông quốc tế; việc kinh doanh trái phép dịch vụ bưu chính, viễn thông, internet; kinh doanh, đưa vào sử dụng các loại thiết bị viễn thông, thiết bị đầu cuối cấm nhập khẩu, không hợp chuẩn chất lượng; gửi, vận chuyển hàng lậu, hàng giả, hàng cấm qua mạng bưu chính, mạng chuyển phát; các hành vi vi phạm liên quan đến việc cung cấp, sử dụng dịch vụ bưu chính, viễn thông, internet; trộm cắp, phá hoại mạng lưới, thiết bị, các công trình bưu chính, viễn thông; mua bán, trao đổi thông tin thuê bao bất hợp pháp, các doanh nghiệp, tổ chức, cá nhân, ... phải kịp thời báo cáo, cung cấp thông tin, tài liệu có liên quan cho cơ quan Công an, Sở Thông tin và Truyền thông để phối hợp xử lý;
+
+2. Chủ động tổ chức, thực hiện các biện pháp kỹ thuật, nghiệp vụ nhằm giảm thiểu thiệt hại, tác hại do hành vi vi phạm trong lĩnh vực thông tin và truyền thông gây ra; cung cấp thông tin, tài liệu đầy đủ, kịp thời, chính xác theo đề nghị của cơ quan Công an và Sở Thông tin và Truyền thông, tạo điều kiện tốt nhất, nhanh nhất để xác minh, xử lý đối tượng vi phạm;
+
+3. Kịp thời cung cấp thông tin liên quan đến việc giám định theo đề nghị của cơ quan trưng cầu giám định; chịu trách nhiệm về số liệu và tính chính xác của số liệu đã cung cấp;
+
+4. Giáo dục ý thức chấp hành pháp luật đối với người lao động trong cơ quan, đơn vị và khách hàng sử dụng dịch vụ; triển khai các phương án bảo vệ, kế hoạch đảm bảo an toàn mạng lưới bưu chính, viễn thông và an ninh thông tin;
+
+5. Cử người có thẩm quyền, đủ trình độ làm đầu mối phối hợp, tiếp nhận, cung cấp thông tin, tài liệu liên quan đến các hành vi vi phạm pháp luật cho Sở Thông tin và Truyền thông hoặc cơ quan Công an. Người được giao nhiệm vụ có trách nhiệm đảm bảo bí mật thông tin theo quy định của pháp luật.
+
+Điều 10. Các sở, ban, ngành, địa phương
+
+1. Sở Giáo dục và Đào tạo:
+
+a) Thường xuyên phổ biến, tuyên truyền, giáo dục cho học sinh, đội ngũ giáo viên nâng cao ý thức khai thác, sử dụng thông tin trên mạng internet một cách hiệu quả, lành mạnh;
+
+b) Phối hợp với các cơ quan chức năng có biện pháp ngăn chặn, xử lý kịp thời các hành vi vi phạm quy định về khai thác, sử dụng thông tin trên internet đối với học sinh và giáo viên.
+
+2. Sở Xây dựng, Sở Giao thông Vận tải:
+
+Khi cấp giấy phép xây dựng công trình, thi công đường giao thông phải chú ý đến các công trình ngầm (viễn thông). Kịp thời trao đổi, cung cấp thông tin về các công trình được cấp phép với cơ quan quản lý Nhà nước về lĩnh vực thông tin và truyền thông để có biện pháp phối hợp thực hiện đảm bảo an toàn, tránh xảy ra thiệt hại.
+
+3. Các sở, ban, ngành có liên quan: Theo chức năng, nhiệm vụ và quyền hạn được giao, phối hợp với các cơ quan chức năng trong công tác kiểm tra, kịp thời phát hiện, có biện pháp ngăn chặn và xử lý các hành vi vi phạm theo quy định trong lĩnh vực thông tin và truyền thông.
+
+4. Ủy ban nhân dân các huyện, thành phố:
+
+a) Chỉ đạo các phòng, cơ quan chức năng (Phòng Văn hóa và Thông tin, Công an, Quản lý thị trường) và các xã, phường, thị trấn thực hiện công tác quản lý Nhà nước về lĩnh vực thông tin và truyền thông; triển khai Quy chế này đến nhân dân địa phương; thường xuyên kiểm tra, có biện pháp xử lý kịp thời đối với các tổ chức, cá nhân vi phạm;
+
+c) Hỗ trợ và phối hợp chặt chẽ với các cơ quan chức năng của tỉnh trong công tác kiểm tra, xử lý các đối tượng vi phạm theo quy định của pháp luật.
+
+Chương IV
+
+BÁO CÁO, THÔNG TIN KHI PHÁT HIỆN HÀNH VI VI PHẠM PHÁP LUẬT TRONG LĨNH VỰC THÔNG TIN VÀ TRUYỀN THÔNG
+
+Điều 11. Hoạt động bưu chính và chuyển phát
+
+Doanh nghiệp, cá nhân hoạt động trong lĩnh vực bưu chính - chuyển phát kịp thời báo cơ quan chức năng gần nhất khi phát hiện (ở các khâu gửi, tiếp nhận, vận chuyển và phát) các hành vi vi phạm sau:
+
+a) Bưu gửi (thư, gói, kiện hàng hóa, sách báo, tranh ảnh, băng đĩa, ...) có nội dung phản động, kích động, gây mất an ninh, phá hoại đoàn kết dân tộc, chống phá Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;
+
+b) Bưu gửi có chứa hoặc nghi chứa vũ khí, vật (chất) gây nổ, chất gây cháy, chất độc, chất phóng xạ, ma túy, vi trùng dịch bệnh phục vụ mục đích khủng bố, xâm hại tính mạng, tài sản công dân, gây mất trật tự, an toàn xã hội;
+
+c) Bưu gửi chứa văn hóa phẩm có nội dung trái đạo đức xã hội, thuần phong mỹ tục của Việt Nam;
+
+d) Chiếm đoạt, trộm cắp bưu gửi, tráo đổi nội dung bưu gửi, bóc mở, hủy bưu gửi trái pháp luật;
+
+đ) Xâm hại công trình bưu chính công cộng, cản trở hoạt động bưu chính hợp pháp;
+
+e) Hoạt động bưu chính trái pháp luật;
+
+g) Sản xuất, kinh doanh, sử dụng tem bưu chính Việt Nam và tem bưu chính nước ngoài trái pháp luật.
+
+Điều 12. Hoạt động viễn thông
+
+Tổ chức, cá nhân hoạt động trong lĩnh vực viễn thông kịp thời báo cơ quan chức năng gần nhất khi phát hiện các hành vi sau:
+
+a) Sử dụng dịch vụ viễn thông (đàm thoại, nhắn tin, truy cập trang thông tin điện tử) để truyền đưa thông tin có nội dung phản động, chống phá, tiết lộ bí mật nhà nước, tuyên truyền kích động bạo lực, dâm ô, đồi trụy, tệ nạn xã hội, mê tín dị đoan;
+
+b) Gọi điện hoặc nhắn tin có nội dung xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự, nhân phẩm của cá nhân; lừa đảo, tống tiền, đe dọa, quấy rối, khủng bố;
+
+c) Quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ bị cấm theo quy định của pháp luật;
+
+d) Trộm cắp cước, thiết bị viễn thông; phá hoại cơ sở hạ tầng viễn thông; thu, nghe, xem trộm thông tin trên mạng viễn thông;
+
+đ) Kinh doanh sim thuê bao di động trả trước đã có thông tin thuê bao;
+
+e) Cản trở trái pháp luật việc thiết lập cơ sở hạ tầng viễn thông, việc cung cấp và sử dụng hợp pháp các dịch vụ viễn thông;
+
+g) Mua bán, kết nối vào mạng viễn thông, thiết bị không đáp ứng yêu cầu về chất lượng.
+
+Điều 13. Hoạt động internet
+
+Tổ chức, cá nhân kịp thời báo cơ quan chức năng gần nhất khi phát hiện các hành vi sau:
+
+a) Sử dụng dịch vụ internet (thông tin, trao đổi, phát tán tài liệu trên internet) để chống phá Nhà nước, tuyên truyền kích động bạo lực, dâm ô, đồi trụy, mê tín dị đoan;
+
+b) Đưa lên internet các thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự, nhân phẩm của cá nhân;
+
+c) Lợi dụng internet để quảng cáo, tuyên truyền, mua bán hàng hóa, dịch vụ bị cấm theo quy định của pháp luật; lừa đảo chiếm đoạt tài sản, dụ dỗ mua bán phụ nữ, trẻ em;
+
+d) Các tệ nạn xã hội do mặt trái của internet và trò chơi trực tuyến gây ra như: trộm cướp, gây mất trật tự, học sinh nghiện game bỏ học.
+
+đ) Hành vi gây rối, phá hoại hệ thống thiết bị và cản trở trái pháp luật việc quản lý, cung cấp, sử dụng các dịch vụ internet và thông tin điện tử trên internet.
+
+Điều 14. Hoạt động công nghệ thông tin và điện tử
+
+Tổ chức, cá nhân kịp thời báo cơ quan chức năng gần nhất khi phát hiện các hành vi sau:
+
+a) Truy cập bất hợp pháp vào cơ sở dữ liệu máy tính (đặc biệt là cơ sở dữ liệu quốc gia, an ninh, quốc phòng) nhằm phá hoại, sửa đổi dữ liệu, trộm cắp dữ liệu và thay đổi giao diện; thực hiện tấn công từ chối dịch vụ làm tắc nghẽn đường truyền của một địa chỉ trang thông tin điện tử đã định trước;
+
+b) Sử dụng dữ liệu của máy tính, hoặc mạng máy tính để tạo, lan truyền, phát tán các chương trình virus, phần mềm gián điệp nhằm xâm nhập vào máy tính cá nhân để lấy cắp thông tin địa chỉ thư điện tử, thông tin thẻ tín dụng và thông tin cá nhân (mật khẩu); đưa thông tin lấy cắp được lên mạng để mua bán, trao đổi, cho tặng; phá hoại, làm thay đổi thông tin, dữ liệu của cá nhân, tổ chức;
+
+c) Dùng máy tính làm công cụ để thực hiện các hành vi phạm tội: lừa đảo qua quảng cáo bán hàng trực tuyến, trên các sàn giao dịch ảo như ngoại tệ, vàng, bất động sản, huy động vốn tín dụng; lừa đảo bằng thư điện tử thông báo trúng thưởng lớn, đề nghị tham gia rửa tiền, đề nghị nhận hộ tiền thừa kế; tuyên truyền văn hóa phẩm đồi trụy qua mạng; tổ chức hoạt động mại dâm qua mạng; thực hiện các hoạt động khủng bố, gây rối qua mạng; tuyên truyền thông tin đồn nhảm, thất thiệt; gửi thư điện tử, nhắn tin lừa đảo, tống tiền, đe dọa, quấy rối, khủng bố; xâm phạm quyền sở hữu trí tuệ;
+
+d) Sản xuất, lưu hành sản phẩm công nghệ thông tin và điện tử trái pháp luật; giả mạo trang thông tin điện tử của tổ chức, cá nhân khác;
+
+đ) Xuất, nhập khẩu trái phép sản phẩm, hàng hóa công nghệ thông tin, điện tử như máy vi tính, máy in, máy scan, máy photocopy, máy điện thoại, máy ghi âm, máy ghi hình;
+
+e) Kinh doanh hàng giả, hàng nhái, hàng kém chất lượng các sản phẩm, linh kiện công nghệ thông tin, điện tử.
+
+Điều 15. Hoạt động in, photocopy và phát hành
+
+1. Cơ quan, tổ chức, cá nhân kịp thời báo cơ quan chức năng gần nhất khi phát hiện các hành vi sau:
+
+a) In, xuất bản phẩm lậu, in giả, in nối bản trái phép xuất bản phẩm;
+
+b) In, photocopy nhân bản báo chí, xuất bản phẩm nhằm mục đích kinh doanh; thay đổi, làm sai lệch nội dung bản thảo đã được ký duyệt hoặc bản thảo tài liệu không kinh doanh có dấu của cơ quan cấp giấy phép xuất bản; xuất bản phẩm đã có quyết định thu hồi, tịch thu, cấm lưu hành, tiêu hủy hoặc nhập khẩu trái phép;
+
+c) In các sản phẩm cấm lưu hành; in, photocopy trái phép tài liệu thuộc danh mục bí mật Nhà nước;
+
+d) In, xuất bản mà không đăng ký, không có quyết định xuất bản hoặc không có giấy phép xuất bản;
+
+2. Cơ quan, tổ chức, cá nhân kịp thời báo cho một trong các cơ quan sau: Sở Thông tin và Truyền thông, Sở Công Thương, Chi cục Hải quan, cơ quan Công an nơi gần nhất khi phát hiện các hành vi sau:
+
+a) Xuất, nhập khẩu báo chí, xuất bản phẩm lậu;
+
+b) Phát hành (bán, phân phát, cho thuê, đưa lên mạng internet) xuất bản phẩm nhập lậu, in lậu, có nội dung tuyên truyền mê tín dị đoan, tuyên truyền lối sống đồi trụy, khiêu dâm, kích động bạo lực;
+
+c) Phát hành xuất bản phẩm đã có quyết định thu hồi, tịch thu, cấm lưu hành.
+
+Điều 16. Chế độ báo cáo
+
+1. Trước ngày 15 tháng 12 hàng năm, Sở Thông tin và Truyền thông chủ trì, phối hợp với các đơn vị có liên quan tổ chức họp đánh giá, trao đổi về kết quả thực hiện Quy chế phối hợp, rút kinh nghiệm và tổng hợp báo cáo, đề xuất Ủy ban nhân dân tỉnh các cơ chế, giải pháp nâng cao hiệu quả công tác phối hợp phòng, chống tội phạm trong lĩnh vực thông tin và truyền thông trên địa bàn tỉnh.
+
+2. Công an tỉnh, Sở Công Thương, Chi cục Hải quan Đà Lạt và các doanh nghiệp thông tin và truyền thông có trách nhiệm báo cáo tình hình thực hiện công tác phối hợp phòng, chống các hành vi vi phạm, tội phạm trong lĩnh vực thông tin và truyền thông cho Sở Thông tin và Truyền thông để tổng hợp báo cáo Ủy ban nhân dân tỉnh.
+
+Chương V
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 17. Điều khoản thi hành
+
+Trong quá trình thực hiện Quy chế, nếu có khó khăn, vướng mắc phát sinh, các sở, ban, ngành, cơ quan, đơn vị, địa phương, cá nhân phản ánh kịp thời về Sở Thông tin và Truyền thông để tổng hợp, báo cáo Ủy ban nhân dân tỉnh xem xét, bổ sung, sửa đổi./.
+
+
+
+
+
+
+

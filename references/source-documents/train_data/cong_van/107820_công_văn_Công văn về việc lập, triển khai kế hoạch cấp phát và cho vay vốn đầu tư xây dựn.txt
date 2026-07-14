@@ -1,0 +1,454 @@
+# Công văn về việc lập, triển khai kế hoạch cấp phát và cho vay vốn đầu tư xây dựng cơ bản năm 1997
+# Loại: Công văn
+# Số hiệu: 456-TC/ÐTPT
+# Ngày ban hành: 12/02/1997
+# Cơ quan: Bộ Tài chính
+# Người ký: Lê Thị Băng Tâm
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng
+
+phí thẩm định đủ điều kiện hoạt động dịch vụ quan trắc môi trường
+
+-----------------------
+
+Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015;
+
+Căn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015;
+
+Căn cứ Nghị định số 127/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định điều kiện của tổ chức hoạt động dịch vụ quan trắc môi trường;
+
+Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí;
+
+Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Vụ trưởng Vụ Chính sách thuế,
+
+Bộ trưởng Bộ Tài chính ban hành Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định đủ điều kiện hoạt động dịch vụ quan trắc môi trường.
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định đủ điều kiện hoạt động dịch vụ quan trắc môi trường.
+
+Điều 2. Người nộp phí và tổ chức thu phí
+
+1. Người nộp phí là các tổ chức đề nghị chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường.
+
+2. Tổ chức thu phí là Trung tâm Quan trắc môi trường thuộc Tổng cục Môi trường, Bộ Tài nguyên và Môi trường.
+
+Điều 3. Mức thu phí
+
+1. Thẩm định cấp mới, gia hạn, điều chỉnh nội dung, cấp lại giấy chứng nhận (trong trường hợp Hồ sơ năng lực của tổ chức không còn giá trị), mức thu phí được xác định theo công thức sau:
+
+
+
+
+
+Mức thu phí
+
+
+
+
+=
+
+
+
+
+Chi phí thẩm định
+
+
+
+
+x  K
+
+
+
+
+x  M
+
+
+
+
+
+Trong đó:
+
+- Chi phí thẩm định: 42.000.000 đồng (Mức chi phí tối thiểu thực hiện đánh giá hồ sơ, kiểm tra thực tế tại tổ chức và họp Hội đồng thẩm định một hồ sơ đề nghị chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường).
+
+- K: Hệ số vị trí địa lý theo khu vực của tổ chức đề nghị chứng nhận, chi tiết tại Phụ lục kèm theo Thông tư này.
+
+- M: Hệ số điều chỉnh theo số lượng thông số môi trường đề nghị chứng nhận.
+
+Mức phí thẩm định cụ thể như sau:
+
+Đơn vị tính: 1.000 đồng
+
+
+
+
+
+M
+
+
+K
+
+
+
+
+Dưới 16 thông số
+
+
+(M = 1,0)
+
+
+
+
+Từ 16 đến 30 thông số
+
+
+(M = 1,2)
+
+
+
+
+Từ 31 đến 45 thông số
+
+
+(M = 1,4)
+
+
+
+
+Từ 46 đến 60 thông số
+
+
+(M = 1,6)
+
+
+
+
+Trên 60 thông số
+
+
+(M = 1,8)
+
+
+
+
+
+
+Đồng bằng sông Hồng (K = 1,0)
+
+
+
+
+42.000
+
+
+
+
+50.400
+
+
+
+
+58.800
+
+
+
+
+67.200
+
+
+
+
+75.600
+
+
+
+
+
+
+Trung du và miền núi phía Bắc (K = 1,1)
+
+
+
+
+46.200
+
+
+
+
+55.440
+
+
+
+
+64.680
+
+
+
+
+73.920
+
+
+
+
+83.160
+
+
+
+
+
+
+Bắc Trung Bộ và duyên hải miền Trung (K = 1,2)
+
+
+
+
+50.400
+
+
+
+
+60.480
+
+
+
+
+70.560
+
+
+
+
+80.640
+
+
+
+
+90.720
+
+
+
+
+
+
+Tây Nguyên
+
+
+(K = 1,3)
+
+
+
+
+54.600
+
+
+
+
+65.520
+
+
+
+
+76.440
+
+
+
+
+87.360
+
+
+
+
+98.280
+
+
+
+
+
+
+Nam Bộ
+
+
+(K = 1,4)
+
+
+
+
+58.800
+
+
+
+
+70.560
+
+
+
+
+82.080
+
+
+
+
+94.080
+
+
+
+
+105.840
+
+
+
+
+
+
+
+2. Thẩm định cấp lại giấy chứng nhận trong trường hợp Hồ sơ năng lực của tổ chức vẫn còn giá trị, mức phí cụ thể như sau:
+
+
+
+
+
+Số TT
+
+
+
+
+Số lượng thông số môi trường đề nghị chứng nhận
+
+
+
+
+Mức thu
+
+
+(1.000 đồng)
+
+
+
+
+
+
+1
+
+
+
+
+Dưới 16 thông số
+
+
+
+
+13.000
+
+
+
+
+
+
+2
+
+
+
+
+Từ 16 đến 30 thông số
+
+
+
+
+15.600
+
+
+
+
+
+
+3
+
+
+
+
+Từ 31 đến 45 thông số
+
+
+
+
+18.200
+
+
+
+
+
+
+4
+
+
+
+
+Từ 46 đến 60 thông số
+
+
+
+
+20.800
+
+
+
+
+
+
+5
+
+
+
+
+Trên 60 thông số
+
+
+
+
+23.400
+
+
+
+
+
+Điều 4. Kê khai, nộp phí
+
+1. Người nộp phí thực hiện nộp phí thẩm định chậm nhất là năm (05) ngày kể từ khi nhận được thông báo bằng văn bản của cơ quan tiếp nhận hồ sơ chấp nhận hồ sơ đăng ký là hợp lệ. Phí thẩm định nộp cho tổ chức thu phí hoặc nộp vào tài khoản phí chờ nộp ngân sách của tổ chức thu phí mở tại kho bạc nhà nước.
+
+2. Chậm nhất là ngày 05 hàng tháng, tổ chức thu phí phải gửi số tiền phí đã thu của tháng trước vào tài khoản phí chờ nộp ngân sách mở tại Kho bạc nhà nước.
+
+3. Tổ chức thu phí thực hiện kê khai, nộp phí thu được theo tháng, quyết toán năm theo hướng dẫn tại khoản 3 Điều 19 Thông tư số 156/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ.
+
+Điều 5. Quản lý và sử dụng phí
+
+1. Tổ chức thu phí được trích để lại 90% trên tổng số tiền phí thẩm định thực thu được để chi cho hoạt động thẩm định, thu phí. Tiền phí được để lại được quản lý và sử dụng theo quy định tại Điều 5 Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; trong đó, các khoản chi khác liên quan đến thực hiện công việc, dịch vụ và thu phí, bao gồm cả: Chi phí cho hoạt động kiểm tra, đánh giá và tổ chức họp của Tổ chuyên gia; Hội đồng thẩm định (bao gồm cả chi nhận xét, báo cáo thẩm định) điều kiện hoạt động dịch vụ quan trắc môi trường; mức chi theo quy định tại Thông tư liên tịch số 45/2010/TTLT-BTC-BTNMT ngày 30 tháng 3 năm 2010 của Bộ Tài chính và Bộ Tài nguyên và Môi trường hướng dẫn quản lý kinh phí sự nghiệp môi trường và các văn bản sửa đổi, bổ sung hoặc thay thế (nếu có).
+
+2. Tổ chức thu phí nộp 10% phí thu được vào ngân sách nhà nước theo chương, mục, tiểu mục của Mục lục ngân sách nhà nước. Thời điểm nộp phí thực hiện theo hướng dẫn tại khoản 2 Điều 26 Thông tư số 156/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ.
+
+Điều 6. Tổ chức thực hiện và điều khoản thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2017 và thay thế Thông tư số 52/2014/TT-BTC ngày 24 tháng 4 năm 2014 của Bộ trưởng Bộ Tài chính quy định về mức thu, chế độ thu, nộp và sử dụng phí thẩm định, lệ phí cấp giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường.
+
+2. Các nội dung khác liên quan đến thu, nộp, quản lý, sử dụng, chứng từ thu, công khai chế độ thu phí thẩm định đủ điều kiện hoạt động quan trắc môi trường không đề cập tại Thông tư này được thực hiện theo quy định tại Luật phí và lệ phí; Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; Thông tư số 156/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ; Thông tư số 153/2012/TT-BTC ngày 17 tháng 9 năm 2012 của Bộ trưởng Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng các loại chứng từ thu tiền phí, lệ phí thuộc ngân sách nhà nước và các văn bản sửa đổi, bổ sung hoặc thay thế (nếu có).
+
+3. Trong quá trình thực hiện, nếu có vướng mắc đề nghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu, hướng dẫn bổ sung./.
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+GIÁO ÁN TIN HỌC - LỚP 12
+Bài: Bài học số 1
+Thời lượng: 2 tiết
+Ngày soạn: 2026-01-01
+
+I. MỤC TIÊU
+1. Kiến thức:
+  - Học sinh hiểu được nội dung về bài học số 1.
+  - Học sinh trình bày được nội dung về bài học số 1.
+  - Học sinh trình bày được nội dung về bài học số 1.
+  - Học sinh trình bày được đặc điểm về bài học số 1.
+2. Năng lực:
+  - Năng lực công nghệ
+  - Năng lực thẩm mĩ
+3. Phẩm chất:
+  - Yêu nước
+  - Trung thực
+  - Nhân ái
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. Giáo viên: SGK, SGV, giáo án, máy chiếu, bảng phụ, phiếu học tập.
+2. Học sinh: SGK, vở ghi, đồ dùng học tập.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+Hoạt động 1: Khởi động (14 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV sử dụng phương pháp {random.choice(pp)} để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 2: Hình thành kiến thức (20 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phần trình bày của HS.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 3: Luyện tập (15 phút)
+a) Mục tiêu: Học sinh mở rộng kiến thức về Bài học số 1.
+b) Nội dung: GV tổ chức cho HS làm việc cá nhân để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, bài tập nhóm.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS quan sát và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 4: Vận dụng (21 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Bài học số 1.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 5: Mở rộng (12 phút)
+a) Mục tiêu: Học sinh nắm bắt kiến thức về Bài học số 1.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+IV. RÚT KINH NGHIỆM
+  ...
+Nguồn: Tài liệu tập huấn giáo viên Tin học lớp 12 - Bộ GD&ĐT

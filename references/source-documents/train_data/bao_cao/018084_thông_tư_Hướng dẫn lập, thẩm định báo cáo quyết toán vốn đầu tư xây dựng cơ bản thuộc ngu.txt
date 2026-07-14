@@ -1,0 +1,748 @@
+# Hướng dẫn lập, thẩm định báo cáo quyết toán vốn đầu tư xây dựng cơ bản thuộc nguồn vốn ngân sách nhà nước theo niên độ ngân sách hàng năm
+# Loại: Thông tư
+# Số hiệu: 53/2005/TT-BTC
+# Ngày ban hành: 23/06/2005
+# Cơ quan: Bộ Tài chính
+# Người ký: Nguyễn Công Nghiệp
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+Về hướng dẫn thực hiện giá bán điện
+
+
+
+Căn cứ Nghị định số 45/2001/NĐ-CP ngày 02/08/2001 của Chính phủ về hoạt động điện lực và sử dụng điện;
+
+
+
+Căn cứ Quyết định số 215/QĐ-TTg ngày 29/12/2004 của Thủ tướng Chính phủ về giá bán điện;
+
+Sau khi trao đổi thống nhất với Bộ Tài chính, Bộ Công nghiệp hướng dẫn thực hiện giá bán điện như sau:
+
+I. QUY ĐỊNH CHUNG
+
+1. Thông tư này hướng dẫn thực hiện giá bán điện theo Quyết định số 215/QĐ-TTg ngày 29/12/2004 của Thủ tướng Chính phủ.
+
+Mức giá bán điện theo Quyết định số 215/QĐ-TTg áp dụng cho các đối tượng sử dụng điện vào mục đích sản xuất; kinh doanh, dịch vụ; tiêu dùng sinh hoạt; cơ quan hành chính sự nghiệp; tổ chức quản lý điện nông thôn ký hợp đồng mua bán điện trực tiếp với các đơn vị bán điện từ lưới điện quốc gia có giấy phép hoạt động điện lực trong lĩnh vực phân phối và kinh doanh điện.
+
+Giá bán điện quy định tại Quyết định số 215/QĐ-TTg là giá bán điện chưa có thuế giá trị gia tăng và theo các tiêu chuẩn chất lượng điện quy định tại Nghị định số 45/2001/NĐ-CP ngày 02/08/2001 của Chính phủ về hoạt động điện lực và sử dụng điện.
+
+2. Khi thực hiện mua, bán điện phải sử dụng công tơ đo đếm và thông qua hợp đồng. Việc ký kết hợp đồng mua bán điện thực hiện theo quy định tại các Điều 26, 27 và 28 Nghị định số 45/2001/NĐ-CP ngày 02/08/2001 của Chính phủ về hoạt động điện lực và sử dụng điện.
+
+3. Khi bên mua điện sử dụng điện cho nhiều mục đích khác nhau với mức giá khác nhau thì bên bán điện phải lắp công tơ đo đếm điện riêng cho từng loại giá; trường hợp chưa lắp được công tơ riêng thì hai bên mua, bán điện căn cứ vào tình hình thực tế sử dụng điện để xác định tỷ lệ cụ thể của mỗi loại giá và đưa vào hợp đồng mua bán điện.
+
+4. Bên mua điện sử dụng điện năng ít hơn 15 kWh/tháng thì việc ghi chỉ số công tơ có thể tiến hành ba tháng một lần. Nếu bên mua điện sử dụng điện năng trong 3 tháng ít hơn 15 kWh thì ghi đúng chỉ số trên công tơ và bên bán điện được thu khoản chi phí cố định bằng giá trị 15 kWh theo biểu giá bán điện quy định tại Quyết định số 215/QĐ-TTg và hạch toán vào doanh thu bán điện.
+
+5. Giá bán lẻ điện sinh hoạt trực tiếp đến hộ dân nông thôn của các tổ chức quản lý điện nông thôn tiếp tục thực hiện theo công văn số 1303/CP-KTTH ngày 03/11/1998 của Thủ tướng Chính phủ, Thông tư Liên tịch số 01/1999/TT-LT/BVGCP-BCN ngày 10/02/1999 và Thông tư liên tịch số 02/2000/TTLT-BVGCP-BCN ngày 15/02/2000 của Ban Vật giá Chính phủ và Bộ Công nghiệp.
+
+6. Giá bán điện phải áp dụng theo đúng đối tượng và mục đích sử dụng điện.
+
+Bên mua điện có trách nhiệm kê khai đúng mục đích sử dụng điện để tính giá bán điện theo đúng quy định tại Mục III của Thông tư này.
+
+Nếu bên mua điện thay đổi mục đích sử dụng điện dẫn đến thay đổi giá phải thông báo cho bên bán điện trước 15 ngày để điều chỉnh giá trong hợp đồng. Bên bán điện kiểm tra và kịp thời áp dụng giá bán điện theo đúng đối tượng quy định.
+
+Việc áp dụng giá sai đối tượng sử dụng điện dẫn tới gây thiệt hại cho bên mua hoặc bên bán điện, khi phát hiện, sẽ truy thu hoặc thoái hoàn tiền điện. Trường hợp không xác định rõ thời điểm áp dụng sai giá sẽ tính với thời gian là 12 tháng kể từ thời điểm phát hiện trở về trước.
+
+7. Việc mua, bán công suất phản kháng thực hiện theo Thông tư liên tịch số 09/2001/TTLB-BCN-BVGCP ngày 31/10/2001 của Bộ Công nghiệp - Ban Vật giá Chính phủ.
+
+8. Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:
+
+a) "Bên mua điện" là tổ chức, cá nhân có ký hợp đồng mua điện của bên bán điện để trực tiếp sử dụng hoặc bán lại cho tổ chức, cá nhân khác.
+
+b) "Bên bán điện" là các đơn vị bán điện trực tiếp từ lưới điện quốc gia có giấy phép hoạt động điện lực trong lĩnh vực phân phối và kinh doanh điện.
+
+II. GIÁ BÁN ĐIỆN THEO CẤP ĐIỆN ÁP, THEO THỜI GIAN SỬ DỤNG TRONG NGÀY
+
+1. Giá bán điện theo cấp điện áp
+
+Giá bán điện theo cấp điện áp được áp dụng đối với tất cả các bên mua điện và được quy định tại Quyết định số 215/QĐ-TTg, trừ các bên mua điện theo giá bán lẻ điện sinh hoạt bậc thang, giá bán buôn điện cho nông thôn, khu tập thể, cụm dân cư. Giá bán điện áp dụng ở cấp điện áp nào thì hệ thống đo đếm điện phải lắp đặt phù hợp với cấp điện áp đó. Tiền điện được tính theo sản lượng tính toán được từ hệ thống đo đếm điện, không cộng thêm bất cứ loại chi phí nào.
+
+2. Giá bán điện theo thời gian sử dụng trong ngày.
+
+2.1. Giá bán điện được quy định theo thời gian sử dụng điện trong ngày (dưới đây gọi là hình thức ba giá).
+
+a) Thời gian sử dụng điện trong ngày để áp dụng hình thức ba giá được quy định như sau:
+
+- Giờ bình thường: từ 04 giờ 00 đến 18 giờ 00 (14 giờ)
+
+- Giờ cao điểm: từ 18 giờ 00 đến 22 giờ 00 (04 giờ)
+
+- Giờ thấp điểm: từ 22 giờ 00 đến 04 giờ 00 (6 giờ) sáng ngày hôm sau.
+
+b) Giá bán điện theo hình thức ba giá được áp dụng với các đối tượng sau:
+
+- Bên mua điện sử dụng vào mục đích sản xuất và kinh doanh dịch vụ, được cấp điện qua máy biến áp chuyên dùng từ 25 kVA trở lên hoặc có sản lượng điện sử dụng trung bình ba tháng liên tục từ 2000 kWh/tháng trở lên.
+
+- Bên mua điện sử dụng vào mục đích bơm tưới tiêu phục vụ sản xuất: lúa, rau màu, cây công nghiệp ngắn ngày xen canh.
+
+c) Khuyến khích mua điện theo hình thức 3 giá đối với:
+
++ Khách hàng sử dụng điện vào mục đích sản xuất, kinh doanh dịch vụ có máy biến áp và sản lượng điện sử dụng dưới mức quy định nêu trên;
+
++ Khách hàng sử dụng điện sinh hoạt có mức sử dụng trung bình ba tháng liên tục từ 300 kWh/tháng trở lên;
+
+Bên bán điện có trách nhiệm tạo điều kiện, hướng dẫn để những hộ này được lắp công tơ ba giá.
+
+2.2. Bên bán điện phải chuẩn bị đủ công tơ đo đếm điện để lắp đặt cho bên mua điện thuộc đối tượng áp dụng hình thức giá này. Trong khi bên bán điện chưa lắp đặt công tơ ba giá thì áp dụng giá bán điện theo giờ bình thường.
+
+2.3. Trường hợp công tơ đo đếm điện bị mất, hoạt động không chính xác (kể cả không chính xác về thời gian) hoặc ngừng hoạt động thì sản lượng điện sử dụng được tính theo quy định tại khoản 1, 2, 3 Điều 40 Nghị định số 45/2001/NĐ-CP ngày 02/08/2001 của Chính phủ về hoạt động điện lực và sử dụng điện và giá bán điện được tính theo giờ bình thường.
+
+2.4. Trường hợp bên mua điện thuộc đối tượng áp dụng hình thức ba giá có các tổ chức, cá nhân dùng chung công tơ không thuộc đối tượng này thì bên bán điện phải tách riêng công tơ của các tổ chức, cá nhân dùng chung thành hộ chính để ký hợp đồng mua bán điện trực tiếp.
+
+Nếu vì điều kiện kỹ thuật mà chưa tách riêng hợp đồng với các tổ chức, cá nhân sử dụng điện chung công tơ thì bên bán điện lắp công tơ ba giá cho các tổ chức, cá nhân sử dụng điện chung để khấu trừ điện năng theo thực tế sử dụng.
+
+Trường hợp chưa lắp được công tơ ba giá cho các hộ dùng chung đó thì bên mua điện được áp dụng giá điện giờ bình thường.
+
+Ví dụ: Bên mua điện là Nhà máy A có máy biến áp dung lượng 560 kVA thuộc đối tượng áp dụng hình thức ba giá nhưng có các tổ chức, cá nhân dùng chung không thuộc đối tượng này, bao gồm:
+
+- Khu tập thể nhà máy sử dụng điện cho sinh hoạt áp dụng giá bán buôn điện sinh hoạt.
+
+- Trường dạy nghề B áp dụng giá bán điện đối với cơ quan hành chính sự nghiệp.
+
+Các đơn vị dùng chung này được lắp công tơ ba giá để khấu trừ nên sản lượng giá theo thời gian ngày của nhà máy A được tính như sau:
+
+Đơn vị tính: kWh
+
+
+
+
+
+
+
+
+
+
+Giờ bình thường
+
+
+
+
+Giờ cao điểm
+
+
+
+
+Giờ thấp điểm
+
+
+
+
+
+
+1. Điện sử dụng chung (theo công tơ)
+
+
+
+
+7.856.000
+
+
+
+
+2.150.000
+
+
+
+
+3.450.000
+
+
+
+
+
+
+2. Điện sử dụng của trường dạy nghề B (theo công tơ)
+
+
+
+
+1.572.000
+
+
+
+
+457.000
+
+
+
+
+356.000
+
+
+
+
+
+
+3. Điện sử dụng vào sinh hoạt (theo công tơ)
+
+
+
+
+560.800
+
+
+
+
+349.400
+
+
+
+
+175.000
+
+
+
+
+
+
+4. Điện sử dụng của nhà máy A (4 =1-2-3)
+
+
+
+
+5.723.200
+
+
+
+
+1.343.600
+
+
+
+
+2.919.000
+
+
+
+
+
+
+
+
+III. GIÁ BÁN ĐIỆN THEO ĐỐI TƯỢNG SỬ DỤNG
+
+1. Giá bán điện cho sản xuất
+
+1.1. Giá bán điện cho các ngành sản xuất bình thường:
+
+Áp dụng đối với tất cả các bên mua điện để sử dụng vào sản xuất thuộc các ngành sau:
+
+- Nông nghiệp: trồng trọt (kể cả điện phục vụ cho tưới cây công nghiệp, cây ăn quả ở những diện tích không thu thuỷ lợi phí, thắp sáng kích thích cây ăn quả cho năng suất cao); chăn nuôi gia súc, thuỷ hải sản và các loại chăn nuôi khác; sản xuất thuốc bảo quản và chống dịch bệnh;
+
+- Lâm nghiệp;
+
+- Thuỷ hải sản;
+
+- Khai thác mỏ;
+
+- Công nghiệp;
+
+- Xây dựng;
+
+- Giao thông vận tải;
+
+- Văn phòng các Tổng Công ty, Công ty quản lý sản xuất kinh doanh áp dụng giá bán điện theo giá sản xuất của ngành nghề tương ứng;
+
+- Các kho chứa hàng hoá (thành phẩm, bán thành phẩm) đang trong quá trình sản xuất;
+
+- Các doanh nghiệp hoạt động công ích;
+
+- Các hoạt động sản xuất khác;
+
+1.2. Giá bán điện cho các ngành sản xuất đặc thù:
+
+a) Giá bán điện cho bơm nước tưới tiêu áp dụng đối với các bên mua điện sử dụng vào mục đích bơm nước tưới tiêu phục vụ sản xuất lúa, rau, màu, cây công nghiệp ngắn ngày xen canh (đay, cói, lạc, đỗ...), giống lúa, cây ăn quả, giống cây ăn quả có thu thuỷ lợi phí, kể cả điện sử dụng tại văn phòng các cơ quan làm nhiệm vụ quản lý, khai thác các công trình thuỷ lợi.
+
+b) Giá bán điện cho các ngành sản xuất đặc thù khác áp dụng đối với các đối tượng sau:
+
+- Bên mua điện để sản xuất nước sạch (kể cả điện sử dụng tại văn phòng kinh doanh nước sạch) cung cấp cho nhu cầu tiêu dùng sinh hoạt, sản xuất kinh doanh bảo đảm đủ các điều kiện như: Có giấy phép kinh doanh nước sạch; bán nước sạch sinh hoạt cho cụm dân cư theo giá quy định của Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương.
+
+Trường hợp bên mua điện là tổ chức, cá nhân sản xuất nước sạch ở thôn xã để bán cho các hộ tiêu dùng, nếu dùng điện sau công tơ tổng thì tính theo giá mục đích khác của giá bán buôn cho nông thôn, nếu sử dụng điện theo hợp đồng riêng thì tính theo giá sản xuất nước sạch.
+
+- Bên mua điện sử dụng điện vào việc bơm thoát nước, tiêu úng và xử lý nước thải của thành phố thị xã.
+
+- Bên mua điện sử dụng cho luyện thép, fero, clindon; sản xuất xút, u rê, quặng tuyển apatit; phốt pho vàng, chỉ được áp dụng biểu giá này đối với sản lượng điện dùng vào: luyện thép (kể cả các khâu phụ trợ cho luyện thép, luyện gang bao gồm: nạp liệu lò luyện, thông gió, sản xuất ô xy trong khu liên hợp); dây chuyền luyện fero, luyện clindon; dây chuyền sản xuất phân u rê, quặng tuyển apatit, phốt pho vàng; dây chuyền sản xuất xút thương phẩm nồng độ 30% trở lên.
+
+Không áp dụng đối với sản lượng điện sử dụng vào các khâu khác hoặc mục đích khác của bên mua.
+
+1.3. Giá bán điện cho khu công nghiệp:
+
+Ban quản lý khu công nghiệp ký hợp đồng mua điện của bên bán điện tại công tơ tổng, bán lại điện cho các tổ chức, cá nhân sử dụng điện nằm trong khu công nghiệp thì giá bán điện áp dụng như sau:
+
+a) Bên bán điện bán cho Ban quản lý khu công nghiệp tại công tơ tổng theo mức giá bán điện áp dụng cho các ngành sản xuất được quy định tại Quyết định số 215/QĐ-TTg (trừ trường hợp quy định tại tiết b mục 1.3 dưới đây).
+
+b) Trong trường hợp Ban quản lý khu công nghiệp mua điện từ bên bán điện và bán lại điện cho các tổ chức, cá nhân sử dụng điện vào mục đích sản xuất nằm trong khu công nghiệp ở cùng một cấp điện áp: Bên bán điện bán cho Ban quản lý khu công nghiệp tại công tơ tổng theo mức giá bán điện áp dụng cho các ngành sản xuất quy định tại Quyết định số 215/QĐ-TTg trừ lùi 2%. Sản lượng điện để tính giá trừ lùi căn cứ trên mức sản lượng thực tế sử dụng hàng tháng của khách hàng trong khu công nghiệp mua cùng cấp điện áp mà Ban quản lý khu công nghiệp mua từ bên bán điện.
+
+c) Ban quản lý khu công nghiệp bán điện cho các hộ sử dụng điện trong khu công nghiệp theo đúng biểu giá bán điện quy định tại Quyết định số 215/QĐ-TTg.
+
+Ví dụ: Ban quản lý khu công nghiệp A mua điện của bên bán điện ở cấp điện áp 110 KV để bán lại cho các hộ sử dụng điện vào sản xuất nằm trong khu công nghiệp thì:
+
++ Trường hợp Ban quản lý khu công nghiệp A bán điện cho các hộ sản xuất bình thường trong khu công nghiệp tại cấp điện áp 6 kV:
+
+Giá Ban quản lý khu công nghiệp A thanh toán với bên bán điện được tính như sau:
+
+
+
+
+
+
+
+
+
+
+Giá bán điện (đ/kWh)
+
+
+
+
+
+
+- Giờ bình thường
+
+
+- Giờ thấp điểm
+
+
+- Giờ cao điểm
+
+
+
+
+785
+
+
+425
+
+
+1.325
+
+
+
+
+
+
+
+
+Ban quản lý khu công nghiệp A bán điện cho các hộ sản xuất bình thường trong khu công nghiệp tại cấp điện áp 6 kV như sau:
+
+
+
+
+
+
+
+
+
+
+Giá bán điện (đ/kWh)
+
+
+
+
+
+
+- Giờ bình thường
+
+
+- Giờ thấp điểm
+
+
+- Giờ cao điểm
+
+
+
+
+860
+
+
+480
+
+
+1.430
+
+
+
+
+
+
+
+
++ Trường hợp Ban quản lý khu công nghiệp A bán điện cho các hộ sản xuất bình thường trong khu công nghiệp tại cấp điện áp 110 kV:
+
+Giá Ban quản lý khu công nghiệp A thanh toán với bên bán điện được tính như sau:
+
+
+
+
+
+
+
+
+
+
+Giá bán điện (đ/kWh)
+
+
+
+
+
+
+- Giờ bình thường
+
+
+- Giờ thấp điểm
+
+
+- Giờ cao điểm
+
+
+
+
+785 * 98% = 769,3
+
+
+425 * 98% = 416,5
+
+
+1.325 * 98% = 1.298,5
+
+
+
+
+
+
+
+
+Ban quản lý khu công nghiệp A bán điện cho các hộ sản xuất bình thường trong khu công nghiệp tại cấp điện áp 110 kV như sau:
+
+
+
+
+
+
+
+
+
+
+Giá bán điện (đ/kWh)
+
+
+
+
+
+
+- Giờ bình thường
+
+
+- Giờ thấp điểm
+
+
+- Giờ cao điểm
+
+
+
+
+785
+
+
+425
+
+
+1.325
+
+
+
+
+
+
+
+
+2. Giá bán điện cho các cơ quan hành chính sự nghiệp:
+
+2.1. Giá bán điện cho cơ quan hành chính sự nghiệp:
+
+Giá bán điện cho cơ quan hành chính sự nghiệp áp dụng đối với bên mua điện là:
+
+- Các cơ quan hành chính Nhà nước; đơn vị sự nghiệp; đơn vị lực lượng vũ trang; tổ chức chính trị; chính trị - xã hội; các hiệp hội nghề nghiệp;
+
+- Các đại sứ quán, cơ quan ngoại giao, văn phòng đại diện của các tổ chức quốc tế (không quản lý kinh doanh);
+
+- Các đơn vị hoạt động trong lĩnh vực văn hoá, nghệ thuật, báo chí, thể dục thể thao (kể cả bể bơi, quần vợt...); Đài phát thanh, truyền hình; các nhà hát, công ty biểu diễn; Công ty và rạp chiếu bóng, rạp xiếc, nhà văn hoá, thông tin, nhà thi đấu thể thao; viện bảo tàng, nhà lưu niệm, triển lãm, nhà tang lễ, đài hoá thân;
+
+- Phần được cấp kinh phí từ ngân sách của hội chợ, ban quản lý chợ; phần được cấp kinh phí từ ngân sách của các nhà khách, nhà nghỉ thuộc các cơ quan hành chính, đơn vị sự nghiệp. Bên mua điện phải cung cấp những văn bản pháp lý về sử dụng kinh phí ngân sách để làm cơ sở xác định tính giá theo tỷ lệ.
+
+Ví dụ: Nhà khách số 8 Chu Văn An, Hà Nội là đơn vị thuộc Văn phòng Chính phủ: phần hoạt động được cấp kinh phí từ Văn phòng Chính phủ tính theo giá hành chính sự nghiệp, phần hoạt động kinh doanh tính theo giá kinh doanh, dịch vụ theo tỷ lệ.
+
+- Các cơ quan bảo hiểm y tế, bảo hiểm xã hội.
+
+- Các cơ quan nghiên cứu, thiết kế, quy hoạch; dạy nghề, dạy học (ngoài đối tượng được nêu ở Điểm 2.2 Mục III của Thông tư này).
+
+- Các tổ chức, cơ quan phát hành sách, báo Trung ương và địa phương (kể cả các cửa hàng), cung cấp thiết bị trường học, thiết bị y tế (kể cả các cửa hàng), các tổ chức hoạt động từ thiện của người nước ngoài.
+
+- Các cơ sở tư vấn, trừ cơ sở tư vấn nêu tại Điểm 2.2 Mục III của Thông tư này.
+
+- Các kho dự trữ được cấp có thẩm quyền quy định chức năng dự trữ quốc gia thuộc và không thuộc Cục dự trữ quốc gia.
+
+- Ngân hàng phục vụ người nghèo.
+
+- Các ban quản lý dự án.
+
+Các hoạt động sản xuất hàng hoá của cơ quan hành chính, đơn vị sự nghiệp tính theo giá bán điện cho sản xuất; các hoạt động kinh doanh, dịch vụ của cơ quan hành chính, đơn vị sự nghiệp tính theo giá bán điện cho kinh doanh.
+
+2.2. Giá bán điện cho bệnh viện, nhà trẻ, mẫu giáo và trường phổ thông:
+
+áp dụng cho các đối tượng sau:
+
+- Nhà trẻ, trường mẫu giáo, trường phổ thông các cấp: tiểu học, trung học cơ sở, phổ thông trung học, trung tâm giáo dục thường xuyên (phần dạy văn hoá phổ thông), trường dân tộc nội trú thuộc mọi loại hình công lập, bán công và dân lập.
+
+- Các bệnh viện (kể cả phần sản lượng sử dụng cho nhà tang lễ và đốt rác thải y tế của bệnh viện), cơ sở khám, chữa bệnh (kể cả phần khám, chữa bệnh của trung tâm y tế dự phòng), cơ sở điều dưỡng, phục hồi chức năng, điều trị bệnh nghề nghệp, cơ sở cai nghiện ma tuý, văn phòng tư vấn: cai nghiện ma tuý, HIV, sinh đẻ có kế hoạch.
+
+Các cơ sở này phải có quyết định thành lập hoặc có giấy phép hành nghề của cấp có thẩm quyền. Trường hợp không có quyết định thành lập hoặc giấy phép hành nghề của cấp có thẩm quyền thì tính theo giá kinh doanh dịch vụ.
+
+2.3. Giá bán điện cho chiếu sáng công cộng:
+
+Áp dụng đối với bên mua điện sử dụng vào mục đích chiếu sáng công cộng đường phố; công viên; ngõ xóm; đền; chùa; nhà thờ; di tích lịch sử đã được xếp hạng; nghĩa trang liệt sĩ; khu tập thể hoặc cầu thang nhà tập thể; thang máy khu chung cư; bơm nước phục vụ sinh hoạt tại khu tập thể cụm dân cư.
+
+3. Giá bán lẻ điện sinh hoạt:
+
+3.1. Giá bán lẻ điện tiêu dùng sinh hoạt bậc thang:
+
+a) Giá bán lẻ điện tiêu dùng sinh hoạt bậc thang được áp dụng với các hộ gia đình sử dụng cho nhu cầu sinh hoạt có hợp đồng mua bán điện trực tiếp với Bên bán điện.
+
+Ví dụ: về cách tính tiền điện hàng tháng như sau:
+
+Trường hợp 1: Bên mua điện trong tháng sử dụng 60 kWh.
+
+Số tiền Bên mua điện phải trả là 36.300 đồng, trong đó:
+
++ Tiền điện 60 kWh x 550 đồng/kWh = 33.000 đồng
+
++ Thuế giá trị gia tăng (10%) = 3.300 đồng
+
+Trường hợp 2: Bên mua điện trong tháng sử dụng 300 kWh
+
+Số tiền Bên mua điện phải trả là 323.950 đồng, trong đó:
+
+- 100 kWh đầu tiên: 100 kWh x 550 đồng/kWh = 55.000 đồng
+
+- 50 kWh tiếp theo: 50 kWh x 900 đồng/kWh = 45.000 đồng
+
+- 50 kWh tiếp theo: 50 kWh x 1.210 đồng/kWh = 60.500 đồng
+
+- 100 kWh còn lại: 100 kWh x 1.340 đồng/kWh = 134.000 đồng
+
+Tổng cộng tiền điện = 294.500 đồng
+
+Thuế GTGT 10% = 29.450 đồng
+
+Trường hợp 3: Bên mua điện trong tháng sử dụng 470 kWh
+
+Số tiền Bên mua điện phải trả là 658.900 đồng, trong đó:
+
+- 200 kWh đầu tiên: 200 kWh x 1.100 đồng/kWh = 220.000 đồng
+
+- 100 kWh tiếp theo: 100 kWh x 1.340 đồng/kWh = 134.000 đồng
+
+- 100 kWh tiếp theo: 100 kWh x 1.400 đồng/kWh = 140.000 đồng
+
+- 70 kWh còn lại: 70 kWh x 1.500 đồng/kWh = 105.000 đồng
+
+Tổng cộng tiền điện = 599.000 đồng
+
+Thuế GTGT 10% = 59.900 đồng
+
+b) Bên mua điện có các hộ sử dụng điện dùng chung công tơ (có hộ khẩu riêng) cần yêu cầu bên bán điện lắp đặt công tơ riêng cho từng hộ sử dụng để ký hợp đồng mua bán điện trực tiếp.
+
+Trong khi bên bán điện chưa lắp đặt được công tơ riêng cho từng hộ sử dụng, tạm thời áp dụng như sau: bên mua điện gồm dưới 10 hộ sử dụng điện đối với thị xã, thị trấn, huyện lỵ, ngoại thành các thành phố và dưới 15 hộ sử dụng điện đối với nội thành các thành phố thì áp dụng giá điện bậc thang cho các hộ sử dụng theo nguyên tắc mức bậc thang chung của bên mua điện bằng mức điện năng tối đa của từng bậc thang quy định trong biểu giá điện nhân với số hộ sử dụng điện dùng chung công tơ.
+
+Ví dụ: Bên mua điện gồm 4 hộ sử dụng điện mua điện qua một công tơ đo đếm điện, mức bậc thang giá bán lẻ điện sinh hoạt tính như sau:
+
+Trường hợp 1: Tổng sản lượng sử dụng của 4 hộ từ 1.200 kWh trở xuống
+
+- 100 kWh x 4 hộ = 400 kWh đầu tiên tính giá 550 đồng/kWh
+
+- 50 kWh x 4 hộ = 200kWh tiếp theo tính giá 900 đồng/kWh
+
+- 50 kWh x 4 hộ = 200 kWh tiếp theo tính giá 1210 đồng/kWh
+
+- 100kWh x 4 hộ = 400 kWh tiếp theo tính giá 1340 đồng/kWh
+
+Trường hợp 2: Tổng sản lượng sử dụng của 4 hộ trên 1.200 kWh
+
+- 200 kWh x 4 hộ = 800 kWh đầu tiên tính giá 1.100 đồng/kWh
+
+- 100 kWh x 4 hộ = 400kWh tiếp theo tính giá 1.340 đồng/kWh
+
+- 100 kWh x 4 hộ = 400 kWh tiếp theo tính giá 1.400 đồng/kWh
+
+- Từ kWh thứ 1.601 trở lên tính theo giá 1.500 đồng/kWh
+
+c) Bên mua điện gồm một hộ sử dụng điện có nhiều hợp đồng mua bán điện sinh hoạt (mỗi hợp đồng được lắp một công tơ riêng) sử dụng điện vào sinh hoạt tại một địa điểm thì sản lượng để tính giá điện sinh hoạt bậc thang là tổng sản lượng điện ghi được ở các công tơ tại địa điểm của hộ đó.
+
+d) Trường hợp sinh viên và người lao động thuê nhà để ở (có thời hạn thuê từ 6 tháng trở lên) mà chủ nhà là bên mua điện ký hợp đồng mua bán điện trực tiếp với bên bán điện thì cứ 4 người (căn cứ vào giấy đăng ký tạm trú và hợp đồng thuê nhà có xác nhận của địa phương) tính là một hộ sử dụng điện áp dụng giá bán lẻ điện sinh hoạt bậc thang.
+
+đ) Trường hợp Bên mua điện ký hợp đồng mua điện phục vụ sinh hoạt theo giá bán lẻ điện sinh hoạt bậc thang, có hoạt động khác (sản xuất, kinh doanh...) dùng chung qua công tơ điện sinh hoạt: nếu tháng nào sản lượng điện đo đếm được tại công tơ nhỏ hơn hoặc bằng 50 kWh/hộ (có hộ khẩu riêng) thì tính giá điện sinh hoạt bậc thang; nếu lớn hơn 50 kWh/hộ thì tính giá cho từng mục đích sử dụng điện theo tỷ lệ được thể hiện trong hợp đồng.
+
+Ví dụ: Bên mua điện ký hợp đồng mua điện phục vụ sinh hoạt theo giá bán lẻ điện sinh hoạt bậc thang có hoạt động sản xuất, kinh doanh, dịch vụ dùng chung qua công tơ đo đếm điện sinh hoạt. Trong hợp đồng thống nhất giữa hai bên mua bán điện có tỷ lệ điện sinh hoạt là 80%, điện sản xuất là 10% và điện kinh doanh là 10%.
+
+Nếu trong tháng hộ này sử dụng 45 kWh/tháng thì tính 100% giá điện sinh hoạt ở nấc thang 100 kWh đầu tiên giá 550 đ/kWh.
+
+Nếu trong tháng hộ này sử dụng 150 kWh thì tính giá như sau:
+
+Sản lượng điện tính giá sinh hoạt bậc thang: 150 kWh x 80% = 120 kWh
+
+100 kWh đầu tiên giá 550 đồng/kWh
+
+20 kWh tiếp theo giá 900 đồng/kWh
+
+Sản lượng điện tính giá sản xuất (895 đồng/kWh): 150 kWh x 10% = 15 kWh;
+
+Sản lượng tính giá kinh doanh (1.410 đồng/kWh): 150 kWh x 10% = 15 kWh;
+
+e) Các khách hàng mua điện qua máy biến áp riêng sử dụng vào mục đích sinh hoạt thì tính giá điện theo giá bán lẻ điện sinh hoạt.
+
+g) Trong trường hợp bên bán điện dịch chuyển thời điểm ghi chỉ số công tơ (theo quy định tại điểm c mục 1 Điều 37 Nghị định 45/2001/NĐ-CP) thì định mức sản lượng điện của từng bậc thang giá điện sẽ được điều chỉnh tương ứng với số ngày dịch chuyển.
+
+3.2. Giá bán điện sinh hoạt theo thời gian ngày:
+
+Khuyến khích khách hàng sử dụng điện sinh hoạt thuộc đối tượng quy định tại điểm 3.1 trên đây có mức sử dụng trung bình ba tháng liên tục từ 300 kWh/tháng trở lên mua điện theo hình thức ba giá. Bên bán điện có trách nhiệm tạo điều kiện, hướng dẫn để những hộ này được lắp công tơ ba giá.
+
+Bên bán điện có trách nhiệm hướng dẫn và có cơ chế khuyến khích đối với các khách hàng sử dụng điện sinh hoạt khác có nhu cầu mua điện theo hình thức 3 giá.
+
+4. Giá bán buôn điện:
+
+4.1. Giá bán buôn điện cho nông thôn:
+
+- Giá bán điện phục vụ cho sinh hoạt nông thôn: Áp dụng đối với sản lượng điện sử dụng vào mục đích sinh hoạt của các hộ sử dụng điện tại xã, hợp tác xã, thôn, xóm, mua điện theo công tơ tổng đặt tại trạm biến áp, không phân biệt trạm biến áp của Bên mua điện hay Bên bán điện, không phân biệt cấp điện áp.
+
+- Giá bán điện phục vụ cho các mục đích khác: Áp dụng đối với lượng điện sử dụng ngoài mục đích sinh hoạt và bơm nước tưới tiêu phục vụ sản xuất lúa, rau màu và cây công nghiệp ngắn ngày xen canh.
+
+Sản lượng điện tính theo mỗi loại giá (sinh hoạt, bơm nước, mục đích khác) là sản lượng điện tính toán được từ hệ thống đo đếm điện đặt tại trạm biến áp. Trường hợp không có công tơ điện riêng cho từng loại giá thì căn cứ vào tình hình thực tế sử dụng điện để xác định tỷ lệ cụ thể cho mỗi loại giá và đưa vào hợp đồng mua bán điện.
+
+- Giá bán điện áp dụng đối với sản lượng điện sử dụng vào bơm nước tới tiêu phục vụ sản xuất lúa, rau màu và cây công nghiệp ngắn ngày xen canh theo tỷ lệ tại công tơ tổng là giá bán điện bơm nước tưới tiêu giờ bình thường.
+
+- Trường hợp bên mua điện có tỷ trọng sử dụng điện vào mục đích khác (sản xuất, kinh doanh...) từ 50% trở lên tính cho một công tơ thì tính theo giá điện cho sản xuất với cấp điện áp tương ứng quy định tại Quyết định số 215/QĐ-TTg trừ lùi 10%.
+
+Ví dụ 1: Bên mua điện có công tơ điện đặt tại trạm biến áp có cấp điện áp 6 kV, cấp điện sinh hoạt cho 100 hộ dân nông thôn chiếm 45% sản lượng, bơm nước tưới tiêu chiếm 5% sản lượng và điện phục vụ cho mục đích khác chiếm 50% sản lượng tính theo giá như sau:
+
++ 45% sản lượng điện tính theo giá bán buôn điện sinh hoạt nông thôn 390 đồng/kWh.
+
++ 5% sản lượng điện tính theo giá bơm nước theo giờ bình thường 600 đồng/kWh.
+
++ 50% sản lượng điện tính theo giá bán điện cho sản xuất trừ lùi 10% là 774 đồng/kWh (860 x 0,9 = 774).
+
+Ví dụ 2: Bên mua điện có công tơ điện đặt tại trạm biến áp có cấp điện áp 6 kV, cấp điện cho sinh hoạt của 100 hộ dân nông thôn chiếm 55% sản lượng, bơm nước tưới tiêu chiếm 5% sản lượng và điện phục vụ cho mục đích khác chiếm 40% sản lượng tính theo giá như sau:
+
++ 55% sản lượng điện áp giá bán buôn điện sinh hoạt nông thôn 390 đồng/kWh.
+
++ 5% sản lượng điện tính theo giá bơm nước theo giờ bình thường 600 đồng/kWh.
+
++ 40% sản lượng điện tính theo giá bán điện cho mục đích khác 730 đồng/kWh.
+
+- Trường hợp một trạm biến áp có xuất tuyến riêng cho các xã, hợp tác xã, thôn, xóm khác để được hưởng giá bán buôn thì cần bảo đảm điều kiện công tơ đo đếm điện tổng đặt tại trạm biến áp.
+
+- Trường hợp các trạm biến áp của nông trường, lâm trường vừa cấp điện cho cán bộ công nhân viên nông, lâm trường vừa cấp điện cho nông dân theo từng tuyến không thực hiện được việc đo đếm riêng của từng đối tượng tính giá như sau:
+
++ Phần sản lượng điện cấp cho khu tập thể cán bộ công nhân viên tính theo giá bán buôn cho khu tập thể, cụm dân cư.
+
++ Phần sản lượng điện cấp cho nông dân tính theo giá bán buôn điện nông thôn.
+
+- Trường hợp các trạm biến áp của nông trường, lâm trường vừa cấp điện cho cán bộ công nhân viên nông, lâm trường vừa cấp điện cho nông dân ở xen kẽ nhau không xác định được đối tượng cụ thể thì tính theo giá bán buôn điện nông thôn đối với điện sinh hoạt; đối với điện sử dụng của mục đích khác tính theo giá mục đích khác của khu tập thể cụm dân cư.
+
+4.2. Giá bán buôn điện cho khu tập thể, cụm dân cư:
+
+- Giá bán điện phục vụ sinh hoạt áp dụng đối với sản lượng điện phục vụ sinh hoạt của:
+
++ Cụm dân cư, các khu tập thể của cơ quan (kể cả cơ quan ngoại giao, tổ chức quốc tế), xí nghiệp, nhà máy, công trường, nông trường, lâm trường, trạm, trại... mà Bên mua điện gồm từ 10 hộ sử dụng điện trở lên đối với: thôn, xóm, xã (không đủ điều kiện bán buôn nông thôn); thị xã, thị trấn, huyện lỵ, ngoại thành các thành phố và từ 15 hộ sử dụng điện trở lên đối với thành phố.
+
++ Nhà ở tập thể của học sinh, sinh viên, cơ quan, xí nghiệp, lực lượng vũ trang, cơ sở dưỡng lão, người tàn tật, trại trẻ mồ côi...
+
++ Nhà ở của người tu hành ở đền, chùa, nhà thờ...
+
+- Giá bán điện cho các mục đích khác: áp dụng đối với lượng điện sử dụng ngoài mục đích sinh hoạt.
+
+Giá bán buôn điện cho khu tập thể, cụm dân cư chỉ áp dụng cho những nơi mà Bên bán điện chưa có điều kiện bán lẻ đến hộ dân tiêu dùng.
+
+Những nơi Bên bán điện có điều kiện bán lẻ đến tận hộ tiêu dùng điện mà khách hàng không đồng ý mua lẻ thì Bên bán điện được phép áp dụng giá bán lẻ điện sinh hoạt bậc thang nhân theo số hộ sử dụng điện thực tế như quy định tại Điểm b Khoản 3.1 Mục III của Thông tư này.
+
+5. Giá bán điện cho kinh doanh:
+
+Giá bán điện cho kinh doanh áp dụng với các đối tượng sử dụng điện cho mục đích kinh doanh, dịch vụ bao gồm:
+
+- Các Công ty, cửa hàng, siêu thị, cơ sở kinh doanh thương nghiệp bán buôn, bán lẻ vật tư, hàng hoá kể cả các cửa hàng bán thuốc trừ sâu, thuốc thú y, giống cây, con;
+
+- Các cơ sở kinh doanh tiền tệ gồm ngân hàng thương mại, quỹ tiết kiệm, công ty tài chính, công ty chứng khoán;
+
+- Công ty truyền hình cáp, truyền hình số mặt đất;
+
+- Công ty xổ số thuộc tất các các thành phần kinh tế;
+
+- Các tổ chức hoạt động bảo hiểm (trừ bảo hiểm xã hội, bảo hiểm y tế);
+
+- Cơ sở du lịch, cửa hàng nhiếp ảnh, vũ trường, cửa hàng karaoke, massage;
+
+- Cửa hàng ăn uống, giải khát, uốn tóc, giặt là, may đo, rửa ô tô, xe máy;
+
+- Hoạt động quảng cáo theo nhu cầu hoạt động của các cơ sở sản xuất, kinh doanh, dịch vụ.
+
+- Cửa hàng sửa chữa, tân trang ô tô, xe máy, phương tiện vận tải và hàng tiêu dùng;
+
+- Khách sạn, nhà trọ, nhà nghỉ, nhà khách của các tổ chức, cá nhân; nhà cho thuê để ở hoặc làm văn phòng do chủ nhà ký hợp đồng mua điện;
+
+- Điện dùng ở phòng bán vé, trạm giao nhận hàng, phòng đợi (kể cả sảnh chờ) cửa hàng, quầy bán hàng hoá thuộc các sân bay, nhà ga, bến xe, bến cảng;
+
+- Điện dùng ở các trạm thu phí giao thông, điểm trông giữ xe ôtô;
+
+- Điện dùng ở các kho chứa hàng hoá trong quá trình lưu thông;
+
+- Văn phòng, trụ sở tổng công ty, công ty thuộc mọi thành phần kinh tế làm nhiệm vụ quản lý kinh doanh, dịch vụ;
+
+- Đối với các hoạt động bưu chính, viễn thông của mọi tổ chức, cá nhân:
+
+Căn cứ vào mục đích sử dụng điện để xác định đối tượng giá bán điện cho phù hợp (sản xuất, kinh doanh hay cơ quan hành chính, sự nghiệp).
+
+Ví dụ: Điện sử dụng ở Nhà máy thiết bị bưu điện thuộc đối tượng giá sản xuất; điện sử dụng ở Công ty vật tư bưu điện thuộc đối tượng giá kinh doanh; điện sử dụng ở Trường đại học Bưu chính viễn thông thuộc đối tượng giá cơ quan hành chính, sự nghiệp.
+
+- Các tổ chức, cá nhân vừa sử dụng điện vào sản xuất, vừa sử dụng điện vào kinh doanh trong lĩnh vực bưu chính, viễn thông thì tính giá mua điện như sau:
+
++ Bưu điện các tỉnh Cao Bằng, Bắc Cạn, Lạng Sơn, Lào Cai, Yên Bái, Hà Giang, Tuyên Quang, Lai Châu, Sơn La, Thanh Hoá, Nghệ An, Hà Tĩnh, Quảng Bình, Quảng Trị, Gia Lai, Công Tum, Đắc Lắc, Đắc Nông:
+
+* 97% sản lượng điện theo giá sản xuất.
+
+* 3% sản lượng điện theo giá kinh doanh.
+
++ Văn phòng Tổng Công ty Bưu chính và Viễn thông, Bưu điện các tỉnh thành phố Đồng Nai, Bà Rịa - Vũng Tàu, Hà Nội, Hải Phòng, Đà Nẵng, TP. Hồ Chí Minh, các đơn vị kinh doanh bưu chính, viễn thông khác:
+
+* 70% sản lượng điện sử dụng theo giá sản xuất.
+
+* 30% sản lượng điện sử dụng theo giá kinh doanh.
+
++ Bưu điện các tỉnh còn lại, các Công ty Viễn thông liên tỉnh và Công ty Tem:
+
+* 90% sản lượng điện sử dụng theo giá sản xuất.
+
+* 10% sản lượng điện sử dụng theo giá kinh doanh.
+
+IV. TỔ CHỨC THỰC HIỆN
+
+1. Thông tư này hướng dẫn thực hiện biểu giá điện ban hành theo Quyết định 215/2004/QĐ-TTg được áp dụng từ ngày 01/01/2005 trong phạm vi toàn quốc. Những quy định trước đây trái với Thông tư này đều bãi bỏ.
+
+2. Tổng Công ty điện lực Việt Nam và tất cả các đơn vị bán điện khác triển khai thực hiện Thông tư này.
+
+3. Sở Công nghiệp phối hợp với Sở Tài chính các tỉnh, thành phố trực thuộc Trung ương kiểm tra việc thực hiện giá bán điện, đặc biệt là giá bán điện sinh hoạt ở nông thôn.
+
+4. Trong quá trình thực hiện nếu có vướng mắc cần phản ánh về Bộ Công nghiệp và Bộ Tài chính để kịp thời xem xét, giải quyết./.
+
+
+
+
+
+

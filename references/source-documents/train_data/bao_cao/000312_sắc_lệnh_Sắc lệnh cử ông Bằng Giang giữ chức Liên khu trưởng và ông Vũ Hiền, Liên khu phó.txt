@@ -1,0 +1,265 @@
+# Sắc lệnh cử ông Bằng Giang giữ chức Liên khu trưởng và ông Vũ Hiền, Liên khu phó Liên khu 10
+# Loại: Sắc lệnh
+# Số hiệu: 184
+# Ngày ban hành: 26/05/1948
+# Cơ quan: Chủ tịch nước
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+CỦA BỘ TÀI CHÍNH SỐ 35/TC-CĐKT NGÀY 6-11-1983
+
+HƯỚNG DẪN PHƯƠNG PHÁP KẾ TOÁN Ở ĐƠN VỊ CHỦ ĐẦU TƯ
+
+THEO CHẾ ĐỘ CẤP PHÁT, CHO VAY VÀ THANH TOÁN TRONG
+
+ĐẦU TƯ XÂY DỰNG CƠ BẢN
+
+Thi hành Điều lệ quản lý xây dựng cơ bản ban hành kèm theo nghị định số 232-CP ngày 6-6-1981 của Hội đồng Chính phủ, liên Bộ Tài chính - Ngân hàng Nhà nước đã ra thông tư số 6-TT/LB ngày 14-7-1983 quy định về việc cấp phát, cho vay và thanh toán trong đầu tư xây dựng cơ bản. Thông tư này hướng dẫn phương pháp kế toán ở đơn vị chủ đầu tư để thực hiện chế độ cấp phát, cho vay và thanh toán mới trong đầu tư xây dựng cơ bản như sau.
+
+I. NGUYÊN TẮC CHUNG
+
+Trong quá trình đầu tư xây dựng công trinh, chủ đầu tư có nhiệm vụ:
+
+1. Hạch toán rõ ràng, chính xác, đầy đủ các nguồn vốn đầu tư xây dựng cơ bản như vốn ngân sách, vốn tự có, vốn vay dài hạn ngân hàng và khối lượng xây dựng cơ bản hoàn thành theo nguồn vốn đầu tư, theo thành phần vốn đầu tư và từng hạng mục công trình.
+
+2. Hạch toán rõ ràng, chính xác, đầy đủ và kịp thời các khoản cấp và chi về tạm ứng và cho vay trong quá trình đầu tư xây dựng cơ bản theo những nguyên tắc đã quy định.
+
+3. Vốn tạm ứng và vốn vay phải được hoàn trả kịp thời, đầy đủ khi chủ đầu tư được cấp vốn đầu tư thanh toán sản phẩm xây dựng cơ bản hoàn thành theo quy định đối với từng loại chi phí đầu tư.
+
+
+
+II. KẾ TOÁN CÁC NGHIỆP VỤ CẤP VỐN TẠM ỨNG HOẶC CHO VAY TRONG QUÁ TRÌNH ĐẦU TƯ XÂY DỰNG CƠ BẢN
+
+Việc cấp vốn tạm ứng hoặc cho vay trong quá trình xây dựng công trình đối với chủ đầu tư là biện pháp nhằm quản lý chặt chẽ việc cấp phát, thanh toán trong đầu tư xây dựng cơ bản, nâng cao hiệu quả trong việc sử dụng vốn đầu tư.
+
+Kế toán các nghiệp vụ cấp vốn tạm ứng và cho vay, các nghiệp vụ trả nợ vay và thu hồi tạm ứng trong quá trình đầu tư xây dựng công trình của chủ đầu tư được phản ánh ở TK 93 Vay ngắn hạn ngân hàng.
+
+Trong khi hạch toán trên tài khoản này cần phản ánh riêng biệt khoản cấp tạm ứng và khoản cho vay và chi tiết theo từng loại vay chi phí đầu tư.
+
+Phương pháp kế toán theo các nội dung cấp vốn tạm ứng và cho vay trong quá trính đầu tư xây dựng cơ bản như sau:
+
+1. Kế toán các nghiệp vụ cấp vốn tạm ứng hoặc cho vay chuẩn bị đầu tư xây dựng công trình.
+
+Công việc chuẩn bị đầu tư gồm các hoạt động điều tra, thăm dò, khảo sát nghiên cứu địa hình, địa chất, khí hậu, thuỷ văn nơi xây dựng và những công việc khởi đầu khác của quá trình đầu tư, kết thúc giai đoạn chuẩn bị đầu tư là luận chứng kinh tế - kỹ thuật được duyệt.
+
+Trước đây chi phí này được quản lý và cấp phát vốn như đối với kinh phí sự nghiệp và không tính vào giá trị công trình. Nay theo Điều lệ quản lý xây dựng cơ bản ban hành kèm theo nghị định số 232-CP ngày 6-6-1981, mọi khoản chi phí chuẩn bị đầu tư (kể cả lãi vay ngân hàng nếu có) được tính vào giá trị công trình và theo thông tư liên Bộ Tài chính - Ngân hàng Nhà nước số 6-TT/LB ngày 14-7-1983 thì đối với khoản chi phí chuẩn bị đầu tư xây dựng công trình khi luận chứng kinh tế kỹ thuật chưa được duyệt chủ đầu tư phải vay ngắn hạn ngân hàng (nếu là công trình có tính chất sản xuất, kinh doanh) hoặc xin tạm ứng (đối với công trình không có tính chất sản xuất, kinh doanh) để chi cho các công việc chuẩn bị đầu tư.
+
+Khi vay hoặc xin tạm ứng về chuẩn bị đầu tư, kế toán ghi sổ:
+
+Nợ: các TK 50, 60
+
+hoặc Nợ: TK 34 "Chi phí về xây dựng cơ bản và mua sắm tài sản cố định" (chi tiết "Kiến thiết cơ bản khác", khoản "Chi tạm ứng")
+
+Có: TK 93 "Vay ngắn hạn ngân hàng" (phản ánh riêng biệt khoản tạm ứng và khoản cho vay).
+
+Khi chủ đầu tư được cấp phát vốn đầu tư để thanh toán chi phí chuẩn bị đầu tư hoàn thành, trả khoản nợ vay hoặc khoản tạm ứng về chuẩn bị đầu tư, kế toán ghi sổ:
+
+Nợ: TK 93
+
+Có: các TK 95, 94, 54.
+
+Các chi phí phát sinh trong quá trình chuẩn bị đầu tư được phản ánh ở bên Nợ TK 34 "Chi phí về xây dựng cơ bản và mua sắm tài sản cố định", chi tiết "Chi phí kiến thiết cơ bản khác có tính vào giá trị công trình" ở phần "khoản chi tạm ứng". Khi công việc chuẩn bị đầu tư hoàn thành, chủ đầu tư được cấp phát vốn đầu tư để thanh toán và trả khoản nợ vay hoặc khoản tạm ứng, đồng thời kết chuyển từ khoản chi tạm ứng sang khoản chi được thanh toán.
+
+2. Kế toán các nghiệp vụ cho vay mua sắm thiết bị chuẩn bị cho công trình xây dựng cơ bản.
+
+Đối với khoản chi phí về mua sắm thiết bị chuẩn bị cho công trình xây dựng cơ bản, trong thông tư số 6-TT/LB đã cho áp dụng chế độ vay để mua sắm thiết bị chuẩn bị cho công trình xây dựng như chủ đầu tư (hoặc tổng nhận thầu xây dựng, hoặc nhận thầu chính được chủ đầu tư uỷ quyền) được vay ngắn hạn ngân hàng để mua sắm thiết bị chuẩn bị cho những công trình đã được ghi trong kế hoạch đầu tư xây dựng cơ bản hoặc kế hoạch chuẩn bị cho công trình của Nhà nước, bao gồm thiết bị toàn bộ và thiết bị lẻ; thiết bị cần lắp và không cần lắp, sản xuất trong nước hay nhập khẩu.
+
+Khi vay để thanh toán tiền thiết bị mua sắm, kế toán ghi sổ:
+
+Nợ: TK 60
+
+Có: TK 93 "Vay ngắn hạn ngân hàng".
+
+Khi chủ đầu tư được cấp phát vốn đầu tư để thanh toán thiết bị hoàn thành và trả khoản thiết bị, kế toán ghi sổ:
+
+Nợ: TK
+
+Có: các TK 95, 94, 54.
+
+3. Kế toán các nghiệp vụ cấp vốn tạm ứng hoặc cho vay các khoản chi phí kiến thiết cơ bản khác về đầu tư xây dựng cơ bản:
+
+Các khoản chi phí kiến thiết cơ bản khác trước đây được cấp phát trực tiếp từ vốn đầu tư để thanh toán từng khoản chi. Nay theo quy định mới các chủ đầu tư được vay vốn (đối với các công trình có tính chất sản xuất, kinh doanh) hay được cấp vốn tạm ứng (đối với công trình không có tính chất sản xuất, kinh doanh) trừ những khoản chi lớn, gọn như kinh phí lán trại, tiền thuê thiết kế phí khi xác định rõ chủ đầu tư, sẽ được cấp vốn đầu tư để thanh toán trực tiếp.
+
+Khi vay hoặc xin tạm ứng để chi về chi phí kiến thiết cơ bản khác, kế toán ghi sổ:
+
+Nợ: các TK 50, 34
+
+Có: TK 93 "Vay ngắn hạn ngân hàng".
+
+Khi chủ đầu tư được cấp phát vốn đầu tư để thanh toán khoản chi kiến thiết cơ bản khác hoàn thành và trả khoản nợ vay hoặc tạm ứng, kế toán ghi sổ:
+
+Nợ: TK 93
+
+Có: các TK 95, 94, 54.
+
+Cũng như chi phí chuẩn bị đầu tư, các chi phí kiến thiết cơ bản khác phát sinh trong quá trình đầu tư xây dựng công trình được phản ánh ở bên nợ TK 34 "chi phí xây dựng cơ bản và mua sắm tài sản cố định" các chi tiết chi phí kiến thiết cơ bản khác có tính hoặc không tính vào giá trị công trình ở phần khoản chi tạm ứng. Khi các khoản chi phí kiến thiết cơ bản khác hoàn thành, chủ đầu tư được cấp phát vốn đầu tư để thanh toán và trả khoản nợ vay hoặc khoản tạm ứng, đồng thời kết chuyển từ khoản chi tạm ứng sang khoản chi được thanh toán.
+
+III. KẾ TOÁN CÁC NGHIỆP VỤ CẤP VỐN ĐỂ THANH TOÁN
+
+SẢN PHẨM XÂY DỰNG CƠ BẢN HOÀN THÀNH.
+
+Sản phẩm xây dựng cơ bản hoàn thành được cấp vốn đầu tư để thanh toán bao gồm các sản phẩm về xây lắp, về thiết bị và về kiến thiết cơ bản khác bảo đảm các điều kiện quy định trong thông tư liên bộ số 6-TT/LB.
+
+Kế toán các nghiệp vụ cấp vốn để thanh toán sản phẩm xây dựng cơ bản hoàn thành theo từng loại chi phí đầu tư như sau:
+
+1. Kế toán các nghiệp vụ cấp vốn để thanh toán sản phẩm xây lắp hoàn thành:
+
+Sản phẩm xây lắp hoàn thành được cấp vốn đầu tư để thanh toán phải bảo đảm các điều kiện nêu ở mục a, điểm 8 của thông tư liên bộ số 6-TT/LB. Kế toán các nghiệp vụ nhận bàn giao và cấp vốn đầu tư để thanh toán sản phẩm xây lắp hoàn thành ở đơn vị chủ đầu tư được áp dụng theo chế độ hiện hành, cụ thể là:
+
+a) Khi chủ đầu tư nhận được biên bản nghiệm thu bàn giao về công trình, hạng mục công trình hoàn thành hay sản phẩm xây lắp hoàn thành của đơn vị nhận thầu xây lắp gửi chủ đầu tư xin thanh toán, kế toán ghi sổ:
+
+Nợ: TK 34 "Chi phí xây dựng cơ bản và mua sắm tài sản cố định" (tiểu khoản 34.1 hoặc 34.2, chi tiết "công tác xây dựng hoặc lắp đặt máy móc thiết bị").
+
+Có: TK 60.
+
+b) Khi chủ đầu tư được cấp vốn đầu tư thanh toán cho khối lượng xây lắp hoàn thành nói trên, kế toán ghi sổ:
+
+Nợ: TK 60
+
+Có: các TK 95, 94, 54.
+
+2. Kế toán các nghiệp vụ cấp vốn để thanh toán thiết bị:
+
+Thông tư liên bộ số 6-TT/LB quy định việc cấp vốn đầu tư để thanh toán cho thiết bị chỉ được thực hiện khi thiết bị mua sắm được coi là sản phẩm xây dựng cơ bản hoàn thành, cụ thể là:
+
+- Máy móc thiết bị không cần lắp, công cụ, khí cụ đủ tiêu chuẩn tài sản cố định được xuất kho, bàn giao đưa vào sản xuất, sử dụng.
+
+- Máy móc thiết bị cần lắp khi từng phần thiết bị đã lắp đặt vào công trình gắn với sản phẩm xây lắp được thanh toán.
+
+Do vậy:
+
+a) Tất cả mọi thiết bị, kể cả thiết bị không cần lắp, thiết bị cần lắp cũng như công cụ, khí cụ mua sắm về phải nhập kho thiết bị, kế toán ghi sổ:
+
+Nợ: TK 07 (07.3A - "thiết bị trong kho") (theo từng chi tiết thiết bị cần lắp, không cần lắp, công cụ, khí cụ...)
+
+Có: TK 60
+
+Đối với chi phí vận chuyển, bốc dỡ, bảo quản thiết bị, công cụ... cũng được hạch toán.
+
+Nợ: TK 07 (07. 3A - "thiết bị trong kho").
+
+Có: TK 50, 60.
+
+b) Khi thiết bị mua sắm được coi là sản phẩm xây dựng cơ bản hoàn thành, việc hạch toán được tiến hành như sau:
+
+- Đối với thiết bị không cần lắp, công cụ khí cụ... xuất kho bàn giao đưa vào sản xuất sử dụng, kế toán ghi sổ:
+
+Nợ: TK 34 "Chi phí xây dựng cơ bản và mua sắm tài sản cố định" (Chi tiết "thiết bị không cần lắp" hoặc chi tiết "công cụ khí loại đủ tiêu chuẩn tài sản cố định").
+
+Có: TK 07 (07.3A - Thiết bị trong kho).
+
+- Đối với thiết bị cần lắp:
+
+Khi xuất thiết bị cần lắp giao cho đơn vị nhận thầu để lắp, kế toán ghi sổ:
+
+Nợ: TK 07 (07.3B - Thiết bị để lắp)
+
+Có: TK 07 (07.3A - Thiết bị trong kho).
+
+Khi từng phần thiết bị đã lắp đặt vào công trình, gắn với sản phẩm xây lắp được thanh toán và được coi là sản phẩm xây dựng cơ bản hoàn thành theo biên bản nghiệm thu bàn giao công tác lắp đặt thiết bị hoàn thành, kế toán ghi sổ:
+
+Nợ: TK 34 "Chi phí xây dựng cơ bản và mua sắm tài sản cố định"
+
+(Chi tiết "thiết bị cần lắp")
+
+Có: TK 07 (07.3B - Thiết bị để lắp)
+
+c) Khi chủ đầu tư được cấp vốn thanh toán thiết bị hoàn thành bằng các nguồn vốn đầu tư và hoàn trả nợ vay về thiết bị, kế toán ghi sổ:
+
+Nợ: TK 93
+
+Có: các TK 95, 94, 34.
+
+3. Kế toán các nghiệp vụ cấp vốn thanh toán kiến thiết cơ bản khác.
+
+Đối với chi phí kiến thiết cơ bản khác theo quy định ở thông tư liên bộ số 6-TT/LB khi có công trình, hạng mục công trình hoàn thành hoặc khi có khối lượng xây dựng cơ bản được coi là sản phẩm xây lắp hoàn thành (tức là gắn với sản phẩm xây dựng cơ bản có giá trị sử dụng) thì chi phí kiến thiết cơ bản khác thuộc công trình, hạng mục công trình hay sản phẩm xây lắp đó mới được coi là hoàn thành và được cấp vốn đầu tư để trả vốn vay (kể cả lãi vay ngân hàng nếu có) hoặc trả khoản tạm ứng về kiến thiết cơ bản khác (trừ những khoản chi phí kiến thiết cơ bản khác loại lớn, gọn như kinh phí lán trại, tiền thuê thiết kế phí; chi phí đền bù tài sản, hoa màu và di chuyển vật kiến trúc trên mặt bằng xây dựng... Khi xác định rõ chủ đầu tư, đã được cấp thẳng vốn đầu tư để thanh toán).
+
+Phương pháp hạch toán chi phí kiến thiết cơ bản khác khi hoàn thành như sau:
+
+a) Đối với những khoản chi lớn, gọn chủ đầu tư được cấp thẳng vốn đầu tư để thanh toán khoản chi, kế toán ghi sổ:
+
+Nợ: TK 34 "Chi phí xây dựng cơ bản và mua sắm tài sản cố định (chi tiết "Chi phí kiến thiết cơ bản khác có tính vào giá trị công trình", "khoản chi được thanh toán")
+
+Có: Các TK 95, 94, 54.
+
+b) Đối với những khoản chi kiến thiết cơ bản khác đã được cấp vốn vay và vốn tạm ứng trong quá trình đầu tư xây dựng cơ bản khi được coi là hoàn thành được cấp vốn để thanh toán, kế toán ghi sổ:
+
+Nợ: TK 93
+
+Có: Các TK 95, 94, 54.
+
+Đồng thời với việc hạch toán này, kế toán kết chuyển trên TK 34, chi tiết "Chi phí kiến thiết cơ bản khác" từ khoản chi tạm ứng sang khoản chi được thanh toán.
+
+Trong quá trình hạch toán chi phí kiến thiết cơ bản khác cần lưu ý mỗi khi có sản phẩm xây dựng cơ bản hoàn thành, chủ đầu tư phải tính mức phân bổ về chi phí kiến thiết cơ bản khác vào sản phẩm đó (kể cả lãi vay ngân hàng nếu có) theo nguyên tắc các chi phí kiến thiết cơ bản khác liên quan trực tiếp đến hạng mục công trình hoặc tài sản cố định nào thì tính trực tiếp vào tài sản đó. Các chi phí chung có liên quan đến nhiều đối tượng tài sản thì phải tổng hợp phân bổ theo tỷ lệ hoặc tỷ lệ với vốn xây dựng, hoặc tỷ lệ với vốn thiết bị và vốn lắp đặt thiết bị, hoặc tỷ lệ với vốn xây dựng, vốn lắp đặt, vốn thiết bị nhằm xác định rõ số chi phí kiến thiết cơ bản khác được tính vào công trình, hạng mục công trình.
+
+IV. NHỮNG SỬA ĐỔI, BỔ SUNG VỀ NỘI DUNG VÀ PHƯƠNG PHÁP HẠCH TOÁN MỘT SỐ TÀI KHOẢN KẾ TOÁN
+
+Căn cứ vào những quy định mới về quản lý, cấp phát, cho vay và thanh toán trong xây dựng cơ bản nêu trong Điều lệ quản lý xây dựng cơ bản ban hành kèm theo nghị định số 232-CP của Hội đồng Chính phủ ngày 6-6-1981, thông tư số 6-TT/LB của liên bộ Tài chính - Ngân hàng Nhà nước ngày 14-7-1983 và thông tư số 210-UBXDCBNN ngày 30-11-1982 nay sửa đổi, bổ sung về nội dung và phương pháp hạch toán của một số tài khoản kế toán sử dụng ở đơn vị chủ đầu tư như sau:
+
+1. Tài khoản 07 vật liệu xây dựng và thiết bị cần lắp.
+
+a) Tiểu khoản 07.3 thiết bị cần lắp nay phản ánh tất cả các nghiệp vụ mua và nhập kho thiết bị kể cả thiết bị không cần lắp, công cụ, khí cụ loại đủ tiêu chuẩn tài sản cố định. Do thay đổi về nội dung phản ánh nên tiểu khoản này được đổi tên là thiết bị đầu tư xây dựng cơ bản.
+
+b) Tiểu khoản 07.3 thiết bị đầu tư xây dựng cơ bản chia ra làm hai tiết khoản:
+
+07.3A "thiết bị trong kho"
+
+07.3B "thiết bị để lắp".
+
+Các tiết khoản này lại được chi tiết theo các loại thiết bị mua sắm như thiết bị cần lắp; thiết bị không cần lắp; công cụ, khí cụ loại đủ tiêu chuẩn tài sản cố định...
+
+- Phương pháp hạch toán ở hai tiết khoản này như hướng dẫn ở điểm 2, mục III của thông tư này.
+
+- Số dư nợ ở tiết khoản 07.3B thể hiện giá trị thiết bị cần lắp đã xuất kho cho đơn vị nhận thầu để lắp, nhưng chưa gắn với sản phẩm xây lắp được thanh toán.
+
+Với những nội dung bổ sung trên của TK 07- Tiểu khoản 07.3 "thiết bị đầu tư xây dựng cơ bản". Nay TK 07 được đổi tên là Vật liệu xây dựng và thiết bị đầu tư xây dựng cơ bản.
+
+2. Tài khoản 34 chi phí về xây dựng cơ bản và mua sắm tài sản cố định được bổ sung các nội dung sau.
+
+a) Chi phí chuẩn bị đầu tư xây dựng công trình nay được tính vào giá trị công trình và hạch toán vào chi phí kiến thiết cơ bản khác phân biệt theo từng nguồn vốn đầu tư cơ bản.
+
+b) Đối với chi tiết chi phí kiến thiết cơ bản khác (có tính hoặc không tính vào giá trị công trình) do việc thay đổi trong thể thức cấp phát vốn đầu tư để thanh toán các chi phí này như đã nói ở trên, nên chi tiết này cần được phản ánh riêng biệt hai khoản "khoản chi tạm ứng" khi chưa được thanh toán bằng vốn đầu tư theo sản phẩm xây dựng cơ bản hoàn thành và "khoản chi được thanh toán" khi được cấp vốn đầu tư để thanh toán các khoản chi này. Phương pháp hạch toán ở chi tiết này như hướng dẫn ở điểm 3, mục II.
+
+c) Trong chi phí kiến thiết cơ bản khác có tính vào giá trị công trình nay bao gồm cả chi phí quản lý của ban quản lý công trình mà trước đây không tính vào giá trị công trình.
+
+3. Tài khoản 35 công tác xây dựng cơ bản mua sắm tài sản cố định đã đưa vào sử dụng và các chi phí chờ duyệt y.
+
+Tiểu khoản 35.3 "phí tổn không tính vào giá trị công trình".
+
+Nay căn cứ vào nội dung kinh tế được phản ánh và yêu cầu kiểm tra phân tích hiệu quả đầu tư, nên được đổi tên là chi phí đầu tư tính vào giá trị tài sản lưu động chuyển giao cho đơn vị sản xuất.
+
+Nội dung chi phí gồm:
+
+- Chí phí mua sắm công cụ, khí cụ không đủ tiêu chuẩn tài sản cố định, vật liệu, phụ tùng đi theo thiết bị toàn bộ,... kể cả chi phí vận chuyển, bảo quản cho đơn vị sản xuất, sử dụng sau khi công trình hoàn thành.
+
+- Chi phí về mua súc vật, cây giống có tính chất sản xuất chuyên cung cấp một số sản phẩm nhất định không đủ tiêu chuẩn tài sản cố định.
+
+- Chi phí đào tạo cán bộ và công nhân kỹ thuật, cán bộ quản lý, công nhân sản xuất cho công trình (kể cả thực tập sinh trong nước và ngoài nước).
+
+- Các chi phí phục vụ cho bộ máy quản lý chuẩn bị sản xuất. Riêng đối với 2 nội dung cuối được ghi vào chi phí chờ phân bổ của đơn vị sản xuất, sử dụng sau này để phân bổ dần vào giá thành sản phẩm.
+
+Nhằm bảo đảm việc thi hành theo đúng tinh thần của thông tư liên bộ số 6-TT/LB, đề nghị các ngành, các cơ quan chủ quản, các đơn vị có liên quan nghiên cứu, phổ biến hướng dẫn chu đáo cho tất cả các cán bộ kế toán tài vụ nắm vững nội dung, phương pháp ghi chép kế toán đúng như quy định trong thông tư này.
+
+Thông tư này có hiệu lực thi hành kể từ ngày ký, những quy định hướng dẫn phương pháp kế toán ở đơn vị chủ đầu tư trong công tác cấp phát, cho vay, thanh toán trong đầu tư xây dựng cơ bản trái với thông tư này đều bãi bỏ.
+
+
+
+
+
+
+
+

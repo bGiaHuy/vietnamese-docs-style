@@ -1,0 +1,431 @@
+# Thanh toán chi phí VTYTTH, VTYTTT theo chế độ KCB BHYT
+# Loại: Công văn
+# Số hiệu: 4652/BHXH-CSYT
+# Ngày ban hành: 31/12/2008
+# Cơ quan: Bảo hiểm Xã hội Việt Nam
+# Người ký: Nguyễn Đình Khương
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Sửa đổi, bổ sung thông tư số 06/2012/TT-BTC ngày 11/01/2012 của Bộ Tài chính
+
+hướng dẫn thi hành một số điều của Luật Thuế giá trị gia tăng, hướng dẫn
+
+thi hành nghị định số 123/2008/NĐ-CP ngày 08/12/2008 và Nghị định
+
+số 121/2011/NĐ-CP ngày 27/12/2011 của Chính phủ
+
+_____________________
+
+
+
+Căn cứ Luật Thuế giá trị gia tăng số 13/2008/QH12 ngày 03 tháng 6 năm 2008;
+
+Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006;
+
+Căn cứ Nghị định số 123/2008/NĐ-CP ngày 08 tháng 12 năm 2008 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế giá trị gia tăng;
+
+Căn cứ Nghị định số 121/2011/NĐ-CP ngày 27 tháng 12 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2008/NĐ-CP ngày 8 tháng 12 năm 2008 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế giá trị gia tăng;
+
+Căn cứ Nghị định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính;
+
+Theo đề nghị của Tổng cục trưởng Tổng cục Thuế;
+
+Bộ Tài chính hướng dẫn sửa đổi, bổ sung một số nội dung tại Thông tư số 06/2012/TT-BTC ngày 11/01/2012 của Bộ Tài chính hướng dẫn về thuế giá trị gia tăng như sau:
+
+Điều 1. Sửa đổi, bổ sung một số nội dung tại Thông tư số 06/2012/TT-BTC:
+
+1. Sửa đổi, bổ sung điểm a Khoản 8 Điều 4 Chương I như sau:
+
+“a) Dịch vụ cấp tín dụng gồm các hình thức:
+
+- Cho vay;
+
+- Chiết khấu, tái chiết khấu công cụ chuyển nhượng và các giấy tờ có giá khác;
+
+- Bảo lãnh ngân hàng;
+
+- Cho thuê tài chính;
+
+- Phát hành thẻ tín dụng;
+
+- Bao thanh toán trong nước; bao thanh toán quốc tế đối với các ngân hàng được phép thực hiện thanh toán quốc tế;
+
+- Các hình thức cấp tín dụng khác theo quy định của pháp luật.
+
+Tài sản sử dụng để đảm bảo tiền vay của người nộp thuế GTGT hoặc đã được chuyển quyền sở hữu sang bên cho vay khi bán phải chịu thuế GTGT, trừ trường hợp là hàng hoá không chịu thuế giá trị gia tăng quy định tại Điều 4 Thông tư này.
+
+Ví dụ 2: Trường hợp Công ty TNHH A thế chấp dây chuyền, máy móc thiết bị để vay vốn tại Ngân hàng B. Hết thời hạn vay theo hợp đồng tín dụng, Công ty A không có khả năng trả nợ, Ngân hàng B bán tài sản đảm bảo tiền vay (kể cả trường hợp đã chuyển quyền hoặc chưa chuyển quyền sở hữu tài sản cho Ngân hàng B) để thu hồi nợ thì tài sản này thuộc đối tượng chịu thuế GTGT.”
+
+2. Sửa đổi bổ sung điểm a Khoản 11 Điều 4 Thông tư số 06/2012/TT-BTC như sau:
+
+“a) Dịch vụ phục vụ công cộng về vệ sinh, thoát nước đường phố và khu dân cư cung cấp cho tổ chức, cá nhân (kể cả tổ chức, cá nhân trong và ngoài khu công nghiệp) bao gồm các hoạt động thu, dọn, vận chuyển, xử lý rác và chất phế thải; thoát nước, xử lý nước thải; bơm hút, vận chuyển và xử lý phân bùn, bể phốt; thông tắc công trình vệ sinh, hệ thống thoát nước thải; quét dọn nhà vệ sinh công cộng; duy trì vệ sinh tại các nhà vệ sinh lưu động và thu gom, vận chuyển xử lý chất thải khác.
+
+Trường hợp cơ sở kinh doanh cung cấp dịch vụ như dịch vụ lau dọn văn phòng, lau dọn nhà cửa thì dịch vụ này thuộc đối tượng chịu thuế GTGT.
+
+Ví dụ 3: Công ty TNHH B cung cấp dịch vụ lau dọn văn phòng cho đơn vị C, cung cấp dịch vụ lau chùi hành lang, cầu thang cho chung cư H thì các dịch vụ này thuộc đối tượng chịu thuế GTGT.”
+
+3. Sửa đổi, bổ sung Khoản 2 Điều 5 Chương I như sau:
+
+“2. Các khoản thu về bồi thường, tiền thưởng, tiền hỗ trợ nhận được, tiền chuyển nhượng quyền phát thải và các khoản thu tài chính khác.
+
+Cơ sở kinh doanh khi nhận khoản tiền thu về bồi thường, tiền thưởng, tiền hỗ trợ nhận được, tiền chuyển nhượng quyền phát thải và các khoản thu tài chính khác thì lập chứng từ thu theo quy định. Đối với cơ sở kinh doanh chi tiền, căn cứ mục đích chi để lập chứng từ chi tiền.
+
+Trường hợp bồi thường bằng hàng hoá, dịch vụ thì cơ sở bồi thường phải lập hoá đơn như đối với bán hàng hoá, dịch vụ; cơ sở nhận bồi thường kê khai, khấu trừ theo quy định.
+
+Ví dụ 10: Công ty cổ phần VC ký hợp đồng cho Doanh nghiệp T vay tiền trong thời hạn 6 tháng và được nhận khoản tiền lãi. Khoản lãi do Công ty cổ phần VC nhận được thuộc đối tượng không chịu thuế GTGT.
+
+Ví dụ 11: Công ty TNHH P&C nhận được khoản tiền lãi từ việc mua trái phiếu và tiền cổ tức từ việc mua cổ phiếu của các doanh nghiệp khác. Công ty TNHH P&C không phải kê khai, nộp thuế GTGT đối với khoản tiền lãi từ việc mua trái phiếu và tiền cổ tức nhận được.
+
+Ví dụ 12: Doanh nghiệp A nhận được khoản bồi thường thiệt hại do bị huỷ hợp đồng từ doanh nghiệp B là 50 triệu đồng thì doanh nghiệp A lập chứng từ thu và không phải kê khai, nộp thuế GTGT đối với khoản tiền trên.
+
+Ví dụ 13: Doanh nghiệp X mua hàng của doanh nghiệp Y, doanh nghiệp X có ứng trước cho doanh nghiệp Y một khoản tiền và được doanh nghiệp Y trả lãi cho khoản tiền ứng trước đó thì doanh nghiệp X không phải kê khai, nộp thuế GTGT đối với khoản lãi nhận được.
+
+Ví dụ 14: Doanh nghiệp X bán hàng cho doanh nghiệp Z, tổng giá thanh toán là 440 triệu đồng. Theo hợp đồng, doanh nghiệp Z thanh toán trả chậm trong vòng 3 tháng, lãi suất trả chậm là 1%/tháng/tổng giá thanh toán của hợp đồng. Sau 3 tháng, doanh nghiệp X nhận được từ doanh nghiệp Z tổng giá trị thanh toán của hợp đồng là 440 triệu đồng và số tiền lãi chậm trả là 13,2 triệu đồng (440 triệu đồng x 1% x 3 tháng) thì doanh nghiệp X không phải kê khai, nộp thuế GTGT đối với khoản tiền 13,2 triệu đồng này.”
+
+4. Sửa đổi, bổ sung điểm a.3 Khoản 9 Điều 7 Mục 1 Chương II như sau
+
+“a.3) Trường hợp thuê đất để xây dựng cơ sở hạ tầng, xây dựng nhà để bán, để cho thuê giá đất được trừ để tính thuế giá trị gia tăng là tiền thuê đất phải nộp ngân sách nhà nước (không bao gồm tiền thuê đất được miễn, giảm) và chi phí đền bù, giải phóng mặt bằng theo quy định pháp luật.
+
+Ví dụ: Công ty cổ phần VN-KR có ngành nghề kinh doanh đầu tư, kinh doanh hạ tầng sản xuất công nghiệp và dịch vụ. Công ty được Nhà nước cho thuê đất, thu tiền thuê đất 1 lần để đầu tư xây dựng hạ tầng khu công nghiệp để thực hiện dự án; thời hạn thuê đất là 50 năm. Diện tích đất thuê là 300.000 m2, giá thu tiền thuê đất nộp một lần cho cả thời gian thuê là 82.000đ/ m2. Tổng số tiền thuê đất phải nộp là 24,6 tỷ đồng. Công ty không được miễn, giảm tiền thuê đất. Sau khi đầu tư xây dựng hạ tầng, Công ty ký hợp đồng cho nhà đầu tư thuê lại với thời gian thuê là 49 năm, diện tích đất cho thuê là 16.500 m2 , đơn giá cho thuê tại thời điểm ký hợp đồng là 450.000đ/m2 cho cả thời gian thuê, giá đã bao gồm thuế GTGT).
+
+Giá đã có thuế GTGT đối với tiền thu từ cho thuê hạ tầng trong cả thời gian cho thuê (49 năm) đối với Công ty cổ phần VN-KR cho nhà đầu tư thuê được xác định là:
+
+16.500 m2 x (450.000 – 82.000) = 6,072 tỷ đồng.
+
+Giá chưa có thuế GTGT được xác định là: 6,072 tỷ: (1+ 0,1) = 5.52 tỷ.
+
+Thuế GTGT là: 5,52 tỷ x 10% = 0,552 tỷ.”
+
+5. Bổ sung điểm a.6 tại điểm a Khoản 9 Điều 7 Mục 1 Chương II như sau:
+
+“a.6) Trường hợp doanh nghiệp kinh doanh bất động sản có nhận chuyển nhượng quyền sử dụng đất nông nghiệp của người dân theo hợp đồng chuyển nhượng, sau đó được cơ quan Nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng sang thành đất ở để xây dựng chung cư, nhà ở...để bán thì giá đất được trừ khi tính thuế GTGT là giá đất nông nghiệp nhận chuyển nhượng từ người dân và các chi phí khác bao gồm: khoản tiền sử dụng đất nộp NSNN để chuyển mục đích sử dụng đất từ đất nông nghiệp sang đất ở, thuế thu nhập cá nhân nộp thay người dân có đất chuyển nhượng (nếu các bên có thỏa thuận doanh nghiệp kinh doanh bất động sản nộp thay)”.
+
+6. Bổ sung tại cuối điểm b Khoản 9 Điều 7 như sau:
+
+“Trường hợp xây dựng, kinh doanh cơ sở hạ tầng, xây dựng nhà để bán, chuyển nhượng có thu tiền theo tiến độ thực hiện dự án hoặc tiến độ thu tiền ghi trong hợp đồng thì giá đất được trừ được tính theo tỷ lệ (%) của số tiền thu theo tiến độ thực hiện dự án trên tổng số tiền theo hợp đồng hoặc tiến độ thu tiền ghi trong hợp đồng với giá đất được trừ theo quy định.”
+
+7. Sửa đổi Khoản 3 Điều 9 Mục 1 Chương II như sau:
+
+“3. Các trường hợp không áp dụng mức thuế suất 0% gồm:
+
+- Tái bảo hiểm ra nước ngoài; chuyển giao công nghệ, chuyển nhượng quyền sở hữu trí tuệ ra nước ngoài; chuyển nhượng vốn, cấp tín dụng, đầu tư chứng khoán ra nước ngoài; dịch vụ tài chính phái sinh; dịch vụ bưu chính, viễn thông chiều đi ra nước ngoài (bao gồm cả dịch vụ bưu chính viễn thông cung cấp cho tổ chức, cá nhân trong khu phi thuế quan; cung cấp thẻ cào điện thoại di động đã có mã số, mệnh giá đưa ra nước ngoài hoặc đưa vào khu phi thuế quan); sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác; hàng hoá, dịch vụ cung cấp cho cá nhân không đăng ký kinh doanh trong khu phi thuế quan, trừ các trường hợp khác theo quy định của Thủ tướng Chính phủ;
+
+- Xăng, dầu bán cho xe ô tô của cơ sở kinh doanh trong khu phi thuế quan mua tại nội địa;
+
+- Xe ô tô bán cho tổ chức, cá nhân trong khu phi thuế quan.
+
+- Các dịch vụ do cơ sở kinh doanh cung cấp cho tổ chức, cá nhân ở trong khu phi thuế quan bao gồm: cho thuê nhà, hội trường, văn phòng, khách sạn, kho bãi, dịch vụ vận chuyển đưa đón người lao động; dịch vụ ăn uống (trừ dịch vụ cung cấp suất ăn công nghiệp, dịch vụ ăn uống trong khu phi thuế quan).
+
+- Các dịch vụ sau cung ứng tại Việt Nam cho tổ chức, cá nhân ở nước ngoài không được áp dụng thuế suất 0% gồm:
+
++ Thi đấu thể thao, biểu diễn nghệ thuật, văn hóa, giải trí, hội nghị, khách sạn, đào tạo, quảng cáo, du lịch lữ hành;
+
++ Dịch vụ thanh toán qua mạng.
+
+Các trường hợp không áp dụng thuế suất 0% quy định tại khoản này áp dụng theo thuế suất tương ứng của hàng hoá, dịch vụ khi bán ra, cung ứng trong nước.”
+
+8. Sửa đổi Khoản 4 Điều 14 Mục 1 Chương III như sau:
+
+“4. Cơ sở sản xuất nông nghiệp, lâm nghiệp, nuôi trồng đánh bắt thuỷ, hải sản có tổ chức sản xuất khép kín, hạch toán kết quả sản xuất kinh doanh tập trung có sử dụng sản phẩm ở các khâu sản xuất nông nghiệp, lâm nghiệp; nuôi trồng, đánh bắt thuỷ, hải sản làm nguyên liệu để tiếp tục sản xuất chế biến ra sản phẩm chịu thuế GTGT (bao gồm sản phẩm nông, lâm, thuỷ sản chưa qua chế biến xuất khẩu hoặc sản phẩm đã qua chế biến thuộc đối tượng chịu thuế GTGT) được kê khai, khấu trừ thuế GTGT đầu vào phục vụ cho sản xuất kinh doanh ở tất cả các khâu đầu tư xây dựng cơ bản, sản xuất, chế biến. Trường hợp cơ sở kinh doanh có dự án đầu tư để tiếp tục sản xuất, chế biến và có văn bản cam kết tiếp tục sản xuất sản phẩm chịu thuế GTGT thì được kê khai, khấu trừ thuế GTGT ngay từ giai đoạn đầu tư xây dựng cơ bản. Đối với thuế GTGT đầu vào phát sinh trong giai đoạn đầu tư XDCB, doanh nghiệp đã kê khai, khấu trừ, hoàn thuế nhưng sau đó xác định không đủ điều kiện, khấu trừ, hoàn thuế thì doanh nghiệp phải kê khai, điều chỉnh nộp lại tiền thuế GTGT đã khấu trừ, hoàn thuế. Trường hợp doanh nghiệp không thực hiện điều chỉnh, qua thanh tra, kiểm tra cơ quan thuế phát hiện ra thì cơ quan thuế sẽ thực hiện truy thu, truy hoàn và xử phạt theo quy định. Doanh nghiệp phải hoàn toàn chịu trách nhiệm trước pháp luật về các nội dung đã báo cáo, cam kết giải trình với cơ quan thuế liên quan đến việc khấu trừ, hoàn thuế.
+
+Trường hợp cơ sở có bán hàng hóa là sản phẩm nông, lâm, thuỷ hải sản chưa qua chế biến hoặc mới qua sơ chế thông thường thuộc đối tượng không chịu thuế GTGT thì số thuế GTGT của hàng hóa, dịch vụ mua vào được tính khấu trừ theo tỷ lệ (%) doanh số hàng hóa, dịch vụ chịu thuế GTGT so với tổng doanh số của hàng hóa, dịch vụ bán ra.
+
+Ví dụ 42 : Doanh nghiệp A có dự án đầu tư vườn cây cao su, có phát sinh số thuế GTGT đầu vào của hàng hoá, dịch vụ ở khâu đầu tư XDCB, doanh nghiệp chưa có sản phẩm làm nguyên liệu để tiếp tục sản xuất chế biến ra sản phẩm chịu thuế GTGT (bao gồm cả sản phẩm chưa qua chế biến xuất khẩu hoặc sản phẩm đã qua chế biến thuộc đối tượng chịu thuế GTGT) nhưng có dự án xây dựng nhà máy chế biến mủ cao su (thuộc đối tượng chịu thuế GTGT) và cam kết sản phẩm trồng trọt tiếp tục chế biến ra sản phẩm chịu thuế GTGT thì Công ty được khấu trừ toàn bộ thuế GTGT đầu vào.
+
+Trường hợp doanh nghiệp bán mủ cao su thuộc đối tượng không chịu thuế GTGT thì doanh nghiệp không được khấu trừ thuế.
+
+Trường hợp doanh nghiệp sử dụng một phần mủ cao su khai thác vào sản xuất sản phẩm chịu thuế GTGT, một phần bán ra thì thực hiện khấu trừ thuế GTGT đầu vào như sau:
+
+- Thuế GTGT đầu vào của TSCĐ (vườn cây cao su, nhà máy chế biến…): doanh nghiệp được khấu trừ toàn bộ (bao gồm cả thuế GTGT phát sinh trong giai đoạn đầu tư XDCB).
+
+- Thuế GTGT đầu vào của hàng hoá, dịch vụ: thực hiện khấu trừ theo tỷ lệ (%) doanh số hàng hoá, dịch vụ chịu thuế GTGT so với tổng doanh số của hàng hoá, dịch vụ bán ra.”
+
+9. Sửa đổi điểm c Khoản 2 Điều 15 Mục I Chương III như sau:
+
+“c) Đối với hàng hoá, dịch vụ mua trả chậm, trả góp có giá trị hàng hoá, dịch vụ mua từ hai mươi triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hoá, dịch vụ bằng văn bản, hoá đơn giá trị gia tăng và chứng từ thanh toán qua ngân hàng của hàng hoá, dịch vụ mua trả chậm, trả góp để kê khai, khấu trừ thuế giá trị gia tăng đầu vào, đồng thời ghi rõ thời hạn thanh toán vào phần ghi chú trên bảng kê hoá đơn, chứng từ hàng hoá, dịch vụ mua vào. Trường hợp chưa có chứng từ thanh toán qua ngân hàng do chưa đến thời điểm thanh toán theo hợp đồng, cơ sở kinh doanh vẫn được kê khai, khấu trừ thuế giá trị gia tăng đầu vào.
+
+Đến thời điểm thanh toán theo hợp đồng nếu không có chứng từ thanh toán qua ngân hàng thì không được khấu trừ thuế GTGT đầu vào, cơ sở kinh doanh phải kê khai, điều chỉnh giảm số thuế giá trị gia tăng đầu vào đã khấu trừ của giá trị hàng hoá không có chứng từ thanh toán qua ngân hàng. Trường hợp khi điều chỉnh giảm số thuế GTGT đầu vào đã khấu trừ tương ứng với giá trị hàng hoá, dịch vụ mua vào không có chứng từ thanh toán qua ngân hàng, cơ sở kinh doanh đồng thời hạch toán tăng chi phí tính thuế thu nhập doanh nghiệp khoản chi phí tương ứng số thuế GTGT đầu vào không được khấu trừ đã điều chỉnh giảm thì sau khi có chứng từ thanh toán qua ngân hàng, cơ sở kinh doanh được khai bổ sung thuế GTGT và thực hiện điều chỉnh giảm chi phí tính thuế TNDN tương ứng. Trường hợp cơ sở kinh doanh không hạch toán tăng chi phí tính thuế TNDN khoản chi phí tương ứng số thuế GTGT đầu vào không được khấu trừ đã điều chỉnh giảm thì không phải điều chỉnh lại chi phí tính thuế TNDN.
+
+Trường hợp đã quá hạn thanh toán chậm trả theo quy định trong hợp đồng, cơ sở kinh doanh không thực hiện điều chỉnh giảm theo quy định nhưng trước khi cơ quan thuế công bố quyết định kiểm tra tại trụ sở, cơ sở kinh doanh có đầy đủ chứng từ chứng minh đã thanh toán qua ngân hàng thì nếu việc không điều chỉnh giảm không dẫn đến thiếu số thuế phải nộp hoặc tăng số thuế được hoàn thì cơ sở kinh doanh bị xử phạt vi phạm về thủ tục thuế, nếu việc không điều chỉnh giảm dẫn đến thiếu số thuế phải nộp hoặc tăng số thuế được hoàn thì cơ sở kinh doanh bị truy thu, truy hoàn và xử phạt theo quy định của Luật Quản lý thuế.
+
+Trường hợp cơ quan thuế công bố quyết định kiểm tra, thanh tra tại trụ sở và có quyết định xử lý không chấp nhận cho khấu trừ thuế đối với các hóa đơn GTGT không có chứng từ thanh toán qua ngân hàng, sau khi có quyết định xử lý của cơ quan thuế cơ sở kinh doanh mới có chứng từ thanh toán qua ngân hàng thì:
+
+- Đối với các hóa đơn GTGT cơ sở kinh doanh đã điều chỉnh giảm trước khi cơ quan thuế đến thanh tra, kiểm tra thì cơ sở kinh doanh được khai bổ sung thuế GTGT.
+
+- Đối với các hóa đơn GTGT cơ sở kinh doanh đã không điều chỉnh giảm trước khi cơ quan thuế đến thanh tra, kiểm tra thì cơ sở kinh doanh được khai bổ sung nếu có chứng từ thanh toán qua ngân hàng trong thời hạn 6 tháng kể từ tháng có Quyết định xử lý của cơ quan thuế.
+
+Ví dụ 49: Tháng 11/2012, cơ quan thuế ban hành Quyết định kiểm tra về thuế GTGT tại Công ty TNHH Z, thời kỳ kiểm tra là năm 2011 và 5 tháng của năm 2012. Tại thời điểm kiểm tra, Công ty TNHH Z không xuất trình được chứng từ thanh toán qua ngân hàng đối với một số hợp đồng thanh toán trả chậm đã đến thời hạn trả trong năm 2011 và trong 5 tháng năm 2012, theo đó cơ quan thuế không chấp thuận Công ty TNHH Z được kê khai khấu trừ thuế GTGT đối với các hóa đơn không có chứng từ thanh toán qua ngân hàng. Tuy nhiên trong tháng 11/2012 và tháng 12/2012 Công ty TNHH Z mới có chứng từ thanh toán qua ngân hàng đối với các hóa đơn đã bị cơ quan thuế kiểm tra không chấp thuận cho khấu trừ thuế thì Công ty TNHH Z vẫn được kê khai bổ sung khấu trừ thuế GTGT của hóa đơn nêu trên có chứng từ thanh toán qua ngân hàng trên Tờ khai thuế GTGT của tháng 11, 12/2012.
+
+Ví dụ 49a:
+
+Tại Công ty TNHH Super có tình hình như sau:
+
+Tháng 2, 3 năm 2012 Công ty TNHH Super có hóa đơn GTGT mua hàng hóa theo hợp đồng thanh toán trả chậm, thời hạn trả là ngày 31/10/2012. Căn cứ hóa đơn GTGT do người bán cung cấp, Công ty TNHH Super đã kê khai khấu trừ thuế GTGT trên Tờ khai thuế GTGT tháng 2, tháng 3 năm 2012. Đến thời hạn trả (ngày 31/10/2012) do có khó khăn về tài chính nên Công ty TNHH Z không có khả năng trả. Công ty TNHH Super đã tự kê khai điều chỉnh giảm trên Tờ khai thuế GTGT tháng 10 năm 2012, đồng thời kế toán đã khai tăng chi phí tính thuế TNDN khoản chi phí tương ứng số thuế GTGT đầu vào không được khấu trừ điều chỉnh giảm.
+
+Tháng 4 năm 2013 cơ quan thuế ban hành Quyết định kiểm tra về thuế GTGT tại Công ty TNHH Super. Đối với hóa đơn GTGT mua hàng trong tháng 2, tháng 3 năm 2012 theo hợp đồng trả chậm với thời hạn thanh toán là ngày 31/10/2012, do Công ty đã tự điều chỉnh giảm số thuế đã kê khai khấu trừ trên Tờ khai thuế GTGT tháng 10 năm 2012 nên Đoàn kiểm tra ghi nhận số liệu đã điều chỉnh giảm.
+
+Tháng 5 năm 2013 cơ quan thuế ban hành Quyết định xử lý về thuế GTGT đối với Công ty TNHH Super (trong Quyết định không có nội dung xử lý về thuế GTGT của các hóa đơn GTGT mua hàng trong tháng 2, tháng 3 năm 2012 theo hợp đồng trả chậm với thời hạn thanh toán là ngày 31/10/2012 do Đoàn kiểm tra đã ghi nhận số liệu kế toán đã điều chỉnh giảm).
+
+Tháng 12 năm 2013 Công ty TNHH Super có chứng từ thanh toán qua ngân hàng đối với hợp đồng thanh toán trả chậm của hóa đơn GTGT mua hàng của tháng 2, 3 năm 2012 (thời hạn thanh toán là ngày 31/10/2012) thì Công ty TNHH Super được khai điều chỉnh bổ sung thuế GTGT. Đồng thời Công ty TNHH Super thực hiện điều chỉnh giảm chi phí tính thuế TNDN tương ứng.
+
+Ví dụ 49b:
+
+Tại Công ty TNHH YKK có tình hình như sau:
+
+- Tháng 3, 4 năm 2012 Công ty TNHH YKK có hóa đơn GTGT mua hàng hóa theo hợp đồng thanh toán trả chậm, thời hạn trả là trong tháng 9 năm 2012. Căn cứ hóa đơn GTGT do người bán cung cấp, kế toán Công ty TNHH Z đã kê khai khấu trừ thuế GTGT trên Tờ khai thuế tháng 3, tháng 4 năm 2012. Đến thời hạn trả trong tháng 9 năm 2012 Công ty TNHH YKK không có khả năng thanh toán, tuy nhiên Công ty đã không kê khai điều chỉnh giảm.
+
+Tháng 4 năm 2013, cơ quan thuế ban hành Quyết định kiểm tra về thuế GTGT tại Công ty TNHH YKK, thời kỳ kiểm tra là năm 2012. Tại thời điểm kiểm tra, Công ty TNHH YKK không xuất trình được chứng từ thanh toán qua ngân hàng đối với hóa đơn GTGT mua hàng hóa theo hợp đồng thanh toán trả chậm, thời hạn trả là trong tháng 9 năm 2012. Đoàn kiểm tra xử lý không chấp thuận cho Công ty TNHH YKK được kê khai khấu trừ thuế GTGT đối với các hóa đơn không có chứng từ thanh toán qua ngân hàng.
+
+Tháng 5 năm 2013 cơ quan thuế đã ban hành Quyết định xử lý truy thu thuế GTGT tại Công ty TNHH YKK.
+
+Trong tháng 10 năm 2013 Công ty TNHH YKK có chứng từ thanh toán qua ngân hàng đối với hợp đồng thanh toán trả chậm của hóa đơn GTGT mua hàng của tháng 3 năm 2012 (thời hạn trả là trong tháng 9 năm 2012) thì Công ty TNHH YKK được khai điều chỉnh bổ sung thuế GTGT do thời điểm có chứng từ thanh toán qua ngân hàng trong thời hạn 6 tháng kể từ khi cơ quan thuế ban hành Quyết định xử lý truy thu thuế.
+
+Tháng 12 năm 2013 Công ty TNHH YKK có chứng từ thanh toán qua ngân hàng đối với hợp đồng thanh toán trả chậm của hóa đơn GTGT mua hàng của tháng 4 năm 2012 (thời hạn thanh toán trong tháng 9 năm 2012) thì Công ty TNHH YKK không được khai điều chỉnh bổ sung thuế GTGT do thời điểm có chứng từ thanh toán qua ngân hàng đã quá thời hạn 6 tháng kể từ khi cơ quan thuế ban hành Quyết định xử lý truy thu thuế.
+
+Ví dụ 49c:
+
+Tháng 9 năm 2012 Cục thuế tỉnh B ban hành Quyết định xử lý về thuế, xử phạt vi phạm hành chính đối với Công ty cổ phần PNG qua kiểm tra việc chấp hành pháp luật thuế, tại Quyết định xử lý có nội dung thu hồi tiền hoàn thuế GTGT là 460.000.000 đồng là khoản tiền thuế GTGT khấu trừ mua hàng trên 20 triệu đồng đến thời điểm kiểm tra chưa có chứng từ thanh toán qua ngân hàng, quá hạn theo hợp đồng của bộ hồ sơ đã được hoàn thuế của kỳ hoàn từ tháng 01/2012 đến tháng 03/2012. Công ty cổ phần PNG đã chấp hành nộp đầy đủ vào NSNN số tiền thuế truy thu.
+
+Trong tháng 10 năm 2012 Công ty cổ phần PNG có chứng từ thanh toán qua ngân hàng đối với hóa đơn mua hàng hóa theo hợp đồng quá hạn tương ứng số thuế GTGT 460.000.000 đồng đã bị cơ quan thuế thu hồi thì Công ty cổ phần PNG được kê khai bổ sung vào Tờ khai thuế GTGT của tháng 10 năm 2012”.
+
+10. Sửa đổi Khoản 3, Khoản 4 Điều 18 Mục 2 Chương III như sau:
+
+“3. Cơ sở kinh doanh đang hoạt động thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ có dự án đầu tư mới cùng tỉnh, thành phố, đang trong giai đoạn đầu tư thì cơ sở kinh doanh phải kê khai bù trừ số thuế GTGT của hàng hóa, dịch vụ mua vào sử dụng cho dự án đầu tư mới cùng với việc kê khai thuế GTGT của hoạt động sản xuất kinh doanh đang thực hiện.
+
+Sau khi bù trừ nếu có số thuế GTGT của hàng hoá, dịch vụ mua vào sử dụng cho đầu tư mà chưa được khấu trừ hết từ 200 triệu đồng trở lên thì được hoàn thuế GTGT cho dự án đầu tư. Trường hợp số thuế GTGT đầu vào của hoạt động sản xuất kinh doanh và dự án đầu tư dưới 200 triệu đồng và 3 tháng chưa được khấu trừ hết thì cơ sở kinh doanh được hoàn thuế theo hướng dẫn tại khoản 1 Điều này.
+
+Trường hợp cơ sở kinh doanh đang hoạt động thuộc đối tượng nộp thuế GTGT theo phương pháp khấu trừ có dự án đầu tư mới tại địa bàn tỉnh, thành phố trực thuộc Trung ương khác với tỉnh, thành phố nơi đóng trụ sở chính, đang trong giai đoạn đầu tư chưa đi vào hoạt động, chưa đăng ký kinh doanh, chưa đăng ký thuế, nếu có số thuế GTGT của hàng hoá, dịch vụ mua vào sử dụng cho đầu tư từ 200 triệu đồng trở lên thì được hoàn thuế GTGT cho dự án đầu tư. Cơ sở kinh doanh phải kê khai, lập hồ sơ hoàn thuế riêng đối với trường hợp này. Trường hợp có ban quản lý dự án thì ban quản lý dự án thực hiện đăng ký, kê khai lập hồ sơ hoàn thuế riêng với cơ quan thuế địa phương nơi đăng ký thuế (trừ ban quản lý dự án cùng địa bàn tỉnh, thành phố nơi đóng trụ sở chính do doanh nghiệp trụ sở chính lập hồ sơ hoàn thuế GTGT). Khi dự án đầu tư thành lập doanh nghiệp mới đã hoàn thành và hoàn tất các thủ tục về đăng ký kinh doanh, đăng ký nộp thuế, cơ sở kinh doanh là chủ dự án đầu tư phải tổng hợp số thuế GTGT phát sinh, số thuế GTGT đã hoàn, số thuế GTGT chưa được hoàn của dự án để bàn giao cho doanh nghiệp mới thành lập để doanh nghiệp mới thực hiện kê khai, nộp thuế và đề nghị hoàn thuế GTGT theo quy định với cơ quan thuế quản lý trực tiếp.
+
+4. Cơ sở kinh doanh trong tháng vừa có hàng hoá, dịch vụ xuất khẩu, vừa có hàng hoá, dịch vụ bán trong nước, nếu có số thuế GTGT đầu vào phát sinh trong tháng chưa được khấu trừ từ 200 triệu đồng trở lên (thuế GTGT đầu vào phát sinh trong tháng bao gồm: thuế GTGT đầu vào phục vụ hoạt động xuất khẩu, phục vụ hoạt động kinh doanh trong nước chịu thuế và thuế GTGT chưa khấu trừ hết từ tháng trước chuyển sang), nhưng sau khi bù trừ với số thuế GTGT đầu ra của hàng hoá, dịch vụ bán trong nước và phân bổ theo tỷ lệ (%) giữa doanh thu hàng hoá, dịch vụ xuất khẩu trong kỳ với tổng doanh thu hàng hóa, dịch vụ chịu thuế của cơ sở kinh doanh trong kỳ, nếu số thuế GTGT đầu vào của hàng hóa dịch vụ xuất khẩu đã tính phân bổ như trên chưa được khấu trừ nhỏ hơn 200 triệu đồng thì cơ sở kinh doanh không được xét hoàn thuế theo tháng, nếu số thuế GTGT đầu vào chưa được khấu trừ từ 200 triệu đồng trở lên thì cơ sở kinh doanh được hoàn thuế GTGT theo tháng đối với hàng hóa, dịch vụ xuất khẩu.
+
+Cụ thể:
+
+
+
+
+
+Số thuế GTGT chưa khấu trừ hết của tháng
+
+
+
+
+=
+
+
+
+
+Thuế GTGT đầu ra của hàng hóa, dịch vụ bán trong nước
+
+
+
+
+-
+
+
+
+
+Tổng số thuế GTGT đầu vào được khấu trừ phát sinh trong tháng (bao gồm: thuế GTGT đầu vào phục vụ hoạt động xuất khẩu, phục vụ hoạt động kinh doanh trong nước chịu thuế và thuế GTGT chưa khấu trừ hết từ tháng trước chuyển sang)
+
+
+
+
+
+
+
+
+
+
+
+Số thuế GTGT đầu vào của hàng xuất khẩu
+
+
+
+
+=
+
+
+
+
+Số thuế GTGT chưa khấu trừ hết của tháng
+
+
+
+
+x
+
+
+
+
+Tỷ lệ % doanh thu xuất khẩu / Tổng doanh thu hàng hóa, dịch vụ chịu thuế
+
+
+
+
+
+Ví dụ:
+
+Tháng 3/2012 Tờ khai thuế GTGT của doanh nghiệp X có số liệu:
+
+- Thuế GTGT kỳ trước chuyển sang: 0,15 tỷ đồng.
+
+- Thuế GTGT đầu vào phục vụ hoạt động xuất khẩu, phục vụ hoạt động kinh doanh trong nước chịu thuế phát sinh trong tháng: 4,8 tỷ đồng.
+
+- Tổng doanh thu (TDT) là 21,6 tỷ, trong đó: doanh thu xuất khẩu (DTXK) là 13,2 tỷ đồng, doanh thu bán trong nước chịu thuế GTGT là 8,4 tỷ đồng.
+
+Tỷ lệ % DTXK/TDT = 13,2/21,6 x 100% = 61%.
+
+- Thuế GTGT đầu ra của hàng hoá, dịch vụ bán trong nước là 0,84 tỷ đồng.
+
+Số thuế GTGT được hoàn theo tháng của hàng xuất khẩu được xác định như sau:
+
+
+
+
+
+Số thuế GTGT chưa khấu trừ hết của tháng
+
+
+
+
+=
+
+
+
+
+0,84 tỷ đồng
+
+
+
+
+-
+
+
+
+
+(0,15 + 4,8 ) tỷ đồng
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+- 4,11 tỷ đồng.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Như vậy số thuế GTGT chưa khấu trừ hết của tháng là 4,11 tỷ đồng.
+
+- Xác định số thuế GTGT đầu vào của hàng xuất khẩu
+
+
+
+
+
+Số thuế GTGT đầu vào của hàng xuất khẩu
+
+
+
+
+=
+
+
+
+
+4,11 tỷ đồng
+
+
+
+
+x
+
+
+
+
+61%
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+2,507 tỷ đồng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Số thuế GTGT đầu vào của hàng xuất khẩu (sau khi bù trừ và sau khi phân bổ) chưa khấu trừ hết là 2,507 tỷ đồng lớn hơn (>) 200 triệu, theo đó doanh nghiệp được hoàn 2,507 tỷ đồng tiền thuế GTGT theo tháng. Số thuế GTGT đầu vào của hàng hóa, dịch vụ bán trong nước không được hoàn theo tháng là 1,603 tỷ đồng (1,603 tỷ = 4,11 tỷ - 2,507 tỷ) được chuyển kỳ sau khấu trừ tiếp.”
+
+Điều 2. Tổ chức thực hiện.
+
+1. Thông tư này có hiệu lực từ ngày 01 tháng 7 năm 2013.
+
+2. Trường hợp từ ngày 01/3/2012 bên cho thuê xưởng đã lập hóa đơn, tính thuế GTGT khi cho doanh nghiệp chế xuất thuê xưởng thì các bên lập hóa đơn GTGT điều chỉnh lại hóa đơn đã lập với mức thuế suất thuế GTGT là 0%.
+
+3. Trường hợp từ ngày 01/3/2012 cơ sở kinh doanh không phải là tổ chức tín dụng đã lập hóa đơn, tính thuế GTGT đối với khoản lãi cho tổ chức, cá nhân khác vay vốn thì các bên lập hóa đơn điều chỉnh và thực hiện điều chỉnh lại khoản lãi tiền vay về đối tượng không chịu thuế GTGT. Trường hợp các bên không thực hiện điều chỉnh hóa đơn đã lập, nếu tổ chức vay vốn sử dụng vốn vay phục vụ hoạt động kinh doanh chịu thuế GTGT thì được khấu trừ thuế GTGT đầu vào theo quy định căn cứ hóa đơn GTGT của bên cho vay.
+
+4. Trường hợp hợp đồng cung cấp dịch vụ số hóa cho phía nước ngoài được ký kết trước ngày Thông tư này có hiệu lực thi hành thì thuế GTGT tiếp tục thực hiện như hướng dẫn tại văn bản quy phạm pháp luật tương ứng tại thời điểm ký kết hợp đồng. Trường hợp hợp đồng cung cấp dịch vụ số hóa cho phía nước ngoài được ký kết từ ngày 01/3/2012 thuộc đối tượng chịu thuế GTGT nay thuộc đối tượng áp dụng thuế suất 0% theo quy định tại Thông tư này thì áp dụng theo quy định tại Thông tư này kể từ ngày 01/3/2012.
+
+5. Các nội dung không hướng dẫn tại Thông tư này và các nội dung không trái với nội dung hướng dẫn tại Thông tư này được thực hiện theo quy định tại Thông tư số 06/2012/TT-BTC ngày 11/01/2012 của Bộ Tài chính về thuế giá trị gia tăng.
+
+Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các đơn vị phản ánh về Bộ Tài chính để được hướng dẫn giải quyết kịp thời./.
+
+
+
+
+
+
+

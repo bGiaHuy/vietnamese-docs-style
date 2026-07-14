@@ -1,0 +1,114 @@
+# Ban hành "Quy định vận tải khách bằng ôtô theo tuyến cố định, hợp đồng và vận tải khách du lịch bằng ôtô"
+# Loại: Quyết định
+# Số hiệu: 16/2007/QĐ-BGTVT
+# Ngày ban hành: 26/03/2007
+# Cơ quan: Bộ Giao thông vận tải
+# Người ký: Hồ Nghĩa Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ CÔNG NGHIỆP
+
+Về việc quy định tiêu chuẩn kỹ thuật và điều kiện
+
+sử dụng điện làm phương tiện bảo vệ trực tiếp
+
+BỘ TRƯỞNG BỘ CÔNG NGHIỆP
+
+Căn cứ Nghị định số 55/2003/NĐ-CP ngày 28 tháng 5 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công nghiệp;
+
+Căn cứ Luật Điện lực ngày 03 tháng 12 năm 2004;
+
+Theo đề nghị của Cục trưởng Cục Kỹ thuật an toàn công nghiệp,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Sử dụng điện làm phương tiện bảo vệ trực tiếp là dùng nguồn điện có điện áp thích hợp đấu nối trực tiếp vào kết cấu kim loại của hàng rào, vật cản, vật che chắn (sau đây gọi chung là hàng rào điện) để ngăn cản việc xâm phạm khu vực được bảo vệ. Khi đối tượng cố ý xâm phạm vào khu vực được bảo vệ và tiếp xúc trực tiếp với hàng rào điện sẽ bị điện giật, đồng thời hệ thống bảo vệ phát tín hiệu báo động cho người bảo vệ khu vực đó biết.
+
+Điều 2. Nghiêm cấm tổ chức, cá nhân tự ý sử dụng điện làm phương tiện bảo vệ trực tiếp để bảo vệ tài sản của mình, bẫy chim, bẫy chuột, bảo vệ hoa màu hoặc phục vụ các mục đích khác gây nguy hiểm cho người, động vật, môi trường sống.
+
+Điều 3. Tiêu chuẩn kỹ thuật của hệ thống hàng rào điện.
+
+1. Hàng rào điện phải được thiết kế, lắp đặt an toàn, tránh được mọi tiếp xúc ngẫu nhiên đối với người và gia súc, không gây ảnh hưởng tới hoạt động bình thường của hệ thống điện, không gây nguy hiểm cho khu vực lân cận và môi trường sống, đảm bảo vững chắc trong điều kiện mưa bão và đảm bảo mỹ quan.
+
+2. Hàng rào điện có thể được bố trí kết hợp với hàng rào bảo vệ khác hoặc được bố trí độc lập nhưng phải đáp ứng các điều kiện sau:
+
+a) Nếu hàng rào điện được bố trí kết hợp với hàng rào bảo vệ khác thì hàng rào điện phải được bố trí phía trên, độ cao treo vật dẫn điện không nhỏ hơn 2,5 mét so với mặt đất;
+
+b) Nếu hàng rào điện được bố trí độc lập thì phía ngoài và phía trong của hàng rào điện phải có hàng rào bảo vệ để đề phòng người, động vật có thể va chạm ngẫu nhiên với hàng rào điện. Khoảng cách giữa hàng rào điện với hàng rào bảo vệ không nhỏ hơn 2 mét.
+
+3. Dọc theo suốt hàng rào điện về cả 2 phía phải có các biển báo "Dừng lại! có điện, nguy hiểm chết người" đặt ở nơi dễ thấy. Khoảng cách giữa 2 biển báo không quá 20m. Biển báo được gắn cố định ở độ cao 1,7-2,0 mét so với mặt đất. Mẫu biển báo theo TCVN 2572 - 78.
+
+
+
+4. Điện áp sử dụng cho hàng rào điện được quy định như sau:
+
+a) Dưới 1000 V khi dùng nguồn điện xoay chiều;
+
+b) Không quy định đối với điện áp xung khi dùng nguồn điện một chiều.
+
+5. Tại khu vực làm việc của người trực phải có hệ thống báo động bằng tín hiệu âm thanh và ánh sáng. Hệ thống báo động phải làm việc khi xảy ra mất điện trên hàng rào điện hoặc xuất hiện dòng điện chạm đất, dòng điện ngắn mạch. Tín hiệu báo động chỉ được giải trừ khi có thao tác của người trực. Việc kiểm tra sự hoạt động bình thường của hệ thống báo động được thực hiện mỗi khi giao ca bằng các nút thử.
+
+6. Vật dẫn điện phải bảo đảm các tiêu chuẩn sau:
+
+a) Vật liệu làm vật dẫn cho hàng rào điện có thể là tấm, lưới hoặc dây, thanh kim loại. Nếu sử dụng dây thép mạ hoặc lưới thép, tiết diện dây không nhỏ hơn 6 mm2. Trường hợp sử dụng dây đồng hoặc dây nhôm phải có tiết diện không nhỏ hơn 10 mm2. Dây dẫn đơn không được có mối nối ở giữa khoảng trụ để đảm bảo độ bền cơ học. Trường hợp cần nối thì 2 đầu dây phải quấn cố định quanh cổ sứ cách điện, sau đó mới nối 2 đầu dây bằng kẹp nối, tết xoắn hoặc bằng phương pháp hàn.
+
+b) Vật dẫn điện phải được gắn cố định, chắc chắn trên sứ cách điện. Khoảng cách giữa hai sứ đỡ một vật dẫn theo chiều dài không được quá 5 mét. Khoảng cách giữa hai vật dẫn của hai pha liền kề hoặc giữa pha với đất không quá 0,20 mét.
+
+c) Sứ cách điện thông thường không được đặt nghiêng quá 45 độ so với phương thẳng đứng để tránh nước mưa có thể gây chạm chập hoặc rò điện ra xung quanh. Trường hợp cần đặt sứ nghiêng quá 45 độ phải sử dụng loại sứ có cách điện tăng cường.
+
+Điều 4. Điều kiện sử dụng điện làm phương tiện bảo vệ trực tiếp
+
+Cơ quan, tổ chức, đơn vị chỉ được sử dụng điện làm phương tiện bảo vệ trực tiếp khi sử dụng các biện pháp bảo vệ khác không hiệu quả và phải có đủ các điều kiện sau đây:
+
+1. Được Bộ Công an hoặc Bộ Quốc phòng (đối với các đơn vị quân đội) cho phép bằng văn bản theo quy định tại khoản 4 Điều 59 Luật Điện lực.
+
+2. Hàng rào điện phải được cơ quan có chuyên môn về điện và có tư cách pháp nhân thiết kế, được cơ quan cho phép sử dụng điện làm phương tiện bảo vệ trực tiếp phê duyệt và nghiệm thu.
+
+3. Người vận hành hệ thống hàng rào điện phải có đủ tiêu chuẩn sau:
+
+a) Được đào tạo chuyên môn về kỹ thuật điện, có chứng chỉ hoặc bằng tốt nghiệp do cơ sở có chức năng đào tạo chuyên môn về kỹ thuật điện cấp.
+
+b) Được huấn luyện, sát hạch đạt yêu cầu về quy trình vận hành, kiểm tra, bảo dưỡng hệ thống hàng rào điện và các quy định an toàn điện, được cấp chứng chỉ sau khi sát hạch đạt yêu cầu.
+
+c) Được đào tạo nghiệp vụ bảo vệ tại cơ sở có tư cách pháp nhân và có chức năng đào tạo nghiệp vụ bảo vệ.
+
+4. Có quy trình, biểu mẫu phục vụ công tác quản lý vận hành, kiểm tra, bảo dưỡng hệ thống hàng rào điện và quy trình an toàn điện.
+
+5. Chỉ được phép đưa hàng rào điện vào sử dụng khi chủ đầu tư đã hoàn thành công tác nghiệm thu theo quy định, đã bàn giao đầy đủ các sơ đồ, tài liệu có liên quan đến xây dựng hệ thống hàng rào điện cho đơn vị quản lý vận hành và đơn vị quản lý vận hành đã bố trí đủ nhân sự theo quy định.
+
+Điều 5. Thủ tục xin phép sử dụng điện làm phương tiện bảo vệ trực tiếp
+
+1. Cơ quan, đơn vị có nhu cầu sử dụng điện làm phương tiện bảo vệ trực tiếp phải xây dựng đề án và có văn bản trình Bộ Công an hoặc Bộ Quốc phòng (đối với các đơn vị quân đội) để xem xét, quyết định.
+
+2. Cơ quan cho phép sử dụng điện làm phương tiện bảo vệ trực tiếp trong phạm vi quản lý của mình có trách nhiệm tiến hành kiểm tra nghiệm thu, kiểm tra định kỳ và chấn chỉnh thực hiện các biện pháp an toàn tại các cơ quan, đơn vị được phép sử dụng điện làm phương tiện bảo vệ trực tiếp.
+
+Điều 6. Tổ chức thực hiện
+
+1. Cục Kỹ thuật an toàn công nghiệp Bộ Công nghiệp có trách nhiệm phối hợp với các cơ quan chức năng của Bộ Công an, Bộ Quốc phòng, Uỷ ban nhân dân cấp tỉnh và các Sở Công nghiệp để phổ biến, hướng dẫn, theo dõi và kiểm tra việc thực hiện Quyết định này.
+
+2. Cơ quan, đơn vị xảy ra tai nạn chết người có liên quan đến hệ thống hàng rào điện của mình phải khai báo ngay với cơ quan quản lý cấp trên theo ngành dọc, cơ quan công an, quân sự (đối với các đơn vị quân đội) và Sở Công nghiệp địa phương để phối hợp điều tra, xác định nguyên nhân, trách nhiệm.
+
+3. Cơ quan công an, quân sự và Sở Công nghiệp địa phương có trách nhiệm thống kê, phân tích, báo cáo Bộ quản lý ngành và Uỷ ban nhân dân cấp tỉnh các vụ tai nạn chết người liên quan đến hàng rào điện.
+
+Điều 7.
+
+1. Quyết định này có hiệu lực sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định số 54/2001/QĐ-BCN ngày 14 tháng 11 năm 2001 của Bộ trưởng Bộ Công nghiệp về việc ban hành Quy định sử dụng điện làm phương tiện bảo vệ trực tiếp.
+
+2. Các cơ quan, tổ chức, đơn vị đã được Bộ Quốc phòng và Bộ Công an cho phép sử dụng điện làm phương tiện bảo vệ trực tiếp theo quy định tại Quyết định số 54/2001/QĐ-BCN không phải làm thủ tục để xin phép lại nhưng phải đáp ứng các tiêu chuẩn và điều kiện quy định tại Quyết định này.
+
+3. Các cơ quan, tổ chức đã được các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ và Uỷ ban nhân dân các tỉnh, thành phố trực thuộc Trung ương cho phép sử dụng điện làm phương tiện bảo vệ trực tiếp theo quy định tại Quyết định số 54/2001/QĐ-BCN phải làm thủ tục xin phép Bộ Công an theo quy định tại khoản 4 Điều 59 Luật Điện lực.
+
+Điều 8. Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Hội đồng quản trị, Tổng giám đốc Tổng công ty Điện lực Việt Nam và Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+

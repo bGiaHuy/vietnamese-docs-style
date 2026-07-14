@@ -1,0 +1,2268 @@
+# Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về hợp đồng lao động
+# Loại: Nghị định
+# Số hiệu: 198-CP
+# Ngày ban hành: 31/12/1994
+# Cơ quan: Chính phủ
+# Người ký: Võ Văn Kiệt
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+
+
+Hướng dẫn thi hành một số điều của Luật Quản lý thuế và hướng dẫn thi hành Nghị định số 85/2007/NĐ-CP
+
+ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế
+
+__________________________
+
+Căn cứ Luật Quản lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006;
+
+Căn cứ các Luật, Pháp lệnh, Nghị định về thuế, phí, lệ phí và các khoản thu khác thuộc Ngân sách Nhà nước;
+
+Căn cứ Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế;
+
+Căn cứ Nghị định số 77/2003/NĐ-CP ngày 1/7/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính,
+
+Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế và hướng dẫn Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế như sau:
+
+Phần A
+
+QUY ĐỊNH CHUNG
+
+Thông tư này hướng dẫn thi hành các thủ tục hành chính thuế quy định tại Luật Quản lý thuế số 78/2006/QH11 năm 2006 và Nghị định số 85/2007/NĐ-CP ngày 25/5/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế.
+
+I. PHẠM VI ĐIỀU CHỈNH
+
+Thông tư này áp dụng đối với việc quản lý các loại thuế theo quy định của pháp luật về thuế; các khoản phí, lệ phí thuộc Ngân sách Nhà nước theo quy định của pháp luật về phí và lệ phí; các khoản thu khác thuộc Ngân sách Nhà nước do cơ quan thuế quản lý thu (sau đây gọi chung là thuế).
+
+II. ĐỐI TƯỢNG ÁP DỤNG
+
+1. Người nộp thuế theo quy định tại Điều 2 Nghị định số 85/2007/NĐ-CP của Chính phủ, bao gồm:
+
+1.1. Tổ chức, hộ gia đình, cá nhân nộp thuế, phí, lệ phí hoặc các khoản thu khác thuộc Ngân sách Nhà nước theo quy định của pháp luật.
+
+1.2. Tổ chức được giao nhiệm vụ thu phí, lệ phí thuộc Ngân sách nhà nước.
+
+1.3. Tổ chức, cá nhân khấu trừ thuế, bao gồm:
+
+1.3.1. Tổ chức, cá nhân là bên Việt Nam ký hợp đồng với tổ chức, cá nhân nước ngoài kinh doanh tại Việt Nam không theo quy định của pháp luật về đầu tư và không thực hiện chế độ kế toán Việt Nam;
+
+1.3.2. Tổ chức, cá nhân khấu trừ thuế khi chi trả thu nhập cho người có thu nhập thuộc diện nộp thuế thu nhập đối với người có thu nhập cao;
+
+1.3.3. Tổ chức làm đại lý tàu biển, đại lý cho các hãng vận tải nước ngoài có trách nhiệm khấu trừ thuế thu nhập doanh nghiệp đối với hoạt động kinh doanh vận chuyển hàng hóa bằng tàu biển từ các cảng biển Việt Nam ra nước ngoài hoặc giữa các cảng biển Việt Nam;
+
+1.3.4. Tổ chức kinh doanh dịch vụ làm thủ tục về thuế;
+
+2. Cơ quan thuế gồm: Tổng cục Thuế, Cục Thuế và Chi cục Thuế;
+
+3. Công chức thuế;
+
+4. Cơ quan nhà nước, tổ chức, cá nhân khác có liên quan đến việc thực hiện pháp luật về thuế.
+
+III. NỘI DUNG QUẢN LÝ THUẾ
+
+HƯỚNG DẪN TẠI THÔNG TƯ NÀY BAO GỒM
+
+1. Khai thuế, tính thuế;
+
+2. Ấn định thuế;
+
+3. Nộp thuế;
+
+4. Uỷ nhiệm thu thuế;
+
+5. Trách nhiệm hoàn thành nghĩa vụ nộp thuế;
+
+6. Thủ tục miễn thuế, giảm thuế; xoá nợ tiền thuế, tiền phạt;
+
+7. Thủ tục hoàn thuế, bù trừ thuế;
+
+8. Kiểm tra thuế, thanh tra thuế;
+
+9. Giải quyết khiếu nại, tố cáo, khởi kiện liên quan đến thực hiện pháp luật thuế.
+
+IV. PHẠM VI VÀ NỘI DUNG QUẢN LÝ THUẾ
+
+KHÔNG BAO GỒM TRONG THÔNG TƯ NÀY
+
+1. Các quy định về quản lý thuế đối với hàng hoá xuất khẩu, nhập khẩu; quản lý thuế đối với hoạt động khai thác, xuất khẩu dầu thô.
+
+2. Nội dung quản lý thuế về đăng ký thuế, cưỡng chế thi hành quyết định hành chính thuế, xử lý vi phạm pháp luật về thuế.
+
+V. VĂN BẢN GIAO DỊCH VỚI CƠ QUAN THUẾ
+
+1. Văn bản giao dịch với cơ quan thuế bao gồm tài liệu kèm theo hồ sơ thuế, công văn, đơn từ và các tài liệu khác do người nộp thuế, tổ chức được uỷ nhiệm thu thuế và các tổ chức, cá nhân khác gửi đến cơ quan thuế.
+
+2. Văn bản giao dịch với cơ quan thuế phải được soạn thảo, ký, ban hành đúng thẩm quyền; thể thức văn bản, chữ ký, con dấu trên văn bản phải thực hiện theo quy định của pháp luật về công tác văn thư.
+
+3. Văn bản giao dịch với cơ quan thuế được thực hiện thông qua giao dịch điện tử thì phải tuân thủ đúng các quy định của pháp luật về giao dịch điện tử.
+
+4. Trường hợp phát hiện văn bản giao dịch với cơ quan thuế không đáp ứng được các yêu cầu nêu trên thì cơ quan thuế yêu cầu người có văn bản giao dịch khắc phục sai sót và nộp bản thay thế. Thời điểm cơ quan thuế nhận được bản thay thế được coi là thời điểm nộp văn bản giao dịch.
+
+5. Ngôn ngữ được sử dụng trong các tài liệu trong hồ sơ thuế là tiếng Việt. Trường hợp tài liệu bằng tiếng nước ngoài thì phải được dịch ra tiếng Việt và được Uỷ ban nhân dân cấp huyện hoặc cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài chứng thực theo thẩm quyền.
+
+Việc hợp pháp hoá lãnh sự đối với các giấy tờ, tài liệu do cơ quan có thẩm quyền nước ngoài cấp chỉ bắt buộc trong trường hợp cụ thể hướng dẫn tại Thông tư này.
+
+VI. VIỆC TIẾP NHẬN HỒ SƠ THUẾ GỬI ĐẾN CƠ QUAN THUẾ
+
+1. Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế, công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận số lượng tài liệu trong hồ sơ.
+
+2. Trường hợp hồ sơ được gửi qua đường bưu chính, công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+
+3. Trường hợp hồ sơ được nộp thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận hồ sơ khai thuế do cơ quan thuế thực hiện thông qua hệ thống xử lý dữ liệu điện tử.
+
+4. Trường hợp cần bổ sung hồ sơ, cơ quan thuế phải thông báo cho người nộp thuế trong ngày nhận hồ sơ đối với trường hợp trực tiếp nhận hồ sơ, trong thời hạn ba ngày làm việc, kể từ ngày tiếp nhận hồ sơ qua đường bưu chính hoặc thông qua giao dịch điện tử.
+
+VII. CÁCH TÍNH THỜI HẠN ĐỂ THỰC HIỆN
+
+CÁC THỦ TỤC HÀNH CHÍNH THUẾ
+
+1. Trường hợp thời hạn được tính bằng "ngày" thì tính liên tục theo dương lịch, kể cả ngày nghỉ.
+
+2. Trường hợp thời hạn được tính bằng "ngày làm việc" thì tính theo ngày làm việc của cơ quan hành chính nhà nước theo quy định của pháp luật: là các ngày theo dương lịch trừ ngày thứ bảy, chủ nhật, ngày lễ, ngày tết (gọi chung là ngày nghỉ).
+
+3. Trường hợp thời hạn được tính từ một ngày cụ thể thì ngày bắt đầu tính thời hạn là ngày tiếp theo của ngày cụ thể đó.
+
+4. Trường hợp ngày cuối cùng của thời hạn giải quyết thủ tục hành chính trùng với ngày nghỉ theo quy định của pháp luật thì ngày cuối cùng của thời hạn được tính là ngày tiếp theo của ngày nghỉ đó.
+
+5. Ngày đã nộp hồ sơ thuế để tính thời hạn giải quyết công việc hành chính thuế là ngày cơ quan thuế nhận được hồ sơ hợp lệ, đầy đủ giấy tờ, văn bản đúng theo quy định.
+
+Phần B - KHAI THUẾ, TÍNH THUẾ
+
+I. QUY ĐỊNH CHUNG VỀ KHAI THUẾ, TÍNH THUẾ
+
+1. Nguyên tắc tính thuế, khai thuế:
+
+1.1. Người nộp thuế phải tính số tiền thuế phải nộp Ngân sách Nhà nước, trừ trường hợp cơ quan thuế ấn định thuế hoặc tính thuế theo quy định tại Điều 37 và Điều 38 của Luật Quản lý thuế.
+
+1.2. Người nộp thuế phải khai chính xác, trung thực, đầy đủ các nội dung trong tờ khai thuế với cơ quan thuế theo mẫu do Bộ Tài chính quy định và nộp đủ các chứng từ, tài liệu quy định trong hồ sơ khai thuế.
+
+1.3. Đối với loại thuế khai theo tháng, quý hoặc năm, nếu trong kỳ tính thuế không phát sinh nghĩa vụ thuế hoặc người nộp thuế đang thuộc diện được hưởng ưu đãi, miễn giảm thuế thì người nộp thuế vẫn phải nộp hồ sơ khai thuế cho cơ quan thuế theo đúng thời hạn quy định, trừ trường hợp đã chấm dứt hoạt động phát sinh nghĩa vụ thuế.
+
+1.4. Đối với loại thuế khai theo tháng hoặc khai theo quý, kỳ tính thuế đầu tiên được tính từ ngày bắt đầu hoạt động phát sinh nghĩa vụ thuế đến ngày cuối cùng của tháng hoặc quý, kỳ tính thuế cuối cùng được tính từ ngày đầu tiên của tháng hoặc quý đến ngày kết thúc hoạt động phát sinh nghĩa vụ thuế. Kỳ tính thuế năm của thuế thu nhập doanh nghiệp hoặc thuế tài nguyên được tính theo năm tài chính của người nộp thuế. Kỳ tính thuế năm của các loại thuế khác là năm dương lịch.
+
+2. Hồ sơ khai thuế:
+
+Hồ sơ khai thuế bao gồm tờ khai thuế và các tài liệu liên quan làm căn cứ để người nộp thuế khai thuế, tính thuế với cơ quan thuế.
+
+Người nộp thuế phải sử dụng đúng mẫu tờ khai thuế và các mẫu phụ lục kèm theo tờ khai thuế do Bộ Tài chính quy định, không được thay đổi khuôn dạng, thêm, bớt hoặc thay đổi vị trí của bất kỳ chỉ tiêu nào trong tờ khai thuế. Đối với một số loại giấy tờ trong hồ sơ thuế mà Bộ Tài chính không ban hành mẫu thì thực hiện theo quy định của pháp luật có liên quan.
+
+3. Thời hạn nộp hồ sơ khai thuế:
+
+3.1. Thời hạn nộp hồ sơ khai thuế tháng chậm nhất là ngày thứ hai mươi của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.
+
+3.2. Thời hạn nộp hồ sơ khai thuế quý chậm nhất là ngày thứ ba mươi của quý tiếp theo quý phát sinh nghĩa vụ thuế.
+
+3.3. Thời hạn nộp hồ sơ khai thuế cả năm chậm nhất là ngày thứ ba mươi của tháng đầu tiên của năm dương lịch hoặc năm tài chính.
+
+3.4. Thời hạn nộp hồ sơ khai thuế theo từng lần phát sinh nghĩa vụ thuế chậm nhất là ngày thứ mười, kể từ ngày phát sinh nghĩa vụ thuế.
+
+3.5. Thời hạn nộp hồ sơ quyết toán thuế năm chậm nhất là ngày thứ chín mươi, kể từ ngày kết thúc năm dương lịch hoặc năm tài chính.
+
+3.6. Thời hạn nộp hồ sơ quyết toán thuế đối với trường hợp chấm dứt hoạt động, chấm dứt hợp đồng, chuyển đổi hình thức sở hữu doanh nghiệp hoặc tổ chức lại doanh nghiệp chậm nhất là ngày thứ bốn mươi lăm, kể từ ngày phát sinh các trường hợp đó.
+
+3.7. Thời hạn nộp hồ sơ khai thuế, thu khác liên quan đến sử dụng đất theo cơ chế một cửa liên thông thì thực hiện theo thời hạn quy định tại văn bản hướng dẫn liên ngành về cơ chế một cửa liên thông đó.
+
+4. Gia hạn nộp hồ sơ khai thuế:
+
+4.1. Người nộp thuế không có khả năng nộp hồ sơ khai thuế đúng hạn do thiên tai, hoả hoạn, tai nạn bất ngờ thì được thủ trưởng cơ quan thuế quản lý trực tiếp gia hạn nộp hồ sơ khai thuế.
+
+4.2. Thời gian gia hạn không quá ba mươi ngày đối với việc nộp hồ sơ khai thuế tháng, khai thuế năm, khai thuế tạm tính, khai thuế theo từng lần phát sinh nghĩa vụ thuế; sáu mươi ngày đối với việc nộp hồ sơ khai quyết toán thuế, kể từ ngày hết thời hạn phải nộp hồ sơ khai thuế.
+
+4.3. Người nộp thuế phải gửi đến cơ quan thuế nơi nhận hồ sơ khai thuế văn bản đề nghị gia hạn nộp hồ sơ khai thuế trước khi hết hạn nộp hồ sơ khai thuế, trong đó nêu rõ lý do đề nghị gia hạn có xác nhận của Uỷ ban nhân dân xã, phường, thị trấn hoặc công an xã, phường, thị trấn nơi phát sinh trường hợp được gia hạn nộp hồ sơ khai thuế.
+
+4.4. Trong thời hạn năm ngày làm việc, kể từ ngày nhận được văn bản đề nghị gia hạn nộp hồ sơ khai thuế, cơ quan thuế phải trả lời bằng văn bản cho người nộp thuế về việc chấp nhận hay không chấp nhận việc gia hạn nộp hồ sơ khai thuế; nếu cơ quan thuế không có văn bản trả lời thì coi như đề nghị của người nộp thuế được chấp nhận.
+
+5. Khai bổ sung hồ sơ khai thuế:
+
+5.1. Người nộp thuế phát hiện hồ sơ khai thuế đã nộp cho cơ quan thuế có sai sót, nhầm lẫn gây ảnh hưởng đến số thuế phải nộp thì được khai bổ sung hồ sơ khai thuế. Hồ sơ khai thuế bổ sung được nộp cho cơ quan thuế vào bất cứ ngày làm việc nào, không phụ thuộc vào thời hạn nộp hồ sơ khai thuế của lần tiếp theo, nhưng phải trước khi cơ quan thuế công bố quyết định kiểm tra thuế, thanh tra thuế tại trụ sở người nộp thuế.
+
+5.2. Trường hợp khai bổ sung hồ sơ khai thuế làm tăng số tiền thuế phải nộp, người nộp thuế tự xác định số tiền phạt chậm nộp căn cứ vào số tiền thuế chậm nộp, số ngày chậm nộp và mức xử phạt theo quy định tại Điều 106 Luật Quản lý thuế. Trường hợp người nộp thuế không tự xác định hoặc xác định không đúng số tiền phạt chậm nộp thì cơ quan thuế xác định số tiền phạt chậm nộp và thông báo cho người nộp thuế biết để thực hiện.
+
+5.3. Trường hợp khai bổ sung hồ sơ khai thuế làm giảm số thuế phải nộp, người nộp thuế được điều chỉnh giảm tiền thuế, tiền phạt (nếu có) tại ngày cuối cùng của tháng nộp hồ sơ khai bổ sung; hoặc được bù trừ số thuế giảm vào số thuế phát sinh của lần khai thuế tiếp theo.
+
+5.4. Mẫu hồ sơ khai bổ sung:
+
+- Tờ khai thuế tương ứng với tờ khai thuế cần được khai bổ sung, điều chỉnh thông tin;
+
+- Bản giải trình khai bổ sung, điều chỉnh mẫu số 01/KHBS ban hành kèm theo Thông tư này;
+
+- Tài liệu kèm theo giải thích số liệu trong bản giải trình khai bổ sung, điều chỉnh tương ứng với các tài liệu trong hồ sơ thuế của từng phần cụ thể tại Thông tư này.
+
+II. KHAI THUẾ GIÁ TRỊ GIA TĂNG
+
+1. Trách nhiệm nộp hồ sơ khai thuế giá trị gia tăng cho cơ quan thuế:
+
+1.1. Người nộp thuế nộp hồ sơ khai thuế giá trị gia tăng cho cơ quan thuế quản lý trực tiếp.
+
+1.2. Trường hợp người nộp thuế có đơn vị trực thuộc kinh doanh ở địa phương cấp tỉnh cùng nơi người nộp thuế có trụ sở chính: nếu đơn vị trực thuộc hạch toán độc lập thì đơn vị trực thuộc nộp hồ sơ khai thuế giá trị gia tăng cho cơ quan thuế quản lý trực tiếp đơn vị trực thuộc; nếu đơn vị trực thuộc hạch toán phụ thuộc thì người nộp thuế thực hiện khai thuế giá trị gia tăng chung cho cả đơn vị trực thuộc.
+
+Nếu đơn vị trực thuộc hạch toán phụ thuộc có con dấu, tài khoản tiền gửi ngân hàng, trực tiếp bán hàng hóa, dịch vụ, kê khai đầy đủ thuế giá trị gia tăng đầu vào, đầu ra muốn kê khai nộp thuế riêng phải đăng ký nộp thuế riêng, cấp mã số thuế phụ thuộc và sử dụng hóa đơn riêng.
+
+1.3. Trường hợp người nộp thuế có đơn vị trực thuộc kinh doanh ở địa phương cấp tỉnh khác nơi người nộp thuế có trụ sở chính thì đơn vị trực thuộc nộp hồ sơ khai thuế giá trị gia tăng cho cơ quan thuế quản lý trực tiếp của đơn vị trực thuộc; nếu đơn vị trực thuộc không trực tiếp bán hàng, không phát sinh doanh thu thì thực hiện khai thuế tập trung tại trụ sở chính của người nộp thuế.
+
+1.4. Trường hợp người nộp thuế có hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai mà không thành lập đơn vị trực thuộc tại địa phương cấp tỉnh khác nơi người nộp thuế có trụ sở chính (sau đây gọi là kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh) thì người nộp thuế phải nộp hồ sơ khai thuế cho chi cục thuế quản lý địa phương có hoạt động xây dựng, lắp đặt, bán hàng vãng lai đó.
+
+1.5. Trường hợp người nộp thuế có công trình xây dựng, lắp đặt ngoại tỉnh liên quan tới nhiều địa phương như: xây dựng đường giao thông, đường dây tải điện, đường ống dẫn nước, dẫn dầu, khí v.v., không xác định được doanh thu của công trình ở từng địa phương cấp huyện thì người nộp thuế khai thuế giá trị gia tăng của doanh thu xây dựng, lắp đặt ngoại tỉnh chung với hồ sơ khai thuế giá trị gia tăng tại trụ sở chính.
+
+2. Khai thuế giá trị gia tăng là loại khai thuế theo tháng và các trường hợp:
+
+- Khai quyết toán năm đối với thuế giá trị gia tăng tính theo phương pháp tính trực tiếp trên giá trị gia tăng;
+
+- Khai thuế giá trị gia tăng tạm tính theo từng lần phát sinh đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh.
+
+- Khai thuế giá trị gia tăng theo từng lần phát sinh đối với thuế giá trị gia tăng theo phương pháp trực tiếp trên doanh số của người kinh doanh không thường xuyên.
+
+3. Khai thuế giá trị gia tăng theo phương pháp khấu trừ:
+
+3.1. Người nộp thuế tính thuế giá trị gia tăng theo phương pháp khấu trừ thuế bao gồm doanh nghiệp, tổ chức kinh tế và các đơn vị trực thuộc của doanh nghiệp, tổ chức kinh tế thực hiện chế độ kế toán, hoá đơn, chứng từ theo quy định; trừ trường hợp áp dụng phương pháp tính thuế trực tiếp trên giá trị gia tăng quy định tại khoản 4 mục này.
+
+3.2. Hồ sơ khai thuế giá trị gia tăng tháng áp dụng phương pháp khấu trừ thuế:
+
+- Tờ khai thuế giá trị gia tăng theo mẫu số 01/GTGT ban hành kèm theo Thông tư này;
+
+- Bảng kê hoá đơn, chứng từ hàng hoá dịch vụ bán ra theo mẫu số 01-1/GTGT ban hành kèm theo Thông tư này;
+
+- Bảng kê hoá đơn, chứng từ hàng hoá dịch vụ mua vào theo mẫu số 01-2/GTGT ban hành kèm theo Thông tư này;
+
+- Bản giải trình khai bổ sung, điều chỉnh theo mẫu số 01-3/GTGT ban hành kèm theo Thông tư này (áp dụng đối với trường hợp tại kỳ khai thuế người nộp thuế có khai bổ sung, điều chỉnh cho hồ sơ khai thuế của các kỳ khai thuế trước).
+
+- Bảng phân bổ số thuế giá trị gia tăng của hàng hóa, dịch vụ mua vào được khấu trừ trong tháng theo mẫu số 01-4A/GTGT ban hành kèm theo Thông tư này (áp dụng đối với trường hợp người nộp thuế phân bổ số thuế giá trị gia tăng được khấu trừ trong tháng theo tỷ lệ (%) doanh thu hàng hoá dịch vụ bán ra chịu thuế giá trị gia tăng trên tổng doanh thu hàng hoá dịch vụ bán ra của tháng tính thuế).
+
+- Bảng kê khai điều chỉnh thuế giá trị gia tăng đầu vào phân bổ được khấu trừ năm theo mẫu số 01-4B/GTGT ban hành kèm theo Thông tư này (áp dụng đối với trường hợp người nộp thuế tính phân bổ lại số thuế giá trị gia tăng được khấu trừ trong năm theo tỷ lệ (%) doanh thu hàng hoá dịch vụ bán ra chịu thuế giá trị gia tăng trên tổng doanh thu hàng hoá dịch vụ bán ra của năm). Số liệu điều chỉnh tăng, giảm thuế giá trị gia tăng đầu vào phân bổ được khấu trừ được tổng hợp vào Tờ khai thuế giá trị gia tăng tháng ba năm tiếp theo.
+
+- Bảng kê số thuế giá trị gia tăng đã nộp của doanh thu kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh theo mẫu số 01-5/GTGT ban hành kèm theo Thông tư này.
+
+3.3. Trường hợp người nộp thuế có dự án đầu tư mới phát sinh thuế đầu vào nhưng chưa phát sinh thuế đầu ra thì người nộp thuế lập hồ sơ khai thuế riêng cho dự án đầu tư. Hồ sơ khai thuế giá trị gia tăng tháng của dự án đầu tư bao gồm:
+
+- Tờ khai thuế giá trị gia tăng dành cho dự án đầu tư theo mẫu số 02/GTGT ban hành kèm theo Thông tư này;
+
+- Bảng kê hoá đơn, chứng từ hàng hoá dịch vụ mua vào theo mẫu số 01-2/GTGT ban hành kèm theo Thông tư này.
+
+4. Khai thuế giá trị gia tăng tính theo phương pháp trực tiếp trên giá trị gia tăng:
+
+4.1. Hộ gia đình, cá nhân kinh doanh và người nộp thuế kinh doanh vàng, bạc, đá quý, ngoại tệ lưu giữ được đầy đủ hoá đơn mua vào, hoá đơn bán ra để xác định được giá trị gia tăng thì áp dụng khai thuế giá trị gia tăng tính theo phương pháp trực tiếp trên giá trị gia tăng.
+
+4.2. Hồ sơ khai thuế giá trị gia tăng tháng tính theo phương pháp trực tiếp trên giá trị gia tăng là Tờ khai thuế giá trị gia tăng theo mẫu số 03/GTGT ban hành kèm theo Thông tư này.
+
+4.3. Hồ sơ khai quyết toán thuế giá trị gia tăng năm tính theo phương pháp trực tiếp trên giá trị gia tăng là Tờ khai quyết toán thuế giá trị gia tăng theo mẫu số 04/GTGT ban hành kèm theo Thông tư này.
+
+5. Khai thuế giá trị gia tăng tính theo phương pháp trực tiếp trên doanh thu:
+
+5.1. Hộ gia đình, cá nhân, tổ chức kinh doanh thực hiện lưu giữ đủ hoá đơn, chứng từ bán hàng, cung cấp dịch vụ nhưng không có đủ hoá đơn, chứng từ mua hàng hoá, dịch vụ đầu vào nên không xác định được giá trị gia tăng trong kỳ thì áp dụng khai thuế giá trị gia tăng tính theo phương pháp trực tiếp trên doanh thu.
+
+5.2. Hồ sơ khai thuế giá trị gia tăng tháng tính theo phương pháp trực tiếp trên doanh thu là Tờ khai thuế giá trị gia tăng mẫu số 05/GTGT ban hành kèm theo Thông tư này.
+
+5.3. Hồ sơ khai thuế giá trị gia tăng theo từng lần phát sinh tính theo phương pháp trực tiếp trên doanh thu là Tờ khai thuế giá trị gia tăng mẫu số 05/GTGT ban hành kèm theo Thông tư này.
+
+6. Khai thuế giá trị gia tăng đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh.
+
+6.1. Người nộp thuế kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh thì khai thuế giá trị gia tăng tạm tính theo tỷ lệ 2% (đối với hàng hoá, dịch vụ chịu thuế suất thuế giá trị gia tăng 10%) hoặc theo tỷ lệ 1% (đối với hàng hoá, dịch vụ chịu thuế suất thuế giá trị gia tăng 5%) trên doanh thu hàng hoá, dịch vụ chưa có thuế giá trị gia tăng với chi cục thuế quản lý địa phương nơi kinh doanh, bán hàng.
+
+6.2. Hồ sơ khai thuế giá trị gia tăng đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh là Tờ khai thuế giá trị gia tăng theo mẫu số 06/GTGT ban hành kèm theo Thông tư này.
+
+6.3. Hồ sơ khai thuế giá trị gia tăng đối với hoạt động kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh được nộp theo từng lần phát sinh doanh thu. Trường hợp phát sinh nhiều lần nộp hồ sơ khai thuế trong một tháng thì người nộp thuế có thể đăng ký với chi cục thuế nơi nộp hồ sơ khai thuế để chuyển sang nộp hồ sơ khai thuế giá trị gia tăng theo tháng.
+
+6.4. Khi khai thuế với cơ quan thuế quản lý trực tiếp, người nộp thuế phải tổng hợp doanh thu phát sinh và số thuế giá trị gia tăng đã nộp của doanh thu kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh trong hồ sơ khai thuế tại trụ sở chính. Số thuế đã nộp (theo chứng từ nộp tiền thuế) của doanh thu kinh doanh xây dựng, lắp đặt, bán hàng vãng lai ngoại tỉnh được trừ vào số thuế giá trị gia tăng phải nộp theo tờ khai thuế giá trị gia tăng của người nộp thuế tại trụ sở chính.
+
+7. Chuyển đổi áp dụng các phương pháp tính thuế giá trị gia tăng.
+
+7.1. Các trường hợp chuyển đổi áp dụng các phương pháp tính thuế giá trị gia tăng.
+
+Người nộp thuế đang áp dụng tính thuế giá trị gia tăng theo phương pháp trực tiếp, nếu đáp ứng đủ điều kiện tính thuế giá trị gia tăng theo phương pháp khấu trừ theo quy định tại điểm 3.1 mục này thì có quyền gửi văn bản đề nghị cơ quan thuế quản lý trực tiếp chấp thuận chuyển sang áp dụng tính thuế giá trị gia tăng theo phương pháp khấu trừ theo mẫu số 07/GTGT ban hành kèm theo Thông tư này.
+
+Người nộp thuế đang áp dụng tính thuế giá trị gia tăng theo phương pháp trực tiếp trên doanh thu, nếu đáp ứng đủ điều kiện tính thuế giá trị gia tăng theo phương pháp trực tiếp trên giá trị gia tăng theo quy định tại điểm 4.1 mục này thì có quyền gửi văn bản đề nghị cơ quan thuế quản lý trực tiếp chấp thuận chuyển sang áp dụng tính thuế giá trị gia tăng theo phương pháp trực tiếp trên giá trị gia tăng theo mẫu số 07/GTGT ban hành kèm theo Thông tư này.
+
+7.2. Trong thời hạn mười ngày làm việc kể từ ngày nhận được văn bản đề nghị chuyển đổi phương pháp tính thuế giá trị gia tăng của người nộp thuế, cơ quan thuế có trách nhiệm kiểm tra và trả lời bằng văn bản cho người nộp thuế về việc đồng ý hay không đồng ý đề nghị của người nộp thuế. Người nộp thuế chỉ được thay đổi phương pháp tính thuế sau khi được cơ quan thuế đồng ý cho chuyển đổi phương pháp tính thuế.
+
+7.3. Người nộp thuế đã được cơ quan thuế đồng ý chuyển áp dụng từ phương pháp tính thuế trực tiếp sang phương pháp tính thuế khấu trừ hoặc từ phương pháp tính thuế trực tiếp trên doanh thu sang phương pháp tính thuế trực tiếp trên giá trị gia tăng nếu trong quá trình thực hiện không đáp ứng đủ các điều kiện quy định thì cơ quan thuế quản lý trực tiếp áp dụng biện pháp ấn định thuế phải nộp và ra thông báo chuyển sang phương pháp tính thuế thích hợp.
+
+8. Hướng dẫn khai thuế giá trị gia tăng, lập bảng kê hoá đơn bán ra, hoá đơn mua vào trong một số trường hợp cụ thể như sau:
+
+8.1. Khai thuế giá trị gia tăng đối với hoạt động đại lý:
+
+- Người nộp thuế là đại lý bán hàng hoá, dịch vụ thuộc đối tượng chịu thuế giá trị gia tăng phải khai thuế đối với doanh thu bán hàng đại lý và doanh thu hoa hồng đại lý được hưởng.
+
+- Người nộp thuế là đại lý thu mua theo các hình thức phải khai thuế giá trị gia tăng đối với hàng hoá thu mua đại lý và doanh thu hoa hồng được hưởng.
+
+- Người nộp thuế là đại lý bán vé của dịch vụ bưu điện, xổ số, máy bay, ô tô, tàu hoả, tàu thuỷ hoặc bán bảo hiểm theo đúng giá quy định của bên giao đại lý hưởng hoa hồng thì không phải khai thuế giá trị gia tăng đối với doanh thu hàng hóa, dịch vụ nhận bán đại lý và doanh thu hoa hồng đại lý được hưởng.
+
+- Người nộp thuế là đại lý bán hàng hoá, dịch vụ thuộc diện không chịu thuế giá trị gia tăng thì không phải khai thuế giá trị gia tăng đối với doanh thu hàng hoá, dịch vụ đó và doanh thu hoa hồng đại lý được hưởng.
+
+8.2. Doanh nghiệp kinh doanh vận tải thực hiện nộp hồ sơ khai thuế giá trị gia tăng của hoạt động kinh doanh vận tải với cơ quan thuế quản lý trực tiếp.
+
+8.3. Người nộp thuế tính thuế theo phương pháp khấu trừ thuế có hoạt động kinh doanh vàng, bạc, đá quý, ngoại tệ kê khai thuế giá trị gia tăng như sau:
+
+- Đối với hoạt động kinh doanh hàng hoá, dịch vụ tính thuế theo phương pháp khấu trừ, người nộp thuế lập hồ sơ khai thuế theo quy định tại khoản 3 mục này.
+
+- Đối với hoạt động kinh doanh vàng, bạc, đá quý, ngoại tệ, người nộp thuế lập hồ sơ khai thuế theo quy định tại khoản 4 hoặc khoản 5 mục này.
+
+8.4. Người nộp thuế kinh doanh dịch vụ cho thuê tài chính không phải nộp Tờ khai thuế giá trị gia tăng đối với dịch vụ cho thuê tài chính, mà chỉ nộp Bảng kê hoá đơn hàng hoá, dịch vụ bán ra theo mẫu số 01-1/GTGT và Bảng kê hoá đơn hàng hoá, dịch vụ mua vào theo mẫu số 01-2/GTGT, trong đó chỉ tiêu thuế giá trị gia tăng mua vào chỉ ghi tiền thuế giá trị gia tăng của tài sản cho thuê phân bổ phù hợp với hoá đơn giá trị gia tăng lập cho doanh thu của dịch vụ cho thuê tài chính trong kỳ kê khai. Người nộp thuế phải nộp hồ sơ khai thuế đối với các tài sản cho đơn vị khác thuê mua tài chính.
+
+8.5. Khai thuế đối với cơ sở kinh doanh xuất nhập khẩu có nhập khẩu uỷ thác hàng hoá chịu thuế giá trị gia tăng:
+
+Cơ sở nhận nhập khẩu uỷ thác hàng hoá chịu thuế giá trị gia tăng không phải khai thuế giá trị gia tăng đối với hàng hoá nhập khẩu uỷ thác nhưng phải kê khai riêng phần hoá đơn lập cho hàng hoá nhập khẩu uỷ thác đã trả cho cơ sở đi uỷ thác nhập khẩu trong Bảng kê hoá đơn giá trị gia tăng bán ra theo mẫu số 01-1/GTGT ban hành theo Thông tư này và nộp cho cơ quan thuế quản lý trực tiếp.
+
+8.6. Việc lập các Bảng kê hàng hoá, dịch vụ mua vào, bán ra kèm theo Tờ khai thuế hàng tháng gửi cho cơ quan thuế trong một số trường hợp được thực hiện như sau:
+
+- Đối với hàng hoá, dịch vụ bán lẻ trực tiếp cho người tiêu dùng như: điện, nước, xăng dầu, dịch vụ bưu điện, dịch vụ khách sạn, ăn uống, vận chuyển hành khách, kinh doanh vàng bạc, đá quý, ngoại tệ và bán lẻ hàng hoá, dịch vụ tiêu dùng khác thì được kê khai tổng hợp doanh số bán lẻ, không phải kê khai theo từng hoá đơn.
+
+- Đối với hàng hoá, dịch vụ mua lẻ, bảng kê tổng hợp được lập theo từng nhóm mặt hàng, dịch vụ cùng thuế suất, không phải kê chi tiết theo từng hoá đơn.
+
+- Đối với cơ sở kinh doanh ngân hàng có các đơn vị hạch toán phụ thuộc tại cùng địa phương thì các đơn vị phụ thuộc phải lập Bảng kê hàng hoá, dịch vụ mua vào, bán ra để lưu tại cơ sở chính. Khi tổng hợp lập Bảng kê hàng hoá, dịch vụ mua vào, bán ra, cơ sở chính chỉ tổng hợp theo số tổng hợp trên Bảng kê của các đơn vị phụ thuộc.
+
+9. Việc khai thuế giá trị gia tăng để xác định số thuế giá trị gia tăng phải nộp theo phương pháp khoán thực hiện theo quy định tại mục XI của phần này.
+
+III. KHAI THUẾ THU NHẬP DOANH NGHIỆP
+
+1. Trách nhiệm nộp hồ sơ khai thuế thu nhập doanh nghiệp cho cơ quan thuế:
+
+1.1. Người nộp thuế nộp hồ sơ khai thuế thu nhập doanh nghiệp cho cơ quan thuế quản lý trực tiếp.
+
+1.2. Trường hợp người nộp thuế có đơn vị trực thuộc hạch toán độc lập thì đơn vị trực thuộc nộp hồ sơ khai thuế thu nhập doanh nghiệp phát sinh tại đơn vị trực thuộc cho cơ quan thuế quản lý trực tiếp đơn vị trực thuộc.
+
+1.3. Trường hợp người nộp thuế có đơn vị trực thuộc nhưng hạch toán phụ thuộc thì đơn vị trực thuộc đó không phải nộp hồ sơ khai thuế thu nhập doanh nghiệp; khi nộp hồ sơ khai thuế thu nhập doanh nghiệp, người nộp thuế có trách nhiệm khai tập trung tại trụ sở chính cả phần phát sinh tại đơn vị trực thuộc.
+
+1.4. Đối với các tập đoàn kinh tế, các tổng công ty có đơn vị thành viên hạch toán phụ thuộc nếu đã hạch toán được doanh thu, chi phí, thu nhập chịu thuế thì đơn vị thành viên phải kê khai nộp thuế thu nhập doanh nghiệp với cơ quan thuế quản lý trực tiếp đơn vị thành viên.
+
+Trường hợp đơn vị thành viên có hoạt động kinh doanh khác với hoạt động kinh doanh chung của tập đoàn, tổng công ty và hạch toán riêng được thu nhập từ hoạt động kinh doanh khác đó thì đơn vị thành viên khai thuế thu nhập doanh nghiệp với cơ quan thuế quản lý trực tiếp đơn vị thành viên.
+
+Trường hợp cần áp dụng khai thuế khác với hướng dẫn tại điểm này thì tập đoàn kinh tế, tổng công ty phải báo cáo với Bộ Tài chính để có hướng dẫn riêng.
+
+1.5. Người nộp thuế nộp hồ sơ khai thuế thu nhập doanh nghiệp đối với thu nhập từ hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất cho chi cục thuế quản lý địa phương nơi có đất chuyển quyền.
+
+Trường hợp nộp hồ sơ khai thuế thu nhập doanh nghiệp từ hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất theo cơ chế một cửa liên thông thì thực hiện theo quy định về cơ chế một cửa liên thông đó.
+
+2. Khai thuế thu nhập doanh nghiệp là loại khai tạm tính theo quý, khai quyết toán năm hoặc khai quyết toán đến thời điểm chấm dứt hoạt động kinh doanh, chấm dứt hợp đồng, chuyển đổi hình thức sở hữu doanh nghiệp, tổ chức lại doanh nghiệp và các trường hợp:
+
+- Khai thuế thu nhập doanh nghiệp tạm tính theo từng lần chuyển quyền sử dụng đất, chuyển quyền thuê đất áp dụng đối với tổ chức kinh doanh không phát sinh thường xuyên hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất.
+
+- Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ thu nhập trên doanh thu theo tháng hoặc theo lần phát sinh thu nhập của người kinh doanh không thường xuyên.
+
+- Khai thuế thu nhập doanh nghiệp khấu trừ từ tiền hoa hồng đại lý theo tháng.
+
+3. Khai thuế thu nhập doanh nghiệp tạm tính theo quý:
+
+Hồ sơ khai thuế thu nhập doanh nghiệp tạm tính theo quý là Tờ khai thuế thu nhập doanh nghiệp quý theo mẫu số 01A/TNDN ban hành kèm theo Thông tư này.
+
+Trường hợp người nộp thuế không kê khai được chi phí thực tế phát sinh của kỳ tính thuế thì áp dụng Tờ khai thuế thu nhập doanh nghiệp quý theo mẫu số 01B/TNDN ban hành kèm theo Thông tư này. Căn cứ để tính thu nhập doanh nghiệp trong quý là tỷ lệ thu nhập chịu thuế trên doanh thu của năm trước liền kề. Trường hợp người nộp thuế đã được thanh tra, kiểm tra và tỷ lệ thu nhập chịu thuế trên doanh thu theo kết quả thanh tra, kiểm tra của cơ quan thuế khác với tỷ lệ người nộp thuế đã kê khai, thì áp dụng theo kết quả thanh tra, kiểm tra của cơ quan thuế.
+
+Trường hợp người nộp thuế khai thuế thu nhập doanh nghiệp từ hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất thì hồ sơ khai thuế bao gồm cả Phụ lục Doanh thu từ chuyển quyền sử dụng đất, chuyển quyền thuế đất theo mẫu số 01-1/TNDN ban hành kèm theo Thông tư này.
+
+4. Khai thuế thu nhập doanh nghiệp theo từng lần phát sinh chuyển quyền sử dụng đất, chuyển quyền thuê đất:
+
+4.1. Tổ chức kinh doanh không phát sinh thường xuyên hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất thực hiện khai thuế thu nhập doanh nghiệp tạm tính theo từng lần phát sinh chuyển quyền sử dụng đất, chuyển quyền thuê đất.
+
+Trường hợp tổ chức kinh doanh phát sinh thường xuyên hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất muốn nộp thuế theo từng lần phát sinh thì được quyền khai thuế như tổ chức không phát sinh thường xuyên hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất.
+
+4.2. Hồ sơ khai thuế thu nhập doanh nghiệp theo từng lần chuyển quyền sử dụng đất, chuyển quyền thuê đất là Tờ khai thuế thu nhập doanh nghiệp từ chuyển quyền sử dụng, chuyển quyền thuê đất theo mẫu số 02/TNDN ban hành kèm theo Thông tư này.
+
+4.3. Căn cứ vào hồ sơ khai thuế thu nhập doanh nghiệp từ hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất, cơ quan thuế ghi nhận số thuế phải nộp theo hồ sơ khai thuế hoặc điều chỉnh số thuế phải nộp hoặc xác nhận trường hợp không chịu thuế và thông báo cho người nộp thuế biết trong thời hạn ba ngày làm việc kể từ ngày nhận được hồ sơ. Thông báo được gửi trực tiếp cho người nộp thuế hoặc gửi theo hồ sơ chuyển quyền sử dụng đất, chuyển quyền thuê đất qua cơ quan tài nguyên môi trường theo cơ chế một cửa liên thông.
+
+5. Khai quyết toán thuế thu nhập doanh nghiệp:
+
+5.1. Khai quyết toán thuế thu nhập doanh nghiệp bao gồm khai quyết toán thuế thu nhập doanh nghiệp năm hoặc khai quyết toán thuế thu nhập doanh nghiệp đến thời điểm chấm dứt hoạt động kinh doanh, chấm dứt hợp đồng, chuyển đổi hình thức sở hữu doanh nghiệp, tổ chức lại doanh nghiệp.
+
+5.2. Hồ sơ khai quyết toán thuế thu nhập doanh nghiệp bao gồm:
+
+- Tờ khai quyết toán thuế thu nhập doanh nghiệp theo mẫu số 03/TNDN ban hành kèm theo thông tư này.
+
+- Báo cáo tài chính năm hoặc Báo cáo tài chính đến thời điểm chấm dứt hoạt động kinh doanh, chấm dứt hợp đồng, chuyển đổi hình thức sở hữu doanh nghiệp, tổ chức lại doanh nghiệp.
+
+- Một hoặc một số phụ lục kèm theo tờ khai (tuỳ theo thực tế phát sinh của người nộp thuế):
+
++ Phụ lục kết quả hoạt động sản xuất kinh doanh theo mẫu số 03-1A/TNDN, 03-1B/TNDN, hoặc 03-1C/TNDN ban hành kèm theo Thông tư này.
+
++ Phụ lục chuyển lỗ theo mẫu số 03-2/TNDN ban hành kèm theo Thông tư này.
+
++ Phụ lục thuế thu nhập doanh nghiệp đối với hoạt động chuyển quyền sử dụng đất, chuyển quyền thuê đất theo mẫu số 03-3/TNDN ban hành kèm theo Thông tư này.
+
++ Phụ lục về ưu đãi thuế thu nhập doanh nghiệp theo các mẫu ban hành kèm theo Thông tư này.
+
++ Phụ lục số thuế thu nhập doanh nghiệp đã nộp ở nước ngoài được trừ trong kỳ tính thuế theo mẫu số 03-5/TNDN ban hành kèm theo Thông tư này.
+
+6. Khai thuế thu nhập doanh nghiệp tính theo tỷ lệ thu nhập trên doanh thu:
+
+6.1. Người nộp thuế đã thực hiện theo quy định về hoá đơn, chứng từ bán hàng hoá, dịch vụ và xác định được doanh thu chịu thuế nhưng không xác định được chi phí, thu nhập chịu thuế; hoặc người nộp thuế phát sinh doanh thu kinh doanh không thường xuyên, sử dụng hoá đơn bán hàng cung cấp lẻ tại cơ quan thuế phục vụ cho hoạt động kinh doanh đó thì thực hiện khai thuế thu nhập doanh nghiệp tính theo tỷ lệ thu nhập trên doanh thu chịu thuế.
+
+6.2. Hồ sơ khai thuế thu nhập doanh nghiệp tính theo tỷ lệ thu nhập trên doanh thu chịu thuế là Tờ khai thuế thu nhập doanh nghiệp tính theo tỷ lệ thu nhập trên doanh thu theo mẫu số 04/TNDN ban hành kèm theo Thông tư này.
+
+7. Khai thuế thu nhập doanh nghiệp khấu trừ từ tiền hoa hồng đại lý:
+
+7.1. Người nộp thuế giao cho hộ gia đình, cá nhân làm dịch vụ đại lý bán đúng giá, hưởng hoa hồng có trách nhiệm khấu trừ số thuế thu nhập doanh nghiệp tính bằng 5% trên tiền hoa hồng trả cho đại lý (bao gồm cả các khoản chi hỗ trợ mà đại lý được hưởng theo hợp đồng ký với người nộp thuế).
+
+7.2. Hồ sơ khai thuế thu nhập doanh nghiệp khấu trừ từ tiền hoa hồng đại lý là Tờ khai thuế thu nhập doanh nghiệp khấu trừ từ tiền hoa hồng đại lý theo mẫu số 05/TNDN ban hành kèm theo Thông tư này.
+
+8. Việc khai thuế thu nhập doanh nghiệp để xác định số thuế thu nhập doanh nghiệp phải nộp theo phương pháp khoán thực hiện theo quy định tại mục XI của Phần này.
+
+IV. KHAI THUẾ TIÊU THỤ ĐẶC BIỆT
+
+1. Trách nhiệm nộp hồ sơ khai thuế tiêu thụ đặc biệt cho cơ quan thuế:
+
+1.1. Người nộp thuế sản xuất hàng hoá, gia công hàng hoá, kinh doanh dịch vụ chịu thuế tiêu thụ đặc biệt; kinh doanh xuất khẩu mua hàng chưa nộp thuế tiêu thụ đặc biệt, sau đó không xuất khẩu mà bán trong nước phải nộp hồ sơ khai thuế tiêu thụ đặc biệt với cơ quan thuế quản lý trực tiếp.
+
+1.2. Trường hợp người nộp thuế sản xuất hàng chịu thuế tiêu thụ đặc biệt thực hiện bán hàng qua chi nhánh, cửa hàng, đơn vị trực thuộc hoặc bán hàng thông qua đại lý bán đúng giá hưởng hoa hồng, xuất hàng bán ký gửi, người nộp thuế phải khai thuế tiêu thụ đặc biệt cho toàn bộ số hàng hóa này với cơ quan thuế quản lý trực tiếp. Các chi nhánh, cửa hàng, đơn vị trực thuộc, đại lý, đơn vị bán hàng ký gửi không phải khai thuế tiêu thụ đặc biệt nhưng khi gửi Bảng kê bán hàng về người nộp thuế thì đồng gửi một bản cho cơ quan thuế quản lý trực tiếp đơn vị trực thuộc, đại lý, đơn vị bán hàng ký gửi để theo dõi.
+
+2. Khai thuế tiêu thụ đặc biệt là loại khai theo tháng; đối với hàng hoá mua để xuất khẩu nhưng được bán trong nước thì khai theo lần phát sinh.
+
+3. Hồ sơ khai thuế tiêu thụ đặc biệt bao gồm:
+
+- Tờ khai thuế tiêu thụ đặc biệt theo mẫu số 01/TTĐB ban hành kèm theo Thông tư này;
+
+- Bảng kê hoá đơn bán hàng hoá, dịch vụ chịu thuế tiêu thụ đặc biệt theo mẫu số 01-1/TTĐB ban hành kèm theo Thông tư này;
+
+- Bảng kê thuế tiêu thụ đặc biệt được khấu trừ (nếu có) theo mẫu số 01-2/TTĐB ban hành kèm theo Thông tư này.
+
+4. Việc khai thuế tiêu thụ đặc biệt để xác định số thuế tiêu thụ đặc biệt phải nộp theo phương pháp khoán thực hiện theo quy định tại mục XI của Phần này.
+
+V. KHAI THUẾ TÀI NGUYÊN
+
+1. Trách nhiệm nộp hồ sơ khai thuế tài nguyên cho cơ quan thuế:
+
+1.1. Người nộp thuế nộp hồ sơ khai thuế tài nguyên cho cơ quan thuế quản lý trực tiếp.
+
+1.2. Trường hợp đơn vị thu mua tài nguyên đăng ký nộp thuế tài nguyên thay cho đơn vị khai thác tài nguyên thì nộp hồ sơ khai thuế tài nguyên cho chi cục thuế quản lý địa phương có tài nguyên khai thác.
+
+2. Khai thuế tài nguyên là loại khai theo tháng và khai quyết toán năm hoặc khai quyết toán đến thời điểm chấm dứt hoạt động khai thác tài nguyên, chấm dứt hoạt động kinh doanh, chấm dứt hợp đồng, chuyển đổi hình thức sở hữu doanh nghiệp, tổ chức lại doanh nghiệp.
+
+3. Hồ sơ khai thuế tài nguyên:
+
+3.1. Hồ sơ khai thuế tài nguyên tháng bao gồm:
+
+- Tờ khai thuế tài nguyên áp dụng đối với cơ sở khai thác tài nguyên theo mẫu số 01/TAIN ban hành kèm theo Thông tư này; hoặc:
+
+- Tờ khai thuế tài nguyên nộp thay người khai thác áp dụng đối với cơ sở thu mua tài nguyên theo mẫu số 02/TAIN ban hành kèm theo Thông tư này.
+
+3.2. Hồ sơ khai quyết toán thuế tài nguyên bao gồm:
+
+- Tờ khai quyết toán thuế tài nguyên theo mẫu số 03/TAIN ban hành kèm theo Thông tư này.
+
+- Các tài liệu liên quan đến việc miễn, giảm thuế tài nguyên kèm theo.
+
+4. Việc khai thuế tài nguyên để xác định số thuế tài nguyên phải nộp theo phương pháp khoán thực hiện theo quy định tại mục XI của Phần này.
+
+VI. KHAI THUẾ THU NHẬP ĐỐI VỚI NGƯỜI CÓ THU
+
+NHẬP CAO (SAU ĐÂY GỌI LÀ THUẾ THU NHẬP CÁ NHÂN)
+
+1. Khai thuế thu nhập cá nhân đối với thu nhập thường xuyên:
+
+1.1. Trách nhiệm nộp hồ sơ khai thuế thu nhập cá nhân đối với thu nhập thường xuyên:
+
+- Tổ chức, cá nhân chi trả thu nhập thường xuyên thuộc diện chịu thuế thu nhập cá nhân có trách nhiệm khấu trừ thuế tại nguồn và khai thuế, nộp thuế thay cho người có thu nhập chịu thuế.
+
+- Tổ chức, cá nhân có trách nhiệm khấu trừ thuế thu nhập cá nhân tạm tính theo mức 10% trên số thu nhập khi chi trả cho cá nhân vãng lai (không có hợp đồng lao động) khoản thu nhập từ 500.000 đồng/lần trở lên mà khoản thu nhập này có được từ các hoạt động đại lý hưởng hoa hồng, môi giới (kể cả tiền thưởng); tiền nhuận bút, tiền giảng dạy; tiền bản quyền sử dụng sáng chế, nhãn hiệu, tác phẩm; tiền thù lao do tham gia dự án, hiệp hội kinh doanh, hội đồng quản trị, hội đồng thành viên; dịch vụ khoa học, kỹ thuật, dịch vụ tin học, dịch vụ tư vấn, thiết kế, kiến trúc, đào tạo, hoạt động biểu diễn, hoạt động thể dục thể thao và các khoản tiền chi trả khác thuộc diện chịu thuế thu nhập cá nhân.
+
+- Cá nhân có thu nhập thường xuyên đến mức chịu thuế thu nhập cá nhân đăng ký nộp thuế trực tiếp với cơ quan thuế.
+
+1.2. Nơi nộp hồ sơ khai thuế thu nhập cá nhân đối với thu nhập thường xuyên:
+
+- Người nộp thuế có hoạt động sản xuất, kinh doanh nộp hồ sơ khai thuế cho cơ quan thuế quản lý trực tiếp.
+
+- Người nộp thuế không có hoạt động sản xuất kinh doanh nộp hồ sơ khai thuế cho cục thuế tỉnh, thành phố trực thuộc Trung ương nơi có trụ sở đối với tổ chức hoặc nơi thường trú, nơi làm việc chính, nơi có thu nhập phát sinh đối với cá nhân.
+
+1.3. Khai thuế thu nhập cá nhân đối với thu nhập thường xuyên là loại khai tạm tính theo tháng và khai quyết toán năm.
+
+Trường hợp tổng số thuế phát sinh hàng tháng dưới năm triệu đồng thì người nộp thuế được quyền khai tạm nộp thuế theo quý. Việc khai theo quý được xác định hàng năm và căn cứ vào tổng số thuế phát sinh của tháng đầu tiên trong năm.
+
+Trường hợp cá nhân đăng ký nộp thuế trực tiếp với cơ quan thuế, trong năm xác định được thu nhập ổn định hàng tháng thì tháng đầu tiên nộp hồ sơ khai tạm tính thuế, các tháng tiếp theo không cần nộp hồ sơ khai thuế này mà nộp thuế thu nhập cá nhân theo số thuế đã khai của tháng đầu tiên, trừ trường hợp có sự thay đổi về thu nhập.
+
+1.4. Hồ sơ khai thuế thu nhập cá nhân đối với trường hợp khấu trừ tại nguồn:
+
+1.4.1. Hồ sơ khai thuế thu nhập cá nhân đối với thuế khấu trừ theo biểu luỹ tiến từng phần là Tờ khai thuế thu nhập cá nhân khấu trừ theo biểu thuế luỹ tiến theo mẫu số 01/TNCN ban hành kèm theo Thông tư này.
+
+1.4.2. Hồ sơ khai thuế thu nhập cá nhân đối với thuế khấu trừ 10% trên số thu nhập khi chi trả là Tờ khai thuế thu nhập cá nhân khấu trừ 10% theo mẫu số 02/TNCN ban hành kèm theo Thông tư này.
+
+1.4.3. Hồ sơ khai thuế thu nhập cá nhân đối với thuế khấu trừ của cá nhân nước ngoài không cư trú tại Việt nam là Tờ khai thuế thu nhập cá nhân khấu trừ của cá nhân nước ngoài không cư trú theo mẫu số 03/TNCN ban hành kèm theo Thông tư này.
+
+1.4.4. Hồ sơ khai quyết toán thuế thu nhập cá nhân khấu trừ tại nguồn bao gồm:
+
+- Tờ khai quyết toán thuế thu nhập cá nhân khấu trừ tại nguồn mẫu 04/TNCN ban hành kèm theo Thông tư này.
+
+- Bảng quyết toán chi tiết thuế thu nhập cá nhân theo mẫu số 04-1/TNCN ban hành kèm theo Thông tư này.
+
+Cá nhân có thu nhập chịu thuế thu nhập cá nhân uỷ quyền cho bên khấu trừ tại nguồn thực hiện quyết toán thuế thu nhập cá nhân năm thì gửi cho Bên khấu trừ văn bản uỷ quyền quyết toán thuế theo mẫu số 04- 2/TNCN ban hành kèm theo Thông tư này và Bảng kê số ngày cư trú tại Việt Nam (nếu có). Bên khấu trừ tại nguồn quyết toán thay thực hiện lưu giữ các văn bản đó tại trụ sở của mình, không phải nộp cùng hồ sơ khai quyết toán thuế.
+
+1.5. Hồ sơ khai thuế thu nhập cá nhân đối với trường hợp cá nhân khai thuế trực tiếp với cơ quan thuế:
+
+1.5.1. Hồ sơ khai thuế thu nhập cá nhân tháng hoặc quý là Tờ khai thuế thu nhập cá nhân mẫu số 05/TNCN ban hành kèm theo Thông tư này.
+
+1.5.2. Hồ sơ khai quyết toán thuế thu nhập cá nhân bao gồm:
+
+- Tờ khai quyết toán thuế thu nhập cá nhân mẫu số 06A/TNCN hoặc mẫu số 06B/TNCN ban hành kèm theo Thông tư này.
+
+- Bảng kê số ngày cư trú tại Việt Nam áp dụng đối với cá nhân là người nước ngoài theo mẫu số 06-1/TNCN ban hành kèm theo Thông tư này.
+
+- Bảng kê các biên lai nộp thuế hoặc chứng từ khấu trừ thuế, các chứng từ xác định số thuế được trừ, được miễn, giảm.
+
+1.6. Trường hợp cá nhân nước ngoài có thu nhập chịu thuế thuộc diện được miễn thuế, giảm thuế do áp dụng Hiệp định tránh đánh thuế hai lần giữa Việt Nam và nước/vùng lãnh thổ khác thì thực hiện thêm các thủ tục sau:
+
+1.6.1. Đối với cá nhân là đối tượng cư trú của nước ngoài:
+
+Mười lăm ngày trước khi thực hiện hợp đồng với các tổ chức, cá nhân Việt Nam, cá nhân nước ngoài gửi cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định mẫu 01-1A/TNCN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao Hợp đồng lao động với người sử dụng lao động ở nước ngoài (nếu có);
+
+- Bản sao hợp đồng lao động với người sử dụng lao động tại Việt Nam;
+
+- Bản sao hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam.
+
+Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao hợp đồng lao động ký kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài mới (nếu có).
+
+Mười lăm ngày trước khi kết thúc hợp đồng làm việc tại Việt Nam hoặc kết thúc năm tính thuế (tuỳ theo thời điểm nào diễn ra trước) cá nhân gửi Giấy chứng nhận cư trú của năm tính thuế đó và bản sao hộ chiếu cho bên Việt Nam kí kết hợp đồng hoặc chi trả thu nhập.
+
+Trường hợp vào thời điểm trên vẫn chưa có được giấy xác nhận cư trú thì cá nhân nước ngoài có nghĩa vụ cam kết gửi Giấy chứng nhận cư trú trong quí 1 của năm tiếp theo.
+
+1.6.2. Đối với cá nhân nước ngoài là đối tượng cư trú Việt Nam:
+
+Đối với cá nhân là đối tượng cư trú của Việt Nam được hưởng các quy định miễn, giảm thuế đối với thu nhập quy định tại các Điều khoản thu nhập từ phục vụ Chính phủ, thu nhập của sinh viên, học sinh học nghề và thu nhập của giáo viên, giáo sư và người nghiên cứu thủ tục như sau:
+
+Mười lăm ngày trước khi thực hiện hợp đồng với các tổ chức, cá nhân Việt Nam, cá nhân nước ngoài gửi cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định 01-1B/TNCN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Giấy chứng nhận của cơ quan đại diện nhà nước Việt Nam liên quan đến các hoạt động phát sinh thu nhập thông báo miễn thuế theo Hiệp định.
+
+1.6.3. Đối với vận động viên và nghệ sĩ là đối tượng cư trú của nước ngoài có thu nhập từ biểu diễn văn hoá, thể dục thể thao tại Việt Nam:
+
+Mười lăm ngày trước khi thực hiện hợp đồng (hoặc chương trình trao đổi văn hoá, thể dục thể thao) với các tổ chức, cá nhân Việt Nam, cá nhân nước ngoài gửi cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định 01-1C/TNCN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Giấy chứng nhận của cơ quan đại diện nhà nước Việt Nam trong các chương trình trao đổi văn hoá, thể dục thể thao về nội dung hoạt động và thu nhập thông báo miễn thuế theo Hiệp định.
+
+Mười lăm ngày trước khi kết thúc hợp đồng làm việc tại Việt Nam (hoặc chương trình trao đổi văn hoá, thể dục thể thao) hoặc kết thúc năm tính thuế (tuỳ theo thời điểm nào diễn ra trước) cá nhân nước ngoài gửi Giấy chứng nhận cư trú của năm tính thuế đó cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập.
+
+Trường hợp vào thời điểm trên vẫn chưa có được giấy xác nhận cư trú thì cá nhân nước ngoài có nghĩa vụ cam kết gửi Giấy chứng nhận cư trú trong quý I của năm tiếp theo.
+
+2. Khai thuế thu nhập cá nhân đối với thu nhập không thường xuyên:
+
+2.1. Tổ chức, cá nhân chi trả thu nhập không thường xuyên thuộc diện chịu thuế thu nhập cá nhân có trách nhiệm khấu trừ thuế tại nguồn, khai thuế và nộp thuế thay cho người nhận thu nhập.
+
+2.2. Nơi nộp hồ sơ khai thuế thu nhập cá nhân đối với thu nhập không thường xuyên:
+
+- Tổ chức, cá nhân có hoạt động sản xuất, kinh doanh nộp hồ sơ khai thuế cho cơ quan thuế quản lý trực tiếp.
+
+- Tổ chức, cá nhân không có hoạt động sản xuất kinh doanh thì nộp hồ sơ khai thuế tại Cục thuế tỉnh, thành phố trực thuộc Trung ương nơi đóng trụ sở.
+
+2.3. Khai thuế thu nhập cá nhân đối với thu nhập không thường xuyên là loại khai theo lần phát sinh chi trả thu nhập. Trường hợp tổ chức chi trả thu nhập trúng thưởng xổ số, trúng thưởng khuyến mại có nhiều lần chi trả thu nhập trong tháng thì có thể đăng ký với cơ quan thuế để nộp hồ sơ khai thuế theo tháng.
+
+2.4. Hồ sơ khai thuế thu nhập cá nhân đối với thu nhập không thường xuyên là Tờ khai thuế thu nhập không thường xuyên theo mẫu số 07/TNCN ban hành kèm theo thông tư này.
+
+VII. KHAI THUẾ MÔN BÀI
+
+1. Người nộp thuế môn bài nộp Tờ khai thuế môn bài cho cơ quan thuế quản lý trực tiếp.
+
+Trường hợp người nộp thuế có đơn vị trực thuộc (chi nhánh, cửa hàng...) kinh doanh ở cùng địa phương cấp tỉnh thì người nộp thuế thực hiện nộp Tờ khai thuế môn bài của các đơn vị trực thuộc đó cho cơ quan thuế quản lý trực tiếp của người nộp thuế.
+
+Trường hợp người nộp thuế có đơn vị trực thuộc ở khác địa phương cấp tỉnh nơi người nộp thuế có trụ sở chính thì đơn vị trực thuộc thực hiện nộp Tờ khai thuế môn bài của đơn vị trực thuộc cho cơ quan thuế quản lý trực tiếp của đơn vị trực thuộc.
+
+Người nộp thuế kinh doanh không có địa điểm cố định như kinh doanh buôn chuyến, kinh doanh lưu động, hộ xây dựng, vận tải, nghề tự do khác... nộp hồ sơ khai thuế môn bài cho chi cục thuế quản lý địa phương nơi có hoạt động kinh doanh hoặc nơi cư trú.
+
+2. Khai thuế môn bài là loại khai thuế theo năm.
+
+Trường hợp đang kinh doanh, thời hạn nộp Tờ khai thuế môn bài chậm nhất là ngày 30 tháng 1 của năm đó.
+
+Trường hợp người nộp thuế hoặc đơn vị trực thuộc của người nộp thuế bắt đầu kinh doanh, thời hạn nộp Tờ khai thuế môn bài chậm nhất là ngày cuối cùng của tháng bắt đầu hoạt động kinh doanh.
+
+3. Hồ sơ khai thuế môn bài là Tờ khai thuế môn bài theo mẫu số 01/MBAI ban hành kèm theo Thông tư này.
+
+VIII. KHAI THUẾ, KHOẢN THU NGÂN SÁCH
+
+NHÀ NƯỚC LIÊN QUAN ĐẾN SỬ DỤNG ĐẤT ĐAI
+
+1. Khai thuế nhà, đất và xác định số thuế phải nộp:
+
+1.1. Người nộp thuế nộp hồ sơ khai thuế nhà, đất cho chi cục thuế nơi có đất chịu thuế nhà đất.
+
+1.2. Thời hạn nộp hồ sơ khai thuế nhà, đất:
+
+- Đối với tổ chức, thời hạn nộp hồ sơ khai thuế nhà, đất chậm nhất là ngày 30 tháng 1 hàng năm.
+
+- Đối với hộ gia đình, cá nhân sử dụng đất đã thuộc diện chịu thuế và có trong sổ bộ thuế của cơ quan thuế từ năm trước thì không phải nộp hồ sơ khai thuế nhà, đất của năm tiếp theo.
+
+- Trường hợp trong năm có phát sinh tăng, giảm diện tích chịu thuế nhà, đất thì người nộp thuế phải nộp hồ sơ khai thuế chậm nhất là mười ngày kể từ ngày phát sinh tăng, giảm diện tích đất.
+
+- Trường hợp người nộp thuế được miễn hoặc giảm thuế nhà, đất thì vẫn phải nộp hồ sơ khai thuế nhà, đất cùng giấy tờ liên quan đến việc xác định miễn thuế, giảm thuế của năm đầu tiên và năm tiếp theo năm hết thời hạn miễn thuế, giảm thuế.
+
+1.3. Hồ sơ khai thuế nhà, đất là:
+
+- Tờ khai thuế nhà, đất theo mẫu số 01/NĐAT ban hành kèm theo Thông tư này áp dụng đối với tổ chức; hoặc:
+
+- Tờ khai thuế nhà, đất theo mẫu số 02/NĐAT ban hành kèm theo Thông tư này áp dụng đối với hộ gia đình, cá nhân.
+
+1.4. Xác định số thuế nhà, đất phải nộp:
+
+- Đối với thuế nhà, đất của người nộp thuế là tổ chức thì người nộp thuế tự xác định số thuế phải nộp trong Tờ khai thuế nhà, đất.
+
+- Đối với thuế nhà đất của hộ gia đình, cá nhân: căn cứ vào sổ thuế của năm trước hoặc Tờ khai thuế nhà đất trong năm, chi cục thuế tính thuế, ra Thông báo nộp thuế nhà đất theo mẫu số 03/NĐAT ban hành kèm theo Thông tư này và gửi cho người nộp thuế biết.
+
+1.5. Thời hạn cơ quan thuế ra thông báo nộp thuế nhà, đất cho hộ gia đình, cá nhân:
+
+- Chậm nhất là ngày 15 tháng 4 đối với Thông báo nộp thuế nhà đất của kỳ nộp thứ nhất trong năm; thời hạn nộp thuế chậm nhất là ngày 1 tháng 5.
+
+- Chậm nhất là ngày 15 tháng 9 đối với Thông báo nộp thuế nhà đất của kỳ nộp thứ hai trong năm; thời hạn nộp thuế chậm nhất là ngày 1 tháng 10.
+
+- Trường hợp nhận hồ sơ khai thuế bổ sung sau ngày đã ra thông báo thuế, cơ quan thuế ra thông báo nộp thuế theo hồ sơ khai bổ sung chậm nhất là mười ngày kể từ ngày nhận được hồ sơ khai thuế.
+
+Trường hợp người nộp thuế muốn nộp thuế nhà đất một lần cho toàn bộ số tiền thuế nhà đất cả năm thì người nộp thuế phải thực hiện nộp thuế nhà đất theo thời hạn của kỳ nộp thứ nhất trong năm.
+
+2. Khai thuế sử dụng đất nông nghiệp
+
+2.1. Người nộp thuế sử dụng đất nông nghiệp nộp hồ sơ khai thuế sử dụng đất nông nghiệp cho chi cục thuế nơi có đất chịu thuế sử dụng đất nông nghiệp.
+
+2.2. Thời hạn nộp hồ sơ khai thuế sử dụng đất nông nghiệp:
+
+- Đối với tổ chức, thời hạn nộp hồ sơ khai thuế sử dụng đất nông nghiệp chậm nhất là ngày 30 tháng 1 hàng năm.
+
+- Đối với hộ gia đình, cá nhân sử dụng đất đã thuộc diện chịu thuế và có trong sổ bộ thuế của cơ quan thuế từ năm trước thì không phải nộp hồ sơ khai thuế sử dụng đất nông nghiệp của năm tiếp theo.
+
+- Trường hợp nộp thuế sử dụng đất nông nghiệp cho diện tích trồng cây lâu năm thu hoạch một lần, thời hạn nộp hồ sơ khai thuế là mười ngày kể từ ngày khai thác sản lượng thu hoạch.
+
+- Trường hợp trong năm có phát sinh tăng, giảm diện tích chịu thuế sử dụng đất nông nghiệp thì người nộp thuế phải nộp hồ sơ khai thuế chậm nhất là mười ngày kể từ ngày phát sinh tăng, giảm diện tích đất.
+
+- Trường hợp được miễn hoặc giảm thuế sử dụng đất nông nghiệp thì người nộp thuế vẫn phải nộp hồ sơ khai thuế sử dụng đất nông nghiệp cùng giấy tờ liên quan đến việc xác định miễn thuế, giảm thuế của năm đầu tiên và năm tiếp theo năm hết thời hạn miễn thuế, giảm thuế.
+
+2.3. Hồ sơ khai thuế sử dụng đất nông nghiệp là Tờ khai thuế sử dụng đất nông nghiệp theo mẫu ban hành kèm theo Thông tư này:
+
+- Tờ khai thuế sử dụng đất nông nghiệp dùng cho tổ chức theo mẫu số 01/SDNN ban hành kèm theo Thông tư này;
+
+- Tờ khai thuế sử dụng đất nông nghiệp dùng cho hộ gia đình, cá nhân theo mẫu số 02/SDNN ban hành kèm theo Thông tư này;
+
+- Tờ khai thuế sử dụng đất nông nghiệp dùng cho khai thuế đối với đất trồng cây lâu năm thu hoạch một lần theo mẫu số 03/SDNN ban hành kèm theo Thông tư này.
+
+2.4. Xác định số thuế sử dụng đất nông nghiệp phải nộp:
+
+- Đối với thuế sử dụng đất nông nghiệp của người nộp thuế là tổ chức thì người nộp thuế tự xác định số thuế phải nộp trong Tờ khai thuế sử dụng đất nông nghiệp.
+
+- Đối với thuế sử dụng đất nông nghiệp của hộ gia đình, cá nhân: căn cứ vào sổ thuế của năm trước hoặc Tờ khai thuế sử dụng đất nông nghiệp trong năm, chi cục thuế tính thuế, ra Thông báo nộp thuế sử dụng đất nông nghiệp theo mẫu số 04/SDNN ban hành kèm theo Thông tư này và gửi cho người nộp thuế biết.
+
+- Đối với thuế sử dụng đất nông nghiệp trồng cây lâu năm thu hoạch một lần, người nộp thuế tự xác định số thuế sử dụng đất nông nghiệp phải nộp. Trường hợp người nộp thuế không xác định được số thuế phải nộp thì cơ quan thuế sẽ ấn định thuế và thông báo cho người nộp thuế biết.
+
+2.5. Thời hạn cơ quan thuế ra thông báo nộp thuế sử dụng đất nông nghiệp cho hộ gia đình, cá nhân:
+
+- Chậm nhất là ngày 15 tháng 4 đối với Thông báo nộp thuế sử dụng đất nông nghiệp của kỳ nộp thứ nhất trong năm; thời hạn nộp thuế chậm nhất là ngày 1 tháng 5.
+
+- Chậm nhất là ngày 15 tháng 9 đối với Thông báo nộp thuế sử dụng đất nông nghiệp của kỳ nộp thứ hai trong năm; thời hạn nộp thuế chậm nhất là ngày 1 tháng 10.
+
+- Trường hợp nhận hồ sơ khai thuế bổ sung sau ngày đã ra thông báo thuế, cơ quan thuế ra thông báo nộp thuế theo hồ sơ khai bổ sung chậm nhất là mười ngày kể từ ngày nhận được hồ sơ khai thuế.
+
+Trường hợp địa phương có mùa vụ thu hoạch sản phẩm nông nghiệp không trùng với thời hạn nộp thuế quy định tại điểm này thì chi cục thuế được phép lùi thời hạn thông báo nộp thuế và thời hạn nộp thuế không quá ba mươi ngày so với thời hạn quy định tại điểm này. Trường hợp người nộp thuế có yêu cầu nộp thuế một lần cho toàn bộ số thuế sử dụng đất nông nghiệp cả năm thì người nộp thuế phải thực hiện nộp tiền thuế theo thời hạn của kỳ nộp thứ nhất trong năm.
+
+3. Khai tiền thuê đất, thuê mặt nước và thông báo nộp tiền thuê đất, thuê mặt nước:
+
+3.1. Người thuê đất, thuê mặt nước thực hiện khai tiền thuê đất, thuê mặt nước theo mẫu số 01/TMĐN ban hành kèm theo Thông tư này và nộp cùng hồ sơ thuê đất, thuê mặt nước cho Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường.
+
+3.2. Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường có trách nhiệm chuyển hồ sơ khai tiền thuê đất, thuê mặt nước cho chi cục thuế địa phương nơi có đất, mặt nước cho thuê.
+
+Trường hợp người được thuê đất, thuê mặt nước từ (những) năm trước và đã nộp hồ sơ khai tiền thuê đất, thuê mặt nước cho cơ quan thuế thì không phải nộp hồ sơ khai tiền thuê đất, thuê mặt nước.
+
+Trường hợp có thay đổi diện tích trong hợp đồng thuê đất, thuê mặt nước thì người được thuê đất, thuê mặt nước phải khai lại hồ sơ nộp tiền thuê đất mới và nộp hồ sơ theo quy định tại điểm 3.1 mục này.
+
+3.3. Đối với trường hợp thuê đất, thuê mặt nước mới, trong thời hạn năm ngày làm việc kể từ ngày nhận hồ sơ khai tiền thuê đất hợp lệ, cơ quan thuế xác định số tiền thuê đất, thuê mặt nước phải nộp, ra và gửi Thông báo nộp tiền thuê đất theo mẫu số 02/TMĐN ban hành kèm theo Thông tư này thông qua Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường cho người thuê đất, thuê mặt nước biết để nộp tiền thuê đất, thuê mặt nước vào Ngân sách Nhà nước.
+
+3.4. Đối với trường hợp người được thuê đất, thuê mặt nước từ (những) năm trước, cơ quan thuế gửi thông báo nộp tiền thuê đất cho người thuê đất, thuê mặt nước như sau:
+
+- Chậm nhất là ngày 15 tháng 4 đối với Thông báo nộp tiền thuê đất, thuê mặt nước của kỳ nộp thứ nhất trong năm; thời hạn nộp chậm nhất là ngày 1 tháng 5.
+
+- Chậm nhất là ngày 15 tháng 9 đối với Thông báo nộp tiền thuê đất, thuê mặt nước của kỳ nộp thứ hai trong năm; thời hạn nộp chậm nhất là ngày 1 tháng 10.
+
+Trường hợp cơ quan có thẩm quyền điều chỉnh đơn giá thuê đất, thuê mặt nước thì cơ quan thuế phải xác định lại tiền thuê đất, thuê mặt nước phải nộp và thông báo cho người có nghĩa vụ thực hiện.
+
+Trường hợp người thuê đất, thuê mặt nước muốn nộp tiền thuê đất, thuê mặt nước một lần cho toàn bộ số tiền thuê đất, thuê mặt nước cả năm thì phải thực hiện nộp tiền thuê đất, thuê mặt nước theo thời hạn của kỳ nộp thứ nhất trong năm.
+
+4. Khai tiền sử dụng đất:
+
+4.1. Người sử dụng đất thực hiện khai tiền sử dụng đất theo mẫu số 01/TSDĐ ban hành kèm theo Thông tư này và nộp cùng các giấy tờ liên quan đến việc xác định nghĩa vụ tài chính theo quy định của pháp luật cho Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường.
+
+4.2. Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên và môi trường có trách nhiệm chuyển hồ sơ khai tiền sử dụng đất của người sử dụng đất cho chi cục thuế nơi có đất được cấp giấy chứng nhận quyền sử dụng đất.
+
+4.3. Trong thời hạn 3 ngày làm việc kể từ ngày nhận đủ hồ sơ khai tiền sử dụng đất, cơ quan thuế xác định số tiền sử dụng đất phải nộp, ra và gửi Thông báo nộp tiền sử dụng đất theo mẫu số 02/TSDĐ ban hành kèm theo Thông tư này thông qua Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường để gửi cho người sử dụng đất.
+
+4.4. Thời hạn nộp tiền sử dụng đất chậm nhất là ba mươi ngày kể từ ngày người nộp thuế nhận được Thông báo nộp tiền.
+
+5. Khai thuế chuyển quyền sử dụng đất:
+
+5.1. Người nộp thuế thực hiện khai thuế chuyển quyền sử dụng đất theo mẫu số 01/CQSD ban hành kèm theo Thông tư này và nộp cùng hồ sơ chuyển quyền sử dụng đất (theo quy định của pháp luật) cho Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên môi trường.
+
+5.2. Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên và môi trường có trách nhiệm chuyển hồ sơ khai thuế chuyển quyền sử dụng đất cho chi cục thuế địa phương nơi có đất chuyển quyền.
+
+5.3. Trong thời hạn ba ngày làm việc kể từ ngày nhận đủ hồ sơ khai thuế chuyển quyền sử dụng đất, cơ quan thuế xác định số thuế chuyển quyền sử dụng đất phải nộp, ra và gửi Thông báo nộp thuế chuyển quyền sử dụng đất theo mẫu số 02/CQSD ban hành kèm theo Thông tư này thông qua Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên và môi trường để gửi cho người nộp thuế.
+
+5.4. Thời hạn nộp thuế chuyển quyền sử dụng đất chậm nhất là ba mươi ngày kể từ ngày người nộp thuế nhận được Thông báo nộp thuế.
+
+IX. KHAI PHÍ, LỆ PHÍ
+
+1. Khai lệ phí trước bạ:
+
+1.1. Trách nhiệm nộp hồ sơ khai lệ phí trước bạ và nơi nộp hồ sơ khai lệ phí trước bạ:
+
+Tổ chức, cá nhân có tài sản thuộc diện phải nộp lệ phí trước bạ có trách nhiệm kê khai và nộp hồ sơ khai lệ phí trước bạ cho cơ quan thuế.
+
+- Hồ sơ khai lệ phí trước bạ nhà đất được nộp cho chi cục thuế địa phương nơi có nhà, đất; Trường hợp nộp hồ sơ khai lệ phí trước bạ nhà đất theo cơ chế một cửa liên thông thì thực hiện theo quy định về cơ chế một cửa liên thông đó.
+
+- Hồ sơ khai lệ phí trước bạ của tài sản khác như phương tiện vận tải, súng... nộp tại chi cục thuế địa phương nơi đăng ký quyền sở hữu, sử dụng.
+
+1.2. Hồ sơ kê khai lệ phí trước bạ nhà, đất, gồm:
+
+- Tờ khai lệ phí trước bạ theo mẫu 01/LPTB ban hành kèm theo Thông tư này;
+
+- Giấy tờ chứng minh nhà, đất có nguồn gốc hợp pháp, như: hoá đơn kèm theo bản sao hợp đồng chuyển nhượng nhà, đất hoặc giấy tờ chuyển nhượng nhà, đất; hoặc quyết định giao đất của cơ quan nhà nước có thẩm quyền; giấy phép xây dựng của cơ quan nhà nước có thẩm quyền cấp...;
+
+- Các giấy tờ chứng minh tài sản (hoặc chủ tài sản) thuộc đối tượng không phải nộp lệ phí trước bạ hoặc được miễn lệ phí trước bạ (nếu có).
+
+1.3. Hồ sơ kê khai lệ phí trước bạ tàu thuyền, ôtô, xe máy, súng săn, súng thể thao (trừ tàu thuyền đánh cá, tàu thuyền vận tải thủy nội địa có trọng tải dưới 50 tấn hoặc dưới 20 ghế hành khách thiếu hồ sơ gốc nêu tại điểm 1.4 mục này), gồm:
+
+- Tờ khai lệ phí trước bạ theo mẫu số 02/LPTB ban hành kèm theo Thông tư này;
+
+- Giấy tờ xác minh tài sản có nguồn gốc hợp pháp, như: tờ khai hải quan hàng nhập khẩu có xác nhận của hải quan cửa khẩu (đối với tài sản trực tiếp nhập khẩu); hoặc giấy chứng nhận đăng ký tài sản do người giao tài sản bàn giao cho người nhận tài sản (đối với tài sản đã đăng ký quyền sở hữu);
+
+- Hoá đơn mua tài sản hợp pháp (đối với trường hợp mua bán, chuyển nhượng, trao đổi tài sản mà bên giao tài sản là tổ chức, cá nhân hoạt động sản xuất, kinh doanh); hoặc hoá đơn bán hàng tịch thu (đối với trường hợp mua hàng tịch thu); hoặc quyết định chuyển giao, chuyển nhượng, thanh lý tài sản (đối với trường hợp cơ quan hành chính sự nghiệp nhà nước, cơ quan tư pháp nhà nước, cơ quan hành chính sự nghiệp của các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp không hoạt động sản xuất, kinh doanh thực hiện chuyển giao tài sản cho tổ chức, cá nhân khác); hoặc giấy tờ chuyển giao tài sản được ký kết giữa bên giao tài sản và bên nhận tài sản có xác nhận của Công chứng nhà nước hoặc cơ quan nhà nước có thẩm quyền (đối với trường hợp chuyển giao tài sản giữa các cá nhân, thể nhân không hoạt động sản xuất, kinh doanh);
+
+- Các giấy tờ chứng minh tài sản hoặc chủ tài sản thuộc đối tượng không phải nộp lệ phí trước bạ hoặc được miễn lệ phí trước bạ (nếu có).
+
+1.4. Hồ sơ kê khai lệ phí trước bạ tàu thuyền đánh cá, tàu thuyền vận tải thủy nội địa có trọng tải dưới 50 tấn hoặc dưới 20 ghế hành khách, nếu thiếu hồ sơ gốc thì phải có:
+
+- Tờ khai lệ phí trước bạ theo mẫu số 02/LPTB ban hành kèm theo Thông tư này;
+
+- Phiếu báo hoặc xác nhận của cơ quan có thẩm quyền về việc tàu thuyền thuộc đối tượng được đăng ký sở hữu (nhằm bảo đảm quyền lợi cho người nộp lệ phí trước bạ trong trường hợp đã nộp lệ phí trước bạ mà không được cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận đăng ký quyền sở hữu, sử dụng).
+
+1.5. Chi cục thuế ra thông báo nộp lệ phí trước bạ trong thời hạn ba ngày làm việc (đối với nhà, đất) hoặc trong một ngày làm việc (đối với tàu thuyền, ôtô, xe máy, súng săn, súng thể thao) kể từ khi nhận đủ hồ sơ hợp lệ. Trường hợp hồ sơ không hợp lệ thì chi cục thuế trả lại hồ sơ cho Văn phòng đăng ký quyền sử dụng đất hoặc cơ quan tài nguyên và môi trường (đối với hồ sơ lệ phí trước bạ nhà, đất), hoặc cho người có tài sản (đối với hồ sơ trước bạ tài sản khác) theo thời hạn tại điểm này.
+
+Thông báo nộp lệ phí trước bạ đối với nhà, đất theo mẫu 01-1/LPTB ban hành kèm theo Thông tư này; Thông báo nộp lệ phí trước bạ của tài sản khác được ghi ngay trên Tờ khai nộp lệ phí trước bạ của tài sản đó.
+
+1.6. Thời hạn nộp lệ phí trước bạ chậm nhất là ba mươi ngày kể từ ngày người nộp thuế nhận được Thông báo nộp tiền.
+
+2. Khai phí xăng dầu:
+
+2.1. Người nộp phí xăng dầu thực hiện nộp hồ sơ khai phí xăng dầu với cơ quan thuế quản lý trực tiếp.
+
+2.2. Khai phí xăng dầu là loại khai theo tháng.
+
+2.3. Hồ sơ khai phí xăng dầu là Tờ khai phí xăng dầu theo mẫu số 01/PHXD ban hành kèm theo Thông tư này.
+
+3. Khai phí bảo vệ môi trường đối với trường hợp khai thác khoáng sản.
+
+3.1. Tổ chức, cá nhân khai thác khoáng sản phải nộp hồ sơ khai phí bảo vệ môi trường với cơ quan thuế quản lý trực tiếp. Trường hợp tổ chức thu mua gom khoáng sản đăng ký nộp thay người khai thác thì tổ chức đó có trách nhiệm nộp hồ sơ khai phí bảo vệ môi trường với chi cục thuế quản lý nơi có khoáng sản khai thác.
+
+3.2. Khai phí bảo vệ môi trường là loại khai theo tháng.
+
+3.3. Hồ sơ khai phí bảo vệ môi trường bao gồm:
+
+- Tờ khai phí bảo vệ môi trường áp dụng đối với cơ sở khai thác khoáng sản theo mẫu số 01/BVMT ban hành kèm theo Thông tư này;
+
+- Tờ khai phí bảo vệ môi trường áp dụng đối với cơ sở thu mua khoáng sản nộp phí thay người khai thác theo mẫu số 02/BVMT ban hành kèm theo Thông tư này.
+
+4. Khai phí, lệ phí khác thuộc Ngân sách Nhà nước:
+
+4.1. Cơ quan, tổ chức được giao nhiệm vụ thu phí, lệ phí thuộc Ngân sách Nhà nước nộp hồ sơ khai phí, lệ phí cho cơ quan thuế quản lý trực tiếp.
+
+4.2. Khai phí, lệ phí thuộc Ngân sách Nhà nước là loại khai theo tháng và khai quyết toán năm.
+
+4.3. Hồ sơ khai phí, lệ phí thuộc Ngân sách Nhà nước theo tháng là Tờ khai phí, lệ phí theo mẫu số 01/PHLP ban hành kèm theo Thông tư này.
+
+4.4. Hồ sơ khai quyết toán năm phí, lệ phí thuộc Ngân sách Nhà nước là Tờ khai quyết toán phí, lệ phí năm theo mẫu số 02/PHLP ban hành kèm theo Thông tư này.
+
+X. KHAI THUẾ GIÁ TRỊ GIA TĂNG, THUẾ THU NHẬP DOANH NGHIỆP
+
+CỦA TỔ CHỨC NƯỚC NGOÀI KHÔNG CÓ TƯ CÁCH PHÁP NHÂN VIỆT NAM VÀ CÁ
+
+NHÂN NƯỚC NGOÀI HÀNH NGHỀ ĐỘC LẬP KINH DOANH HOẶC CÓ THU NHẬP
+
+PHÁT SINH TẠI VIỆT NAM (SAU ĐÂY GỌI LÀ NHÀ THẦU NƯỚC NGOÀI);
+
+KHAI THUẾ KHẤU TRỪ VÀ NỘP THAY CHO CÁC HÃNG VẬN TẢI NƯỚC NGOÀI
+
+1. Trường hợp nhà thầu nước ngoài thực hiện chế độ kế toán Việt Nam:
+
+1.1. Nhà thầu nước ngoài thực hiện khai thuế giá trị gia tăng theo quy định tại mục II Phần này.
+
+1.2. Nhà thầu nước ngoài thực hiện khai thuế thu nhập doanh nghiệp theo quy định tại mục III Phần này. Trường hợp nhà thầu nước ngoài thuộc diện được miễn thuế, giảm thuế do áp dụng Hiệp định tránh đánh thuế hai lần giữa Việt Nam và nước/vùng lãnh thổ khác thì thực hiện thêm thủ tục sau:
+
+1.2.1. Đối với thu nhập từ hoạt động sản xuất kinh doanh:
+
+Khi tạm tính thuế thu nhập doanh nghiệp, người nộp thuế gửi hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định cho cơ quan thuế cùng Tờ khai thuế thu nhập doanh nghiệp quý theo mẫu số 01A/TNDN hoặc mẫu số 01B/TNDN ban hành kèm theo Thông tư này. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 03-6A/TNDN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy chứng nhận đăng ký thuế do nước cư trú cấp trong trường hợp là tổ chức hoặc cá nhân kinh doanh;
+
+- Bản sao hợp đồng ký kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài.
+
+Trường hợp năm trước đó người nộp thuế đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao hợp đồng ký kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài mới (nếu có).
+
+Khi khai quyết toán thuế thu nhập doanh nghiệp, người nộp thuế gửi Giấy chứng nhận cư trú của năm tính thuế đó và xác nhận về việc thực hiện hợp đồng của các bên ký kết hợp đồng cùng Tờ khai quyết toán thuế thu nhập doanh nghiệp theo mẫu số 03/TNDN ban hành kèm theo Thông tư này.
+
+1.2.2. Đối với thu nhập từ hoạt động ngành nghề độc lập:
+
+- Khi tạm tính thuế thu nhập doanh nghiệp, người nộp thuế gửi hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định cho cơ quan thuế cùng Tờ khai thuế thu nhập doanh nghiệp quý theo mẫu số 01/TNDN ban hành kèm theo Thông tư này. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 03-6B/TNDN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy phép hành nghề, giấy chứng nhận đăng ký thuế do nước cư trú cấp;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy phép hành nghề, do Việt Nam cấp đối với các ngành nghề pháp luật Việt Nam yêu cầu phải đăng kí kinh doanh hoặc có giấy phép hành nghề;
+
+- Bản sao hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam;
+
+- Bản sao hợp đồng cung cấp dịch vụ ngành nghề độc lập tại Việt Nam (nếu có).
+
+Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao hợp đồng cung cấp dịch vụ ngành nghề độc lập tại Việt Nam ký kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài mới (nếu có).
+
+2. Trường hợp nhà thầu nước ngoài không thực hiện chế độ kế toán Việt Nam:
+
+2.1. Bên Việt Nam ký hợp đồng với nhà thầu nước ngoài không thực hiện chế độ kế toán Việt Nam phải khấu trừ và nộp thuế thay cho nhà thầu nước ngoài và nộp hồ sơ khai thuế cho cơ quan thuế quản lý trực tiếp của bên Việt Nam.
+
+Đối với hợp đồng nhà thầu là hợp đồng xây dựng, lắp đặt thì nộp hồ sơ khai thuế cho cục thuế quản lý địa phương nơi diễn ra hoạt động xây dựng, lắp đặt.
+
+2.2. Khai thuế khấu trừ của nhà thầu nước ngoài là loại khai theo lần phát sinh thanh toán tiền cho nhà thầu nước ngoài và khai quyết toán khi kết thúc hợp đồng nhà thầu.
+
+Trường hợp bên Việt Nam thanh toán cho nhà thầu nước ngoài nhiều lần trong tháng thì có thể đăng ký khai thuế theo tháng thay cho việc khai theo từng lần phát sinh thanh toán tiền cho nhà thầu nước ngoài.
+
+2.3. Hồ sơ khai thuế khấu trừ của nhà thầu nước ngoài theo lần phát sinh thanh toán tiền cho nhà thầu nước ngoài hoặc theo tháng bao gồm:
+
+- Tờ khai thuế theo mẫu số 01/NTNN ban hành kèm theo Thông tư này;
+
+- Bản sao hợp đồng nhà thầu, hợp đồng nhà thầu phụ và bản tóm tắt hợp đồng bằng tiếng Việt Nam với những nội dung liên quan đến số thuế kê khai (đối với lần khai thuế đầu tiên của hợp đồng nhà thầu);
+
+- Bản sao giấy phép kinh doanh hoặc giấy phép hành nghề.
+
+Trường hợp nhà thầu nước ngoài thuộc diện được miễn thuế, giảm thuế do áp dụng Hiệp định tránh đánh thuế hai lần giữa Việt Nam và nước/ vùng lãnh thổ khác thì thực hiện thêm các thủ tục sau:
+
+2.3.1. Đối với thu nhập từ hành nghề độc lập:
+
+Mười lăm ngày trước khi thực hiện hợp đồng cung cấp dịch vụ ngành nghề độc lập tại Việt Nam (nếu có) với các tổ chức, cá nhân Việt Nam, nhà thầu nước ngoài gửi cho bên Việt Nam kí kết hợp đồng hoặc chi trả thu nhập Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 01-1A/NTNN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy phép hành nghề, giấy chứng nhận đăng ký thuế do nước cư trú cấp;
+
+- Bản sao hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam.
+
+Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao hợp đồng kinh tế mới kí kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài (nếu có).
+
+Mười lăm ngày trước khi kết thúc hợp đồng làm việc tại Việt Nam hoặc kết thúc năm tính thuế (tuỳ theo thời điểm nào diễn ra trước) nhà thầu nước ngoài gửi Giấy chứng nhận cư trú của năm tính thuế đó và bản sao hộ chiếu cho bên Việt Nam kí kết hợp đồng hoặc chi trả thu nhập.
+
+Trường hợp vào thời điểm trên vẫn chưa có được giấy xác nhận cư trú thì người nộp thuế có nghĩa vụ cam kết gửi Giấy chứng nhận cư trú trong vòng Quí 1 của năm tiếp theo.
+
+2.3.2. Đối với thu nhập từ vận tải hàng không:
+
+Mười lăm ngày trước khi được phép khai thác thị trường Việt Nam hoặc bắt đầu năm tính thuế (tuỳ theo thời điểm nào diễn ra trước), văn phòng tại Việt Nam của hãng hàng không nước ngoài gửi cho cơ quan thuế Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 01-1B/NTNN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định.
+
+- Bản sao giấy phép khai thác thị trường Việt Nam (phép bay) của Cục hàng không dân dụng cấp theo quy định của Luật Hàng không dân dụng.
+
+Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao giấy phép khai thác thị trường Việt Nam (phép bay) của Cục hàng không dân dụng mới (nếu có).
+
+Mười lăm ngày trước khi kết thúc hợp đồng làm việc tại Việt Nam hoặc kết thúc năm tính thuế (tuỳ theo thời điểm nào diễn ra trước) văn phòng tại Việt Nam của hãng hàng không nước ngoài gửi Giấy chứng nhận cư trú của năm tính thuế đó cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập và Bảng kê doanh thu bán vé tại thị trường Việt Nam của năm tính thuế liên quan làm căn cứ áp dụng miễn, giảm thuế TNDN từ hoạt động vận tải quốc tế của hãng hàng không nước ngoài.
+
+2.3.3. Đối với các loại thu nhập khác:
+
+Mười lăm ngày trước khi thực hiện hợp đồng với các tổ chức, cá nhân Việt Nam, nhà thầu nước ngoài gửi cho bên Việt Nam ký kết hợp đồng hoặc chi trả thu nhập Hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định mẫu số 01-1C/NTNN ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy chứng nhận đăng ký thuế do nước cư trú cấp trong trường hợp là tổ chức kinh doanh;
+
+- Bản sao hợp đồng ký kết với các tổ chức, cá nhân tại Việt Nam. Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định thì các năm tiếp theo chỉ cần thông báo các bản sao hợp đồng mới ký kết với các tổ chức, cá nhân tại Việt Nam và nước ngoài (nếu có).
+
+Mười lăm ngày trước khi kết thúc hợp đồng làm việc tại Việt Nam hoặc kết thúc năm tính thuế (tuỳ theo thời điểm nào diễn ra trước) nhà thầu nước ngoài gửi Giấy chứng nhận cư trú của năm tính thuế đó cho bên Việt Nam kí kết hợp đồng hoặc chi trả thu nhập.
+
+Trường hợp vào thời điểm trên vẫn chưa có được giấy xác nhận cư trú thì nhà thầu nước ngoài có nghĩa vụ cam kết gửi Giấy chứng nhận cư trú trong quý I của năm tiếp theo.
+
+2.4. Hồ sơ khai quyết toán thuế khấu trừ của nhà thầu nước ngoài bao gồm:
+
+- Tờ khai Quyết toán thuế nhà thầu theo mẫu số 02/NTNN ban hành kèm theo thông tư này;
+
+- Bảng kê các Nhà thầu nước ngoài, nhà thầu phụ tham gia thực hiện hợp đồng nhà thầu theo mẫu số 02-1/NTNN ban hành kèm theo thông tư này;
+
+- Bảng kê chứng từ nộp thuế theo các lần thanh toán;
+
+- Bản thanh lý hợp đồng nhà thầu.
+
+3. Trường hợp nhà thầu nước ngoài, nhà thầu phụ nước ngoài có cơ sở thường trú tại Việt Nam, thực hiện được chế độ hoá đơn, chứng từ phản ánh trên sổ kế toán đầy đủ về doanh thu hàng hoá và dịch vụ bán ra; giá trị hàng hoá và dịch vụ mua vào, thuế giá trị gia tăng đầu ra, thuế giá trị gia tăng đầu vào được khấu trừ, thuế giá trị gia tăng phải nộp thì nhà thầu nước ngoài, nhà thầu phụ nước ngoài thực hiện nộp thuế giá trị gia tăng theo phương pháp khấu trừ theo quy định tại khoản 1 mục này; nộp thuế thu nhập doanh nghiệp theo quy định tại khoản 2 mục này.
+
+4. Khai thuế khấu trừ và nộp thay cho các hãng vận tải nước ngoài (sau đây gọi là thuế cước):
+
+4.1. Tổ chức làm đại lý tàu biển hoặc đại lý giao nhận hàng hoá vận chuyển cho các hãng vận tải nước ngoài có trách nhiệm khấu trừ và nộp thuế cước thay cho các hãng vận tải nước ngoài.
+
+4.2. Hồ sơ khai thuế cước được nộp cho cơ quan thuế quản lý trực tiếp bên đại lý tàu biển hoặc đại lý giao nhận hàng hoá.
+
+4.3. Khai thuế cước là loại khai theo tháng.
+
+4.4. Hồ sơ khai thuế cước bao gồm:
+
+- Tờ khai thuế cước theo mẫu số 01/CUOC ban hành kèm theo Thông tư này;
+
+- Bảng kê thu nhập vận tải quốc tế áp dụng cho trường hợp doanh nghiệp trực tiếp điều hành phương tiện vận tải theo mẫu số 01-1A/CUOC, Bảng kê thu nhập vận tải quốc tế áp dụng cho trường hợp hoán đổi/ chia chỗ theo mẫu số 01-1B/CUOC, Bảng kê doanh thu lưu công-ten-nơ theo mẫu số 01-1C/CUOC ban hành kèm theo Thông tư này.
+
+Tại Tờ khai thuế cước của kỳ tính thuế đầu tiên của năm, hãng vận tải nước ngoài hoặc đại lý của hãng vận tải nước ngoài phải gửi cho cơ quan thuế hồ sơ thông báo thuộc diện miễn, giảm thuế theo Hiệp định. Hồ sơ gồm:
+
+- Thông báo thuộc diện miễn, giảm thuế theo Hiệp định theo mẫu số 01-2/CUOC ban hành kèm theo Thông tư này;
+
+- Bản gốc Giấy chứng nhận cư trú do cơ quan thuế của nước nơi hãng tàu nước ngoài cư trú cấp cho năm tính thuế ngay trước năm thông báo thuộc diện miễn, giảm thuế theo Hiệp định;
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy chứng nhận đăng ký thuế do nước cư trú cấp;
+
+- Tài liệu chứng minh doanh nghiệp điều hành trực tiếp tàu, là một trong các tài liệu sau:
+
++ Bản sao Giấy đăng ký sở hữu tàu;
+
++ Bản sao Hợp đồng thuê tàu (trường hợp doanh nghiệp đi thuê hoặc được trao quyền sử dụng);
+
++ Bản chính hoặc bản sao có xác nhận của cảng vụ Giấy phép khai thác tàu định tuyến;
+
++ Bản chính hoặc bản sao có xác nhận của cảng vụ giấy phép tàu vào cảng;
+
++ Bản chính giấy xác nhận của cảng vụ về các tàu của hãng vào cảng Việt Nam;
+
++ Các tài liệu khác.
+
+Trường hợp hãng tàu nước ngoài có các hoạt động liên danh, hoán đổi, cho thuê chỗ, cho thuê tàu trống... thì cần cung cấp thêm các chứng từ có liên quan (như hợp đồng liên danh cùng khai thác, điều hành phương tiện vận tải, hợp đồng hoán đổi chỗ, hợp đồng cho thuê tàu trống...).
+
+Kết thúc năm, hãng vận tải nước ngoài hoặc đại lý của hãng vận tải nước ngoài phải gửi cơ quan thuế Giấy chứng nhận cư trú của hãng tàu cho năm đó.
+
+Trường hợp năm trước đó đã thông báo thuộc diện miễn, giảm thuế theo Hiệp định, thì các năm tiếp theo hãng vận tải nước ngoài hoặc đại lý của hãng vận tải nước ngoài chỉ cần thông báo bất kỳ sự thay đổi nào về tình trạng kinh doanh như thay đổi về đăng ký kinh doanh, thay đổi về sở hữu hoặc điều hành phương tiện vận tải (nếu có)...và cung cấp các tài liệu tương ứng với việc thay đổi.
+
+Trường hợp các hãng vận tải nước ngoài có đại lý chính/trụ sở chính của đại lý và các đại lý phụ/chi nhánh tại nhiều địa phương ở Việt Nam, các đại lý/hãng vận tải nước ngoài nộp bản chính Giấy xác nhận cư trú và Giấy chứng nhận đăng ký thuế/đăng ký kinh doanh đã hợp pháp hoá lãnh sự cho cục thuế quản lý địa phương nơi hãng vận tải nước ngoài có đại lý chính/trụ sở chính của đại lý và bản sao (có dấu sao y của đại lý chính hoặc bản sao đã công chứng) tại các Cục thuế quản lý địa phương nơi hãng vận tải nước ngoài có đại lý phụ/chi nhánh và ghi rõ nơi đã nộp bản chính trong Thông báo thuộc diện miễn, giảm thuế theo Hiệp định.
+
+XI. KHAI THUẾ VÀ XÁC ĐỊNH SỐ THUẾ
+
+PHẢI NỘP THEO PHƯƠNG PHÁP KHOÁN
+
+1. Hộ kinh doanh, cá nhân kinh doanh hoặc khai thác tài nguyên nộp thuế theo phương pháp khoán (gọi chung là hộ nộp thuế khoán) bao gồm:
+
+1.1. Hộ kinh doanh, cá nhân kinh doanh không có đăng ký kinh doanh hoặc không phải đăng ký kinh doanh, không đăng ký thuế, đã được cơ quan thuế đôn đốc nhưng quá thời hạn theo thông báo đôn đốc của cơ quan thuế, hộ kinh doanh, cá nhân kinh doanh vẫn không thực hiện đăng ký thuế.
+
+1.2. Hộ kinh doanh, cá nhân kinh doanh không thực hiện chế độ kế toán hoá đơn, chứng từ.
+
+1.3. Hộ kinh doanh, cá nhân kinh doanh không thực hiện nộp tờ khai thuế theo quy định.
+
+1.4. Hộ kinh doanh, cá nhân kinh doanh có mở sổ sách kế toán, nhưng qua kiểm tra của cơ quan thuế thấy thực hiện không đúng chế độ kế toán, không thực hiện đúng và đầy đủ hoá đơn, chứng từ khi mua bán hàng hoá, dịch vụ, kê khai thuế không chính xác, trung thực; cơ quan thuế không thể căn cứ vào sổ sách kế toán, hoá đơn, chứng từ để xác định số thuế phải nộp phù hợp với thực tế kinh doanh.
+
+1.5. Hộ gia đình, cá nhân khai thác tài nguyên thủ công, phân tán, lưu động, không thường xuyên.
+
+2. Loại thuế, phí áp dụng theo phương pháp khoán bao gồm:
+
+2.1. Thuế tiêu thụ đặc biệt;
+
+2.2. Thuế tài nguyên;
+
+2.3. Thuế giá trị gia tăng;
+
+2.4. Thuế thu nhập doanh nghiệp;
+
+2.5. Phí bảo vệ môi trường đối với hoạt động khai thác khoáng sản.
+
+3. Hồ sơ khai thuế khoán được nộp cho chi cục thuế quản lý địa phương nơi có hoạt động kinh doanh hoặc khai thác tài nguyên.
+
+3.1. Hộ kinh doanh, cá nhân kinh doanh nộp thuế khoán khai theo mẫu Tờ khai số 01/THKH ban hành kèm theo Thông tư này.
+
+3.2. Hộ, cá nhân khai thác tài nguyên, khoáng sản nộp thuế khoán khai theo mẫu Tờ khai số 02/THKH ban hành kèm theo Thông tư này.
+
+4. Thời hạn nộp hồ sơ khai thuế khoán:
+
+4.1. Hộ nộp thuế khoán thực hiện khai thuế theo năm (một năm khai một lần). Thời hạn nộp hồ sơ khai thuế chậm nhất là ngày 30 của tháng 12 của năm trước.
+
+4.2. Trường hợp mới ra kinh doanh hoặc khai thác tài nguyên, khoáng sản thì thời hạn nộp hồ sơ khai thuế khoán chậm nhất là mười ngày kể từ ngày bắt đầu kinh doanh hoặc khai thác tài nguyên, khoáng sản.
+
+5. Xác định số thuế khoán phải nộp của hộ kinh doanh:
+
+Căn cứ tài liệu kê khai của người nộp thuế về doanh thu, thu nhập, sản lượng và giá bán tài nguyên khai thác, cơ sở dữ liệu của cơ quan thuế, chi cục thuế phối hợp với hội đồng tư vấn thuế xã, phường kiểm tra xác định tính đúng đắn, trung thực của hồ sơ khai thuế, tổ chức điều tra xác định lại doanh thu, thu nhập những trường hợp có nghi vấn khai không đúng để ấn định lại doanh thu kinh doanh, sản lượng và giá bán tài nguyên khai thác. Để đảm bảo việc xác định thuế được công bằng, trước khi thông báo số thuế phải nộp của từng hộ, cá nhân, chi cục thuế phải công khai dự kiến doanh thu, số thuế phải nộp của từng hộ, cá nhân nộp thuế theo phương pháp khoán để lấy ý kiến các hộ kinh doanh, cá nhân kinh doanh hoặc khai thác tài nguyên; sau đó tham khảo ý kiến hội đồng tư vấn thuế xã, phường để xác định và thông báo cho hộ, cá nhân nộp thuế biết và thực hiện.
+
+Số thuế khoán được xác định cho từng tháng và ổn định khoán trong một năm, trừ trường hợp hộ nộp thuế khoán có thay đổi ngành nghề, quy mô kinh doanh hoặc quy mô khai thác tài nguyên, khoáng sản.
+
+Trường hợp trong tháng, hộ kinh doanh, cá nhân kinh doanh nghỉ kinh doanh cả tháng thì được miễn số thuế phải nộp của tháng đó. Trường hợp trong tháng, hộ kinh doanh, cá nhân kinh doanh nghỉ kinh doanh từ mười lăm ngày trở lên thì được xét giảm 50% số thuế phải nộp của tháng.
+
+6. Thời hạn thông báo thuế và thời hạn nộp thuế:
+
+Cơ quan thuế gửi Thông báo nộp thuế khoán theo mẫu số 03/THKH ban hành kèm theo Thông tư này tới hộ nộp thuế khoán chậm nhất là ngày 20 tháng 1. Thông báo một lần áp dụng cho các tháng nộp thuế ổn định trong năm.
+
+Căn cứ vào Thông báo nộp thuế khoán, hộ nộp thuế nộp tiền thuế hàng tháng chậm nhất là ngày cuối cùng của tháng. Trường hợp hộ nộp thuế khoán lựa chọn nộp thuế theo quý thì thời hạn nộp thuế cho cả quý là ngày cuối cùng của tháng đầu quý.
+
+Đối với thuế tài nguyên, cơ quan thuế có thể thông báo nộp thuế theo mùa vụ; cơ quan thuế phải ghi rõ thời hạn nộp thuế trên thông báo thuế và gửi đến hộ nộp thuế khoán tối thiểu là mười ngày trước ngày cuối cùng của thời hạn nộp thuế.
+
+
+
+7. Trường hợp hộ nộp thuế khoán có thay đổi ngành nghề, quy mô kinh doanh hoặc quy mô, sản lượng khai thác tài nguyên khoáng sản thì phải kê khai bổ sung với cơ quan thuế kể từ tháng phát sinh thay đổi quy mô, để cơ quan thuế xác định số thuế khoán cho phù hợp với thực tế phát sinh nghĩa vụ thuế của người nộp thuế.
+
+Hồ sơ khai lại là Tờ khai theo mẫu số 01/THKH hoặc Tờ khai theo mẫu số 02/THKH ban hành kèm theo Thông tư này.
+
+Cơ quan thuế xác định lại số thuế khoán phải nộp cho các tháng có thay đổi về ngành nghề, quy mô kinh doanh hoặc thay đổi về quy mô, sản lượng khai thác tài nguyên khoáng sản và thông báo số thuế khoán phải nộp cho người nộp thuế biết.
+
+Trường hợp hộ kinh doanh không khai báo sự thay đổi về ngành nghề, quy mô kinh doanh với cơ quan thuế hoặc khai báo không trung thực, hoặc cơ quan thuế có tài liệu chứng minh có sự thay đổi về quy mô của hộ kinh doanh dẫn đến tăng doanh số thì cơ quan thuế có quyền ấn định mức thuế phải nộp cho phù hợp với tình hình kinh doanh.
+
+XII. ẤN ĐỊNH THUẾ ĐỐI VỚI TRƯỜNG HỢP NGƯỜI NỘP THUẾ NỘP
+
+THUẾ THEO PHƯƠNG PHÁP KÊ KHAI VI PHẠM PHÁP LUẬT THUẾ
+
+1. Ấn định số thuế phải nộp:
+
+Người nộp thuế nộp thuế theo phương pháp kê khai bị ấn định số thuế phải nộp trong các trường hợp sau:
+
+1.1. Không đăng ký thuế theo quy định tại Điều 22 của Luật Quản lý thuế.
+
+1.2. Người nộp thuế không thuộc đối tượng được gia hạn nộp hồ sơ khai thuế theo quy định tại khoản 1 Điều 33 Luật Quản lý thuế không nộp hồ sơ khai thuế trong thời hạn quy định.
+
+1.3. Người nộp thuế đã nộp hồ sơ khai thuế, nhưng qua kiểm tra của cơ quan thuế thấy hồ sơ khai thuế không đầy đủ, không chính xác, đã yêu cầu khai, nộp bổ sung hồ sơ khai thuế nhưng người nộp thuế không khai, nộp bổ sung, cơ quan thuế không thể căn cứ vào từng yếu tố của hồ sơ khai thuế để xác định số thuế phải nộp theo hồ sơ khai thuế là đúng.
+
+1.4. Đã hết thời hạn kiểm tra, thanh tra nhưng người nộp thuế không xuất trình tài liệu kế toán, hóa đơn, chứng từ và các tài liệu liên quan đến việc xác định các yếu tố làm căn cứ tính thuế phải nộp.
+
+1.5. Người nộp thuế từ chối hoặc tìm cách trì hoãn để không chấp hành quyết định kiểm tra thuế, thanh tra thuế.
+
+1.6. Qua kiểm tra, thanh tra thuế có căn cứ chứng minh người nộp thuế không hạch toán kế toán hoặc có hạch toán kế toán nhưng số liệu trên sổ kế toán không đầy đủ, không chính xác, trung thực dẫn đến không xác định đúng các yếu tố làm căn cứ tính số thuế phải nộp.
+
+1.7. Có dấu hiệu bỏ trốn hoặc phát tán tài sản để không thực hiện nghĩa vụ thuế.
+
+2. Ấn định từng yếu tố liên quan đến việc xác định số thuế phải nộp:
+
+Người nộp thuế theo phương pháp kê khai bị ấn định từng yếu tố liên quan đến việc xác định số thuế phải nộp trong các trường hợp sau:
+
+2.1. Trường hợp kiểm tra thuế, thanh tra thuế có căn cứ chứng minh người nộp thuế hạch toán kế toán không đúng quy định, số liệu trên sổ kế toán không đầy đủ, không chính xác, trung thực dẫn đến không xác định đúng các yếu tố làm căn cứ tính số thuế phải nộp trừ trường hợp bị ấn định số thuế phải nộp.
+
+2.2. Qua kiểm tra hàng hoá mua vào, bán ra thấy người nộp thuế hạch toán giá trị hàng hoá mua vào, bán ra không theo giá giao dịch thông thường trên thị trường.
+
+Giá giao dịch thông thường trên thị trường là giá giao dịch theo thỏa thuận khách quan giữa các bên không có quan hệ liên kết.
+
+Cơ quan thuế có thể tham khảo giá hàng hoá, dịch vụ do cơ quan quản lý nhà nước công bố cùng thời điểm, hoặc giá mua, giá bán của các doanh nghiệp kinh doanh cùng ngành nghề, cùng mặt hàng hoặc giá bán của doanh nghiệp kinh doanh cùng mặt hàng có qui mô kinh doanh và số khách hàng lớn tại địa phương để xác định giá giao dịch thông thường làm căn cứ ấn định giá bán, giá mua và số thuế phải nộp.
+
+3. Căn cứ ấn định thuế:
+
+Cơ quan thuế ấn định thuế đối với người nộp thuế theo kê khai có vi phạm pháp luật thuế dựa vào một hoặc đồng thời các căn cứ sau:
+
+3.1. Cơ sở dữ liệu của cơ quan thuế thu thập từ:
+
+- Người nộp thuế khai báo với cơ quan thuế về doanh thu, chi phí, thu nhập, số thuế phải nộp trong các kỳ khai thuế trước.
+
+- Tổ chức, cá nhân có liên quan đến người nộp thuế.
+
+- Các cơ quan quản lý Nhà nước khác.
+
+3.2. Tham khảo, đối chiếu số thuế phải nộp của cơ sở kinh doanh cùng ngành nghề, cùng mặt hàng, cùng quy mô tại địa phương. Trường hợp không có cơ sở kinh doanh cùng ngành nghề, cùng mặt hàng, cùng quy mô thì so sánh với số thuế phải nộp bình quân của một số cơ sở kinh doanh cùng ngành nghề, cùng mặt hàng tại địa phương.
+
+4. Khi ấn định thuế, cơ quan thuế phải gửi Quyết định ấn định thuế cho người nộp thuế theo mẫu số 01/AĐTH ban hành kèm theo Thông tư này. Quyết định ấn định thuế bao gồm những nội dung chủ yếu sau đây:
+
+- Lý do của việc ấn định (nêu cụ thể hành vi vi phạm);
+
+- Căn cứ ấn định thuế;
+
+- Số thuế cơ quan thuế ấn định;
+
+- Số thuế mà người nộp thuế phải nộp thêm (bằng số thuế ấn định trừ số thuế người nộp thuế đã tự khai);
+
+- Thời hạn người nộp thuế có quyền khiếu nại kể từ ngày cơ quan thuế ra thông báo ấn định thuế;
+
+- Thời hạn nộp thuế.
+
+Thời hạn nộp thuế là mười ngày kể từ ngày cơ quan thuế ra Quyết định ấn định thuế. Trường hợp cơ quan thuế ấn định thuế với số tiền thuế ấn định từ năm trăm triệu đồng trở lên, thời hạn nộp thuế là ba mươi ngày kể từ ngày cơ quan thuế ra quyết định ấn định thuế.
+
+Trường hợp sau khi cơ quan thuế ra quyết định ấn định thuế, người nộp thuế nộp hồ sơ khai thuế của kỳ khai thuế hoặc lần khai thuế đã bị ấn định thuế thì người nộp thuế vẫn thực hiện nộp thuế theo quyết định ấn định thuế của cơ quan thuế.
+
+Số thuế đã khai trong hồ sơ khai thuế nộp chậm sẽ được cơ quan thuế ghi nhận là số phát sinh của kỳ khai thuế hoặc lần khai thuế đó để làm cơ sở xác định việc thực hiện nghĩa vụ nộp thuế của người nộp thuế, trừ trường hợp cơ quan thuế không chấp nhận số đã kê khai thì cơ quan thuế sẽ có văn bản thông báo cho người nộp thuế biết.
+
+Phần C
+
+NỘP THUẾ
+
+I. THỜI HẠN NỘP THUẾ
+
+1. Người nộp thuế có nghĩa vụ nộp thuế đầy đủ, đúng thời hạn vào ngân sách Nhà nước.
+
+2. Trường hợp người nộp thuế tính thuế, thời hạn nộp thuế chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế.
+
+3. Trường hợp cơ quan thuế tính thuế hoặc ấn định thuế, thời hạn nộp thuế là thời hạn ghi trên thông báo của cơ quan thuế.
+
+II. ĐỒNG TIỀN NỘP THUẾ
+
+1. Đồng tiền nộp thuế là đồng Việt Nam.
+
+2. Trường hợp nộp thuế bằng ngoại tệ:
+
+2.1. Người nộp thuế chỉ được nộp thuế bằng các loại ngoại tệ tự do chuyển đổi theo quy định của Ngân hàng Nhà nước.
+
+2.2. Số ngoại tệ nộp thuế được quy đổi sang đồng Việt Nam theo tỷ giá ngoại tệ do Ngân hàng Nhà nước công bố có hiệu lực tại thời điểm tiền thuế được nộp vào Kho bạc Nhà nước.
+
+2.3. Việc quản lý ngoại tệ nộp thuế thực hiện theo quy định của Bộ Tài chính.
+
+III. ĐỊA ĐIỂM VÀ THỦ TỤC NỘP THUẾ
+
+1. Người nộp thuế thực hiện nộp tiền thuế vào ngân sách nhà nước:
+
+1.1. Tại Kho bạc Nhà nước;
+
+1.2. Tại cơ quan thuế nơi tiếp nhận hồ sơ khai thuế;
+
+1.3. Thông qua tổ chức, cá nhân được cơ quan thuế uỷ nhiệm thu thuế;
+
+1.4. Thông qua ngân hàng thương mại, tổ chức tín dụng khác và tổ chức dịch vụ theo quy định của pháp luật.
+
+Kho bạc Nhà nước, cơ quan thuế, tổ chức được uỷ nhiệm thu có trách nhiệm bố trí địa điểm, phương tiện, cán bộ thu tiền thuế, bảo đảm cho người nộp thuế nộp tiền thuế vào Ngân sách Nhà nước thuận lợi và kịp thời.
+
+2. Thủ tục nộp thuế:
+
+2.1. Người nộp thuế có thể nộp thuế bằng tiền mặt hoặc chuyển khoản.
+
+Cơ quan thuế cấp chứng từ và hướng dẫn cách lập chứng từ nộp tiền vào Ngân sách Nhà nước cho người nộp thuế đối với từng hình thức nộp tiền mặt hoặc chuyển khoản. Người nộp thuế phải ghi đầy đủ, chi tiết các thông tin trên chứng từ nộp tiền thuế do Bộ Tài chính quy định.
+
+2.2. Trường hợp người nộp thuế nộp bằng tiền mặt:
+
+- Trường hợp người nộp thuế đến nộp tiền trực tiếp tại Kho bạc Nhà nước, Kho bạc Nhà nước phải xác nhận trên chứng từ nộp thuế về số thuế đã thu.
+
+- Trường hợp người nộp thuế nộp bằng tiền mặt tại cơ quan thuế, ngân hàng, tổ chức tín dụng hoặc tổ chức, cá nhân được cơ quan thuế uỷ nhiệm thu thuế: các tổ chức, cá nhân khi nhận tiền thuế phải cấp cho người nộp thuế chứng từ thu tiền thuế theo đúng quy định của Bộ Tài chính.
+
+2.3. Trường hợp nộp thuế bằng chuyển khoản: Ngân hàng, tổ chức tín dụng thực hiện trích chuyển tiền từ tài khoản của người nộp thuế vào tài khoản của Kho bạc Nhà nước phải xác nhận trên chứng từ nộp tiền thuế của người nộp thuế. Ngân hàng, tổ chức tín dụng phải phản ánh đầy đủ các nội dung của chứng từ nộp tiền thuế trên chứng từ phục hồi gửi Kho bạc Nhà nước nơi thu Ngân sách Nhà nước.
+
+3. Trường hợp thực hiện biện pháp cưỡng chế thuế:
+
+3.1. Thực hiện bằng hình thức trích chuyển tài khoản: căn cứ vào Quyết định cưỡng chế thi hành quyết định hành chính thuế, Kho bạc Nhà nước, ngân hàng, tổ chức tín dụng nơi tổ chức, cá nhân mở tài khoản có trách nhiệm trích chuyển tiền từ tài khoản của đối tượng bị cưỡng chế để nộp Ngân sách Nhà nước.
+
+3.2. Thực hiện bằng hình thức kê biên tài sản, bán tài sản của người bị cưỡng chế để thu đủ tiền thuế, tiền phạt thì cơ quan thực hiện cưỡng chế phải thực hiện các thủ tục kê biên, bán tài sản theo quy định để thu đủ tiền thuế, tiền phạt nộp tiền vào Ngân sách Nhà nước.
+
+4. Trong thời hạn tám giờ làm việc kể từ khi đã nhận tiền thuế của người nộp thuế, cơ quan, tổ chức nhận tiền thuế phải chuyển tiền vào Ngân sách Nhà nước.
+
+Trường hợp thu thuế bằng tiền mặt tại miền núi, vùng sâu, vùng xa, hải đảo, vùng đi lại khó khăn, thời hạn chuyển tiền thu thuế vào Ngân sách Nhà nước chậm nhất không quá năm ngày làm việc, kể từ ngày thu được tiền thuế.
+
+5. Trường hợp nộp thuế bằng hình thức chuyển khoản, khi Ngân hàng, tổ chức tín dụng chuyển tiền từ tài khoản của người nộp thuế vào Ngân sách Nhà nước bằng chứng từ phục hồi gửi Kho bạc Nhà nước, trên chứng từ phục hồi phải phản ánh đầy đủ các nội dung ghi trên giấy nộp tiền.
+
+6. Bộ Tài chính có hướng dẫn riêng đối với hình thức nộp thuế thông qua tổ chức dịch vụ khác theo quy định của pháp luật.
+
+IV. THỨ TỰ THANH TOÁN TIỀN THUẾ, TIỀN PHẠT
+
+1. Trường hợp người nộp thuế vừa có số tiền thuế nợ, tiền thuế truy thu, tiền thuế phát sinh, tiền phạt thì người nộp thuế phải ghi rõ trên chứng từ nộp tiền thuế, tiền phạt theo trình tự sau đây: tiền thuế nợ, tiền thuế truy thu, tiền thuế phát sinh, tiền phạt.
+
+Trong mỗi một loại tiền thuế, tiền phạt, thứ tự thanh toán được thực hiện theo thứ tự thời gian phát sinh của khoản tiền thuế, tiền phạt, khoản phát sinh trước, thanh toán trước.
+
+Cơ quan thuế hướng dẫn và yêu cầu người nộp thuế nộp tiền theo đúng trình tự trên đây. Khi nộp thuế, Kho bạc Nhà nước căn cứ chứng từ nộp tiền thuế để hạch toán thu Ngân sách Nhà nước và thông báo cho cơ quan thuế. Trường hợp người nộp thuế nộp tiền không đúng trình tự trên thì cơ quan thuế lập lệnh điều chỉnh khoản thuế đã thu, gửi Kho bạc Nhà nước để điều chỉnh, đồng thời thông báo cho người nộp thuế biết về số tiền thuế, tiền phạt được điều chỉnh.
+
+Trường hợp người nộp thuế không ghi cụ thể trên chứng từ nộp tiền số tiền nộp cho từng khoản thì cơ quan thuế hạch toán số tiền thuế đã thu theo thứ tự thanh toán nêu trên, đồng thời thông báo cho Kho bạc Nhà nước biết để hạch toán thu Ngân sách Nhà nước và thông báo cho người nộp thuế biết theo mẫu số 01/NOPT ban hành kèm theo Thông tư này.
+
+2. Các khoản tiền thuế đều phải nộp vào Ngân sách Nhà nước. Kho bạc Nhà nước ghi thu Ngân sách Nhà nước và luân chuyển chứng từ, thông tin chi tiết các khoản nộp cho cơ quan thuế biết để theo dõi và quản lý.
+
+Các khoản tiền truy thu thuế, phạt chậm nộp tiền thuế, phạt trốn thuế, gian lận thuế và phạt vi phạm thủ tục hành chính thuế được nộp vào tài khoản tạm giữ của cơ quan thuế mở tại Kho bạc Nhà nước. Cơ quan thuế chuyển tiền từ tài khoản tạm giữ vào Ngân sách Nhà nước theo các quyết định đã hết thời hiệu khiếu nại.
+
+V. XÁC ĐỊNH NGÀY ĐÃ NỘP THUẾ
+
+Ngày đã nộp thuế được xác định là ngày:
+
+1. Kho bạc Nhà nước, ngân hàng, tổ chức tín dụng xác nhận trên Giấy nộp tiền vào Ngân sách Nhà nước bằng chuyển khoản trong trường hợp nộp thuế bằng chuyển khoản.
+
+2. Kho bạc Nhà nước, cơ quan thuế hoặc tổ chức, cá nhân được uỷ nhiệm thu thuế xác nhận việc thu tiền trên chứng từ thu thuế bằng tiền mặt.
+
+VI. GIA HẠN NỘP THUẾ
+
+1. Trường hợp được gia hạn nộp thuế:
+
+Người nộp thuế được gia hạn nộp thuế, nộp phạt đối với số tiền thuế, tiền phạt còn nợ nếu không có khả năng nộp thuế đúng hạn trong các trường hợp sau đây:
+
+1.1. Bị thiên tai, hoả hoạn, tai nạn bất ngờ làm thiệt hại vật chất và không có khả năng nộp thuế đúng hạn;
+
+1.2. Di chuyển địa điểm kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà phải ngừng hoạt động hoặc giảm sản xuất, kinh doanh, tăng chi phí đầu tư ở nơi sản xuất, kinh doanh mới;
+
+1.3. Do chính sách của nhà nước thay đổi làm ảnh hưởng trực tiếp đến kết quả sản xuất kinh doanh của người nộp thuế.
+
+1.4. Gặp khó khăn đặc biệt khác do Thủ tướng Chính phủ quyết định theo đề nghị của Bộ trưởng Bộ Tài chính.
+
+2. Phạm vi số tiền thuế, tiền phạt được gia hạn nộp:
+
+2.1. Người nộp thuế gặp khó khăn theo quy định tại điểm 1.1 mục này thì được gia hạn một phần hoặc toàn bộ số tiền thuế, tiền phạt còn nợ tính đến thời điểm xảy ra thiên tai, hoả hoạn, tai nạn bất ngờ.
+
+2.2. Người nộp thuế gặp khó khăn theo quy định tại điểm 1.2, điểm 1.3 và điểm 1.4 mục này thì được gia hạn một phần hoặc toàn bộ số tiền thuế, tiền phạt phát sinh do các nguyên nhân nêu tại các điểm đó.
+
+3. Thời gian gia hạn nộp thuế:
+
+3.1. Thời gian gia hạn nộp thuế tối đa không quá hai năm kể từ ngày hết thời hạn nộp thuế đối với trường hợp theo quy định tại điểm 1.1 mục này.
+
+- Nếu tài sản của người nộp thuế thiệt hại đến 50% thì gia hạn nộp tiền thuế, tiền phạt tương ứng với tỷ lệ thiệt hại trong thời hạn một năm.
+
+- Nếu tài sản của người nộp thuế thiệt hại trên 50% đến 70% thì gia hạn nộp toàn bộ số tiền thuế, tiền phạt trong thời hạn một năm.
+
+- Nếu tài sản của người nộp thuế thiệt hại trên 70% thì gia hạn nộp thuế toàn bộ số tiền thuế, tiền phạt phải nộp trong thời hạn hai năm.
+
+3.2. Thời gian gia hạn nộp thuế tối đa không quá một năm kể từ ngày hết thời hạn nộp thuế đối với trường hợp theo quy định tại điểm 1.2, điểm 1.3 và điểm 1.4 mục này.
+
+4. Thủ tục gia hạn nộp thuế:
+
+4.1. Để được gia hạn nộp thuế theo quy định tại mục này, người nộp thuế phải gửi hồ sơ đề nghị gia hạn nộp tiền thuế, tiền phạt tới cơ quan thuế quản lý trực tiếp. Hồ sơ bao gồm:
+
+- Văn bản đề nghị gia hạn nộp tiền thuế, tiền phạt theo mẫu số 02/NOPT ban hành kèm theo Thông tư này, trong đó nêu rõ lý do đề nghị gia hạn nộp thuế, số tiền thuế, tiền phạt đề nghị gia hạn, thời hạn đề nghị gia hạn, kế hoạch và cam kết việc nộp số tiền thuế, tiền phạt;
+
+- Tài liệu chứng minh lý do đề nghị gia hạn nộp thuế.
+
++ Đối với trường hợp bị thiên tai, hoả hoạn, tai nạn bất ngờ thì phải có: Biên bản xác định mức độ, giá trị thiệt hại về tài sản của cơ quan có thẩm quyền như Hội đồng định giá do Sở Tài thành lập, hoặc các công ty định giá chuyên nghiệp cung cấp dịch vụ định giá theo hợp đồng, hoặc Trung tâm định giá của Sở tài chính; văn bản xác nhận của chính quyền cấp xã nơi xảy ra sự việc thiên tai, hoả hoạn, tai nạn bất ngờ.
+
++ Đối với trường hợp di chuyển địa điểm kinh theo yêu cầu của cơ quan nhà nước có thẩm quyền thì phải có Quyết định của cơ quan nhà nước có thẩm quyền về việc di chuyển địa điểm kinh doanh của doanh nghiệp.
+
+4.2. Trong thời hạn mười ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ đề nghị gia hạn nộp thuế của người nộp thuế, cơ quan thuế quản lý trực tiếp có trách nhiệm kiểm tra hồ sơ và thực tế khó khăn của người nộp thuế để ra văn bản chấp thuận hay không chấp thuận việc gia hạn nộp thuế.
+
+Văn bản chấp nhận đề nghị gia hạn nộp thuế theo mẫu số 03/NOPT ban hành kèm theo Thông tư này.
+
+Văn bản không chấp nhận đề nghị gia hạn nộp thuế theo mẫu số 04/NOPT ban hành kèm theo Thông tư này.
+
+Trường hợp hồ sơ gia hạn nộp thuế chưa đầy đủ theo quy định, trong thời hạn ba ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan quản lý thuế phải thông báo bằng văn bản cho người nộp thuế hoàn chỉnh hồ sơ. Người nộp thuế phải hoàn chỉnh hồ sơ trong thời hạn năm ngày làm việc, kể từ ngày nhận được thông báo bổ sung hồ sơ của cơ quan quản lý thuế; nếu người nộp thuế không hoàn chỉnh hồ sơ theo yêu cầu của cơ quan quản lý thuế thì không được gia hạn nộp thuế.
+
+4.3. Đối với trường hợp đề nghị gia hạn nộp tiền thuế, tiền phạt quy định tại điểm 1.4 mục này, cơ quan thuế quản lý trực tiếp tiếp nhận hồ sơ xin gia hạn của người nộp thuế, sau đó chuyển hồ sơ xin gia hạn lên cơ quan thuế cấp trên để trình Bộ Tài chính trình Thủ tướng Chính phủ.
+
+5. Trong thời gian được gia hạn nộp thuế, người nộp thuế không bị phạt hành chính về hành vi chậm nộp tiền thuế đối với số thuế được gia hạn. Khi hết thời gian gia hạn nộp thuế, người nộp thuế phải nộp thuế vào Ngân sách Nhà nước theo quy định; nếu không nộp thuế thì người nộp thuế sẽ bị xử phạt hành chính đối vi hành vi vi phạm pháp luật thuế hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
+VII. XỬ LÝ SỐ TIỀN THUẾ NỘP THỪA
+
+1. Tiền thuế được coi là nộp thừa khi:
+
+1.1. Người nộp thuế có số tiền thuế đã nộp lớn hơn số tiền thuế phải nộp.
+
+1.2. Người nộp thuế có số tiền thuế được hoàn theo quy định của pháp luật về thuế giá trị gia tăng, thuế tiêu thụ đặc biệt, thuế thu nhập đối với người có thu nhập cao, phí xăng dầu.
+
+2. Người nộp thuế có quyền giải quyết số tiền thuế nộp thừa theo các cách sau:
+
+2.1. Bù trừ số tiền thuế nộp thừa với số tiền thuế, tiền phạt còn nợ, kể cả bù trừ giữa các loại thuế với nhau.
+
+2.2. Trừ vào số tiền thuế phải nộp của lần nộp tiếp theo.
+
+2.3. Hoàn trả khi người nộp thuế không còn nợ tiền thuế, tiền phạt.
+
+Trường hợp tiền thuế nộp thừa được để lại trừ vào số tiền thuế phải nộp của lần tiếp theo trong cùng một loại thuế thì được thực hiện tự động trong hệ thống quản lý của cơ quan thuế, người nộp thuế không phải làm thủ tục bù trừ.
+
+Trường hợp bù trừ giữa các loại tiền thuế, tiền phạt khác nhau hoặc hoàn thuế thì người nộp thuế phải thực hiện theo thủ tục hoàn thuế, bù trừ thuế theo quy định tại Phần G của Thông tư này. Khi bù trừ thuế, cơ quan thuế ra quyết định hoàn thuế và lệnh thu thuế cho các khoản tiền thuế, tiền phạt theo thứ tự quy định tại khoản 1 mục IV Phần này.
+
+Phần D
+
+UỶ NHIỆM THU THUẾ
+
+I. THẨM QUYỀN VÀ PHẠM VI UỶ NHIỆM THU THUẾ
+
+1. Cơ quan thuế uỷ nhiệm cho tổ chức, cá nhân thực hiện thu một số khoản thuế thuộc phạm vi quản lý của cơ quan thuế sau đây:
+
+- Thuế sử dụng đất nông nghiệp;
+
+- Thuế nhà đất;
+
+- Thuế đối với hộ kinh doanh nộp thuế theo phương pháp khoán;
+
+- Thuế thu nhập đối với người có thu nhập cao.
+
+Đối với các loại thuế khác, nếu cơ quan thuế uỷ nhiệm cho tổ chức, cá nhân khác thu thì phải được sự đồng ý của Bộ trưởng Bộ Tài chính.
+
+2. Việc ủy nhiệm thu thuế phải được thực hiện thông qua hợp đồng giữa thủ trưởng cơ quan quản lý thuế với đại diện hợp pháp của cơ quan, tổ chức hoặc trực tiếp với cá nhân được ủy nhiệm thu thuế.
+
+3. Hợp đồng uỷ nhiệm thu thuế được lập theo mẫu số 01/UNTH ban hành kèm theo Thông tư này và phải đảm bảo có các nội dung về:
+
+- Loại thuế được uỷ quyền thu;
+
+- Địa bàn được uỷ nhiệm thu;
+
+- Phạm vi công việc được uỷ nhiệm như: Hướng dẫn người nộp thuế khai thuế; đôn đốc người nộp thuế nộp tờ khai thuế, nộp thuế; thu tờ khai thuế, thu thuế từ người nộp thuế và nộp tờ khai thuế cho cơ quan thuế; nộp tiền thuế vào Ngân sách Nhà nước; rà soát và báo cáo các trường hợp thuộc diện khai thuế, nộp thuế mà không chấp hành; cung cấp thông tin về tình hình phát sinh mới hoặc thay đổi thông tin về người nộp thuế trên địa bàn được uỷ nhiệm thu; thu tiền thuế từ người nộp thuế và nộp vào tài khoản thu Ngân sách Nhà nước.
+
+- Quyền hạn và trách nhiệm của bên uỷ nhiệm và bên được uỷ nhiệm;
+
+- Chế độ báo cáo tình hình thực hiện hợp đồng; chế độ thanh toán biên lai, ấn chỉ thu thuế, kinh phí uỷ nhiệm thu;
+
+- Thời hạn uỷ nhiệm thu. Khi hết thời hạn uỷ nhiệm thu hai bên phải thực hiện thanh lý hợp đồng uỷ nhiệm thu và lập biên bản thanh lý theo mẫu số 02/UNTH ban hành kèm theo Thông tư này.
+
+II. TRÁCH NHIỆM CỦA BÊN ĐƯỢC UỶ NHIỆM THU
+
+Bên được uỷ nhiệm thu thuế có trách nhiệm thực hiện hợp đồng uỷ nhiệm thu đã ký kết với cơ quan thuế. Bên được ủy nhiệm thu thuế không được quyền uỷ nhiệm lại cho bất cứ bên thứ ba nào việc thực hiện hợp đồng uỷ nhiệm thu đã ký với cơ quan thuế. Đối với một số nội dung cụ thể của hợp đồng uỷ nhiệm thu, thực hiện theo hướng dẫn sau:
+
+1. Trường hợp phải thu tờ khai thuế từ người nộp thuế:
+
+Bên uỷ nhiệm thu có trách nhiệm giải thích, hướng dẫn người nộp thuế về các quy định của pháp luật thuế, trách nhiệm đăng ký thuế, khai thuế, nộp thuế; cung cấp mẫu tờ khai thuế và hướng dẫn cách kê khai thuế; đôn đốc người nộp thuế khai thuế và thu tờ khai thuế từ người nộp thuế để nộp cho cơ quan thuế theo đúng thời hạn quy định.
+
+2. Gửi thông báo nộp thuế và đôn đốc người nộp thuế thực hiện nộp thuế:
+
+Bên được uỷ nhiệm thu khi nhận thông báo nộp thuế phải thực hiện đối chiếu với sổ bộ thuế, nếu thông báo nộp thuế không đúng, không đủ so với sổ bộ thuế thì phản ảnh kịp thời để cơ quan thuế phát hành lại thông báo nộp thuế cho đúng với sổ bộ thuế.
+
+Bên được ủy nhiệm thu phải gửi thông báo nộp thuế cho người nộp thuế trước ngày cuối cùng của thời hạn nộp thuế ghi trên thông báo thuế ít nhất là năm ngày. Khi gửi thông báo nộp thuế cho người nộp thuế, bên được uỷ nhiệm thu phải yêu cầu người nhận thông báo ký xác nhận, đôn đốc người nộp thuế nộp thuế đúng thời hạn.
+
+Đối với trường hợp uỷ nhiệm thu thuế thu nhập đối với người có thu nhập cao thì không phải gửi thông báo nộp thuế, bên uỷ nhiệm thu thuế có trách nhiệm đôn đốc người nộp thuế thực hiện nộp thuế theo tờ khai thuế của người nộp thuế.
+
+3. Tổ chức thu nộp thuế và cấp chứng từ cho người nộp thuế:
+
+Khi thu thuế, bên uỷ nhiệm thu phải viết biên lai thu thuế và viết một lần cho cả ba liên ghi rõ số tiền thuế, loại thuế, kỳ nộp thuế và các nội dung khác trên biên lai thu. Biên lai thu thuế phải viết từ số nhỏ đến số lớn, không viết nhảy số và phải viết đầy đủ, rõ ràng theo các nội dung yêu cầu trong biên lai thuế, đồng thời ký, ghi rõ họ tên người trực tiếp thu. Sau khi đã kiểm tra và nhận đủ tiền thuế, người trực tiếp thu phải giao biên lai thu thuế cho người nộp thuế.
+
+4. Nộp tiền thuế đã thu vào Ngân sách Nhà nước:
+
+Bên được uỷ nhiệm thu thuế có trách nhiệm nộp đầy đủ, kịp thời tiền thuế và các khoản thu khác đã thu vào Ngân sách Nhà nước tại Kho bạc Nhà nước. Số tiền thuế phải nộp vào Ngân sách Nhà nước là tổng số tiền đã ghi thu trên các biên lai thu thuế.
+
+Khi nộp tiền thuế về Kho bạc Nhà nước, bên được uỷ nhiệm thu phải lập bảng kê chứng từ thu và lập giấy nộp thuế vào Ngân sách Nhà nước bằng tiền mặt; Kho bạc Nhà nước chuyển chứng từ cho cơ quan thuế về số tiền uỷ nhiệm thu đã nộp để theo dõi và quản lý.
+
+Cơ quan thuế ký hợp đồng uỷ nhiệm thu quy định thời gian và mức tiền thuế đã thu mà bên được uỷ nhiệm thu thuế phải nộp vào Kho bạc Nhà nước phù hợp với số thu và địa bàn thu thuế theo hướng dẫn của Tổng cục thuế. Thời gian bên được uỷ nhiệm thu thuế phải nộp tiền vào Kho bạc Nhà nước tối đa không quá năm ngày kể từ ngày thu tiền đối với địa bàn thu thuế là các xã vùng sâu, vùng xa, đi lại khó khăn; không quá ba ngày đối với các địa bàn khác; trường hợp số tiền thuế đã thu vượt quá mười triệu đồng thì phải nộp ngay vào Ngân sách Nhà nước.
+
+5. Quyết toán số tiền thuế thu được và biên lai thu thuế với cơ quan thuế:
+
+5.1. Quyết toán số tiền thuế thu được:
+
+Chậm nhất ngày 5 của tháng sau, bên được uỷ nhiệm thu thuế phải lập báo cáo số đã thu, đã nộp của tháng trước gửi cơ quan thuế theo mẫu số 03/UNTH ban hành kèm theo Thông tư này. Báo cáo thu nộp phải phản ánh được số phải thu, số đã thu, số còn tồn đọng, nguyên nhân tồn đọng và các giải pháp đôn đốc thu nộp tiếp. Chi cục thuế nhận được báo cáo thu nộp của bên được uỷ nhiệm thu thuế phải kiểm tra cụ thể từng biên lai đã thu, số thuế đã thu, số thuế đã nộp ngân sách, đối chiếu với số thuế đã thực nộp có xác nhận của Kho bạc, nếu có số chênh lệch phải lập biên bản xác định rõ nguyên nhân để qui trách nhiệm cụ thể.
+
+5.2. Quyết toán biên lai thuế:
+
+Mỗi tháng một lần, chậm nhất ngày 5 của tháng sau, bên được uỷ nhiệm thu thuế phải lập bảng thanh toán các loại biên lai thuế, phí, lệ phí đã sử dụng, số còn tồn theo từng loại biên lai với cơ quan thuế theo đúng quy định.
+
+Sau mười ngày kể từ ngày kết thúc năm dương lịch, bên được uỷ nhiệm thu thuế phải lập báo cáo quyết toán sử dụng biên lai thuế với cơ quan thuế về số biên lai thuế, phí, lệ phí đã sử dụng và chuyển tồn các loại biên lai sang năm sau theo mẫu số 04/UNTH ban hành kèm theo Thông tư này.
+
+Mọi hành vi chậm thanh toán biên lai, chậm nộp tiền thuế đã thu vào ngân sách nhà nước đều coi là hành vi xâm tiêu tiền thuế; thu thuế không viết biên lai, hoặc viết không đúng chủng loại biên lai thuế phù hợp, bên được uỷ nhiệm thu thuế sẽ bị xử lý theo quy định của pháp luật hiện hành.
+
+6. Theo dõi và báo cáo với cơ quan thuế các trường hợp phát sinh người nộp thuế mới hoặc thay đổi quy mô, ngành hàng của người nộp thuế trên địa bàn ủy nhiệm thu.
+
+III. TRÁCH NHIỆM CỦA CƠ QUAN THUẾ UỶ NHIỆM THU
+
+Cơ quan thuế chịu trách nhiệm về việc thực hiện chính sách và quản lý các loại thuế trên địa bàn.
+
+1. Thông báo công khai về các trường hợp thuộc diện ủy nhiệm thu để người nộp thuế biết và thực hiện.
+
+2. Phát hành thông báo nộp thuế giao cho bên được uỷ nhiệm thu thuế cùng với sổ bộ thuế đã duyệt. Thời gian giao thông báo nộp thuế cho uỷ nhiệm thu thuế trước khi hết thời hạn gửi thông báo nộp thuế theo quy định tại Phần C Thông tư này tối thiểu là mười ngày.
+
+3. Cấp phát đầy đủ, kịp thời biên lai thu thuế cho bên được uỷ nhiệm thu thuế và hướng dẫn bên được uỷ nhiệm thu thuế quản lý, sử dụng biên lai đúng quy định. Bên được uỷ nhiệm thu thuế khi xin cấp biên lai thuế phải có văn bản đề nghị và giấy giới thiệu giao cho người được uỷ quyền đi nhận biên lai.
+
+4. Chi trả kinh phí uỷ nhiệm thu theo hợp đồng uỷ nhiệm thu đã ký.
+
+5. Kiểm tra tình hình thu nộp tiền thuế của bên được uỷ nhiệm thu thuế:
+
+Căn cứ vào biên lai thuế do bên uỷ nhiệm thu đã thu thuế và thanh toán với cơ quan thuế và căn cứ giấy nộp tiền vào ngân sách đã phát hành, xác nhận đã nộp tiền của kho bạc nhà nước, cơ quan thuế thực hiện kế toán thuế và xác định số nợ thuế để có biện pháp quản lý thích hợp.
+
+Cơ quan thuế ra quyết định phạt chậm nộp thuế đối với các trường hợp nộp chậm thuế và chuyển cho bên được uỷ nhiệm thu thuế để bên được uỷ nhiệm thu chuyển cho người nộp thuế. Bên được uỷ nhiệm thu thuế có trách nhiệm đôn đốc người nộp thuế nộp đủ tiền thuế, tiền phạt chậm nộp vào Ngân sách Nhà nước.
+
+IV. KINH PHÍ UỶ NHIỆM THU
+
+Bên được uỷ nhiệm thu thuế được hưởng kinh phí uỷ nhiệm thu trích từ kinh phí hoạt động của cơ quan thuế.
+
+Căn cứ vào tình hình cụ thể của từng địa phương, Thủ trưởng cơ quan thuế sẽ quyết định kinh phí uỷ nhiệm thu phù hợp nhưng tối đa không được vượt quá 8% tổng số thuế do bên được ủy nhiệm đã thu đối với thuế sử dụng đất nông nghiệp, thuế nhà đất, thuế nộp theo phương pháp khoán; tối đa không vượt quá 1% số thuế thu được đối với thuế thu nhập cá nhân.
+
+Phần Đ
+
+TRÁCH NHIỆM HOÀN THÀNH NGHĨA VỤ NỘP THUẾ
+
+I. HOÀN THÀNH NGHĨA VỤ NỘP THUẾ TRONG TRƯỜNG HỢP XUẤT CẢNH
+
+1. Người Việt Nam xuất cảnh để định cư ở nước ngoài, người Việt Nam định cư ở nước ngoài, người nước ngoài trước khi xuất cảnh từ Việt Nam phải hoàn thành nghĩa vụ nộp thuế.
+
+2. Cơ quan thuế thông báo bằng văn bản cho cơ quan quản lý xuất nhập cảnh dừng việc xuất cảnh khi người nộp thuế chưa hoàn thành nghĩa vụ thuế trong các trường hợp sau:
+
+2.1. Người Việt Nam xuất cảnh để định cư ở nước ngoài;
+
+2.2. Người Việt Nam định cư ở nước ngoài;
+
+2.3. Người nước ngoài hết thời hạn làm việc tại Việt Nam hoặc kết thúc hoạt động cung cấp dịch vụ, hành nghề độc lập tại Việt Nam;
+
+2.4. Người nộp thuế là cá nhân có dấu hiệu bỏ trốn khỏi Việt Nam mà chưa hoàn thành nghĩa vụ nộp thuế.
+
+3. Ngay khi nhận được thông báo của cơ quan thuế về việc dừng xuất cảnh trong trường hợp cá nhân chưa hoàn thành nghĩa vụ nộp thuế, cơ quan quản lý xuất nhập cảnh có trách nhiệm dừng việc xuất cảnh của cá nhân chưa hoàn thành nghĩa vụ nộp thuế cho đến khi cá nhân đó hoàn thành xong nghĩa vụ nộp thuế và được cơ quan thuế quản lý trực tiếp xác nhận việc hoàn thành nghĩa vụ thuế tại Việt Nam hoặc có bảo lãnh bằng tài sản hoặc các biện pháp khác để đảm bảo thực hiện nghĩa vụ nộp thuế theo quy định của pháp luật Việt Nam.
+
+II. HOÀN THÀNH NGHĨA VỤ NỘP THUẾ TRONG TRƯỜNG HỢP
+
+GIẢI THỂ, PHÁ SẢN, CHẤM DỨT HOẠT ĐỘNG
+
+1. Việc hoàn thành nghĩa vụ nộp thuế trong trường hợp giải thể, phá sản thực hiện theo quy định tại Điều 54 của Luật Quản lý thuế và của pháp luật về doanh nghiệp, pháp luật về hợp tác xã và pháp luật về phá sản.
+
+Chủ doanh nghiệp tư nhân, hội đồng thành viên hoặc chủ sở hữu công ty trách nhiệm hữu hạn, hội đồng quản trị công ty cổ phần hoặc tổ chức thanh lý doanh nghiệp chịu trách nhiệm về việc hoàn thành nghĩa vụ nộp thuế của doanh nghiệp trong trường hợp giải thể.
+
+Hội đồng giải thể hợp tác xã chịu trách nhiệm về việc hoàn thành nghĩa vụ nộp thuế của hợp tác xã trong trường hợp giải thể.
+
+Tổ quản lý, thanh lý tài sản chịu trách nhiệm về việc hoàn thành nghĩa vụ nộp thuế của doanh nghiệp trong trường hợp phá sản.
+
+2. Trách nhiệm hoàn thành nghĩa vụ thuế trong trường hợp người nộp thuế chấm dứt hoạt động không thực hiện thủ tục giải thể, phá sản theo quy định của pháp luật:
+
+2.1. Doanh nghiệp chấm dứt hoạt động không theo thủ tục giải thể, phá sản doanh nghiệp chưa hoàn thành nghĩa vụ nộp thuế thì chủ doanh nghiệp tư nhân, chủ tịch hội đồng thành viên hoặc chủ sở hữu công ty trách nhiệm hữu hạn, chủ tịch hội đồng quản trị của công ty cổ phần, trưởng ban quản trị của hợp tác xã chịu trách nhiệm nộp phần thuế nợ còn lại.
+
+2.2. Hộ gia đình, cá nhân chấm dứt hoạt động kinh doanh chưa hoàn thành nghĩa vụ nộp thuế thì phần thuế nợ còn lại do chủ hộ gia đình, cá nhân chịu trách nhiệm nộp.
+
+2.3. Tổ hợp tác chấm dứt hoạt động chưa hoàn thành nghĩa vụ nộp thuế thì phần nợ thuế còn lại do tổ trưởng tổ hợp tác chịu trách nhiệm nộp.
+
+2.4. Những người có trách nhiệm nộp thuế đã hoàn thành toàn bộ nghĩa vụ nộp thuế theo quy định tại điểm 2.1, điểm 2.2 và điểm 2.3 khoản này có quyền yêu cầu những người có nghĩa vụ liên đới khác phải thực hiện phần nghĩa vụ liên đới của họ đối với mình theo quy định của pháp luật dân sự.
+
+III. HOÀN THÀNH NGHĨA VỤ NỘP THUẾ TRONG
+
+TRƯỜNG HỢP TỔ CHỨC LẠI DOANH NGHIỆP
+
+1. Doanh nghiệp bị chia có trách nhiệm hoàn thành nghĩa vụ nộp thuế trước khi thực hiện chia doanh nghiệp. Trường hợp doanh nghiệp bị chia chưa hoàn thành nghĩa vụ nộp thuế thì các doanh nghiệp mới được thành lập từ doanh nghiệp bị chia có trách nhiệm hoàn thành nghĩa vụ nộp thuế.
+
+2. Doanh nghiệp bị tách, bị hợp nhất, bị sáp nhập có trách nhiệm hoàn thành nghĩa vụ nộp thuế trước khi tách, hợp nhất, sáp nhập doanh nghiệp; nếu chưa hoàn thành nghĩa vụ nộp thuế thì doanh nghiệp bị tách và các doanh nghiệp mới được thành lập từ doanh nghiệp bị tách, doanh nghiệp hợp nhất, doanh nghiệp nhận sáp nhập có trách nhiệm hoàn thành nghĩa vụ nộp thuế.
+
+3. Doanh nghiệp chuyển đổi sở hữu có trách nhiệm hoàn thành nghĩa vụ nộp thuế trước khi chuyển đổi; trường hợp doanh nghiệp chuyển đổi chưa hoàn thành nghĩa vụ nộp thuế thì doanh nghiệp mới được thành lập từ doanh nghiệp chuyển đổi có trách nhiệm hoàn thành nghĩa vụ nộp thuế.
+
+4. Việc tổ chức lại doanh nghiệp không làm thay đổi thời hạn nộp thuế của doanh nghiệp bị tổ chức lại. Trường hợp doanh nghiệp được tổ chức lại hoặc các doanh nghiệp thành lập mới không nộp thuế đầy đủ theo thời hạn nộp thuế đã quy định thì bị xử phạt theo quy định của pháp luật.
+
+5. Cơ quan thuế có quyền yêu cầu một trong các doanh nghiệp có nghĩa vụ liên đới phải hoàn thành toàn bộ nghĩa vụ thuế. Trường hợp một doanh nghiệp đã thực hiện toàn bộ nghĩa vụ thuế thì có quyền yêu cầu những doanh nghiệp có nghĩa vụ liên đới phải thực hiện phần nghĩa vụ liên đới của họ đối với mình theo quy định của pháp luật dân sự.
+
+IV. VIỆC KẾ THỪA NGHĨA VỤ NỘP THUẾ CỦA CÁ NHÂN LÀ NGƯỜI
+
+ĐÃ CHẾT, NGƯỜI MẤT NĂNG LỰC HÀNH VI DÂN SỰ, HOẶC NGƯỜI
+
+MẤT TÍCH THEO QUY ĐỊNH CỦA PHÁP LUẬT DÂN SỰ
+
+1. Việc hoàn thành nghĩa vụ nộp thuế của người được pháp luật coi là đã chết do những người hưởng thừa kế thực hiện trong phạm vi di sản do người chết để lại.
+
+Trường hợp di sản chưa được chia thì việc hoàn thành nghĩa vụ nộp thuế do người chết để lại được người quản lý di sản thực hiện.
+
+Trong trường hợp di sản đã được chia thì việc hoàn thành nghĩa vụ nộp thuế do người chết để lại được những người thừa kế thực hiện tương ứng nhưng không vượt quá phần tài sản mà mình được nhận, trừ trường hợp có thoả thuận khác.
+
+Trong trường hợp Nhà nước, cơ quan, tổ chức hưởng di sản theo di chúc thì cũng phải thực hiện việc hoàn thành nghĩa vụ nộp thuế do người chết để lại như người thừa kế là cá nhân.
+
+Trong trường hợp không có người thừa kế theo di chúc, theo pháp luật hoặc có nhưng từ chối nhận di sản thì việc hoàn thành nghĩa vụ nộp thuế của người chết để lại được thực hiện theo quy định của pháp luật dân sự.
+
+2. Việc hoàn thành nghĩa vụ nộp thuế của người bị tuyên bố mất tích, người bị tuyên bố mất năng lực hành vi dân sự do người được Toà án giao quản lý tài sản của người bị tuyên bố mất tích, người bị tuyên bố mất năng lực hành vi dân sự thực hiện trong phạm vi tài sản được giao quản lý.
+
+3. Trường hợp cơ quan nhà nước có thẩm quyền hủy bỏ quyết định tuyên bố một người là đã chết, mất tích hoặc mất năng lực hành vi dân sự thì số tiền thuế nợ đã xoá theo quy định tại Điều 65 của Luật Quản lý thuế được phục hồi lại, nhưng không bị tính tiền phạt chậm nộp cho thời gian bị coi là đã chết, mất tích hoặc mất năng lực hành vi dân sự.
+
+V. XÁC NHẬN VIỆC THỰC HIỆN NGHĨA VỤ THUẾ
+
+1. Người nộp thuế có quyền đề nghị cơ quan thuế quản lý trực tiếp xác nhận việc hoàn thành nghĩa vụ thuế của từng loại thuế hoặc của tất cả các loại thuế; hoặc đề nghị cơ quan thuế quản lý trực tiếp xác nhận số tiền thuế, tiền phạt còn phải nộp đến thời điểm đề nghị xác nhận.
+
+Trường hợp cá nhân, nhà thầu nước ngoài nộp thuế qua tổ chức, cá nhân có trách nhiệm khấu trừ tại nguồn thì đề nghị với cơ quan thuế quản lý trực tiếp bên khấu trừ tại nguồn xác nhận việc hoàn thành nghĩa vụ nộp thuế.
+
+2. Văn bản đề nghị xác nhận việc thực hiện nghĩa vụ thuế phải nêu rõ các nội dung:
+
+- Tên người nộp thuế, mã số thuế;
+
+- Số thuế phát sinh của từng loại thuế bao gồm cả số thuế do người nộp thuế khai trong hồ sơ thuế đã nộp cho cơ quan thuế và số thuế khoán, số thuế ấn định theo quyết định của cơ quan thuế;
+
+- Số tiền phạt hành chính do vi phạm pháp luật thuế;
+
+- Số tiền thuế, tiền phạt đã nộp;
+
+- Số tiền thuế, tiền phạt còn nợ (nếu có).
+
+3. Trong thời hạn ba ngày làm việc kể từ ngày nhận được văn bản đề nghị xác nhận việc thực hiện nghĩa vụ thuế của người nộp thuế, cơ quan thuế có trách nhiệm ra văn bản xác nhận việc thực hiện nghĩa vụ thuế của người nộp thuế. Trường hợp cần kiểm tra, đối chiếu lại các thông tin về tình hình thực hiện nghĩa vụ thuế của người nộp thuế, cơ quan thuế gửi thông báo cho người nộp thuế biết lý do chưa xác nhận việc thực hiện nghĩa vụ thuế của người nộp thuế.
+
+Phần E
+
+THỦ TỤC MIỄN THUẾ, GIẢM THUẾ;
+
+XOÁ NỢ TIỀN THUẾ, TIỀN PHẠT
+
+I. TRƯỜNG HỢP NGƯỜI NỘP THUẾ TỰ XÁC ĐỊNH SỐ
+
+TIỀN THUẾ ĐƯỢC MIỄN THUẾ, GIẢM THUẾ
+
+1. Người nộp thuế tự xác định số thuế được miễn thuế, giảm thuế hoặc không phải nộp thuế và khai báo với cơ quan thuế trong hồ sơ khai thuế, trừ các trường hợp quy định tại mục II Phần này.
+
+2. Tài liệu liên quan đến việc xác định miễn thuế, giảm thuế là một phần của hồ sơ khai thuế.
+
+II. TRƯỜNG HỢP CƠ QUAN THUẾ
+
+QUYẾT ĐỊNH MIỄN THUẾ, GIẢM THUẾ
+
+Cơ quan thuế trực tiếp kiểm tra hồ sơ và ra quyết định miễn thuế, giảm thuế đối với các trường hợp sau đây:
+
+1. Miễn thuế thu nhập doanh nghiệp cho hợp tác xã có mức thu nhập bình quân tháng trong năm của mỗi lao động dưới mức lương tối thiểu chung do nhà nước quy định đối với công chức nhà nước. Hồ sơ đề nghị miễn thuế là Văn bản đề nghị miễn thuế theo mẫu số 01/MGTH ban hành kèm theo Thông tư này, trong đó nêu rõ số thuế đề nghị được miễn, số thuế đã nộp (nếu có), lý do đề nghị được miễn thuế và danh mục tài liệu gửi kèm.
+
+2. Miễn thuế thu nhập doanh nghiệp cho hộ gia đình, cá nhân nộp thuế theo phương pháp khoán có mức thu nhập thấp. Hồ sơ đề nghị miễn thuế là Văn bản đề nghị miễn thuế của hộ gia đình, cá nhân theo mẫu số 01/MGTH ban hành kèm theo Thông tư này, trong đó nêu rõ số thuế đề nghị được miễn, số thuế đã nộp (nếu có), lý do đề nghị được miễn thuế và danh mục tài liệu gửi kèm.
+
+3. Miễn hoặc giảm thuế thu nhập doanh nghiệp cho cá nhân, hộ cá thể kinh doanh nộp thuế theo phương pháp khoán nếu nghỉ kinh doanh liên tục từ mười lăm ngày trở lên trong tháng được xét giảm 50% số thuế phải nộp; nếu nghỉ cả tháng thì được xét miễn thuế của tháng đó. Hồ sơ đề nghị miễn hoặc giảm thuế là Văn bản đề nghị miễn hoặc giảm thuế của hộ gia đình, cá nhân theo mẫu số 01/MGTH ban hành kèm theo Thông tư này trong đó nêu rõ số thuế phải nộp; số thuế đề nghị được miễn, giảm; số thuế đã nộp (nếu có); số thuế còn phải nộp; lý do đề nghị được miễn, giảm thuế và danh mục tài liệu gửi kèm.
+
+4. Miễn thuế tài nguyên đối với sản phẩm rừng tự nhiên do dân cư trên địa bàn xã có rừng được phép khai thác.
+
+Hồ sơ miễn thuế gồm: Văn bản đề nghị miễn thuế tài nguyên theo mẫu số 01/MGTH ban hành kèm theo Thông tư này, trong đó nêu rõ loại tài nguyên, địa điểm, hình thức khai thác, nơi tiêu thụ và danh mục tài liệu gửi kèm.
+
+Văn bản đề nghị miễn thuế phải có ý kiến xác nhận của uỷ ban nhân dân cấp xã và cơ quan kiểm lâm trực tiếp quản lý rừng.
+
+5. Miễn hoặc giảm thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế thu nhập cá nhân, tiền thuê đất, thuê mặt nước, thuế nhà, đất, thuế sử dụng đất nông nghiệp cho người nộp thuế gặp khó khăn do thiên tai, địch họa, tai nạn bất ngờ, bị lỗ hoặc không có khả năng nộp thuế.
+
+Hồ sơ đề nghị miễn hoặc giảm thuế bao gồm:
+
+- Văn bản đề nghị miễn hoặc giảm thuế theo mẫu số 01/MGTH ban hành kèm theo Thông tư này, trong đó nêu rõ thời gian, lý do bị thiệt hại, giá trị tài sản bị thiệt hại, số lỗ do thiên tai, địch họa, tai nạn bất ngờ gây ra, số thuế phải nộp, số thuế đề nghị miễn, giảm và danh mục tài liệu gửi kèm;
+
+- Biên bản xác định mức độ, giá trị thiệt hại về tài sản của cơ quan có thẩm quyền và có xác nhận của chính quyền địa phương cấp xã nơi xảy ra thiên tai, địch hoạ, tai nạn theo mẫu số 02/MGTH ban hành kèm theo Thông tư này;
+
+- Bản quyết toán tài chính (nếu là doanh nghiệp) kèm theo giải trình phân tích xác định số bị thiệt hại, số lỗ do bị thiệt hại.
+
+
+
+6. Thời hạn giải quyết hồ sơ miễn thuế, giảm thuế:
+
+- Trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ, cơ quan thuế ra quyết định miễn thuế, giảm thuế theo mẫu số 03/MGTH hoặc thông báo cho người nộp thuế lý do không thuộc diện được miễn thuế, giảm thuế theo mẫu số 04/MGTH ban hành kèm theo Thông tư này.
+
+- Trường hợp cần kiểm tra thực tế để có đủ căn cứ giải quyết hồ sơ thì thời hạn ra quyết định miễn thuế, giảm thuế là sáu mươi ngày, kể từ ngày nhận đủ hồ sơ.
+
+III. XOÁ NỢ TIỀN THUẾ, TIỀN PHẠT
+
+1. Trường hợp được xoá nợ tiền thuế, tiền phạt bao gồm:
+
+1.1. Doanh nghiệp bị tuyên bố phá sản đã thực hiện các khoản thanh toán theo quy định của pháp luật phá sản mà không còn tài sản để nộp tiền thuế, tiền phạt.
+
+1.2. Cá nhân được pháp luật coi là đã chết, mất tích, mất năng lực hành vi dân sự mà không có tài sản để nộp tiền thuế, tiền phạt còn nợ.
+
+2. Hồ sơ xóa nợ tiền thuế, tiền phạt bao gồm:
+
+2.1. Văn bản đề nghị xoá nợ tiền thuế, tiền phạt của cơ quan thuế quản lý trực tiếp người nộp thuế thuộc diện được xoá nợ tiền thuế, tiền phạt theo mẫu số 01/XNTH ban hành kèm theo thông tư này;
+
+2.2. Tờ khai quyết toán thuế đến thời điểm Toà án ra quyết định mở thủ tục giải quyết yêu cầu tuyên bố phá sản doanh nghiệp (đối với trường hợp doanh nghiệp bị tuyên bố phá sản);
+
+2.3. Tài liệu liên quan đến việc đề nghị xoá nợ tiền thuế, tiền phạt: Bản sao quyết định tuyên bố phá sản doanh nghiệp của Toà án; giấy tờ chứng minh cá nhân được pháp luật coi là đã chết, mất tích, mất năng lực hành vi dân sự theo quy định của pháp luật dân sự và pháp luật tố tụng dân sự.
+
+3. Trình tự giải quyết hồ sơ xoá nợ tiền thuế, tiền phạt:
+
+3.1. Cơ quan thuế quản lý trực tiếp lập hồ sơ xoá nợ tiền thuế, tiền phạt gửi đến cơ quan thuế cấp trên theo trình tự sau:
+
+- Chi cục thuế gửi cho cục thuế hồ sơ xoá nợ tiền thuế, tiền phạt của người nộp thuế thuộc phạm vi quản lý của chi cục thuế.
+
+- Cục thuế gửi cho Tổng cục thuế hồ sơ xoá nợ tiền thuế, tiền phạt của người nộp thuế thuộc phạm vi quản lý của cục thuế và hồ sơ do chi cục thuế chuyển đến.
+
+3.2. Trường hợp hồ sơ xoá nợ tiền thuế, tiền phạt chưa đầy đủ thì trong thời hạn mười ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan thuế cấp trên phải thông báo cho cơ quan đã lập hồ sơ để hoàn chỉnh hồ sơ theo mẫu số 02/XNTH ban hành kèm theo Thông tư này.
+
+3.3. Trong thời hạn sáu mươi ngày, kể từ ngày nhận đủ hồ sơ xoá nợ tiền thuế, tiền phạt, người có thẩm quyền phải ra quyết định xoá nợ theo mẫu số 03/XNTH hoặc thông báo trường hợp không thuộc diện được xoá nợ tiền thuế, tiền phạt theo mẫu số 04/XNTH ban hành kèm theo Thông tư này.
+
+4. Thẩm quyền xoá nợ tiền thuế, tiền phạt và báo cáo Quốc hội:
+
+4.1. Bộ trưởng Bộ Tài chính uỷ quyền Tổng cục trưởng Tổng cục thuế xem xét hồ sơ và ra quyết định xóa nợ tiền thuế, tiền phạt theo quy định tại khoản 1 mục này. Quyết định xoá nợ tiền thuế, tiền phạt phải bao gồm các nội dung:
+
+- Tên người nộp thuế được xoá nợ tiền thuế, tiền phạt;
+
+- Số tiền thuế được xoá nợ tương ứng với loại thuế và kỳ tính thuế hoặc thời gian phát sinh số thuế;
+
+- Số tiền phạt được xoá nợ;
+
+- Cơ quan thuế có trách nhiệm chấp hành quyết định.
+
+4.2. Trên cơ sở quyết định xoá nợ, cơ quan thuế quản lý số tiền thuế nợ, tiền phạt được xoá nợ có trách nhiệm tổng hợp vào số quyết toán thu Ngân sách năm, đồng thời thông báo với cơ quan tài chính cùng cấp để tổng hợp trong báo cáo quyết toán Ngân sách của địa phương.
+
+4.3. Tổng cục trưởng Tổng cục thuế có trách nhiệm tổng hợp số tiền thuế, tiền phạt đã xóa nợ theo quyết toán Ngân sách các cấp trình Bộ trưởng Bộ Tài chính báo cáo Quốc hội khi Chính phủ trình Quốc hội phê chuẩn Tổng quyết toán ngân sách nhà nước.
+
+Phần G
+
+THỦ TỤC HOÀN THUẾ, BÙ TRỪ THUẾ
+
+I. HỒ SƠ HOÀN THUẾ
+
+1. Hồ sơ hoàn thuế giá trị gia tăng đối với trường hợp trong ba tháng liên tục có số thuế đầu vào chưa được khấu trừ hết, hoặc đối với trường hợp đang trong giai đoạn đầu tư chưa có thuế giá trị gia tăng đầu ra:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+2. Hồ sơ hoàn thuế giá trị gia tăng đối với trường hợp xuất khẩu:
+
+2.1. Trường hợp xuất khẩu thanh toán bằng tiền, hồ sơ hoàn thuế bao gồm:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+- Bảng kê các hồ sơ có chữ ký và đóng dấu của cơ sở, ghi rõ:
+
++ Số, ngày tờ khai xuất khẩu của hàng hóa xuất khẩu (trường hợp uỷ thác xuất khẩu phải ghi số, ngày tờ khai xuất khẩu của cơ sở nhận uỷ thác);
+
++ Số, ngày hợp đồng xuất khẩu hoặc số, ngày hợp đồng uỷ thác xuất khẩu, uỷ thác gia công đối với trường hợp uỷ thác xuất khẩu, uỷ thác gia công xuất khẩu;
+
++ Hình thức thanh toán, số, ngày, số tiền của chứng từ thanh toán tiền hàng hóa, dịch vụ xuất khẩu;
+
+- Biên bản thanh lý hợp đồng uỷ thác xuất khẩu hoặc uỷ thác gia công hàng xuất khẩu (trường hợp đã kết thúc hợp đồng) hoặc Biên bản đối chiếu công nợ định kỳ giữa bên uỷ thác xuất khẩu và bên nhận uỷ thác xuất khẩu (đối với trường hợp uỷ thác xuất khẩu hoặc uỷ thác gia công xuất khẩu).
+
+2.2. Trường hợp xuất khẩu thanh toán bằng hàng, hồ sơ hoàn thuế gồm:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+- Bảng kê các hồ sơ có chữ ký và đóng dầu của cơ sở, ghi rõ:
+
++ Số, ngày hợp đồng xuất khẩu hàng hoá, dịch vụ ký với nước ngoài;
+
++ Số, ngày hợp đồng mua hàng hoá, dịch vụ của nước ngoài thanh toán bù trừ với hàng hoá, dịch vụ xuất khẩu;
+
++ Số, ngày Tờ khai xuất khẩu của hàng hoá xuất khẩu;
+
++ Số, ngày Tờ khai nhập khẩu của hàng hoá nhập khẩu;
+
++ Số, ngày văn bản xác nhận với phía nước ngoài về số tiền thanh toán bù trừ;
+
++ Số, ngày chứng từ thanh toán qua ngân hàng, số tiền thanh toán (nếu có chênh lệch sau khi thanh toán bù trừ hàng hoá).
+
+2.3. Trường hợp xuất khẩu tại chỗ, hồ sơ hoàn thuế bao gồm:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+- Bảng kê hồ sơ có chữ ký và đóng dấu của cơ sở, ghi rõ:
+
++ Số, ngày hợp đồng xuất khẩu ký với nước ngoài;
+
++ Số, ngày Tờ khai hải quan hàng hoá xuất nhập khẩu tại chỗ;
+
++ Số, ngày, số tiền của chứng từ thanh toán tiền hàng hoá xuất khẩu tại chỗ qua ngân hàng.
+
+2.4. Trường hợp hàng hoá gia công chuyển tiếp, hồ sơ hoàn thuế bao gồm:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+- Bảng kê hồ sơ có chữ ký và đóng dấu của cơ sở, ghi rõ:
+
++ Số, ngày hợp đồng gia công giao; số, ngày hợp đồng gia công nhận;
+
++ Số, ngày tờ khai hàng gia công chuyển tiếp;
+
++ Số, ngày, số tiền của chứng từ thanh toán tiền hàng hoá xuất khẩu tại chỗ qua ngân hàng.
+
+2.5. Trường hợp hàng hoá xuất khẩu để thực hiện dự án đầu tư ra nước ngoài, hồ sơ hoàn thuế bao gồm:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị được hoàn và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế phát sinh đầu ra, số thuế đầu vào được khấu trừ, số thuế đã nộp (nếu có), số thuế đầu vào lớn hơn số thuế đầu ra đề nghị hoàn theo theo mẫu số 01-1/HTBT ban hành kèm theo Thông tư này. Trường hợp có điều chỉnh thuế giá trị gia tăng đầu vào, đầu ra so với số thuế tại Tờ khai đã nộp cho cơ quan thuế thì người nộp thuế phải giải trình rõ lý do.
+
+- Bảng kê hồ sơ có chữ ký và đóng dấu của cơ sở, ghi rõ:
+
++ Số, ngày giấy chứng nhận đầu tư ra nước ngoài;
+
++ Số, ngày văn bản chấp thuận dự án đầu tư hoặc văn bản có giá trị pháp lý tương đương theo quy định của pháp luật nước tiếp nhận đầu tư;
+
++ Danh mục hàng hoá xuất khẩu để thực hiện dự án đầu tư tại nước ngoài do Bộ Thương mại cấp (trong đó ghi rõ: chủng loại, số lượng và trị giá hàng hoá).
+
+3. Hồ sơ hoàn thuế giá trị gia tăng đối với dự án ODA:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do hoàn thuế, số thuế đề nghị hoàn, thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp thuế đầu vào được hoàn;
+
+- Bảng kê hoá đơn, chứng từ hàng hoá dịch vụ mua vào mẫu số 01-2/GTGT ban hành kèm theo Thông tư này;
+
+- Quyết định của cấp có thẩm quyền về việc phê duyệt dự án sử dụng vốn ODA không hoàn lại, dự án sử dụng vốn ODA vay ưu đãi được Ngân sách Nhà nước cấp phát (bản sao có đóng dấu và chữ ký xác nhận của người có thẩm quyền của dự án). Trường hợp hoàn thuế nhiều lần thì chỉ xuất trình lần đầu.
+
+- Xác nhận của cơ quan chủ quản dự án ODA về hình thức cung cấp dự án ODA là ODA không hoàn lại hay ODA vay được Ngân sách Nhà nước cấp phát ưu đãi thuộc đối tượng được hoàn thuế giá trị gia tăng (bản sao có xác nhận của cơ sở) và việc không được Ngân sách Nhà nước cấp vốn đối ứng để trả thuế giá trị gia tăng. Người nộp thuế chỉ phải nộp tài liệu này với hồ sơ hoàn thuế lần đầu của dự án.
+
+Trường hợp nhà thầu chính lập hồ sơ hoàn thuế thì ngoài những tài liệu nêu tại điểm này, còn phải có xác nhận của chủ dự án về việc dự án không được Ngân sách Nhà nước bố trí vốn đối ứng để thanh toán cho nhà thầu theo giá có thuế giá trị gia tăng; giá thanh toán theo kết quả thầu không có thuế giá trị gia tăng và đề nghị hoàn thuế cho nhà thầu chính.
+
+4. Hồ sơ hoàn thuế giá trị gia tăng đối với tổ chức Việt Nam sử dụng tiền viện trợ nhân đạo, viện trợ không hoàn lại của nước ngoài mua hàng hoá tại Việt Nam để viện trợ:
+
+- Văn bản đề nghị hoàn thuế nêu rõ lý do, số thuế đề nghị và thời gian phát sinh số thuế đề nghị hoàn theo mẫu số 01/HTBT ban hành kèm theo Thông tư này.
+
+- Bảng kê khai tổng hợp số thuế đầu vào được hoàn.
+
+- Bảng kê hoá đơn, chứng từ hàng hoá dịch vụ mua vào mẫu số 01-2/GTGT ban hành kèm theo Thông tư này;
+
+- Quyết định phê duyệt các khoản viện trợ của cấp có thẩm quyền (bản sao có xác nhận của người nộp thuế);
+
+- Văn bản xác nhận của Bộ Tài chính về khoản tiền viện trợ của tổ chức phi chính phủ nước ngoài nêu rõ: tên tổ chức viện trợ, giá trị khoản viện trợ, cơ quan tiếp nhận, quản lý tiền viện trợ.
+
+5. Hồ sơ hoàn thuế giá trị gia tăng đối với đối tượng được hưởng ưu đãi miễn trừ ngoại giao:
+
+- Công hàm đề nghị hoàn thuế giá trị gia tăng của cơ quan đại diện;
+
+- Văn bản đề nghị hoàn thuế theo mẫu số 01/HTBT ban hành kèm theo Thông tư này có xác nhận của Vụ Lễ tân (Bộ Ngoại giao);
+
+- Bản gốc kèm theo 2 bản sao có đóng dấu cơ quan đại diện của các hoá đơn giá trị gia tăng. Cơ quan thuế sẽ trả lại các hoá đơn gốc cho cơ quan đại diện sau khi thực hiện hoàn thuế giá trị gia tăng.
+
+6. Hồ sơ hoàn thuế thu nhập đối với người có thu nhập cao:
+
+- Văn bản đề nghị hoàn thuế theo mẫu số 01/HTBT ban hành kèm theo Thông tư này;
+
+- Bản sao Chứng minh nhân dân hoặc hộ chiếu;
+
+- Tờ khai quyết toán thuế thu nhập cá nhân;
+
+- Chứng từ khấu trừ thuế thu nhập; Biên lai thuế thu nhập (bản chính);
+
+- Chứng từ xác định tình trạng kết thúc thời gian làm việc như: Quyết định nghỉ hưu, Quyết định thôi việc, Biên bản thanh lý hợp đồng, Bảng kê xác định ngày cư trú (nếu có);
+
+- Giấy uỷ quyền trong trường hợp uỷ quyền thoái trả tiền thuế.
+
+7. Hồ sơ hoàn thuế theo Hiệp định tránh đánh thuế hai lần:
+
+- Văn bản đề nghị hoàn thuế theo Hiệp định theo mẫu số 02/HTBT ban hành kèm theo Thông tư này đối với tổ chức, cá nhân là đối tượng cư trú của nước ngoài hoặc theo mẫu số 03/HTBT ban hành kèm theo Thông tư này đối với tổ chức, cá nhân là đối tượng cư trú của Việt Nam;
+
+- Bản gốc Giấy chứng nhận cư trú của nước cư trú do cơ quan thuế cấp (ghi rõ là đối tượng cư trú trong năm tính thuế nào);
+
+- Bản sao đăng ký kinh doanh và/hoặc giấy chứng nhận đăng ký thuế do nước cư trú cấp trong trường hợp là tổ chức kinh doanh; hoặc bản sao đăng ký kinh doanh và/hoặc giấy phép hành nghề, giấy chứng nhận đăng ký thuế do nước cư trú cấp và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề độc lập; hoặc bản sao hợp đồng lao động và hộ chiếu sử dụng cho việc xuất nhập cảnh tại Việt Nam trong trường hợp là cá nhân hành nghề phụ thuộc;
+
+- Bản sao hợp đồng kinh tế, hợp đồng cung cấp dịch vụ, hợp đồng đại lý, hợp đồng uỷ thác, hợp đồng chuyển giao công nghệ, chứng từ chứng minh cho việc doanh nghiệp điều hành trực tiếp phương tiện vận tải (trong trường hợp doanh nghiệp vận tải quốc tế) hay hợp đồng lao động ký với tổ chức, cá nhân Việt Nam, giấy chứng nhận tiền gửi tại Việt Nam, giấy chứng nhận góp vốn vào Công ty tại Việt Nam (tuỳ theo loại thu nhập trong từng trường hợp cụ thể);
+
+- Chứng từ nộp thuế có xác nhận của kho bạc nhà nước hoặc cơ quan thuế khi thu tiền thuế; hoặc bản sao chứng từ nộp thuế và giấy xác nhận của Kho bạc Nhà nước nơi tổ chức, cá nhân nộp thuế về số thuế đã nộp.
+
+- Xác nhận của tổ chức, cá nhân Việt Nam ký kết hợp đồng về thời gian và tình hình hoạt động thực tế theo hợp đồng.
+
+8. Hồ sơ hoàn phí xăng dầu bao gồm:
+
+- Văn bản đề nghị hoàn phí theo mẫu số 01/HTBT ban hành kèm theo Thông tư này;
+
+- Bảng kê xác định số phí xăng dầu đề nghị hoàn trong đó ghi rõ số lượng xăng, dầu thực mua đã chịu phí xăng dầu, số lượng xăng, dầu diezen thực tế xuất khẩu, số tiền phí xăng dầu đề nghị hoàn trả, số tài khoản của đơn vị tại ngân hàng hoặc kho bạc giao dịch tỉnh, thành phố... theo mẫu số 01-2/HTBT ban hành kèm theo Thông tư này;
+
+- Hợp đồng và hoá đơn mua xăng, dầu diezen của tổ chức, cá nhân bán xăng dầu;
+
+- Giấy phép xuất khẩu xăng dầu diezen do Bộ Thương mại cấp;
+
+- Hợp đồng xuất khẩu xăng, dầu diezen ký với nước ngoài; trường hợp uỷ thác xuất khẩu thì còn phải có hợp đồng uỷ thác xuất khẩu xăng, dầu diezen;
+
+- Hoá đơn bán hàng xăng, dầu diezen cho nước ngoài, khu chế xuất, doanh nghiệp chế xuất;
+
+- Tờ khai Hải quan hàng hoá xuất khẩu, có thanh khoản và xác nhận của cơ quan Hải quan về số lượng, chủng loại xăng dầu diezen thực tế xuất khẩu.
+
+9. Hồ sơ hoàn thuế, phí nộp thừa đối với người nộp thuế sáp nhập, chia tách, giải thể, phá sản, chuyển đổi sở hữu, chấm dứt hoạt động:
+
+- Văn bản đề nghị hoàn thuế, phí theo mẫu số 01/HTBT ban hành kèm theo Thông tư này;
+
+- Quyết định của cấp có thẩm quyền về việc sáp nhập, hợp nhất, chia tách, giải thể, phá sản, chuyển đổi sở hữu, chấm dứt hoạt động;
+
+- Hồ sơ quyết toán thuế hoặc hồ sơ khai thuế đến thời điểm sáp nhập, hợp nhất, chia tách, giải thể, phá sản, chuyển đổi sở hữu, chấm dứt hoạt động.
+
+10. Hồ sơ hoàn các loại thuế, phí khác là văn bản đề nghị hoàn thuế hoặc phí, trong đó nêu rõ căn cứ đề nghị hoàn, số tiền thuế hoặc đề nghị hoàn, chuyển số tiền được hoàn để nộp các loại thuế, phí khác (nếu có).
+
+II. GIẢI QUYẾT HỒ SƠ HOÀN THUẾ
+
+1. Tiếp nhận hồ sơ hoàn thuế:
+
+1.1. Đối với hồ sơ hoàn thuế của tổ chức, cá nhân là người nộp thuế và có mã số thuế thì được nộp tại cơ quan thuế quản lý trực tiếp của tổ chức, cá nhân đó.
+
+1.2. Hồ sơ hoàn thuế của tổ chức, cá nhân không phải là người nộp thuế thì nộp tại cục thuế quản lý địa bàn nơi tổ chức có trụ sở điều hành, nơi cá nhân có địa chỉ thường trú.
+
+1.3. Trường hợp hồ sơ hoàn thuế được nộp trực tiếp tại cơ quan thuế, công chức quản lý thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận các tài liệu trong hồ sơ.
+
+1.4. Trường hợp hồ sơ hoàn thuế được gửi qua đường bưu chính, công chức quản lý thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+
+1.5. Trường hợp hồ sơ hoàn thuế được nộp thông qua giao dịch điện tử thì việc tiếp nhận, kiểm tra, chấp nhận hồ sơ hoàn thuế do cơ quan thuế thực hiện thông qua hệ thống xử lý dữ liệu điện tử.
+
+1.6. Trường hợp hồ sơ hoàn thuế chưa đầy đủ, trong thời hạn ba ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan thuế phải thông báo cho người nộp thuế để hoàn chỉnh hồ sơ.
+
+2. Trách nhiệm giải quyết hồ sơ hoàn thuế:
+
+2.1. Đối với hồ sơ thuộc diện hoàn thuế trước, kiểm tra sau thì chậm nhất là mười lăm ngày làm việc, kể từ ngày nhận được đủ hồ sơ hoàn thuế, cơ quan thuế phải ra quyết định hoàn thuế theo mẫu số 04/HTBT ban hành kèm theo Thông tư này hoặc thông báo bằng văn bản về việc chuyển hồ sơ sang diện kiểm tra trước, hoàn thuế sau hoặc thông báo lý do không hoàn thuế.
+
+2.2. Đối với hồ sơ thuộc diện kiểm tra trước, hoàn thuế sau thì chậm nhất là sáu mươi ngày, kể từ ngày nhận được đủ hồ sơ hoàn thuế, cơ quan thuế phải quyết định hoàn thuế hoặc thông báo lý do không hoàn thuế.
+
+2.3. Căn cứ vào số thuế người nộp thuế được hoàn, số thuế còn nợ, cơ quan thuế thực hiện theo một trong hai trường hợp sau:
+
+- Ra quyết định hoàn thuế trong trường hợp người nộp thuế không còn nợ tiền thuế, tiền phạt của tất cả các loại thuế.
+
+- Ra quyết định hoàn thuế và ra Lệnh thu Ngân sách trong trường hợp người nộp thuế được hoàn thuế theo hồ sơ hoàn thuế và còn nợ tiền thuế, tiền phạt của các loại thuế khác
+
+Trong quyết định hoàn thuế phải nêu rõ tên người nộp thuế được hoàn thuế, số thuế được hoàn, nơi nhận tiền hoàn thuế.
+
+2.4. Trường hợp cơ quan thuế kiểm tra xác định số thuế đủ điều kiện được hoàn khác số thuế đề nghị hoàn thì xử lý như sau:
+
+- Nếu số thuế đề nghị hoàn lớn hơn số thuế đủ điều kiện được hoàn thì người nộp thuế được hoàn bằng số thuế đủ điều kiện được hoàn.
+
+- Nếu số thuế đề nghị hoàn nhỏ hơn số thuế đủ điều kiện được hoàn thì người nộp thuế được hoàn bằng số thuế đề nghị hoàn.
+
+2.5. Trường hợp giải quyết hồ sơ hoàn thuế chậm do lỗi của cơ quan thuế thì ngoài số tiền thuế được hoàn theo quy định, người nộp thuế còn được trả tiền lãi tính cho thời gian chậm giải quyết hoàn thuế. Lãi suất tính tiền lãi do hoàn thuế chậm là lãi suất cơ bản do Ngân hàng Nhà nước quy định có hiệu lực tại thời điểm ra quyết định trả tiền lãi. Số ngày tính tiền lãi kể từ ngày tiếp theo ngày cuối cùng của thời hạn giải quyết hồ sơ hoàn thuế theo quy định đến ngày ra quyết định hoàn thuế, bao gồm cả ngày nghỉ (thứ bảy, chủ nhật, ngày lễ, ngày tết).
+
+Số tiền lãi được ghi trong quyết định hoàn thuế và người nộp thuế được thanh toán tiền lãi cùng với số tiền hoàn thuế.
+
+2.6. Hồ sơ hoàn thuế thuộc đối tượng kiểm tra trước khi hoàn thuế thuộc một trong các trường hợp:
+
+- Hoàn thuế theo quy định của điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+
+- Người nộp thuế đề nghị hoàn thuế lần đầu.
+
+- Người nộp thuế đã bị xử lý về hành vi trốn thuế, gian lận về thuế trong thời hạn 2 năm tính từ thời điểm đề nghị hoàn thuế trở về trước.
+
+- Người nộp thuế không thực hiện giao dịch thanh toán qua ngân hàng theo quy định.
+
+- Doanh nghiệp sáp nhập, hợp nhất, chia tách, giải thể, phá sản, chuyển đổi hình thức sở hữu, chấm dứt hoạt động; giao, bán, khoán, cho thuê doanh nghiệp nhà nước.
+
+- Hết thời hạn theo thông báo của cơ quan thuế nhưng người nộp thuế không giải trình, bổ sung hồ sơ hoàn thuế theo yêu cầu.
+
+- Hàng hoá nhập khẩu thuộc đối tượng quản lý của Nhà nước theo quy định của Bộ Tài chính.
+
+III. THỦ TỤC HOÀN THUẾ, BÙ TRỪ THUẾ
+
+1. Trường hợp người nộp thuế được hoàn thuế mà không phải nộp bù trừ với các loại thuế khác:
+
+1.1. Đối với thuế giá giá trị gia tăng: Cơ quan thuế gửi quyết định hoàn thuế cho Kho bạc Nhà nước đồng cấp. Kho bạc Nhà nước thực hiện hoàn trả cho người nộp thuế và báo nợ về kho bạc nhà nước cấp trên để trích từ quỹ hoàn thuế giá trị gia tăng của Ngân sách Trung ương để chi trả.
+
+1.2. Đối với hoàn trả các khoản thuế khác: Cơ quan thuế gửi quyết định hoàn thuế cho Kho bạc Nhà nước nơi người được hoàn trả đã nộp thuế trước đó. Kho bạc Nhà nước thực hiện hoàn trả tiền cho người được hoàn trả. Việc hạch toán hoàn trả thực hiện theo 2 trường hợp:
+
+1.2.1. Hoàn trả khoản thu chưa quyết toán Ngân sách Nhà nước: Kho bạc Nhà nước thực hiện hạch toán thoái thu đối với từng cấp ngân sách, theo đúng mục lục Ngân sách Nhà nước của các khoản đã thu.
+
+1.2.2. Hoàn trả các khoản thu đã quyết toán vào niên độ ngân sách năm trước: Kho bạc Nhà nước hạch toán chi ngân sách các cấp theo số tiền tương ứng với tỷ lệ khoản thu đã phân chia cho từng cấp ngân sách trước đó.
+
+1.3. Luân chuyển chứng từ: Kho bạc Nhà nước gửi chứng từ hoàn trả tiền thuế cho cơ quan thuế nơi quyết định hoàn thuế, cơ quan tài chính cùng cấp (hoặc cơ quan tài chính cấp trên nếu chi hoàn trả từ ngân sách cấp trên) để theo dõi, kiểm tra, đối chiếu. Hàng tháng, Kho bạc Nhà nước thông báo cho cơ quan tài chính đồng cấp về số tiền đã hoàn để kiểm tra, đối chiếu.
+
+2. Trường hợp người nộp thuế được hoàn thuế và phải nộp bù trừ cho các khoản thuế khác.
+
+2.1. Trường hợp hoàn trả thuế giá trị gia tăng, cơ quan thuế gửi quyết định hoàn thuế và lệnh thu thuế cho Kho bạc Nhà nước cùng cấp; trường hợp hoàn trả các khoản thu khác, cơ quan thuế gửi quyết định hoàn thuế và lệnh thu thuế cho Kho bạc Nhà nước nơi người được hoàn trả đã nộp thuế.
+
+2.2. Việc xử lý hạch toán hoàn thuế và thu Ngân sách Nhà nước của Kho bạc Nhà nước được thực hiện:
+
+2.2.1. Trường hợp Kho bạc Nhà nước nơi hoàn thuế đồng thời là Kho bạc Nhà nước thực hiện thu khoản thuế còn phải nộp: Kho bạc Nhà nước hạch toán hoàn trả thuế theo quy định tại khoản 1 mục này; hạch toán thu Ngân sách Nhà nước theo lệnh thu của cơ quan thuế và phân chia cho các cấp ngân sách; thanh toán tiền hoàn thuế còn thừa (nếu có) cho người nộp thuế.
+
+2.2.2. Trường hợp Kho bạc Nhà nước nơi hoàn thuế khác với Kho bạc Nhà nước nơi thu khoản thuế còn phải nộp: Kho bạc Nhà nước nơi hoàn trả hạch toán hoàn trả theo quy định tại khoản 1 mục này; chuyển số tiền được hoàn trả cùng với lệnh thu Ngân sách Nhà nước của cơ quan thuế cho Kho bạc Nhà nước nơi thu thuế để làm căn cứ hạch toán thu Ngân sách Nhà nước theo đúng nội dung ghi trên lệnh thu; thanh toán tiền hoàn thuế còn thừa (nếu có) cho người nộp thuế.
+
+Phần H
+
+KIỂM TRA, THANH TRA THUẾ
+
+I. KIỂM TRA THUẾ
+
+Theo quy định tại Điều 77 và Điều 78 Luật Quản lý thuế, các hồ sơ thuế gửi đến cơ quan thuế đều được kiểm tra tính đầy đủ, chính xác của các thông tin, tài liệu trong hồ sơ thuế nhằm đánh giá sự tuân thủ pháp luật về thuế của người nộp thuế.
+
+Việc kiểm tra thuế được thực hiện tại trụ sở cơ quan thuế hoặc tại trụ sở của người nộp thuế.
+
+1. Kiểm tra thuế tại trụ sở cơ quan thuế
+
+1.1. Công chức thuế thực hiện việc kiểm tra nội dung kê khai trong hồ sơ thuế, đối chiếu với cơ sở dữ liệu của người nộp thuế và tài liệu có liên quan về người nộp thuế, so sánh với dữ liệu của người nộp thuế cùng ngành nghề, mặt hàng kinh doanh để phân tích, đánh giá tính tuân thủ hoặc phát hiện các trường hợp khai chưa đầy đủ dẫn tới việc thiếu thuế hoặc trốn thuế, gian lận thuế.
+
+Sau khi kiểm tra, công chức thuế xác nhận kết quả kiểm tra thuế vào hồ sơ thuế theo một trong các trường hợp:
+
+- Đối với hồ sơ khai đầy đủ nội dung trong hồ sơ và bảo đảm tính đầy đủ, chính xác của các thông tin, tài liệu trong hồ sơ thuế, không có dấu hiệu vi phạm thì chấp nhận;
+
+- Trường hợp phát hiện trong hồ sơ chưa đủ tài liệu theo quy định hoặc khai chưa đầy đủ các chỉ tiêu theo quy định thì cơ quan thuế thông báo cho người nộp thuế biết để hoàn chỉnh hồ sơ. Đối với trường hợp nhận hồ sơ trực tiếp tại cơ quan thuế, công chức thuế tiếp nhận hồ sơ có trách nhiệm thông báo, hướng dẫn trực tiếp cho người nộp hồ sơ. Đối với trường hợp tiếp nhận hồ sơ qua đường bưu chính hoặc thông qua giao dịch điện tử, cơ quan thuế phải ra thông báo bằng văn bản trong thời hạn ba ngày làm việc kể từ ngày nhận hồ sơ.
+
+- Đối với hồ sơ cần được làm rõ thì ghi rõ nội dung để kiểm tra tiếp.
+
+1.2. Kiểm tra để làm rõ nội dung cần bổ sung trong hồ sơ thuế:
+
+1.2.1. Trường hợp qua kiểm tra, đối chiếu, so sánh, phân tích xét thấy có nội dung khai chưa đúng, số liệu khai không chính xác hoặc có những nội dung cần xác minh liên quan đến số tiền thuế phải nộp, số tiền thuế được miễn, số tiền thuế được giảm, số tiền thuế được hoàn, cơ quan thuế ra Thông báo bằng văn bản đề nghị người nộp thuế giải trình hoặc bổ sung thông tin, tài liệu theo mẫu số 01/KTTT ban hành kèm theo Thông tư này.
+
+Thời gian giải trình hoặc bổ sung thông tin, tài liệu trong hồ sơ thuế không quá mười ngày. Người nộp thuế có thể đến cơ quan thuế giải trình trực tiếp hoặc bổ sung thông tin, tài liệu hoặc bằng văn bản.
+
+Trường hợp người nộp thuế giải trình trực tiếp tại cơ quan thuế thì phải lập Biên bản làm việc theo mẫu số 02/KTTT ban hành kèm theo Thông tư này.
+
+1.2.2. Sau khi người nộp thuế đã giải trình, bổ sung thông tin, tài liệu theo yêu cầu của cơ quan thuế:
+
+- Trường hợp người nộp thuế đã giải trình hoặc bổ sung thông tin, tài liệu đầy đủ theo yêu cầu của cơ quan thuế và chứng minh số thuế đã khai là đúng thì hồ sơ thuế được chấp nhận.
+
+- Trường hợp người nộp thuế đã giải trình hoặc bổ sung thông tin, tài liệu mà không đủ căn cứ chứng minh số thuế đã khai là đúng thì cơ quan thuế yêu cầu người nộp thuế khai bổ sung. Thời hạn khai bổ sung là năm ngày kể từ ngày cơ quan thuế có thông báo yêu cầu khai bổ sung.
+
+- Trường hợp hết thời hạn theo thông báo của cơ quan thuế mà người nộp thuế không giải trình, bổ sung thông tin, tài liệu; hoặc không khai bổ sung hồ sơ thuế; hoặc giải trình, khai bổ sung hồ sơ thuế nhưng không chứng minh được số thuế đã khai là đúng thì cơ quan thuế:
+
++ Ấn định số thuế phải nộp và thông báo cho người nộp thuế biết theo mẫu 01/AĐTH ban hành kèm theo Thông tư này; hoặc
+
++ Ra quyết định kiểm tra tại trụ sở người nộp thuế nếu không đủ căn cứ để ấn định số thuế phải nộp. Quyết định kiểm tra thuế tại trụ sở của người nộp thuế theo mẫu số 03/KTTT ban hành kèm theo Thông tư này.
+
+2. Kiểm tra thuế tại trụ sở của người nộp thuế
+
+2.1. Các trường hợp kiểm tra tại trụ sở người nộp thuế:
+
+2.1.1. Trường hợp người nộp thuế không giải trình, bổ sung thông tin, tài liệu; không khai bổ sung hồ sơ thuế hoặc giải trình, khai bổ sung hồ sơ thuế nhưng không chứng minh được số thuế đã khai là đúng; hoặc cơ quan thuế không đủ căn cứ để ấn định số thuế phải nộp.
+
+2.1.2. Trường hợp kiểm tra trước khi hoàn thuế theo quy định, bao gồm:
+
+- Hoàn thuế theo quy định của điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.
+
+- Người nộp thuế đề nghị hoàn thuế lần đầu.
+
+- Người nộp thuế đã có hành vi trốn thuế, gian lận về thuế trong thời hạn 2 năm tính từ thời điểm đề nghị hoàn thuế trở về trước.
+
+- Người nộp thuế không thực hiện giao dịch thanh toán qua ngân hàng theo quy định.
+
+- Doanh nghiệp sáp nhập, hợp nhất, chia tách, giải thể, phá sản, chuyển đổi hình thức sở hữu, chấm dứt hoạt động; giao, bán, khoán, cho thuê doanh nghiệp nhà nước.
+
+2.2. Kiểm tra thuế tại trụ sở của người nộp thuế:
+
+2.2.1. Cơ quan thuế ra quyết định kiểm tra thuế đối với trường hợp quy định tại điểm 2.1 mục này. Việc kiểm tra thuế tại trụ sở người nộp thuế chỉ được thực hiện khi có quyết định kiểm tra thuế tại trụ sở người nộp thuế. Người nộp thuế có quyền từ chối việc kiểm tra khi không có quyết định kiểm tra thuế.
+
+Quyết định kiểm tra thuế tại trụ sở người nộp thuế do thủ trưởng cơ quan thuế ban hành.
+
+Quyết định kiểm tra thuế tại trụ sở của người nộp thuế phải có những nội dung cơ bản sau đây:
+
+- Căn cứ pháp lý để kiểm tra;
+
+- Đối tượng kiểm tra (trường hợp đối tượng kiểm tra là người nộp thuế có các đơn vị thành viên thì nội dung Quyết định kiểm tra phải ghi cụ thể danh sách đơn vị thành viên thuộc đối tượng kiểm tra theo Quyết định);
+
+- Nội dung, phạm vi kiểm tra;
+
+- Thời gian tiến hành kiểm tra;
+
+- Trưởng đoàn kiểm tra và các thành viên khác của đoàn kiểm tra.
+
+- Quyền hạn và trách nhiệm của Đoàn kiểm tra và đối tượng kiểm tra.
+
+2.2.2. Trình tự, thủ tục kiểm tra thuế tại trụ sở của người nộp thuế:
+
+- Chậm nhất là năm ngày làm việc kể từ ngày ký quyết định, Quyết định kiểm tra thuế tại trụ sở của người nộp thuế phải được gửi cho người nộp thuế.
+
+- Trong thời hạn ba ngày làm việc, kể từ ngày nhận được Quyết định kiểm tra thuế hoặc trước thời điểm tiến hành kiểm tra tại trụ sở người nộp thuế mà người nộp thuế chứng minh được với cơ quan thuế số thuế đã khai là đúng hoặc nộp đủ số tiền thuế phải nộp theo tính toán của cơ quan thuế, thì Thủ trưởng cơ quan thuế ra Quyết định bãi bỏ Quyết định kiểm tra thuế.
+
+- Việc kiểm tra theo Quyết định kiểm tra thuế phải được tiến hành chậm nhất là mười ngày làm việc, kể từ ngày ban hành Quyết định. Khi bắt đầu tiến hành kiểm tra thuế, trưởng đoàn kiểm tra thuế có trách nhiệm công bố Quyết định kiểm tra thuế và giải thích nội dung Quyết định kiểm tra để đối tượng kiểm tra hiểu và có trách nhiệm chấp hành Quyết định kiểm tra. Trường hợp khi nhận được Quyết định kiểm tra, người nộp thuế đề nghị hoãn thời gian tiến hành kiểm tra thì phải có văn bản gửi cơ quan thuế nêu rõ lý do và thời gian hoãn để xem xét quyết định. Trong thời hạn năm ngày làm việc kể từ ngày nhận được văn bản đề nghị hoãn thời gian kiểm tra, cơ quan thuế thông báo cho người nộp thuế biết về việc chấp nhận hay không chấp nhận việc hoãn thời gian kiểm tra.
+
+- Trong quá trình thực hiện Quyết định kiểm tra, Đoàn kiểm tra thực hiện việc đối chiếu nội dung trong hồ sơ thuế với sổ kế toán, chứng từ kế toán, báo cáo tài chính, các tài liệu có liên quan, tình trạng thực tế trong phạm vi nội dung của Quyết định kiểm tra thuế.
+
+Trường hợp xét thấy cần thiết phải tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế, Trưởng đoàn kiểm tra báo cáo bằng văn bản để người ra quyết định kiểm tra quyết định áp dụng biện pháp tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế theo quy định.
+
+Người nộp thuế có nghĩa vụ cung cấp kịp thời, đầy đủ, chính xác các thông tin, tài liệu liên quan đến nội dung kiểm tra theo yêu cầu của Đoàn kiểm tra; chịu trách nhiệm trước pháp luật về tính chính xác của thông tin, tài liệu đã cung cấp. Đối với các thông tin, tài liệu không liên quan đến nội dung kiểm tra; thông tin, tài liệu thuộc bí mật nhà nước, người nộp thuế có quyền từ chối cung cấp, trừ trường hợp pháp luật có quy định khác.
+
+- Thời hạn kiểm tra thuế tại trụ sở của người nộp thuế không quá năm ngày làm việc, kể từ ngày bắt đầu tiến hành kiểm tra. Trong trường hợp xét thấy cần thiết, cần có thêm thời gian để xác minh, thu thập chứng cứ thì chậm nhất là một ngày trước khi kết thúc thời hạn kiểm tra theo quy định, Trưởng đoàn kiểm tra phải báo cáo bằng văn bản với người ra Quyết định kiểm tra để gia hạn kiểm tra. Quyết định kiểm tra chỉ được gia hạn một lần, dưới hình thức văn bản. Thời gian gia hạn không quá năm ngày làm việc.
+
+2.2.3. Biên bản kiểm tra thuế:
+
+Biên bản kiểm tra thuế phải được lập theo mẫu số 04/KTTT ban hành kèm theo Thông tư này và được ký trong thời hạn năm ngày làm việc, kể từ ngày kết thúc kiểm tra.
+
+Biên bản kiểm tra gồm các nội dung chính sau:
+
+- Các căn cứ pháp lý để thiết lập biên bản.
+
+- Mô tả thực trạng diễn biến của sự việc theo nội dung đã kiểm tra; nêu cụ thể kết quả đối chiếu của đoàn kiểm tra với số liệu kê khai, báo cáo của người nộp thuế; giải thích lý do, nguyên nhân;
+
+- Kết luận về từng nội dung đã tiến hành kiểm tra, xác định hành vi vi phạm, mức độ vi phạm; xử lý vi phạm theo thẩm quyền; kiến nghị biện pháp xử lý không thuộc thẩm quyền của Đoàn kiểm tra.
+
+Biên bản kiểm tra phải được công bố công khai trước Đoàn kiểm tra và người nộp thuế được kiểm tra. Biên bản kiểm tra phải được Trưởng đoàn kiểm tra và người nộp thuế (hoặc đại diện hợp pháp của người nộp thuế) ký vào từng trang, đóng dấu của người nộp thuế (nếu có).
+
+Người nộp thuế được quyền nhận biên bản kiểm tra thuế, yêu cầu giải thích nội dung Biên bản kiểm tra thuế và bảo lưu ý kiến trong Biên bản kiểm tra thuế.
+
+2.2.4. Xử lý kết quả kiểm tra thuế:
+
+- Chậm nhất năm ngày làm việc kể từ ngày ký Biên bản kiểm tra với người nộp thuế, Trưởng đoàn kiểm tra phải báo cáo người ra quyết định kiểm tra thuế về kết quả kiểm tra. Trường hợp kết quả kiểm tra dẫn đến phải xử lý về thuế, xử phạt vi phạm hành chính thì trong thời hạn không quá mười ngày làm việc kể từ ngày ký biên bản, Thủ trưởng cơ quan thuế phải ra quyết định xử lý thuế, xử phạt vi phạm hành chính. Người nộp thuế có nghĩa vụ chấp hành quyết định xử lý kết quả kiểm tra về thuế.
+
+- Trường hợp mức xử phạt đối với hành vi vi phạm của người nộp thuế vượt quá thẩm quyền xử phạt của người ra quyết định kiểm tra thuế, trong thời hạn mười ngày làm việc kể từ ngày ký biên bản kiểm tra thuế, người ra quyết định kiểm tra có văn bản đề nghị người có thẩm quyền xử phạt vi phạm hành chính về thuế (kèm theo Biên bản kiểm tra) và thông báo cho người nộp thuế biết.
+
+Trong thời hạn mười ngày làm việc kể từ ngày nhận được đề nghị ra quyết định xử phạt vi phạm hành chính về thuế, người nhận được văn bản đề nghị của cơ quan thuế phải ra quyết định xử phạt vi phạm hành chính về thuế; hoặc thông báo và chuyển hồ sơ lại cơ quan thuế đã đề nghị về việc không thuộc thẩm quyền xử phạt.
+
+Trường hợp qua kiểm tra thuế mà phát hiện hành vi vi phạm về thuế có dấu hiệu trốn thuế, gian lận về thuế thì trong thời hạn năm ngày làm việc, kể từ ngày phát hiện, đoàn kiểm tra có trách nhiệm báo cáo thủ trưởng cơ quan thuế để chuyển hồ sơ sang bộ phận thanh tra thuế và bổ sung vào kế hoạch thanh tra theo trường hợp quy định tại khoản 2 Điều 81 của Luật Quản lý thuế.
+
+II. THANH TRA THUẾ
+
+1. Việc thanh tra thuế chỉ được tiến hành đối với các trường hợp quy định tại Điều 81 của Luật Quản lý thuế. Đối với trường hợp có dấu hiệu vi phạm pháp luật thuế, chỉ được tiến hành thanh tra khi có căn cứ xác định người nộp thuế khai thiếu nghĩa vụ thuế, trốn thuế, gian lận thuế nhưng chưa đến mức truy cứu trách nhiệm hình sự.
+
+2. Việc thanh tra thuế được thực hiện căn cứ vào kế hoạch thanh tra hàng năm trừ các trường hợp quy định tại khoản 2 và khoản 3 Điều 81 của Luật Quản lý thuế (thanh tra khi có dấu hiệu vi phạm pháp luật về thuế; thanh tra để giải quyết khiếu nại, tố cáo hoặc theo yêu cầu của thủ trưởng cơ quan quản lý thuế các cấp hoặc Bộ trưởng Bộ Tài chính).
+
+Việc lập kế hoạch thanh tra phải dựa trên cơ sở phân tích thông tin về người nộp thuế, từ đó phát hiện, lập danh sách người nộp thuế có dấu hiệu bất thường trong việc thực hiện nghĩa vụ thuế để lựa chọn đối tượng lập kế hoạch thanh tra. Kế hoạch thanh tra bao gồm các nội dung chủ yếu sau đây: đối tượng thanh tra, kỳ thanh tra, loại thuế thuộc diện thanh tra, thời gian dự kiến tiến hành thanh tra.
+
+Kế hoạch thanh tra của cơ quan thuế cấp dưới phải được gửi đến cơ quan thuế cấp trên. Trường hợp có sự trùng lặp về đối tượng thanh tra thì cơ quan thuế cấp trên sẽ thực hiện kế hoạch thanh tra với đối tượng thanh tra đó.
+
+Trường hợp cơ quan thanh tra nhà nước có kế hoạch thanh tra về thuế trùng với kế hoạch thanh tra của cơ quan thuế thì ưu tiên kế hoạch thanh tra thuế của cơ quan thanh tra nhà nước.
+
+3. Thủ trưởng cơ quan thuế các cấp có thẩm quyền ra Quyết định thanh tra thuế theo mẫu số 03/KTTT ban hành kèm theo Thông tư này.
+
+Quyết định thanh tra thuế phải có các nội dung sau đây:
+
+- Căn cứ pháp lý để thanh tra;
+
+- Đối tượng thanh tra (trường hợp đối tượng thanh tra là người nộp thuế có các đơn vị thành viên thì nội dung Quyết định thanh tra phải ghi cụ thể danh sách đơn vị thành viên thuộc đối tượng thanh tra theo Quyết định);
+
+- Nội dung, phạm vi, nhiệm vụ thanh tra;
+
+- Thời hạn tiến hành thanh tra;
+
+- Trưởng đoàn thanh tra và các thành viên khác của đoàn thanh tra. Trong trường hợp cần thiết, Đoàn thanh tra có Phó trưởng đoàn thanh tra để giúp Trưởng Đoàn thực hiện một số nhiệm vụ được phân công và chịu trách nhiệm trước Trưởng Đoàn về việc thực hiện nhiệm vụ được giao. Khi thực hiện thanh tra thuế, Đoàn thanh tra thuế phải có tối thiểu một thành viên là thanh tra viên thuế.
+
+Quyết định thanh tra thuế phải được gửi cho đối tượng thanh tra chậm nhất là ba ngày làm việc, kể từ ngày ký.
+
+4. Thời hạn một lần thanh tra thuế không quá ba mươi ngày, kể từ ngày công bố Quyết định thanh tra thuế. Trong trường hợp xét thấy cần thiết, cần có thêm thời gian để xác minh, thu thập chứng cứ thì chậm nhất năm ngày làm việc trước khi kết thúc thời hạn thanh tra theo quy định, Trưởng đoàn thanh tra phải báo cáo bằng văn bản với người ra quyết định thanh tra để gia hạn thanh tra. Quyết định thanh tra chỉ được gia hạn một lần, dưới hình thức văn bản. Thời gian gia hạn không quá ba mươi ngày.
+
+5. Tiến hành thanh tra:
+
+5.1. Công bố Quyết định thanh tra:
+
+Quyết định thanh tra thuế phải được công bố chậm nhất là mười lăm ngày, kể từ ngày ban hành.
+
+Trước khi công bố Quyết định thanh tra, Trưởng đoàn thanh tra thông báo với đối tượng thanh tra về thời gian, thành phần tham dự, địa điểm công bố Quyết định. Khi công bố Quyết định thanh tra, Trưởng đoàn thanh tra phải đọc toàn văn Quyết định thanh tra; giải thích rõ về nội dung quyết định thanh tra đối tượng thanh tra hiểu rõ và có trách nhiệm chấp hành Quyết định thanh tra; thông báo chương trình làm việc giữa Đoàn thanh tra với đối tượng thanh tra và những công việc khác có liên quan đến hoạt động thanh tra.
+
+Việc công bố Quyết định thanh tra phải được lập biên bản theo mẫu số 05/KTTT ban hành kèm theo Thông tư này.
+
+Trường hợp khi nhận được Quyết định thanh tra, người nộp thuế đề nghị hoãn thời gian tiến hành thanh tra thì phải có văn bản gửi cơ quan thuế, nêu rõ lý do và thời gian hoãn để xem xét quyết định. Trong thời hạn năm ngày làm việc kể từ ngày nhận được văn bản đề nghị hoãn thời gian thanh tra, cơ quan thuế thông báo cho người nộp thuế biết về việc chấp nhận hay không chấp nhận việc hoãn thời gian thanh tra.
+
+5.2. Thực hiện thanh tra:
+
+- Khi bắt đầu tiến hành thanh tra, Đoàn thanh tra yêu cầu người nộp thuế cung cấp các thông tin, tài liệu liên quan đến nội dung thanh tra như hồ sơ đăng ký kinh doanh, đăng ký thuế, tình trạng đăng ký sửa dụng hoá đơn, sổ kế toán, chứng từ kế toán, báo cáo tài chính, hồ sơ khai thuế... Người nộp thuế có nghĩa vụ cung cấp kịp thời, đầy đủ, chính xác các thông tin, tài liệu liên quan đến nội dung thanh tra theo yêu cầu của cơ quan thuế. Đối với những thông tin, tài liệu không liên quan đến nội dung thanh tra thuế, thông tin, tài liệu thuộc bí mật Nhà nước, người nộp thuế có quyền từ chối cung cấp, trừ trường hợp pháp luật có quy định khác. Khi tiếp nhận các tài liệu do người nộp thuế cung cấp, Đoàn thanh tra có trách nhiệm kiểm đếm, bảo quản, khai thác, sử dụng tài liệu đúng mục đích, không để thất lạc tài liệu. Trường hợp có căn cứ xác định người nộp thuế vi phạm pháp luật về thuế, Trưởng đoàn thanh tra ra quyết định niêm phong một phần hoặc toàn bộ tài liệu có liên quan tới nội dung thanh tra. Việc niêm phong, mở niêm phong khai thác tài liệu hoặc huỷ bỏ niêm phong thực hiện theo đúng quy định của pháp luật.
+
+- Trong quá trình thực hiện Quyết định thanh tra, Đoàn thanh tra thực hiện việc đối chiếu thông tin trong hồ sơ khai thuế với sổ kế toán, chứng từ kế toán, báo cáo tài chính, các tài liệu có liên quan, khi cần thiết có thể tiến hành kiểm kê tài sản của người nộp thuế trong phạm vi nội dung của Quyết định thanh tra thuế để phát hiện, làm rõ các vấn đề, các sự kiện và kết luận chính xác, trung thực, khách quan về nội dung thanh tra.
+
+- Đối với những sự việc, tài liệu phản ánh chưa rõ, chưa đủ cơ sở kết luận, Đoàn thanh tra chuẩn bị chi tiết nội dung yêu cầu người nộp thuế giải trình bằng văn bản. Trường hợp giải trình bằng văn bản của người nộp thuế chưa rõ, Đoàn thanh tra tổ chức đối thoại, chất vấn người nộp thuế để làm rõ nội dung và trách nhiệm của tập thể, cá nhân. Cuộc đối thoại, chất vấn phải được lập biên bản có chữ ký xác nhận của các bên và được ghi âm trong trường hợp cần thiết.
+
+- Trường hợp cần thiết phải giám định tài liệu, Trưởng đoàn thanh tra báo cáo người ra quyết định thanh tra quyết định trưng cầu giám định. Đoàn thanh tra lập biên bản thu giữ tài liệu ghi rõ tình trạng của tài liệu đó (kể cả hiện vật nếu có) để chuyển cơ quan giám định.
+
+- Trong quá trình thanh tra, nếu phát hiện người nộp thuế có dấu hiệu trốn thuế, gian lận thuế liên quan đến tổ chức, cá nhân khác, hoặc dấu hiệu trốn thuế, gian lận thuế có tính chất phức tạp thì cơ quan thuế có quyền áp dụng các biện pháp trong thanh tra theo quy định tại Điều 89, Điều 90, Điều 91 của Luật Quản lý thuế và hướng dẫn tại mục III Phần này.
+
+- Đoàn thanh tra thực hiện lập hồ sơ chứng lý thanh tra làm tài liệu gốc để lập Biên bản thanh tra, gồm có các biên bản ghi nhận kết quả đối chiếu; các bản sao chụp các tài liệu có liên quan (kể cả tài liệu ghi âm, ghi hình); biên bản kiểm kê kho quỹ và ghi nhận kết quả làm việc của thành viên Đoàn thanh tra, với các đối tượng có liên quan của doanh nghiệp; các tài liệu, báo cáo của doanh nghiệp lập theo yêu cầu của Đoàn thanh tra hoặc các bảng kê tài liệu, số liệu mà đoàn thanh tra lập cùng với người nộp thuế...
+
+5.3. Lập biên bản thanh tra thuế:
+
+Biên bản thanh tra thuế phải được lập theo mẫu số 04/KTTT ban hành kèm theo Thông tư này và được ký trong thời hạn năm ngày làm việc, kể từ ngày kết thúc thanh tra.
+
+Biên bản thanh tra thuế phải có các nội dung sau đây:
+
+- Các căn cứ pháp lý để lập biên bản.
+
+- Mô tả nội dung đã thanh tra, kết quả đối chiếu của đoàn thanh tra với số liệu kê khai, báo cáo của người nộp thuế; giải thích lý do, nguyên nhân; đưa ra các bằng chứng thanh tra.
+
+- Kết luận về từng nội dung đã tiến hành thanh tra, xác định hành vi vi phạm, mức độ vi phạm; xử lý vi phạm theo thẩm quyền; kiến nghị biện pháp xử lý không thuộc thẩm quyền của Đoàn thanh tra.
+
+Biên bản thanh tra phải được công bố công khai trước Đoàn thanh tra và người nộp thuế được thanh tra. Biên bản thanh tra phải được Trưởng đoàn thành tra và người nộp thuế (hoặc đại diện hợp pháp của người nộp thuế) ký vào từng trang, đóng dấu của người nộp thuế (nếu có).
+
+Người nộp thuế được quyền nhận Biên bản thanh tra thuế, yêu cầu giải thích nội dung Biên bản thanh tra thuế và bảo lưu ý kiến trong Biên bản thanh tra thuế.
+
+6. Báo cáo kết quả thanh tra và kết luận thanh tra:
+
+6.1. Chậm nhất mười lăm ngày, kể từ ngày kết thúc thanh tra, Trưởng đoàn thanh tra phải có văn bản báo cáo kết quả thanh tra và dự thảo Kết luận thanh tra gửi người ra quyết định thanh tra.
+
+6.2. Báo cáo kết quả thanh tra phải có các nội dung sau đây:
+
+- Kết luận cụ thể về từng nội dung đã tiến hành thanh tra;
+
+- Xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm (nếu có);
+
+- Ý kiến khác nhau giữa thành viên Đoàn thanh tra với Trưởng đoàn thanh tra về nội dung báo cáo kết quả thanh tra (nếu có);
+
+- Các biện pháp xử lý theo thẩm quyền đã được áp dụng; kiến nghị biện pháp xử lý;
+
+- Các quy định của pháp luật làm căn cứ để xác định tính chất, mức độ vi phạm và kiến nghị biện pháp xử lý.
+
+Báo cáo kết quả thanh tra và dự thảo kết luận thanh tra trình người ra kết luận thanh tra phải có đầy đủ ý kiến tham gia bằng văn bản của các thành viên trong đoàn thanh tra. Ý kiến tham gia phải khẳng định có đồng ý hay không đồng ý với báo cáo, dự thảo kết luận của trưởng đoàn về nội dung công việc của bản thân mình trực tiếp làm và các nội dung do người khác thực hiện; trường hợp không đồng ý thì phải nêu rõ lý do.
+
+7. Kết luận thanh tra và lưu hành quyết định thanh tra
+
+7.1. Chậm nhất là mười lăm ngày, kể từ ngày nhận được Báo cáo kết quả thanh tra thuế, Thủ trưởng cơ quan thuế đã ra Quyết định thanh tra thuế phải có văn bản Kết luận thanh tra thuế theo mẫu số 06/KTTT ban hành kèm theo Thông tư này.
+
+7.2. Kết luận thanh tra thuế phải có các nội dung sau đây:
+
+- Đánh giá việc thực hiện pháp luật về thuế của đối tượng thanh tra thuộc nội dung thanh tra thuế;
+
+- Kết luận về nội dung được thanh tra thuế;
+
+- Xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm (nếu có);
+
+- Xử lý theo thẩm quyền hoặc kiến nghị người có thẩm quyền xử lý vi phạm hành chính theo quy định của pháp luật.
+
+7.3. Trong quá trình ra văn bản Kết luận thanh tra, Thủ trưởng cơ quan thuế đã ra Quyết định thanh tra thuế có quyền yêu cầu trưởng đoàn thanh tra, thành viên đoàn thanh tra báo cáo, yêu cầu đối tượng thanh tra giải trình để làm rõ thêm những vấn đề cần thiết phục vụ cho việc ra Kết luận thanh tra thuế.
+
+7.4. Kết luận thanh tra phải được gửi cho người nộp thuế là đối tượng thanh tra, cơ quan thuế quản lý trực tiếp (trong trường hợp cơ quan thuế cấp trên ra quyết định thanh tra) hoặc cơ quan thuế cấp trên (trong trường hợp cơ quan thuế quản lý trực tiếp ra quyết định thanh tra).
+
+8. Trường hợp người nộp thuế có hành vi vi phạm pháp luật thuế, căn cứ kết luận thanh tra, thủ trưởng cơ quan thuế quản lý trực tiếp ra quyết định ấn định thuế và quyết định xử phạt hành chính đối với người nộp thuế.
+
+Trường hợp mức xử phạt đối với hành vi vi phạm của người nộp thuế vượt quá thẩm quyền xử phạt của người ra quyết định thanh tra, trong thời hạn ba ngày kể từ ngày ký Kết luận thanh tra, người ra quyết định thanh tra có văn bản đề nghị người có thẩm quyền xử phạt vi phạm hành chính về thuế (kèm theo Biên bản thanh tra, Kết luận thanh tra thuế) và thông báo cho người nộp thuế biết. Trong thời hạn ba ngày làm việc, kể từ ngày nhận được đề nghị ra quyết định xử phạt vi phạm hành chính về thuế, nếu vụ việc không thuộc thẩm quyền xử phạt của mình, người nhận đề nghị xử phạt vi phạm hành chính về thuế phải chuyển lại hồ sơ và có văn bản thông báo lý do cho người ra quyết định thanh tra biết. Nếu vụ việc thuộc thẩm quyền của mình, người nhận đề nghị xem xét để ra quyết định xử phạt vi phạm hành chính về thuế trong thời hạn ba mươi ngày làm việc, kể từ ngày ký Biên bản thanh tra.
+
+III. THỦ TỤC ÁP DỤNG CÁC BIỆN PHÁP TRONG THANH TRA THUẾ ĐỐI
+
+VỚI TRƯỜNG HỢP CÓ DẤU HIỆU TRỐN THUẾ, GIAN LẬN THUẾ
+
+1. Thu thập thông tin liên quan đến hành vi trốn thuế, gian lận thuế:
+
+Thủ trưởng cơ quan thuế có quyền yêu cầu tổ chức, cá nhân có thông tin liên quan đến hành vi trốn thuế, gian lận thuế cung cấp thông tin bằng văn bản hoặc trả lời trực tiếp.
+
+1.1. Cung cấp thông tin bằng văn bản:
+
+- Văn bản yêu cầu cung cấp thông tin được lập theo mẫu số 07/KTTT ban hành kèm theo Thông tư này và phải được gửi trực tiếp đến tổ chức, cá nhân được yêu cầu cung cấp thông tin.
+
+- Thời điểm để tính thời hạn cung cấp thông tin là thời điểm giao văn bản yêu cầu cung cấp thông tin cho người có trách nhiệm cung cấp thông tin hoặc cho người thứ ba có trách nhiệm chuyển văn bản đến người có trách nhiệm cung cấp thông tin.
+
+- Văn bản cung cấp thông tin phải bảo đảm định danh được người có trách nhiệm cung cấp thông tin. Trường hợp người cung cấp thông tin là đại diện của tổ chức nộp thuế thì văn bản phải có chữ ký, họ tên, chức danh của người cung cấp thông tin và đóng dấu của tổ chức. Trường hợp người cung cấp thông tin là cá nhân thì văn bản phải có chữ ký, họ tên, số giấy chứng minh nhân dân hoặc thông tin tương đương khác của người cung cấp thông tin.
+
+- Cá nhân, tổ chức có nghĩa vụ cung cấp thông tin trong thời hạn cơ quan thuế yêu cầu; trường hợp không thể cung cấp được thì phải trả lời bằng văn bản nêu rõ lý do.
+
+1.2. Cung cấp thông tin bằng trả lời trực tiếp:
+
+- Văn bản yêu cầu cung cấp thông tin bằng trả lời trực tiếp được lập theo mẫu số 08/KTTT ban hành kèm theo Thông tư này và phải có các nội dung chủ yếu sau: Tên tổ chức, cá nhân có trách nhiệm cung cấp thông tin, nội dung thông tin cần cung cấp, tài liệu cần mang theo, thời gian, địa điểm có mặt.
+
+- Thanh tra viên thuế được giao nhiệm vụ thu thập thông tin phải xuất trình thẻ thanh tra viên thuế khi thu thập thông tin.
+
+- Địa điểm thu thập thông tin là trụ sở cơ quan thuế.
+
+- Khi thu thập thông tin, thanh tra viên thuế phải lập biên bản mẫu số 09/KTTT ban hành kèm theo Thông tư này, trong đó có các nội dung chính sau đây:
+
++ Thời gian bắt đầu, thời gian kết thúc, nội dung hỏi và trả lời, tài liệu cung cấp, việc ghi âm, ghi hình, chữ ký của người cung cấp thông tin và chữ ký của thanh tra viên thuế thực hiện khai thác thông tin.
+
++ Người cung cấp thông tin được đọc hoặc nghe nội dung biên bản, ghi ý kiến trong biên bản.
+
++ Người cung cấp thông tin được giữ một bản biên cung cấp thông tin.
+
+- Người có trách nhiệm cung cấp thông tin được cơ quan thuế chi trả chi phí đi lại, ăn ở theo chế độ quy định.
+
+- Cơ quan thuế có trách nhiệm giữ bí mật về người cung cấp thông tin, văn bản, tài liệu, bút tích, chứng cứ thu thập được từ người cung cấp thông tin.
+
+2. Tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế:
+
+2.1. Thủ trưởng cơ quan thuế, Trưởng đoàn thanh tra thuế có quyền quyết định tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế.
+
+Quyết định tạm giữ tang vật, tài liệu phải được lập theo mẫu số 10/KTTT ban hành kèm theo Thông tư này và thể hiện các nội dung chính sau: tài liệu, tang vật bị tạm giữ, người thực hiện tạm giữ, cách thức tạm giữ (niêm phong tại chỗ, đưa đến nơi tạm giữ khác), thời gian tạm giữ. Quyết định tạm giữ được giao cho người có tài liệu, tang vật bị tạm giữ.
+
+2.2. Việc tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế được áp dụng khi cần xác minh tình tiết làm căn cứ để có quyết định xử lý hoặc ngăn chặn ngay hành vi trốn thuế, gian lận thuế.
+
+2.3. Trong quá trình thanh tra thuế, nếu đối tượng thanh tra có biểu hiện tẩu tán, tiêu hủy tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế thì thanh tra viên thuế đang thi hành nhiệm vụ được quyền tạm giữ tài liệu, tang vật đó.
+
+Trong thời hạn hai mươi bốn giờ, kể từ khi tạm giữ tài liệu, tang vật, thanh tra viên thuế phải báo cáo thủ trưởng cơ quan thuế hoặc trưởng đoàn thanh tra thuế ra quyết định tạm giữ tài liệu, tang vật.
+
+Trong thời hạn tám giờ làm việc, kể từ khi được báo cáo, người có thẩm quyền phải xem xét và ra quyết định tạm giữ. Trường hợp người có thẩm quyền không đồng ý việc tạm giữ thì thanh tra viên thuế phải trả lại tài liệu, tang vật trong thời hạn tám giờ làm việc.
+
+2.4. Khi tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế, thanh tra viên thuế phải lập Biên bản tạm giữ theo mẫu số 11/KTTT ban hành kèm theo Thông tư này. Biên bản tạm giữ phải ghi rõ tên, số lượng, chủng loại của tài liệu, tang vật bị tạm giữ; chữ ký của người thực hiện tạm giữ, người đang quản lý tài liệu, tang vật vi phạm. Người ra quyết định tạm giữ có trách nhiệm bảo quản tài liệu, tang vật tạm giữ và chịu trách nhiệm trước pháp luật nếu tài liệu, tang vật bị mất, bán, đánh tráo hoặc hư hỏng.
+
+Trong trường hợp tài liệu, tang vật cần được niêm phong thì việc niêm phong phải được tiến hành trước mặt người có tài liệu, tang vật; nếu người có tài liệu, tang vật vắng mặt thì việc niêm phong phải được tiến hành trước mặt đại diện gia đình hoặc đại diện tổ chức và đại diện chính quyền cấp xã, người chứng kiến.
+
+2.5. Tang vật là tiền Việt Nam, ngoại tệ, vàng bạc, đá quý, kim khí quý và những vật thuộc diện quản lý đặc biệt phải được bảo quản theo quy định của pháp luật; tang vật là hàng hoá, vật phẩm dễ bị hư hỏng thì người ra quyết định tạm giữ phải tiến hành lập biên bản và tổ chức bán ngay để tránh tổn thất; tiền thu được phải được gửi vào tài khoản tạm giữ mở tại Kho bạc Nhà nước để bảo đảm cho việc thu đủ tiền thuế, tiền phạt.
+
+2.6. Trong thời hạn mười ngày làm việc, kể từ ngày tạm giữ, người ra quyết định tạm giữ phải ra Quyết định xử lý tài liệu, tang vật bị tạm giữ theo mẫu số 12/KTTT ban hành kèm theo Thông tư này, xử lý những biện pháp ghi trong quyết định xử lý hoặc trả lại cho cá nhân, tổ chức nếu không áp dụng hình thức phạt tịch thu đối với tài liệu, tang vật bị tạm giữ. Thời hạn tạm giữ tài liệu, tang vật có thể được kéo dài đối với những vụ việc phức tạp, cần tiến hành xác minh, nhưng tối đa không quá sáu mươi ngày, kể từ ngày tạm giữ tài liệu, tang vật. Việc kéo dài thời hạn tạm giữ tài liệu, tang vật phải do người có thẩm quyền theo quy định tại điểm 2.1 mục này quyết định. Việc trả lại tài liệu, tang vật tạm giữ cho người có tang vật phải được lập thành biên bản ghi nhận giữa các bên theo mẫu số 13/KTTT ban hành kèm theo Thông tư này.
+
+Đối với tài liệu người nộp thuế sử dụng hàng ngày, cơ quan thuế được giữ tối đa là ba ngày làm việc; Đối với tài liệu lưu trữ thì cơ quan thuế được giữ tối đa là mười ngày làm việc. Trường hợp trả tài liệu tạm giữ theo thời hạn này thì cơ quan thuế không phải ra quyết định xử lý tài liệu.
+
+2.7. Cơ quan thuế phải giao một bản Quyết định tạm giữ, Biên bản tạm giữ, Quyết định xử lý tài liệu, tang vật, biên bản trả tài liệu, tang vật cho tổ chức, cá nhân có tài liệu, tang vật bị tạm giữ.
+
+2.8. Trường hợp tài liệu, tang vật bị mất, đánh tráo, hư hỏng hoặc trả quá thời hạn, gây thiệt hại cho người có tài liệu, tang vật thì cơ quan thuế có trách nhiệm bồi thường thiệt hại cho người có tài liệu, tang vật bị tạm giữ theo quy định của pháp luật.
+
+3. Khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế:
+
+3.1. Việc khám nơi cất giấu tài liệu, tang vật được tiến hành khi có căn cứ về việc cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế.
+
+3.2. Thủ trưởng cơ quan thuế có quyền quyết định khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế. Trường hợp nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế là nơi ở thì phải được sự đồng ý bằng văn bản của chủ tịch Ủy ban nhân dân cấp huyện quản lý địa bàn nơi có địa điểm bị khám.
+
+Quyết định khám nơi cất giấu tài liệu, tang vật được lập theo mẫu số 14/KTTT ban hành kèm theo Thông tư này bao gồm nội dung chủ yếu sau đây: địa điểm khám, thành phần của đoàn khám, thời gian khám, hiệu lực của quyết định.
+
+3.3. Không được khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế vào ban đêm, ngày lễ, ngày tết, khi người chủ nơi bị khám có việc hiếu, việc hỉ, trừ trường hợp phạm pháp quả tang và phải ghi rõ lý do vào biên bản.
+
+3.4. Khi khám nơi cất giấu tài liệu, tang vật phải có mặt người chủ nơi bị khám và người chứng kiến. Khi khám tại trụ sở của cơ quan, tổ chức thì phải có mặt của đại diện cơ quan, tổ chức. Trường hợp người chủ nơi bị khám, người đại diện của cơ quan, tổ chức vắng mặt mà việc khám không thể trì hoãn thì phải có đại diện chính quyền và hai người chứng kiến.
+
+3.5. Những người có mặt khi khám không được rời khỏi nơi khám, không được trao đổi, liên lạc với nhau cho đến khi khám xong.
+
+3.6. Mọi trường hợp khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế đều phải có quyết định bằng văn bản và phải lập biên bản theo mẫu số 15/KTTT ban hành kèm theo Thông tư này. Quyết định và biên bản khám nơi cất giấu tài liệu, tang vật phải được giao cho người chủ nơi bị khám một bản.
+
+3.7. Biên bản khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế bao gồm các nội dung chính sau đây:
+
+- Lý do khám, số quyết định khám hoặc tên thủ trưởng cơ quan thuế đồng ý cho tiến hành khám. Văn bản của chủ tịch Ủy ban nhân dân cấp huyện quản lý địa bàn nơi có địa điểm bị khám (nếu là nơi ở).
+
+- Thời gian bắt đầu, thời gian kết thúc;
+
+- Người thực hiện khám;
+
+- Địa điểm khám;
+
+- Chủ nơi khám hoặc người quản lý nơi khám;
+
+- Những tài liệu, tang vật phát hiện sau khi khám;
+
+- Xử lý theo thẩm quyền hoặc đề xuất người có thẩm quyền xử lý tài liệu, tang vật liên quan đến hành vi trốn thuế, gian lận thuế.
+
+Phần I
+
+KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN
+
+I. CÁC QUYẾT ĐỊNH HÀNH CHÍNH, HÀNH VI
+
+HÀNH CHÍNH BỊ KHIẾU NẠI, KHỞI KIỆN
+
+1. Người nộp thuế, cá nhân, tổ chức có quyền khiếu nại đối với các quyết định hành chính sau của cơ quan thuế:
+
+1.1. Quyết định ấn định thuế; Thông báo nộp thuế;
+
+1.2. Quyết định miễn thuế, giảm thuế;
+
+1.3. Quyết định hoàn thuế;
+
+1.4. Quyết định xử phạt hành chính đối với hành vi vi phạm pháp luật thuế;
+
+1.5. Quyết định cưỡng chế thi hành quyết định hành chính thuế;
+
+1.6. Kết luận thanh tra thuế;
+
+1.7. Quyết định giải quyết khiếu nại;
+
+1.8. Các quyết định hành chính khác theo quy định của pháp luật.
+
+Các văn bản của cơ quan thuế được ban hành dưới hình thức công văn, thông báo... nhưng chứa đựng nội dung quyết định của cơ quan thuế áp dụng một lần đối với một hoặc một số đối tượng cụ thể về một vấn đề cụ thể trong hoạt động quản lý thuế cũng được coi là quyết định hành chính của cơ quan thuế.
+
+2. Người nộp thuế, cá nhân, tổ chức có quyền khiếu nại đối với các hành vi hành chính của cơ quan thuế, công chức quản lý thuế, người được giao nhiệm vụ trong công tác quản lý thuế khi có căn cứ cho rằng hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình. Hành vi hành chính được thể hiện bằng hành động hoặc không hành động.
+
+3. Đối tượng bị tố cáo, cơ quan thuế, công chức quản lý thuế, người được giao nhiệm vụ trong công tác quản lý thuế có trách nhiệm kiểm tra, xem xét lại quyết định hành chính, hành vi hành chính của mình, nếu thấy trái pháp luật thì kịp thời sửa chữa, khắc phục để tránh phát sinh khiếu nại.
+
+II. THẨM QUYỀN GIẢI QUYẾT KHIẾU NẠI,
+
+TỐ CÁO CỦA CƠ QUAN THUẾ CÁC CẤP
+
+1. Thẩm quyền giải quyết khiếu nại của cơ quan thuế các cấp được thực hiện như sau:
+
+1.1. Chi cục trưởng Chi cục thuế có thẩm quyền giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của mình, của người có trách nhiệm do mình quản lý trực tiếp.
+
+1.2. Cục trưởng Cục thuế có thẩm quyền:
+
+1.2.1. Giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của chính mình; của người có trách nhiệm do mình quản lý trực tiếp.
+
+1.2.2. Giải quyết khiếu nại mà Chi cục trưởng Chi cục thuế đã giải quyết nhưng còn có khiếu nại.
+
+1.3. Tổng cục trưởng Tổng cục Thuế có thẩm quyền:
+
+1.3.1. Giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của chính mình; của người có trách nhiệm do mình quản lý trực tiếp.
+
+1.3.2. Giải quyết khiếu nại mà Cục trưởng Cục thuế đã giải quyết lần đầu nhưng còn có khiếu nại.
+
+1.4. Bộ trưởng Bộ Tài chính có thẩm quyền:
+
+1.4.1. Giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của chính mình; của người có trách nhiệm do mình quản lý trực tiếp.
+
+1.4.2. Giải quyết khiếu nại mà Tổng cục trưởng Tổng cục Thuế đã giải quyết lần đầu nhưng còn khiếu nại.
+
+2. Thẩm quyền giải quyết tố cáo của cơ quan thuế các cấp được thực hiện như sau:
+
+2.1. Tố cáo hành vi vi phạm pháp luật mà người bị tố cáo thuộc thẩm quyền quản lý của cơ quan thuế nào thì cơ quan thuế đó có trách nhiệm giải quyết.
+
+2.2. Tố cáo hành vi vi phạm quy định về nhiệm vụ, công vụ của người thuộc cơ quan thuế nào thì người đứng đầu cơ quan thuế đó có trách nhiệm giải quyết.
+
+2.3. Tố cáo hành vi vi phạm quy định về nhiệm vụ, công vụ của người đứng đầu cơ quan thuế nào thì người đứng đầu cơ quan cấp trên trực tiếp của cơ quan thuế đó có trách nhiệm giải quyết.
+
+III. THỜI HẠN, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO
+
+Thời hạn, thủ tục khiếu nại, tố cáo, giải quyết khiếu nại, tố cáo được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.
+
+Người có thẩm quyền giải quyết khiếu nại ra Quyết định giải quyết khiếu nại theo mẫu số 01/KNTC ban hành kèm theo Thông tư này.
+
+IV. TIẾP NGƯỜI ĐẾN KHIẾU NẠI, TỐ CÁO
+
+1. Thủ trưởng cơ quan thuế có trách nhiệm trực tiếp tiếp và tổ chức việc tiếp người đến trình bày khiếu nại, tố cáo, kiến nghị, phản ánh liên quan đến khiếu nại, tố cáo; bố trí cán bộ có phẩm chất tốt, có kiến thức và am hiểu chính sách, pháp luật, có ý thức trách nhiệm làm công tác tiếp người đến khiếu nại, tố cáo.
+
+Việc tiếp người đến khiếu nại, tố cáo phải được lập biên bản theo mẫu số 02/KNTC ban hành kèm theo Thông tư này.
+
+2. Việc tiếp người đến khiếu nại, tố cáo, đưa đơn khiếu nại, tố cáo được tiến hành tại nơi tiếp công dân. Cơ quan thuế phải bố trí nơi tiếp công dân thuận tiện, bảo đảm các điều kiện để người đến khiếu nại, tố cáo trình bày khiếu nại, tố cáo, kiến nghị, phản ánh liên quan đến khiếu nại, tố cáo được dễ dàng, thuận lợi.
+
+Tại nơi tiếp công dân phải niêm yết lịch tiếp công dân, nội quy tiếp công dân.
+
+3. Thủ trưởng cơ quan thuế có trách nhiệm trực tiếp tiếp công dân theo quy định sau đây:
+
+3.1. Chi cục trưởng Chi cục thuế mỗi tuần ít nhất một ngày;
+
+3.2. Cục trưởng Cục thuế mỗi tháng ít nhất hai ngày;
+
+3.3. Tổng cục trưởng Tổng cục thuế mỗi tháng ít nhất một ngày.
+
+4. Người đứng đầu bộ phận làm nhiệm vụ giải quyết khiếu nại tố cáo có trách nhiệm trực tiếp tiếp công dân theo quy định sau đây:
+
+4.1. Ở cấp Chi cục thuế mỗi tuần ít nhất ba ngày;
+
+4.2. Ở cấp Cục thuế mỗi tuần ít nhất hai ngày;
+
+4.3. Ở cấp Tổng cục mỗi tháng ít nhất bốn ngày.
+
+V. KHỞI KIỆN
+
+Việc khởi kiện quyết định hành chính, hành vi hành chính của cơ quan thuế, công chức thuế được thực hiện theo quy định của pháp luật về thủ tục giải quyết các vụ án hành chính.
+
+VI. XỬ LÝ SỐ THUẾ NỘP THỪA, SỐ THUẾ NỘP THIẾU SAU KHI
+
+CÓ QUYẾT ĐỊNH GIẢI QUYẾT CỦA CƠ QUAN CÓ THẨM QUYỀN
+
+1. Cơ quan thuế phải hoàn trả tiền thuế, số tiền phạt thu không đúng và trả tiền lãi tính trên số tiền nộp thừa của tiền thuế, tiền phạt thu không đúng cho người nộp thuế, bên thứ ba trong thời hạn mười lăm ngày, kể từ ra quyết định giải quyết khiếu nại hoặc từ ngày nhận được quyết định xử lý của cơ quan có thẩm quyền. Tiền lãi được tính theo lãi suất cơ bản do Ngân hàng Nhà nước công bố.
+
+Quyết định xử lý của cơ quan có thẩm quyền bao gồm: Quyết định của cơ quan quản lý hành chính nhà nước có thẩm quyền hoặc bản án, quyết định của Toà án có thẩm quyền theo quy định của pháp luật.
+
+2. Trường hợp số thuế phải nộp xác định tại quyết định giải quyết khiếu nại cao hơn so với số thuế phải nộp xác định tại quyết định hành chính bị khiếu nại thì người nộp thuế phải nộp đầy đủ số thuế còn thiếu trong thời hạn mười ngày kể từ ngày nhận được quyết định giải quyết khiếu nại.
+
+Phần K
+
+HIỆU LỰC THI HÀNH
+
+1. Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày đăng Công báo.
+
+Các quy định khai thuế tháng bắt đầu áp dụng cho khai thuế của kỳ tính thuế tháng 7 năm 2007.
+
+Các quy định khai thuế theo quý bắt đầu áp dụng cho khai thuế của kỳ tính thuế quý 3 năm 2007.
+
+Trong thời gian từ ngày 1 tháng 7 năm 2007 đến hết ngày 31 tháng 12 năm 2008, chuyên viên chính, kiểm soát viên chính của cơ quan thuế được sử dụng các quyền hạn như thanh tra viên thuế trong quá trình thực hiện thanh tra thuế.
+
+2. Bãi bỏ các nội dung hướng dẫn về quản lý thuế do Bộ Tài chính ban hành trước ngày Thông tư này có hiệu lực thi hành không phù hợp với hướng dẫn tại Thông tư này./.
+
+
+
+
+
+

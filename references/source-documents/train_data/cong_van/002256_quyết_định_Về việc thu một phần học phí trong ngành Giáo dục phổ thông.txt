@@ -1,0 +1,487 @@
+# Về việc thu một phần học phí trong ngành Giáo dục phổ thông
+# Loại: Quyết định
+# Số hiệu: 44/HĐBT
+# Ngày ban hành: 24/04/1989
+# Cơ quan: Hội đồng Bộ trưởng
+# Người ký: Võ Văn Kiệt
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Số 5-TT ngày 29 tháng 3 năm 1950 ấn định luật lệ hưu bổng trong thời kỳ kháng chiến.
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Kính gửi các vị Bộ trưởng:
+
+Chủ tịch UBKCHC Liên khu Việt Bắc 3, 4
+
+- Miền Nam Trung-bộ
+
+- Nam-bộ
+
+- khu Hà-nội
+
+Cán bộ nhận thấy, hiện nay, nhiều cơ quan, vì không có đủ tài liệu về luật lệ hưu bổng công chức, nên khi thanh toán hưu bổng hay bị nhầm lẫn.
+
+Thông tư này tóm tắt những điều cốt yếu trong luật lệ hưu bổng hiện hành.
+
+Mục I. Các loại hưu bổng, điều kiện để hưởng cách thanh toán
+
+1. Hưu bổng thâm niên
+
+Công chức làm việc từ 30 năm trở lên (niên hạn nói ở Mục II dưới đây), sẽ được hưởng hưu bổng thâm niên tính theo phân số 1/60 lương trung bình trong 3 năm làm việc cuối cùng (lương chính) và số năm làm việc dùng để tính hưu bổng (nói ở Mục II).
+
+Theo sắc lệnh số 54 ngày 3-11-45, công chức đủ 55 tuổi hoặc đã làm việc được 30 năm đều phải bắt buộc về hưu, nếu, đến hạn 55 tuổi, mà chưa đủ 30 năm làm việc, sẽ được hưởng hưu bổng tỷ lệ nói dưới đây.
+
+2. Hưu bổng tỷ lệ
+
+(Điều 10 và 11 trong thể lệ hưu bổng sửa đổi do sắc lệnh số 105 ngày 14-6-1946).
+
+Công chức làm việc được 20 năm trở lên đến dưới 30 năm (niên hạn nói ở mục II dưới đây), có quyền hưởng hưu bổng tỷ lệ:
+
+a) Về hưu trước ngày 1-10-1945-Hưu bổng sẽ tính như sau:
+
+- Từ 20 đến dưới 25 năm (tự ý xin về hưu 1/90
+
+- - (bị bắt buộc về hưu 1/75
+
+- Từ 25 năm đến dưới 30 năm 1/75
+
+b) Về hưu sau ngày 1-10-1945- (Sắc lệnh số 105 ngày 14-6-1946)
+
+- từ 20 năm đến dưới 25 năm ………………….. 1/75
+
+- từ 25 năm đến dưới 30 năm
+
+(hưu bổng tỷ lệ sau 25 năm)................1/60
+
+Cách tính hưu bổng thâm niên và tỷ lệ:
+
+Hưu bổng thâm niên và tỷ lệ tính theo phương trình sau đây:
+
+
+
+
+
+a x n
+
+
+
+
+
+
+12
+
+
+
+
+
+H: Hưu bổng
+
+a: lương trung bình phân số (1/60, 1/75, hoặc 1/90)
+
+n: thời gian làm việc (tính tháng, không tính ngày lẻ)
+
+Thí dụ: Một thư ký thượng hạng ngoại hạng làm việc từ 1-1-1916 đến 5-7-1946 được 30 năm, 6 tháng, 5 ngày. Lương đồng niên 3 năm cuối cùng là 1.680đ. (từ 6-7-43 đến 30-12-44) và 1.920đ, (từ 1-1-45 đến 5-7-46). Được thăng trật thư ký thượng hạng ngoại hạng (1.920đ, từ 1-1-45).
+
+Cách tính lương trung bình 3 năm cuối cùng:
+
+Lương 1.680đ, từ 6-7-43 đến 30-12-44 : 1 năm 5 tháng 25 ngày hay 535 ngày
+
+
+
+
+
+1.680đ x 535
+
+
+
+
+
+
+360
+
+
+
+
+
+Lương 1.920 đ từ 1-1-45 đến 5-7-46 = 1 năm 6 tháng 5 ngày hay 545 ngày:
+
+
+
+
+
+2.496đ66 + 2.906đ66
+
+
+
+
+
+
+3
+
+
+
+
+
+Hưu bổng chính tang đồng niên:
+
+
+
+
+
+1.801đ40 x 30 năm 6 tháng (hay 366 thg)
+
+
+
+
+
+
+60 x 12
+
+
+
+
+
+3. Hưu bổng thương tật
+
+Hưu bổng thương tật không kể niên hạn làm việc và không hạn tuổi, cấp cho:
+
+a) Hưu thuộc thành phế nhân không thể tiếp tục công việc được nữa vì đã hy sinh cho quyền lợi quốc gia, hoặc đã hy sinh cứu người, hoặc phải chiến đấu để tự vệ trong khi thừa hành chức vụ.
+
+Trong trường hợp này, hưu bổng bằng ba phần tư số lương chính tang đồng niên tại chức cuối cùng.
+
+Thí dụ: 400đ lương chính tang đồng niên cuối cùng 400đ x  3 = 300đ lương hưu chính tang đồng niên. 4
+
+b) Hưu thuộc không thể tiếp tục công việc vì ốm đau hoặc bị thương hay bị cố tật mắc phải trong khi thừa hành chức vụ;
+
+- làm việc dưới 20 năm thì hưu bổng bằng một phần ba số lương chính tang đồng niên tại chức cuối cùng.
+
+- làm việc trên 20 mươi năm thì hưu bổng bằng một nửa số lương chính tang đồng niên tại chức cuối cùng.
+
+4. Hưu bổng tuất quả
+
+Quả phụ chính thất hoặc kế thất của hưu thuộc được hưởng tuất quá bằng nửa hưu bổng của chồng trong trường hợp:
+
+Chồng có hưu bổng mà chết;
+
+Chồng chết tại chức mà đủ quyền hưởng hưu bổng thâm niên, tỷ lệ hoặc thương tật nói trên.
+
+Điều kiện:
+
+a) Ngày cưới phải ít nhất hai năm trước ngày công chức về hưu hay xuất ngạch. Nếu có con sinh trước ngày đó hoặc sinh trong vòng 300 ngày sau ngày đó, thì ngày cưới chỉ cần trước ngày về hưu hay xuất ngạch.
+
+b) Nếu chồng đủ quyền hưởng hưu bổng thương tật nói trên thì chỉ cần ngày cưới trước ngày chồng xuất ngạch.
+
+Người vợ biệt cư vì lợi tại mình hoặc bị ly dị do toà án quyết định, hay tái giá, mất quyền hưởng hưu bổng tuất quả.
+
+Hưu bổng tuất quả được hưởng từ sau ngày chồng chết.
+
+5. Hưu bổng tuất cô
+
+Cô nhi chính thức (một hay nhiều cô nhi cũng thế của hưu thuộc được hưởng tuất cô bằng nửa hưu bổng của bố hoặc của mẹ (nếu mẹ là viên chức) trong trường hợp:
+
+hưu thuộc (là bố hay mẹ) có hưu bổng mà chết;
+
+hưu thuộc (là bố hay mẹ) chết tại chức mà quyền hưởng hưu bổng thâm niên, tỷ lệ hoặc thương tật nói trên.
+
+Điều kiện:
+
+Phải là cô nhi chính thức dưới 21 tuổi.
+
+Ngày cưới của bố mẹ phải trước ngày hưu thuộc xuất ngạch; cô nhi phải sinh trước hoặc trong vòng 300. ngày sau khi hưu thuộc xuất ngạch;
+
+Khi quả phụ có quyền hưởng hưu bổng tuất quả đã chết, hoặc tái giá, hoặc bị truất quyền, hoặc nhường quyền cho cô nhi .
+
+Cô nhi đã quá 21 tuổi hay đã thành gia thất hoặc tự lập, không được hưởng hưu bổng tuất cô.
+
+Trong trường hợp có nhiều cô nhi, hưu bổng tuất được hưởng từ sau ngày bố hay mẹ chết, cho đến khi người con út đủ 21 tuổi.
+
+6) Hưu bổng đặc biệt tạm thời
+
+a) Hưu thuộc tại chức mà mất tích, nếu có đủ quyền hưởng hưu bổng thì quả phụ chính thức hoặc kế thấc hay cô nhi chính thức dưới 21 tuổi, được hưởng hưu bổng tạm thời như hưu bổng tuất quả hay tuất cô, sau khi toà án đã công nhận sự mất tích theo dân luật hiện hành.
+
+b) Hưu thuộc đã có hưu bổng mà mất tích thì sau 12 tháng quả phụ chính thất hoặc kế thất hay cô nhi chính thức dưới 21 tuổi mới được xin hưởng hưu bổng tạm thời như hưu bổng tuất quả hay tuất cô, sau khi UBKCHC xã, huyện, kỳ hay khu đã công nhận sự mất tích.
+
+c) Trường hợp quả phụ có hưu bổng mà mất tích cũng theo thể lệ này và cô nhi chính thức dưới 21 tuỏi được hưởng hưu bổng tạm thời.
+
+Hưu bổng tạm thời được hưởng từ ngày công nhận sự mất tích đến ngày người mất tịch lại trở về. Hình thức khai báo lúc người mất tích trở về cũng như khi mất tích.
+
+Người mất tích trở về không được quyền truy lĩnh phần hưu bổng của mình trong thời kỳ đã cấp hưu bổng tạm thời.
+
+Mục II. Sử dụng thời gian làm việc
+
+* Thời gian dùng để tính hưu bổng
+
+- Thời gian tòng ngũ, nếu chưa có hưu bổng ngạch binh, thì được tính 5 năm là số tối đa ;
+
+- Thời gian trong ngạch Bảo an binh cũ mà không được hưởng hưu bổng ở ngạch ấy;
+
+- Thời gian làm tập sự có nộp hưu liễm;
+
+- Thời gian làm công nhật hay tạm thời có nộp hưu liễm (nghĩa là đã truy thưởng);
+
+- Thời gian nghỉ: có lương, nghỉ nửa lương, nghỉ dưỡng bệnh, nghỉ dài hạn vì mắc bệnh lao hay bệnh phong, nghỉ ngoại ngạch để làm việc ở các xí nghiệp riêng.
+
+Chú thích: trong những thời gian nghỉ này, tuỳ từng trường hợp, hưu thuộc hoặc cơ quan dùng hưu thuộc vẫn phải nộp hưu liễm và công quỹ phụ nạp cho quỹ hưu bổng.
+
+2. Thời gian tính vào niên hạn để công chức đủ điều kiện hưởng hưu bổng thâm niên hay tỷ lệ, nhưng không được dùng để lĩnh hưu bổng.
+
+- Tất cả thời gian tòng ngũ đã được hưởng hay không được hưởng hưu bổng ngạch binh ;
+
+- Thời gian theo học ở trường Pháp chinh và trường Cao đẳng Y khoa cũ, được tính 5 năm là số tối đa (không kể những năm học lại);
+
+3. Thời gian không tính quyền hưởng hưu bổng và cũng không được dùng để tính hưu bổng.
+
+- Nghỉ giả hạn không lương (mise en disponibilité);
+
+- Làm tập sự không nộp lưu liễm;
+
+- Làm công nhật hay tạm thời không truy thưởng.
+
+Mục III. Phụ tăng hưu bổng
+
+Ngoài hưu bổng chính tang, hưu thuộc được hưởng một khoản phụ tang là 60% (sáu mươi phần trăm) hưu bổng chính tang.
+
+Mục IV. Phụ cấp gia đình
+
+1) Ngoài hưu bổng, hưu thuộc được hưởng kể từ ngày 15 tháng 7 năm 1946 phụ cấp gia đình bằng 50% số lương hưu bổng chính tăng của công chức, cho mỗi con dưới 18 tuổi (tối thiểu là 60đ một năm cho mỗi con).
+
+2) Ngoài hưu bổng tuất quả, quả phụ được hưởng phụ cấp gia đình như trên cho mỗi con dưới 18 tuổi.
+
+3) Ngoài số hưu bổng tuất cô, cô nhi được hưởng phụ cấp gia đình như trên nếu dưới 18 tuổi.
+
+Chú thích: Các công chức về hưu trước ngày 15-7-1946, nếu có con dưới 18 tuỏi sinh trong vòng 300 ngày sau khi viên chức về hưu cũng được hưởng quyền lợi này kể từ ngày 15-7-1946.
+
+Mục V. Hồ sơ thanh toán hưu bổng
+
+1) Những viên chức về hưu phải nộp những giấy tờ sau đây:
+
+- Công chức chính ngạch về hưu xin thanh toán hưu bổng phải nộp:
+
++ Một lá đơn-một tờ khai danh dự (mẫu 2)-một giấy khai sinh-một tờ khai lĩnh phụ cấp gia đình (mẫu số 1) – giấy giá thú, giấy khai sinh của các con và lý lịch hành chính (nếu có).
+
++ Công chức đã về hưu nhưng chưa có hưu bạ phải nộp các giấy tờ kể trên như công chức sắp về hưu, kèm theo bản sao nghị định cho về hưu.
+
+Công chức chính ngạch được hưởng hưu bổng thương tật phải nộp: một lá đơn-một tờ khai danh dự (mẫu số 2)-giấy khai sinh- giấy chứng thương do thầy thuốc của Chính phủ cấp kèm theo một tờ trình của cấp chỉ huy trực tiếp, nhận thực hưu thuộc bị tàng tật trong khi thừa hành chức vụ- một tờ khai lĩnh phụ cấp gia đình (mẫu số 1) kèm theo giấy giá thú và giấy khai sinh của các con.
+
+2) Quả phụ phải nộp: một lá đơn-một tờ khai danh dự (mẫu số 3) hoặc sổ hưu bạ cũ của chồng, hoặc nghị định ấn định lương hưu của chồng-tờ khai lĩnh phụ cấp gia đình (mẫu số 1) kèm theo giấy khai sinh của các con-một giấy khai tử của chồng-một giấy giá thú-một giấy khai sinh của quả phụ-một chứng chỉ không ly dị và không tái giá.
+
+Quả phụ của công chức chết tại chức có đủ quyền hưởng hưu bổng thương tật phải nộp thêm giấy chứng thương do thầy thuốc của chính phủ cấp kèm theo tờ trình của cấp chỉ huy trực tiếp nhận thực hưu thuộc chết trong khi thừa hành chức vụ.
+
+3) Cô nhi phải nộp các giấy tờ như quả phụ, trừ giấy chứng chỉ không ly dị và không tái giá, kèm theo giấy chứng chỉ lập giám hộ và giấy khai tử của bố và mẹ.
+
+Cô nhi của công chức chết tại chức có đủ quyền hưởng hưu bổng thương tật phải nộp thêm giấy chứng thương do thầy thuốc của chính phủ cấp kèm theo tờ trình của cấp chỉ huy trực tiếp nhận thực hưu thuộc chết trong khi thừa hành chức vụ.
+
+Chú thích: Các giấy tờ hộ tịch kể trên có thể thay bằng chứng chỉ của UBKCHC xã.
+
+4) Công chức sắp về hưu nộp thẳng giấy tờ cho cơ quan mình làm việc cũ.
+
+Công chức đã về hưu nhưng chưa có hưu bạ, quả phụ và cô nhi nộp giấy tờ cho UBKCHC xã, huyện hay tỉnh, hoặc ở các ty Ngân khố. Ở đây đã có sẵn các mẫu khai và chỉ thị về luật lệ hưu bổng cần thiết để chỉ dẫn cho người đương sự hiểu rõ quyền lợi của mình mà khai cho hợp lệ.
+
+Sau khi xét các giấy tờ đã hợp lệ, hồ sơ sẽ gửi về Bộ sở quan để ra nghị định cho về hưu và ấn định hưu bổng chính tang đồng niên. Nghị định này sẽ gửi Bộ Tài chính để thoả thuận. Nếu Bộ nào không đủ tài liệu để ấn định lương hưu bổng thì để trống điều 2 dự nghị định để Bộ Tài chính bổ khuyết sau.
+
+Mẫu nghị định
+
+BỘ TRƯỞNG BỘ .....
+
+Chiểu.............................
+
+Nghị định
+
+Điều 1. - Ô.... (hay bà....) số trước tịch ..... (chức vụ) được về hưu trí (thâm niên, tỷ lệ v.v.) kể từ ngày ...
+
+Điều 2. - Hưu bổng chính tang của Ô.... (hay bà….) ấn định là ..... đồng bạc (..... đ) một năm.
+
+Điều 3. - Ngoài số lương hưu kể trên, ô.... (hay bà ...) còn được hưởng thêm khoản phụ cấp gia đình ấn định là .... đồng bạc (..... đ) một năm cho mỗi con chính thức dưới 18 tuổi có tên sau đây:
+
+.............. sinh ngày ............
+
+...... - ..............
+
+..............- ..............
+
+.............. - ..............
+
+Điều 4. - Khoản thi hành nghị định.
+
+Mục VI. Hồ sơ lý lịch các hưu thuộc tại chức
+
+Để Bộ Tài chính có tài liệu kiểm soát và để bảo vệ quyền lợi của các hưu thuộc về phương diện hưu bổng, các cơ quan sẽ gửi đến Bộ Tài chính bảng danh sách những công chức chính ngạch tại chức (mẫu số 6) kể:
+
+- Họ và tên công chức, ngạch và trật ngày sinh;
+
+- Tình trạng gia đình:
+
+Tên vợ cả (chính thất hay kế thất) và ngày cưới.
+
+Tên vợ lẽ và ngày cưới;
+
+Tên các con chính thức dưới 21 tuổi và ngày sinh (con nào đã thành gia thất thì thôi).
+
+Nếu sau này có sự thay đổi trong tình trạng công chức hoặc gia đình công chức phải báo ngay cho Bộ Tài chính biết.
+
+Khi tình thế ổn định, các cơ quan sẽ lập hồ sơ … lý lịch gửi đến Bộ Tài chính.
+
+Mục VII. Mất sổ hưu- Thay sổ hưu hết phiếu lĩnh tiền hoặc rách nát
+
+1) Mất sổ hưu:
+
+Công chức hồi hưu, quả phụ hay cô nhi, đánh mức hưu bạ, phải làm tờ khai mất sổ (mẫu số 4) đưa ty Ngân khố cũ trả hưu bổng để nhận thực:
+
+Sổ hưu bạ;
+
+Sổ lương hưu chính tang (đồng niên hay tam cá nguyệt);
+
+Kỳ hạn lĩnh tiền sau cùng.
+
+Ty Ngân khố sẽ chuyển tờ khai đó đến Bộ Tài chính để lập bảng khoản mới.
+
+2) Thay sổ hưu
+
+Hưu bạ hết phiếu lĩnh tiền hoặc rách nát sẽ nộp ở Ty Ngân khố để chuyển về Bộ Tài chính lập bảng khoản mới.
+
+Mục VIII. Hoàn tiền hưu liễm 6% và 10%
+
+Trái với thông tư số 41-BTC ngày 18-1-1947 hoãn việc hoàn tiền hưu liễm, những hưu thuộc đủ quyền hưởng hưu bổng, ở vào trường hợp sau này, sẽ được hoàn tiền hưu liễm không lãi trong những thời gian làm việc chính ngạch thực thụ, tập sự có nộp hưu liễm hay tạm thời đã truy thưởng:
+
+1) Công chức từ dịch hoặc bị thải hồi vì sức yếu sau ngày 19-12-1946 phải nộp: ban sao nghị định từ dịch hoặc bãi dịch và một tờ khai danh dự (mẫu số 5) có chữ nhận thực của cơ quan quan trị.
+
+2) Công chức chết tại chức sau ngày 19-12-1946 thì quả phụ chính thất hoặc kế thất, hay quả phụ hay cô nhi chính thức dưới 221 tuổi, có quyền xin hoàn tiền hưu liễm.
+
+- Quả phụ hay quản phụ phải nộp: giấy khai tử của công chức, giấy giá thú và tờ khai danh dự (mẫu số 5).
+
+- Cô nhi phải nộp giấy của giám hộ có chữ nhận thực của UBKCHC xã, giấy khai tử của bố và mẹ, một tờ khai danh dự (mẫu số 5), giấy giá thú của bố mẹ, giấy khai sinh của con.
+
+- Công chức mất tích sau ngày 19-12-1946: trong trường hợp này, quả phụ hay cô nhi phải nộp tờ chứng chỉ của toà án công nhận sự mất tích, một tờ khai danh dự (mẫu số 5) và các giấy tờ hộ tịch như khi công chức chết.
+
+Chú thích. – Các giấy hộ tịch kể trên có thể thay bằng chứng chỉ của UBKCHC xã.
+
+Mục IX. Truy thưởng
+
+Những công chức về hưu theo sắc lệnh số 54-SL ngày 3-11-1945 được đặc cách truy thưởng những năm làm việc tạm thời và trả lại đơn 5%.
+
+Ngoài trường hợp kể trên, nếu muốn truy thưởng những năm làm việc tạm thời thì phải trả lại kép 5%.
+
+Đối với những công chức làm việc tạm thời trong thời kỳ kháng chiến, nếu sau này được vào chính ngạch, thời gian làm việc tạm thời sẽ tính vào hưu bổng, nếu trong thời gian ấy lương có trừ hưu liễm.
+
+Mục X. Trả hưu bổng
+
+Hưu bổng có thể lĩnh tại bất cứ ty Ngân khố nào.
+
+Khi lĩnh hưu bổng kỳ đầu tiên, phải xuất trình giấy chứng nhận thôi trả lương.
+
+Lĩnh phụ cấp gia đình phải có chứng chỉ sinh mệnh của các con (mẫu số 3).
+
+Mục XI. Thời hạn tiêu huỷ
+
+Trong thời kỳ kháng chiến, thời hạn để xin thanh toán hưu bổng, hoàn tiền hưu, liễm truy thưởng và lĩnh hưu bổng không áp dụng.
+
+Mục XII. Việc nộp hưu liễm 10% và công quỹ phụ nạp 10%
+
+Cứ 6 tháng một kỳ, các cơ quan sẽ lập ngân phiếu nộp tiền hưu liễm 10% trừ vào lương công chức và tiền công quỹ nạp 10% vào quỹ hưu bổng.
+
+Ngân phiếu liệt vào Chương "Nhân viên" và đứng tên Giám đốc Ngân khố quốc gia, kèm theo ba bản danh sách công chức có nộp hưu liễm.
+
+Ngày 29 tháng 3 năm 1950
+
+
+
+
+
+
+
+
+
+BỘ TÀI CHÍNH
+
+
+------
+
+
+NHA HƯU BỔNG
+
+
+------
+
+
+
+
+VIỆT NAM DÂN CHỦ CỘNG HOÀ NĂM THỨ VI
+
+
+ĐỘC LẬP – TỰ DO – HẠNH PHÚC
+
+
+-----------------------------------------------------------------
+
+
+
+
+Mẫu số 1
+
+
+21 x 27
+
+
+
+
+
+TỜ KHAI LĨNH PHỤ CẤP GIA ĐÌNH
+
+--------------
+
+Họ và tên (quả phụ, viên chức, cô nhi) ........................
+
+Chức nghiệp cũ ..............
+
+Về hưu ngày (hoặc chết tại chức, ngày) ............
+
+Sổ hưu bạ ...............
+
+Số tiền đồng niên (không kể các phụ tang) ...............
+
+Số con chính thức dưới 48 tuổi sinh trước khi hoặc trong vòng 300 ngày sau khi viên chức về hưu xuất ngạch:
+
+Họ và tên cùng ngày sinh của mọi người con:
+
+1. - ..............
+
+2. - ..............
+
+3. - ..............
+
+...vân vân .............
+
+Đính theo đây giấy giá thú của cha mẹ và khai sinh 5 của các con kể trên.
+
+Người khai giấy này cam đoan rằng:
+
+những con có tên kể trên đây chưa thành gia thất và hiện không được hưởng một khoản phụ cấp gia đình nào (trường hợp hai bố mẹ cũng là viên chức).
+
+Làm tại ......ngày.....tháng....năm 19…..
+
+
+
+
+
+
+
+
+

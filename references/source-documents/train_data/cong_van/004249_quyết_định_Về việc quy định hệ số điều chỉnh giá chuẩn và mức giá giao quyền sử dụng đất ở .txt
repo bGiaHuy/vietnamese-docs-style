@@ -1,0 +1,355 @@
+# Về việc quy định hệ số điều chỉnh giá chuẩn và mức giá giao quyền sử dụng đất ở tại khu quy hoạch dân cư xã Lộc An - huyện Bảo Lâm
+# Loại: Quyết định
+# Số hiệu: 4324/QĐ-UB
+# Ngày ban hành: 28/12/1999
+# Cơ quan: UBND tỉnh Lâm Đồng
+# Người ký: Trương Thành Trung
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NGHỊ ĐỊNH
+
+CỦA HỘI ĐỒNG BỘ TRƯỞNG SỐ 25/HĐBT NGÀY 18/3/1989
+
+BAN HÀNH ĐIỀU LỆ TỔ CHỨC KẾ TOÁN NHÀ NƯỚC
+
+HỘI ĐỒNG BỘ TRƯỞNG
+
+Căn cứ Luật Tổ chức Hội đồng Bộ trưởng ngày 4/7/1981;
+
+Căn cứ Pháp lệnh kế toán và thống kê ngày 10/5/1988;
+
+Xét đề nghị của Bộ trưởng Bộ Tài chính,
+
+
+
+NGHỊ ĐỊNH:
+
+Điều 1. - Nay ban hành kèm theo Nghị định này Điều lệ tổ chức kế toán Nhà nước quy định về tổ chức kế toán trong phạm vi cả nước.
+
+Điều 2. - Điều lệ tổ chức kế toán Nhà nước ban hành theo Nghị định này có hiệu lực thi hành từ ngày ký, thay thế Điều lệ tổ chức kế toán Nhà nước ban hành theo Nghị định số 175-CP ngày 28/10/1961 và Nghị định số 176- CP ngày 10/9/1970 của Hội đồng Chính phủ.
+
+Điều 3. - Bộ trưởng các Bộ, Chủ nhiệm các Uỷ ban Nhà nước, Thủ trưởng các cơ quan khác thuộc Hội đồng Bộ trưởng, Chủ tịch Uỷ ban nhân dân các tỉnh, thành phố, đặc khu trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này.
+
+Bộ trưởng Bộ Tài chính chịu trách nhiệm hướng dẫn thi hành Nghị định này.
+
+ĐIỀU LỆ
+
+TỔ CHỨC KẾ TOÁN NHÀ NƯỚC
+
+(Ban hành kèm theo Nghị định số 25-HĐBT ngày 18/3/1989
+
+của Hội đồng Bộ trưởng)
+
+CHƯƠNG I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. - Kế toán là công việc ghi chép tính toán bằng con số dưới hình thức giá trị, hiện vật và thời gian lao động, chủ yếu dưới hình thức giá trị để phản ánh, kiểm tra tình hình vận động của các loại tài sản, quá trình và kết quả hoạt động sản xuất kinh doanh, sử dụng vốn và kinh phí của Nhà nước cũng như của từng tổ chức xí nghiệp.
+
+Đối với Nhà nước, kế toán là công cụ quan trọng để tính toán xây dựng và kiểm tra việc chấp hành ngân sách Nhà nước, để điều hành và quản lý nền kinh tế quốc dân. Đối với các tổ chức, xí nghiệp, kế toán là công cụ quan trọng để điều hành, quản lý các hoạt động, tính toán kinh tế và kiểm tra việc bảo vệ, sử dụng tài sản, vật tư, tiền vốn nhằm bảo đảm quyền chủ động trong sản xuất kinh doanh và tự chủ tài chính của tổ chức xí nghiệp.
+
+Điều 2. - Nhiệm vụ của kế toán là:
+
+1. Ghi chép, tính toán phản ánh số hiện có, tình hình luân chuyển và sử dụng tài sản, vật tư, tiền vốn; quá trình và kết quả hoạt động sản xuất kinh doanh và sử dụng kinh phí của đơn vị.
+
+2. Kiểm tra tình hình thực hiện kế hoạch sản xuất kinh doanh, kế hoạch thu chi tài chính, kỷ luật thu nộp, thanh toán kiểm tra việc giữ gìn và sử dụng các loại tài sản, vật tư, tiền vốn kinh phí; phát hiện và ngăn ngừa kịp thời những hành động tham ô, lãng phí, vi phạm chính sách, chế độ, kỷ luật kinh tế, tài chính của Nhà nước.
+
+3. Cung cấp các số liệu, tài liệu cho việc điều hành hoạt động sản xuất kinh doanh, kiểm tra và phân tích hoạt động kinh tế tài chính, phục vụ công tác lập và theo dõi thực hiện kế hoạch, phục vụ cho công tác thống kê và thông tin kinh tế.
+
+Điều 3. - Tất cả các tổ chức, xí nghiệp sản xuất kinh doanh quốc doanh, công tư hợp doanh, tập thể, tư nhân, các cơ quan hành chính sự nghiệp và các tổ chức khác sử dụng kinh phí của Nhà nước hoặc tập thể (dưới đây gọi chung là đơn vị) đều phải thực hiện công tác kế toán theo Pháp lệnh kế toán, thống kê và theo những nguyên tắc quy định trong Điều lệ này.
+
+Các đơn vị có vốn đầu tư nước ngoài hoạt động sản xuất kinh doanh ở Việt Nam thực hiện ghi chép kế toán theo quy định tại Luật đầu tư của nước Cộng hoà xã hội chủ nghĩa Việt Nam và các cơ quan có thẩm quyền của nước cộng hoà xã hội chủ nghĩa Việt Nam và các văn bản hướng dẫn thi hành Luật đầu tư của các cơ quan có thẩm quyền của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+Điều 4. - Phương pháp ghi chép kế toán là phương pháp ghi kép, bảo đảm cân đối giữa vốn và nguồn vốn, giữa kinh phí được cấp và sử dụng kinh phí ở mọi thời điểm của quá trình sản xuất kinh doanh và sử dụng kinh phí.
+
+Những trường hợp được áp dụng phương pháp ghi kế toán đơn do Bộ Tài chính quy định.
+
+Việc ghi chép kế toán phải đầy đủ, chính xác, trung thực, kịp thời và có hệ thống.
+
+Điều 5. - Kế toán giá trị phải dùng đồng Ngân hàng Việt Nam làm đơn vị tính, nếu là ngoại tệ thì phải ghi theo nguyên tệ và quy đổi ra đồng Ngân hàng Việt Nam theo tỷ giá quy định, kế toán hiện vật phải dùng đơn vị đo lường chính thức của Nhà nước.
+
+Điều 6. - Niên độ kế toán tính theo năm dương lịch, từ ngày 1 tháng 1 đến hết ngày 31/12.
+
+Kỳ kế toán trong niên độ kế toán là:
+
+- Tháng, tính từ ngày 1 đến hết ngày cuối cùng của tháng.
+
+- Quý tính từ ngày 1 tháng đầu quý đến hết ngày cuối cùng của tháng cuối quý.
+
+Điều 7. - Những đơn vị phải thực hiện công tác kế toán nói ở điều 3 của Điều lệ này gọi là đơn vị kế toán. Đơn vị kế toán gồm:
+
+Đơn vị kế toán cấp cơ sở:
+
+- Thuộc khu vực sản xuất, kinh doanh; dịch vụ là các đơn vị kinh tế quốc doanh hạch toán kinh tế độc lập (xí nghiệp, xí nghiệp liên hợp, lâm trường, nông trường, công ty), các xí nghiệp công tư hợp doanh, các tổ chức ngân hàng, tín dụng, bảo hiểm... các hợp tác xã, tập đoàn sản xuất, các công ty, xí nghiệp tư doanh và các đơn vị có vốn đầu tư nước ngoài hoạt động sản xuất kinh doanh ở Việt Nam.
+
+- Thuộc khu vực hành chính sự nghiệp là các cơ quan, đơn vị, tổ chức trực tiếp sử dụng vốn và kinh phí (theo quy định trong biên chế và quản lý kinh phí hành chính sự nghiệp), các tổ chức xã hội.
+
+Đơn vị kế toán cấp chủ quản:
+
+- Thuộc khu vực sản xuất kinh doanh ở Trung ương là các Bộ, Tổng cục, Uỷ ban Nhà nước và các cơ quan khác thuộc Hội đồng Bộ trưởng; ở địa phương là các cơ sở quản lý chuyên ngành kinh tế kỹ thuật thuộc Uỷ ban nhân dân tỉnh, thành phố, đặc khu trực thuộc Trung ương và Uỷ ban nhân dân quận, huyện.
+
+- Thuộc khu vực hành chính sự nghiệp ở Trung ương là các đơn vị dự toán cấp I như các Bộ, cơ quan ngang Bộ, ở địa phương là các Uỷ ban nhân dân tỉnh, huyện, các Sở, các cơ quan Công an, Toà án nhân dân, Viện kiểm sát nhân dân tỉnh, huyện.
+
+- Bộ Tài chính là đơn vị kế toán tổng dự toán Trung ương, các Sở Tài chính tỉnh, thành phố, đặc khu là đơn vị kế toán tổng dự toán địa phương.
+
+Ngoài các đơn vị kế toán cấp cơ sở và cấp chủ quản, ở một số ngành còn có thể có các đơn vị kế toán cấp trung gian (Liên hiệp các xí nghiệp, Tổng Công ty, Cục, Tổng cục trực thuộc Bộ).
+
+Dưới đơn vị kế toán cấp cơ sở, nếu có những tổ chức, bộ phận có tổ chức kế toán thì những đơn vị này được gọi là đơn vị kế toán phụ thuộc.
+
+Điều 8. - Các đơn vị kế toán phải tổ chức bộ máy kế toán gọi là Phòng (hoặc Ban) kế toán. Các đơn vị kế toán có quy mô nhỏ phải bố trí người làm kế toán. Đối với những đơn vị kế toán cấp cơ sở thực hiện thống nhất về kế toán, thống kê, tài chính thì thành lập Phòng (hoặc Ban) kế toán, thống kê, tài chính theo quy định của Bộ Tài chính và Tổng cục Thống kê.
+
+Điều 9. - Chức vụ kế toán trưởng được đặt tại các đơn vị quốc doanh hạch toán kinh tế độc lập, các đơn vị công tư hợp doanh, các hợp tác xã, tập đoàn sản xuất, các công ty, xí nghiệp tư doanh và các đơn vị có vốn đầu tư nước ngoài hoạt động sản xuất kinh doanh ở Việt Nam. Kế toán trưởng thực hiện chức năng, nhiệm vụ và quyền hạn theo quy định tại Điều lệ kế toán trưởng.
+
+Các đơn vị kế toán phải bố trí cán bộ kế toán theo đúng chức danh tiêu chuẩn quy định cho cán bộ kế toán. Cán bộ kế toán được bảo đảm quyền độc lập về chuyên môn nghiệp vụ quy định trong các chế độ kế toán.
+
+Cán bộ kế toán ở đơn vị quốc doanh, công tư hợp doanh, hợp tác xã và các đơn vị có sử dụng kinh phí của Nhà nước hoặc đoàn thể, không được kiêm nhiệm làm thủ kho, thủ quỹ, tiếp liệu và các công tác phụ trách vật chất khác.
+
+Lãnh đạo đơn vị, kể cả lãnh đạo công tác tài chính, kế toán của các đơn vị quốc doanh, công tư hợp doanh, hợp tác xã và các đơn vị có sử dụng kinh phí của Nhà nước, đoàn thể không được bố trí những người thân trong gia đình (bố, mẹ, vợ, chồng, con) làm công tác tài chính, kế toán, thủ kho, thủ quỹ tại đơn vị.
+
+Mỗi khi thay đổi cán bộ kế toán trong bộ máy kế toán phải thực hiện việc bàn giao giữa cán bộ cũ và cán bộ mới. Cán bộ mới chịu trách nhiệm về công việc làm của mình kể từ ngày nhận bàn giao công việc. Cán bộ cũ vẫn phải chịu trách nhiệm về công việc của thời gian mình phụ trách.
+
+Điều 10. - Mỗi khi thành lập một đơn vị kế toán, phải tổ chức bộ máy kế toán, có kế toán trưởng hoặc người phụ trách kế toán thì mới được nhận vốn và kinh phí.
+
+Mỗi khi giải thể, sáp nhập hoặc chia tách đơn vị kế toán, thủ trưởng và kế toán trưởng đơn vị này phải hoàn thành việc quyết toán mới được điều đi công tác khác.
+
+Điều 11. - Tất cả các bộ phận và mọi người trong đơn vị có liên quan đến công tác kế toán đều phải nghiêm chỉnh chấp hành các nguyên tắc, chế độ và thủ tục kế toán, có trách nhiệm cung cấp đầy đủ, kịp thời những chứng từ, tài liệu cần thiết cho công tác kế toán và phải chịu trách nhiệm về sự chính xác, trung thực của các chứng từ, tài liệu đó.
+
+CHƯƠNG II
+
+NHỮNG QUY ĐỊNH VỀ NỘI DUNG CÔNG TÁC KẾ TOÁN
+
+MỤC 1: CÁC PHẦN VIỆC KẾ TOÁN
+
+Điều 12. - Công việc kế toán của đơn vị kế toán gồm hai phần: phần kế toán tổng hợp và phần kế toán chi tiết.
+
+Phần kế toán tổng hợp chỉ ghi số tiền để phản ánh tổng quát tình hình tài sản và hoạt động của đơn vị, phần kế toán chi tiết vừa ghi số tiền, vừa ghi số lượng hiện vật hoặc thời gian lao động để chi tiết hoá và minh hoạ cho phần kế toán tổng hợp.
+
+Điều 13. - Công việc kế toán của các đơn vị kế toán được phân ra các phần hành kế toán theo chế độ kế toán cụ thể quy định cho mỗi ngành.
+
+Nội dung công việc kế toán của mỗi phần hành bao gồm lập chứng từ kế toán, ghi sổ kế toán, lập báo cáo kế toán, kiểm tra và phân tích số liệu, tài liệu kế toán lưu trữ hồ sơ, tài liệu kế toán.
+
+MỤC 2: CHỨNG TỪ KẾ TOÁN
+
+Điều 14. - Chứng từ kế toán gồm chứng từ gốc và chứng từ ghi sổ.
+
+Chứng từ gốc là căn cứ pháp lý phản ánh các nghiệp vụ kinh tế, tài chính đã thực hiện.
+
+Chứng từ ghi sổ là căn cứ đề nghị để ghi sổ kế toán. Chứng từ ghi sổ có thể là chứng từ gốc hoặc chứng từ được lập trên cơ sở chứng từ gốc và phải có chứng từ gốc đính kèm.
+
+Điều 15. - Mọi nghiệp vụ kinh tế, tài chính phát sinh trong hoạt động sản xuất kinh doanh và sử dụng kinh phí ở bất kỳ bộ phận nào trong đơn vị kế toán, đều phải lập chứng từ gốc.
+
+Chứng từ gốc phải lập đúng mẫu chứng từ theo quy định của Bộ Tài chính và Tổng cục Thống kê phải ghi chép đầy đủ, kịp thời đúng sự thật nghiệp vụ kinh tế phát sinh; phải có đủ chữ ký của người chịu trách nhiệm và dấu của đơn vị theo tính chất của mỗi loại chứng từ.
+
+Những chứng từ kế toán lập không đúng với quy định trên đều không được coi là chứng từ kế toán.
+
+MỤC 3: TÀI KHOẢN VÀ SỔ KẾ TOÁN
+
+Điều 16. - Tài khoản kế toán là phương pháp kế toán dùng để phân loại và hệ thống hoá các nghiệp vụ kinh tế, tài chính phát sinh theo nội dung kinh tế.
+
+Việc ghi sổ kế toán phải tuân theo hệ thống tài khoản kế toán thống nhất do Bộ Tài chính quy định.
+
+Đối với các hoạt động đặc thù, áp dụng hệ thống tài khoản kế toán do Bộ, Tổng cục chủ quản quy định sau khi được Bộ Tài chính thoả thuận bằng văn bản.
+
+Điều 17. - Sổ kế toán gồm sổ của phần kế toán tổng hợp gọi là sổ kế toán tổng hợp và sổ của phần kế toán chi tiết gọi là sổ kế toán chi tiết.
+
+Đơn vị kế toán phải căn cứ vào hệ thống tài khoản kế toán, các chế độ kế toán và yêu cầu quản lý của đơn vị, mở đủ các sổ kế toán cần thiết. Mỗi đơn vị kế toán chỉ có một hệ thống kế toán chính thức theo chế độ kế toán quy định.
+
+Điều 18. - Sổ kế toán phải dùng mẫu in sẵn, hoặc giấy kê sẵn, có thể đóng thành quyển hoặc dùng tờ rời tuỳ theo từng loại sổ và hình thức kế toán áp dụng ở đơn vị. Sổ đóng thành quyển phải đánh số trang và đóng dấu giáp lai, số tờ rời phải đánh số tờ và đóng dấu vào đầu tờ sổ. Sổ kế toán trước khi dùng phải có chữ ký xác nhận của thủ trưởng đơn vị.
+
+Sổ kế toán của đơn vị tập thể và hộ tư nhân trước khi dùng phải đăng ký tại cơ quan tài chính quận, huyện.
+
+Sổ kế toán giao cho cán bộ nào thì cán bộ đó phải chịu trách nhiệm về những điều ghi trong sổ và việc giữ sổ trong thời gian dùng sổ.
+
+Điều 19. - Việc ghi sổ kế toán phải căn cứ vào chứng từ kế toán.
+
+Số liệu ghi trên sổ kế toán phải rõ ràng liên tục, có hệ thống, không được ghi xen kẽ, ghi chồng đè, không được bỏ cách dòng, nếu có dòng chưa ghi hết phải gạch bỏ chỗ thừa. Khi ghi hết trang sổ phải cộng số liệu tổng cộng của mỗi trang và ghi vào dòng cuối cùng của trang đồng thời phải chuyển số tổng cộng này sang đầu trang kế tiếp.
+
+Ghi sổ kế toán phải dùng mực tốt, không phai, cấm tẩy xoá, cấm dùng chất hoá học để sửa chữa. Khi cần sửa chữa số liệu trong sổ phải làm theo đúng phương pháp do Bộ Tài chính quy định.
+
+Bắt đầu niên độ kế toán phải mở sổ kế toán mới. Hết kỳ kế toán và hết niên độ kế toán phải khoá sổ kế toán. Ngoài ra, phải khoá sổ kế toán trong các trường hợp kiểm kê tài sản, sáp nhập, phân chia đình chỉ hoạt động, giải thể đơn vị và các trường hợp khác do Bộ Tài chính quy định.
+
+Mỗi lần khoá sổ kế toán người giữ sổ, người kiểm tra sổ và kế toán trưởng (hoặc người phụ trách kế toán) phải ký tên vào sổ.
+
+Nghiêm cấm việc để ngoài sổ kế toán mọi khoản vật tư tài sản, tiền vốn và kinh phí dưới bất kỳ hình thức nào.
+
+Điều 20. - Bộ Tài chính quy định chế độ kế toán theo từng hình thức kế toán áp dụng thống nhất trong nền kinh tế quốc dân. Các Bộ, Tổng cục chủ quản hướng dẫn áp dụng chế độ sổ kế toán thống nhất phù hợp với đặc điểm hoạt động của các cơ đơn vị kế toán trong ngành.
+
+Các đơn vị kế toán căn cứ vào tính chất, quy mô hoạt động và yêu cầu quản lý của đơn vị tổ chức thực hiện chế độ sổ kế toán theo đúng quy định của Bộ Tài chính và sự hướng dẫn của Bộ, Tổng cục chủ quản.
+
+MỤC 4: BÁO CÁO KẾ TOÁN
+
+Điều 21. - Báo cáo kế toán là phương pháp tổng hợp số liệu kế toán theo các chỉ tiêu kinh tế tài chính, phản ánh tình hình tài sản, tình hình và kết quả hoạt động của đơn vị tại một thời điểm nhất định.
+
+Điều 22. - Báo cáo kế toán có báo cáo kế toán của đơn vị cơ sở và báo cáo kế toán tổng hợp của đơn vị cấp trên.
+
+Báo cáo kế toán của đơn vị cơ sở phản ánh tình hình và kết quả hoạt động kinh tế, tài chính của bản thân đơn vị kế toán và do đơn vị đó lập.
+
+Báo cáo kế toán tổng hợp phản ánh tình hình và kết quả hoạt động kinh tế, tài chính của tất cả các đơn vị kế toán trực thuộc một cấp, do đơn vị kế toán cấp đó lập.
+
+Điều 23. - Các đơn vị kế toán phải lập báo cáo kế toán quý và báo cáo kế toán năm theo chế độ báo cáo kế toán quy định cho từng ngành sản xuất - kinh doanh và hành chính sự nghiệp.
+
+Báo cáo kế toán phải lập đầy đủ, chính xác theo đúng mẫu biểu, đúng nội dung và phương pháp tính toán các chỉ tiêu.
+
+Mọi số liệu phải ghi trên báo cáo kế toán của đơn vị phải căn cứ vào số liệu trên sổ kế toán. Báo cáo kế toán tổng hợp được lập căn cứ vào số liệu báo cáo kế toán của các đơn vị trực thuộc.
+
+Điều 24. - Trường hợp giải thể một đơn vị kế toán phải bảo đảm thanh toán mọi khoản thu, chi; đơn vị giải thể vẫn phải lập và nộp báo cáo kế toán theo quy định của chế độ báo cáo kế toán.
+
+Thủ trưởng và kế toán trưởng đơn vị giải thể phải chịu trách nhiệm về việc lập và nộp báo cáo kế toán đến khi thanh toán xong công việc.
+
+Điều 25. - Các đơn vị phải nộp báo cáo kế toán theo địa chỉ quy định trong thời hạn sau đây:
+
+- Các đơn vị kế toán cấp chủ quản trung ương và địa phương. Báo cáo kế toán năm trong vòng 60 ngày sau khi kết thúc năm báo cáo.
+
+- Các đơn vị kế toán cấp cơ sở, các đơn vị kế toán cấp trung gian nộp báo cáo kế toán theo quy định trong chế độ báo cáo kế toán quy định cho từng ngành nhưng không chậm quá 30 ngày sau khi kết thúc quý báo cáo (đối với báo cáo quý) và không chậm quá 45 ngày sau khi kết thúc năm báo cáo (đối với báo cáo kế toán năm).
+
+Điều 26. - Báo cáo kế toán năm (quyết toán) của các đơn vị kế toán phải được xét duyệt kịp thời theo quy định dưới đây:
+
+Báo cáo quyết toán của các đơn vị kế toán do cơ quan chủ quản cấp trên trực tiếp xét duyệt. Trong thời hạn tối đa là 30 ngày kể từ ngày nhận được báo cáo của các đơn vị kế toán trực thuộc, cơ quan chủ quản phải thông báo cho đơn vị gửi quyết toán biết kết quả duyệt y quyết toán của mình. Các đơn vị trực thuộc, trong thời hạn 10 ngày kể từ ngày nhận được thông báo duyệt y quyết toán nếu không có ý kiến gì phản đối thì coi như chấp nhận để thi hành.
+
+Báo cáo quyết toán của cơ quan chủ quản Trung ương và địa phương do Bộ Tài chính (đối với cơ quan chủ quản trung ương) và Sở Tài chính (đối với cơ quan chủ quản địa phương) xét duyệt. Trong thời hạn 40 ngày kể từ ngày nhận được báo cáo quyết toán, cơ quan tài chính phải tổ chức xét duyệt và thông báo cho đơn vị nộp báo cáo biết ý kiến nhận xét và quyết định của mình về báo cáo quyết toán nhận được. Các cơ quan chủ quản sau 15 ngày kể từ ngày nhận được thông báo duyệt y quyết toán của cơ quan tài chính, nếu không có ý kiến gì phản đối thì coi như chấp nhận để thi hành. Trường hợp có sự bất đồng giữa cơ quan chủ quản và cơ quan tài chính thì trình Hội dồng hoặc Uỷ ban nhân dân tỉnh, thành phố, đặc khu quyết định.
+
+Các cơ quan tài chính có thể tham gia cùng với cơ quan chủ quản để xét duyệt quyết toán của các đơn vị kế toán cấp cơ sở khi xét thấy cần thiết.
+
+Điều 27. - Bộ Tài chính với sự nhất trí của Tổng cục Thống kê quy định chế độ báo cáo kế toán áp dụng cho các đơn vị kế toán cấp cơ sở thuộc ngành sản xuất kinh doanh, quốc doanh, tập thể, tư nhân và các đơn vị hành chính sự nghiệp.
+
+Các Bộ, Tổng cục chủ quản quy định chế độ báo cáo kế toán áp dụng cho các hoạt động đặc thù của ngành và ban hành sau khi được Bộ Tài chính và Tổng cục Thống kê thoả thuận bằng văn bản.
+
+MỤC 5: TÍNH GIÁ THÀNH VÀ PHÍ LƯU THÔNG
+
+Điều 28. - Các đơn vị kế toán thuộc các ngành sản xuất kinh doanh phải tính giá thành sản phẩm, công việc, dịch vụ, chi phí lưu thông và giá vốn hàng hoá.
+
+Giá thành và phí lưu thông phải bảo đảm tính đúng, tính đủ mọi chi phí thực tế phát sinh theo chế độ quy định, trên cơ sở đó xác định đúng đắn, trung thực kết quả lãi, lỗ sản xuất kinh doanh của đơn vị.
+
+Điều 29. - Uỷ ban Kế hoạch Nhà nước và Bộ Tài chính ban hành các quy định về phương pháp kế hoạch hoá và hạch toán giá thành, phí lưu thông áp dụng thống nhất trong nền kinh tế quốc dân, trước hết là đối với các đơn vị quốc doanh.
+
+Thủ trưởng và kế toán trưởng các đơn vị kế toán cơ sở có trách nhiệm xây dựng và tổ chức thực hiện quy tắc hạch toán chi phí sản xuất và tính giá thành sản phẩm, phí lưu thông phù hợp với đặc điểm sản xuất, kinh doanh của đơn vị.
+
+MỤC 6: KIỂM KÊ TÀI SẢN VÀ KIỂM TRA KẾ TOÁN
+
+Điều 30. - Kiểm kê tài sản là một phương pháp xác định số thực có về tài sản, vật tư, hàng hoá, tiền vốn và kinh phí của đơn vị tại một thời điểm nhất định.
+
+Các đơn vị kế toán phải thực hiện kiểm kê tài sản khi kết thúc niên độ, kế toán khi giải thể, bàn giao, sáp nhập, phân chia đơn vị và kiểm kê tài sản định kỳ và bất thường khác theo quy định của chế độ kiểm kê tài sản.
+
+Bộ Tài chính với sự nhất trí của Tổng cục Thống kê quy định chế độ kiểm kê tài sản áp dụng thống nhất cho các lĩnh vực và các ngành kinh tế quốc dân.
+
+Điều 31. - Kiểm tra kế toán là một biện pháp bảo đảm cho các quy định về kế toán được chấp hành nghiêm chỉnh, số liệu kế toán được chính xác, trung thực. Thông qua kiểm tra kế toán, các cơ quan chủ quản cấp trên và các cơ quan chức năng của Nhà nước thực hiện việc kiểm tra kiểm soát đối với hoạt động của các đơn vị.
+
+Thủ trưởng và kế toán trưởng các đơn vị phải thường kỳ kiểm tra kế toán trong nội bộ đơn vị, các cơ quan chủ quản và cơ quan Tài chính kiểm tra kế toán ở các đơn vị theo chế độ kiểm tra kế toán.
+
+Điều 32. - Kiểm tra kế toán phải được thực hiện thường xuyên liên tục, có hệ thống. Mọi thời kỳ hoạt động của đơn vị đều phải được kiểm tra kế toán. Mỗi đơn vị kế toán cấp cơ sở phải được cơ quan chủ quản kiểm tra kế toán ít nhất mỗi năm một lần và nhất thiết phải được tiến hành trước khi xét duyệt quyết toán năm của đơn vị. Các cuộc thanh tra, kiểm tra kinh tế, tài chính phải bắt đầu từ việc kiểm tra kế toán.
+
+Nội dung kiểm tra kế toán là kiểm tra việc tính toán, ghi chép, phản ánh của các chứng từ kế toán, sổ kế toán và báo cáo kế toán: kiểm tra việc chấp hành các chế độ thể lệ kế toán, tài chính, việc tổ chức công tác kế toán và bộ máy kế toán, việc chỉ đạo công tác kế toán và việc thực hiện nhiệm vụ và quyền hạn của kế toán trưởng.
+
+Điều 33. - Thủ trưởng và kế toán trưởng đơn vị được kiểm tra kế toán phải chấp hành nghiêm chỉnh lệnh kiểm tra kế toán của các cấp có thẩm quyền, có trách nhiệm cung cấp đầy đủ, kịp thời các số liệu, tài liệu và các điều kiện khác cần thiết cho công tác kiểm tra, giải thích, trả lời các câu hỏi của cán bộ kiểm tra.
+
+Thủ trưởng và kế toán trưởng đơn vị được kiểm tra phải ký vào biên bản hoặc báo cáo kết quả kiểm tra, có quyền ghi ý kiến của mình vào biên bản hoặc báo cáo kết quả kiểm tra. Nếu có điểm nào không nhất trí với biên bản hoặc báo cáo kết quả kiểm tra kế toán thì viết bản giải trình ý kiến của mình đính kèm bản hoặc báo cáo kết quả kiểm tra kế toán.
+
+Cán bộ kiểm tra kế toán phải chịu trách nhiệm trước pháp luật về kết quả kiểm tra. Thủ trưởng và kế toán trưởng đơn vị được kiểm tra phải thực hiện nghiêm chỉnh các kiến nghị của cán bộ kiểm tra trong phạm vi trách nhiệm của mình.
+
+Điều 34. - Các cơ quan chủ quản, cơ quan tài chính phải bố trí cán bộ chuyên trách công tác kiểm tra kế toán. Công tác kiểm tra kế toán nội bộ đơn vị do Thủ trưởng và kế toán trưởng đơn vị tổ chức thực hiện.
+
+Bộ Tài chính quy định chế độ kiểm tra kế toán áp dụng thống nhất trong nền kinh tế quốc dân.
+
+MỤC 7: CƠ GIỚI HOÁ KẾ TOÁN
+
+Điều 35. - Công tác kế toán phải từng bước cơ giới hoá trên cơ sở ứng dụng các phương tiện kỹ thuật tính toán hiện đại và phù hợp với điều kiện cụ thể của nước ta.
+
+Bộ Tài chính với sự nhất trí của Tổng cục Thống kê ban hành chế độ cơ giới hoá công tác kế toán và hướng dẫn tổ chức thực hiện công tác này.
+
+MỤC 8: BẢO QUẢN TÀI LIỆU KẾ TOÁN
+
+Điều 36. - Tài liệu kế toán bao gồm các chứng từ kế toán, sổ kế toán, báo cáo kế toán và các tài liệu liên quan đến kế toán. Tài liệu kế toán phải được bảo quản chu đáo, an toàn trong quá trình sử dụng. Tài liệu kế toán của mỗi niên độ kế toán phải được phân loại, sắp xếp và đưa vào lưu trữ chậm nhất một tháng sau khi báo cáo quyết toán năm được duyệt và phải thực hiện đúng quy định trong chế độ bảo quản hồ sơ, tài liệu kế toán.
+
+Việc sử dụng tài liệu kế toán đã đưa vào lưu trữ, phải có sự đồng ý của kế toán trưởng. Nếu đem tài liệu kế toán ra ngoài đơn vị, phải được kế toán trưởng đồng ý và Thủ trưởng đơn vị ký giấy cho phép.
+
+Điều 37. - Trường hợp giải thể, chia nhỏ, sáp nhập đơn vị kế toán thì tài liệu kế toán của đơn vị đó được lưu trữ, bảo quản theo quyết định của cơ quan chủ quản cấp trên.
+
+Bộ Tài chính sau khi thoả thuận với Cục Lưu trữ Nhà nước, quy định chế độ bảo quản, lưu trữ hồ sơ, tài liệu kế toán.
+
+CHƯƠNG III
+
+TỔ CHỨC CHỈ ĐẠO CÔNG TÁC KẾ TOÁN
+
+Điều 38. - Bộ Tài chính là cơ quan của Hội đồng Bộ trưởng quản lý và lãnh đạo thống nhất công tác kế toán trong cả nước, có nhiệm vụ:
+
+1. Ban hành các chế độ kế toán cho các ngành kinh tế quốc dân áp dụng thống nhất trong cả nước và xét duyệt các chế độ kế toán cụ thể do các Bộ, Tổng cục ban hành.
+
+2. Tổ chức hướng dẫn chỉ đạo thực hiện các chế độ kế toán tổ chức bộ máy và tổ chức công tác kế toán ở các đơn vị kế toán các cấp.
+
+3. Kiểm tra kế toán đối với các ngành, các cấp, các đơn vị kế toán, kiểm tra các ngành, các cấp trong việc thực hiện chế độ kiểm tra kế toán ở mỗi cấp.
+
+4. Xét duyệt báo cáo quyết toán tổng hợp các đơn vị kế toán cấp chủ quản Trung ương.
+
+5. Có kế hoạch đào tạo bồi dưỡng cán bộ kế toán cho các ngành kinh tế quốc dân cải tiến và hoàn thiện nội dung và chương trình đào tạo kế toán trong các trường tài chính, kế toán, hoàn thiện chương trình bồi dưỡng nâng cao trình độ chuyên môn cho đội ngũ cán bộ kế toán và phổ cập kiến thức kế toán cho cán bộ quản lý.
+
+Điều 39. - Các Sở Tài chính giúp Uỷ ban nhân dân tỉnh, thành phố, đặc khu trực thuộc Trung ương quản lý và lãnh đạo thống nhất công tác kế toán trong địa phương, có nhiệm vụ:
+
+1. Hướng dẫn chỉ đạo thực hiện các chế độ kế toán của các đơn vị kế toán của Nhà nước trong các ngành, các cấp, các đơn vị kế toán cơ sở thuộc địa phương quản lý.
+
+2. Kiểm tra kế toán đối với các ngành, các cấp, các đơn vị kế toán cơ sở trong địa phương.
+
+3. Xét duyệt báo cáo quyết toán tổng hợp của các đơn vị kế toán cấp chủ quản địa phương.
+
+4. Cùng với cơ quan chủ quản địa phương xây dựng và tổ chức thực hiện kế hoạch đào tạo, bồi dưỡng cán bộ kế toán.
+
+Điều 40. - Các đơn vị kế toán cấp chủ quản Trung ương (Bộ, Tổng cục) là cơ quan quản lý và lãnh đạo thống nhất công tác kế toán trong ngành, có nhiệm vụ:
+
+1. Nghiên cứu, cụ thể hoá và giải thích, hướng dẫn thi hành các chế độ kế toán thống nhất của Nhà nước; ban hành với sự nhất trí của Bộ Tài chính, các chế độ, thể lệ kế toán phù hợp với đặc điểm, tính chất hoạt động và yêu cầu quản lý của từng loại đơn vị trong ngành.
+
+Phổ biến, hướng dẫn, chỉ đạo các đơn vị kế toán trực thuộc, tổ chức phù hợp với tính chất hoạt động của từng loại đơn vị.
+
+3. Kiểm tra kế toán đối với các đơn vị trực thuộc, kiểm tra việc thực hiện chế độ kiểm tra kế toán ở các đơn vị kế toán cơ sở, có biện pháp xử lý kịp thời, đúng chế độ các vấn đề phát hiện qua các cuộc kiểm tra kế toán, theo dõi kiểm tra các đơn vị trực thuộc trong việc thực hiện các kiến nghị của các cuộc kiểm tra kế toán.
+
+4. Xét duyệt báo cáo quyết toán của các đơn vị trực thuộc. Lập và nộp báo cáo quyết toán tổng hợp của ngành theo chế độ quy định.
+
+5. Xây dựng và tổ chức thực hiện kế hoạch đạo tạo bồi dưỡng đội ngũ cán bộ kế toán trong ngành, hướng dẫn các đơn vị kế toán trực thuộc bố trí, sắp xếp, sử dụng đội ngũ cán bộ kế toán theo đúng chức danh tiêu chuẩn cán bộ kế toán.
+
+Điều 41. - Các đơn vị kế toán cấp chủ quản địa phương và các đơn vị kế toán cấp trung gian thực hiện các nhiệm vụ theo quy định ở điểm 2, 3, 4, 5 điều 40 nói trên trong phạm vi quản lý.
+
+Điều 42. - Thủ trưởng và kế toán trưởng đơn vị kế toán cấp cơ sở chịu trách nhiệm tổ chức thực hiện các chế độ kế toán trong đơn vị và các bộ phận trực thuộc, tổ chức bộ máy và tổ chức công tác kế toán phù hợp với đặc điểm tổ chức và hoạt động của đơn vị, chịu trách nhiệm trước pháp luật và trước cơ quan chủ quản về sự đầy đủ, chính xác trung thực, kịp thời của các số liệu kế toán và báo cáo kế toán của đơn vị.
+
+CHƯƠNG IV
+
+KHEN THƯỞNG VÀ XỬ PHẠT
+
+Điều 43. - Những đơn vị và cá nhân có thành tích trong công tác kế toán sẽ được khen thưởng theo chế độ Nhà nước quy định.
+
+Bộ Tài chính hướng dẫn việc khen thưởng kế toán trong phạm vi quỹ khen thưởng của đơn vị kế toán.
+
+Điều 44. - Người nào vi phạm các chế độ kế toán, lợi dụng công tác kế toán, lợi dụng chức vụ, quyền hạn làm trái các điều quy định về kế toán thì sẽ bị xử phạt hành chính theo chế độ hiện hành.
+
+Nếu hành vi vi phạm gây hậu quả nghiêm trọng thì bị truy cứu trách nhiệm hình sự theo Bộ Luật hình sự.
+
+CHƯƠNG V
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 45. - Điều lệ này thay thế Điều lệ tổ chức kế toán Nhà nước ban hành theo Nghị định số 175-CP ngày 28/10/1961 và Nghị định số 176- CP ngày 10/9/1970 của Hội đồng Chính phủ và có hiệu lực thi hành kể từ ngày ký.
+
+Bộ Tài chính chịu trách nhiệm phổ biến và hướng dẫn thi hành Điều lệ này.
+
+
+
+
+
+
+
+
+
+
+

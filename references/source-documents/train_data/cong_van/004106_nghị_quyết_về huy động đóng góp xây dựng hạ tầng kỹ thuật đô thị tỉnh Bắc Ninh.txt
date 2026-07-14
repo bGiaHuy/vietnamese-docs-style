@@ -1,0 +1,1342 @@
+# về huy động đóng góp xây dựng hạ tầng kỹ thuật đô thị tỉnh Bắc Ninh
+# Loại: Nghị quyết
+# Số hiệu: 20/2000/NQ-HĐND
+# Ngày ban hành: 20/07/2000
+# Cơ quan: HĐND tỉnh Bắc Ninh
+# Người ký: Ngô Văn Luật
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn, bổ sung, sửa đổi hệ thống Mục lục Ngân sách nhà nước
+
+
+
+Bộ Tài chính đã ban hành hệ thống Mục lục Ngân sách nhà nước theo Quyết định số 280/TC-QĐ-NSNN ngày 15/04/1997. Sau hai năm thực hiện, hệ thống Mục lục Ngân sách nhà nước đã đạt được những kết qủa nhất định, nhưng cũng bộc lộ một số nhược điểm trong công tác quản lý ngân sách nhà nước. Mặt khác, trong hai năm qua Chính phủ, Quốc hội đã ban hành một số luật thuế mới; chuyển đổi phương thức quản lý một số chương trình, mục tiêu Quốc gia và sửa đổi một số chế độ thu, chi của ngân sách nhà nước. Vì vậy Bộ Tài chính hướng dẫn, bổ sung một số Chương - Loại - Khoản - Mục và Tiểu mục của hệ thống Mục lục Ngân sách nhà nước hiện hành như sau:
+
+
+
+I. Về Chương
+
+1. Đổi tên Chương 009A "Bộ Nội vụ" thành "Bộ Công an"
+
+2. Mở Chương 050A "Đại học quốc gia thành phố Hồ Chí Minh".
+
+3. Mở Chương 057A "Hội đồng Quốc gia chỉ đạo biên soạn Từ điển bách khoa Việt Nam"
+
+4. Đổi tên Chương 064A "Tổng cục Thể dục thể thao" thành "Uỷ ban Thể dục thể thao"
+
+5. Đổi tên Chương 086 (B,C), "Ban bảo vệ và chăm sóc trẻ em" thành "Uỷ ban bảo vệ và chăm sóc trẻ em"
+
+6. Bỏ Chương 108A "Trung tâm nhiệt đới". Số chi Ngân sách Trung ương cho Trung tâm nhiệt đới hạch toán và quyết toán vào Chương 010A "Bộ Quốc phòng"
+
+7. Mở Chương 119A "Tổng công ty công nghiệp tàu thủy Việt Nam"
+
+8. Đổi tên Chương 120A "Tổng công ty vàng bạc đá quý" thành "Tổng công ty đá quý và vàng Việt Nam"
+
+9. Đổi tên Chương 124A "Tổng công ty bưu chính viễn thông" thành "Tổng công ty bưu chính viễn thông Việt Nam"
+
+10. Đổi tên Chương 154 (A, B, C, D) "Kinh tế hỗn hợp" thành "Kinh tế hỗn hợp ngoài quốc doanh"
+
+11. Mở chương 158 (A, B, C) "Kinh tế hỗn hợp có vốn tham gia của Nhà nước"
+
+12. Mở thêm mã số Chương cấp huyện
+
+- Mở Chương 155C "Kinh tế tư nhân"
+
+- Mở Chương 156C "Kinh tế tập thể"
+
+- Mở Chương 157C "Kinh tế cá thể"
+
+13. Mở thêm mã số Chương của cấp xã:
+
+- Mở Chương 009D "Ban công an"
+
+- Mở Chương 010D "Ban chỉ huy quân sự"
+
+- Mở Chương 155D "Kinh tế tư nhân"
+
+- Mở Chương 156D "Kinh tế tập thể"
+
+- Mở Chương 157D "Kinh tế cá thể"
+
+14. Bỏ Chương 013D chuyển về chương 013C
+
+II. Về Loại - Khoản
+
+1. Loại 01 "Nông nghiệp, lâm nghiệp, thủy lợi"
+
+- Đổi tên Khoản 11 "Chương trình phủ xanh đất trống, đồi, núi trọc (327)" thành "Dự án trồng mới 5 triệu ha rừng".
+
+2. Loại 05 "Sản xuất, phân phối điện, khí đốt và nước"
+
+- Mở Khoản 06 "Chương trình quốc gia về nước sạch và vệ sinh môi trường nông thôn".
+
+3. Đổi tên Loại 11 "Hoạt động khoa học và công nghệ" thành "Hoạt động khoa học, công nghệ và môi trường"
+
+- Đổi tên Khoản 04 "Chương trình phát triển công nghệ thông tin" thành "Chương trình công nghệ thông tin"
+
+- Mở Khoản 07 "Chương trình công nghệ sinh học"
+
+- Mở khoản 08 "Chương trình công nghệ vật liệu"
+
+- Mở Khoản 09 "Chương trình công nghệ tự động hóa"
+
+- Mở Khoản 10 "Hoạt động nghiên cứu và bảo vệ môi trường"
+
+4. Loại 13 "Quản lý nhà nước và an ninh quốc phòng đảm bảo xã hội bắt buộc"
+
+- Mở Khoản 11 "Chương trình phòng chống tội phạm"
+
+5. Loại 15 "Y tế và các hoạt động xã hội"
+
+- Đổi tên Khoản 04 "Chương trình dân số và kế hoạch hóa gia đình" thành "Chương trình quốc gia dân số kế hoạch hóa gia đình"
+
+- Đổi tên Khoản 07 "Chương trình chăm sóc và bảo vệ trẻ em" thành "Sự nghiệp bảo vệ và chăm sóc trẻ em"
+
+- Đổi tên Khoản 11 "Mục tiêu chống bệnh sốt rét" thành "Mục tiêu phòng chống bệnh sốt rét"
+
+- Đổi tên Khoản 12 "Mục tiêu chống bệnh bướu cổ" thành "Mục tiêu phòng chống bướu cổ"
+
+- Đổi tên Khoản 14 "Mục tiêu chống bệnh lao" thành "Mục tiêu phòng chống bệnh lao"
+
+- Đổi tên Khoản 15 "Mục tiêu chống bệnh phong" thành "Mục tiêu phòng chống bệnh phong"
+
+- Đổi tên Khoản 18 "Chương trình phòng chống AIDS" thành "Chương trình quốc gia phòng chống HIV/AIDS"
+
+- Đổi tên Khoản 20 "Chương trình chống ma túy" thành "Chương trình hành động phòng chống ma túy"
+
+- Đổi tên Khoản 21 "Chương trình sắp xếp lao động và giải quyết việc làm" thành "Chương trình mục tiêu quốc gia về việc làm đến năm 2000"
+
+- Đổi tên Khoản 22 "Chương trình trợ cấp đồng bào dân tộc đặc biệt khó khăn" thành "Chương trình mục tiêu quốc gia xóa đói giảm nghèo trong giai đoạn 1998 - 2000"
+
+- Mở Khoản 23 "Chương trình phát triển kinh tế - xã hội các xã đặc biệt khó khăn, miền núi, vùng sâu, vùng xa"
+
+- Mở Khoản 24 "Mục tiêu phòng chống suy dinh dưỡng trẻ em"
+
+- Mở Khoản 25 "Mục tiêu phòng chống bệnh sốt xuất huyết"
+
+- Mở Khoản 26 "Mục tiêu chăm sóc sức khỏe tâm thần"
+
+6. Loại 16 "Hoạt động văn hóa và thể thao"
+
+- Đổi tên Khoản 12 "Hoạt động giải trí khác" thành "Hoạt động văn hóa khác"
+
+- Mở Khoản 20 "Mục tiêu đào tạo huấn luyện vận động viên thành tích cao, vận động viên năng khiếu, vận động viên trẻ"
+
+- Mở Khoản 21 "Mục tiêu xây dựng các trung tâm thể dục, thể thao trọng điểm".
+
+7. Từ Loại 01 - Loại 20
+
+- Mở Khoản 99 "Chương trình, mục tiêu khác" để hạch toán các chương trình, mục tiêu khác chưa có tên trong danh mục mã số Khoản của Loại 01 đến Loại 20.
+
+III. Về Tiểu nhóm, Mục và Tiểu mục
+
+* Đổi tên Tiểu nhóm 01 "Thuế thu nhập và thuế lợi tức" thành "Thuế thu nhập và thu nhập sau thuế thu nhập"
+
+1. Đổi tên Mục 002 cũ "Thuế lợi tức" thành Mục 002 mới "Thuế thu nhập doanh nghiệp" và các Tiểu mục sau:
+
+- Tiểu mục 01 "Thuế thu nhập doanh nghiệp của các đơn vị hạch toán toàn ngành"
+
+- Tiểu mục 02 "Thuế thu nhập doanh nghiệp của các đơn vị không hạch toán toàn ngành"
+
+- Tiểu mục 03 "Thu nợ thuế lợi tức của các đơn vị hạch toán toàn ngành"
+
+- Tiểu mục 04 "Thu nợ thuế lợi tức của các đơn vị không hạch toán toàn ngành"
+
+- Tiểu mục 15 "Khác"
+
+2. Mở mục 004 "Thu nhập sau thuế thu nhập" và các tiểu mục sau:
+
+- Tiểu mục 01 "Thu nhập sau thuế thu nhập"
+
+- Tiểu mục 02 "Thu chênh lệch của doanh nghiệp công ích"
+
+- Tiểu mục 15 "Khác"
+
+3. Đổi tên Mục 014 cũ "Thuế doanh thu" thành Mục 014 mới "Thuế giá trị gia tăng" và các Tiểu mục sau:
+
+- Tiểu tục 01 "Thuế giá trị gia tăng hàng sản xuất, kinh doanh trong nước"
+
+- Tiểu mục 02 "Thuế giá trị gia tăng hàng nhập khẩu (trừ thuế giá trị gia tăng hàng nhập khẩu qua biên giới đất liền)"
+
+- Tiểu mục 03 "Thuế giá trị gia tăng hàng nhập khẩu qua biên giới đất liền"
+
+- Tiểu mục 04 "Thu nợ thuế doanh thu"
+
+- Tiểu mục 15 "Khác"
+
+4. Mục 015 "Thuế tiêu thụ đặc biệt", bỏ các Tiểu mục cũ và mở các Tiểu mục mới sau:
+
+- Tiểu mục 01 "Hàng hóa sản xuất, kinh doanh và dịch vụ trong nước điều tiết ngân sách trung ương 100% theo luật ngân sách nhà nước"
+
+- Tiểu mục 02 "Hàng nhập khẩu (trừ thuế nhập khẩu hàng qua biên giới đất liền"
+
+- Tiểu mục 04 "Hàng hóa sản xuất, kinh doanh và dịch vụ trong nước điều tiết giữa ngân sách các cấp của chính quyền địa phương theo luật ngân sách nhà nước"
+
+- Tiểu mục 15 "Khác"
+
+5. Bỏ Mục 017 "Thuế sát sinh"
+
+6. Đổi tên Mục 025 "Thu hồi vốn của doanh nghiệp" thành "Thu hồi vốn của doanh nghiệp nhà nước" - Mở Tiểu mục 02 "Thu thanh lý tài sản cố định".
+
+7. Mục 026 "Các khoản phụ thu" mở thêm các Tiểu mục sau:
+
+- Tiểu mục 05 "Phụ thu xăng dầu"
+
+- Tiểu mục 06 "Phụ thu phân bón"
+
+- Tiểu mục 07 "Phụ thu cà phê"
+
+- Tiểu mục 08 "Phụ thu mặt hàng nhựa PVC"
+
+8. Mục 029 "Thu từ quỹ đất công ích và đất công" bỏ các Tiểu mục cũ và mở các Tiểu mục sau:
+
+- Tiểu mục 01 "Thu hoa lợi công sản từ quỹ đất công ích"
+
+- Tiểu mục 02 "Thu hoa lợi công sản từ quỹ đất công"
+
+- Tiểu mục 03 "Thu đền bù thiệt hại khi Nhà nước thu hồi đất"
+
+- Tiểu mục 15 "Khác"
+
+* Đổi tên Tiểu nhóm 07 "Lãi thu từ các khoản cho vay" thành "Lãi thu từ các khoản cho vay và tham gia góp vốn của Nhà nước".
+
+9. Bỏ Mục 030 cũ "Lãi thu từ các khoản cho vay trong nước" mở Mục 030 mới "Lãi thu từ các khoản cho vay đầu tư phát triển và tham gia góp vốn của Chính phủ ở trong nước" và các Tiểu mục sau:
+
+- Tiểu mục 01 "Lãi cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vốn trong nước"
+
+- Tiểu mục 02 "Lãi cho vay thu qua hệ thống đầu tư phát triển bằng nguồn viện trợ không hoàn lại"
+
+- Tiểu mục 03 "Lãi cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vay nợ nước ngoài".
+
+- Tiểu mục 04 "Lãi cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vốn trong nước".
+
+- Tiểu mục 05 "Lãi cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn viện trợ".
+
+- Tiểu mục 06 "Lãi cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vay nợ nước ngoài"
+
+- Tiểu mục 07 "Lãi thu từ các khoản tham gia góp vốn của Chính phủ"
+
+- Tiểu mục 08 "Chênh lệch thu, chi của ngân hàng nhà nước".
+
+- Tiểu mục 15 "Khác"
+
+10. Đổi tên Mục 031 "Lãi thu từ các khoản cho nước ngoài vay" thành "Lãi thu từ các khoản vay và tham gia góp vốn của Nhà nước ở nước ngoài" giữa nguyên tên các Tiểu mục cũ và mở thêm Tiểu mục sau:
+
+- Tiểu mục 04 "Lãi thu từ các khoản tham gia góp vốn của Nhà nước"
+
+11. Mục 032 "Phí giao thông"
+
+- Đổi tên Tiểu mục 01 "Thu qua xăng dầu" thành "Phí giao thông thu qua xăng dầu"
+
+12. Mục 039 "Phí nông nghiệp, phí y tế và môi trường"
+
+- Mở Tiểu mục 07 "Phí kiểm nghiệm dược phẩm, mỹ phẩm"
+
+13. Mục 046 "Lệ phí hành chính"
+
+- Mở Tiểu mục 11 "Lệ phí hộ tịch".
+
+14. Mục 047 "Lệ phí địa chính".
+
+- Mở Tiểu mục 03 "Lệ phí đăng ký và cấp giấy chứng nhận về đất và nhà".
+
+15. Mục 052 "Thu tịch thu" bỏ các Tiểu mục cũ và mở các Tiểu mục mới sau:
+
+- Tiểu mục 01 "Tịch thu từ công tác chống lậu do ngành thuế thực hiện".
+
+- Tiểu mục 02 "Tịch thu khác do ngành thuế thực hiện".
+
+- Tiểu mục 03 "Tịch thu từ công tác chống lậu do ngành Hải quan thực hiện".
+
+- Tiểu mục 04 "Tịch thu khác do ngành Hải quan thực hiện".
+
+- Tiểu mục 05 "Tịch thu từ công tác chống lậu của cơ quan quản lý thị trường thực hiện".
+
+- Tiểu mục 06 "Tịch thu theo quyết định của tòa án, cơ quan thi hành án thực hiện".
+
+- Tiểu mục 07 "Tịch thu từ công tác chống lậu do các ngành khác thực hiện"
+
+- Tiểu mục 15 "Khác"
+
+16. Mục 062 "Thu khác" và mở thêm 2 Tiểu mục sau:
+
+- Tiểu mục 04 "Các khoản thu khác của ngành thuế".
+
+- Tiểu mục 05 "Các khoản thu khác của ngành Hải quan"
+
+17. Mục 077 "Thu nợ gốc cho vay đầu tư phát triển" bỏ các Tiểu mục cũ và mở các Tiểu mục mới sau:
+
+- Tiểu mục 01 "Thu nợ gốc cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vốn trong nước".
+
+- Tiểu mục 02 "Thu nợ gốc cho vay thu qua hệ thống đầu tư phát triển bằng nguồn viện trợ không hoàn lại".
+
+- Tiểu mục 03 "Thu nợ gốc cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vay nợ nước ngoài".
+
+- Tiểu mục 04 "Thu nợ gốc cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vốn trong nước".
+
+- Tiểu mục 05 "Thu nợ gốc cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn viện trợ".
+
+- Tiểu mục 06 "Thu nợ gốc cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vay nợ nước ngoài".
+
+- Tiểu mục 15 "Khác"
+
+18. Bỏ Mục 078 "Thu nợ gốc cho vay với mục đích khác"
+
+19. Mục 110 "Vật tư văn phòng"
+
+- Bỏ Tiểu mục 02 "Sách, tài liệu, chế độ dùng cho công tác chuyên môn" chuyển về hạch toán ở Mục 119, Tiểu mục 07 mới hoặc Mục 145, Tiểu mục 11 mới.
+
+20. Bỏ Mục 107 cũ "Chi cho cán bộ xã" mở Mục 107 mới "Chi cho cán bộ xã, thôn, bản đương chức" và các Tiểu mục sau:
+
+- Tiểu mục 01 "Sinh hoạt phí"
+
+- Tiểu mục 02 "Các khoản phụ cấp"
+
+- Tiểu mục 03 "Hoạt động phí của phó các đoàn thể"
+
+- Tiểu mục 15 "Khác"
+
+21. Mục 111 "Thông tin, tuyên truyền, liên lạc".
+
+- Mở Tiểu mục 11 "Chi tuyên truyền giáo dục pháp luật theo Quyết định số 03/1998/QĐ-TTg ngày 07/01/1998 của Chính phủ"
+
+- Mở Tiểu mục 12 "Chi tủ sách pháp luật ở xã, phường, thị trấn theo quyết định 1067/QĐ-TTg ngày 25/11/1998 của Chính phủ".
+
+22. Mục 112 "Hội nghị" - Mở Tiểu mục 07 "Chi bù tiền ăn"
+
+23. Mục 113 "Công tác phí"
+
+- Đổi tên Tiểu mục 02 "Phụ cấp lưu trú" thành "Phụ cấp công tác phí"
+
+- Mở Tiểu mục 04 "Khoán công tác phí"
+
+- Mở Tiểu mục 05 "Công tác phí của trưởng thôn, bản ở miền núi".
+
+24. Mục 114 "Chi phí thuê mướn".
+
+- Đổi tên Tiểu mục 05 "Thuê chuyên gia nước ngoài" thành "Thuê chuyên gia và giảng viên nước ngoài".
+
+- Đổi tên Tiểu mục 06 "Thuê chuyên gia trong nước" thành "Thuê chuyên gia và giảng viên trong nước".
+
+25. Mục 119 "Chi phí nghiệp vụ chuyên môn của từng ngành".
+
+- Đổi tên Tiểu mục 01 "Vật tư" thành "Chi mua hàng hóa, vật tư dùng cho chuyên môn của từng ngành".
+
+- Đổi tên Tiểu mục 03 "In ấn chỉ" thành "Chi mua, in ấn chỉ dùng cho chuyên môn của ngành"
+
+- Mở Tiểu mục 06 "Sách, tài liệu, chế độ dùng cho công tác chuyên môn của ngành" (Không phải là tài sản cố định).
+
+- Mở Tiểu mục 07 "Chi mua súc vật dùng cho hoạt động chuyên môn của ngành".
+
+- Mở Tiểu mục 12 "Chi mật phí"
+
+- Đổi tên Tiểu mục 14 "Chi thanh toán hợp đồng với bên ngoài về đầu tư, khảo sát, quy hoạch, nghiên cứu khoa học..." thành "Chi thanh toán hợp đồng với bên ngoài".
+
+26. Mục 124 "Chi lương hưu và trợ cấp bảo hiểm xã hội".
+
+- Đổi tên Tiểu mục 05 "Tai nạn lao động, bệnh nghề nghiệp" thành "Trợ cấp tai nạn lao động, bệnh nghề nghiệp và trợ cấp phục vụ người bị tai nạn lao động".
+
+27. Bỏ Mục 129 "Chi sắp xếp lao động" chuyển nội dung chi sắp xếp lao động về hạch toán ở Mục 140 "Chi hỗ trợ và giải quyết việc làm".
+
+28. Mở Mục 130 "Chi hoàn thuế giá trị gia tăng" và các Tiểu mục sau:
+
+- Tiểu mục 01 "Chi hoàn thuế giá trị gia tăng hàng sản xuất và kinh doanh trong nước"
+
+- Tiểu mục 02 "Chi hoàn thuế giá trị gia tăng hàng nhập khẩu"
+
+- Tiểu mục 15 "Khác"
+
+29. Mục 134 "Chi khác"
+
+- Bỏ Tiểu mục 07 "Chi phí in tiền, đổi tiền"
+
+- Bỏ Tiểu mục 12 "Chi cho các cơ quan đại diện Việt Nam ở nước ngoài" (nội dung chi thuộc Mục và Tiểu mục nào thì hạch toán vào Mục và Tiểu mục đó).
+
+- Mở Tiểu mục 13 "Chi tiếp khách"
+
+30. Mục 136 "Trả lãi tiền vay ngoài nước" các Tiểu mục được sắp xếp lại.
+
+- Tiểu mục 01 "Trả lãi tiền vay các tổ chức tài chính, tiền tệ quốc tế"
+
+- Tiểu mục 02 "Trả lãi tiền vay các Chính phủ và tổ chức tài chính - tín dụng nước ngoài"
+
+- Tiểu mục 03 "Trả lãi tiền vay các thương nhân nước ngoài"
+
+- Tiểu mục 04 "Trả phát hành trái phiếu ra thị trường vốn quốc tế"
+
+- Tiểu mục 15 "Khác"
+
+31. Đổi tên Mục 140 cũ "Chi hỗ trợ giải quyết việc làm" thành Mục 140 mới "Chi hỗ trợ và giải quyết việc làm" và các Tiểu mục sau:
+
+- Tiểu mục 01 "Hỗ trợ trung tâm dịch vụ việc làm và phục hồi nhân phẩm"
+
+- Tiểu mục 02 "Hỗ trợ giải quyết việc làm cho thương binh và người tàn tật"
+
+- Tiểu mục 03 "Hỗ trợ doanh nghiệp có nhiều lao động nữ"
+
+- Tiểu mục 04 "Chi hỗ trợ đào tạo tay nghề".
+
+- Tiểu mục 05 "Chi sắp xếp lao động khu vực doanh nghiệp nhà nước"
+
+- Tiểu mục 06 "Chi sắp xếp lao động khu vực hành chính sự nghiệp"
+
+- Tiểu mục 07 "Chi trợ cấp thôi việc cho người lao động ở nước ngoài về nước"
+
+- Tiểu mục 15 "Khác"
+
+32. Mục 141 "Hỗ trợ vốn cho các doanh nghiệp nhà nước"
+
+- Mở Tiểu mục 03 "Hỗ trợ doanh nghiệp công ích"
+
+33. Mở Mục 142 "Hỗ trợ các doanh nghiệp thực hiện cổ phần hóa"
+
+- Tiểu mục 01 "Hỗ trợ các doanh nghiệp thực hiện cổ phần hóa"
+
+- Tiểu mục 15 "Khác"
+
+34. Mục 145 "Mua sắm tài sản dùng cho công tác chuyên môn"
+
+- Đổi tên Tiểu mục 05 "Đồ gỗ" thành "Đồ gỗ, sắt, mây tre, nhựa (cao cấp)"
+
+- Mở Tiểu mục 11 "Sách, tài liệu và chế độ dùng cho công tác chuyên môn".
+
+35. Mục 151 "Cho vay đầu tư phát triển" bỏ các Tiểu mục cũ và mở các Tiểu mục mới sau:
+
+- Tiểu mục 01 "Cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vốn trong nước"
+
+- Tiểu mục 02 "Cho vay thu qua hệ thống đầu tư phát triển bằng nguồn viện trợ không hoàn lại"
+
+- Tiểu mục 03 "Cho vay thu qua hệ thống đầu tư phát triển bằng nguồn vay nợ nước ngoài"
+
+- Tiểu mục 04 "Cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vốn trong nước"
+
+- Tiểu mục 05 "Cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn viện trợ"
+
+- Tiểu mục 06 "Cho vay thu qua hệ thống ngân hàng nhà nước bằng nguồn vay nợ nước ngoài".
+
+- Tiểu mục 15 "Khác"
+
+36. Bỏ Mục 152 "Cho vay với mục đích khác"
+
+37. Mục 153 "Hỗ trợ các quỹ"
+
+- Mở Tiểu mục 02 "Hỗ trợ quỹ Quốc gia giải quyết việc làm"
+
+IV. Đổi tên mã số danh mục "Mục thu - Mục chi ngoài ngân sách" thành mã số danh mục "Mục tạm thu, Mục tạm chi chưa đưa vào cân đối ngân sách Nhà nước":
+
+Để áp dụng thuận tiện chương trình tin học trong công tác quản lý Ngân sách nhà nước và đảm bảo sự đồng nhất trong việc quy định danh mục mã số Mục tạm thu, Mục tạm chi chưa đưa vào cân đối Ngân sách nhà nước và mã số danh mục Mục tạm thu, Mục tạm chi trong cân đối Ngân sách nhà nước; nay đổi mã số danh mục Mục tạm thu, Mục tạm chi chưa đưa vào cân đối Ngân sách nhà nước từ 2 chữ số thành 3 chữ số, cụ thể như sau:
+
+1. Mã số danh mục Mục tạm thu chưa đưa vào cân đối Ngân sách nhà nước:
+
+- Mục 801 "Tạm thu ngân sách"
+
+- Mục 802 "Vay ngân hàng nhà nước"
+
+- Mục 803 "Vay quỹ dự trữ tài chính"
+
+- Mục 804 "Vay các quỹ khác"
+
+- Mục 805 "Vay kho bạc nhà nước"
+
+- Mục 810 "Vay khác"
+
+2. Mã số danh mục Mục tạm chi chưa đưa vào cân đối Ngân sách nhà nước
+
+- Mục 901 "Chi tạm ứng hành chính sự nghiệp"
+
+- Mục 902 "Tạm ứng xây dựng cơ bản qua hệ thống đầu tư phát triển"
+
+- Mục 903 "Tạm ứng vốn dự án trồng mới 5 triệu ha rừng"
+
+- Mục 904 "Tạm ứng vốn 773"
+
+- Mục 906 "Tạm ứng C, K"
+
+- Mục 907 "Tạm ứng sự nghiệp định canh, định cư" (bao gồm cả chi tạm ứng sự nghiệp kiểm lâm nhân dân)
+
+- Mục 909 "Tạm ứng sự nghiệp giao thông đường sắt"
+
+- Mục 910 "Tạm ứng sự nghiệp địa chất"
+
+- Mục 911 "Tạm ứng cho các doanh nghiệp"
+
+- Mục 912 "Tạm ứng quỹ hoàn thuế giá trị tăng"
+
+- Mục 920 "Tạm ứng khác"
+
+V. Bỏ mã số danh mục các tỉnh, thành phố trực thuộc Trung ương của hệ thống Mục lục Ngân sách nhà nước ban hành theo Quyết định 280/TC-QĐ-NSNN ngày 15/04/1997 của Bộ Tài chính và mở mã số danh mục các tỉnh, thành phố trực thuộc Trung ương theo Quyết định 28/1998/QĐ-TCTK ngày 24/01/1998 của Tổng cục Thống kê như sau:
+
+
+
+
+
+Mã số
+
+
+
+
+Tỉnh, thành phố trực thuộc Trung ương
+
+
+
+
+
+
+000
+
+
+
+
+Trung ương
+
+
+
+
+
+
+1.
+
+
+
+
+Vùng đồng bằng sông Hồng
+
+
+
+
+
+
+101
+
+
+
+
+TP. Hà Nội
+
+
+
+
+
+
+103
+
+
+
+
+TP. Hải Phòng
+
+
+
+
+
+
+105
+
+
+
+
+Tỉnh Hà Tây
+
+
+
+
+
+
+108
+
+
+
+
+Tỉnh Hải Dương
+
+
+
+
+
+
+109
+
+
+
+
+Tỉnh Hưng Yên
+
+
+
+
+
+
+111
+
+
+
+
+Tỉnh Hà Nam
+
+
+
+
+
+
+113
+
+
+
+
+Tỉnh Nam Định
+
+
+
+
+
+
+115
+
+
+
+
+Tỉnh Thái Bình
+
+
+
+
+
+
+117
+
+
+
+
+Tỉnh Ninh Bình
+
+
+
+
+
+
+2.
+
+
+
+
+Vùng Đông Bắc
+
+
+
+
+
+
+201
+
+
+
+
+Tỉnh Hà Giang
+
+
+
+
+
+
+203
+
+
+
+
+Tỉnh Cao Bằng
+
+
+
+
+
+
+205
+
+
+
+
+Tỉnh Lào Cai
+
+
+
+
+
+
+207
+
+
+
+
+Tỉnh Bắc Cạn
+
+
+
+
+
+
+209
+
+
+
+
+Tỉnh Lạng Sơn
+
+
+
+
+
+
+211
+
+
+
+
+Tỉnh Tuyên Quang
+
+
+
+
+
+
+213
+
+
+
+
+Tỉnh Yên Bái
+
+
+
+
+
+
+215
+
+
+
+
+Tỉnh Thái Nguyên
+
+
+
+
+
+
+217
+
+
+
+
+Tỉnh Phú Thọ
+
+
+
+
+
+
+219
+
+
+
+
+Tỉnh Vĩnh Phúc
+
+
+
+
+
+
+221
+
+
+
+
+Tỉnh Bắc Giang
+
+
+
+
+
+
+223
+
+
+
+
+Tỉnh Bắc Ninh
+
+
+
+
+
+
+225
+
+
+
+
+Tỉnh Quảng Ninh
+
+
+
+
+
+
+3.
+
+
+
+
+Vùng Tây Bắc
+
+
+
+
+
+
+301
+
+
+
+
+Tỉnh Lai Châu
+
+
+
+
+
+
+303
+
+
+
+
+Tỉnh Sơn La
+
+
+
+
+
+
+305
+
+
+
+
+Tỉnh Hòa Bình
+
+
+
+
+
+
+4.
+
+
+
+
+Vùng Bắc Trung Bộ
+
+
+
+
+
+
+401
+
+
+
+
+Tỉnh Thanh Hóa
+
+
+
+
+
+
+403
+
+
+
+
+Tỉnh Nghệ An
+
+
+
+
+
+
+405
+
+
+
+
+Tỉnh Hà Tĩnh
+
+
+
+
+
+
+407
+
+
+
+
+Tỉnh Quảng Bình
+
+
+
+
+
+
+409
+
+
+
+
+Tỉnh Quảng Trị
+
+
+
+
+
+
+411
+
+
+
+
+Tỉnh Thừa Thiên - Huế
+
+
+
+
+
+
+5.
+
+
+
+
+Vùng duyên hải Nam Trung Bộ
+
+
+
+
+
+
+501
+
+
+
+
+TP. Đà Nẵng
+
+
+
+
+
+
+503
+
+
+
+
+Tỉnh Quảng Nam
+
+
+
+
+
+
+505
+
+
+
+
+Tỉnh Quảng Ngãi
+
+
+
+
+
+
+507
+
+
+
+
+Tỉnh Bình Định
+
+
+
+
+
+
+509
+
+
+
+
+Tỉnh Phú Yên
+
+
+
+
+
+
+511
+
+
+
+
+Tỉnh Khánh Hòa.
+
+
+
+
+
+
+6.
+
+
+
+
+Vùng Tây Nguyên
+
+
+
+
+
+
+601
+
+
+
+
+Tỉnh Kon Tum
+
+
+
+
+
+
+603
+
+
+
+
+Tỉnh Gia Lai
+
+
+
+
+
+
+605
+
+
+
+
+Tỉnh Đắc Lắc
+
+
+
+
+
+
+7.
+
+
+
+
+Vùng Đông Nam Bộ
+
+
+
+
+
+
+701
+
+
+
+
+TP. Hồ Chí Minh
+
+
+
+
+
+
+703
+
+
+
+
+Tỉnh Lâm Đồng
+
+
+
+
+
+
+705
+
+
+
+
+Tỉnh Ninh Thuận
+
+
+
+
+
+
+707
+
+
+
+
+Tỉnh Bình Phước
+
+
+
+
+
+
+709
+
+
+
+
+Tỉnh Tây Ninh
+
+
+
+
+
+
+711
+
+
+
+
+Tỉnh Bình Dương
+
+
+
+
+
+
+713
+
+
+
+
+Tỉnh Đồng Nai
+
+
+
+
+
+
+715
+
+
+
+
+Tỉnh Bình Thuận
+
+
+
+
+
+
+717
+
+
+
+
+Tỉnh Bà Rịa - Vũng Tàu
+
+
+
+
+
+
+8.
+
+
+
+
+Vùng đồng bằng sông Cửu Long
+
+
+
+
+
+
+801
+
+
+
+
+Tỉnh Long An
+
+
+
+
+
+
+803
+
+
+
+
+Tỉnh Đồng Tháp
+
+
+
+
+
+
+805
+
+
+
+
+Tỉnh An Giang
+
+
+
+
+
+
+807
+
+
+
+
+Tỉnh Tiền Giang
+
+
+
+
+
+
+809
+
+
+
+
+Tỉnh Vĩnh Long
+
+
+
+
+
+
+811
+
+
+
+
+Tỉnh Bến Tre
+
+
+
+
+
+
+813
+
+
+
+
+Tỉnh Kiên Giang
+
+
+
+
+
+
+815
+
+
+
+
+Tỉnh Cần Thơ
+
+
+
+
+
+
+817
+
+
+
+
+Tỉnh Trà Vinh
+
+
+
+
+
+
+819
+
+
+
+
+Tỉnh Sóc Trăng
+
+
+
+
+
+
+821
+
+
+
+
+Tỉnh Bạc Liêu
+
+
+
+
+
+
+823
+
+
+
+
+Tỉnh Cà Mau
+
+
+
+
+
+Thông tư này có hiệu lực thi hành từ ngày 01/01/1999. Trong quá trình thực hiện, nếu có gì vướng mắc đề nghị có công văn gửi về Bộ Tài chính để Bộ Tài chính nghiên cứu và sửa đổi./.
+
+
+
+
+
+
+

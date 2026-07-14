@@ -1,0 +1,846 @@
+# Thông tư quy định chế độ chi tiêu đối với các hoạt động nghiên cứu triển khai
+# Loại: Thông tư liên tịch
+# Số hiệu: 49/TC-KHCN
+# Ngày ban hành: 01/07/1995
+# Cơ quan: Bộ Tài chính
+# Người ký: Tào Hữu Phùng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+NGHỊ ĐỊNH CỦA CHÍNH PHỦ
+
+Về việc ban hành quy chế đấu thầu
+
+
+
+CHÍNH PHỦ
+
+Căn cứ Luật Tổ chức Chính phủ ngày 30 tháng 9 năm 1992;
+
+Theo đề nghị của Bộ trưởng các Bộ: Kế hoạch và Đầu tư, Xây dựng, Thương mại,
+
+
+
+NGHỊ ĐỊNH:
+
+Điều 1. Ban hành kèm theo Nghị định này Quy chế đấu thầu.
+
+Điều 2. Nghị định này có hiệu lực thi hành kể từ ngày ký. Các quy định trước đây trái với Nghị định này đều bãi bỏ.
+
+Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các chủ đầu tư chịu trách nhiệm thi hành Nghị định này.
+
+Bộ Kế hoạch và Đầu tư có trách nhiệm chủ trì phối hợp với Bộ Xây dựng, Bộ Thương mại và các Bộ, ngành có liên quan hướng dẫn và kiểm tra việc thực hiện Quy chế đấu thầu ban hành kèm theo Nghị định này./.
+
+
+
+T.M.Chính phủ
+
+Thủ tướng
+
+Võ Văn Kiệt
+
+(Đã ký)
+
+QUY CHẾ ĐẤU THẦU
+
+(Ban hành kèm theo Nghị định số 43/CP ngày 16/7/1996 của Chính phủ)
+
+Quy chế đấu thầu được ban hành nhằm thống nhất quản lý hoạt động đấu thầu trong cả nước, bảo đảm tính đúng đắn, khách quan, công bằng và có tính cạnh tranh trong đấu thầu dự án hoặc từng phần dự án đầu tư về tuyển chọn tư vấn, mua sắm vật tư thiết bị và thi công xây lắp để thực hiện các dự án đầu tư trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+
+
+CHƯƠNG I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Giải thích các thuật ngữ.
+
+Các thuật ngữ dùng trong Quy chế này được hiểu như sau:
+
+1. "Đấu thầu" là quá trình lựa chọn nhà thầu đáp ứng được các yêu cầu của bên mời thầu trên cơ sở cạnh tranh giữa các nhà thầu.
+
+2. "Xét thầu" là quá trình phân tích, đánh giá các hồ sơ dự thầu để xét chọn bên trúng thầu.
+
+3. "Bên mời thầu" là chủ đầu tư hoặc đại diện hợp pháp của chủ đầu tư có dự án cần đấu thầu.
+
+4. "Người có thẩm quyền quyết định đầu tư" là:
+
+Hội đồng quản trị hoặc Ban quản trị nếu vốn đầu tư thuộc sở hữu của công ty hoặc hợp tác xã.
+
+Một tổ chức hoặc một cơ quan Nhà nước có thẩm quyền hoặc được uỷ quyền theo luật định, nếu vốn đầu tư là vốn Nhà nước.
+
+5. "Nhà thầu" là tổ chức kinh tế có đủ điều kiện và có tư cách pháp nhân để tham gia đấu thầu, nhà thầu, nhà thầu có thể là cá nhân trong trường hợp đấu thầu tuyển chọn tư vấn.
+
+6. "Gói thầu" là một công việc của dự án đầu tư được phân chia theo tính chất hoặc trình tự thực hiện dự án, có quy mô hợp lý và bảo đảm tính đồng bộ của dự án để tổ chức lựa chọn nhà thầu. Gói thầu cũng có thể là toàn bộ dự án.
+
+7. "Tư vấn đầu tư và xây dựng" là hoạt động đáp ứng các yêu cầu về kiến thức, kinh nghiệm chuyên môn cho bên mời thầu trong việc xem xét quyết định kiểm tra quá trình chuẩn bị đầu tư và thực hiện đầu tư.
+
+8. "Xây lắp" là những công việc có liên quan đến quá trình xây dựng và lắp đặt thiết bị các công trình, hạng mục công trình.
+
+9. "Vật tư thiết bị" bao gồm thiết bị toàn bộ hoặc thiết bị lẻ, thành phẩm, bán thành phẩm, nguyên liệu và vật liệu.
+
+10. "Sơ tuyển" là bước lựa chọn các nhà thầu có đủ tư cách và năng lực để tham dự đấu thầu.
+
+11. "Nộp thầu" là thời hạn nhận hồ sơ dự thầu được quy định trong hồ sơ mời thầu.
+
+12. "Mở thầu" là thời điểm tổ chức mở các hồ sơ dự thầu được quy định trong hồ sơ mời thầu.
+
+13. "Danh sách ngắn" là danh sách thu hẹp các nhà thầu được lựa chọn qua các bước đánh giá hồ sơ dự thầu.
+
+Điều 2. Phạm vi và đối tượng áp dụng quy chế đấu thầu.
+
+Quy chế đấu thầu áp dụng để lựa chọn nhà thầu cho các dự án đầu tư tại Việt Nam và phải được tổ chức đấu thầu tại Việt Nam bao gồm:
+
+a) Các dự án đầu tư được người có thẩm quyền quyết định đầu tư phê duyệt theo quy định của Điều lệ quản lý đầu tư và xây dựng.
+
+b) Các dự án đầu tư liên doanh (hoặc hợp tác kinh doanh) với nước ngoài của các doanh nghiệp Nhà nước có mức góp vốn pháp định của bên Việt Nam từ 30% trở lên.
+
+c) Các dự án đầu tư cần lựa chọn đối tác liên danh, 100% vốn nước ngoài hoặc BOT (Xây dựng vận hành chuyển giao), BT (Xây dựng chuyển giao).
+
+d) Các dự án đầu tư khác mà chủ đầu tư quyết định tổ chức đấu thầu.
+
+e) Đối với các dự án có sử dụng nguồn vốn tài trợ của các tổ chức quốc tế hoặc của nước ngoài, cơ quan được giao trách nhiệm đàm phán ký kết hiệp định phải trình Thủ tướng Chính phủ xem xét quyết định những quy định khác với quy chế này trước khi ký.
+
+Điều 3. Hình thức lựa chọn nhà thầu và phương thức áp dụng.
+
+1. Hình thức lựa chọn nhà thầu:
+
+a) Đấu thầu rộng rãi.
+
+Đấu thầu rộng rãi là hình thức không hạn chế số lượng nhà thầu tham gia. Bên mời thầu phải thông báo công khai trên các phương tiện thông tin đại chúng và ghi rõ các điều kiện, thời gian dự thầu. Đối với những gói thầu lớn phức tạp về công nghệ và kỹ thuật, bên mời thầu phải tiến hành sơ tuyển để lựa chọn nhà thầu có đủ tư cách và năng lực tham dự đấu thầu.
+
+b) Đấu thầu hạn chế.
+
+Đấu thầu hạn chế là hình thức đấu thầu mà bên mời thầu chỉ mời một số nhà thầu có khả năng đáp ứng các yêu cầu của hồ sơ mời thầu.
+
+c) Chỉ định thầu.
+
+Chỉ định thầu là hình thức đặc biệt, được áp dụng theo quy định của Điều lệ quản lý đầu tư và xây dựng đối với các gói thầu sử dụng vốn Nhà nước được phép chỉ định thầu. Bên mời thầu chỉ thương thảo hợp đồng với một nhà thầu do người có thẩm quyền quyết định đầu tư chỉ định, nếu không đạt được yêu cầu mới thương thảo với nhà thầu khác.
+
+2. Phương thức áp dụng:
+
+a) Đấu thầu một túi hồ sơ (một phong bì).
+
+Khi dự thầu theo phương thức này, nhà thầu cần nộp những đề xuất về kỹ thuật, tài chính, giá bỏ thầu và những điều kiện khác trong một túi hồ sơ chung.
+
+b) Đấu thầu hai túi hồ sơ (hai phong bì).
+
+Khi dự thầu theo phương thức này, nhà thầu cần nộp những đề xuất về kỹ thuật và đề xuất về tài chính trong từng túi hồ sơ riêng vào cùng một thời điểm. Túi hồ sơ đề xuất về kỹ thuật sẽ được xem xét trước để đánh giá, xếp hạng. Nhà thầu được xếp hạng thứ nhất về kỹ thuật sẽ được xem xét tiếp túi hồ sơ đề xuất về tài chính. Trường hợp nhà thầu không đáp ứng các yêu cầu về tài chính và các điều kiện của hợp đồng, bên mời thầu phải xin ý kiến của người có thẩm quyền quyết định đầu tư, nếu được chấp thuận mới được mời nhà thầu tiếp theo để xem xét.
+
+c) Đấu thầu hai giai đoạn.
+
+Phương thức này áp dụng cho những dự án lớn, phức tạp về công nghệ và kỹ thuật hoặc dự án thuộc dạng chìa khoá trao tay. Trong quá trình xem xét, chủ đầu tư có điều kiện hoàn thiện yêu cầu về mặt công nghệ, kỹ thuật và các điều kiện tài chính của hồ sơ mời thầu.
+
+Giai đoạn thứ nhất: Các nhà thầu nộp đề xuất về kỹ thuật và phương án tài chính sơ bộ (chưa có giá) để bên mời thầu xem xét và thảo luận cụ thể với từng nhà thầu nhằm thống nhất về yêu cầu và tiêu chuẩn kỹ thuật để nhà thầu chính thức chuẩn bị và nộp đề xuất kỹ thuật của mình.
+
+Giai đoạn thứ hai: Bên mời thầu mời các nhà thầu tham gia trong giai đoạn thứ nhất nộp đề xuất kỹ thuật đã được bổ sung hoàn chỉnh trên cùng một mặt bằng kỹ thuật và đề xuất đầy đủ các điều kiện tài chính, tiến độ thực hiện, điều kiện hợp đồng, giá bỏ thầu để đánh giá và xếp hạng.
+
+d) Chào hàng cạnh tranh.
+
+Phương thức này chỉ áp dụng cho những gói thầu mua sắm vật tư thiết bị có quy mô nhỏ và đơn giản. Mỗi gói thầu phải có ít nhất 3 bản chào giá của 3 nhà thầu khác nhau trên cơ sở yêu cầu của bên mời thầu. Nhà thầu đáp ứng yêu cầu và có giá bỏ thầu được đánh giá thấp nhất sẽ được xem xét trao hợp đồng.
+
+đ) Mua sắm trực tiếp.
+
+Phương thức này được áp dụng trong trường hợp người có thẩm quyền quyết định đầu tư cho phép đối với các loại vật tư thiết bị có nhu cầu gấp để hoàn thành dự án mà trước đó các loại vật tư thiết bị này đã được tiến hành đấu thầu và được người có thẩm quyền quyết định đầu tư cho phép thực hiện.
+
+e) Giao thầu trực tiếp.
+
+Là phương thức chọn ngay một nhà thầu có độ tin cậy cao để xem xét thương thảo hợp đồng. Phương thức này chỉ được áp dụng đối với những gói thầu có quy mô nhỏ dưới 500 triệu đồng và các gói thầu được Thủ tướng Chính phủ cho phép chỉ định thầu. Trường hợp nhà thầu được chỉ định không đáp ứng yêu cầu của bên mời thầu thì chủ đầu tư được quyền kiến nghị với người có thẩm quyền quyết định đầu tư xem xét thay đổi nhà thầu khác để thương thảo hợp đồng.
+
+f) Tự làm.
+
+Phương thức này chỉ được áp dụng đối với các công trình theo quy định của Điều lệ quản lý đầu tư và xây dựng cho phép.
+
+Điều 4. Hình thức và phương thức thực hiện hợp đồng.
+
+Việc ký kết hợp đồng giữa bên mời thầu và bên trúng thầu là yêu cầu bắt buộc. Hợp đồng phải thực hiện theo nguyên tắc sau:
+
+a) Thể hiện đầy đủ các điều kiện cam kết của bên mời thầu và bên trúng thầu.
+
+b) Giá trúng thầu được ghi trong hợp đồng là giá được người có thẩm quyền quyết định đầu tư phê duyệt và không được phép thay đổi trong quá trình thực hiện hợp đồng.
+
+c) Tuân thủ các quy định về hợp đồng của luật pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+Tuỳ theo tính chất của gói thầu, hình thức hợp đồng được ký kết có thể là:
+
+Hợp đồng tư vấn.
+
+Hợp đồng mua sắm vật tư thiết bị.
+
+Hợp đồng xây lắp.
+
+Hợp đồng dự án.
+
+Phương thức thực hiện hợp đồng được lựa chọn tuỳ theo thời hạn và điều kiện giá cả được quy định trong hợp đồng: Hợp đồng trọn gói (theo giá khoán gọn).
+
+Hợp đồng chìa khoá trao tay.
+
+Hợp đồng có điều chỉnh giá.
+
+1. Hợp đồng trọn gói: Hợp đồng trọn gói là hợp đồng thực hiện theo giá khoán gọn được áp dụng cho những gói thầu được xác định rõ về số lượng, chất lượng, thời gian... Giá trúng thầu là giá thanh toán hợp đồng.
+
+2. Hợp đồng chìa khoá trao tay: Chỉ áp dụng đối với những dự án được người có thẩm quyền quyết định đầu tư cho phép đấu thầu toàn bộ dự án (thiết kế, mua sắm vật tư thiết bị, xây lắp...). Chủ đầu tư nghiệm thu và nhận bàn giao khi nhà thầu hoàn thành hợp đồng theo đúng nội dung và giá trị đã ghi trong hợp đồng.
+
+3. Hợp đồng có điều chỉnh giá: áp dụng cho những hợp đồng phức tạp, không có điều kiện xác định chính xác về số lượng và khối lượng tại thời điểm ký kết hợp đồng hoặc có biến động lớn về giá cả, có thời gian thực hiện hợp đồng ít nhất trên 12 tháng.
+
+Hợp đồng có điều chỉnh giá phải ghi rõ danh mục, điều kiện, công thức, giới hạn điều chỉnh giá được cấp quyết định đầu tư chấp thuận bằng văn bản về các yếu tố gây biến động giá (lao động, nguyên vật liệu, thiết bị...).
+
+Điều 5. Kế hoạch đấu thầu dự án.
+
+Kế hoạch đấu thầu dự án do bên mời thầu lập phải được người có thẩm quyền quyết định đầu tư phê duyệt. Trường hợp chưa đủ điều kiện lập kế hoạch đấu thầu toàn bộ dự án, thì bên mời thầu có thể lập kế hoạch đấu thầu từng phần dự án theo giai đoạn đầu tư.
+
+Nội dung kế hoạch đấu thầu dự án bao gồm:
+
+1. Phân chia dự án thành các gói thầu.
+
+2. Ước tính giá của từng gói thầu.
+
+3. Hình thức lựa chọn nhà thầu và phương thức áp dụng.
+
+4. Thời gian tổ chức đấu thầu cho từng gói thầu.
+
+5. Phương thức thực hiện hợp đồng.
+
+6. Thời gian thực hiện hợp đồng.
+
+Điều 6. Điều kiện mời thầu và dự thầu.
+
+1. Điều kiện mời thầu:
+
+Bên mời thầu phải chuẩn bị đủ các hồ sơ sau:
+
+Văn bản quyết định đầu tư hoặc giấy phép đầu tư của cấp có thẩm quyền. Trường hợp cần đấu thầu tuyển chọn tư vấn lập báo cáo nghiên cứu khả thi, phải có văn bản chấp thuận của người có thẩm quyền quyết định đầu tư.
+
+Kế hoạch đấu thầu được phê duyệt.
+
+Hồ sơ mời thầu (trường hợp sơ tuyển phải có hồ sơ sơ tuyển).
+
+2. Điều kiện dự thầu:
+
+Nhà thầu tham gia dự thầu phải có các điều kiện sau:
+
+Có giấy phép kinh doanh hoặc đăng ký hành nghề.
+
+Đủ năng lực về kỹ thuật và tài chính đáp ứng yêu cầu nêu trong hồ sơ mời thầu.
+
+Hồ sơ dự thầu hợp lệ, và chỉ được tham gia một đơn dự thầu trong một gói thầu, dù là đơn phương hay liên danh dự thầu.
+
+Điều 7. Điều kiện đấu thầu quốc tế và ưu đãi nhà thầu trong nước.
+
+1. Chủ đầu tư chỉ được tổ chức đấu thầu quốc tế trong các trường hợp sau:
+
+a) Các gói thầu không có hoặc chỉ có một nhà thầu trong nước đáp ứng yêu cầu của dự án.
+
+b) Các dự án sử dụng nguồn vốn tài trợ của các tổ chức quốc tế hoặc của nước ngoài có quy định trong hiệp định phải đấu thầu quốc tế.
+
+2. Nhà thầu trong nước tham dự đấu thầu quốc tế (đơn phương hoặc liên danh) được xét ưu tiên khi các điều kiện nhận thầu được đánh giá tương đương với các điều kiện nhận thầu của nhà thầu nước ngoài.
+
+3. Nhà thầu trong nước tham gia đấu thầu quốc tế sau khi trúng thầu sẽ được hưởng chế độ ưu đãi theo quy định riêng của Nhà nước.
+
+4. Nhà thầu nước ngoài tham dự đấu thầu quốc tế tại Việt Nam phải có cam kết liên danh với một nhà thầu Việt Nam hoặc cam kết sử dụng thầu phụ xây lắp và mua sắm các vật tư thiết bị phù hợp có khả năng sản xuất và gia công tại Việt Nam.
+
+Điều 8. Thuyết minh và sửa đổi tài liệu đấu thầu.
+
+Các nhà thầu không được phép thay đổi hồ sơ dự thầu sau khi đã hết thời hạn nộp thầu. Trong quá trình đánh giá và so sánh các hồ sơ dự thầu, bên mời thầu có thể yêu cầu nhà thầu làm sáng tỏ một số vấn đề nhưng không làm thay đổi nội dung cơ bản hồ sơ dự thầu và giá bỏ thầu. Những đề nghị làm sáng tỏ của bên mời thầu cũng như những ý kiến trả lời của nhà thầu đều phải gửi bằng văn bản. Những giải đáp của nhà thầu dẫn đến sự thay đổi về giá bỏ thầu đã đề xuất sẽ không được xem xét. Bên mời thầu phải lưu trữ những tài liệu đề nghị làm sáng tỏ và những giải pháp liên quan.
+
+Điều 9. Thời hạn nộp thầu và thời hạn có hiệu lực của hồ sơ dự thầu.
+
+Trong hồ sơ mời thầu bên mời thầu phải ghi rõ thời hạn nộp thầu và thời hạn có hiệu lực của hồ sơ dự thầu. Thời hạn nộp thầu sẽ tuỳ thuộc quy mô và sự phức tạp của gói thầu nhưng tối đa không quá 60 ngày đối với đấu thầu tuyển chọn tư vấn và mua sắm vật tư thiết bị, 90 ngày đối với đấu thầu xây lắp kể từ ngày phát hành hồ sơ mời thầu. Trong trường hợp đặc biệt, bên mời thầu cần sửa đổi một số nội dung trong hồ sơ mời thầu khi chưa hết nộp thầu, có thể gia hạn thời hạn nộp thầu. Bên mời thầu phải gửi nội dung sửa đổi bằng văn bản tới tất cả các nhà thầu tham gia trước khi hết thời hạn nộp thầu đã quy định ít nhất là 10 ngày để nhà thầu có điều kiện hoàn chỉnh thêm hồ sơ dự thầu.
+
+Thời hạn có hiệu lực của hồ sơ dự thầu là thời hạn kể từ ngày hết thời hạn nộp thầu đến ngày công bố kết quả trúng thầu. Trường hợp phải kéo dài thời hạn có hiệu lực của hồ sơ dự thầu, bên mời thầu phải thông báo cho các nhà thầu. Nếu nhà thầu không chấp nhận thì vẫn được hoàn trả tiền bảo lãnh dự thầu.
+
+Điều 10. Mở thầu, xếp hạng nhà thầu, xét chọn và công bố kết quả đấu thầu.
+
+1. Mở thầu: Những hồ sơ dự thầu nộp đúng hạn sẽ dược bên mời thầu tiếp nhận và quản lý theo chế độ quản lý hồ sơ mật. Việc mở thầu được tiến hành công khai theo ngày, giờ và địa điểm ghi trong hồ sơ mời thầu. Khi mở thầu phải có đại diện cơ quan hành chính Nhà nước sở tại (tỉnh, thành phố trực thuộc Trung ương) chứng kiến và ký xác nhận. Đại diện của bên mời thầu và các nhà thầu tham dự (nếu có) phải ký vào biên bản mở thầu.
+
+Biên bản mở thầu ghi rõ tên gói thầu, ngày, giờ và địa điểm mở thầu, tên và địa chỉ các nhà thầu, giá bỏ thầu (trừ đấu thầu tuyển chọn tư vấn), bảo lãnh dự thầu (nếu có), các văn bản bổ sung hoặc sửa đổi và các chi tiết khác.
+
+Những đơn dự thầu không hợp lệ theo quy định của hồ sơ mời thầu sẽ bị loại.
+
+2. Xếp hạng nhà thầu: Các hồ sơ dự thầu hợp lệ được bên mời thầu nghiên cứu, đánh giá chi tiết và so sánh xếp hạng trên cơ sở hồ sơ mời thầu và tiêu chuẩn đánh giá được người có thẩm quyền quyết định đầu tư thông qua trước khi mở thầu.
+
+3. Xét chọn và công bố kết quả đấu thầu:
+
+Kết quả đấu thầu phải trình người có thẩm quyền quyết định đầu tư phê duyệt.
+
+Bên mời thầu chỉ được phép công bố kết quả đấu thầu khi có văn bản phê duyệt nhà thầu trúng thầu.
+
+Điều 11. Đồng tiền bỏ thầu và ngôn ngữ sử dụng trong tài liệu đấu thầu.
+
+Đồng tiền bỏ thầu là loại tiền do bên mời thầu quy định trong hồ sơ mời thầu. Tỷ giá quy đổi giữa đồng tiền Việt Nam và đồng tiền nước ngoài được tính theo tỷ giá do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm mở thầu.
+
+Ngôn ngữ sử dụng trong tài liệu đấu thầu là tiếng Việt (đấu thầu trong nước), tiếng Việt hoặc tiếng Anh (đấu thầu quốc tế).
+
+Điều 12. Bảo mật hồ sơ, tài liệu, thông tin.
+
+Tất cả các cơ quan, tổ chức, cá nhân thực hiện công tác đấu thầu và xét thầu phải có trách nhiệm giữ bí mật các hồ sơ, tài liệu, thông tin theo quy định sau đây:
+
+Không được tiết lộ nội dung hồ sơ mời thầu với bất cứ đối tượng nào trước ngày chủ đầu tư phát hành hồ sơ mời thầu.
+
+Không được mang về nhà xem hoặc cho người khác mượn các hồ sơ dự thầu, các sổ tay ghi chép, các biên bản cuộc họp xét thầu, các ý kiến nhận xét đánh giá của chuyên gia hoặc tư vấn đối với từng nhà thầu và các tài liệu khác có liên quan được đóng dấu tối mật và tuyệt mật.
+
+Không được tiết lộ cho bất cứ ai về kết quả đánh giá xếp hạng nhà thầu trước khi chủ đầu tư ký kết hợp đồng chính thức với nhà thầu trúng thầu.
+
+Nếu có dấu hiệu tiết lộ bí mật thì phải xử lý ngay theo quy định tại Điều 45 của Quy chế này.
+
+
+
+CHƯƠNG II
+
+ĐẤU THẦU TUYỂN CHỌN TƯ VẤN
+
+Điều 13. Nội dung tư vấn đầu tư và xây dựng.
+
+Tư vấn đầu tư và xây dựng bao gồm các loại công việc sau:
+
+Chuẩn bị đầu tư.
+
+Thực hiện đầu tư.
+
+Các tư vấn khác.
+
+a) Tư vấn chuẩn bị đầu tư:
+
+Lập báo cáo nghiên cứu khả thi.
+
+Thẩm định báo cáo nghiên cứu khả thi.
+
+Tư vấn không được thẩm định báo cáo nghiên cứu khả thi do mình lập.
+
+b) Tư vấn thực hiện đầu tư:
+
+Lập thiết kế, tổng dự toán và dự toán.
+
+Thẩm định thiết kế và tổng dự toán.
+
+Lập hồ sơ mời thầu.
+
+Phân tích đánh giá hồ sơ dự thầu.
+
+Giám sát thi công xây dựng và lắp đặt thiết bị.
+
+Tư vấn không được thẩm định thiết kế, tổng dự toán và dự toán do mình lập.
+
+c) Các tư vấn khác:
+
+Vận hành trong thời gian đầu.
+
+Thực hiện chương trình đào tạo, chuyển giao công nghệ và quản lý dự án.
+
+Điều 14. Năng lực và trách nhiệm của tư vấn đầu tư và xây dựng.
+
+Tư vấn đầu tư và xây dựng phải có chứng chỉ xác định trình độ chuyên môn phù hợp với yêu cầu của dự án.
+
+Tư vấn đầu tư và xây dựng phải chịu trách nhiệm trước chủ đầu tư và pháp luật về tính đúng đắn, chính xác, khách quan về chuyên môn và hoàn thành công việc theo đúng quy định của hợp đồng.
+
+Điều 15. Hình thức tư vấn đầu tư và xây dựng.
+
+Tư vấn đầu tư và xây dựng được thực hiện thông qua các hình thức: Thuê các tổ chức tư vấn có tư cách pháp nhân (các công ty, các hãng, đơn vị, tổ hợp... của Chính phủ hoặc phi Chính phủ) hoạt động theo pháp luật.
+
+Thuê trực tiếp chuyên gia tư vấn (chuyên gia tư vấn có thể hoạt động độc lập hoặc hoạt động trong một tổ chức có tư cách pháp nhân).
+
+Điều 16. Trình tự đấu thầu tuyển chọn tư vấn đầu tư và xây dựng. Bên mời thầu tiến hành đấu thầu tuyển chọn tư vấn theo các bước sau:
+
+1. Chỉ định Tổ chuyên gia giúp việc đấu thầu.
+
+2. Lập đề cương tuyển chọn tư vấn: Xác định rõ mục đích, nội dung, phạm vi công việc và kế hoạch triển khai, nhiệm vụ và trách nhiệm của tư vấn phải thực hiện. Những nội dung trên phải ghi rõ trong "Điều khoản tham chiếu". "Điều khoản tham chiếu" cũng bao gồm cả trách nhiệm của bên mời thầu.
+
+3. Thông báo mời thầu.
+
+4. Mời thầu tư vấn: Hồ sơ mời thầu tư vấn gửi đến các nhà thầu được lựa chọn. Hồ sơ mời thầu tư vấn bao gồm:
+
+Thư mời thầu.
+
+"Điều khoản tham chiếu".
+
+Các thông tin cơ bản có liên quan đến dự án.
+
+Tiêu chuẩn đánh giá chủ yếu.
+
+Các phụ lục chi tiết kèm theo.
+
+5. Nhận và quản lý hồ sơ dự thầu.
+
+6. Mở thầu.
+
+7. Xét thầu: Việc đánh giá hồ sơ dự thầu thực hiện theo các tiêu chuẩn đánh giá được quy định trong hồ sơ mời thầu. Trường hợp áp dụng phương thức đấu thầu hai túi hồ sơ, bên mời thầu sẽ tiến hành mở trước hồ sơ đề xuất kỹ thuật để xem xét, đánh giá và xếp hạng trình cơ quan có thẩm quyền quyết định và đưa vào danh sách xếp hạng các nhà thầu đạt từ 65% tổng số điểm trở lên. Nhà thầu được xếp hạng thứ nhất về kỹ thuật sẽ được bên mời thầu mở tiếp hồ sơ đề xuất tài chính để xem xét và mời đến đàm phán thương thảo hợp đồng.
+
+Trường hợp thương thảo với nhà thầu được xếp hạng thứ nhất về kỹ thuật không đạt kết quả, bên mời thầu phải xin ý kiến người có thẩm quyền quyết định đầu tư trước khi tiếp tục thương thảo với nhà thầu tiếp theo.
+
+Công bố trúng thầu và ký kết hợp đồng: Căn cứ kết quả đấu thầu đã được phê duyệt, chủ đầu tư thông báo cho các nhà thầu tham gia dự thầu biết kể cả nhà thầu trúng thầu, đồng thời tiến hành ký kết hợp đồng chính thức với tư vấn trúng thầu.
+
+Điều 17. Chi phí tư vấn.
+
+1. Chi phí tư vấn nước ngoài bao gồm:
+
+Tiền thuê chuyên gia tư vấn (lương cơ bản, phí xã hội, phí quản lý, lãi công ty và phụ cấp khác của chuyên gia).
+
+Các chi phí ngoài lương (vé máy bay, phụ cấp công tác, văn phòng phẩm, thông tin, trang thiết bị làm việc, đào tạo...).
+
+Dự phòng phí.
+
+Dự phòng phí chỉ được sử dụng khi có sự chấp thuận của người có thẩm quyền quyết định đầu tư, mức tối đa không quá 10% giá trị của hợp đồng.
+
+2. Chi phí tư vấn trong nước thực hiện theo quy định hiện hành của Nhà nước.
+
+Điều 18. Phu lục I.
+
+Thông báo mời thầu và hồ sơ mời thầu tư vấn được thực hiện theo chỉ dẫn trong Phụ lục I kèm theo Quy chế này.
+
+
+
+CHƯƠNG III
+
+ĐẤU THẦU MUA SẮM VẬT TƯ THIẾT BỊ
+
+Điều 19. Trình tự tổ chức đấu thầu.
+
+1. Chỉ định Tổ chuyên gia giúp việc đấu thầu.
+
+2. Chuẩn bị hồ sơ mời thầu:
+
+Thông báo mời thầu.
+
+Chỉ dẫn đối với nhà thầu.
+
+Các yêu cầu về công nghệ, vật tư thiết bị và tính năng kỹ thuật.
+
+Biểu giá.
+
+Điều kiện chung và điều kiện cụ thể của hợp đồng.
+
+Bảo lãnh dự thầu.
+
+Mẫu thoả thuận hợp đồng.
+
+Bảo lãnh thực hiện hợp đồng.
+
+Hồ sơ dự thầu sơ tuyển (chỉ áp dụng đối với các thiết bị có công nghệ phức tạp) chỉ nêu các yêu cầu chính để lựa chọn nhanh các nhà thầu có đủ điều kiện tiếp tục tham gia đấu thầu (thực hiện như đối với sơ tuyển nhà thầu xây lắp).
+
+3. Thông báo mời thầu: Bên mời thầu chọn cách thông báo tới các nhà thầu phù hợp với hình thức đấu thầu. Việc cung cấp hồ sơ cho nhà thầu (bán hoặc cấp miễn phí) do bên mời thầu quy định.
+
+4. Nộp thầu: Các nhà thầu nộp hồ sơ dự thầu tại địa điểm và đúng thời hạn đã được quy định trong hồ sơ mời thầu.
+
+5. Mở thầu, xếp hạng nhà thầu, xét chọn và công bố kết quả trúng thầu.
+
+Bên mời thầu tổ chức mở thầu, xếp hạng nhà thầu, xét chọn và công bố kết quả trúng thầu theo trình tự và nội dung quy định tại Điều 10 và Điều 22.
+
+Điều 20. Chỉ dẫn đối với nhà thầu.
+
+Bên mời thầu có trách nhiệm hướng dẫn để các nhà thầu hiểu rõ các yêu cầu của mình, các thủ tục sẽ được áp dụng trong quá trình đấu thầu. Những nội dung chủ yếu gồm:
+
+Mô tả tóm tắt dự án.
+
+Nguồn vốn thực hiện dự án.
+
+Năng lực, kinh nghiệm và địa vị hợp pháp của nhà thầu; các chứng cứ, những thông tin liên quan đến nhà thầu trong thời gian từ 5 năm đến 10 năm trước thời điểm dự thầu.
+
+Tổ chức thăm hiện trường (nếu có) và giải đáp các câu hỏi của nhà thầu.
+
+Điều 21. Bảo lãnh dự thầu (đặt cọc dự thầu).
+
+Nhà thầu phải nộp tiền bảo lãnh dự thầu cùng với hồ sơ dự thầu. Tiền bảo lãnh dự thầu bằng từ 1% đến 3% tổng giá trị ước tính giá bỏ thầu. Trong một số trường hợp, bên mời thầu có thể quy định mức nộp tiền bảo lãnh thống nhất để bảo đảm bí mật về mức giá dự thầu cho các nhà thầu. Bên mời thầu quy định hình thức, điều kiện và ngân hàng nhận bảo lãnh dự thầu. Tiền bảo lãnh dự thầu sẽ được trả lại cho những nhà thầu không đạt kết quả sau khi công bố trúng thầu không quá 30 ngày kể từ ngày công bố. Nhà thầu không được nhận lại tiền bảo lãnh dự thầu trong các trường hợp:
+
+Trúng thầu nhưng từ chối thực hiện hợp đồng.
+
+Rút đơn thầu sau thời gian nộp thầu.
+
+Do vi phạm nghiêm trọng các quy định trong quy chế đấu thầu.
+
+Sau khi nộp bảo lãnh thực hiện hợp đồng, đơn vị trúng thầu được hoàn trả tiền bảo lãnh dự thầu.
+
+Điều 22. Đánh giá, xếp hạng nhà thầu và trình duyệt kết quả đấu thầu.
+
+1. Phân tích, đánh giá và so sánh các hồ sơ dự thầu.
+
+Bên mời thầu phải kiểm tra tính hợp lệ của hồ sơ dự thầu theo quy định.
+
+Tổng hợp số liệu hồ sơ dự thầu: Bên mời thầu cần tiến hành kiểm tra và tổng hợp các số liệu chủ yếu trong một bảng đánh giá chung trước khi xem xét đánh giá hồ sơ dự thầu.
+
+Đánh giá hồ sơ dự thầu: Các hồ sơ dự thầu hợp lệ được bên mời thầu nghiên cứu, đánh giá chi tiết và so sánh trên cơ sở các chỉ tiêu:
+
+a) Năng lực và kinh nghiệm nhà thầu:
+
+Năng lực kỹ thuật (sản phẩm kinh doanh chủ yếu, số lượng và trình độ cán bộ chuyên môn...).
+
+Năng lực tài chính và kinh doanh (doanh số và lợi nhuận...).
+
+Kinh nghiệm thực hiện các hợp đồng tương tự tại Việt Nam và các nước trong khu vực.
+
+b) Kỹ thuật:
+
+Khả năng đáp ứng các yêu cầu về công nghệ, chất lượng vật tư thiết bị và tính năng kỹ thuật đã nêu trong hồ sơ mời thầu.
+
+Đặc tính kinh tế kỹ thuật, mã hiệu của thiết bị vật tư được chào hàng, tên hãng và nước sản xuất.
+
+Tính hợp lý và hiệu quả kinh tế của các giải pháp kỹ thuật, biện pháp tổ chức cung ứng vật tư thiết bị.
+
+Khả năng lắp đặt thiết bị và năng lực cán bộ kỹ thuật.
+
+Khả năng thích ứng về mặt địa lý.
+
+Tác động đối với môi trường và biện pháp giải quyết.
+
+c) Tài chính và giá cả: Xem xét khả năng tài chính, khả năng và điều kiện cung cấp tài chính (nếu có yêu cầu) và giá bỏ thầu.
+
+d) Thời gian thực hiện hợp đồng phù hợp với hồ sơ mời thầu.
+
+e) Chuyển giao công nghệ.
+
+g) Đào tạo.
+
+h) Các chỉ tiêu cần thiết khác.
+
+Chỉ xem xét đánh giá các chỉ tiêu trên đối với các nhà thầu chính có mặt trong nhóm, không tính năng lực của các nhà thầu phụ.
+
+2. Xét thầu.
+
+Các hồ sơ dự thầu được xem xét, đánh giá, xếp hạng theo tiêu chuẩn đã được người có thẩm quyền quyết định đầu tư thông qua trước khi mở thầu.
+
+Trường hợp tất cả các đơn dự thầu đều không đạt yêu cầu, bên mời thầu trình người có thẩm quyền quyết định đầu tư cho phép tổ chức đấu thầu lại hoặc yêu cầu tất cả các nhà thầu chào lại giá bỏ thầu và các điều kiện khác nếu cần thiết.
+
+3. Công bố trúng thầu và ký kết hợp đồng.
+
+Bên mời thầu chỉ được công bố kết quả đấu thầu và thương thảo ký kết hợp đồng chính thức sau khi có văn bản phê duyệt của người có thẩm quyền quyết định đầu tư.
+
+Điều 23. Bảo lãnh thực hiện hợp đồng (đặt cọc thực hiện hợp đồng).
+
+Bảo lãnh thực hiện hợp đồng là cam kết của nhà thầu thực hiện hợp đồng. Tuỳ theo loại hình và quy mô của hợp đồng, tiền bảo lãnh thực hiện hợp đồng bằng từ 10% đến 15% tổng giá trị hợp đồng. Trường hợp đặc biệt, mức bảo lãnh thực hiện hợp đồng có thể yêu cầu trên 15% nhưng phải được người có thẩm quyền quyết định đầu tư chấp thuận. Bảo lãnh thực hiện hợp đồng có hiệu lực cho đến khi thời gian bảo hành của hợp đồng hết hạn. Những chi tiết của văn bản bảo lãnh thực hiện hợp đồng là:
+
+Thời hạn nộp tiền bảo lãnh thực hiện hợp đồng không quá 30 ngày kể từ ngày nhà thầu nhận được thông báo trúng thầu.
+
+Điều kiện bảo lãnh thực hiện hợp đồng.
+
+Thời hạn hiệu lực của bảo lãnh thực hiện hợp đồng.
+
+Loại tiền bảo lãnh thực hiện hợp đồng.
+
+Điều 24. Phụ lục II.
+
+Hồ sơ mời thầu mua sắm vật tư thiết bị được thực hiện theo chỉ dẫn trong Phụ lục II kèm theo Quy chế này.
+
+
+
+CHƯƠNG IV
+
+ĐẤU THẦU XÂY LẮP
+
+Điều 25. Trình tự tổ chức đấu thầu.
+
+1. Chỉ định Tổ chuyên gia giúp việc đấu thầu.
+
+2. Sơ tuyển nhà thầu (nếu có).
+
+3. Chuẩn bị hồ sơ mời thầu.
+
+4. Gửi thư mời thầu hoặc thông báo mời thầu.
+
+5. Nhận và quản lý hồ sơ dự thầu.
+
+6. Mở thầu.
+
+7. Đánh giá, xếp hạng nhà thầu.
+
+8. Trình duyệt kết quả đấu thầu.
+
+9. Thông báo kết quả trúng thầu và ký kết hợp đồng.
+
+Điều 26. Sơ tuyển nhà thầu.
+
+Sơ tuyển nhà thầu chỉ tiến hành với các hợp đồng có quy mô lớn nhằm lựa chọn các nhà thầu đủ năng lực và kinh nghiệm thực hiện dự án.
+
+Sơ tuyển nhà thầu được thực hiện theo các bước:
+
+a) Soạn thảo hồ sơ sơ tuyển:
+
+Thông báo sơ tuyển.
+
+Chỉ dẫn sơ tuyển.
+
+Tiêu chuẩn đánh giá sơ tuyển.
+
+Phụ lục kèm theo.
+
+b) Thông báo mời sơ tuyển và tiếp nhận hồ sơ dự sơ tuyển.
+
+c) Đánh giá hồ sơ các nhà thầu dự sơ tuyển.
+
+d) Thông báo kết quả sơ tuyển.
+
+Điều 27. Hồ sơ mời thầu.
+
+Hồ sơ mời thầu bao gồm:
+
+Thư mời thầu (nếu có sơ tuyển), hoặc thông báo mời thầu (nếu không có sơ tuyển).
+
+Mẫu đơn dự thầu.
+
+Chỉ dẫn đối với nhà thầu.
+
+Hồ sơ thiết kế kỹ thuật kèm theo bản tiên lượng và chỉ dẫn kỹ thuật.
+
+Tiến độ thi công.
+
+Điều kiện chung và điều kiện cụ thể của hợp đồng.
+
+Bảo lãnh dự thầu.
+
+Mẫu thoả thuận hợp đồng.
+
+Bảo lãnh thực hiện hợp đồng.
+
+Điều 28. Thông báo mời thầu.
+
+Thông báo mời thầu bao gồm:
+
+Tên và địa chỉ của bên mời thầu.
+
+Mô tả tóm tắt dự án, địa điểm và thời gian xây dựng...
+
+Chỉ dẫn việc tìm hiểu hồ sơ mời thầu.
+
+Các điều kiện đối với bên dự thầu.
+
+Thời hạn, địa điểm nhận hồ sơ mời thầu.
+
+Bên mời thầu chọn cách thông báo tới các nhà thầu phù hợp với hình thức đấu thầu đã được thông qua.
+
+Điều 29. Chỉ dẫn đối với nhà thầu.
+
+Nội dung chủ yếu gồm:
+
+Mô tả tóm tắt dự án và phạm vi đấu thầu.
+
+Tiêu chuẩn kỹ thuật áp dụng.
+
+Nguồn vốn thực hiện dự án.
+
+Điều kiện đối với nhà thầu tham gia đấu thầu (tư cách pháp nhân, kinh nghiệm, năng lực kỹ thuật và tài chính...).
+
+Tổ chức thăm hiện trường và giải đáp các câu hỏi của nhà thầu.
+
+Điều 30. Hồ sơ dự thầu.
+
+Hồ sơ dự thầu xây lắp bao gồm:
+
+Đơn dự thầu.
+
+Bản sao giấy đăng ký kinh doanh và chứng chỉ nghề nghiệp.
+
+Tài liệu giới thiệu năng lực nhà thầu.
+
+Biện pháp thi công tổng thể và biện pháp thi công chi tiết các hạng mục công trình.
+
+Tổ chức thi công và tiến độ thực hiện hợp đồng.
+
+Bản dự toán giá dự thầu.
+
+Bảo lãnh dự thầu.
+
+Điều 31. Bảo lãnh dự thầu (đặt cọc dự thầu).
+
+Bảo lãnh dự thầu xây lắp được thực hiện như quy định đối với bảo lãnh dự thầu mua sắm vật tư thiết bị tại Điều 21 của Quy chế này.
+
+Điều 32. Bảo lãnh thực hiện hợp đồng (đặt cọc thực hiện hợp đồng).
+
+Bảo lãnh thực hiện hợp đồng xây lắp được thực hiện như quy định đối với bảo lãnh thực hiện hợp đồng mua sắm vật tư thiết bị tại Điều 23 của Quy chế này.
+
+Điều 33. Đánh giá và xếp hạng nhà thầu.
+
+Đánh giá và xếp hạng nhà thầu được tiến hành theo các bước sau:
+
+1. Xem xét hồ sơ dự thầu.
+
+Kiểm tra lại tính hợp lệ của hồ sơ dự thầu.
+
+Yêu cầu từng nhà thầu giải thích những nội dung chưa rõ trong hồ sơ dự thầu và một số đơn giá chủ yếu của những khối lượng lớn xét thấy chưa thoả đáng. Các yêu cầu giải thích và trả lời được lập thành biên bản.
+
+Nếu phát hiện có sai sót về số học, bên mời thầu sẽ sửa lại các lỗi này cho chuẩn xác và thông báo kịp thời cho nhà thầu. Nếu nhà thầu không chấp nhận thì sẽ bị loại.
+
+Mọi thông tin cập nhật về nhà thầu không khớp với hồ sơ dự thầu đều được kiểm tra và xem xét.
+
+2. Chuyển đổi giá dự thầu và các chỉ tiêu kỹ thuật về một mặt bằng giá để đánh giá, so sánh.
+
+3. Đánh giá và so sánh các hồ sơ dự thầu: Các hồ sơ dự thầu được đánh giá và so sánh theo từng tiêu chuẩn, sau đó tổng hợp để đánh giá toàn diện.
+
+Những nội dung chủ yếu được xem xét khi đánh giá theo từng tiêu chuẩn:
+
+a) Tiêu chuẩn kỹ thuật, chất lượng:
+
+Mức độ đáp ứng đối với các yêu cầu về kỹ thuật, chất lượng vật tư thiết bị nêu trong hồ sơ thiết kế.
+
+Tính hợp lý và khả thi của các giải pháp kỹ thuật, biện pháp tổ chức thi công.
+
+Bảo đảm điều kiện vệ sinh môi trường và các điều kiện an toàn khác như phòng cháy, an toàn lao động...
+
+Tính phù hợp của thiết bị thi công (số lượng, chủng loại, chất lượng và tiến độ huy động...).
+
+b) Tiêu chuẩn kinh nghiệm nhà thầu:
+
+Kinh nghiệm đã thực hiện các dự án có yêu cầu kỹ thuật, có vùng địa lý và hiện trường tương tự.
+
+Số lượng, trình độ cán bộ, công nhân kỹ thuật trực tiếp thực hiện dự án.
+
+c) Tiêu chuẩn tài chính, giá cả:
+
+Khả năng tài chính đáp ứng yêu cầu của dự án.
+
+Giá dự thầu phù hợp với tổng dự toán hoặc dự toán được duyệt.
+
+d) Tiêu chuẩn tiến độ thi công:
+
+Mức độ bảo đảm tổng tiến độ quy định trong hồ sơ mời thầu.
+
+Tính hợp lý về tiến độ hoàn thành giữa các hạng mục công trình có liên quan.
+
+Các tiêu chuẩn trên được xem xét theo tiêu chuẩn đánh giá đã được người có thẩm quyền quyết định đầu tư chấp thuận trước khi mở thầu.
+
+Điều 34. Xét duyệt kết quả đấu thầu.
+
+Căn cứ kết quả đánh giá các hồ sơ dự thầu, bên mời thầu tiến hành xếp hạng nhà thầu theo tiêu chuẩn đánh giá đã được thông qua. Kết quả đánh giá và xếp hạng nhà thầu phải được người có thẩm quyền quyết định đầu tư phê duyệt.
+
+Trường hợp tất cả các hồ sơ dự thầu đều không đạt yêu cầu, bên mời thầu phải trình người có thẩm quyền quyết định đầu tư cho phép tổ chức đấu thầu lại. Trường hợp các hồ sơ dự thầu không đạt yêu cầu về tài chính, giá cả bên mời thầu trình người có thẩm quyền quyết định đầu tư cho phép các nhà thầu chào lại giá hoặc tổ chức đấu thầu lại.
+
+Điều 35. Phụ lục III.
+
+Hồ sơ sơ tuyển và hồ sơ mời thầu xây lắp được thực hiện theo chỉ dẫn trong Phụ lục III kèm theo Quy chế này.
+
+
+
+CHƯƠNG V
+
+ĐẤU THẦU DỰ ÁN
+
+Điều 36. Đối tượng áp dụng đấu thầu dự án.
+
+Dự án không cần phải chia thành các gói thầu.
+
+Dự án thực hiện theo phương thức xây dựng, chuyển giao (BT).
+
+Dự án thực hiện theo phương thức xây dựng, vận hành, chuyển giao (BOT).
+
+Điều 37. Trình tự tổ chức đấu thầu dự án.
+
+Trình tự tổ chức đấu thầu dự án thực hiện như quy định tại Điều 25.
+
+Điều 38. Hồ sơ mời thầu và tiêu chuẩn đánh giá hồ sơ dự thầu.
+
+Hồ sơ mời thầu và tiêu chuẩn đánh giá hồ sơ dự thầu phải bao gồm đủ các nội dung về đấu thầu tuyển chọn tư vấn, vật tư thiết bị, xây lắp, vận hành và chuyển giao (nếu có).
+
+Điều 39. Chỉ dẫn thực hiện đấu thầu dự án.
+
+Đấu thầu dự án thực hiện theo chỉ dẫn được quy định trong một văn bản riêng do Bộ Kế hoạch và Đầu tư chủ trì soạn thảo trình Thủ tướng Chính phủ ban hành.
+
+
+
+CHƯƠNG VI
+
+QUẢN LÝ ĐẤU THẦU
+
+Điều 40. Trách nhiệm và quyền hạn của bên mời thầu.
+
+Bên mời thầu chịu trách nhiệm tổ chức đấu thầu theo kế hoạch đấu thầu được duyệt:
+
+1. Chỉ định Tổ chuyên gia hoặc thuê tư vấn thực hiện các nhiệm vụ sau:
+
+Chuẩn bị các tài liệu pháp lý, soạn thảo hồ sơ mời thầu.
+
+Tiếp nhận và quản lý hồ sơ dự thầu.
+
+Phân tích, đánh giá, so sánh, xếp hạng các hồ sơ dự thầu theo đúng tiêu chuẩn chuyên môn và yêu cầu đặt ra trong hồ sơ mời thầu.
+
+Tổng hợp, chuẩn bị hồ sơ về kết quả đấu thầu để báo cáo chủ đầu tư xem xét.
+
+2. Trình kết quả đấu thầu lên người có thẩm quyền quyết định đầu tư để phê duyệt nhà thầu trúng thầu.
+
+3. Công bố kết quả đấu thầu đã được duyệt.
+
+4. Đàm phán hoàn thiện hợp đồng để ký kết chính thức với nhà thầu trúng thầu.
+
+Điều 41. Trách nhiệm và quyền hạn của các tổ chức cá nhân chuyên gia tư vấn tham gia đấu thầu và xét thầu.
+
+Tổ chuyên gia hoặc tổ chức tư vấn tham gia đấu thầu có trách nhiệm thực hiện các nhiệm vụ quy định tại điểm 1 Điều 40 và có quyền phát biểu trung thực, khách quan ý kiến của mình bằng văn bản với chủ đầu tư trong quá trình phân tích, đánh giá, xếp hạng các hồ sơ dự thầu.
+
+Các chuyên gia được người có thẩm quyền quyết định đầu tư mời để tư vấn về việc lựa chọn nhà thầu phải có ý kiến chính thức bằng văn bản và chịu trách nhiệm cá nhân trước pháp luật về sự chính xác, trung thực và khách quan của các nội dung đánh giá đó.
+
+Điều 42. Trách nhiệm và quyền hạn của người có thẩm quyền quyết định đầu tư.
+
+1. Xét duyệt hồ sơ mời thầu, tiêu chuẩn đánh giá hồ sơ dự thầu và danh sách các nhà thầu được mời tham dự đấu thầu (danh sách ngắn).
+
+2. Phê duyệt kết quả lựa chọn nhà thầu.
+
+3. Kiểm tra, chỉ đạo bên mời thầu thực hiện đúng quy chế đấu thầu.
+
+4. Kiểm tra, chỉ đạo bên mời thầu ký kết hợp đồng và tổ chức thực hiện hợp đồng với bên trúng thầu.
+
+Đối với dự án đầu tư sử dụng vốn Nhà nước thuộc nhóm A (theo Điều lệ quản lý đầu tư và xây dựng), Thủ tướng Chính phủ giao cho Bộ trưởng, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Thủ trưởng cơ quan có thẩm quyền thực hiện các nội dung 1, 3 và 4 của Điều này.
+
+Điều 43. Phê duyệt và uỷ quyền phê duyệt kết quả đấu thầu:
+
+1. Thủ tướng Chính phủ phê duyệt kế hoạch đấu thầu Dự án sử dụng vốn Nhà nước thuộc nhóm A (theo Điều lệ quản lý đầu tư và xây dựng) và kết quả lựa chọn nhà thầu các gói thầu tuyển chọn tư vấn có giá trị từ 10 tỷ đồng trở lên, các gói thầu mua sắm vật tư thiết bị hoặc xây lắp có giá trị từ 50 tỷ đồng trở lên trên cơ sở đề nghị của Bộ trưởng Bộ Kế hoạch và Đầu tư.
+
+Các gói thầu còn lại giao Bộ trưởng, Chủ tịch Uỷ ban nhân dân tỉnh và thành phố trực thuộc Trung ương và Thủ trưởng cơ quan có thẩm quyền xem xét quyết định trên cơ sở đề nghị của chủ đầu tư.
+
+2. Người có thẩm quyền quyết định đầu tư dự án sử dụng vốn Nhà nước thuộc nhóm B (theo Điều lệ quản lý đầu tư và xây dựng) sử dụng bộ máy chuyên môn giúp việc của mình và có thể mời thêm chuyên gia để tư vấn khi quyết định kết quả lựa chọn nhà thầu các gói thầu tuyển chọn tư vấn có giá trị từ 500 triệu đồng đến 10 tỷ đồng, các gói thầu mua sắm vật tư thiết bị hoặc xây lắp có giá trị từ 10 tỷ đồng đến 50 tỷ đồng trên cơ sở đề nghị của chủ đầu tư. Các gói thầu tư vấn có giá trị từ 10 tỷ đồng trở lên và các gói thầu mua sắm thiết bị hoặc xây lắp có giá trị từ 50 tỷ đồng trở lên phải trình Thủ tướng Chính phủ thông qua trước phê duyệt kết quả đấu thầu. Các gói thầu còn lại có giá trị thấp hơn quy định trên được phép uỷ quyền cho cấp dưới mình một cấp phê duyệt.
+
+3. Dự án thuộc nhóm C (theo Điều lệ quản lý đầu tư và xây dựng), người có thẩm quyền quyết định đầu tư dự án và Thủ trưởng cơ quan được uỷ quyền quyết định đầu tư phê duyệt kết quả lựa chọn nhà thầu tất cả các gói thầu của dự án.
+
+4. Các dự án đầu tư liên doanh và họp tác kinh doanh, Hội đồng quản trị của doanh nghiệp quyết định kết quả lựa chọn nhà thầu trên cơ sở thoả thuận của Bộ Kế hoạch và Đầu tư.
+
+5. Các dự án đầu tư không sử dụng nguồn vốn Nhà nước và không do Ngân hàng Nhà nước và Bộ Tài chính bảo lãnh vốn vay, thì chủ đầu tư tự quyết định và chịu trách nhiệm về việc lựa chọn nhà thầu.
+
+
+
+CHƯƠNG VII
+
+KIỂM TRA, THANH TRA VÀ XỬ LÝ VI PHẠM
+
+Điều 44. Kiểm tra, thanh tra việc tổ chức đấu thầu.
+
+Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân tỉnh và thành phố trực thuộc Trung ương có trách nhiệm chỉ đạo các cơ quan chức năng theo dõi và kiểm tra sát sao việc tổ chức đấu thầu các dự án đầu tư; tiến hành thanh tra đối với các hành vi có dấu hiệu vi phạm Quy chế đấu thầu.
+
+Điều 45. Xử lý vi phạm.
+
+Mọi hành vi thực hiện sai Quy chế đấu thầu, biểu hiện dưới các hình thức tiết lộ bí mật hồ sơ, tài liệu và thông tin, thông đồng, móc ngoặc, hối lộ... trong quá trình đấu thầu đều được coi là hành động gây thiệt hại về kinh tế và đều phải bị xử lý:
+
+Nếu nhà thầu vi phạm sẽ bị loại khỏi danh sách dự thầu và không được nhận lại tiền bảo lãnh dự thầu. Trường hợp các nhà thầu thông đồng để ép giá thì phải bị xử lý theo pháp luật.
+
+Nếu bên mời thầu vi phạm, kết quả đấu thầu sẽ bị huỷ bỏ, cơ quan có thẩm quyền quyết định đầu tư sẽ chỉ đạo tổ chức đấu thầu lại. Bên mời thầu phải bồi thường những chi phí cho các nhà thầu. Thành viên các tổ chức chuyên môn giúp việc đấu thầu nếu vi phạm sẽ bị loại khỏi danh sách tổ chức chuyên môn này và bị xử lý theo pháp luật tuỳ theo mức độ vi phạm.
+
+Nếu người có thẩm quyền phê duyệt hoặc được uỷ quyền phê duyệt kết quả đấu thầu vi phạm sẽ bị xử lý theo pháp luật tuỳ theo mức độ vi phạm
+
+
+
+CHƯƠNG VIII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 46. Tổ chức thực hiện.
+
+Bộ trưởng Bộ Kế hoạch và Đầu tư có trách nhiệm chủ trì phối hợp với Bộ Xây dựng, Bộ Thương mại và các Bộ, ngành liên quan hướng dẫn cụ thể việc thực hiện Quy chế này và xem xét đề nghị của các ngành, địa phương trong quá trình thực hiện để kiến nghị Chính phủ điều chỉnh hoặc bổ sung nội dung Quy chế đấu thầu khi xét thấy cần thiết. Hàng năm có báo cáo kết quả thực hiện Quy chế đấu thầu trình Thủ tướng Chính phủ.
+
+Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các chủ đầu tư có trách nhiệm thực hiện Quy chế này.
+
+Điều 47. Hiệu lực thi hành.
+
+Quy chế này có hiệu lực thi hành kể từ ngày ký. Các quy định trước đây trái với Quy chế này đều bãi bỏ./.
+
+
+
+
+
+
+
+

@@ -1,0 +1,1768 @@
+# Hướng dẫn về lập, thẩm tra - xét duyệt dự án tiền khả thi (DATKT), luận chứng kinh tế kỹ thuật (LCKTKT) và báo cáo kinh tế kỹ thuật (BCKTKT)
+# Loại: Thông tư liên tịch
+# Số hiệu: 04/TTLB
+# Ngày ban hành: 09/11/1991
+# Cơ quan: Bộ Xây dựng
+# Người ký: Ngô Xuân Lộc
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn thi hành Nghị định số 63/1998/NĐ-CP ngày 17/08/1998 của Chính phủ về quản lý ngoại hối
+
+Căn cứ Điều 45 của Nghị định số 63/1998/NĐ-CP ngày 17 tháng 8 năm 1998 của Chính phủ về quản lý ngoại hối, Ngân hàng Nhà nước Việt Nam hướng dẫn thi hành Nghị định về quản lý ngoại hối như sau:
+
+
+
+PHẦN THỨ NHẤT
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Chương I
+
+ĐỐI TƯỢNG VÀ PHẠM VI ĐIỀU CHỈNH
+
+MỤC I. ĐỐI TƯỢNG ÁP DỤNG
+
+Thông tư này áp dụng đối với tổ chức, cá nhân Việt Nam trên lãnh thổ Việt Nam và ở nước ngoài, tổ chức, cá nhân nước ngoài trên lãnh thổ Việt Nam có ngoại hối và hoạt động ngoại hối.
+
+MỤC II. PHẠM VI ĐIỀU CHỈNH
+
+1. Tại nước Cộng hoà xã hội chủ nghĩa Việt Nam, mọi hoạt động ngoại hối của tổ chức, cá nhân phải tuân theo các quy định của Nghị định về quản lý ngoại hối và thực hiện theo hướng dẫn cụ thể của Ngân hàng Nhà nước tại thông tư này và các quy định pháp luật khác về ngoại hối và hoạt động ngoại hối.
+
+2. Tại nước Cộng hoà xã hội chủ nghĩa Việt Nam, ngoại hối chỉ được lưu hành qua Ngân hàng Nhà nước, các tổ chức tín dụng được Ngân hàng Nhà nước cho phép hoạt động ngoại hối và qua các tổ chức, cá nhân được phép hoạt động ngoại hối theo quy định tại Thông tư này.
+
+Người cư trú, người không cư trú là tổ chức hoặc cá nhân được phép thu ngoại tệ trên lãnh thổ Việt Nam theo các quy định dưới đây:
+
+a. Người cư trú là tổ chức và cá nhân nhận thanh toán bằng ngoại tệ chuyển khoản theo các hợp đồng uỷ thác xuất nhập khẩu (giữa hai đơn vị uỷ thác và nhận uỷ thác);
+
+b. Người cư trú là tổ chức nhận ngoại tệ chuyển khoản thông qua việc thực hiện điều chuyển ngoại tệ trong nội bộ (giữa đơn vị có tư cách pháp nhân với đơn vị hạch toán phụ thuộc và ngược lại);
+
+c. Người cư trú, người không cư trú là tổ chức được phép làm các dịch vụ quốc tế thuộc các ngành hàng không, hàng hải, bưu chính viễn thông, bưu điện, bảo hiểm, du lịch được thu ngoại tệ bằng chuyển khoản theo các quy định sau đây:
+
+Hàng không: Được thu ngoại tệ từ việc:
+
+- Bán các chứng từ vận chuyển hành khách, hàng hoá các tuyến đường bay quốc tế cho mọi đối tượng;
+
+- Bán các chứng từ vận chuyển hành khách, hàng hoá các tuyến đường bay nội địa cho người không cư trú.
+
+- Cung ứng các dịch vụ đại lý hoa tiêu, cung ứng nhiên liệu, thực phẩm và các dịch vụ khác cho các tổ bay của nước ngoài tại các sân bay quốc tế của Việt Nam.
+
+Hàng hải: Được thu ngoại tệ từ việc:
+
+- Bán các chứng từ vận chuyển hàng hải, các tuyến đường biển quốc tế cho mọi đối tượng;
+
+- Bán các chứng từ vận chuyển hành khách, hàng hoá các tuyến nội địa cho người không cư trú;
+
+- Cung ứng các dịch vụ đại lý hoa tiêu, cảng, biển, cung ứng nhiên liệu, thực phẩm và các dịch vụ khác cho các hãng tàu biển nước ngoài tại các cảng biển của Việt Nam.
+
+Bưu điện - Bưu chính viễn thông: Được thu ngoại tệ từ việc cung cấp các dịch vụ bưu chính, viễn thông quốc tế cho người không cư trú là tổ chức và cá nhân tại Việt Nam.
+
+Bảo hiểm: Được thu phí bằng ngoại tệ từ việc:
+
+- Bảo hiểm hàng hoá xuất nhập khẩu, bảo hiểm vận chuyển hàng không, hàng hải quốc tế, bảo hiểm về dầu khí của mọi đối tượng;
+
+- Bảo hiểm đối với các tổ chức và cá nhân người không cư trú ở tại Việt Nam.
+
+Du lịch: Được thu ngoại tệ từ việc tổ chức các chuyến đi du lịch quốc tế cho mọi đối tượng.
+
+d. Người cư trú là tổ chức làm đại lý đổi ngoại tệ cho Ngân hàng được thu ngoại tệ từ các bàn đổi ngoại tệ. Việc đổi ngoại tệ thực hiện theo Quy chế bàn đổi ngoại tệ do Ngân hàng Nhà nước quy định.
+
+đ. Người cư trú là tổ chức kinh doanh bán hàng miễn thuế và cung ứng dịch vụ ở khu cách ly tại các cửa khẩu quốc tế (Sân bay, hải cảng, cửa khẩu đường bộ) và kho ngoại quan được niêm yết giá bằng ngoại tệ và nhận ngoại tệ từ việc bán hàng hoá và cung ứng dịch vụ.
+
+e. Người cư trú là cơ quan thuế, cơ quan hải quan, cơ quan công an cửa khẩu và các cơ quan khác được thu các loại thuế, phí thị thực nhập cảnh tại các cửa khẩu quốc tế và các loại phí khác bằng ngoại tệ theo các quy định của pháp luật về thuế, phí;
+
+g. Người cư trú là doanh nghiệp có vốn đầu tư nước ngoài hoặc bên nước ngoài tham gia hợp đồng hợp tác kinh doanh đầu tư vào các lĩnh vực kinh doanh trụ sở, văn phòng làm việc, khách sạn, bệnh viện quốc tế, trường học quốc tế và kinh doanh các dịch vụ khác được phép nhận ngoại tệ chuyển khoản của người không cư trú để thanh toán tiền thuê nhà, thuê trụ sở làm việc, khách sạn hoặc thanh toán các loại viện phí, học phí và thanh toán cho các dịch vụ khác.
+
+h. Người không cư trú là cơ quan ngoại giao, cơ quan lãnh sự, cơ quan đại diện các tổ chức quốc tế hoạt động tại Việt Nam được phép thu phí Visa, phí lãnh sự và các loại phí khác bằng ngoại tệ theo quy định trong điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam đã ký kết hoặc tham gia;
+
+i. Người cư trú là nhà thầu nước ngoài được nhận thanh toán bằng ngoại tệ chuyển khoản từ chủ đầu tư; các nhà thầu phụ được nhận thanh toán bằng ngoại tệ chuyển khoản từ các nhà thầu chính theo các hợp đồng thầu đã ký kết;
+
+k. Người cư trú là doanh nghiệp hoạt động trong các lĩnh vực kinh doanh khách sạn, nhà hàng, siêu thị, cửa hàng được Ngân hàng uỷ nhiệm cho làm đơn vị chấp nhận thẻ thanh toán quốc tế được nhận thanh toán từ khách hàng các loại thẻ có giá trị bằng ngoại tệ theo thông lệ quốc tế.
+
+Việc thanh toán giữa ngân hàng thanh toán thẻ với đơn vị chấp nhận thẻ chỉ được thực hiện bằng đồng Việt Nam.
+
+l. Người cư trú là tổ chức được nhận thanh toán bằng ngoại tệ chuyển khoản từ các doanh nghiệp chế xuất và doanh nghiệp trong khu chế xuất theo các hợp đồng mua bán hàng hoá, dịch vụ.
+
+m. Người cư trú, người không cư trú là cá nhân được phép lưu hành ngoại hối dưới các hình thức cất giữ, mang theo người, được nhận ngoại tệ từ nước ngoài gửi về, được chuyển, mang ra nước ngoài cho các mục đích được phép, được gửi ngoại tệ vào Ngân hàng dưới hình thức tiền gửi ngoại tệ cá nhân hoặc gửi tiết kiệm ngoại tệ theo các quy định tại Thông tư này;
+
+Trên lãnh thổ Việt Nam, nghiêm cấm người cư trú, người không cư trú là tổ chức, cá nhân mua bán, thanh toán, cho vay với nhau bằng ngoại tệ và niêm yết giá hàng hoá, dịch vụ bằng ngoại tệ trừ trường hợp được phép quy định trong Thông tư này.
+
+n. Người không cư trú và người cư trú là người nước ngoài được nhận lương, thưởng, phụ cấp bằng ngoại tệ tiền mặt hoặc chuyển khoản.
+
+0. Những trường hợp khác được Thống đốc Ngân hàng Nhà nước cho phép.
+
+Đối với vàng tiêu chuẩn quốc tế thì việc lưu hành được quy định cụ thể tại Chương II Phần thứ sáu Thông tư này.
+
+3. Người cư trú là tổ chức có các khoản thu ngoại tệ tiền mặt theo quy định tại điểm 2. (đ) Mục II Chương I Phần thứ nhất thông tư này phải có giấy phép thu ngoại tệ tiền mặt ở trong nước do Ngân hàng Nhà nước cấp.
+
+Hồ sơ xin cấp giấy phép thu ngoại tệ tiền mặt gửi Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) bao gồm:
+
+a. Đơn xin cấp giấy phép thu ngoại tệ tiền mặt (Phụ lục 1);
+
+b. Bản sao công chứng quyết định thành lập hoặc quyết định đặt văn phòng của tổ chức;
+
+c. Bản sao công chứng Giấy chứng nhận đăng ký kinh doanh hoặc quyết định của cơ quan có thẩm quyền cho phép bán hàng miễn thuế hoặc làm các dịch vụ quốc tế.
+
+Trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Ngân hàng Nhà nước sẽ thực hiện việc cấp hoặc từ chối cấp giấy phép cho tổ chức. Trường hợp từ chối cấp giấy phép phải trả lời cho tổ chức bằng văn bản về lý do từ chối.
+
+Giấy phép thu ngoại tệ tiền mặt do Ngân hàng Nhà nước cấp là cơ sở để tổ chức nộp ngoại tệ tiền mặt vào tài khoản tại Ngân hàng.
+
+Các tổ chức có giấy phép bán hàng và dịch vụ thu ngoại tệ tiền mặt đã được Ngân hàng Nhà nước cấp trước ngày Thông tư này có hiệu lực vẫn tiếp tục được hoạt động theo giấy phép đã cấp và phải chấp hành các quy định đã ghi trong giấy phép về thu ngoại tệ tiền mặt và phạm vi hoạt động kinh doanh thu ngoại tệ tiền mặt.
+
+Riêng đối với các khoản thu bằng ngoại tệ tiền mặt của các tổ chức người cư trú và người không cư trú quy định tại điểm 2. (e) và 2. (h) Mục II Chương I Phần thứ nhất Thông tư này thì được phép thu theo các quy định của pháp luật, không cần phải xin phép Ngân hàng nhưng khi nộp ngoại tệ tiền mặt vào Ngân hàng phải có công văn giải trình rõ cho Ngân hàng về nội dung các khoản ngoại tệ thu được.
+
+Các trường hợp khác được phép thu ngoại tệ quy định tại điểm 2 Mục II Chương I Phần thứ nhất thông tư này có phát sinh nhu cầu thu ngoại tệ tiền mặt thì được thực hiện thu ngoại tệ dưới hình thức làm đại lý đổi ngoại tệ cho Ngân hàng. Việc sử dụng ngoại tệ thực hiện theo quy chế bàn đổi ngoại tệ do Ngân hàng Nhà nước quy định.
+
+4. Hoạt động ngoại hối tại khu vực biên giới giữa Việt Nam với các nước có chung biên giới và khu chế xuất được thực hiện theo quy định riêng của Thủ tướng Chính phủ.
+
+Chương II
+
+ÁP DỤNG ĐIỀU ƯỚC QUỐC TẾ, TẬP QUÁN QUỐC TẾ
+
+VÀ PHÁP LUẬT NƯỚC NGOÀI TRONG HOẠT ĐỘNG NGOẠI HỐI VỚI NƯỚC NGOÀI
+
+1. Trong trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với quy định của Nghị định về quản lý ngoại hối thì áp dụng quy định của điều ước quốc tế đó.
+
+2. Trong trường hợp pháp luật Việt Nam không cấm, các bên tham gia hoạt động ngoại hối với nước ngoài có thoả thuận áp dụng tập quán quốc tế hoặc pháp luật nước ngoài, nếu việc áp dụng đó không gây ra hậu quả làm thiệt hại đến lợi ích của Việt Nam.
+
+Chương III
+
+GIẢI THÍCH TỪ NGỮ
+
+Trong Thông tư này, các từ ngữ quy định trong Nghị định số 63/1998/NĐ-CP ngày 17 tháng 08 năm 1998 của Chính phủ về quản lý ngoại hối được giải thích như sau:
+
+1. Ngoại hối bao gồm:
+
+a. Các đồng tiền hợp pháp của nước ngoài hiện đang được lưu hành dưới các hình thức tiền giấy, tiền kim loại;
+
+b. Các công cụ thanh toán bằng tiền nước ngoài như: séc, thẻ thanh toán, hối phiếu, chứng chỉ tiền gửi ngân hàng, chứng chỉ tiền gửi bưu điện và các công cụ thanh toán khác;
+
+c. Các loại giấy tờ có giá bằng tiền nước ngoài như: trái phiếu Chính phủ, trái phiếu công ty, kỳ phiếu, cổ phiếu và các loại giấy tờ có giá khác;
+
+d. Quyền rút vốn đặc biệt là đồng tiền do Quỹ tiền tệ quốc tế phát hành dùng để dự trữ và thành toán quốc tế cho các nước hội viên, được ký hiệu là "SDR";
+
+Đồng tiền chung Châu âu là đồng tiền chung của các nước thuộc cộng đồng Châu âu dùng để dự trữ và thanh toán giữa các nước thành viên đó.
+
+Các đồng tiền chung khác dùng trong thanh toán quốc tế và khu vực;
+
+đ. Vàng tiêu chuẩn quốc tế được quy định cụ thể tại điểm 8 Chương III "Giải thích từ ngữ" Phần thứ nhất Thông tư này;
+
+e. Đồng tiền đang lưu hành của nước Cộng hoà xã hội chủ nghĩa Việt Nam (Đồng Việt Nam) trong trường hợp chuyển vào và chuyển ra khỏi lãnh thổ Việt Nam hoặc được sử dụng làm công cụ trong thanh toán quốc tế.
+
+2. Người cư trú là tổ chức hoặc cá nhân, bao gồm:
+
+a. Doanh nghiệp nhà nước, doanh nghiệp tư nhân, công ty, hợp tác xã và các tổ chức kinh tế khác thuộc mọi thành phần kinh tế của Việt Nam được thành lập và hoạt động kinh doanh tại Việt Nam (sau đây gọi là tổ chức kinh tế Việt Nam);
+
+b. Doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh hoạt động theo Luật đầu tư nước ngoài tại Việt Nam, chi nhánh công ty nước ngoài, nhà thầu nước ngoài, nhà thầu liên doanh với nước ngoài và các tổ chức kinh tế khác có vốn nước ngoài hoạt động kinh doanh tại Việt Nam không theo Luật Đầu tư nước ngoài tại Việt Nam;
+
+c. Tổ chức tín dụng Việt Nam, tổ chức tín dụng liên doanh giữa Việt Nam với nước ngoài, tổ chức tín dụng phi ngân hàng 100% vốn nước ngoài, chi nhánh ngân hàng nước ngoài hoạt động kinh doanh tại Việt Nam (sau đây gọi là tổ chức tín dụng ở Việt Nam);
+
+d. Cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam hoạt động tại Việt Nam;
+
+đ. cơ quan đại diện ngoại giao, cơ quan lãnh sự, lực lượng vũ trang và các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam hoạt động ở nước ngoài; công dân Việt Nam làm việc trong các tổ chức này và những cá nhân đi theo họ;
+
+e. Văn phòng đại diện của tổ chức kinh tế Việt Nam, văn phòng đại diện của doanh nghiệp có vốn đầu tư nước ngoài ở Việt Nam và Văn phòng đại diện của tổ chức tín dụng ở Việt Nam hoạt động tại nước ngoài;
+
+g. Công dân Việt Nam cư trú tại Việt Nam; Công dân Việt Nam cư trú ở nước ngoài có thời hạn dưới 12 tháng;
+
+h. Người nước ngoài cư trú tại Việt Nam có thời hạn từ 12 tháng trở lên;
+
+i. Công dân Việt Nam đi du lịch, học tập, chữa bệnh và thăm viếng ở nước ngoài (không kể thời hạn).
+
+3. Người không cư trú là tổ chức hoặc cá nhân, bao gồm:
+
+a. Tổ chức kinh tế nước ngoài được thành lập và hoạt động kinh doanh tại nước ngoài;
+
+b. Tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài ở Việt Nam hoạt động kinh doanh tại nước ngoài;
+
+c. Tổ chức tín dụng Việt Nam, tổ chức tín dụng nước ngoài ở Việt Nam được thành lập và hoạt động kinh doanh tại nước ngoài;
+
+d. Cơ quan Nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của nước ngoài hoạt động tại nước ngoài;
+
+đ. Cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế, cơ quan đại diện của tổ chức liên chính phủ, cơ quan đại diện của các tổ chức phi chính phủ, lực lượng vũ trang và các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của nước ngoài hoạt động tại Việt Nam; người nước ngoài làm việc trong các tổ chức này và những cá nhân đi theo họ;
+
+e. Văn phòng đại diện của tổ chức kinh tế nước ngoài; văn phòng đại diện của tổ chức tín dụng nước ngoài hoạt động tại Việt Nam;
+
+g. Người nước ngoài cư trú tại nước ngoài; người nước ngoài cư trú tại Việt Nam có thời hạn dưới 12 tháng;
+
+h. Công dân Việt Nam cư trú ở nước ngoài có thời hạn từ 12 tháng trở lên;
+
+i. Người nước ngoài đến du lịch, học tập, chữa bệnh và thăm viếng tại Việt Nam (không kể thời hạn);
+
+Trong trường hợp chưa xác định được tổ chức, cá nhân là Người cư trú hay Người không cư trú thì Thống đốc Ngân hàng Nhà nước quyết định.
+
+4. Hoạt động ngoại hối là các hoạt động đầu tư, vay, cho vay, bảo lãnh, mua, bán và các giao dịch khác về ngoại hối.
+
+5. Tỷ giá hối đoái là giá của một đơn vị tiền tệ nước ngoài tính bằng đơn vị tiền tệ của Việt Nam.
+
+6. Ngoại tệ là đồng tiền của một quốc gia khác hoặc đồng tiền chung của nhiều quốc gia.
+
+7. Ngoại tệ tiền mặt là tiền giấy, tiền kim loại, séc du lịch và công cụ thanh toán tương tự khác bằng ngoại tệ theo quy định của pháp luật.
+
+8. Vàng tiêu chuẩn quốc tế là vàng khối, vàng thỏi, vàng miếng, vàng lá có chất lượng từ 99,5% và trọng lượng từ 1 kg trở lên, có nhãn hiệu của nhà sản xuất vàng được Hiệp hội vàng, Sở giao dịch vàng quốc tế công nhận.
+
+Danh sách các nhà sản xuất vàng được Hiệp hội vàng, Sở giao dịch vàng quốc tế công nhận quy định tại Phụ lục 2 của Thông tư này.
+
+9. Ngân hàng được phép là các ngân hàng thương mại, ngân hàng phát triển, ngân hàng đầu tư, ngân hàng chính sách, ngân hàng hợp tác và các loại hình ngân hàng khác hiện đang hoạt động tại Việt Nam được Ngân hàng Nhà nước cho phép hoạt động kinh doanh ngoại hối.
+
+10. Bàn đổi ngoại tệ là tổ chức được Ngân hàng Nhà nước cho phép thực hiện các hoạt động thu đổi ngoại tệ tiền mặt. Bàn đổi ngoại tệ có thể do tổ chức tín dụng được phép hoạt động ngoại hối trực tiếp thực hiện hoặc uỷ nhiệm cho tổ chức khác làm đại lý.
+
+11. Giao dịch vãng lai là các giao dịch giữa người cư trú và người không cư trú về hàng hoá, dịch vụ, thu nhập từ đầu tư trực tiếp, thu nhập từ đầu tư vào các giấy tờ có giá, lãi vay và lãi tiền gửi nước ngoài, chuyển tiền một chiều và các giao dịch tương tự khác theo quy định của pháp luật.
+
+Chuyển tiền một chiều trong giao dịch vãng lai được hiểu là các giao dịch chuyển tiền từ nước ngoài vào Việt Nam hay từ Việt Nam ra nước ngoài qua Ngân hàng, qua bưu điện mang tính chất tài trợ, viện trợ, giúp đỡ gia đình, sử dụng chi tiêu cá nhân không có liên quan đến việc thanh toán hàng hoá và dịch vụ.
+
+12. Thanh toán vãng lai là việc thực hiện thu - chi cho các giao dịch vãng lai được quy định cụ thể tại Phụ lục 3 của Thông tư này.
+
+13. Giao dịch vốn là các giao dịch chuyển vốn vào Việt Nam, chuyển vốn từ Việt Nam ra nước ngoài trong lĩnh vực đầu tư trực tiếp, đầu tư vào các giấy tờ có giá, vay và trả nợ nước ngoài, cho vay và thu hồi nợ nước ngoài và các hình thức đầu tư khác theo quy định của pháp luật Việt Nam làm tăng hoặc giảm tài sản có hoặc tài sản nợ giữa người cư trú với người không cư trú.
+
+14. Chuyển vốn là việc thực hiện chuyển vốn từ nước ngoài vào Việt Nam hoặc chuyển vốn từ Việt Nam ra nước ngoài cho các giao dịch vốn được quy định cụ thể tại Phụ lục 4 của Thông tư này.
+
+15. Đầu tư trực tiếp là việc nhà đầu tư nước ngoài đưa vào Việt Nam vốn bằng tiền hoặc bất kỳ tài sản nào để tiến hành các hoạt động đầu tư theo quy định của Luật đầu tư nước ngoài tại Việt Nam hay nhà đầu tư Việt Nam đầu tư ra nước ngoài bằng tiền hoặc bất kỳ tài sản nào để tiến hành hoạt động đầu tư theo pháp luật đầu tư của Việt Nam và nước ngoài.
+
+16. Đầu tư vào các giấy tờ có giá là việc đầu tư vào cổ phiếu, trái phiếu, các công cụ trên thị trường tiền tệ và các công cụ tài chính tương lai được phát hành tại Việt Nam hay việc người cư trú đầu tư vào giấy tờ có giá phát hành ở nước ngoài.
+
+17. Vay và trả nợ nước ngoài là người cư trú vay và thực hiện nghĩa vụ trả nợ với người không cư trú dưới mọi hình thức được hạch toán bằng ngoại tệ.
+
+18. Cho vay và thu hồi nợ nước ngoài là việc người cư trú cho vay và thu hồi nợ đối với người không cư trú dưới mọi hình thức được hạch toán bằng ngoại tệ.
+
+19. Tài khoản ở nước ngoài là tài khoản của người cư trú mở tại các ngân hàng hoạt động ngoài lãnh thổ Việt Nam.
+
+
+
+PHẦN THỨ HAI
+
+MỞ TÀI KHOẢN, SỬ DỤNG NGOẠI TỆ
+
+CỦA NGƯỜI CƯ TRÚ VÀ NGƯỜI KHÔNG CƯ TRÚ
+
+
+
+Chương I
+
+ĐIỀU KIỆN, THỦ TỤC MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI NGOẠI TỆ Ở TRONG NƯỚC CỦA NGƯỜI CƯ TRÚ
+
+
+
+MỤC I. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ TỔ CHỨC
+
+1. Điều kiện mở tài khoản.
+
+Người cư trú là tổ chức có các nguồn thu ngoại tệ từ các giao dịch vãng lai, các giao dịch vốn và các nguồn thu ngoại tệ nói tại diểm 2 Mục II Chương I Phần thứ nhất Thông tư này được mở và duy trì tài khoản tiền gửi ngoại tệ tại các ngân hàng được phép.
+
+2. Thủ tục mở, đóng tài khoản.
+
+Người cư trú là tổ chức khi mở, đóng tài khoản tiền gửi ngoại tệ thực hiện theo các thủ tục do Ngân hàng được phép nơi mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu. Người cư trú là tổ chức có tài khoản tiền gửi ngoại tệ được thu ngoại tệ vào tài khoản từ các nguồn sau đây:
+
+a. Thu chuyển khoản từ nước ngoài vào;
+
+b. Thu chuyển khoản ở trong nước đối với các khoản được phép thu theo quy định tại điểm 2 Mục II Chương I Phần thứ nhất thông tư này;
+
+c. Thu chuyển khoản ở trong nước từ việc phát hành giấy tờ có giá bằng ngoại tệ; các khoản lãi thu từ việc đầu tư vào các giấy tờ có giá bằng ngoại tệ;
+
+d. Thu chuyển khoản ở trong nước từ việc mua ngoại tệ của các tổ chức tín dụng được phép hoạt động ngoại hối ;
+
+đ. Thu ngoại tệ tiền mặt nộp vào (đối với người cư trú là các tổ chức quy định tại điểm 2 Mục II, Chương I, Phần thứ nhất của thông tư này hoặc được Ngân hàng nhà nước cho phép thu ngoại tệ tiền mật khi xuất khẩu hàng hoá và dịch vụ );
+
+e. Thu ngoại tệ tiền mặt mang từ nước ngoài nộp vào (có xác nhận Hải quan cửa khẩu);
+
+g. Các nguồn thu ngoại tệ khác dưới hình thức chuyển khoản hoặc nộp ngoại tệ tiền mặt khi được Thống đốc Ngân hàng Nhà nước cho phép.
+
+Phần chi. Người cư trú là tổ chức có tài khoản tiền gửi ngoại tệ được chi ngoại tệ từ tài khoản vào các mục đích sau đây:
+
+a. Chi thanh toán tiền nhập khẩu hàng hoá và dịch vụ cho nước ngoài (kể cả các chi phí phát sinh liên quan đến xuất nhập khẩu hàng hoá và dịch vụ);
+
+b. Chi thanh toán tiền hàng hoá và dịch vụ cho các tổ chức và cá nhân ở trong nước được phép thu ngoại tệ theo quy định tại điểm 2 Mục II Chương I Phần thứ nhất thông tư này;
+
+c. Chi trả nợ gốc, lãi và các chi phí phát sinh khác của các khoản vay bằng ngoại tệ của Ngân hàng trong nước và vay nước ngoài theo các quy định hiện hành;
+
+d. Bán ngoại tệ cho các tổ chức tín dụng được phép hoạt động ngoại hối;
+
+đ. Đầu tư vào các loại giấy tờ có giá được phát hành bằng ngoại tệ và các loại chứng khoán được pháp luật cho phép; Chi thanh toán tiền gốc, lãi các loại giấy có giá và các loại chứng khoán bằng ngoại tệ;
+
+e. Chuyển đổi ra các công cụ thanh toán khác bằng ngoại tệ như: séc, thẻ thanh toán và các công cụ thanh toán khác; hoậc chuyển đổi ra các loại ngoại tệ khác theo quy định của Ngân hàng được phép;
+
+g. Góp vốn thực hiện dự án đầu tư theo quy định của pháp luật về đầu tư nước ngoài tại Việt Nam;
+
+h. Chuyển ngoại tệ ra nước ngoài (của nhà đầu tư nước ngoài) theo các quy định của Luật đầu tư nước ngoài tại Việt Nam và các quy định khác có liên quan;
+
+i. Chuyển ngoại tệ đầu tư ra nược ngoài theo quy định của pháp luật về đầu tư nước ngoài của Việt Nam;
+
+k. Rút ngoại tệ tiền mặt, chuyển khoản chi cho cá nhân làm việc cho tổ chức khi được cử ra nước ngoài và chi trả lương, thưởng và phụ cấp khác cho người không cư trú và người cư trú là người nước ngoài làm việc cho tổ chức đó;
+
+Đối với người cư trú là doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh, tổ chức tín dụng nếu có các quy định riêng về việc sử dụng ngoại tệ tại các văn bản pháp luật khác thì được sử dụng ngoại tệ vào các mục đích theo quy định tại các văn bản đó.
+
+MỤC II. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CÁ NHÂN
+
+1. Điều kiện mở tài khoản
+
+Người cư trú là cá nhân có ngoại tệ từ nước ngoài chuyển vào qua Ngân hàng hoặc mang theo người khi nhập cảnh vào Việt Nam có xác nhận Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam được mở và duy trì tài khoản tiền gửi ngoại tệ tại các Ngân hàng được phép.
+
+2. Thủ tục đóng mở tài khoản.
+
+Thủ tục mở, đóng tài khoản tiền gửi ngoại tệ của người cư trú là cá nhân do Ngân hàng được phép mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu: Người cư trú là cá nhân có tài khoản tiền gửi ngoại tệ được thu ngoại tệ vào tài khoản từ các nguồn sau đây:
+
+a. Thu ngoại tệ chuyển khoản từ nước ngoài vào theo các hợp đồng xuất khẩu hàng hoá và dịch vụ hoặc từ nguồn tài trợ, viện trợ được pháp luật cho phép;
+
+b. Thu ngoại tệ tiền mặt mang từ nước ngoài nộp vào (có xác nhận của Hải quan cửa khẩu);
+
+c. Thu ngoại tệ chuyển khoản dưới hình thức cho, tặng, thừa kế phù hợp với quy định của pháp luật;
+
+d. Thu ngoại tệ chuyển khoản hoặc tiền mặt ở trong nước từ việc được phép nhận lương, thưởng và phụ cấp khác bằng ngoại tệ;
+
+đ. Các khoản thu ngoại tệ khác được Thống đốc Ngân hàng Nhà nước cho phép.
+
+Phần chi: Người cư trú là cá nhân có tài khoản tiền gửi ngoại tệ được chi ngoại tệ từ tài khoản vào các mục đích sau đây:
+
+a. Chi thanh toán tiền nhập khẩu hàng hóa và dịch vụ cho tổ chức và cá nhân ở nước ngoài;
+
+b. Chi thanh toán tiền hàng hoá và dịch vụ cho tổ chức và cá nhân ở trong nước được phép thu ngoại tệ theo quy định tại điểm 2 mục II Chương I Phần thứ nhất Thông tư này;
+
+c. Chuyển ra nước ngoài (bằng chuyển khoản hoặc tiền mặt) để sử dụng cho cấc mục đích cá nhân theo quy định tại Chương IV Phần thứ ba; Chương V Phần thứ tư của Thông tư này;
+
+d. Bán cho các tổ chức tín dụng được phép hoạt động ngoại hối;
+
+đ. Rút ngoại tệ tiền mặt để sử dụng vào mục đích cất giữ, gửi tiết kiệm ngoại tệ và các mục đích khác được pháp luật cho phép;
+
+e. Đấu tư vào các giấy tờ có giá bằng ngoại tệ;
+
+g. Chuyển đổi ra các công cụ thanh toán khác bằng tiền nước ngoài như séc, thẻ thanh toán và các công cụ thanh toán khác hoặc được chuyển đổi ra các loại ngoại tệ khác theo quy định của Ngân hàng được phép;
+
+h. Cho, tặng, thừa kế theo quy định của pháp luật;
+
+i. Người cư trú là cá nhân người nước ngoài được phép chuyển ra nước ngoài số ngoại tệ có trên tài khoản ngoại tệ của mình theo quy định tại điểm 3 Mục II Chương IV Phần thứ ba Thông tư này.
+
+4. Gửi tiết kiệm ngoại tệ
+
+Người cư trú là cá nhân có ngoại tệ được gửi tiết kiệm ngoại tệ tại các Ngân hàng được phép. Người gửi tiết kiệm ngoại tệ được hưởng lãi suất bằng ngoại tệ và được rút ra cả gốc và lãi bằng ngoại tệ theo thể lệ tiền gửi tiết kiệm ngoại tệ.
+
+Chương II
+
+ĐIỀU KIỆN, THỦ TỤC MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI NGOẠI TỆ Ở TRONG NƯỚC CỦA NGƯỜI KHÔNG CƯ TRÚ
+
+MỤC I. ĐỐI VỚI NGƯỜI KHÔNG CƯ TRÚ LÀ TỔ CHỨC HIỆN ĐANG HOẠT ĐỘNG TẠI VIỆT NAM
+
+1. Điều kiện mở tài khoản.
+
+Người không cư trú là tổ chức hiện đang hoạt động tại Việt Nam có ngoại tệ từ nước ngoài chuyển vào qua Ngân hàng hoặc mang theo người khi nhập cảnh vào Việt Nam có xác nhận Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam được mở và duy trì tài khoản tiền gửi ngoại tệ tại các Ngân hàng được phép.
+
+2. Thủ tục mở, đóng tài khoản.
+
+Thủ tục mở, đóng tài khoản tiền gửi ngoại tệ của Người không cư trú là tổ chức do Ngân hàng được phép nơi mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu. Người không cư trú là tổ chức hiện đang hoạt động tại Việt Nam có tài khoản tiền gửi ngoại tệ được thu ngoại tệ vào tài khoản từ các nguồn sau đây:
+
+a. Thu ngoại tệ chuyển khoản từ nước ngoài vào;
+
+b. Thu ngoại tệ chuyển khoản từ tài khoản của người không cư trú khác chuyển sang;
+
+c. Thu ngoại tệ chuyển khoản từ việc bán tiền Đồng Việt Nam trên tài khoản tiền gửi Đồng Việt Nam.
+
+d. Thu ngoại tệ chuyển khoản, tiền mặt nộp vào (đối với Người không cư trú là các tổ chức được phép thu ngoại tệ quy định tại điểm 2 Mục II Chương I Phần thứ nhất Thông tư này);
+
+đ. Thu ngoại tệ tiền mặt mang từ nước ngoài nộp vào (có xác nhận Hải quan cửa khẩu);
+
+e. Các nguồn thu ngoại tệ khác được Thống đốc Ngân hàng Nhà nước cho phép.
+
+Phần chi: Người không cư trú là tổ chức hiện đang hoạt động tại Việt Nam có tài khoản tiền gửi ngoại tệ được chi ngoại tệ từ tài khoản vào các mục đích sau đây:
+
+a. Chi thanh toán tiền nhập khẩu hàng hoá và dịch vụ cho tổ chức, cá nhân ở nước ngoài;
+
+b. Chi thanh toán tiền hàng hoá và dịch vụ cho tổ chức và cá nhân ở trong nước được phép thu ngoại tệ theo quy định tại điểm 2 Mục II Chương I Phần thứ nhất Thông tư này;
+
+c. Bán cho các tổ chức tín dụng được phép hoạt động ngoại hối;
+
+d. Chuyển đổi ra các công cụ thanh toán khác bằng ngoại tệ như: séc, thẻ thanh toán và các công cụ thanh toán khác hoặc chuyển đổi ra các loại ngoại tệ khác theo quy định của Ngân hàng được phép;
+
+đ. Chuyển khoản ra nước ngoài;
+
+e. Rút ngoại tệ tiền mặt, chuyển khoản để chi cho cá nhân làm việc cho tổ chức khi được cử ra nước ngoài và chi trả lương, thưởng và phụ cấp cho người không cư trú và người cư trú là người nước ngoài làm việc cho tổ chức;
+
+g. Rút ngoại tệ tiền mặt để mang ra nước ngoài hoặc chi tiêu ở những nơi được Ngân hàng Nhà nước cho phép thu ngoại tệ tiền mặt trên lãnh thổ Việt Nam theo quy định của Thông tư này;
+
+h. Chuyển sang tài khoản ngoại tệ của người không cư trú khác;
+
+i. Cho, tặng theo quy định của pháp luật.
+
+MỤC II. ĐỐI VỚI NGƯỜI KHÔNG CƯ TRÚ LÀ TỔ CHỨC ĐANG HOẠT ĐỘNG Ở NƯỚC NGOÀI
+
+1. Điều kiện mở tài khoản.
+
+Người không cư trú là tổ chức đang hoạt động ở nước ngoài (dưới đây gọi là Người không cư trú là tổ chức ở nước ngoài) có ngoại tệ từ nước ngoài chuyển vào Việt Nam qua Ngân hàng hoặc mang theo người khi nhập cảnh vào Việt Nam có xác nhận Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam được mở và duy trì tài khoản tiền gửi ngoại tệ tại các Ngân hàng được phép.
+
+2. Thủ tục mở, đóng tài khoản.
+
+Thủ tục mở, đóng tài khoản tiền gửi ngoại tệ của người không cư trú là tổ chức ở nước ngoài do Ngân hàng được phép nơi mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu: Người không cư trú là tổ chức ở nước ngoài có tài khoản tiền gửi ngoại tệ được thu ngoại tệ vào tài khoản từ các nguồn sau đây:
+
+a. Thu chuyển khoản từ nước ngoài vào;
+
+b. Thu chuyển khoản từ tài khoản tiền ngoại tệ của các tổ chức và cá nhân ở trong nước thanh toán theo các hợp đồng xuất nhập khẩu hàng hoá và dịch vụ;
+
+Phần chi: Người không cư trú là tổ chức ở nước ngoài có tài khoản tiền gửi ngoại tệ được chi ngoại tệ từ tài khoản vào các mục đích sau đây:
+
+a. Chi chuyển khoản ra nước ngoài;
+
+b. Chi thanh toán tiền hàng hoá và dịch vụ cho tổ chức và cá nhân ở Việt Nam theo các hợp đồng xuất nhập khẩu hàng hoá và dịch vụ;
+
+MỤC III. ĐỐI VỚI NHỮNG NGƯỜI KHÔNG CƯ TRÚ LÀ CÁ NHÂN
+
+1. Điều kiện mở tài khoản.
+
+Người không cư trú là cá nhân có ngoại tệ từ nước ngoài chuyển vào Việt Nam qua Ngân hàng hoặc mang theo người khi nhập cảnh vào Việt Nam có xác nhận Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam được mở và duy trì tài khoản tiền gửi ngoại tệ tại các Ngân hàng được phép.
+
+2. Thủ tục mở, đóng tài khoản.
+
+Thủ tục mở, đóng tài khoản tiền gửi ngoại tệ của người không cư trú là cá nhân do Ngân hàng được phép nơi mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu: Người không cư trú là cá nhân có tài khoản tiền gửi ngoại tệ được thu ngoại tệ vào tài khoản từ các nguồn sau đây:
+
+a. Thu chuyển khoản từ nước ngoài vào;
+
+b. Thu ngoại tệ tiền mặt mang từ nước ngoài nộp vào (có xác nhận của Hải quan cửa khẩu);
+
+c. Thu ngoại tệ chuyển khoản hoặc tiền mặt từ việc nhận lương, thưởng, phụ cấp khác của các tổ chức ở trong nước và các nguồn thu ngoại tệ khác được pháp luật Việt Nam cho phép;
+
+d. Thu ngoại tệ chuyển khoản từ việc bán Đồng Việt Nam lấy ngoại tệ trên tài khoản tiền gửi Đồng Việt Nam;
+
+đ. Các nguồn thu ngoại tệ khác được Thống đốc Ngân hàng Nhà nước cho phép;
+
+Phần chi: Người không cư trú là cá nhân có tài khoản tiền gửi ngoại tệ được chi ngoại tệ từ tài khoản vào các mục đích sau đây:
+
+a. Chuyển khoản ra nước ngoài;
+
+b. Chi thanh toán tiền hàng hoá và dịch vụ cho tổ chức và cá nhân ở trong nước được phép thu ngoại tệ theo quy định tại điểm 2 Mục II, Chương I Phần thứ nhất Thông tư này;
+
+c. Bán cho các tổ chức tín dụng được phép hoạt động ngoại hối;
+
+d. Được chuyển đổi ra các công cụ thanh toán khác bằng ngoại tệ như: séc, thẻ thanh toán và các công cụ thanh toán khác; Được chuyển đổi ra các loại ngoại tệ khác theo quy định của Ngân hàng được phép;
+
+đ. Rút ngoại tệ tiền mặt mang theo người khi xuất cảnh hoặc chi tiêu tại những nơi được Ngân hàng Nhà nước cho phép thu ngoại tệ tiền mặt;
+
+e. Chuyển sang tài khoản ngoại tệ của Người không cư trú khác ở trong nước;
+
+g. Cho, tặng, thừa kế theo quy định của pháp luật;
+
+Chương III
+
+QUYỀN SỬ DỤNG NGOẠI TỆ CỦA CÁ NHÂN
+
+1. Người cư trú và Người không cư trú là cá nhân có ngoại tệ từ nước ngoài chuyển vào qua Ngân hàng hoặc mang theo người khi nhập cảnh vào Việt Nam có xác nhận của Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam được quyền:
+
+a. Cất giữ, mang theo người;
+
+b. Gửi vào Ngân hàng dưới hình thức mở tài khoản tiền gửi ngoại tệ cá nhân;
+
+c. Gửi vào Ngân hàng dưới hình thức gửi tiết kiệm ngoại tệ (chỉ áp dụng cho cá nhân là người cư trú);
+
+d. Bán cho các tổ chức tín dụng được phép hoạt động ngoại hối hoặc bàn đổi ngoại tệ.
+
+Ngoại tệ trên tài khoản tiền gửi ngoại tệ cá nhân được sử dụng vào các mục đích quy định tại điểm 3 Mục II Chương I, điểm 3 Mục III Chương II Phần thứ hai Thông tư này.
+
+2. Người cư trú là cá nhân có ngoại tệ không phải từ các nguồn thu nhập tại điểm 1 nói trên không được mở tài khoản tiền gửi ngoại tệ cá nhân mà chỉ được gửi vào Ngân hàng dưới hình thức tiền gửi tiết kiệm ngoại tệ.
+
+3. Người cư trú và người không cư trú hiện đang có tài khoản tiền gửi ngoại tệ cá nhân tại các Ngân hàng trước ngày Thông tư này có hiệu lực được tiếp tục sử dụng ngoại tệ trên tài khoản vào các mục đích theo quy định về việc mở và sử dụng tài khoản tiền gửi ngoại tệ của cá nhân (điểm 3 Mục II Chương I, điểm 3 Mục III Chương II Phần thứ hai Thông tư này).
+
+Kể từ ngày Thông tư này có hiệu lực, các Ngân hàng thực hiện mở tài khoản tiền gửi ngoại tệ cá nhân hay nhận tiền gửi tiết kiệm ngoại tệ đều phải thực hiện theo hướng dẫn tại Thông tư này.
+
+Chương IV
+
+ĐIỀU KIỆN, THỦ TỤC MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI ĐỒNG VIỆT NAM Ở TRONG NƯỚC CỦA NGƯỜI KHÔNG CƯ TRÚ
+
+1. Điều kiện mở tài khoản.
+
+Người không cư trú là tổ chức hoặc cá nhân ở Việt Nam có Đồng Việt Nam từ việc bán ngoại tệ cho các tổ chức tín dụng và các nguồn thu khác bằng Đồng Việt Nam được pháp luật Việt Nam cho phép được mở và duy trì tài khoản tiền gửi Đồng Việt Nam tại các Ngân hàng.
+
+2. Thủ tục mở, đóng tài khoản
+
+Thủ tục mở, đóng tài khoản tiền gửi Đồng Việt Nam của người không cư trú do Ngân hàng nơi mở tài khoản quy định.
+
+3. Sử dụng tài khoản.
+
+Phần thu: Người không cư trú là tổ chức hoặc cá nhân có tài khoản tiền gửi Đồng Việt Nam được thu Đồng Việt Nam vào tài khoản từ các nguồn sau đây:
+
+a. Bán ngoại tệ trên tài khoản cho các tổ chức tín dụng được phép hoạt động ngoại hối;
+
+b. Cung ứng hàng hoá, dịch vụ và các loại phí được pháp luật Việt Nam cho phép;
+
+c. Nhận tiền lương, thưởng và các khoản phụ cấp khác (đối với cá nhân được nhận bằng Đồng Việt Nam tại các tổ chức ở trong nước);
+
+d. Các nguồn thu Đồng Việt Nam khác được pháp luật Việt Nam cho phép.
+
+Phần chi: Người không cư trú là tổ chức hoặc cá nhân có tài khoản tiền gửi Đồng Việt Nam được chi Đồng Việt Nam từ tài khoản vào các mục đích sau đây:
+
+a. Chi thanh toán tiền hàng hoá và dịch vụ cho người cư trú và người không cư trú là tổ chức và cá nhân ở trong nước;
+
+b. Chi mua ngoại tệ của các tổ chức tín dụng để chuyển ra nước ngoài;
+
+c. Rút tiền mặt Đồng Việt Nam để chi tiêu tại Việt Nam;
+
+d. Cho, tặng, thừa kế theo quy định của pháp luật.
+
+Chương V
+
+MỞ VÀ SỬ DỤNG TÀI KHOẢN Ở NƯỚC NGOÀI
+
+CỦA NGƯỜI CƯ TRÚ
+
+MỤC I. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CÁC TỔ CHỨC KINH TẾ VIỆT NAM, DOANH NGHIỆP CÓ VỐN ĐẦU TƯ NƯỚC NGOÀI, TỔ CHỨC TÍN DỤNG Ở VIỆT NAM
+
+Người cư trú là các tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài hoạt động theo Luật đầu tư nước ngoài tại Việt Nam, tổ chức tín dụng ở Việt Nam được Ngân hàng Nhà nước cấp giấy phép cho mở và sử dụng tài khoản ngoại tệ ở nước ngoài theo các quy định sau đây:
+
+1. Tổ chức kinh tế Việt Nam được phép hoạt động kinh doanh quốc tế thuộc các ngành hàng không, hàng hải, bưu điện, bảo hiểm, du lịch, xuất khẩu lao động, nhận thầu các công trình ở nước ngoài có nhu cầu mở tài khoản ngoại tệ ở nước ngoài để thực hiện các khoản thu - chi thường xuyên, các khoản tiền đặt cọc, ký quỹ bảo đảm thực hiện hợp đồng tham gia đấu thầu quốc tế; thanh toán bù trừ hoặc thực hiện theo các điều ước, hiệp ước, thoả thuận đã ký với nước ngoài phải gửi hồ sơ xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (Phụ lục 5);
+
+b. Bản sao công chứng Quyết định thành lập doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh;
+
+c. Các văn bản khác của cơ quan có thẩm quyền bên nước ngoài hoặc bên Việt Nam có liên quan đến yêu cầu, mục đích cần thiết phải mở tài khoản ngoại tệ ở nước ngoài.
+
+2. Các tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài có nhu cầu mở tài khoản ngoại tệ ở nước ngoài để thực hiện các khoản vay vốn trung - dài hạn có giá trị từ 5.000.000 (năm triệu) đô la Mỹ trở lên hoặc ngoại tệ khác có giá trị tương đương. Các khoản vay này phải được Ngân hàng Nhà nước chấp nhận cho đăng ký và bên cho vay yêu cầu phải mở tài khoản ngoại tệ ở nước ngoài để quản lý nguồn vốn vay và theo dõi việc trả nợ. Tổ chức phải gửi hồ sơ xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (Phụ lục 5);
+
+b. Bản sao công chứng quyết định thành lập doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh, Giấy phép đầu tư;
+
+c. Hợp đồng vay vốn đã ký với phía nước ngoài và giấy chấp nhận cho đăng ký khoản vay của Ngân hàng Nhà nước;
+
+d. Văn bản chứng minh bên cho vay nước ngoài yêu cầu phải mở tài khoản ngoại tệ ở nước ngoài.
+
+3. Các tổ chức kinh tế được cơ quan có thẩm quyền của Việt Nam cho phép mở chi nhánh hoặc văn phòng đại diện ở nước ngoài phải gửi hồ sơ xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (Phụ lục 5);
+
+b. Bản sao công chứng Quyết định thành lập, Giấy chứng nhận đăng ký kinh doanh;
+
+c. Bản sao công chứng Quyết định của cơ quan có thẩm quyền của Việt Nam cho phép mở chi nhánh hoặc văn phòng đại diện ở nước ngoài.
+
+4. Các tổ chức tín dụng có nhu cầu mở và sử dụng tài khoản ngoại tệ ở nước ngoài để thực hiện các nghiệp vụ kinh doanh ngoại hối ở nước ngoài phải gửi hồ sơ xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài cho Ngân hàng Nhà nước (Vụ các Ngân hàng và tổ chức tín dụng phi Ngân hàng).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (Phụ lục 6);
+
+b. Bản sao công chứng Giấy phép thành lập và hoạt động của tổ chức tín dụng;
+
+c. Bản sao giấy phép hoạt động ngoại hối do Ngân hàng Nhà nước cấp.
+
+5. Các tổ chức khác không phải là các đối tượng hoạt động trong các lĩnh vực và phạm vi nói trên có nhu cầu mở và sử dụng tài khoản ngoại tệ ở nước ngoài phải được sự đồng ý bằng văn bản của Thủ tướng Chính phủ.
+
+MỤC II. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CƠ QUAN NHÀ NƯỚC, ĐƠN VỊ LỰC LƯỢNG VŨ TRANG, TỔ CHỨC CHÍNH TRỊ, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, TỔ CHỨC XÃ HỘI, TỔ CHỨC XÃ HỘI - NGHỀ NGHIỆP, QUỸ XÃ HỘI, QUỸ TỪ THIỆN CỦA VIỆT NAM HOẠT ĐỘNG TẠI VIỆT NAM
+
+Người cư trú là cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam hoạt động tại Việt Nam có nhu cầu mở và sử dụng tài khoản ngoại tệ ở nước ngoài để thực hiện vay và trả nợ nước ngoài của Chính phủ, tiếp nhận viện trợ của nước ngoài hoặc các trường hợp khác được Thủ tướng Chính phủ cho phép thì được Ngân hàng Nhà nước cấp giấy phép mở và sử dụng tài khoản ở nước ngoài. Các tổ chức phải gửi hồ sơ xin cấp giấy phép cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài (Phụ lục 7);
+
+b. Bản sao công chứng quyết định thành lập;
+
+c. Một trong các loại văn bản sau:
+
+- Đối với vay và trả nợ của Chính phủ: Bản sao hợp đồng vay và trả nợ của Chính phủ có quy định việc phải mở tài khoản ngoại tệ ở nước ngoài;
+
+- Đối với tiếp nhận viện trợ ở nước ngoài: Văn bản chứng minh bên nước ngoài yêu cầu phải mở tài khoản ngoại tệ ở nước ngoài để tiếp nhận nguồn vốn viện trợ của nước ngoài;
+
+- Văn bản chấp thuận của Thủ tướng Chính phủ cho mở tài khoản ngoại tệ ở nước ngoài đối với các trường hợp khác.
+
+MỤC III. TRÁCH NHIỆM BÁO CÁO
+
+Người cư trú là các tổ chức được Ngân hàng Nhà nước cấp giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài có trách nhiệm báo cáo cho Ngân hàng Nhà nước về tình hình mở tài khoản ngoại tệ ở nước ngoài theo các quy định sau đây:
+
+1. Các tổ chức đã có giấy phép của Ngân hàng Nhà nước cho mở và sử dụng tài khoản ngoại tệ ở nước ngoài trước ngày Thông tư này có hiệu lực được tiếp tục sử dụng giấy phép đã cấp, không phải làm thủ tục xin cấp giấy phép mới.
+
+2. Các tổ chức được cấp giấy phép sau ngày thông tư này có hiệu lực thì sau 15 (mười lăm) ngày làm việc kể từ ngày mở tài khoản ngoại tệ ở nước ngoài phải báo cáo cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) về tình hình mở và sử dụng tài khoản ngoại tệ ở nước ngoài.
+
+3. Việc mở, sử dụng và đóng tài khoản ngoại tệ ở nước ngoài của các tổ chức đã được Ngân hàng Nhà nước cấp giấy phép cho mở tài khoản ngoại tệ ở nước ngoài phải thực hiện theo đúng các nội dung và chế độ báo cáo theo quy định ghi trong giấy phép.
+
+MỤC IV. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CƠ QUAN NGOẠI GIAO, CƠ QUAN LÃNH SỰ, LỰC LƯỢNG VŨ TRANG VÀ ĐẠI DIỆN CÁC TỔ CHỨC CHÍNH TRỊ, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, TỔ CHỨC XÃ HỘI, TỔ CHỨC XÃ HỘI - NGHỀ NGHIỆP, QUỸ XÃ HỘI, QUỸ TỪ THIỆN CỦA VIỆT NAM HOẶC CÔNG DÂN VIỆT NAM TRONG THỜI GIAN Ở NƯỚC NGOÀI
+
+Người cư trú là cơ quan ngoại giao, cơ quan lãnh sự, lực lượng vũ trang và đại diện các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam hoặc công dân Việt Nam trong thời gian ở nước ngoài được mở và sử dụng tài khoản ngoại tệ ở nước ngoài theo Luật pháp của nước sở tại.
+
+Khi chấm dứt hoặc hết thời hạn ở nước ngoài, các tổ chức và cá nhân nói trên phải đóng tài khoản đã mở tại nước ngoài và chuyển toàn bộ số dư ngoại tệ trên tài khoản về nước (nếu có). Trường hợp có nhu cầu để lại ngoại tệ ở nước ngoài dưới bất cứ hình thức nào đều phải được sự chấp thuận bằng văn bản của Thống đốc Ngân hàng Nhà nước.
+
+Chương VI
+
+QUẢN LÝ VIỆC MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI NGOẠI TỆ Ở TRONG NƯỚC VÀ Ở NƯỚC NGOÀI CỦA NGƯỜI CƯ TRÚ, TÀI KHOẢN TIỀN GỬI NGOẠI TỆ VÀ TÀI KHOẢN TIỀN GỬI ĐỒNG VIỆT NAM CỦA NGƯỜI KHÔNG CƯ TRÚ
+
+MỤC 1. QUẢN LÝ VIỆC MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI NGOẠI TỆ Ở TRONG NƯỚC VÀ Ở NƯỚC NGOÀI CỦA NGƯỜI CƯ TRÚ, TÀI KHOẢN TIỀN GỬI NGOẠI TỆ VÀ TÀI KHOẢN TIỀN GỬI ĐỒNG VIỆT NAM CỦA NGƯỜI KHÔNG CƯ TRÚ
+
+1. Việc mở và sử dụng tài khoản tiền gửi ngoại tệ ở trong nước và ở nước ngoài của người cư trú, tài khoản tiền gửi ngoại tệ và tài khoản tiền gửi Đồng Việt Nam của người không cư trú thực hiện theo quy định tại Chương I, Chương III, Chương IV, Chương V Phần thứ hai của Thông tư này.
+
+2. Ngân hàng Nhà nước tuỳ theo mức độ nặng nhẹ, tính chất nghiêm trọng của hành vi vi phạm mà quyết định thu hồi giấy phép mở tài khoản tiền gửi ngoại tệ ở nước ngoài đã cấp cho Người cư trú là tổ chức, khi có các hành vi vi phạm sau đây:
+
+a. Thường xuyên không báo cáo tình hình sử dụng tài khoản ngoại tệ ở nước ngoài theo quy định về chế độ báo cáo;
+
+b. Sử dụng ngoại tệ trên tài khoản không đúng mục đích quy định trong giấy phép;
+
+c. Tiếp tục duy trì tài khoản ở nước ngoài sau khi đã hết thời hạn hoạt động ở nước ngoài mà chưa được Thống đốc Ngân hàng Nhà nước chấp thuận.
+
+3. Đối với người cư trú là tổ chức, cá nhân hoạt động và sinh sống ở nước ngoài được mở và sử dụng tài khoản ngoại tệ theo quy định của luật pháp nước sở tại.
+
+Trường hợp khi chấm dứt hoặc hết thời hạn sinh sống và hoạt động ở nước ngoài mà không đóng tài khoản hoặc không chuyển số dư còn lại về nước, hay cố tình để ngoại tệ ở nước ngoài khi chưa được phép của Thống đốc Ngân hàng Nhà nước đều bị coi là hành vi vi phạm về quản lý ngoại hối và bị xử lý theo các quy định hiện hành.
+
+MỤC II. SỔ SÁCH THEO DÕI, HẠCH TOÁN
+
+1. Ngân hàng Nhà nước (Vụ Kế toán tài chính) xây dựng chế độ hạch toán tài khoản tiền gửi ngoại tệ của người cư trú và người không cư trú, tài khoản tiền gửi Đồng Việt Nam của người không cư trú mở tại ngân hàng hoạt động tại Việt Nam theo các nội dung thu - chi quy định trong Thông tư này.
+
+2. Các Ngân hàng trên cơ sở văn bản hướng dẫn về chế độ hạch toán tài khoản tiền gửi ngoại tệ của người cư trú và người không cư trú, tài khoản tiền gửi Đồng Việt Nam của người không cư trú, thực hiện mở sổ sách theo dõi và hạch toán tài khoản cho các đối tượng người cư trú và người không cư trú mở tài khoản tại Ngân hàng mình.
+
+3. Khi mở tài khoản cho khách hàng, các Ngân hàng yêu cầu chủ tài khoản sử dụng ngoại tệ trên tài khoản (thu-chi) theo đúng các quy định của Thông tư này và các quy định pháp luật khác có liên quan.
+
+MỤC III. THỜI HẠN CẤP GIẤY PHÉP MỞ VÀ SỬ DỤNG TÀI KHOẢN TIỀN GỬI NGOẠI TỆ Ở NƯỚC NGOÀI
+
+Trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp pháp, Ngân hàng Nhà nước thực hiện cấp giấy phép hoặc từ chối cấp giấy phép mở tài khoản ngoại tệ ở nước ngoài. Trong trường hợp từ chối cấp giấy phép cho tổ chức và cá nhân xin mở tài khoản, Ngân hàng Nhà nước phải có văn bản trả lời về lý do từ chối không cấp giấy phép.
+
+PHẦN THỨ BA
+
+CÁC GIAO DỊCH VÃNG LAI
+
+Chương I
+
+CHUYỂN NGOẠI TỆ VỀ VIỆT NAM
+
+TỪ CÁC NGUỒN THU VÃNG LAI
+
+MỤC I. ĐỐI VỚI CÁC NGUỒN THU NGOẠI TỆ CHUYỂN KHOẢN
+
+1. Người cư trú là tổ chức có nguồn thu ngoại tệ từ xuất khẩu hàng hoá, dịch vụ hay các nguồn thu từ các giao dịch vãng lai khác ở nước ngoài phải chuyển ngay về nước vào tài khoản tiền gửi ngoại tệ của mình mở tại các Ngân hàng được phép đang hoạt động tại Việt Nam (Các khoản chuyển tiền bằng điện, bằng thư và các hình thức chuyển tiền khác thực hiện theo thông lệ quốc tế. Các khoản chuyển tiền thanh toán bằng Thư tín dụng (L/C) thực hiện theo thời hạn ghi trong hợp đồng).
+
+2. Người cư trú là tổ chức thuộc đối tượng được Ngân hàng Nhà nước cấp giấy phép cho mở và sử dụng tài khoản ngoại tệ ở nước ngoài, khi có nguồn thu ngoại tệ ở nước ngoài được để lại một phần hay toàn bộ số ngoại tệ thu được và gửi vào tài khoản ngoại tệ mở ở nước ngoài để sử dụng vào các mục đích đã được quy định trong Giấy phép do Ngân hàng Nhà nước cấp. Số ngoại tệ còn lại phải chuyển về nước.
+
+MỤC II. ĐỐI VỚI THU NGOẠI TỆ TIỀN MẶT
+
+1. Người cư trú là tổ chức được Ngân hàng Nhà nước cho phép bán hàng và cung cấp dịch vụ thu ngoại tệ tiền mặt như các cửa hàng bán hàng miễn thuế, các đơn vị cung cấp dịch vụ cho Người không cư trú ở khu cách ly tại các cửa khẩu quốc tế, kho ngoại quan, thu các loại thuế, phí bằng ngoại tệ tiền mặt phải nộp số ngoại tệ tiền mặt thu được vào tài khoản tiền gửi ngoại tệ của mình tại Ngân hàng được phép trong thời hạn 7 (bảy) ngày làm việc kể từ ngày thu được ngoại tệ tiền mặt (Trừ số ngoại tệ được để lại tồn quỹ sử dụng hàng ngày, mức ngoại tệ tiền mặt để lại sử dụng hàng ngày do thủ trưởng đơn vị cùng ngân hàng quản lý tài khoản thoả thuận).
+
+2. Người cư trú là tổ chức có nguồn thu ngoại tệ tiền mặt ở nước ngoài từ việc xuất khẩu hàng hoá, cung cấp dịch vụ, tổ chức hội chợ, triển lãm... phải nộp số ngoại tệ tiền mặt thu được vào tài khoản tiền gửi ngoại tệ của mình tại Ngân hàng đưọc phép trong thời hạn 7 (bảy) ngày làm việc kể từ ngày ngoại tệ được mang về nước có xác nhận của Hải quan cửa khẩu.
+
+Chương II
+
+NGHĨA VỤ BÁN NGOẠI TỆ CỦA NGƯỜI CƯ TRÚ LÀ TỔ CHỨC
+
+1. Người cư trú là tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh được Chính phủ Việt Nam bảo đảm hỗ trợ cân đối ngoại tệ, chi nhánh công ty nước ngoài, nhà thầu nước ngoài, nhà thầu liên doanh với nước ngoài, cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam phải bán số ngoại tệ thu được từ các nguồn thu vãng lai cho các ngân hàng được phép theo tỷ lệ do Thủ tướng Chính phủ quy định trong từng thời kỳ.
+
+2. Tỷ lệ và thời hạn thực hiện nghĩa vụ bán ngoại tệ từ các nguồn thu vãng lai của Người cư trú là tổ chức thực hiện theo Quyết định của Thủ tướng Chính phủ trong từng thời kỳ và các văn bản hướng dẫn của Ngân hàng nhà nước.
+
+3. Doanh nghiệp có vốn đầu tư nước ngoài, bên nước ngoài tham gia hợp đồng hợp tác kinh doanh không được Chính phủ Việt Nam bảo đảm cân đối ngoại tệ không phải bán số ngoại tệ thu được từ các nguồn thu vãng lai và phải tự đảm bảo cân đối về nhu cầu ngoại tệ cho hoạt động kinh doanh của mình.
+
+Chương III
+
+QUYỀN MUA NGOẠI TỆ CỦA TỔ CHỨC
+
+MỤC I. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ TỔ CHỨC
+
+1. Người cư trú là tổ chức kinh tế Việt Nam, chi nhánh công ty nước ngoài, nhà thầu nước ngoài, nhà thầu liên doanh với nước ngoài, tổ chức tín dụng ở Việt Nam, cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị-xã hội, tổ chức xã hội, tổ chức xã hội-nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam được mua ngoại tệ tại các ngân hàng được phép để đáp ứng cho các nhu cầu thanh toán vãng lai hay thanh toán cho các giao dịch được phép khác trên cơ sở xuất trình các giấy tờ hợp lệ có liên quan.
+
+2. Người cư trú là doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh được mua ngoại tệ tại các ngân hàng được phép để đáp ứng cho các nhu cầu thanh toán vãng lai hay thanh toán cho các giao dịch được phép khác theo quy định của pháp luật về quản lý ngoại hối trong lĩnh vực đầu tư nước ngoài tại Việt Nam.
+
+3. Quyền mua ngoại tệ của người cư trú là tổ chức tại điểm 1, điểm 2 nói trên thực hiện theo quy định riêng của Thủ tướng Chính phủ và các văn bản hướng dẫn của Ngân hàng Nhà nước
+
+MỤC II. ĐỐI VỚI NGƯỜI KHÔNG CƯ TRÚ LÀ TỔ CHỨC
+
+Người không cư trú là cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện tổ chức quốc tế, cơ quan đại diện các tổ chức liên chính phủ, cơ quan đại diện các tổ chức phi chính phủ, lực lượng vũ trang và tổ chức chính trị, tổ chức chính trị-xã hội, tổ chức xã hội, tổ chức xã hội nghề nghiệp của nước ngoài, văn phòng đại diện của tổ chức kinh tế nước ngoài và văn phòng đại diện tổ chức tín dụng nước ngoài hoạt động tại Việt Nam có các nguồn thu bằng đồng Việt Nam từ việc cấp Visa, thu các loại phí hay từ việc bán ngoại tệ cho các tổ chức tín dụng và các nguồn thu bằng đồng Việt Nam được pháp luật Việt Nam cho phép thì được mua ngoại tệ tại các ngân hàng được phép. Khi mua và chuyển ngoại tệ ra nước ngoài người không cư trú là tổ chức phải gửi cho Ngân hàng được phép các loại giấy tờ sau đây:
+
+1. Đơn xin mua ngoại tệ trong đó nói rõ mục đích, nhu cầu mua ngoại tệ;
+
+2. Các giấy tờ có liên quan chứng minh nguồn Đồng Việt Nam thu được từ các nguồn thu được pháp luật Việt Nam cho phép;
+
+3. Trong trường hợp chấm dứt hoạt động hay giải thể về nước trước thời hạn, khi mua ngoại tệ phải có văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành nghĩa vụ tài chính đối với Nhà nước Việt Nam;
+
+Sau khi người không cư trú là tổ chức đã xuất trình đầy đủ cho Ngân hàng được phép những giấy tờ cần thiết nói trên, Ngân hàng được phép có trách nhiệm kiểm tra tính hợp pháp của các giấy tờ và thực hiện bán ngoại tệ cho người không cư trú và chuyển ngoại tệ ra nước ngoài theo các thủ tục quy định hiện hành.
+
+Chương IV
+
+MUA, CHUYỂN NGOẠI TỆ RA NƯỚC NGOÀI CỦA CÁ NHÂN
+
+MỤC I. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CÔNG DÂN VIỆT NAM
+
+1. Công dân Việt Nam có ngoại tệ được chuyển, mang ra nước ngoài sử dụng vào các mục đích: đi du lịch, học tập, công tác, thăm viếng, chữa bệnh, trả tiền hội viên và các loại phí khác cho nước ngoài hoặc trợ cấp, thừa kế cho gia đình và người thân ở nước ngoài theo các quy định sau đây:
+
+a. Chuyển ngoại tệ ra nước ngoài chi phí cho bản thân, gia đình và người thân đi du lịch, học tập, công tác, thăm viếng, chữa bệnh, trả tiền hội viên và các loại phí khác cho nước ngoài:
+
+Trường hợp chuyển ngoại tệ từ số dư trên tài khoản tiền gửi ngoại tệ mở tại Ngân hàng được phép, Công dân Việt Nam phải gửi hồ sơ cho Ngân hàng được phép (Ngân hàng thực hiện việc chuyển tiền) để xem xét chuyển ngoại tệ ra nước ngoài.
+
+Trường hợp chuyển ngoại tệ từ các nguồn khác, Công dân Việt Nam phải gửi hồ sơ cho Ngân hàng Nhà nước (vụ Quản lý Ngoại hối) để xem xét, phê duyệt.
+
+Hồ sơ gửi Ngân hàng được phép (Ngân hàng chuyển tiền) hay gửi Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) tuỳ theo từng trường hợp nói trên bao gồm:
+
+- Đơn xin chuyển ngoại tệ ra nước ngoài (Phụ lục 8);
+
+- Giấy tờ hợp pháp chứng minh các nhu cầu thực tế phải chi ngoại tệ ở nước ngoài như thông báo của trường học, giấy xác nhận viện phí của bệnh viện, giấy báo thu phí, lệ phí của nước ngoài và các loại phí khác;
+
+- Bản sao công chứng quyết định cử ra nước ngoài công tác, học tập (đối với người được cử đi công tác, học tập) hoặc các giấy tờ có liên quan khác của cơ quan có thẩm quyền cho phép xuất cảnh.
+
+Ngân hàng được phép (Ngân hàng chuyển tiền) kiểm tra tính hợp pháp của các loại giấy tờ sử dụng vào các mục đích nói trên và thực hiện chuyển ngoại tệ ra nước ngoài theo địa chỉ mà người chuyển ngoại tệ yêu cầu. Đối với trường hợp do Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) phê duyệt thì phải có Giấy phép của Ngân hàng Nhà nước. Trên cơ sở giấy phép của Ngân hàng Nhà nước, các Ngân hàng được phép thực hiện việc chuyển ngoại tệ ra nước ngoài cho người có yêu cầu.
+
+Việc chuyển ngoại tệ ra nước ngoài cho gia đình và người thân nói trong Thông tư này là việc chuyển cho những người có quan hệ: bố, mẹ, vợ, chồng, con, anh, chị, em ruột.
+
+b. Chuyển ngoại tệ ra nước ngoài vào các mục đích trợ cấp, thừa kế cho gia đình và người thân ở nước ngoài:
+
+Công dân Việt Nam có nhu cầu chuyển ngoại tệ ra nước ngoài để trợ cấp, thừa kế cho gia đình và người thân ở nước ngoài phải được sự chấp thuận bằng văn bản của Ngân hàng Nhà nước.
+
+Khi có nhu cầu chuyển ngoại tệ ra nước ngoài vào các mục đích nói trên Công dân Việt Nam phải gửi hồ sơ đến Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối). Hồ sơ bao gồm các loại giấy tờ quy định tại điểm 1. (a) nói trên, ngoài ra phải có xác nhận của chính quyền địa phương về quan hệ gia đình, thân nhân hoặc văn bản của cơ quan có thẩm quyền về việc chia thừa kế.
+
+Mức ngoại tệ được chuyển ra nước ngoài để trợ cấp khó khăn cho gia đình và người thân ở nước ngoaì mỗi năm tối đa khong quá 5.000 (năm nghìn) đô la Mỹ hay ngoại tệ khác có giá trị tương đương.
+
+Mức ngoại tệ được chuyển ra nước ngoài cho mục đích thừa kế mỗi năm tối đa không quá 10.000 (mười nghìn) Đô la Mỹ hay ngoại tệ khác có giá trị tương đương.
+
+Số ngoại tệ còn lại (nếu có) được gửi tại Ngân hàng được phép và được chuyển dần ra nước ngoài, mỗi năm không quá mức quy định trên.
+
+Số ngoại tệ được chuyển ra nước ngoài theo mức quy định trên có thể được chuyển một lần hoặc nhiều lần tuỳ theo nhu cầu của người chuyển ngoại tệ.
+
+Ngân hàng được phép chỉ thực hiện chuyển ngoại tệ ra nước ngoài cho các mục đích trợ cấp, thừa kế cho gia đình và người thân ở nước ngoài sau khi đã có văn bản chấp thuận của Ngân hàng Nhà nước.
+
+c. Công dân Việt Nam có nhu cầu mang ngoại tệ tiền mặt ra nước ngoài (trên mức ngoại tệ phải khai báo hải quan cửa khẩu) sử dụng vào các mục đích theo quy định tại điểm 1.(a), 1.(b) nói trên thì được Ngân hàng cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài theo quy định sau đây:
+
+- Ngoại tệ tiền mặt mang ra nước ngoài là ngoại tệ rút từ tài khoản tiền gửi ngoại tệ cá nhân mở tại Ngân hàng được phép: phải có giấy phép mang ngoại tệ tiền mặt ra nước ngoài do Ngân hàng được phép cho rút ngoại tệ tiền mặt cấp (theo mẫu Giấy phép tại Phụ lục 9).
+
+- Ngoại tệ tiền mặt mang ra nước ngoài không phải là ngoại tệ rút từ tài khoản tiền gửi ngoại tệ cá nhân: phải có giấy phép mang ngoại tệ tiền mặt ra nước ngoài do Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) cấp.
+
+2. Công dân Việt Nam có nhu cầu ngoại tệ để chuyển, mang ra nước ngoài cho các mục đích theo quy định tại điểm 1 nói trên, được liên hệ với các Ngân hàng được phép để mua ngoại tệ sau khi gửi cho Ngân hàng đơn xin mua ngoại tệ (Phụ lục 8) và các giấy tờ có liên quan (Bộ hồ sơ xin mua ngoại tệ cũng bao gồm các loại giấy tờ như xin chuyển ngoại tệ ra nước ngoài quy định tại điểm 1.(a), 1.(b) nói trên).
+
+3. Thời hạn để Ngân hàng thực hiện việc chuyển ngoại tệ ra nước ngoài, cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài cho công dân Việt Nam có nhu cầu được quy định tối đa không quá 5 (năm) ngày làm việc kể từ ngày Ngân hàng nhận đầy đủ các giấy tờ hợp pháp liên quan đền việc mua, chuyển, mang ngoại tệ. Trường hợp từ chối, Ngân hàng phải thông báo lý do từ chối cho người có yêu cầu biết.
+
+4. Các Ngân hàng được quyền cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài có trách nhiệm thông báo về mẫu dấu của cơ quan và chữ ký của Tổng giám đốc (Giám đốc) ngân hàng (hoặc người được uỷ quyền ký giấy phép) cho Tổng cục Hải quan và Hải quan cửa khẩu biết để giám sát, quản lý và theo dõi.
+
+MỤC II. ĐỐI VỚI NGƯỜI KHÔNG CƯ TRÚ VÀ NGƯỜI CƯ TRÚ LÀ NGƯỜI NƯỚC NGOÀI
+
+1. Người không cư trú là cá nhân có ngoại tệ trên tài khoản tiền gửi ngoại tệ tại các Ngân hàng được chuyển, mang ngoại tệ ra nước ngoài theo quy định sau đây:
+
+a. Chuyển qua Ngân hàng: Thực hiện theo các thủ tục về chuyển tiền do Ngân hàng chuyển tiền quy định.
+
+b. Mang ngoại tệ tiền mặt theo người khi xuất cảnh: người không cư trú được phép rút ngoại tệ tiền mặt từ tài khoản tiền gửi ngoại tệ để mang theo người khi xuất cảnh. Nếu số lượng ngoại tệ tiền mặt mang theo người vượt quá mức quy định phải khai báo Hải quan cửa khẩu thì phải có giấy phép mang ngoại tệ ra nước ngoài do Ngân hàng cho rút ngoại tệ tiền mặt cấp (theo mẫu tại Phụ lục 9).
+
+c. Khi hết thời hạn làm việc tại Việt Nam hoặc kết thúc hợp đồng lao động ký với phía Việt Nam có nhu cầu chuyển ra nước ngoài toàn bộ số thu nhập bằng ngoại tệ trong thời gian ở Việt Nam thì khi làm thủ tục chuyển tiền phải xuất trình cho Ngân hàng chuyển tiền văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành các nghĩa vụ tài chình ở Việt Nam.
+
+d. Khi có nhu cầu mang ra nước ngoài ngoại tệ tiền mặt từ nguồn thu nhập khác được pháp luật Việt Nam cho phép (không phải rút ra từ tài khoản tiền gửi ngoại tệ mở tại Ngân hàng) mà số lượng ngoại tệ tiền mặt trên mức phải khai báo Hải quan cửa khẩu, phải được sự chấp thuận bằng văn bản của Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+2. Người không cư trú là cá nhân có các khoản thu nhập bằng đồng Việt Nam từ lương, thưởng, phu cấp hoặc các nguồn thu khác bằng đồng Việt Nam được pháp luật Việt Nam cho phép thì được sử dụng số đồng Việt Nam đó để mua ngoại tệ tại các Ngân hàng được phép và được chuyển ngoại tệ ra nước ngoài khi có nhu cầu.
+
+Khi hết thời hạn ở Việt Nam hoặc kết thúc hợp đồng lao động ký với phía Việt Nam, Người không cư trú có nhu cầu chuyển toàn bộ số ngoại tệ mua được ra nước ngoài, phải xuất trình cho Ngân hàng chuyển tiền văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành các nghĩa vụ tài chính ở Việt Nam.
+
+Việc mua ngoại tệ chuyển ra nước ngoài được thực hiện bằng chuyển khoản qua Ngân hàng hoặc được mua ngoại tệ tiền mặt. Trường hợp mua ngoại tệ tiền mặt với số lượng trên mức phải khai báo hải quan cửa khẩu thì phải có giấy phép mang ngoại tệ ra nước ngoài do Ngân hàng bán ngoại tệ cấp (theo mẫu Giấy phép tại Phụ lục 9)
+
+3. Người cư trú là người nước ngoài làm việc trong các tổ chức ở Việt Nam có ngoại tệ trên tài khoản tiền gửi ngoại tệ mở tại Ngân hàng được chuyển ra nước ngoài dưới các hình thức chuyển khoản qua Ngân hàng hoặc rút ngoại tệ tiền mặt mang theo người ra nước ngoài khi xuất cảnh.
+
+a. Người cư trú là người nước ngoài hết thời hạn làm việc tại Việt Nam hoặc kết thúc hợp đồng lao động ký với phía Việt Nam có nhu cầu chuyển ra nước ngoài toàn bộ số thu nhập bằng ngoại tệ trong thời gian ở Việt Nam phải xuất trình cho Ngân hàng chuyển tiền văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành các nghĩa vụ tài chính ở Việt Nam.
+
+Ngân hàng chuyển tiền kiểm tra tính hợp pháp của các loại giấy tờ trên làm thủ tục chuyển ngoại tệ ra nước ngoài theo địa chỉ yêu cầu của người chuyển tiền.
+
+b. Người cư trú là người nước ngoài có tài khoản tiền gửi ngoại tệ tại Ngân hàng khi có nhu cầu được rút ngoại tệ tiền mặt mang theo người khi xuất cảnh. Nếu số lượng ngoại tệ vượt quá mức phải khai báo Hải quan cửa khẩu thì phải có giấy phép mang ngoại tệ ra nước ngoài của Ngân hàng cho rút ngoại tệ tiền mặt cấp (theo mẫu Giấy phép tại Phụ lục 9).
+
+Trường hợp mang ngoại tệ tiền mặt mà số ngoại tệ tiền mặt này từ các nguồn thu nhập khác được pháp luật Việt Nam cho phép (không phải rút ra từ tài khoản tiền gửi ngoại tệ tại Ngân hàng), có số lượng trên mức phải khai báo Hải quan cửa khẩu thì phải được sự chấp thuận bằng văn bản của Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+c. Người cư trú là người nước ngoài có nhận lương, thưởng, phụ cấp và có các khoản thu nhập hợp pháp khác bằng Đồng Việt Nam được Pháp luật Việt Nam cho phép khi có nhu cầu chuyển đổi thành ngoại tệ thì được mua ngoại tệ tại các Ngân hàng được phép để chuyển ra nước ngoài.
+
+Ngân hàng được phép bán ngoại tệ và thực hiện các thủ tục chuyển, mang ngoại tệ theo như các quy định tại điểm 3.(a), 3.(b) nói trên.
+
+4. Ngân hàng cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài cho người không cư trú hoặc cho người cư trú là người nước ngoài rút ngoại tệ tiền mặt từ tài khoản tiền gửi ngoại tệ mở tại Ngân hàng phải có trách nhiệm thông báo về mẫu dấu của cơ quan và chữ ký của Tổng giám đốc (Giám đốc) ngân hàng (hoặc người được uỷ quyền ký giấy phép) cho Tổng cục Hải quan và Hải quan cửa khẩu biết để giám sát, quản lý và theo dõi.
+
+Chương V
+
+MANG NGOẠI TỆ TIỀN MẶT, ĐỒNG VIỆT NAM BẰNG TIỀN MẶT VÀ VÀNG TIÊU CHUẨN QUỐC TẾ KHI XUẤT, NHẬP CẢNH
+
+1. Căn cứ vào tình hình thực tế trong từng thời kỳ, Thống Đốc Ngân hàng Nhà nước qui định mức ngoại tệ tiền mặt, đồng Việt Nam bằng tiền mặt và vàng tiêu chuẩn quốc tế mà cá nhân được mang ra, mang vào khi xuất nhập cảnh không phải khai báo Hải quan cửa khẩu và hướng dẫn thực hiện các quy định về việc mang ngoại tệ tiền mặt, đồng Việt Nam bằng tiền mặt và vàng tiêu chuẩn quốc tế khi xuất nhập cảnh.
+
+2. Cá nhân khi nhập cảnh vào Việt Nam có mang theo ngoại tệ tiền mặt, đồng Việt Nam bằng tiền mặt, vàng tiêu chuẩn quốc tế vượt mức quy định của Thống đốc Ngân hàng Nhà nước phải làm thủ tục khai báo Hải quan tại cửa khẩu. Đối với cá nhân là người cư trú muốn nộp ngoại tệ tiền mặt vào tài khoản tiền gửi ngoại tệ của mình mở tại các ngân hàng được phép thì phải có xác nhận của Hải quan cửa khẩu về số ngoại tệ tiền mặt mang từ nước ngoài vào. Đối với cá nhân là người không cư trú được nộp ngoại tệ tiền mặt vào tài khoản tiền gửi ngoại tệ của mình với số lượng ngoại tệ dưới mức phải khai báo Hải quan; Trường hợp nộp ngoại tệ trên mức phải khai báo hải quan thì phải có xác nhận Hải quan cửa khẩu về số ngoại tệ mang từ nước ngoài vào hoặc các giấy tờ chứng minh nguồn thu hợp pháp tại Việt Nam.
+
+3. Cá nhân khi xuất cảnh ra nước ngoài có mang theo ngoại tệ tiền mặt, Đồng Việt Nam bằng tiền mặt và vàng tiêu chuẩn quốc tế vượt mức quy định phải khai báo Hải quan hoặc vượt quá số lượng đã mang vào có khai báo Hải quan khi nhập cảnh thì phải có giấy phép của Ngân hàng Nhà nước.
+
+4. Cá nhân mang ngoại tệ tiền mặt, Đồng Việt Nam bằng tiền mặt và vàng tiêu chuẩn quốc tế khi xuất nhập cảnh trong từng thời kỳ thực hiện theo quy định riêng của Thống Đốc Ngân hàng Nhà nước.
+
+5. Cá nhân khi xuất nhập cảnh Việt Nam có mang theo các loại công cụ thanh toán và các loại giấy tờ có giá khác bằng ngoại tệ hoặc bằng Đồng Việt Nam không phải là tiền mặt không phải làm thủ tục khai báo Hải quan cửa khẩu.
+
+PHẦN THỨ TƯ
+
+CÁC GIAO DỊCH VỐN
+
+Chương I
+
+CHUYỂN NGUỒN THU NGOẠI TỆ VỀ VIỆT NAM
+
+TỪ CÁC GIAO DỊCH VỐN
+
+Người cư trú là tổ chức có ngoại tệ thu được từ các giao dịch vốn ở nước ngoài như vốn góp (vốn pháp định, vốn tham gia hợp đồng hợp tác kinh doanh và các hình thức đầu tư trực tiếp ra nước ngoài khác), vốn vay nước ngoài, thu hồi vốn cho vay nước ngoài (kể cả hình thức phát hành trái phiếu quốc tế) phải chuyển toàn bộ về Việt Nam và gửi vào tài khoản ngoại tệ mở tại các Ngân hàng được phép theo đúng tiến độ và thời hạn đã được cơ quan có thẩm quyền phê duyệt.
+
+Người cư trú là tổ chức có ngoại tệ thu được từ các giao dịch vốn ở nước ngoài nhưng có nhu cầu để lại ở nước ngoài chưa chuyển về nước theo quy định nói trên (kể cả việc chưa chuyển một phần hoặc chuyển không đúng tiến độ) phải được sự chấp thuận bằng văn bản của Ngân hàng Nhà nước.
+
+Việc bán ngoại tệ thu từ các giao dịch vốn cho các ngân hàng được phép thực hiện trên cơ sở thoả thuận. Ngoại tệ thu được từ các giao dịch vốn gửi trên tài khoản tiền gửi ngoại tệ được sử dụng vào các mục đích theo quy định tại Mục I Chương I Phần thứ hai của Thông tư này.
+
+Chương II
+
+QUẢN LÝ VAY VÀ TRẢ NỢ, CHO VAY
+
+VÀ THU HỒI NỢ NƯỚC NGOÀI
+
+Việc quản lý các hoạt động vay và trả nợ nước ngoài, cho vay và thu hồi nợ nước ngoài thực hiện theo quy định riêng của pháp luật.
+
+Việc chuyển tiền để thực hiện vay và trả nợ, cho vay và thu hồi nợ nước ngoài của tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức tín dụng ở Việt Nam phải thực hiện qua các Ngân hàng được phép và chỉ được thực hiện khi đã đăng ký với Ngân hàng Nhà nước.
+
+Chương III
+
+ĐẦU TƯ TRỰC TIẾP
+
+MỤC I. ĐẦU TƯ TRỰC TIẾP VÀO VIỆT NAM
+
+1. Nhà đầu tư nước ngoài được khuyến khích chuyển vốn đầu tư bằng ngoại hối từ nước ngoài vào Việt Nam theo quy định của Luật đầu tư nước ngoài tại Việt Nam.
+
+2. Nhà đầu tư nước ngoài phải chuyển vốn vào tài khoản mở tại Ngân hàng được phép hoạt động tại Việt Nam theo đúng tiến độ được quy định trong Hợp đồng liên doanh, hợp đồng hợp tác kinh doanh hoặc điều lệ của doanh nghiệp đã được cơ quan có thẩm quyền phê duyệt và được sử dụng vốn vào đúng mục đích quy định trong giấy phép đầu tư đã được cơ quan có thẩm quyền của Việt Nam cấp.
+
+3. Trong quá trình hoạt động, chậm nhất là ngày 15/1 và 15/7 hàng năm, Doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia Hợp đồng hợp tác kinh doanh định kỳ 6 tháng phải báo cáo với Ngân hàng Nhà nước (Vụ Quản lý ngoại hối và Chi nhánh Ngân hàng Nhà nước Tỉnh, Thành phố trên địa bàn) về tình hình thực hiện vốn đầu tư (bằng tài sản, bằng tiền) và vốn tái đầu tư, chuyển lợi nhuận về nước.
+
+4. Nhà đầu tư nước ngoài được chuyển lợi nhuận, doanh thu được chia (đối với Hợp đồng hợp tác kinh doanh trên cơ sở chia doanh thu) và thu nhập hợp pháp khác ra nước ngoài sau khi đã hoàn thành nghĩa vụ tài chính với Nhà nước Việt Nam.
+
+a. Khi thực hiện việc chuyển lợi nhuận, doanh thu được chia và thu nhập hợp pháp khác ra nước ngoài, nhà đầu tư nước ngoài phải có trách nhiệm xuất trình cho các Ngân hàng được phép các loại giấy tờ sau:
+
+- Bản sao có công chứng báo cáo tài chính có xác nhận của Kiểm toán;
+
+- Biên bản của Hội đồng quản trị (hoặc Ban quản lý dự án đối với Hợp đồng hợp tác kinh doanh) về việc phân chia lợi nhuận (hoặc chia doanh thu);
+
+- Văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành nghĩa vụ tài chính đối với Nhà nước Việt Nam;
+
+b. Khi chuyển vốn pháp định, vốn tái đầu tư, vốn thực hiện hợp đồng hợp tác kinh doanh ra nước ngoài, Nhà đầu tư nước ngoài có trách nhiệm xuất trình cho Ngân hàng được phép các loại giấy tờ sau:
+
+- Bản sao có công chứng Báo cáo thanh lý Doanh nghiệp hoặc Hợp đồng hợp tác kinh doanh được chuẩn y của cơ quan cấp giấy phép đầu tư;
+
+- Văn bản của cơ quan thuế có thẩm quyền xác nhận đã hoàn thành nghĩa vụ tài chính với Nhà nước Việt Nam.
+
+Trường hợp số tiền chuyển ra cao hơn số vốn Pháp định, vốn thực hiện Hợp đồng hợp tác kinh doanh và vốn tái đầu tư, thì số tiền tăng thêm chỉ được chuyển ra khi có xác nhận của cơ quan cấp giấy phép đầu tư.
+
+c. Doanh nghiệp có vốn đầu tư nước ngoài và bên nước ngoài tham gia hợp đồng hợp tác kinh doanh được phép chuyển ngoại tệ ra nước ngoài để trả nợ nước ngoài bao gồm gốc, lãi và các loại phí theo Hợp đồng vay ký kết với Bên cho vay nước ngoài. Việc chuyển ngoại tệ ra nước ngoài để trả nợ phải thực hiện theo đúng các quy định của pháp luật về vay, trả nợ nước ngoài.
+
+Việc mua ngoại tệ để chuyển lợi nhuận, doanh thu được chia, vốn đầu tư, vốn tái đầu tư của Nhà đầu tư ra nước ngoài được thực hiện theo quy định tại Mục I chương III Phần thứ ba thông tư này.
+
+MỤC II. ĐẦU TƯ TRỰC TIẾP RA NƯỚC NGOÀI
+
+1. Người cư trú là doanh nghiệp được thành lập và hoạt động theo pháp luật Việt Nam được phép thực hiện đầu tư trực tiếp ra nước ngoài (dưới đây gọi là Nhà đầu tư Việt Nam), được chuyển ngoại tệ trên tài khoản tiền gửi ngoại tệ của mình ra nước ngoài để đầu tư theo quy định của pháp luật Việt Nam về đầu tư trực tiếp ra nước ngoài.
+
+Nhà đầu tư Việt Nam phải mở một tài khoản tiền gửi ngoại tệ tại một ngân hàng được phép ở Việt Nam và đăng ký số hiệu tài khoản, ngân hàng mở tài khoản với chi nhánh Ngân hàng Nhà nước Tỉnh, thành phố trên địa bàn (nơi Nhà đầu tư Việt Nam có vốn đầu tư ra nước ngoài đặt trụ sở chính), thông qua tài khoản này thực hiện các giao dịch chuyển tiền ra nước ngoài để góp vốn đầu tư hoặc chuyển vốn đầu tư, vốn tái đầu tư, chuyển lợi nhuận, doanh thu được chia và các thu nhập hợp pháp khác ở nước ngoài về nước.
+
+2. Nhà đầu tư Việt Nam phải đăng ký với Ngân hàng Nhà nước Tỉnh, Thành phố trên địa bàn và thực hiện việc chuyển vốn đầu tư (bằng tiền và tài sản) ra nước ngoài theo đúng tiến độ góp vốn ghi trong điều lệ hoặc Hợp đồng liên doanh, hợp đồng hợp tác kinh doanh đã được cơ quan có thẩm quyền của nước tiếp nhận đầu tư phê duyệt.
+
+Nhà đầu tư Việt Nam được phép dùng ngoại tệ có từ nguồn thu xuất khẩu hàng hoá, dịch vụ để chuyển ra nước ngoài góp vốn đầu tư, trường hợp chuyển đổi đồng Việt Nam ra ngoại tệ để góp vốn đầu tư ra nước ngoài phải được phép của Ngân hàng Nhà nước.
+
+3. Hàng năm, Nhà đầu tư Việt Nam ở nước ngoài phải chuyển lợi nhuận và các khoản thu nhập hợp pháp khác về nước trong thời gian chậm nhất là 6 tháng kể từ khi kết thúc năm tài chính của nước tiếp nhận đầu tư.
+
+Khi kết thúc dự án, giải thể trước hạn, hoặc không triển khai được dự án, Nhà đầu tư Việt Nam phải chuyển vốn đầu tư, vốn tái đầu tư và các khoản thu được sau khi thanh lý về nước trong thời hạn 6 tháng kể từ ngày kết thúc việc thanh lý.
+
+Khi kết thúc năm tài chính hoặc kết thúc hay chấm dứt đầu tư tại nước ngoài, Nhà đầu tư Việt Nam phải báo cáo cho Ngân hàng Nhà nước về tình hình chuyển vốn, lợi nhuận và các thu nhập hợp pháp khác về Việt Nam.
+
+4. Trường hợp Nhà đầu tư Việt Nam sử dụng lợi nhuận để tái đầu tư hoặc kéo dài thời hạn đầu tư ở nước ngoài, phải đăng ký với Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố (nơi Nhà đầu tư Việt Nam mở tài khoản) về tình hình sử dụng lợi nhuận được chia để tái đầu tư hoặc kéo dài thời hạn đầu tư.
+
+Chương IV
+
+ĐẦU TƯ VÀO CÁC GIẤY TỜ CÓ GIÁ
+
+MỤC I. ĐẦU TƯ VÀO GIẤY TỜ CÓ GIÁ PHÁT HÀNH TẠI VIỆT NAM
+
+Người không cư trú được đầu tư vào các giấy tờ có giá bằng ngoại tệ được phép phát hành tại Việt Nam. Điều kiện, thủ tục đầu tư vào các giấy tờ có giá thực hiện theo các quy định của pháp luật về chứng khoán và các quy định khác có liên quan của pháp luật.
+
+MỤC II. ĐẦU TƯ VÀO CÁC GIẤY TỜ CÓ GIÁ DO NGƯỜI KHÔNG CƯ TRÚ PHÁT HÀNH TẠI NƯỚC NGOÀI
+
+Khi được Ngân hàng Nhà nước chấp thuận, người cư trú được đầu tư vào các giấy tờ có giá bằng ngoại tệ do người không cư trú phát hành tại nước ngoài.
+
+Chương V
+
+QUẢN LÝ NGOẠI HỐI TRONG TRƯỜNG HỢP ĐỊNH CƯ
+
+MỤC I. ĐỐI VỚI NGƯỜI CƯ TRÚ LÀ CÔNG DÂN VIỆT NAM ĐỊNH CƯ Ở NƯỚC NGOÀI
+
+1. Công dân Việt Nam có ngoại tệ từ nước ngoài chuyển vào qua ngân hàng, mang theo người khi nhập cảnh vào Việt Nam có xác nhận của Hải quan cửa khẩu và các nguồn thu ngoại tệ hợp pháp khác tại Việt Nam hiện đang gửi trên tài khoản tiền gửi ngoại tệ cá nhân, gửi tiết kiệm ngoại tệ tại Ngân hàng hay tự cất giữ, khi được phép xuất cảnh định cư ở nước ngoài được chuyển, mang ra nước ngoài số ngoại tệ nói trên để phục vụ cho cuộc sống định cư ở nước ngoài. Việc chuyển, mang ngoại tệ ra nước ngoài thực hiện theo các quy định sau:
+
+a. Chuyển ngoại tệ qua ngân hàng ra nước ngoài:
+
+Khi chuyển ngoại tệ ra nước ngoài, Công dân Việt Nam phải gửi đến Ngân hàng được phép (Ngân hàng thực hiện việc chuyển ngoại tệ) các loại giấy tờ hợp pháp sau đây:
+
+- Đơn xin chuyển ngoại tệ (Phụ lục 8);
+
+- Bản sao có công chứng Quyết định của cơ quan có thẩm quyền cho phép xuất cảnh để định cư ở nước ngoài;
+
+- Hộ chiếu có thị thực nhập cảnh (đối với những nước có thị thực xuất nhập cảnh);
+
+- Bản sao công chứng các giấy tờ chứng minh ngoại tệ từ nước ngoài chuyển vào hay thu nhập hợp pháp tại Việt Nam như tờ khai Hải quan có xác nhận của Hải quan cửa khẩu về số ngoại tệ mang vào khi nhập cảnh, giấy báo ngoại tệ từ nước ngoài chuyển về và các loại giấy tờ khác xác nhận ngoại tệ có được từ nguồn thu nhập được pháp luật Việt Nam cho phép.
+
+Các Ngân hàng có trách nhiệm kiểm tra tính hợp pháp của các loại giấy tờ nói trên để thực hiện việc chuyển ngoại tệ qua ngân hàng ra nước ngoài cho công dân Việt Nam được phép xuất cảnh để định cư ở nước ngoài theo chế độ chuyển ngoại tệ hiện hành.
+
+b. Mang ngoại tệ tiền mặt ra nước ngoài:
+
+Công dân Việt Nam được phép xuất cảnh để định cư ở nước ngoài nếu mang theo người ngoại tệ tiền mặt dưới mức phải khai báo Hải quan cửa khẩu thì không cần phải có giấy phép mang ngoại tệ tiền mặt ra nước ngoài do Ngân hàng cấp.
+
+Công dân Việt Nam được phép xuất cảnh để định cư ở nước ngoài có nhu cầu mang ngoại tệ tiền mặt trên mức phải khai báo Hải quan cửa khẩu thì việc xin cấp giấy phép mang ngoại tệ tiền mặt thực hiện theo quy định sau đây:
+
+- Đối với ngoại tệ tiền mặt rút từ tài khoản tiền gửi ngoại tệ cá nhân mở tại Ngân hàng: phải có giấy phép mang ngoại tệ tiền mặt ra nước ngoài do Ngân hàng được phép cho rút ngoại tệ tiền mặt cấp:
+
+Công dân Việt Nam phải gửi cho Ngân hàng được phép nơi rút ngoại tệ các loại giấy tờ sau:
+
++ Đơn xin mang ngoại tệ ra nước ngoài (Phụ lục 8);
+
++ Bản sao có công chứng Quyết định của cơ quan có thẩm quyền cho phép xuất cảnh định cư ở nước ngoài;
+
++ Hộ chiếu đã có thị thực nhập cảnh (đối với những nước có thị thực xuất nhập cảnh);
+
+Các Ngân hàng có trách nhiệm kiểm tra tính hợp pháp của các loại giấy tờ nói trên thực hiện việc cấp giấy phép mang ngoại tệ tiền mặt (theo mẫu Giấy phép tại phụ lục 9) cho công dân Việt Nam được phép xuất cảnh để định cư ở nước ngoài.
+
+- Đối với ngoại tệ từ nước ngoài chuyển vào hoặc ngoại tệ thu nhập ở trong nước được pháp luật Việt Nam cho phép hiện đang gửi tiết kiệm hay tự cất giữ: phải có giấy phép mang ngoại tệ tiền mặt ra nước ngoài do Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) cấp:
+
+Công dân Việt Nam phải gửi cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) các loại giấy tờ sau:
+
++ Đơn xin mang ngoại tệ ra nước ngoài (Phụ lục 8);
+
++ Bản sao có công chứng Quyết định của cơ quan có thẩm quyền cho phép xuất cảnh định cư ở nước ngoài;
+
++ Hộ chiếu đã có thị thực nhập cảnh (đối với những nước có thị thực xuất nhập cảnh);
+
++ Bản sao công chứng các giấy tờ chứng minh ngoại tệ từ nước ngoài chuyển vao hay thu nhập hợp pháp tại Việt Nam như tờ khai Hải quan có xác nhận của Hải quan cửa khẩu về số ngoại tệ mang vào khi nhập cảnh, giấy báo ngoại tệ từ nước ngoài chuyển về và các loại giấy tờ khác xác nhận ngoại tệ từ nguồn thu nhập được pháp luật Việt Nam cho phép.
+
+Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) xem xét, thực hiện cấp giấy phép mang ngoại tệ tiền mặt cho Công dân Việt Nam được phép xuất cảnh để định cư ở nước ngoài.
+
+2. Công dân Việt Nam khi được phép xuất cảnh để định cư ở nước ngoài có nguồn đồng Việt Nam được Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) xem xét duyệt cho mua ngoại tệ tại các Ngân hàng được phép để chuyển hoặc mang ra nước ngoài cho mỗi người với số lượng tối đa không quá 15.000 (mười lăm nghìn) đô la Mỹ hay ngoại tệ khác có giá trị tương đương.
+
+Công dân Việt Nam được phép xuất cảnh để định cư có nhu cầu mua ngoại tệ phải gửi hồ sơ xin mua ngoại tệ đến Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm các loại giấy tờ sau đây:
+
+- Đơn xin mua, chuyển ngoại tệ (Phụ lục 8);
+
+- Bản sao có công chứng Quyết định của cơ quan có thẩm quyền cho phép xuất cảnh định cư ở nước ngoài;
+
+- Hộ chiếu đã có thị thực nhập cảnh (đối với những nước có thị thực xuất nhập cảnh);
+
+Trên cơ sở Giấy chấp thuận cho mua ngoại tệ của Ngân hàng Nhà nước, Ngân hàng được phép căn cứ vào khả năng ngoại tệ của mình thực hiện bán và chuyển ngoại tệ ra nước ngoài theo yêu cầu của người mua ngoại tệ. Trường hợp bán ngoại tệ tiền mặt thì được Ngân hàng cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài (Trừ trường hợp mang ngoại tệ dưới mức phải khai báo Hải quan cửa khẩu).
+
+Công dân Việt Nam ngoài số tiền đồng Việt Nam đã được mua ngoại tệ chuyển ra nước ngoài theo mức quy định trên, nếu vẫn còn Đồng Việt Nam thì được gửi vào Ngân hàng dưới hình thức tiết kiệm và được mua mỗi năm tối đa không quá 10.000 (mười nghìn) đô la Mỹ hay ngoại tệ khác có giá trị tương đương để chuyển dần ra nước ngoài. Mỗi lần xin mua và chuyển ngoại tệ ra nước ngoài đều phải có sự chấp thuận bằng văn bản của Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+3. Người cư trú được phép xuất cảnh định cư ở nước ngoài được mang theo người số vàng tiêu chuẩn quốc tế mà cá nhân sở hữu hợp pháp (mang từ nước ngoài về có xác nhận Hải quan cửa khẩu hoặc mua tại các tổ chức tín dụng, công ty vàng bạc hoặc là được hưởng thừa kế theo luật pháp). Khi xuất cảnh phải khai báo và xuất trình cho Hải quan cửa khẩu các giấy tờ hợp pháp có liên quan đến nguồn gốc số vàng tiêu chuẩn quốc tế.
+
+4. Thời hạn để Ngân hàng thực hiện việc chuyền ngoại tệ ra nước ngoài, cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài được quy định tối đa không quá 5 (năm) ngày làm việc kể từ ngày nhận đầy đủ các giấy tờ hợp pháp liên quan đến việc mua và chuyển ngoại tệ theo quy định trên. Trường hợp từ chối, Ngân hàng phải thông báo lý do từ chối cho người có yêu cầu mua và chuyển ngoại tệ biết.
+
+Các Ngân hàng cấp giấy phép mang ngoại tệ tiền mặt ra nước ngoài phải có trách nhiệm thông báo về mẫu dấu của cơ quan và chữ ký của Tổng giám đốc (Giám đốc) ngân hàng (hoặc người được uỷ quyền ký giấy phép) cho Tổng cục hải quan và Hải quan cửa khẩu biết để giám sát, quản lý và theo dõi.
+
+5. Người cư trú là công dân Việt Nam được phép xuất cảnh định cư ở nước ngoài có nhu cầu mua, chuyển ngoại tệ vượt các quy định nói trên phải được sự chấp thuận bằng văn bản của Thống đốc Ngân hàng Nhà nước.
+
+MỤC II. ĐỐI VỚI NGƯỜI KHÔNG CƯ TRÚ LÀ NGƯỜI NƯỚC NGOÀI ĐỊNH CƯ Ở VIỆT NAM
+
+Người không cư trú là người nước ngoài được phép nhập cảnh vào Việt Nam để định cư được mang, chuyển ngoại tệ và vàng tiêu chuẩn quốc tế vào Việt Nam; Trường hợp mang trên mức quy định phải làm thủ tục khai báo hải quan cửa khẩu.
+
+Ngoại tệ mang theo người đã khai báo Hải quan cửa khẩu hoặc chuyển qua Ngân hàng, vàng tiêu chuẩn quốc tế mang vào Việt Nam được sử dụng theo các quy định trong Thông tư này và các quy định có liên quan khác về quản lý ngoại hối.
+
+PHẦN THỨ NĂM
+
+HOẠT ĐỘNG NGOẠI HỐI CỦA TỔ CHỨC TÍN DỤNG
+
+VÀ BÀN ĐỔI NGOẠI TỆ
+
+
+
+Chương I
+
+CẤP GIẤY PHÉP HOẠT ĐỘNG NGOẠI HỐI
+
+MỤC I. THẨM QUYỀN CẤP GIẤY PHÉP HOẠT ĐỘNG NGOẠI HỐI
+
+Thống đốc Ngân hàng Nhà nước có thẩm quyền cấp, sửa đổi, gia hạn và thu hồi Giấy phép hoạt động ngoại hối của tổ chức tín dụng.
+
+Giám đốc Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố có thẩm quyền cấp, sửa đổi, gia hạn, thu hồi Giấy phép cho tổ chức làm đại lý bàn đổi ngoại tệ cho tổ chức tín dụng được phép hoạt động ngoại hối.
+
+MỤC II. THỜI GIAN XEM XÉT CẤP GIẤY PHÉP
+
+Thời gian xem xét cấp giấy phép hoạt động ngoại hối là 15 (mười lăm) ngày làm việc đối với tổ chức tín dụng, 7 (bảy) ngày làm việc đối với bàn đổi ngoại tệ, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ xin cấp giấy phép.
+
+Trong thời hạn trên, Ngân hàng Nhà nước hoặc Chi nhánh Ngân hàng Nhà nước được Ngân hàng Nhà nước uỷ quyền cấp hoặc từ chối cấp giấy phép. Trong trường hợp từ chối, Ngân hàng phải có văn bản giải thích rõ lý do.
+
+MỤC III. SỬA ĐỔI VÀ GIA HẠN GIẤY PHÉP
+
+Ngân hàng Nhà nước hoặc Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố được Ngân hàng Nhà nước uỷ quyền sẽ xem xét thực hiện sửa đổi, gia hạn giấy phép đã cấp cho các tổ chức tín dụng và bàn đổi ngoại tệ trong các trường hợp sau đây:
+
+1. Tổ chức tín dụng, bàn đổi ngoại tệ xin mở rộng hoặc thu hẹp phạm vi hoạt động ngoại hối;
+
+2. Tổ chức tín dụng, bàn đổi ngoại tệ không đáp ứng được yêu cầu cũng như không tuân thủ các quy định của Ngân hàng Nhà nước đối với nội dung hoạt động ngoại hối đã được ghi trong giấy phép;
+
+3. Thời hạn hoạt động của giấy phép cấp cho tổ chức tín dụng bàn đổi, ngoại tệ đã hết hạn và tổ chức tín dụng, bàn đổi ngoại tệ xin gia hạn thêm;
+
+4. Tổ chức tín dụng là tổ chức bị chia, tách hoặc sáp nhập;
+
+MỤC IV. THU HỒI GIẤY PHÉP
+
+Ngân hàng Nhà nước hoặc chi nhánh Ngân hàng Nhà nước tỉnh, thành phố được Ngân hàng Nhà nước uỷ quyền sẽ xem xét quyết định thu hồi giấy phép đã cấp cho các tổ chức tín dụng, bàn đổi ngoại tệ trong các trường hợp sau đây:
+
+1. Tổ chức tín dụng, bàn đổi ngoại tệ đã bị đình chỉ thực hiện một số hoạt động ngoại hối nhưng vẫn cố tình thực hiện;
+
+2. Tổ chức tín dụng bị Ngân hàng Nhà nước đặt vào tình trạng kiểm soát đặc biệt;
+
+3. Tổ chức tín dụng bị Ngân hàng Nhà nước thu hồi giấy phép hoạt động;
+
+4. Vi phạm nghiêm trọng các quy định về quản lý ngoại hối.
+
+Chương II
+
+PHẠM VI HOẠT ĐỘNG NGOẠI HỐI
+
+Các tổ chức tín dụng là chi nhánh ngân hàng nước ngoài, ngân hàng liên doanh, tổ chức tín dụng phi ngân hàng liên doanh và 100% vốn nước ngoài được hoạt động ngoại hối trong phạm vi cho phép tại Giấy phép hoạt động đã cấp.
+
+Các tổ chức tín dụng là Ngân hàng, tổ chức tín dụng phi ngân hàng ngoài các đối tượng trên chỉ được thực hiện các hoạt động ngoại hối sau khi được Ngân hàng Nhà nước cấp giấy phép hoạt động ngoại hối.
+
+Các tổ chức tín dụng là Ngân hàng Thương mại cổ phần nông thôn không được phép hoạt động ngoại hối.
+
+1. Đối với các Ngân hàng thương mại.
+
+Các Ngân hàng thương mại được thực hiện một số hoặc toàn bộ nội dung hoạt động ngoại hối dưới đây khi được Ngân hàng Nhà nước cho phép:
+
+a. Mua, bán các loại ngoại tệ ở thị trường trong nước; Thu đổi và đặt bàn đổi ngoại tệ;
+
+b. Nhận tiền gửi và tiết kiệm bằng ngoại tệ của khách hàng;
+
+c. Cho vay các tổ chức trong nước và nước ngoài bằng ngoại tệ;
+
+d. Vay vốn bằng ngoại tệ của các tổ chức trong nước và nước ngoài;
+
+đ. Thực hiện các dịch vụ thanh toán ngân quỹ bằng ngoại tệ như mở tài khoản ở trong nước bằng ngoại tệ cho khách hàng, thanh toán trong nước bằng ngoại tệ, thực hiện các dịch vụ thu phát ngoại tệ tiền mặt cho khách hàng;
+
+e. Tiếp nhận vốn uỷ thác đầu tư bằng ngoại tệ từ các tổ chức, cá nhân nước ngoài;
+
+g. Bảo lãnh cho các khoản vay trong nước và nước ngoài bằng ngoại tệ;
+
+h. Phát hành hoặc làm đại lý phát hành các giấy tờ có giá bằng ngoại tệ;
+
+i. Chiết khấu, tái chiết khấu, cầm cố các thương phiếu và các giấy tờ có giá khác bằng ngoại tệ;
+
+k. Mua bán hoặc làm đại lý mua bán các loại chứng khoán bằng ngoại tệ;
+
+i. Cung ứng các dịch vụ tư vấn cho khách hàng về ngoại hối;
+
+m. Thực hiện dịch vụ thanh toán quốc tế;
+
+n. Mua bán các loại ngoại tệ ở thị trường nước ngoài;
+
+0. Kinh doanh vàng tiêu chuẩn quốc tế ở thị trường trong nước và thị trường nước ngoài.
+
+2. Đối với các tổ chức tín dụng phi ngân hàng
+
+a. Đối với công ty cho thuê tài chính.
+
+Các công ty cho thuê tài chính được thực hiện một số hoặc toàn bộ nội dung hoạt động ngoại hối dưới đây khi được Ngân hàng Nhà nước cho phép:
+
+- Nhận tiền gửi có kỳ hạn từ một năm trở lên bằng ngoại tệ;
+
+- Phát hành trái phiếu, giấy tờ có giá bằng ngoại tệ;
+
+Vay vốn bằng ngoại tệ của các tổ chức tín dụng trong và ngoài nước;
+
+- Cho thuê tài chính;
+
+- Bảo lãnh bằng ngoại tệ;
+
+- Thực hiện các dịch vụ uỷ thác và quản lý tài sản bằng ngoại tệ.
+
+b. Đối với công ty tài chính.
+
+Các công ty tài chính đươc thực hiện một số hoặc toàn bộ nội dung hoạt động ngoại hối dưới đây khi được Ngân hàng Nhà nước cho phép:
+
+- Nhận tiền gửi có kỳ hạn từ một năm trở lên bằng ngoại tệ;
+
+- Phá hành trái phiếu, giấy tờ có giá bằng ngoại tệ;
+
+- Vay vốn bằng ngoại tệ của các tổ chức tín dụng trong và ngoài nước;
+
+- Bảo lãnh bằng ngoại tệ;
+
+- Thực hiện các dịch vụ uỷ thác và quản lý tài sản bằng ngoại tệ;
+
+- Cho vay ngắn hạn, trung hạn và dài hạn bằng ngoại tệ;
+
+- Chiết khấu, tái chiết khấu, cầm cố các thương phiếu và các giấy tờ có giá khác bằng ngoại tệ;
+
+- Mua, bán hoặc làm đại lý mua bán các loại chứng khoán bằng ngoại tệ;
+
+- Cung ứng các dịch vụ tư vấn cho khách hàng về ngoại hối;
+
+3. Đối với bàn đổi ngoại tệ
+
+Các tổ chức tín dụng được phép thực hiện các hoạt động ngoại hối được tổ chức các bàn đổi ngoại tệ ở những nơi cần thiết để thực hiện việc đổi ngoại tệ cho khách hàng.
+
+Các tổ chức tín dụng có thể uỷ nhiệm cho các tổ chức kinh tế làm đại lý đổi ngoại tệ cho mình. Việc uỷ nhiệm đại lý bàn đổi ngoại tệ thực hiện theo quy chế bàn đổi ngoại tệ do Ngân hàng Nhà nước ban hành.
+
+Bàn đổi ngoại tệ chỉ được phép mua ngoại tệ từ khách hàng, không được phép bán ngoại tệ cho khách hàng.
+
+Riêng đối với bàn đổi ngoại tệ tại trụ sở của các Ngân hàng được phép, khu cách ly ở các cửa khẩu quốc tế thì được thực hiện nghiệp vụ đổi lại đồng Việt Nam lấy ngoại tệ (thoái hối) cho người không cư trú và người cư trú là người nước ngoài. Nếu mức thoái hối dưới 500 (năm trăm) Đô la Mỹ hoặc ngoại tệ khác có giá trị tương đương thì không phải xuất trình hoá đơn đã đổi ngoại tệ; nếu trên mức 500 (năm trăm) Đô la Mỹ hoặc ngoại tệ khác có giá trị tương đương thì phải xuất trình hoá đơn đã đổi ngoại tệ; nếu trên mức 500 (năm trăm) Đô la Mỹ hoặc ngoại tệ khác có giá trị tương đương thì phải xuất trình hoá đơn đã đổi ngoại tệ và được đổi tối đa bằng số ngoại tệ đã đổi ghi trên hoá đơn.
+
+
+
+Chương III
+
+ĐIỀU KIỆN ĐỂ ĐƯỢC PHÉP HOẠT ĐỘNG NGOẠI HỐI
+
+MỤC I. ĐIỀU KIỆN
+
+1. Đối với Ngân hàng thương mại có nhu cầu hoạt động ngoại hối theo các nội dung quy định từ điểm 1 (a) đến điểm 1 (l) Chương II Phần thứ năm Thông tư này.
+
+a. Được Ngân hàng Nhà nước cấp giấy phép thành lập và hoạt động;
+
+b. Tại địa bàn hoạt động thực sự có nhu cầu hoạt động ngoại hối.
+
+2. Đối với Ngân hàng thương mại có nhu cầu hoạt động ngoại hối theo các nội dung quy định tại điểm 1 (m), 1 (n) Chương II Phần thứ năm Thông tư này.
+
+Ngoài các điều kiện 1 (a), 1 (b) trên đây phải có đáp ứng các điều kiện sau:
+
+a. Có thời gian hoạt động tối thiểu 03 năm;
+
+b. Có vốn theo quy định sau:
+
+- Đối với Ngân hàng Thương mại quốc doanh: Bằng mức vốn pháp định quy định tại Nghị định số 82/1998/NĐ-CP ngày 03/10/1998 của chính phủ;
+
+- Đối với Ngân hàng thương mại cổ phần: Có đủ vốn điều lệ tối thiểu là 70 tỷ đồng Việt Nam.
+
+c. Tình hình tài chính lành mạnh, kinh doanh có lãi trong 03 năm gần nhất;.
+
+d. Bộ máy quản trị, điều hành, kiểm soát nội bộ mạnh, đảm bảo điều kiện và tiêu chuẩn theo luật định;
+
+đ. Có đủ trang thiết bị và điều kiện vật chất để đáp ứng các nội dung xin phép hoạt động ngoại hối;
+
+e. Có người điều hành, nhân viên có trình độ, am hiều các lĩnh vực hoạt động kinh doanh ngoại hối và có khả năng thực hiện dịch vụ thanh toán quốc tế và tín dụng quốc tế;
+
+g. Không vi phạm các quy định hiện hành về quản lý ngoại hối và các quy định khác của Nhà nước.
+
+3. Đối với các tổ chức tín dụng phi ngân hàng
+
+a. Các tổ chức tín dụng phi ngân hàng muốn được phép hoạt động ngoại hối phải đáp ứng các điều kiện sau:
+
+- Được Ngân hàng Nhà nước cấp giấy phép thành lập và hoạt động;
+
+- Thực sự có nhu cầu hoạt động ngoại hối.
+
+b. Riêng đối với hoạt động ngoại hối ở thị trường nước ngoài, ngoài các điều kiện trên, các công ty tài chính phải đáp ứng các điều kiện sau:
+
+- Có thời gian hoạt động tối thiểu 03 năm;
+
+- Có mức vốn điều lệ tối thiểu là 50 tỷ đồng Việt Nam;
+
+- Tình hình tài chính lành mạnh, không vi phạm các quy định về hoạt động an toàn; kinh doanh có lãi trong 03 năm gần nhất;
+
+- Bộ máy quản trị, điều hành, kiểm soát nội bộ mạnh, đảm bảo điều kiện và tiêu chuẩn theo luật định;
+
+- Có đủ trang thiết bị và điều kiện vật chất để đáp ứng các nội dung xin phép hoạt động ngoại hối;
+
+- Có người điều hành, nhân viên có trình độ, am hiểu các lĩnh vực hoạt động kinh doanh ngoại hối;
+
+- Không vi phạm các quy định hiện hành về quản lý ngoại hối và các quy định khác của Nhà nước.
+
+4. Các tổ chức tín dụng muốn thực hiện hoạt động ngoại hối theo nội dung liên quan đến vàng tiêu chuẩn quốc tế phải có đủ các điều kiện theo quy định tại Mục II Chương II phần thứ sáu Thông tư này.
+
+5. Đối với bàn đổi ngoại tệ
+
+a. Có đủ trang thiết bị và điều kiện vật chất để đáp ứng được các hoạt động đổi ngoại tệ tiền mặt;
+
+b. Có nhân viên am hiểu hoạt động ngân quỹ và có khả năng thực hiện các nghiệp vụ đổi tiền;
+
+c. Có hợp đồng đại lý với tổ chức tín dụng được phép hoạt động ngoại hối
+
+MỤC II. HỒ SƠ XIN CẤP GIẤY PHÉP HOẠT ĐỘNG NGOẠI HỐI
+
+1. Đối với ngân hàng thương mại có nhu cầu hoạt động ngoại hối theo các nội dung quy định từ điểm 1(a) đến điểm 1 (I) Chương II Phần thứ năm Thông tư này
+
+Các ngân hàng thương mại muốn hoạt động ngoại hối phải gửi hồ sơ xin phép cho Ngân hàng Nhà nước (Vụ các ngân hàng và tổ chức tín dụng phi ngân hàng).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin phép hoạt động ngoại hối (Phụ lục 10);
+
+b. Phương án hoạt động ngoại hối; trong đó xác định nội dung, phương thức kinh doanh, địa bàn kinh doanh... Phương án kinh doanh ngoại hối phải có tính khả thi và có hiệu quả (Phương án này phải được Đại hội cổ đông thông qua đối với các tổ chức tín dụng cổ phần);
+
+c. Bản sao Giấy phép thành lập và hoạt động, giấy chứng nhận đăng ký kinh doanh;
+
+d. Ý kiến của Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố nơi ngân hàng thương mại đặt trụ sở chính về sự cần thiết đối với việc xin thực hiện hoạt động ngoại hối của ngân hàng thương mại.
+
+2. Đối với Ngân hàng thương mại có nhu cầu hoạt động ngoại hối theo các nội dung quy định tại điểm 1 (m), 1 (n) Chương II Phần thứ năm Thông tư này.
+
+Các Ngân hàng thương mại có nhu cầu hoạt động ngoại hối phải gửi hồ sơ xin phép hoạt động ngoại hối cho Ngân hàng Nhà nước (Vụ các ngân hàng và tổ chức tín dụng phi ngân hàng).
+
+Hồ sơ bao gồm:
+
+a. Đơn xin phép hoạt động ngoại hối (Phụ lục 10);
+
+b. Nghị quyết của Đại hội cổ đông biểu quyết chấp thuận về việc xin thực hiện nội dung hoạt động ngoại hối (Đối với tổ chức tín dụng cổ phần);
+
+c. Đề án thực hiện hoạt động ngoại hối (đối với tổ chức tín dụng cổ phần, đề án phải được Đại hội cổ đông thông qua);
+
+d. Báo cáo quyết toán năm gần nhất đã được kiểm toán và cân đối tài sản kỳ gần nhất;
+
+đ. Tóm tắt trình độ, năng lực và khả năng của đôi ngũ cán bộ sẽ thực hiện nội dung xin hoạt động ngoại hối;
+
+e. Ý kiến của chi nhánh ngân hàng Nhà nước tỉnh, thành phố nơi tổ chức tín dụng đặt trụ sở chính về sự cần thiết cho tổ chức tín dụng hoạt động ngoại hối;
+
+g. Các văn bản khác có liên quan nhằm làm rõ những vấn đề trên theo yêu cầu của Ngân hàng Nhà nước.
+
+3. Đối với tổ chức tín dụng phi ngân hàng
+
+a. Các tổ chức tín dụng phi ngân hàng muốn xin giấy phép hoạt động ngoại hối phải gửi hồ sơ cho Ngân hàng Nhà nước (Vụ các ngân hàng và tổ chức tín dụng phi ngân hàng).
+
+Hồ sơ bao gồm:
+
+- Đơn xin phép hoạt động ngoại hối (Phụ lục 10);
+
+- Phương án hoạt động ngoại hối; trong đó xác định nội dung, phương thức kinh doanh, địa bàn kinh doanh... Phương án kinh doanh ngoại hối phải có tính khả thi và có hiệu quả;
+
+- Bản sao Giấy phép thành lập và hoạt động, giấy chứng nhận đăng ký kinh doanh;
+
+- Ý kiến của Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố nơi tổ chức tín dụng đặt trụ sở chính về sự cần thiết đối với việc xin thực hiện hoạt động ngoại hối của tổ chức tín dụng.
+
+b. Riêng đối với các tổ chức tín dụng phi ngân hàng muốn tiến hành hoạt động mua, bán ngoại tệ trong nước, mua bán các loại ngoại tệ ở thị trường nước ngoài; phải gửi hồ sơ cho Ngân hàng Nhà nước (Vụ các Ngân hàng và tổ chức tín dụng phi ngân hàng).
+
+Hồ sơ bao gồm:
+
+- Đơn xin phép hoạt động ngoại hối (Phụ lục 10);
+
+- Nghị quyết của Hội đồng quản trị hoặc Đại hội cổ đông biểu quyết chấp thuận về việc xin thực hiện nội dung hoạt động ngoại hối (đối với tổ chức tín dụng phi ngân hàng cổ phần);
+
+- Đề án thực hiện hoạt động ngoại hối (Phải được Hội đồng quản trị hoặc Đại hội cổ đông thông qua đối với trường hợp là tổ chức tín dụng phi ngân hàng cổ phần);
+
+- Tóm tắt trình độ năng lực và khả năng của đội ngũ cán bộ sẽ thực hiện nội dung xin hoạt động ngoại hối;
+
+- Ý kiến của Chi nhánh Ngân hàng Nhà nước tỉnh, thành phố nơi tổ chức tín dụng phi ngân hàng đặt trụ sở chính về sự cần thiết cho tổ chức tín dụng đó hoạt động ngoại hối;
+
+- Các văn bản khác có liên quan nhằm làm rõ những vấn đề trên theo yêu cầu của Ngân hàng Nhà nước.
+
+4. Các tổ chức tín dụng muốn thực hiện hoạt động ngoại hối liên quan đến vàng tiêu chuẩn quốc tế phải gửi hồ sơ xin cấp phép cho Ngân hàng Nhà nước theo quy định tại Mục II Chương II Phần thứ sáu thông tư này.
+
+5. Đối với bàn đổi ngoại tệ
+
+Các doanh nghiệp muốn xin giấy phép làm đại lý đổi ngoại tệ (theo mẫu giấy phép tại Phụ lục 11) phải gửi hồ sơ cho Chi nhánh Ngân hàng Nhà nước tỉnh thành phố trên địa bàn.
+
+Hồ sơ bao gồm:
+
+a. Đơn xin làm đại lý đổi ngoại tệ (Phụ lục 12);
+
+b. Bản sao có công chứng Quyết định thành lập hoặc giấy chứng nhận đăng ký kinh doanh;
+
+c. Hợp đồng uỷ nhiệm làm đại lý đổi ngoại tệ đã ký với tổ chức tín dụng.
+
+
+
+Chương IV
+
+CHO VAY VÀ THU HỒI NỢ TRONG NƯỚC BẰNG NGOẠI TỆ
+
+1. Các tổ chức tín dụng hoạt động ngoại hối được cho người cư trú vay bằng ngoại tệ để thanh toán tiền nhập khẩu vật tư, hàng hoá, máy móc, thiết bị và dịch vụ cho nước ngoài phục vụ hoạt động kinh doanh.
+
+2. Khoản cho vay bằng ngoại tệ nào thì phải trả nợ bằng ngoại tệ đó. Trường hợp trả nợ bằng ngoại tệ khác hoặc bằng Đồng Việt Nam được thực hiện theo thoả thuận giữa tổ chức tín dụng và khách hàng và quy đổi theo tỷ giá hoặc căn cứ vào nguyên tắc xác định tỷ giá đã thoả thuận trong hợp đồng tín dụng. Doanh nghiệp có vốn đầu tư nước ngoài thuộc diện tự cân đối ngoại tệ không được trả nợ vay ngoại tệ bằng đồng Việt Nam.
+
+
+
+Chương V
+
+PHÁT HÀNH GIẤY TỜ CÓ GIÁ BẰNG NGOẠI TỆ
+
+Các tổ chức tín dụng được phép hoạt động ngoại hối có nhu cầu huy động vốn, phát hành hoặc làm đại lý phát hành các loại giấy tờ có giá như kỳ phiếu Ngân hàng, tín phiếu kho bạc, cổ phiếu, trái phiếu, chứng chỉ tiền gửi hoặc các loại giấy tờ có giá khác bằng ngoại tệ đều phải được sự chấp thuận bằng văn bản của Thống đốc Ngân hàng Nhà nước.
+
+Việc phát hành các loại giấy tờ có giá phải thực hiện theo các văn bản quy phạm pháp luật hiện hành của Ngân hàng Nhà nước, Uỷ ban Chứng khoán Nhà nước hoặc các Bộ, ngành khác được Chính phủ giao.
+
+Các Tổ chức tín dụng phát hành các loại chứng khoán ra nước ngoài phải được sự chấp thuận bằng văn bản của Thống đốc Ngân hàng Nhà nước.
+
+Các Ngân hàng tham gia vào các tổ chức tài chính, tiền tệ quốc tế làm đại lý phát hành các loại thẻ tín dụng quốc tế phải được sự chấp thuận bằng văn bản của Thống đốc Ngân hàng Nhà nước.
+
+Chương VI
+
+XUẤT NHẬP KHẨU NGOẠI TỆ TIỀN MẶT
+
+VÀ CÁC GIẤY TỜ CÓ GIÁ BẰNG NGOẠI TỆ
+
+1. Xuất khẩu
+
+Các Ngân hàng được phép có nhu cầu xuất khẩu ngoại tệ tiền mặt ra nước ngoài phải được phép của Ngân hàng Nhà nước.
+
+Các Ngân hàng được phép được thực hiện xuất khẩu các chứng từ thanh toán, giấy tờ có giá để phục vụ hoạt động kinh doanh ngoại hối của Ngân hàng được phép theo giấy phép hoạt động ngoại hối được cấp.
+
+2. Nhập khẩu
+
+Các Ngân hàng được phép có nhu cầu nhập khẩu ngoại tệ tiền mặt phải được phép của Ngân hàng Nhà nước.
+
+Các Ngân hàng được phép nhập khẩu các loại séc trắng hoặc các loại chứng từ thanh toán của Ngân hàng không phải xin phép Ngân hàng Nhà nước nhưng phải làm thủ tục khai báo Hải quan cửa khẩu về loại hàng hoá nhập.
+
+Chương VII
+
+DUY TRÌ TRẠNG THÁI NGOẠI HỐI
+
+VÀ TRẠNG THÁI ĐỒNG VIỆT NAM
+
+Các Tổ chức tín dụng được phép hoạt động ngoại hối phải duy trì trạng thái ngoại hối hoặc trạng thái đồng Việt Nam theo quy định của Ngân hàng Nhà nước. Hàng ngày các Tổ chức tín dụng phải báo cáo cho Ngân hàng Nhà nước về trạng thái ngoại hối hoặc trạng thái đồng Việt Nam và các giao dịch ngoại hối từ nước ngoài chuyển vào Việt Nam và từ Việt Nam chuyển ra nước ngoài theo quy định của Thống đốc Ngân hàng Nhà nước.
+
+Chương VIIII
+
+TRÁCH NHIỆM CỦA NGÂN HÀNG ĐƯỢC PHÉP
+
+TRONG VIỆC NIÊM YẾT TỶ GIÁ VÀ MUA BÁN NGOẠI TỆ
+
+Hàng ngày, các Ngân hàng được phép phải niêm yết công khai tỷ giá mua và bán ngoại tệ tại quầy giao dịch.
+
+Khi khách hàng có nhu cầu hợp lý về ngoại tệ, các Ngân hàng được phép hoạt động ngoại hối có trách nhiệm đáp ứng đầy đủ và kịp thời cho khách hàng trong phạm vi nguồn ngoại tệ hiện có của mình. Việc bán ngoại tệ được ưu tiên giải quyết cho những nhu cầu nhập khẩu những mặt hàng quan trọng.
+
+Chương IX
+
+KIỂM TRA CHỨNG TỪ
+
+Khi thực hiện các giao dịch thu, chi ngoại tệ trên tài khoản tiền gửi ngoại tệ của khách hàng và thực hiện các giao dịch mua, bán, chuyển ngoại tệ với khách hàng, các ngân hàng được phép có trách nhiệm kiểm tra những giấy tờ sau:
+
+1. Thu, chi trên tài khoản tiền gửi ngoại tệ của người cư trú là tổ chức:
+
+a. Thu:
+
+- Các khoản thu chuyển khoản ở trong nước: tuỳ từng trường hợp cụ thể, ngân hàng được phép kiểm tra: Hợp đồng uỷ thác xuất nhập khẩu, Quyết định điều chuyển vốn nội bộ, chứng từ có liên quan khác đến các nguồn thu ngoại tệ được phép quy định tại điểm 2 Mục II, Chương I, Phần thứ nhất Thông tư này.
+
+- Nộp ngoại tệ tiền mặt vào tài khoản: Giấy phép bán hàng và dịch vụ thu ngoại tệ tiền mặt, tờ khai Hải quan xác nhận ngoại tệ tiền mặt mang từ nước ngoài vào, Giấy phép do Ngân hàng Nhà nước cấp cho phép được thanh toán ngoại tệ tiền mặt và các giấy tờ khác có liên quan đến từng nguồn thu cụ thể.
+
+b. Chi:
+
+- Thanh toán tiền nhập khẩu hàng hoá và dịch vụ cho nước ngoài: Giấy phép nhập khẩu (nếu là loại hàng hoá có giấy phép), hợp đồng nhập khẩu hàng hoá, dịch vụ với nước ngoài, tờ khai Hải quan và các giấy tờ khác có liên quan;
+
+- Thanh toán hàng hoá và dịch vụ cho các tổ chức và cá nhân trong nước: Hợp đồng xuất nhập khẩu uỷ thác, quyết định điều chuyển vốn nội bộ, hợp đồng, hoá đơn mua hàng hoá, dịch vụ và các giấy tờ liên quan khác tuỳ theo mỗi mục đích phù hợp với quy định tại điểm 2 Mục II chương I Phần thứ nhất Thông tư này.
+
+- Trả nợ gốc, lãi, phí bằng ngoại tệ vay Ngân hàng được phép trong nước và nợ nước ngoài: Hợp đồng vay vốn và giấy nhận nợ. Phải có thêm giấy xác nhận khoản vay đã được đăng ký của Ngân hàng Nhà nước đối với những khoản vay nước ngoài phải đăng ký với Ngân hàng Nhà nước theo quy định.
+
+- Góp vốn thực hiện dự án đầu tư theo Luật đầu tư nước ngoài tại Việt Nam: Giấy phép Đầu tư do Bộ Kế hoạch Đầu tư cấp và Hợp đồng liên doanh hoặc Hợp đồng hợp tác kinh doanh với phía nước ngoài đã được cơ quan có thẩm quyền phê duyệt;
+
+- Chuyển ngoại tệ ra nước ngoài là lợi nhuận, vốn đầu tư, khấu hao (nếu có) theo các quy định của pháp luật về đầu tư nước ngoài tại Việt Nam. Tuỳ từng mục đích chuyển tiền cụ thể, xuất trình các chứng từ cần thiết có liên quan như: Giấy phép đầu tư, Giấy chứng nhận đã hoàn thành đầy đủ nghĩa vụ tài chính đối với Nhà nước Việt Nam, Hợp đồng qui định phương thức phân chia kết quả kinh doanh, Biên bản thanh lý có xác nhận của Bộ kế hoạch và đầu tư, báo cáo kiểm toán theo quy định của pháp luật và các giấy tờ liên quan khác.
+
+- Chuyển ngoại tệ đầu tư ra nước ngoài theo qui định của Pháp luật về đầu tư ra nước ngoài của Việt Nam: Xuất trình hợp đồng với phía nước ngoài và Giấy tờ chứng nhận cho phép Đầu tư ra nước ngoài do cơ quan có thẩm quyền cấp, giấy phép cho phép đầu tư của cơ quan có thẩm quyền của nước ngoài;
+
+- Rút ngoại tệ bằng tiền mặt và chuyên khoản cho cán bộ, nhân viên của tổ chức khi được cử ra nước ngoài công tác hoặc chi các khoản lương thưởng và phụ cấp cho Người không cư trú hoặc Người cư trú là người nước ngoài làm việc tại tổ chức đó: Xuất trình hợp đồng lao động, xác nhận mức lương, bảng kê chi phụ cấp, Quyết định cử đi công tác, học tập ở nước ngoài, các giấy tờ có liên quan khác.
+
+2. Thu, chi trên tài khoản tiền gửi ngoại tệ của người cư trú là cá nhân:
+
+a. Thu:
+
+- Nộp ngoại tệ tiền mặt vào tài khoản: Tờ khai Hải quan cửa khẩu xác nhận về số ngoại tệ từ nước ngoài mang vào theo quy định tại điểm 2 Chương V phần thứ ba Thông tư này hoặc các loại giấy tờ chứng minh thu nhập hợp pháp ở Việt Nam;
+
+- Thu chuyển khoản từ việc nhận ngoại tệ được cho, tặng, thừa kế: giấy tờ chứng minh thu nhập hợp pháp như quà tặng, thừa kế;
+
+- Thu chuyển khoản, tiền mặt ở trong nước từ việc nhận lương, thưởng, phụ cấp (đối vgới người cư trú là người nước ngoài): Hợp đồng lao động, xác nhận mức lương, Quyết định thưởng và các giấy tờ liên quan khác.
+
+b. Chi:
+
+- Thanh toán tiền hàng hoá và chi trả dịch vụ cho tổ chức và cá nhân ở nước ngoài: Các giấy tờ chứng mình việc mua hàng hoá, dịch vụ và các giấy tờ khác liên quan.
+
+- Thanh toán tiền hàng hoá và chi trả dịch vụ cho tổ chức và cá nhân ở trong nước được phép thu ngoại tệ: Tuỳ theo mỗi mục đích quy định tại điểm 2 Mục II Chương I Phần thứ nhất Thông tư này xuất trình các giấy tờ phù hợp như hợp đồng uỷ thác nhập khẩu và các giấy tờ liên quan khác.
+
+- Chuyển ra nước ngoài hoặc rút ngoại tệ tiền mặt mang ra nước ngoài: Các giấy tờ theo quy định tại Chương IV Phần thứ ba, Chương V Phần thứ tư của thông tư này.
+
+- Cho, tặng, thừa kế theo quy định của pháp luật: Các giấy tờ chứng minh việc cho, tặng, thừa kế.
+
+3. Thu, chi trên tài khoản tiền gửi ngoại tệ của người không cư trú là tổ chức hiện đang hoạt động tại Việt Nam:
+
+a. Thu:
+
+- Nộp tiền mặt vào tài khoản: Tờ khai Hải quan cửa khẩu xác nhận về số ngoại tệ mang từ nước ngoài vào hoặc các loại giấy tờ chứng mình các khoản thu ngoại tệ hợp pháp tại Việt Nam như các loại phí, lệ phí và các giấy tờ liên quan khác.
+
+- Thu ngoại tệ chuyển khoản từ tài khoản của người cư trú chuyển sang: Bảng kê các khoản thu ngoại tệ hợp pháp tại Việt Nam như các loại phí, lệ phí hoặc các giấy tờ khác có liên quan đến nguồn thu ngoại tệ.
+
+b. Chi:
+
+- Chuyển tiền ra nước ngoài: Xác nhận của cơ quan có thẩm quyền về việc hoàn thành các nghĩa vụ tài chính theo quy đinh của pháp luật Việt Nam.
+
+- Rút ngoại tệ tiền mặt, chuyển khoản để chi cho cá nhân làm việc cho tổ chức khi được cử ra nước ngoài; chi trả lương, thưởng, phụ cấp cho Người không cư trú và người cư trú là người nước ngoài: Quyết định cử đi công tác nước ngoài, danh sách trả lương, thưởng, phụ cấp cho nhân viên làm việc tại các tổ chức là Người không cư trú.
+
+4. Thu, chi trên tài khoản tiền gửi ngoại tệ của người không cư trú là tổ chức đang hoạt động ở nước ngoài.
+
+a. Thu:
+
+- Thu chuyển khoản từ tài khoản tiền gửi ngoại tệ của các tổ chức và cá nhân ở trong nước: Hợp đồng xuất khẩu hàng hoá, dịch vụ, tờ khai Hải quan và các giấy tờ liên quan khác:
+
+b. Chi:
+
+- Chuyển khoản ra nước ngoài: Xác nhận của cơ quan thuế về việc hoàn thành nghĩa vụ tài chính đối với Nhà nước Việt Nam.
+
+5. Thu, chi trên tài khoản tiền gửi ngoại tệ của người không cư trú là cá nhân:
+
+a. Thu:
+
+- Nộp ngoại tệ tiền mặt vào tài khoản: Tờ khai Hải quan cửa khẩu xác nhận về số ngoại tệ mang từ nước ngoài vào theo quy định tại điểm 2 Chương V Phần thứ ba Thông tư này hoặc hợp đồng lao động, xác nhận mức lương, quyết định thưởng hoặc các giấy tờ chứng minh nguồn thu nhập hợp pháp.
+
+b. Chi:
+
+- Chuyển ngoại tệ ra nước ngoài: Xác nhận của cơ quan có thẩm quyền về việc hoàn thành nghĩa vụ tài chính với Nhà nước Việt Nam theo quy định tại điểm 1, Mục II Chương IV Phần thứ ba Thông tư này.
+
+6. Thu, chi trên tài khoản tiền gửi đồng Việt Nam của người không cư trú là tổ chức:
+
+a. Thu:
+
+- Thu từ tài khoản của người cư trú là tổ chức và cá nhân: hợp đồng mua, bán hàng hoá và dịch vụ, hoá đơn, văn bản của cơ quan có thẩm quyền cho phép người không cư trú được cung cấp hàng hoá, dịch vụ, Bảng kê thu phí, lệ phí của người cư trú, các giấy tờ chứng mình nguồn thu hợp pháp khác từ người cư trú;
+
+- Nộp tiền mặt đồng Việt Nam vào tài khoản: Bảng kê thu phí, lệ phí, các giấy tờ chứng minh nguồn thu hợp pháp khác.
+
+b. Chi:
+
+- Chi chuyển đổi ra ngoại tệ để chuyển ra nước ngoài: Xác nhận đã hoàn thành các nghĩa vụ tài chính với Nhà nước Việt Nam của cơ quan thuế có thẩm quyền.
+
+7. Thu, chi trên tài khoản tiền gửi đồng Việt Nam của người không cư trú là cá nhân:
+
+a. Thu:
+
+- Thu chuyển khoản đồng Việt Nam từ việc cung ứng hàng hoá, dịch vụ, thu các loại phí được pháp luật Việt Nam cho phép: Văn bản của cơ quan có thẩm quyền cho phép cung ứng hàng hoá, dịch vụ, thu phí tại Việt Nam; hợp đông hoặc hoá đơn bán hàng, thu phí.
+
+- Thu chuyển khoản đồng Việt Nam từ việc nhận lương, thưởng và các khoản phụ cấp khác: Hợp đồng lao động, xác nhận mức lương, thưởng, phụ cấp của cơ quan và các giấy tờ liên quan khác chứng minh nguồn thu hợp pháp tại Việt Nam.
+
+- Thu đồng Việt Nam bằng tiền mặt từ việc nhận các nguồn thu hợp pháp khác: Các giấy tờ chứng minh nguồn thu hợp pháp tại Việt Nam.
+
+b. Chi
+
+- Chi mua ngoại tệ: Xác nhận của cơ quan thuế có thẩm quyền về việc hoàn thành nghĩa vụ tài chính với Nhà nước Việt Nam theo quy định tại điểm 2 Mục II Chương IV Phần thứ ba Thông tư này.
+
+Chương X
+
+THANH TRA, GIÁM SÁT VÀ BÁO CÁO
+
+Các tổ chức tín dụng hoạt động ngoại hối và bàn đổi ngoại tệ phải chịu sự thanh tra, giám sát của Thanh tra Ngân hàng Nhà nước theo qui định của Pháp luật. Thanh tra Ngân hàng theo chức năng nhiệm vụ của mình đột xuất hoặc theo định kỳ có thể thực hiện việc thanh tra của mình đối với các tổ chức tín dụng hoạt động ngoại hối và bàn đổi ngoại tệ.
+
+Các tổ chức tín dụng hoạt động ngoại hối và bàn đổi ngoại tệ phải thực hiện và chấp hành nghiêm chỉnh chế độ báo cáo của Ngân hàng Nhà nước.
+
+PHẦN THỨ SAU
+
+QUẢN LÝ VÀNG TIÊU CHUẨN QUỐC TẾ
+
+Chương I
+
+NHIỆM VỤ VÀ QUYỀN HẠN CỦA NGÂN HÀNG NHÀ NƯỚC VỀ QUẢN LÝ VÀNG TIÊU CHUẨN QUỐC TẾ
+
+Ngân hàng Nhà nước là cơ quan quản lý Nhà nước về hoạt động kinh doanh, xuất nhập khẩu vàng tiêu chuẩn quốc tế.
+
+Trong việc quản lý vàng tiêu chuẩn quốc tế, Ngân hàng Nhà nước có nhiệm vụ và quyền hạn sau đây:
+
+1. Xây dựng và trình cơ quan có thẩm quyền các dự án pháp luật và các dự án khác về quản lý vàng tiêu chuẩn quốc tế, ban hành theo thẩm quyền các văn bản quy phạm pháp luật về quản lý vàng tiêu chuẩn quốc tế;
+
+Các cơ quan khác xây dựng, trình cơ quan có thẩm quyền các văn bản có liên quan đến vàng tiêu chuẩn quốc tế hoặc giải quyết các hoạt động có liên quan đến vàng tiêu chuẩn quốc tế ngoài quy định của Thông tư này cần phối hợp và có ý kiến của Ngân hàng Nhà nước khi ban hành, thực hiện.
+
+2. Cấp và thu hồi giấy phép kinh doanh vàng tiêu chuẩn quốc tế ở trong nước và ở nước ngoài cho tổ chức tín dụng và doanh nghiệp kinh doanh vàng;
+
+3. Tổ chức và điều hành thị trường vàng tiêu chuẩn quốc tế ở trong nước;
+
+4. Cấp, thu hồi giấy phép xuất nhập khẩu vàng tiêu chuẩn quốc tế cho tổ chức tín dụng và doanh nghiệp kinh doanh vàng;
+
+5. Kiểm soát hoạt động kinh doanh vàng tiêu chuẩn quốc tế của các tổ chức tín dụng và doanh nghiệp kinh doanh vàng;
+
+6. Kiểm tra, thanh tra việc thực hiện các quy định của pháp luật về quản lý vàng tiêu chuẩn quốc tế;
+
+7. Thực hiện việc mua, bán vàng tiêu chuẩn quốc tế trên thị trường trong nước và nước ngoài; xuất nhập khẩu vàng tiêu chuẩn quốc tế và thực hiện giao dịch vàng tiêu chuẩn quốc tế khác theo quy định của pháp luật;
+
+8. Thực hiện các nhiệm vụ và quyền hạn khác về quản lý vàng tiêu chuẩn quốc tế theo quy định của pháp luật
+
+Thống đốc Ngân hàng Nhà nước có thể uỷ quyền cho Giám đốc chi nhánh Ngân hàng Nhà nước các tỉnh, thành phố thực hiện trong phạm vi địa bàn quản lý các nhiệm vụ và quyền hạn quy định tại các điểm 2, 3, 4, 5, 6, 7, 8 Chương I Phần thứ sáu Thông tư này.
+
+
+
+Chương II
+
+SỬ DỤNG VÀNG TIÊU CHUẨN QUỐC TẾ
+
+MỤC I. ĐỐI VỚI NGÂN HÀNG NHÀ NƯỚC
+
+1. Làm dự trữ ngoại hối Nhà nước và thành toán quốc tế;
+
+2. Mua, bán và thực hiện các giao dịch khác với các tổ chức tín dụng và các doanh nghiệp được phép kinh doanh vàng tiêu chuẩn quốc tế;
+
+3. Sử dụng cho các mục đích khác khi được phép của Thủ tướng Chính phủ.
+
+MỤC II. ĐỐI VỚI TỔ CHỨC TÍN DỤNG VÀ DOANH NGHIỆP ĐƯỢC PHÉP KINH DOANH VÀNG TIÊU CHUẨN QUỐC TẾ
+
+Tổ chức tín dụng và doanh nghiệp được phép kinh doanh vàng tiêu chuẩn quốc tế được sử dụng vàng tiêu chuẩn quốc tế để mua, bán và thực hiện các giao dịch khác với Ngân Nhà nước, các tổ chức tín dụng, các doanh nghiệp khác được phép kinh doanh vàng tiêu chuẩn quốc tế theo đúng quy định của Ngân hàng Nhà nước và các mục đích khác khi được phép của Thủ tướng Chính phủ.
+
+Các tổ chức tín dụng và doanh nghiệp kinh doanh, xuất nhập khẩu vàng tiêu chuẩn quốc tế phải có giấy phép của Ngân hàng Nhà nước.
+
+Ngân hàng Nhà nước xem xét cấp giấy phép kinh doanh vàng tiêu chuẩn quốc tế, giấy phép xuất nhập khẩu vàng tiêu chuẩn quốc tế và giấy phép kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài theo quy định sau:
+
+1. Giấy phép kinh doanh vàng tiêu chuẩn quốc tế.
+
+a. Điều kiện cấp giấy phép
+
+Các tổ chức tín dụng và các doanh nghiệp thành lập và hoạt động theo pháp luật Việt Nam có đủ các điều kiện sau đây được Ngân hàng Nhà nước xem xét cấp giấy phép kinh doanh vàng tiêu chuẩn quốc tế:
+
+- Là tổ chức được phép kinh doanh vàng;
+
+- Có vốn điều lệ tối thiểu 10 tỷ đồng Việt Nam (đối với tổ chức có chức năng chính là kinh doanh vàng); Có doanh số hoạt động kinh doanh vàng của năm trước tối thiểu là 30 tỷ đồng Việt Nam (đối với tổ chức kinh doanh vàng không phải là chức năng chính).
+
+- Có thời gian hoạt động trong lĩnh vực kinh doanh vàng ít nhất là 2 năm kể từ ngày chính thức đi vào hoạt động;
+
+- Có tình hình tài chính lành mạnh.
+
+b. Thủ tục cấp giấy phép
+
+Tổ chức tín dụng và doanh nghiệp có đủ điều kiện nêu trên có nhu cầu kinh doanh vàng tiêu chuẩn quốc tế phải gửi hồ sơ cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+- Đơn xin cấp giấy phép kinh doanh vàng tiêu chuẩn quốc tế có ý kiến của cơ quan chủ quản (Phụ lục 13);
+
+- Bản sao có công chứng Quyết định thành lập và điều lệ hoạt động;
+
+- Bản sao có công chứng Giấy chứng nhận đăng ký kinh doanh vàng;
+
+- Báo cáo tình hình hoạt động kinh doanh vàng, tình hình tài chính của đơn vị 2 năm gần nhất.
+
+c. Phạm vi kinh doanh
+
+Tổ chức tín dụng và doanh nghiệp có giấy phép kinh doanh vàng tiêu chuẩn quốc tế được hoạt động trong phạm vi sau:
+
+- Mua vàng tiêu chuẩn quốc tế hợp pháp của mọi đối tượng.
+
+- Mua, bán vàng tiêu chuẩn quốc tế với Ngân hàng Nhà nước, các tổ chức tín dụng, các doanh nghiệp khác được phép kinh doanh vàng tiêu chuẩn quốc tế.
+
+- Thực hiện các giao dịch khác với Ngân hàng Nhà nước, các tổ chức tín dụng và các doanh nghiệp khác được phép kinh doanh vàng tiêu chuẩn quốc tế.
+
+2. Giấy phép xuất nhập khẩu vàng tiêu chuẩn quốc tế
+
+a. Quy định chung
+
+Giấy phép xuất nhập khẩu vàng tiêu chuẩn quốc tế được Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) xem xét cấp từng chuyến cho tổ chức tín dụng và doanh nghiệp kinh doanh vàng.
+
+Ngân hàng Nhà nước khi cấp giây phép xuất nhập khẩu vàng tiêu chuẩn quốc tế cho các tổ chức tín dụng và các doanh nghiệp có trách nhiệm thông báo về tình hình cấp giấy phép cho chi nhánh Ngân hàng Nhà nước tỉnh, thành phố trên địa bàn biết để cùng phối hợp quản lý và giám sát việc xuất nhập khẩu và sử dụng vàng tiêu chuẩn quốc tế của đơn vị.
+
+b. Điều kiện cấp giấy phép
+
+- Có giấy phép kinh doanh vàng tiêu chuẩn quốc tế do Ngân hàng Nhà nước cấp;
+
+- Hoạt động có uy tín trên thị trường, kinh doanh có hiệu quả trong năm gần nhất, chấp hành đúng các quy định về quản lý ngoại hối và quản lý kinh doanh vàng của Ngân hàng Nhà nước;
+
+c. Thủ tục cấp giấy phép
+
+Các Tổ chức tín dụng và các doanh nghiệp có đủ các điều kiện nêu trên phải gửi hồ sơ xin phép cho Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối).
+
+Hồ sơ bao gồm:
+
+- Đơn xin xuất nhập khẩu vàng tiêu chuẩn quốc tế (Phụ lục 14)
+
+- Bản sao công chứng Giấy phép kinh doanh vàng tiêu chuẩn quốc tế do Ngân hàng Nhà nước cấp.
+
+- Báo cáo quyết toán tình hình hoạt động kinh doanh vàng và tình hình tài chính của tổ chức kinh tế trong năm gần nhất (đối với đơn vị xuất nhập khẩu thường xuyên phải báo cáo tình hình hoạt động kinh doanh vàng, tình hình tài chính quý gần nhất);
+
+- Phương án sử dụng số vàng tiêu chuẩn quốc tế sẽ nhập (nếu xin nhập khẩu vàng).
+
+3. Giấy phép kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài
+
+Các tổ chức tín dụng, doanh nghiệp có uy tín, kinh nghiệm hoạt động xuất nhập khẩu vàng tiêu chuẩn quốc tế được Ngân hàng Nhà nước xem xét cho phép kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài khi có đủ các điều kiện sau:
+
+a. Điều kiện cấp giấy phép
+
+- Có giấy phép kinh doanh vàng tiêu chuẩn quốc tế;
+
+- Có thời gian kinh doanh vàng tiêu chuẩn quốc tế ít nhất là 02 năm, hoạt động kinh doanh có hiệu quả;
+
+- Có cán bộ đủ trình độ và điều kiện thực hiện các nghiệp vụ kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài;
+
+- Có đề án kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài.
+
+b. Thủ tục cấp giấy phép
+
+Các tổ chức tín dụng, doanh nghiệp có nhu cầu hoạt động kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài phải gửi Ngân hàng Nhà nước (Vụ Quản lý Ngoại hối) các loại giấy tờ sau:
+
+- Đơn xin kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài (Phụ lục 15);
+
+- Bản sao công chứng giấy phép kinh doanh vàng tiêu chuẩn quốc tế;
+
+- Báo cáo tình hình hoạt động kinh doanh trong năm gần nhất;
+
+- Đề án kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài.
+
+-Văn bằng chứng nhận trình độ của cán bộ làm nghiệp vụ kinh doanh vàng tiêu chuẩn quốc tế ở nước ngoài.
+
+MỤC III. Người cư trú và người không cư trú là tổ chức, cá nhân có vàng tiêu chuẩn quốc tế hợp pháp được quyền cất giữ, vận chuyển, gửi, bán cho các tổ chức tín dụng, doanh nghiệp được phép kinh doanh vàng tiêu chuẩn quốc tế
+
+MỤC IV. Nghiêm cấm việc mua, bán vàng tiêu chuẩn quốc tế ở thị trường trong nước ngoài phạm vi qui định tại Chương II Phần thứ sáu của Thông tư này và dùng vàng tiêu chuẩn quốc tế để trao đổi, thanh toán tiến hành chi trả dịch vụ qua biên giới dưới bất kỳ hình thức nào
+
+Chương III
+
+QUẢN LÝ VÀNG KHÔNG PHẢI LÀ VÀNG TIÊU CHUẨN QUỐC TẾ
+
+Việc quản lý vàng không phải là vàng tiêu chuẩn quốc tế được thực hiện theo quy định riêng của pháp luật.
+
+PHẦN THỨ BẢY
+
+TỶ GIÁ HỐI ĐOÁI ĐỒNG VIỆT NAM
+
+MỤC I. NGUYÊN TẮC XÁC ĐỊNH TỶ GIÁ
+
+Tỷ giá hối đoái của đồng Việt Nam so với các ngoại tệ khác được hình thành dựa trên cơ sở cung cầu ngoại tệ trên thị trường có sự điều tiết của Nhà nước.
+
+MỤC II. XÁC ĐỊNH VÀ CÔNG BỐ TỶ GIÁ
+
+1. Hàng ngày, Ngân hàng Nhà nước công bố tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng giữa đồng Việt Nam với Đô la Mỹ trên các phương tiện thông tin đại chúng.
+
+Căn cứ mục tiêu của chính sách tiền tệ trong từng thời kỳ, Ngân hàng Nhà nước quy định biên độ giao động so với tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng để các Ngân hàng được phép xác định tỷ giá mua, tỷ giá bán giữa Đồng Việt Nam với Đô là Mỹ.
+
+2. Tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng của Đồng Việt Nam với Đô la Mỹ được áp dụng trong các trường hợp sau:
+
+a. Làm cơ sở để Tổng giám đốc (Giám đốc) các Ngân hàng được phép xác định và niêm yết tỷ giá mua, tỷ giá bán giữa Đồng Việt Nam với đô la Mỹ trong phạm vi biên độ cho phép của Ngân hàng Nhà nước;
+
+b. Tính thuế xuất khẩu, thuế nhập khẩu hàng hoá;
+
+c. Làm cơ sở để Ngân hàng Nhà nước định kỳ công bố tỷ giá của đồng Việt Nam với các ngoại tệ khác áp dụng tính thuế xuất khẩu, thuế nhập khẩu;
+
+d. Xét thầu các dự án quốc gia tại thời điểm xét thầu;
+
+đ. Quy đổi trong các trường hợp góp vốn liên doanh hay tham gia hợp đồng hợp tác kinh doanh tại thời điểm quy đổi;
+
+e. Làm cơ sở để Ngân hàng Nhà nước và Bộ tài chính thống nhất quy định tỷ giá trong các trường hợp khác.
+
+3. Các Ngân hàng được phép phải niêm yết tỷ giá và thực hiện giao dịch giữa Đồng Việt Nam và Đô la Mỹ trong phạm vi biên độ cho phép của Ngân hàng Nhà nước.
+
+Việc thanh toán, mua, bán ngoại tệ giữa các Ngân hàng được phép với cá nhân phải thực hiện theo tỷ giá niêm yết của Ngân hàng được phép tại thời điểm thực hiện giao dịch.
+
+Việc thanh toán, mua, bán ngoại tệ giữa các Ngân hàng được phép với các tổ chức được thực hiện theo tỷ giá mua, tỷ giá bán trên cơ sở thoả thuận.
+
+PHẦN THỨ TÁM
+
+THÔNG TIN BÁO CÁO
+
+MỤC I. TRÁCH NHIỆM CUNG CẤP THÔNG TIN CỦA TỔ CHỨC VÀ CÁ NHÂN
+
+1. Người cư trú ở Viêt Nam hoặc ở nước ngoài và người không cư trú ở Việt Nam có các hoạt động liên quan đến ngoại hối phải có trách nhiệm cung cấp các thông tin, số liệu cho Ngân hàng Nhà nước, hay các Tổ chức tín dụng theo các qui định của Thông tư này.
+
+2. Ngoài những trường hợp cung cấp thông tin theo định kỳ, trong trường hợp cần thiết, Người cư trú là tổ chức hay cá nhân có trách nhiệm phải cung cấp các thông tin về ngoại hối cho Ngân hàng Nhà nước, hay các cơ quan có thẩm quyền theo qui định của pháp luật.
+
+3. Các thông tin gửi Ngân hàng Nhà nước hay các Tổ chức tín dụng của tổ chức và cá nhân phải đầy đủ, rõ ràng, trung thực theo quy định đối với từng loại báo cáo. Thủ trưởng các đơn vị báo cáo phải chịu trách nhiệm trước pháp luật về những thông tin báo cáo của mình.
+
+MỤC II. QUYỀN HẠN VÀ TRÁCH NHIỆM CỦA NGÂN HÀNG NHÀ NƯỚC
+
+1. Ngân hàng Nhà nước trong những trường hợp cần thiết có thể yêu cầu người cư trú ở Viêt Nam hoặc ở nước ngoài và người không cư trú ở Viêt Nam cung cấp các thông tin, số liệu cần thiết có liên quan đến ngoại hối và hoạt động ngoại hối.
+
+2. Ngân hàng Nhà nước có trách nhiệm ban hành, sửa đổi và giám sát thực hiện chế độ thông tin báo cáo, phân tích và dự báo thông tin về tình hình ngoại hối và hoạt động ngoại hối ở trong nước và ngoài nước nhằm phục vụ xây dựng và điều hành công tác quản lý ngoại hối của Nhà nước.
+
+Ngân hàng Nhà nước được trao đổi và làm dịch vụ thông tin về ngoại hối và hoạt động ngoại hối cho các tổ chức và cá nhân phù hợp với các quy định của pháp luật.
+
+3. Thống đốc Ngân hàng Nhà nước có thể uỷ quyền bằng văn bản cho Giám đốc chi nhánh Ngân hàng Nhà nước tỉnh, thành phố yêu cầu các tổ chức, cá nhân cung cấp các thông tin, số liệu về ngoại hối và hoạt động ngoại hối trên địa bàn.
+
+4. Cán bộ công chức Ngân hàng Nhà nước phải giữ bí mật và chịu trách nhiệm về các thông tin thuộc danh mục bí mật của ngành mà họ nhận được theo qui định tại Thông tư này.
+
+MỤC III. TRÁCH NHIỆM CUNG CẤP THÔNG TIN CỦA CÁC TỔ CHỨC TÍN DỤNG
+
+1. Tổ chức tín dụng hoạt động ngoại hối có nghĩa vụ theo định kỳ hoặc đột xuất cung cấp các thông tin, số liệu liên quan đến hoạt động ngoại hối cho Ngân hàng Nhà nước.
+
+2. Tổ chức tín dụng hoạt động ngoại hối có quyền yêu cầu người cư trú ở Việt Nam hoặc ở nước ngoài, người không cư trú ở Việt Nam cung cấp các thông tin về ngoại hối, hoạt động ngoại hối để thực hiện nghiệp vụ kinh doanh theo quy địng của tổ chức tín dụng hoặc để phục vụ công tác báo cáo Ngân hàng Nhà nước.
+
+3. Tổ chức tín dụng hoạt động ngoại hối được trao đổi và làm dịch vụ thông tin về ngoại hối và hoạt động ngoại hối cho các tổ chức và cá nhân phù hợp với qui định tại Thông tư này.
+
+4. Tổ chức tín dụng và nhân viên Tổ chức tín dụng có trách nhiệm giữ bí mật những số liệu, tài liệu thông tin về ngoại hối và hoạt động ngoại hối do Người cư trú là tổ chức hay cá nhân cung cấp, trừ trường hợp khi có yêu cầu của Ngân hàng Nhà nước hay cơ quan nhà nước có thẩm quyền theo qui định của pháp luật.
+
+PHẦN THỨ CHÍN
+
+KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM
+
+MỤC I. KHEN THƯỞNG
+
+Những tổ chức và cá nhân có thành tích trong hoạt động ngoại hối góp phần thúc đẩy phát triển nền kinh tế quốc dân, có công phát hiện, tố giác và ngăn chặn các hành vi vi phạm pháp luật về quản lý ngoại hối hoặc giúp đỡ các cơ quan Nhà nước có thẩm quyền trong việc phát hiện các hành vi vi phạm về ngoại hối và hoạt động ngoại hối, tuỳ theo mức độ sẽ được khen thưởng theo qui định của pháp luật. Việc xét thưởng được thực hiện sau khi có quyết định xử lý của cơ quan có thẩm quyền.
+
+MỤC II. CÁC HÀNH VI VI PHẠM VỀ NGOẠI HỐI VÀ HOẠT ĐỘNG NGOẠI HỐI
+
+Các hành vi vi phạm về quản lý ngoại hối và hoạt động ngoại hối gồm có:
+
+1. Kinh doanh ngoại hối không có giấy phép, hoặc kinh doanh không đúng với nội dung ghi trong giấy phép của Ngân hàng Nhà nước;
+
+2. Hoạt động ngoại hối khi đã bị đình chỉ, chấm dứt, thu hồi giấy phép hoặc giấy phép hoạt động ngoại hối đã hết hạn;
+
+3. Mở và sử dụng tài khoản ngoại tệ ở nước ngoài khi chưa được phép;
+
+4. Có ngoại tệ gửi ở nước ngoài khi chưa được phép hoặc có ngoại tệ gửi ở nước ngoài quá mức qui định;
+
+5. Chuyển hay mang ngoại hối ra nước ngoài, mua bán, thanh toán và cho vay ngoại hối trái với qui định;
+
+6. Không chấp hành các qui định về trạng thái ngoại hối hoặc trạng thái đồng Việt Nam, niêm yêt tỷ giá sai qui định; mua, bán ngoại tệ không đúng với tỷ giá niêm yết theo quy đinh;
+
+7. Che giấu hoặc đồng loã với hành vi vi phạm pháp luật về ngoại hối và hoạt động ngoại hối;
+
+8. Không bán phần ngoại tệ thu được từ các giao dịch vãng lai theo tỷ lệ do Nhà nước qui định;
+
+9. Người cư trú là tổ chức kinh tế Việt Nam, doanh nghiệp có vốn đầu tư nước ngoài, tổ chức tín dụng ở Việt Nam khi vay và trả nợ hoặc cho vay và thu hồi nợ nước ngoài không thực hiện đăng ký và báo cáo tình hình thực hiện khoản vay với Ngân hàng Nhà nước theo quy định;
+
+10. Chuyển vốn đầu tư bằng tiền hay tài sản (thể hiện dưới dạng vô hình hoặc hữu hình) ra nước ngoài của tổ chức kinh tế Việt Nam không đăng ký với Ngân hàng Nhà nước;
+
+11. Sử dụng vàng tiêu chuẩn quốc tế trái với mục đích được phép qui định tại Thông tư này; kinh doanh xuất nhập khẩu vàng tiêu chuẩn quốc tế không có giấy phép của Ngân hàng Nhà nước hoặc không đúng với nội dung ghi trong giấy phép;
+
+12. Ngân hàng được phép không thực hiện nghiêm túc việc kiểm tra các giấy tờ và các chứng từ bắt buộc phải xuất trình trong các giao dịch liên quan đến ngoại hối;
+
+13. Không thực hiện cung cấp thông tin, số liệu, các báo cáo theo đúng qui định về thông tin báo cáo;
+
+14. Các hành vi vi phạm khác về quản lý ngoại hối.
+
+MỤC III. HÌNH THỨC XỬ LÝ VI PHẠM
+
+1. Tổ chức, cá nhân có hành vi vi phạm như quy định tại Mục II Phần thứ chín của Thông tư này thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, tịch thu, đình chỉ hoặc thu hồi giấy phép hoạt động, xử lý hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật.
+
+2. Các cơ quan có thẩm quyền khi xử lý vi phạm về ngoại hối và hoạt động ngoại hối xét thấy thành vi vi phạm có dấu hiệu tội phạm thì phải chuyển ngay hồ sơ cho cơ quan xử lý hình sự có thẩm quyền giải quyết đồng thời thông báo cho Ngân hàng Nhà nước biết các hành vi vi phạm về ngoại hối để phối hợp xử lý.
+
+MỤC IV. THẨM QUYỀN XỬ LÝ VI PHẠM VỀ QUẢN LÝ NGOẠI HỐI
+
+1. Thẩm quyền của thanh tra Ngân hàng Nhà nước
+
+Thanh tra Ngân hàng Nhà nước có thẩm quyền xử lý vi phạm hành chính đối với tổ chức, cá nhân có hành vi vi phạm trong lĩnh vực ngoại hối và hoạt động ngoại hối bằng các hình thức xử phạt hành chính như cảnh cáo hoặc phạt tiền, các hình thức xử phạt bổ sung như: đình chỉ có thời hạn hoặc chấm dứt một phần hay toàn bộ các hoạt động ngoại hối, tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính và các biện pháp khác theo quy định của Pháp lệnh xử lý vi phạm hành chính.
+
+2. Thẩm quyền của cơ quan hữu quan
+
+a. Những cơ quan hữu quan trong phạm vi thẩm quyền của mình có trách nhiệm xử lý những trường hợp vi phạm về quản lý ngoại hối và thông báo trường hợp vi phạm cho Ngân hàng cùng cấp biết.
+
+b. Trong quá trình kiểm tra, xử lý, nếu phát hiện các giấy phép được cấp không đúng với thẩm quyền hoặc nội dung trái pháp luật thì cơ quan xử lý phải tiến hành tạm giữ ngay và đồng thời báo cho Ngân hàng Nhà nước biết.
+
+MỤC V. KHIẾU NẠI, KHIẾU KIỆN VỀ QUYẾT ĐỊNH XỬ LÝ VI PHẠM HÀNH CHÍNH
+
+1. Tổ chức, cá nhân bị xử lý vi phạm hành chính trong lĩnh vực ngoại hối và hoạt động ngoại hối có quyền khiếu nại đối với quyết định xử lý vi phạm hành chính đến cơ quan Nhà nước có thẩm quyền hoặc khiếu nại tại Toà án. Việc khiếu nại, khiếu kiện được thực hiện theo qui định của pháp luật.
+
+2. Trong thời gian khiếu nại hoặc khiếu kiện, tổ chức, cá nhân bị xử lý vi phạm hành chính vẫn phải thi hành quyết định xử lý vi phạm hành chính. Khi quyết định giải quyết khiếu nại của cơ quan nhà nước có thẩm quyền hoặc bản án, quyết định của Toà án đã có hiệu lực pháp luật thì thi hành theo quyết định giải quyết khiếu nại của cơ quan Nhà nước có thẩm quyền hoặc theo bản án, quyết định của Toà án.
+
+MỤC VI. XỬ LÝ NGOẠI HỐI TẠM GIỮ
+
+1. Khi áp dụng hình thức tạm giữ tang vật vi phạm là ngoại hối, người có thẩm quyền tạm giữ phải lập biên bản, ghi rõ tên, số lượng, chủng loại ngoại hối bị tịch thu, số sê ri (nếu có), tình trạng, chất lượng của ngoại hối đó, chữ ký của người tiến hành tạm giữ, người bị tạm giữ hoặc đại diện tổ chức bị tạm giữ và người làm chứng. Trong phạm vi 7 (bảy) ngày làm việc kể từ ngày tạm giữ, cơ quan có thẩm quyền tạm giữ phải gửi bảo quản ngoại hối là tang vật, vi phạm tại Ngân hàng nơi gần nhất và thông báo ngay cho cơ quan có thẩm quyền xử lý.
+
+2. Cơ quan xử lý phải phối hợp với cơ quan chức năng tiến hành giám định để phân biệt thật, giả và phải niêm phong đóng gói trước người bị tạm giữ hoặc đại diện tổ chức bị tạm giữ và người làm chứng;
+
+3. Sau khi được giám định và niêm phong, tang vật, vi phạm là ngoại hối phải gửi ngay vào ngân hàng thương mại quốc doanh nơi gần nhất. Khi nhận được ngoại hối vi phạm, ngân hàng phải lập biên bản giao nhận trên cơ sở biên bản bắt giữ. Trong biên bản giao nhận phải ghi rõ những điểm đã ghi trong biên bản bắt giữ. Biên bản giao nhận làm thành hai bản, một bản giao cho tổ chức, cá nhân bắt giữ, một bản do ngân hàng giữ.
+
+4. Khi Ngân hàng nhận được ngoại hối vi phạm phải hạch toán vào tài khoản "Tạm giữ và chờ xử lý". Trong suốt thời gian chờ xử lý, ngoại hối vi phạm không được sử dụng vào bất kỳ mục đích nào. Khi có quyết định xử lý, Ngân hàng phải hạch toán như sau:
+
+a. Nếu bị tịch thu toàn bộ ngoại hối bị vi phạm, sau khi trích lại phần tiền thưởng theo qui định, ngân hàng phải tất toán tài khoản "tạm giữ và chờ xử lý" và số ngoại hối tịch thu theo quyết định của cơ quan Nhà nước có thẩm quyền phải nộp ngay vào ngân sách nhà nước.
+
+b. Nếu quyết định xử lý tịch thu một phần tang vật vi phạm thì ngân hàng tất toán tài khoản "tạm giữ và chờ xử lý" và hạch toán phần quyết định chờ xử lý tịch thu như qui định ở trên, phần ngoại hối còn lại được trả lại cho đương sự.
+
+c. Nếu quyết định trả lại toàn bộ ngoại hối phạm pháp thì ngân hàng tất toán tài khoản "tạm giữ và chờ xử lý" và trả lại cho đương sự số ngoại hối tạm giữ.
+
+d. Nếu ngoại hối phạm pháp là ngoại tệ giả hoặc không còn giá trị lưu hành thì ngân hàng tất toán tài khoản "tạm giữ và chờ xử lý" và giữ lại số ngoại hối đó để tiến hành tiêu huỷ theo quy định của Ngân hàng Nhà nước.
+
+PHẦN THỨ MƯỜI
+
+ĐIỀU KHOẢN THI HÀNH
+
+1. Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký.
+
+Thông tư số 33/NH-TT ngày 15 tháng 3 năm 1989 của Ngân hàng Nhà nước hướng dẫn thi hành Điều lệ quản lý ngoại hối của Nước Cộng hoà Xã hội Chủ nghĩa Việt Nam ban hành kèm theo Nghị định số 161/HĐBT ngày 18 tháng 10 năm 1988 của Hội đồng Bộ trưởng này là Chính phủ và các quy định trước đây về quản lý ngoại hối trái với quy định của Thông tư này đều bãi bỏ.
+
+2. Các tổ chức và cá nhân có hoạt động ngoại hối chịu trách nhiệm thi hành thông tư này.
+
+3. Thủ trưởng các Vụ, Cục, Chánh văn phòng, Chánh thanh tra thuộc Ngân hàng Nhà nước, Giám đốc các Chi nhánh Ngân hàng Nhà nước Tỉnh, thành phố, Tổng giám đốc (Giám đốc) các Tổ chức tín dụng trong phạm vi chức năng của mình chịu trách nhiệm tổ chức, hướng dẫn, triển khai, thực hiện Thông tư này.
+
+
+
+
+
+

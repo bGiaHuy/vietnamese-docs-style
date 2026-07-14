@@ -1,0 +1,454 @@
+# Công văn về việc khấu trừ thuế 10% đối với cá nhân làm đại lý
+# Loại: Công văn
+# Số hiệu: 6209/BTC-TCT
+# Ngày ban hành: 17/05/2006
+# Cơ quan: Bộ Tài chính
+# Người ký: Nguyễn Thị Cúc
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Ban hành Quy chế quản lý và sử dụng chữ ký số, chứng thư số
+
+chuyên dùng trong các cơ quan nhà nước trên địa bàn tỉnh Bến Tre
+
+
+
+
+
+
+
+ỦY BAN NHÂN DÂN TỈNH BẾN TRE
+
+
+
+Căn cứ Luật tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015;
+
+Căn cứ Luật ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015;
+
+Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005;
+
+Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số;
+
+Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước;
+
+Căn cứ Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số 26/2007/NĐ-CP của Chính phủ ngày 15 tháng 02 năm 2007 quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số;
+
+Căn cứ Thông tư số 08/2016/TT-BQP ngày 01 tháng 2 năm 2016 của Bộ Quốc phòng quy định về cung cấp, quản lý và sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội;
+
+Theo đề nghị của Giám đốc Sở Thông tin và Truyền thông tại Tờ trình số 821/TTr-STTTT ngày 07 tháng 6 năm 2017,
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý và sử dụng chữ ký số, chứng thư số chuyên dùng trong các cơ quan nhà nước trên địa bàn tỉnh Bến Tre.
+
+Điều 2. Quyết định này có hiệu lực kể từ ngày 02 tháng 7 năm 2017.
+
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh, Giám đốc Sở Thông tin và Truyền thông, Thủ trưởng các sở, ban, ngành tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thành phố và các cơ quan, đơn vị, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+
+
+
+
+
+
+
+TM. ỦY BAN NHÂN DÂN
+
+CHỦ TỊCH
+
+
+
+
+
+Cao Văn Trọng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ỦY BAN NHÂN DÂN
+
+
+TỈNH BẾN TRE
+
+
+
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+
+Độc lập - Tự do - Hạnh phúc
+
+
+
+
+
+
+
+
+
+
+QUY CHẾ
+
+Quy chế quản lý và sử dụng chữ ký số, chứng thư số chuyên dùng
+
+trong các cơ quan nhà nước trên địa bàn tỉnh Bến Tre
+
+(Ban hành kèm theo Quyết định số 31/2017/QĐ-UBND
+
+ngày 22 tháng 6 năm 2017 của Ủy ban nhân dân tỉnh Bến Tre)
+
+
+
+
+
+
+
+Chương I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định về việc quản lý và sử dụng chữ ký số, chứng thư số chuyên dùng trong các cơ quan nhà nước trên địa bàn tỉnh Bến Tre.
+
+Điều 2. Đối tượng áp dụng
+
+Quy chế này được áp dụng đối với các cơ quan nhà nước trên địa bàn tỉnh Bến Tre có liên quan đến hoạt động quản lý, sử dụng chữ ký số, chứng thư số để giao dịch điện tử, gồm:
+
+1. Ủy ban nhân dân các cấp;
+
+2. Các sở, ban, ngành, các đơn vị sự nghiệp thuộc Ủy ban nhân dân tỉnh;
+
+3. Các đơn vị sự nghiệp thuộc sở, ban, ngành tỉnh;
+
+4. Các phòng, ban thuộc Ủy ban nhân dân cấp huyện;
+
+5. Các cá nhân là người có thẩm quyền của cơ quan, tổ chức quy định tại Khoản 1, 2, 3, 4 Điều này theo quy định của pháp luật về quản lý và sử dụng con dấu và người có chức danh nhà nước có nhu cầu giao dịch điện tử các cơ quan nêu trên.
+
+Điều 3. Giải thích từ ngữ
+
+1. Thông điệp dữ liệu là thông tin được tạo ra, được gửi đi, được nhận và được lưu trữ bằng phương tiện điện tử;
+
+2. Văn bản điện tử là văn bản được thể hiện dưới dạng thông điệp dữ liệu;
+
+3. Chứng thư số là thông điệp dữ liệu do tổ chức cung cấp dịch vụ chứng thực chữ ký số phát hành nhằm xác nhận cơ quan, tổ chức, cá nhân được chứng thực là người ký chữ ký số;
+
+4. Khoá là một chuỗi các số nhị phân (0 và 1) dùng trong các hệ thống mật mã;
+
+5. Khóa bí mật là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được dùng để tạo chữ ký số;
+
+6. Khóa công khai là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được sử dụng để kiểm tra chữ ký số được tạo bởi khoá bí mật tương ứng trong cặp khoá;
+
+7. Hệ thống mật mã không đối xứng là hệ thống mật mã có khả năng tạo được cặp khóa bao gồm khóa bí mật và khóa công khai;
+
+8. Chữ ký số là một dạng chữ ký điện tử được tạo ra bằng sự biến đổi một thông điệp dữ liệu sử dụng hệ thống mật mã không đối xứng theo đó người có được thông điệp dữ liệu ban đầu và khóa công khai của người ký có thể xác định được chính xác:
+
+a) Việc biến đổi nêu trên được tạo ra bằng đúng khóa bí mật tương ứng với khóa công khai trong cùng một cặp khóa;
+
+b) Sự toàn vẹn nội dung của thông điệp dữ liệu kể từ khi thực hiện việc biến đổi nêu trên.
+
+9. Thuê bao là tổ chức, cá nhân được cấp chứng thư số, chấp nhận chứng thư số và giữ khóa bí mật tương ứng với khóa công khai ghi trên chứng thư số được cấp;
+
+10. Người quản lý thuê bao là cá nhân được người có thẩm quyền quyết định ủy quyền thực hiện nhiệm vụ quản lý thuê bao;
+
+11. Ký số là việc đưa khóa bí mật vào một chương trình phần mềm để tự động tạo và gắn chữ ký số vào thông điệp dữ liệu;
+
+12. Người ký là thuê bao dùng đúng khóa bí mật của mình để ký số vào một thông điệp dữ liệu dưới tên của mình;
+
+13. Người nhận là tổ chức, cá nhân nhận được thông điệp dữ liệu được ký số bởi người ký, sử dụng chứng thư số của người ký đó để kiểm tra chữ ký số trong thông điệp dữ liệu nhận được và tiến hành các hoạt động, giao dịch có liên quan;
+
+14. Thiết bị lưu khóa bí mật là thiết bị vật lý chứa chứng thư số và khóa bí mật của thuê bao.
+
+Điều 4. Giá trị pháp lý của văn bản điện tử được ký số
+
+1. Văn bản điện tử được ký số bằng chứng thư số cá nhân do Ban Cơ yếu Chính phủ cấp trong thời gian còn hiệu lực thì có giá trị pháp lý như văn bản giấy được ký tay;
+
+2. Văn bản điện tử được ký số bằng chứng thư số cá nhân và chứng thư số cơ quan do Ban Cơ yếu Chính phủ cấp trong thời gian còn hiệu lực thì có giá trị pháp lý như văn bản giấy được ký tay và đóng dấu.
+
+Điều 5. Thẩm quyền quản lý thuê bao
+
+Chủ tịch ủy ban nhân dân tỉnh thống nhất quản lý các thuê bao chữ ký số trong các cơ quan nhà nước trên địa bàn tỉnh; Đồng thời, ủy quyền cho Giám đốc Sở Thông tin và Truyền thông thực hiện trách nhiệm người quản lý thuê bao của các tổ chức, cá nhân trong các cơ quan nhà nước tỉnh Bến Tre và thực hiện nhiệm vụ của người quản lý thuê bao theo quy định tại Điều 28 Thông tư 08/2016/TT-BQP.
+
+Điều 6. Các loại văn bản ký bằng chữ ký số
+
+1. Các loại văn bản bắt buộc áp dụng văn bản điện tử ký bằng Chữ ký số (không dùng văn bản giấy) để trao đổi giữa các cơ quan nhà nước và trong nội bộ của mỗi cơ quan nhà nước trên địa bàn tỉnh Bến Tre là các loại văn bản sau đây:
+
+a)     Lịch làm việc;
+
+b)    Giấy mời, tài liệu họp, tài liệu đào tạo, tập huấn;
+
+c)     Báo cáo định kỳ các cấp;
+
+d)    Văn bản để biết, để báo cáo;
+
+e)     Văn bản đề nghị góp ý kèm theo dự thảo;
+
+f)      Thông báo;
+
+g)     Chương trình, Kế hoạch.
+
+2. Đối với các loại văn bản ngoài phạm vi quy định tại Khoản 1 Điều này khuyến khích áp dụng chữ ký số.
+
+Điều 7. Cấp mới, gia hạn, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật
+
+1. Cấp mới chứng thư số
+
+Điều kiện, hồ sơ, trình tự, thủ tục cấp chứng thư số chuyên dùng thực hiện theo quy định tại Điều 13, 14, 15 Thông tư 08/2016/TT-BQP.
+
+2. Gia hạn chứng thư số
+
+Điều kiện, trình tự, thủ tục gia hạn chứng thư số chuyên dùng thực hiện theo quy định tại Điều 16, 17 Thông tư 08/2016/TT-BQP.
+
+3. Thu hồi chứng thư số
+
+Các trường hợp thu hồi, thẩm quyền thu hồi, hồ sơ, trình tự, thủ tục thu hồi và thu hồi thiết bị lưu khóa bí mật thực hiện theo quy định tại Điều 18, 19, 20 và 21 Thông tư 08/2016/TT-BQP.
+
+4. Khôi phục thiết bị lưu khóa bí mật
+
+Khôi phục thiết bị lưu khóa bí mật thực hiện theo quy định tại Điều 24  Thông tư 08/2016/TT-BQP.
+
+Điều 8. Quản lý và sử dụng chữ ký số, chứng thư số của cơ quan, tổ chức
+
+1. Cán bộ văn thư của cơ quan, tổ chức là người được lãnh đạo cơ quan, tổ chức giao quản lý và sử dụng chữ ký số, chứng thư số thể hiện con dấu của cơ quan, tổ chức mình; có trách nhiệm thực hiện các quy định tại Điều 14 Quy chế này đối với chữ ký số, chứng thư số được giao quản lý và sử dụng;
+
+2. Chữ ký số của các chức danh nhà nước, người có thẩm quyền của cơ quan, tổ chức theo quy định của pháp luật về quản lý và sử dụng con dấu chỉ được sử dụng để thực hiện các giao dịch theo đúng chức danh của người đó;
+
+3. Việc ký thay, ký thừa lệnh theo quy định của pháp luật được thực hiện bởi người có thẩm quyền và người ký thay, ký thừa lệnh sử dụng chữ ký số của mình để ký;
+
+4. Chữ ký số thể hiện con dấu của cơ quan, tổ chức phải được chứng thực bởi Tổ chức cung cấp dịch vụ và chỉ được sử dụng để thực hiện các giao dịch theo đúng quy định về quản lý và sử dụng con dấu.
+
+
+
+Chương II
+
+ỨNG DỤNG CHỮ KÝ SỐ TRONG QUY TRÌNH HÀNH CHÍNH
+
+
+
+Điều 9. Quy trình ký số trên văn bản điện tử
+
+Văn bản điện tử trước khi phát hành phải được ký số bằng chứng thư số cá nhân của người có thẩm quyền ký văn bản và chứng thư số cơ quan do Ban Cơ yếu Chính phủ cấp trong thời gian còn hiệu lực. Quy trình ký số trên văn bản điện tử được thực hiện theo trình tự sau:
+
+Bước 1. Kiểm tra và chuyển định dạng văn bản điện tử: Văn bản điện tử đã qua phê duyệt lần cuối của người có thẩm quyền sẽ được chuyển đến văn thư cơ quan, tổ chức để kiểm tra tính chính xác về hình thức, kỹ thuật trình bày văn bản và ghi số, ngày tháng năm. Sau đó định dạng thành tập tin PDF và chuyển đến người có thẩm quyền ký văn bản qua phần mềm quản lý văn bản và điều hành;
+
+Bước 2. Thực hiện ký số: Người có thẩm quyền ký văn bản bằng chứng thư số cá nhân của mình và chuyển đến Văn thư qua phần mềm quản lý văn bản và điều hành để tiếp tục ký chứng thư số của cơ quan;
+
+Văn thư không thực hiện các hình thức đóng dấu giáp lai, dấu treo trên văn bản điện tử như trên văn bản giấy do chữ ký số luôn đảm bảo tính toàn vẹn của văn bản điện tử. Trường hơp tài liệu đính kèm với văn bản chính không cùng một tập tin thì phải tiếp tục thực hiện chữ ký chứng thư số của cơ quan;
+
+Bước 3. Đăng ký vào sổ và phát hành: Văn thư cơ quan đăng ký văn bản điện tử đã ký vào sổ đăng ký văn bản đi trên phần mềm quản lý văn bản và điều hành. Đồng thời thực hiện phát hành văn bản trên môi trường mạng;
+
+Trường hợp cơ quan, đơn vị có nhu cầu phát hành văn bản điện tử và văn bản giấy thì Văn thư in văn bản điện tử ở bước 1 để trình người có thẩm quyền ký, đóng dấu và phát hành. Văn bản giấy phải đảm bảo cùng số, ngày tháng năm và cùng chữ ký của người có thẩm quyền.
+
+Điều 10. Phương thức chuyển đổi văn bản giấy sang văn bản điện tử
+
+Văn bản điện tử bản gốc, bản chính hoặc bản sao văn bản giấy của cơ quan, tổ chức đã ban hành được xem là bản sao có giá trị pháp lý khi đảm bảo tính chính xác về nội dung và được gắn chữ ký số của cá nhân có thẩm quyền và chữ ký số của cơ quan thực hiện chuyển đổi.
+
+1. Phương thức chuyển đổi chữ ký tay trên văn bản bằng giấy sang chữ ký số: chữ ký tay của một hay nhiều người có thẩm quyền đã ký trên văn bản giấy sẽ được thực hiện trên văn bản điện tử bằng chữ ký số cá nhân người có thẩm quyền của cơ quan thực hiện việc chuyển đổi văn bản giấy sang văn bản điện tử.
+
+2. Phương thức chuyển con dấu giáp lai đóng trên văn bản giấy sang chữ ký chứng thư số cơ quan: Con dấu pháp nhân của cá nhân, tổ chức đóng ở vị trí chữ ký của người có thẩm quyền, dấu treo hoặc dấu giáp lai trên văn bản bằng giấy được thể hiện trên văn bản điện tử bằng chữ ký số của cơ quan thực hiện việc chuyển đổi văn bản giấy sang văn bản điện tử.
+
+Điều 11. Kiểm tra tính hợp lệ của chữ ký số trên văn bản điện tử
+
+Khi nhận được văn bản điện tử có ký số, văn thư phải thực hiện việc xác thực chữ ký số như sau:
+
+1. Kiểm tra tính hợp lệ của chữ ký số;
+
+2. Nếu chữ ký số không hợp lệ thì thông báo lại với đơn vị gửi văn bản biết để ký và gửi lại, đồng thời xóa văn bản không hợp lệ đó;
+
+3. Nếu văn bản điện tử được ký bởi chữ ký số hợp lệ thì có thể vào sổ văn bản và xử lý ngay theo đúng trình tự văn bản giấy thông thường mà không cần chờ bản giấy;
+
+4. Các văn bản điện tử có chữ ký số lấy từ các trang thông tin điện tử hoặc các nguồn khác cần được xác thực chữ ký số trước khi sử dụng.
+
+Điều 12. Lưu trữ, sử dụng văn bản điện tử đã ký số
+
+1. Trong trường hợp cần thiết, sau khi đăng ký văn bản điện tử đến vào hệ thống quản lý văn bản và điều hành, Văn thư cơ quan có thể in văn bản điện tử đến ra giấy. Đồng thời, phải thực hiện việc đóng dấu Đến và ghi lại đầy đủ thông tin đã đăng ký trong phần mềm lên dấu Đến của bản in;
+
+2. Văn bản điện tử đã ký số khi lưu trữ phải là dạng nguyên bản, không bị thay đổi sai lệch theo quy định của pháp luật về giao dịch điện tử;
+
+3. Văn bản điện tử phải được lưu trữ theo quy định của pháp luật về lưu trữ văn bản trên môi trường mạng nhằm bảo đảm cho việc tìm kiếm, tra cứu được dễ dàng, nhanh chóng;
+
+4. Văn bản điện tử đã ký sổ phải thực hiện sao lưu định kỳ sang các thiết bị lưu trữ chuyên dùng và phải được bảo quản tại nơi bảo đảm về an toàn, an ninh.
+
+
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 13. Sở Thông tin và Truyền thông
+
+1. Giám đốc Sở Thông tin và Truyền thông thực hiện nhiệm vụ của Người quản lý thuê bao theo quy định:
+
+a) Bố trí cán bộ theo dõi, thực hiện trách nhiệm của người quản lý thuê bao theo quy định;
+
+b) Xem xét và phê duyệt danh sách thuê bao đề nghị cấp, thu hồi, khôi phục chứng thư số thuộc phạm vi được ủy quyền;
+
+c) Bàn giao chứng thư số tới các thuê bao, hướng dẫn các thuê bao trong quá trình quản lý, sử dụng chúng thư số, khóa bí mật và việc thực hiện các quy định tại Quy chế này;
+
+d) Lưu trữ đầy đủ, chính xác và cập nhật kịp thời hồ sơ đề nghị cấp, thu hồi, khôi phục chứng thư số của thuê bao thuộc quyền quản lý.
+
+2. Phối hợp với các cơ quan có liên quan thanh tra, kiểm tra việc quản lý, sử dụng chứng thư số, chữ ký số của các cơ quan, cá nhân trong phạm vi thẩm quyền quản lý;
+
+3. Báo cáo định kỳ và đột xuất về Ủy ban nhân dân tỉnh, Bộ Thông tin và Truyền thông, Ban Cơ yếu Chính phủ về việc quản lý, sử dụng chữ ký số, chứng thư số trong các cơ quan nhà nước của tỉnh.
+
+Điều 14. Nhiệm vụ của thuê bao
+
+1. Cung cấp các thông tin liên quan đến việc cấp chứng thư số chính xác và đầy đủ;
+
+2. Thông báo kịp thời cho cơ quan quản lý trực tiếp thuê bao hoặc Sở Thông tin và Truyền thông thu hồi chứng thư số theo quy định;
+
+3. Đề nghị khôi phục thiết bị lưu khóa bí mật trong trường hợp thiết bị lưu khóa bí mật bị khóa;
+
+4. Quản lý thiết bị lưu khóa bí mật được cấp như quản lý bí mật nhà nước độ “Mật”;
+
+5. Sử dụng chứng thư số đúng mục đích và tuân thủ các quy trình, quy định của Quy chế này và các văn bản pháp luật có liên quan về quản lý, sử dụng chữ ký số, chứng thư số và dịch vụ chứng thực chữ ký số.
+
+Điều 15. Nhiệm vụ của Cơ quan quản lý trực tiếp thuê bao
+
+1. Tổ chức triển khai sử dụng có hiệu quả chữ ký số, chứng thư số đã cấp cho cơ quan, cá nhân thuộc quyền quản lý nhằm tăng cường trao đổi văn bản điện tử được ký bằng chữ ký số đã cấp thông qua phần mềm quản lý văn bản và điều hành; hệ thống thư điện tử; cổng thông tin điện tử của tỉnh; các trang thông tin điện tử của cơ quan và các hệ thống ứng dụng khác có liên quan đến việc sử dụng chữ ký số để xác thực;
+
+2. Định kỳ (trước ngày 15/11 hàng năm) thực hiện kiểm tra, báo cáo về việc quản lý và sử dụng, chữ ký số, chứng thư số trong hoạt động của cơ quan theo Mẫu 01 Quy chế này, gửi về Sở Thông tin và Truyền thông để tổng hợp;
+
+3. Phối hợp với Sở Thông tin và Truyền thông và các cơ quan có liên quan trong công tác thanh tra, kiểm tra việc quản lý, sử dụng chữ ký số, chứng thư số của cơ quan, cá nhân thuộc quyền quản lý;
+
+4. Thực hiện các nhiệm vụ khác quy định tại Điều 29 Thông tư số 08/2016/TT-BQP.
+
+Điều 16. Đối với bên chấp nhận chữ ký số
+
+1. Trước khi chấp nhận chữ ký số của người ký, người nhận phải tiến hành kiểm tra những thông tin sau:
+
+a) Hiệu lực, phạm vi sử dụng, giới hạn trách nhiệm và những thông tin khác liên quan đến chứng thư số của người ký;
+
+b) Chữ ký số phải được tạo bởi khóa bí mật tương ứng với khóa công khai trên chứng thư số của người ký.
+
+2. Việc kiểm tra chữ ký số được thực hiện thông qua phần mềm hỗ trợ.
+
+3. Người nhận chịu trách nhiệm khi:
+
+a) Không tuân thủ các quy định tại khoản 1 Điều này;
+
+b) Đã biết hoặc được thông báo về sự không còn tin cậy của chứng thư số và khóa bí mật của người ký.
+
+Điều 17. Khen thưởng, xử lý vi phạm
+
+1. Đưa các tiêu chí đánh giá tình hình triển khai chữ ký số vào trong Bộ tiêu chí đánh giá, xếp hạng cải cách hành chính (mục hiện đại hóa nền hành chính), trên cơ sở đó đề xuất Ủy ban nhân dân tỉnh xem xét khen thưởng các cơ quan, cá nhân theo quy định hiện hành;
+
+2. Áp dụng các hình thức kỷ luật hoặc truy cứu trách nhiệm hình sự đối với cá nhân, tổ chức vi phạm nguyên tắc quản lý và sử dụng chứng thư số theo quy định của pháp luật hiện hành về quản lý thiết bị, tài liệu theo chế độ “Mật”.
+
+Điều 18. Điều khoản thi hành
+
+1. Sở Thông tin và Truyền thông có trách nhiệm chủ trì, phối hợp với các cơ quan có liên quan hướng dẫn, triển khai và kiểm tra việc thực hiện Quy chế; đồng thời tổng hợp báo cáo định kỳ hàng năm về Ủy ban nhân dân tỉnh và Bộ Thông tin và Truyền thông.
+
+2. Sở Nội vụ có trách nhiệm phối hợp với Sở Thông tin và Truyền thông, các cơ quan có liên quan hướng dẫn chi tiết về quản lý và giải quyết văn bản điện tử, tạo Danh mục hồ sơ, lập và nộp hồ sơ trong môi trường mạng để các cơ quan nhà nước trên địa bàn tỉnh thực hiện thống nhất theo quy định.
+
+3. Các cơ quan quy định tại Điều 2 Quy chế này có trách nhiệm tổ chức triển khai và kiểm tra việc thực hiện tại cơ quan mình quản lý theo đúng các quy định Quy chế này.
+
+Trong quá trình triển khai thực hiện, nếu có khó khăn, vướng mắc và cần sửa đổi, bổ sung Quy chế, các cơ quan và cá nhân kịp thời phản ánh về Sở Thông tin và Truyền thông để tổng hợp, báo cáo đề xuất Ủy ban nhân dân tỉnh xem xét, quyết định./.
+
+
+
+
+
+
+

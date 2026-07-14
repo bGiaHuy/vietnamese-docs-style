@@ -1,0 +1,541 @@
+# Công về việc bãi bỏ tạm giữ chờ quyết toán
+# Loại: Công văn
+# Số hiệu: 4617/TC/ĐT
+# Ngày ban hành: 19/04/2005
+# Cơ quan: Bộ Tài chính
+# Người ký: Trần Văn Tá
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Ban hành Quy định trình tự, thủ tục thực hiện dự án đầu tư
+
+theo hình thức đối tác công tư trên địa bàn tỉnh Hà Tĩnh
+
+ỦY BAN NHÂN DÂN TỈNH
+
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+
+Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015;
+
+Căn cứ Luật Đầu tư ngày 26/11/2014;
+
+Căn cứ Luật Đầu tư công ngày 18/6/2014;
+
+Căn cứ Luật Xây dựng ngày 18/6/2014;
+
+Căn cứ Luật Đấu thầu ngày 26/11/2013;
+
+Căn cứ các Nghị định của Chính phủ: Số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ về đầu tư theo hình thức đối tác công tư (sau đây gọi tắt là Nghị định số 15/2015/NĐ-CP của Chính phủ); số 30/2015/NĐ-CP ngày 17/3/2015 của Chính phủ quy định chi tiết một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư (sau đây gọi tắt là Nghị định số 30/2015/NĐ-CP của Chính phủ); Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 của Chính phủ về quản lý dự án đầu tư xây dựng (sau đây gọi tắt là Nghị định số 59/2015/NĐ-CP của Chính phủ); Nghị định số 42/2017/NĐ-CP ngày 05/4/2017 của Chính phủ về sửa đổi, bổ sung một số điều Nghị định số 59/2015/NĐ-CP ngày 18/6/2015 của Chính phủ về quản lý dự án đầu tư xây dựng (sau đây gọi tắt là Nghị định số 42/2017/NĐ-CP của Chính phủ); Nghị định số 136/2015/NĐ-CP ngày 31/12/2015 của Chính phủ hướng dẫn thi hành một số điều của Luật Đầu tư công (sau đây goi tắt là Nghị định số 136/2015/NĐ-CP của Chính phủ);
+
+Căn cứ Quyết định số 23/2015/QĐ-TTg ngày 26/6/2015 của Thủ tướng Chính phủ về việc Quy định cơ chế Nhà nước thanh toán bằng quỹ đất cho Nhà đầu tư khi thực hiện Dự án đầu tư xây dựng theo hình thức Xây dựng - Chuyển giao;
+
+Căn cứ Thông tư số 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư hướng dẫn lựa chọn sơ bộ dự án, lập, thẩm định, phê duyệt Đề xuất dự án và Báo cáo nghiên cứu khả thi dự án đầu tư theo hình thức đối tác công tư (sau đây gọi tắt là Thông tư số 02/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư); Thông tư số 06/2016/TT-BKHĐT ngày 28/6/2016 của Bộ Kế hoạch và Đầu tư hướng dẫn thực hiện một số điều của Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ về đầu tư theo hình thức đối tác công tư (sau đây gọi tắt là Thông tư số 06/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư); Thông tư số 183/2015/TT-BTC ngày 17/11/2015 của Bộ Tài chính hướng dẫn thực hiện thanh toán bằng quỹ đất cho Nhà đầu tư thực hiện Dự án đầu tư xây dựng - chuyển giao quy định tại Quyết định số 23/2015/QĐ-TTg ngày 26/6/2015 của Thủ tướng Chính phủ;
+
+Xét đề nghị của Sở Kế hoạch và Đầu tư tại Văn bản số 1259/SKHĐT-TĐ ngày 14/6/2017; ý kiến thẩm định của Sở Tư pháp tại Văn bản số 260/BC-STP ngày 14/6/2017.
+
+QUYẾT ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết định này Quy định trình tự, thủ tục thực hiện dự án đầu tư theo hình thức đối tác công tư (sau đây gọi tắt là dự án PPP) trên địa bàn tỉnh Hà Tĩnh.
+
+Điều 2. Hiệu lực thi hành
+
+1. Quyết định này có hiệu lực kể từ ngày 15 tháng 7 năm 2017.
+
+2. Các nội dung quy định tại văn bản quy phạm pháp luật khác của Ủy ban nhân dân tỉnh và văn bản hướng dẫn của cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh ban hành trước ngày Quyết định này có hiệu lực mà trái với quy định kèm theo quyết định này thì bị bãi bỏ.
+
+Điều 3. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc (Thủ trưởng) các sở, ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã; Chủ tịch Ủy ban nhân dân các xã, phường, thị trấn, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+
+
+
+
+QUY ĐỊNH
+
+Trình tự, thủ tục thực hiện dự án đầu tư theo hình thức đối tác công tư
+
+trên địa bàn tỉnh Hà Tĩnh
+
+(Ban hành kèm theo Quyết định số 34 /2017/QĐ-UBND ngày 03 /7/2017 của Ủy ban nhân dân tỉnh Hà Tĩnh)
+
+
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy định này quy định một số nội dung về trình tự, thủ tục thực hiện dự án đầu tư theo hình thức đối tác công tư trên địa bàn tỉnh Hà Tĩnh.
+
+Điều 2. Đối tượng áp dụng
+
+Quy định này áp dụng đối với các cơ quan, tổ chức, cá nhân liên quan đến việc thực hiện dự án đầu tư theo hình thức đối tác công tư trên địa bàn tỉnh      Hà Tĩnh.
+
+Điều 3. Nguyên tắc thực hiện
+
+Việc triển khai thực hiện dự án đầu tư theo hình thức đối tác công tư trên địa bàn tỉnh Hà Tĩnh phải thực hiện theo đúng quy định hiện hành của pháp luật và trình tự, thủ tục tại Quy định này.
+
+Chương II
+
+TRÌNH TỰ, THỦ TỤC THỰC HIỆN DỰ ÁN PPP
+
+Điều 4. Các bước triển khai dự án PPP
+
+1. Thông qua danh mục dự án PPP.
+
+2. Chủ trương cho phép lập đề xuất dự án của Ủy ban nhân dân tỉnh (đối với dự án do Nhà đầu tư đề xuất).
+
+3. Quyết định chủ trương sử dụng vốn Nhà nước tham gia thực hiện dự án PPP (nếu có).
+
+4. Tổ chức lập, thẩm định và phê duyệt đề xuất dự án.
+
+5. Công bố dự án.
+
+6. Lập, thẩm định, phê duyệt báo cáo nghiên cứu khả thi (trừ dự án nhóm C).
+
+7. Sơ tuyển lựa chọn nhà đầu tư (nếu có).
+
+8. Lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà đầu tư.
+
+9. Tổ chức đấu thầu lựa chọn nhà đầu tư.
+
+10. Đàm phán và ký kết thỏa thuận đầu tư.
+
+11. Cấp Giấy chứng nhận đăng ký đầu tư (trừ dự án nhóm C).
+
+12. Thành lập doanh nghiệp dự án (dự án nhóm C và dự án thực hiện theo hình thức hợp đồng BT có thể không thành lập doanh nghiệp dự án).
+
+13. Ký kết hợp đồng chính thức.
+
+14. Triển khai thực hiện dự án.
+
+15. Nghiệm thu, thanh quyết toán đưa công trình, dự án vào sử dụng
+
+Điều 5. Trình tự, thủ tục thông qua danh mục và quyết định chủ trương sử dụng vốn đầu tư của Nhà nước tham gia thực hiện dự án
+
+1. Hàng năm, các cơ quan chuyên môn trực thuộc Ủy ban nhân dân tỉnh,  Ủy ban nhân dân cấp huyện căn cứ quy định hiện hành lựa chọn sơ bộ danh mục dự án theo hướng dẫn tại Điều 3 Thông tư số 02/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư, gửi Sở Kế hoạch và Đầu tư tổng hợp, báo cáo Ủy ban nhân dân tỉnh xem xét, trình Hội đồng nhân dân tỉnh thông qua danh mục.
+
+2. Sau khi danh mục dự án PPP được Hội đồng nhân dân tỉnh thông qua; Sở Kế hoạch và Đầu tư chủ trì, phối hợp với Sở Thông tin và Truyền thông và các sở, ban, ngành, địa phương liên quan công bố rộng rãi trên cổng thông tin điện tử của tỉnh và trang thông tin điện tử của các sở, ban, ngành, địa phương.
+
+3. Tùy thuộc vào nguồn vốn đầu tư công sử dụng cho dự án, trình tự, thủ tục quyết định chủ trương đầu tư dự án (đề xuất dự án) theo hình thức PPP áp dụng theo quy định tại các Điều: 23, 24, 25, 26, 27, 29, 30 và 31 của Luật Đầu tư công và Điều 18 của Nghị định số 136/2015/NĐ-CP của Chính phủ.
+
+Điều 6. Chủ trương lập đề xuất dự án của Ủy ban nhân dân tỉnh (đối với dự án do Nhà đầu tư đề xuất)
+
+1. Nhà đầu tư được đề xuất thực hiện dự án ngoài các dự án có trong danh mục dự án do cơ quan Nhà nước có thẩm quyền phê duyệt;
+
+2. Trước khi lập đề xuất dự án, Nhà đầu tư có trách nhiệm nghiên cứu, lựa chọn sơ bộ dự án theo quy định tại Điều 3 Thông tư số 02/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư, gửi Sở Kế hoạch và Đầu tư tổng hợp, tham mưu Ủy ban nhân dân tỉnh xem xét, cho phép nhà đầu tư lập đề xuất dự án;
+
+3. Nội dung văn bản cho phép lập đề xuất dự án gồm: Tên dự án; tên Nhà đầu tư đề xuất; mục tiêu đầu tư, quy mô đầu tư (dự kiến); tổng vốn đầu tư (dự kiến); hình thức thu hồi vốn (ưu tiên dự án tạo doanh thu từ hoạt động kinh doanh); sơ bộ phương án bồi thường GPMB, tái định cư (nếu có); thời gian khởi công, hoàn thành; dự kiến quỹ đất thanh toán cho dự án thực hiện theo hình thức Hợp đồng - Chuyển giao (BT).
+
+Điều 7. Lập, thẩm định, phê duyệt đề xuất dự án
+
+1. Điều kiện lựa chọn dự án: Theo quy định tại Điều 15 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+a) Tùy thuộc vào quy mô, tính chất dự án, Ủy ban nhân dân tỉnh giao các cơ quan chuyên môn hoặc Ủy ban nhân dân cấp huyện tổ chức lập đề xuất dự án làm cơ sở để lựa chọn dự án PPP;
+
+b) Đối với dự án do nhà đầu tư đề xuất phải đáp ứng các điều kiện quy định tại Điều 15 Nghị định số 15/2015/NĐ-CP của Chính phủ. Trường hợp Nhà đầu tư là doanh nghiệp nhà nước phải liên danh với doanh nghiệp khác để đề xuất dự án.
+
+2. Lập đề xuất dự án:
+
+a) Nội dung đề xuất dự án theo quy định tại Khoản 2 và Khoản 3 Điều 16 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+b) Hồ sơ dự án do cơ quan nhà nước đề xuất: Đơn vị chuẩn bị dự án trình Chủ tịch Ủy ban nhân dân tỉnh 01 bộ hồ sơ; đồng thời nộp 04 bộ hồ sơ tại Trung tâm hành chính công tỉnh. Hồ sơ đề xuất dự án, gồm:
+
+- Văn bản giao nhiệm vụ lập đề xuất dự án theo hình thức PPP của người có thẩm quyền;
+
+- Chủ trương sử dụng vốn nhà nước (nếu có);
+
+- Văn bản trình duyệt đề xuất dự án: Nội dung văn bản trình duyệt bao gồm căn cứ pháp lý lập đề xuất dự án, thuyết minh nội dung chính của đề xuất dự án và các kiến nghị;
+
+- Dự thảo đề xuất dự án;
+
+- Các tài liệu, văn bản pháp lý có liên quan.
+
+c) Hồ sơ dự án do nhà đầu tư đề xuất: Nhà đầu tư lập hồ sơ đề xuất dự án gửi Ủy ban nhân dân tỉnh, đồng thời gửi Sở Kế hoạch và Đầu tư 01 bộ hồ sơ đề xuất dự án. Nội dung hồ sơ đề xuất dự án, gồm:
+
+- Chủ trương cho phép lập đề xuất dự án theo hình thức PPP của Ủy ban nhân dân tỉnh;
+
+- Văn bản đề xuất thực hiện dự án của Nhà đầu tư;
+
+- Chủ trương sử dụng vốn nhà nước (nếu có);
+
+- Đề xuất dự án (bao gồm những nội dung quy định tại Khoản 2 và Khoản 3 Điều 16 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ);
+
+- Giấy tờ xác nhận tư cách pháp lý, năng lực, kinh nghiệm của nhà đầu tư;
+
+- Kinh nghiệm thực hiện dự án tương tự (nếu có);
+
+- Các tài liệu cần thiết khác để giải trình đề xuất dự án (nếu có).
+
+d) Đề xuất dự án phải được công bố theo quy định tại Điều 18 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+3. Thẩm định, phê duyệt đề xuất dự án
+
+a) Sau khi nhận được hồ sơ đề xuất dự án, Trung tâm hành chính công tỉnh gửi hồ sơ đến Sở Kế hoạch và Đầu tư để tổ chức thẩm định.
+
+b) Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các cơ quan liên quan tổ chức thẩm định đề xuất dự án, trình cấp có thẩm quyền phê duyệt; hoặc thẩm định đối với các dự án được Chủ tịch Ủy ban nhân dân tỉnh ủy quyền cho cơ quan cấp dưới phê duyệt;
+
+c) Đối với dự án nhóm A, nhóm B: Đồng thời với quá trình tổ chức thẩm định đề xuất dự án, Sở Kế hoạch và Đầu tư gửi hồ sơ đến các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh để thẩm định thiết kế sơ bộ và xin ý kiến về các nội dung khác có liên quan (nếu có);
+
+d) Đối với dự án nhóm C: Đồng thời với quá trình tổ chức thẩm định đề xuất dự án, Sở Kế hoạch và Đầu tư gửi hồ sơ đến các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh để thẩm định thiết kế cơ sở và xin ý kiến về các nội dung khác có liên quan (nếu có);
+
+e) Đối với dự án có sử dụng vốn đầu tư của Nhà nước: Căn cứ mức vốn và nguồn vốn dự kiến sử dụng, đơn vị được giao lập đề xuất dự án chuẩn bị hồ sơ trình cơ quan có thẩm quyền quyết định chủ trương sử dụng vốn nhà nước. Riêng đề xuất dự án nhóm C được phê duyệt đồng thời với chủ trương sử dụng vốn đầu tư của Nhà nước tham gia thực hiện dự án;
+
+g) Nội dung thẩm định đề xuất dự án thực hiện theo Phụ lục II ban hành kèm theo Thông tư số 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư. Đối với đề xuất dự án do nhà đầu tư lập, phải xem xét các yếu tố khác mà nhà đầu tư thuyết minh.
+
+4. Hồ sơ đề xuất phê duyệt chủ trương sử dụng vốn đầu tư của Nhà nước tham gia thực hiện dự án gồm:
+
+a) Văn bản đề nghị sử dụng vốn đầu tư của Nhà nước tham gia thực hiện dự án;
+
+b) Đề xuất dự án;
+
+c) Ý kiến thẩm định của cơ quan có thẩm quyền về nguồn vốn và khả năng cân đối vốn đầu tư của Nhà nước tham gia thực hiện dự án.
+
+5. Thẩm quyền phê duyệt chủ trương sử dụng vốn:
+
+a) Hội đồng nhân dân tỉnh phê duyệt đối với dự án nhóm B, dự án trọng điểm nhóm C;
+
+b) Ủy ban nhân dân tỉnh phê duyệt đối với dự án nhóm C.
+
+6. Đối với dự án sử dụng vốn cân đối ngân sách địa phương: Thời hạn phê duyệt chủ trương sử dụng vốn đầu tư của Nhà nước tham gia thực hiện dự án tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Điều 8. Công bố dự án
+
+1. Trong thời hạn 05 ngày làm việc kể từ ngày đề xuất dự án được phê duyệt, Sở Kế hoạch và Đầu tư công bố dự án, danh mục dự án trên hệ thống mạng đấu thầu quốc gia theo quy định của pháp luật về đấu thầu; đồng thời phối hợp với Sở Thông tin và Truyền thông đăng tải trên cổng thông tin điện tử của tỉnh và trang thông tin điện tử của Sở Kế hoạch và Đầu tư.
+
+2. Dự án được công bố phải đầy đủ nội dung theo quy định tại Khoản 2 Điều 18 Nghị định 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+3. Đối với dự án do nhà đầu tư đề xuất có nội dung liên quan đến quyền sở hữu trí tuệ, bí mật thương mại, công nghệ hoặc các thỏa thuận huy động vốn để thực hiện dự án cần bảo mật, nhà đầu tư thỏa thuận với Ủy ban nhân dân tỉnh về nội dung công bố. Sở Kế hoạch và Đầu tư chủ trì, phối hợp với các cơ quan liên quan tham mưu UBND tỉnh về các nội dung nhà đầu tư cần bảo mật trong thời hạn 03 ngày kể từ ngày đề xuất của nhà đầu tư được phê duyệt.
+
+Điều 9. Lập, thẩm định và phê duyệt Báo cáo nghiên cứu khả thi
+
+1. Lập Báo cáo nghiên cứu khả thi
+
+a) Sau khi đề xuất dự án được phê duyệt, Ủy ban nhân dân tỉnh giao cơ quan chuyên môn hoặc Ủy ban nhân dân cấp huyện tổ chức lập Báo cáo nghiên cứu khả thi của dự án làm cơ sở để lập hồ sơ mời thầu, lựa chọn nhà đầu tư và đàm phán hợp đồng dự án.
+
+b) Đối với dự án do nhà đầu tư đề xuất: Sau khi đề xuất dự án được phê duyệt theo quy định tại Điều 22 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ, giao nhà đầu tư lập Báo cáo nghiên cứu khả thi.
+
+Việc giao cho nhà đầu tư lập Báo cáo nghiên cứu khả thi được thực hiện trên cơ sở thỏa thuận bằng văn bản giữa Ủy ban nhân dân tỉnh và nhà đầu tư. Văn bản thỏa thuận phải quy định mục đích, yêu cầu, chi phí lập báo cáo nghiên cứu khả thi, chi phí thuê tư vấn độc lập thẩm định và nguyên tắc xử lý trong trường hợp nhà đầu tư khác được lựa chọn thực hiện dự án.
+
+c) Dự án PPP nhóm C không phải lập báo cáo nghiên cứu khả thi nhưng phải có thiết kế cơ sở và phương án tài chính trong đề xuất dự án làm cơ sở lựa chọn nhà đầu tư và đàm phán hợp đồng dự án.
+
+d) Nội dung báo cáo nghiên cứu khả thi được lập trên cơ sở hướng dẫn tại Phụ lục III, ban hành kèm theo Thông tư 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư và theo đúng quy định tại Khoản 1 và Khoản 2 Điều 25 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+2. Thẩm định Báo cáo nghiên cứu khả thi
+
+a) Trung tâm hành chính công tỉnh tiếp nhận hồ sơ trình phê duyệt Báo cáo nghiên cứu khả thi của đơn vị chuẩn bị dự án hoặc nhà đầu tư gửi Sở Kế hoạch và Đầu tư.
+
+b) Sở Kế hoạch và Đầu tư tổ chức thẩm định theo quy định tại các Điểm b, c và d Khoản 3 Điều 6 Thông tư số 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư.
+
+c) Cơ quan chuyên môn về xây dựng theo quy định của Luật Xây dựng chủ trì thẩm định thiết kế cơ sở với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 (trừ phần thiết kế công nghệ); góp ý kiến về việc áp dụng đơn giá, định mức, đánh giá giải pháp thiết kế về tiết kiệm chi phí xây dựng công trình của dự án;
+
+d) Tùy theo tính chất của từng dự án, các cơ quan chuyên môn chịu trách nhiệm thẩm định thiết kế công nghệ theo lĩnh vực chuyên ngành (nếu có);
+
+e) Sở Kế hoạch và Đầu tư chủ trì thẩm định các nội dung khác của Báo cáo nghiên cứu khả thi và tổng hợp kết quả thẩm định thiết kế cơ sở do cơ quan chuyên môn nêu tại điểm b, điểm c khoản này thực hiện, trình Chủ tịch Ủy ban nhân dân tỉnh xem xét, quyết định.
+
+g) Cơ quan thẩm định được thuê tư vấn thẩm định một phần hoặc toàn bộ nội dung Báo cáo nghiên cứu khả thi quy định tại Khoản 3 Điều 26 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+h) Hồ sơ thẩm định Báo cáo nghiên cứu khả thi bao gồm: Báo cáo thẩm định dự án; Báo cáo nghiên cứu khả thi; các tài liệu, văn bản pháp lý có liên quan.
+
+i) Việc thẩm định Báo cáo nghiên cứu khả thi theo hướng dẫn tại Phụ lục IV ban hành kèm theo Thông tư 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư và đúng quy định tại Khoản 3 Điều 26 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+3. Thẩm quyền phê duyệt báo cáo nghiên cứu khả thi:
+
+a) Ủy ban nhân dân tỉnh phê duyệt Báo cáo nghiên cứu khả thi các dự án nhóm A, nhóm B, trừ dự án sử dụng vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài trong lĩnh vực an ninh, quốc phòng, tôn giáo.
+
+b) Hồ sơ trình phê duyệt Báo cáo nghiên cứu khả thi theo quy định tại điểm c khoản 2 Điều 6 Thông tư số 02/2016/TT-BKHĐT ngày 01/3/2016 của Bộ Kế hoạch và Đầu tư.
+
+4. Điều chỉnh Báo cáo nghiên cứu khả thi: Báo cáo nghiên cứu khả thi được xem xét điều chỉnh trong các trường hợp quy định tại Khoản 1 Điều 28 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ. Thủ tục thẩm định, phê duyệt, điều chỉnh báo cáo nghiên cứu khả thi thực hiện tương tự việc lập, thẩm định, phê duyệt báo cáo nghiên cứu khả thi theo quy định tại Điều 26, Điều 27 Nghị định số 15/2015/NĐ-CP ngày 14/02/2015 của Chính phủ.
+
+Chương III
+
+ĐẤU THẦU LỰA CHỌN NHÀ ĐẦU TƯ
+
+Điều 10. Quy trình lựa chọn nhà đầu tư
+
+1. Sơ tuyển lựa chọn nhà đầu tư (nếu có).
+
+2. Lập, thẩm định và phê duyệt kế hoạch lựa chọn nhà đầu tư.
+
+3. Tổ chức đấu thầu lựa chọn nhà đầu tư.
+
+4. Đàm phán, hoàn thiện hợp đồng.
+
+5. Ký kết thỏa thuận đầu tư và hợp đồng.
+
+Điều 11. Cung cấp và đăng tải thông tin về đấu thầu
+
+Ngoài trách nhiệm phải cung cấp, đăng tải thông tin theo quy định tại Điều 4 Nghị định số 30/2015/NĐ-CP ngày 17/3/2015, bên mời thầu, Sở Kế hoạch và Đầu tư chịu trách nhiệm đăng tải thông tin trên trang thông tin điện tử của mình; đồng thời khuyến khích đăng tải rộng rãi trên các phương tiện thông tin đại chúng khác của trung ương và địa phương.
+
+Điều 12. Áp dụng sơ tuyển
+
+1. Việc áp dụng sơ tuyển nhà đầu tư thực hiện dự án PPP theo quy định tại Điều 16 Nghị định số 30/2015/NĐ-CP ngày 17/3/2015 của Chính phủ.
+
+2. Không áp dụng sơ tuyển đối với dự án PPP nhóm C.
+
+3. Đối với dự án PPP thuộc đối tượng phải áp dụng sơ tuyển, trong trường hợp cấp bách ảnh hưởng tới hiệu quả đầu tư, người có thẩm quyền quyết định việc lựa chọn nhà đầu tư theo hình thức đấu thầu rộng rãi mà không áp dụng sơ tuyển song phải đảm bảo nguyên tắc cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế. Trong trường hợp này, hồ sơ mời thầu phải bao gồm cả các yêu cầu về năng lực, kinh nghiệm của nhà đầu tư.
+
+Điều 13. Lập kế hoạch lựa chọn nhà đầu tư
+
+1. Trước khi tổ chức đấu thầu lựa chọn nhà đầu tư, bên mời thầu phải lập kế hoạch lựa chọn nhà đầu tư trình cấp có thẩm quyền phê duyệt làm cơ sở tiến hành lựa chọn nhà đầu tư. Quy trình thực hiện như sau:
+
+a) Bên mời thầu nộp 01 bộ hồ sơ tại Trung tâm hành chính công tỉnh;
+
+b) Sau khi tiếp nhận hồ sơ, Trung tâm hành chính công tỉnh gửi Sở Kế hoạch và Đầu tư thẩm định trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt.
+
+c) Căn cứ pháp lý, thành phần hồ sơ và nội dung kế hoạch lựa chọn nhà đầu tư thực hiện theo quy định tại Điều 22 và Điều 23 Nghị định số 30/2015/NĐ-CP ngày 17/3/2015 của Chính phủ.
+
+2. Hình thức lựa chọn nhà đầu tư: Thực hiện theo quy định tại Điều 9 Nghị định số 30/2015/NĐ-CP ngày 17/3/2015 của Chính phủ.
+
+3. Phương thức lựa chọn nhà đầu tư: Bên mời thầu phải xác định rõ phương thức lựa chọn nhà đầu tư theo quy định tại Điều 28 hoặc Điều 29 của Luật Đấu thầu.
+
+Điều 14. Thời gian trong quá trình lựa chọn nhà đầu tư đối với dự án PPP nhóm A, nhóm B
+
+1. Thời gian thẩm định: Thời gian thẩm định tối đa là 10 ngày làm việc đối với từng nội dung: Kế hoạch lựa chọn nhà đầu tư, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả sơ tuyển, danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật và kết quả lựa chọn nhà đầu tư, kể từ ngày nhận được đầy đủ hồ sơ trình duyệt.
+
+2. Thời gian phê duyệt đối với từng nội dung: Kế hoạch lựa chọn nhà đầu tư, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả sơ tuyển, danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật và kết quả lựa chọn nhà đầu tư, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả sơ tuyển và kết quả lựa chọn nhà đầu tư tối đa là 05 ngày làm việc, kể từ ngày người có thẩm quyền nhận được báo cáo thẩm định.
+
+3. Hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu được phát hành sau 03 ngày làm việc, kể từ ngày đầu tiên đăng tải thông báo mời sơ tuyển, thông báo mời thầu trên hệ thống mạng đấu thầu quốc gia hoặc Báo đấu thầu, gửi thư mời thầu đến trước thời điểm đóng thầu.
+
+4. Thời gian chuẩn bị hồ sơ dự sơ tuyển tối thiểu là 30 ngày, kể từ ngày đầu tiên phát hành hồ sơ mời sơ tuyển cho đến ngày có thời điểm đóng thầu. Nhà đầu tư phải nộp hồ sơ dự sơ tuyển trước thời điểm đóng thầu.
+
+5. Thời gian chuẩn bị hồ sơ đề xuất tối thiểu là 30 ngày, kể từ ngày đầu tiên phát hành hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu. Nhà đầu tư phải nộp hồ sơ đề xuất trước thời điểm đóng thầu.
+
+6. Thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 60 ngày đối với đấu thầu trong nước và 90 ngày đối với đấu thầu quốc tế, kể từ ngày đầu tiên phát hành hồ sơ mời thầu cho đến ngày có thời điểm đóng thầu. Nhà đầu tư phải nộp hồ sơ dự thầu trước thời điểm đóng thầu.
+
+7. Thời gian đánh giá hồ sơ dự sơ tuyển tối đa là 15 ngày, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả sơ tuyển.
+
+8. Đối với đấu thầu trong nước, thời gian đánh giá hồ sơ đề xuất tối đa là 20 ngày, hồ sơ dự thầu tối đa là 30 ngày; đối với đấu thầu quốc tế, thời gian đánh giá hồ sơ đề xuất tối đa là 30 ngày, hồ sơ dự thầu tối đa là 45 ngày, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư. Trường hợp cần thiết, có thể kéo dài thời gian đánh giá hồ sơ dự thầu, hồ sơ đề xuất trên cơ sở bảo đảm tiến độ triển khai dự án.
+
+9. Thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất tối đa là 320 ngày, kể từ ngày có thời điểm đóng thầu. Trường hợp cần thiết, có thể yêu cầu gia hạn thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất trên cơ sở bảo đảm tiến độ triển khai dự án.
+
+10. Thời gian gửi văn bản (đồng thời theo đường bưu điện và fax, thư điện tử hoặc gửi trực tiếp) sửa đổi hồ sơ mời sơ tuyển đến các nhà đầu tư đã nhận hồ sơ mời sơ tuyển tối thiểu là 10 ngày trước ngày có thời điểm đóng thầu; thời gian gửi văn bản sửa đổi hồ sơ mời thầu đến các nhà đầu tư đã nhận hồ sơ mời thầu tối thiểu là 15 ngày đối với đấu thầu trong nước và 25 ngày đối với đấu thầu quốc tế trước ngày có thời điểm đóng thầu; đối với sửa đổi hồ sơ yêu cầu tối thiểu là 10 ngày trước ngày có thời điểm đóng thầu. Trường hợp thời gian gửi văn bản sửa đổi hồ sơ không đáp ứng quy định tại điểm này, bên mời thầu thực hiện gia hạn thời điểm đóng thầu tương ứng bảo đảm quy định về thời gian gửi văn bản sửa đổi hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu.
+
+11. Thời hạn bên mời thầu gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu theo đường bưu điện, fax không muộn hơn 05 ngày làm việc, kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt.
+
+12. Thời gian đàm phán, hoàn thiện hợp đồng tối đa là 60 ngày, kể từ ngày phê duyệt kết quả lựa chọn nhà đầu tư.
+
+Điều 15. Thời gian trong lựa chọn nhà đầu tư đối với dự án PPP nhóm C
+
+1. Hồ sơ mời thầu được phát hành sau 03 ngày làm việc kể từ ngày đầu tiên thông báo mời thầu được đăng tải trên hệ thống mạng đấu thầu quốc gia hoặc Báo đấu thầu, gửi thư mời thầu đến trước thời điểm đóng thầu.
+
+2. Thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 30 ngày, hồ sơ đề xuất tối thiểu là 15 ngày, kể từ ngày đầu tiên phát hành hồ sơ mời thầu, hồ sơ yêu cầu cho đến ngày có thời điểm đóng thầu. Nhà đầu tư phải nộp hồ sơ dự thầu, hồ sơ đề xuất trước thời điểm đóng thầu.
+
+3. Trường hợp cần sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu, bên mời thầu phải thông báo cho các nhà đầu tư trước ngày có thời điểm đóng thầu là 03 ngày làm việc.
+
+4. Thời gian đánh giá hồ sơ dự thầu tối đa là 15 ngày, hồ sơ đề xuất tối đa là 10 ngày, kể từ ngày có thời điểm đóng thầu đến ngày bên mời thầu trình người có thẩm quyền phê duyệt kết quả lựa chọn nhà đầu tư.
+
+5. Thời gian thẩm định tối đa là 05 ngày đối với từng nội dung: Kế hoạch lựa chọn nhà đầu tư, hồ sơ mời thầu, hồ sơ yêu cầu và kết quả lựa chọn nhà đầu tư kể từ ngày nhận được đầy đủ hồ sơ trình duyệt.
+
+6. Các mốc thời gian khác thực hiện theo Điều 14 Quy định này.
+
+Điều 16. Thẩm quyền trong lựa chọn nhà đầu tư
+
+1. Chủ tịch Ủy ban nhân dân tỉnh:
+
+a) Phê duyệt kế hoạch lựa chọn nhà đầu tư, kết quả sơ tuyển, kết quả lựa chọn nhà đầu tư;
+
+b) Thực hiện công việc khác thuộc trách nhiệm của người có thẩm quyền quy định tại Điều 73 của Luật Đấu thầu;
+
+c) Ủy quyền cho bên mời thầu phê duyệt hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật.
+
+2. Bên mời thầu:
+
+a) Sở Kế hoạch và Đầu tư tham mưu Ủy ban nhân dân tỉnh giao cơ quan, đơn vị làm bên mời thầu cụ thể trong nội dung quyết định phê duyệt đề xuất dự án đầu tư theo nguyên tắc:
+
+- Ủy ban nhân dân cấp huyện làm bên mời thầu dự án đầu tư thuộc địa bàn mà Ủy ban nhân dân cấp huyện là đơn vị quản lý dự án sau đầu tư.
+
+- Sở chuyên ngành làm bên mời thầu dự án đầu tư thuộc lĩnh vực, chuyên ngành phụ trách đầu tư trên địa bàn 02 huyện trở lên và các dự án khác do Chủ tịch Ủy ban nhân dân tỉnh giao.
+
+- Ban quản lý Khu kinh tế làm bên mời thầu dự án đầu tư thuộc địa bàn Khu kinh tế Vũng Áng, Khu Kinh tế cửa khẩu Quốc tế Cầu Treo, các khu công nghiệp trên địa bàn tỉnh.
+
+b) Bên mời thầu thực hiện trách nhiệm của mình theo quy định của Luật Đấu thầu, Luật Đầu tư, Luật Đất đai và pháp luật khác có liên quan về những nhiệm vụ được giao. Bên mời thầu có thể lựa chọn tổ chức tư vấn độc lập thực hiện một số hoặc toàn bộ nội dung công việc thuộc nhiệm vụ của mình. Trong mọi trường hợp bên mời thầu phải chịu hoàn toàn trách nhiệm trước Ủy ban nhân dân tỉnh và trước pháp luật về nội dung, nhiệm vụ được giao.
+
+3. Sở Kế hoạch và Đầu tư chịu trách nhiệm tổ chức thẩm định các nội dung sau đây:
+
+a) Kế hoạch lựa chọn nhà đầu tư đối với các dự án thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh;
+
+b) Hồ sơ mời sơ tuyển, kết quả sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật và kết quả lựa chọn nhà đầu tư đối với các dự án thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh và các nội dung do bên mời thầu phê duyệt theo ủy quyền quy định tại điểm c khoản 1 Điều này.
+
+Điều 17. Giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà đầu tư
+
+1. Chủ tịch Ủy ban nhân dân tỉnh ủy quyền cho Giám đốc Sở Kế hoạch và Đầu tư thực hiện trách nhiệm của người có thẩm quyền để giám sát, theo dõi hoạt động đấu thầu trong lựa chọn nhà đầu đối với các dự án do Chủ tịch Ủy ban nhân dân tỉnh là người có thẩm quyền lựa chọn nhà đầu tư.
+
+2. Giám đốc Sở Kế hoạch và Đầu tư cử cá nhân hoặc phòng chuyên môn có chức năng quản lý về hoạt động đấu thầu tham gia giám sát, theo dõi việc thực hiện quá trình lựa chọn nhà đầu tư đối với nội dung quy định tại Khoản 3 Điều này để đảm bảo tuân thủ theo đúng quy định của pháp luật về đấu thầu.
+
+3. Các nội dung trong hoạt động lựa chọn nhà đầu tư phải giám sát, theo dõi bao gồm:
+
+a) Lập, thẩm định và phê duyệt hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+b) Đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất;
+
+c) Thẩm định và phê duyệt kết quả sơ tuyển, kết quả lựa chọn nhà đầu tư;
+
+d) Kết quả đàm phán, hoàn thiện và ký kết hợp đồng.
+
+4. Phương thức giám sát, theo dõi hoạt động đấu thầu:
+
+a) Bên mời thầu có trách nhiệm công khai tên, địa chỉ liên hệ của cá nhân hoặc đơn vị giám sát, theo dõi cho các nhà đầu tư đã mua hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+b) Bên mời thầu có trách nhiệm cung cấp thông tin liên quan đến quá trình lựa chọn nhà đầu tư cho cá nhân hoặc đơn vị giám sát, theo dõi khi nhận được yêu cầu bằng văn bản;
+
+c) Khi phát hiện hành vi, nội dung không phù hợp quy định của pháp luật về đấu thầu, cá nhân hoặc đơn vị thực hiện việc giám sát, theo dõi hoạt động đấu thầu phải có trách nhiệm báo cáo kịp thời bằng văn bản đến người có thẩm quyền để có những biện pháp xử lý thích hợp, bảo đảm hiệu quả của quá trình tổ chức lựa chọn nhà đầu tư.
+
+5. Trách nhiệm của cá nhân hoặc đơn vị giám sát, theo dõi hoạt động đấu thầu: Thực hiện theo quy định tại khoản 5 Điều 96 Nghị định số 30/2015/NĐ-CP ngày 17/3/2015 của Chính phủ.
+
+Điều 18. Đàm phán và ký kết thỏa thuận đầu tư; cấp giấy chứng nhận đăng ký đầu tư; thành lập doanh nghiệp dự án; ký kết hợp đồng dự án
+
+1. Đàm phán và ký kết thỏa thuận đầu tư
+
+a) Cơ quan nhà nước có thẩm quyền (Ủy ban nhân dân tỉnh hoặc cơ quan được Ủy ban nhân dân tỉnh ủy quyền) tổ chức đàm phán hợp đồng dự án và ký thỏa thuận đầu tư với nhà đầu tư.
+
+b) Trường hợp ủy quyền cho cơ quan chuyên môn trực thuộc hoặc Ủy ban nhân dân cấp huyện hoặc bên mời thầu thì sẽ quy định rõ trong nội dung quyết định phê duyệt đề xuất dự án. Trong đó, xác định cụ thể phạm vi ủy quyền, trách nhiệm của cơ quan được ủy quyền trong việc chuẩn bị đầu tư, đàm phán, ký kết và thực hiện hợp đồng dự án.
+
+2. Cấp giấy chứng nhận đăng ký đầu tư
+
+a) Nhà đầu tư hoàn thiện thủ tục đề nghị cấp giấy chứng nhận đăng ký đầu tư (trừ các dự án nhóm C) và nộp hồ sơ tại Trung tâm hành chính công tỉnh.
+
+b) Sau khi tiếp nhận, Trung tâm hành chính công tỉnh gửi Sở Kế hoạch và Đầu tư thẩm tra, trình Ủy ban nhân dân tỉnh xem xét, cấp Giấy chứng nhận đầu tư.
+
+b) Thủ tục cấp Giấy chứng nhận đăng ký đầu tư: Thực hiện theo Điều 16 Thông tư số 06/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư.
+
+3. Nội dung hợp đồng dự án và ký kết hợp đồng dự án:
+
+a) Nội dung hợp đồng dự án: Thực hiện theo Điều 10 Thông tư số 06/2016/TT-BKHĐT của Bộ Kế hoạch và Đầu tư;
+
+b) Ký kết hợp đồng dự án: Thực hiện theo quy định tại Điều 31 Nghị định số 15/2015/NĐ-CP của Chính phủ. Trong thời hạn 05 ngày làm việc kể từ ngày ký hợp đồng dự án, nhà đầu tư gửi bản chính hợp đồng dự án cho Ủy ban nhân dân tỉnh, Sở Kế hoạch và Đầu tư để lưu hồ sơ và thực hiện hoạt động giám sát đầu tư theo quy định của pháp luật.
+
+4. Thành lập, tổ chức quản lý và hoạt động của doanh nghiệp dự án: Thực hiện theo Điều 20 Thông tư số 06/2016/TT-BKHĐT ngày 28/6/2016 của Bộ Kế hoạch và Đầu tư.
+
+Điều 19. Thanh toán, giải ngân vốn đầu tư của Nhà nước tham gia thực hiện dự án
+
+1. Thực hiện theo quy định tại khoản 3 Điều 14 Nghị định số 15/2015/NĐ của Chính phủ.
+
+2. Riêng đối với dự án thực hiện theo hình thức hợp đồng BT, việc sử dụng quỹ đất để tạo nguồn vốn thanh toán cho nhà đầu tư thực hiện theo Quyết định số 23/2015/QĐ-TTg ngày 26/6/2015 của Thủ tướng Chính phủ, Thông tư số 183/2015/TT-BTC ngày 17/11/2015 của Bộ Tài chính và các quy định khác có liên quan.
+
+Điều 20. Thực hiện dự án; giám sát thực hiện hợp đồng dự án; quyết toán và chuyển giao công trình, dự án
+
+1. Triển khai thực hiện dự án: Nhà đầu tư triển khai thực hiện dự án theo các điều kiện thỏa thuận trong hợp đồng dự án được ký kết.
+
+2. Giám sát thực hiện hợp đồng dự án: Cơ quan nhà nước có thẩm quyền chịu trách nhiệm giám sát toàn bộ quá trình thực hiện hợp đồng dự án.
+
+3. Quyết toán và chuyển giao công trình, dự án.
+
+a) Nhà đầu tư thực hiện quyết toán vốn đầu tư xây dựng công trình trong thời hạn 06 tháng kể từ ngày hoàn thành công trình, dự án.
+
+b) Đối với các hợp đồng dự án có quy định việc chuyển giao công trình, dự án thì thực hiện theo thỏa thuận trong hợp đồng dự án và tuân thủ các quy định của pháp luật về đầu tư theo hình thức đối tác công tư.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 21. Trách nhiệm của các cơ quan liên quan
+
+1. Trung tâm hành chính công tỉnh:
+
+a) Tiếp nhận và trả kết quả đối với các loại hồ sơ thủ tục do cơ quan nhà nước, nhà đầu tư, bên mời thầu chuẩn bị gửi cơ quan chủ trì thẩm định trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt hoặc gửi các cơ quan cấp dưới được Chủ tịch Ủy ban nhân dân tỉnh ủy quyền phê duyệt.
+
+b) Theo dõi, đôn đốc việc triển khai thực hiện của các đơn vị được Ủy ban nhân tỉnh giao nhiệm vụ.
+
+c) Kịp thời báo cáo Ủy ban nhân dân tỉnh những khó khăn, vướng mắc trong quy trình thực hiện (nếu có).
+
+2. Sở Kế hoạch và Đầu tư
+
+a) Là cơ quan đầu mối để thực hiện các dự án PPP trên địa bàn tỉnh Hà Tĩnh.
+
+b) Chịu trách nhiệm xây dựng bộ thủ tục hành chính để công bố công khai tại Trung tâm Hành chính công cấp tỉnh và triển khai, hướng dẫn và tổ chức thực hiện Quy định này.
+
+c) Chủ trì, phối hợp với Sở Tài chính cân đối nguồn vốn ngân sách Nhà nước tham gia thực hiện các dự án theo hình thức đối tác công tư;
+
+d) Chủ trì, phối hợp với các cơ quan liên quan tổ chức thẩm định trình Ủy ban nhân dân tỉnh hoặc đơn vị cấp dưới được Ủy ban nhân dân tỉnh ủy quyền phê duyệt đề xuất dự án; tổ chức hướng dẫn về quy trình, thủ tục cho các đơn vị, nhà đầu tư triển khai dự án theo hình thức PPP đảm bảo chất lượng, hiệu quả; thẩm định các nội dung khác của Báo cáo nghiên cứu khả thi và tổng hợp kết quả thẩm định thiết kế cơ sở, thiết kế công nghệ do cơ quan chuyên môn thẩm định, trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt.
+
+3. Sở Tài chính
+
+a) Thẩm định phương án tài chính của đề xuất dự án, báo cáo nghiên cứu khả thi công trình, dự án;
+
+b) Phối hợp với Sở Kế hoạch và Đầu tư trong cân đối nguồn vốn ngân sách Nhà nước tham gia thực hiện các dự án theo hình thức đối tác công tư (nếu có);
+
+c) Chủ trì, phối hợp với Sở Tài nguyên và Môi trường, Sở Xây dựng, UBND huyện, thành phố, thị xã và các cơ quan liên quan thẩm định, trình Ủy ban nhân dân tỉnh phê duyệt giá trị quỹ đất (hoặc giá trị các nguồn lực khác) để thanh toán cho nhà đầu tư đối với dự án thực hiện theo hình thức hợp đồng Xây dựng - Chuyển giao (BT).
+
+4. Sở Tài nguyên và Môi trường
+
+a) Kiểm tra, hướng dẫn các nhà đầu tư tổ chức thực hiện công trình, dự án đúng quy định của pháp luật về môi trường, đất đai;
+
+b) Phối hợp với Sở Tài chính trong việc thẩm định trình UBND tỉnh phê duyệt giá trị quỹ đất để thanh toán cho nhà đầu tư đối với dự án thực hiện theo hình thức BT;
+
+c) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+5. Sở Xây dựng
+
+a) Hướng dẫn các nhà đầu tư tổ chức thực hiện công trình, dự án đúng quy định của pháp luật về xây dựng;
+
+b) Chủ trì, phối hợp với các Sở quản lý xây dựng chuyên ngành kiểm tra việc tuân thủ quy định về quản lý dự án đầu tư xây dựng và công trình xây dựng chuyên ngành;
+
+c) Chủ trì thẩm định thiết kế sơ bộ đối với các dự án có cấu phần xây dựng theo lĩnh vực quản lý chuyên ngành;
+
+d) Chủ trì thẩm định thiết kế cơ sở các công trình xây dựng chuyên ngành quy định tại Nghị định số 59/2015/NĐ-CP và Nghị định số 42/2017/NĐ-CP với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 (trừ phần thiết kế công nghệ); góp ý kiến về việc áp dụng đơn giá, định mức, đánh giá giải pháp thiết kế về tiết kiệm chi phí xây dựng công trình của dự án.
+
+e) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+6. Sở Giao thông vận tải
+
+a) Chủ trì thẩm định thiết kế sơ bộ đối với các dự án có cấu phần xây dựng theo lĩnh vực quản lý chuyên ngành;
+
+b) Chủ trì thẩm định thiết kế cơ sở các công trình xây dựng chuyên ngành quy định tại Nghị định số 59/2015/NĐ-CP và Nghị định số 42/2017/NĐ-CP với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 (trừ phần thiết kế công nghệ); góp ý kiến về việc áp dụng đơn giá, định mức, đánh giá giải pháp thiết kế về tiết kiệm chi phí xây dựng công trình của dự án;
+
+c) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+7. Sở Nông nghiệp và Phát triển nông thôn
+
+a) Chủ trì thẩm định thiết kế sơ bộ đối với các dự án có cấu phần xây dựng theo lĩnh vực quản lý chuyên ngành;
+
+b) Chủ trì thẩm định thiết kế cơ sở các công trình xây dựng chuyên ngành quy định tại Nghị định số 59/2015/NĐ-CP và Nghị định số 42/2017/NĐ-CP với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 (trừ phần thiết kế công nghệ); góp ý kiến về việc áp dụng đơn giá, định mức, đánh giá giải pháp thiết kế về tiết kiệm chi phí xây dựng công trình của dự án;
+
+c) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+8. Sở Công Thương
+
+a) Chủ trì thẩm định thiết kế sơ bộ đối với các dự án có cấu phần xây dựng theo lĩnh vực quản lý chuyên ngành;
+
+b) Chủ trì thẩm định thiết kế cơ sở các công trình xây dựng chuyên ngành quy định tại Nghị định số 59/2015/NĐ-CP và Nghị định số 42/2017/NĐ-CP với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 với các nội dung quy định tại Khoản 2 Điều 58 Luật Xây dựng năm 2014 (trừ phần thiết kế công nghệ); góp ý kiến về việc áp dụng đơn giá, định mức, đánh giá giải pháp thiết kế về tiết kiệm chi phí xây dựng công trình của dự án;
+
+c) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+9. Ban Quản lý Khu kinh tế tỉnh
+
+a) Tiếp nhận, cấp, điều chỉnh, thu hồi Giấy chứng nhận đăng ký đầu tư đối với các dự án đầu tư thuộc thẩm quyền theo quy định của pháp luật về đầu tư;
+
+b)  Hướng dẫn, hỗ trợ nhà đầu tư theo thẩm quyền trong quá trình chuẩn bị và triển khai dự án đầu tư;
+
+c) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+10. Các Sở, ban, ngành cấp tỉnh: Theo lĩnh vực chuyên môn thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền khi được Ủy ban nhân dân tỉnh giao nhiệm vụ.
+
+11. Ủy ban nhân dân huyện, thành phố, thị xã
+
+a) Chịu trách nhiệm lập phương án sơ bộ bồi thường, giải phóng mặt bằng đối với dự án đầu tư làm cơ sở xác định tổng mức đầu tư và triển khai thực hiện dự án.
+
+b) Thực hiện trách nhiệm của cơ quan nhà nước có thẩm quyền theo chức năng nhiêm vụ hoặc khi được Ủy ban nhân dân tỉnh giao.
+
+Điều 22. Điều khoản thi hành
+
+1. Giám đốc các Sở, Thủ trưởng các ban, ngành cấp tỉnh; Chủ tịch Ủy ban nhân dân các huyện, thành phố, thị xã và Thủ trưởng các cơ quan có liên quan căn cứ chức năng nhiệm vụ của mình có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Quy định này.
+
+2. Quá trình triển khai thực hiện, nếu có vướng mắc, hoặc những vấn đề phát sinh, các sở, ban ngành, các cơ quan, đơn vị liên quan kịp thời báo cáo Ủy ban nhân dân tỉnh (qua Sở Kế hoạch và Đầu tư) xem xét, giải quyết./.
+
+
+
+
+
+
+

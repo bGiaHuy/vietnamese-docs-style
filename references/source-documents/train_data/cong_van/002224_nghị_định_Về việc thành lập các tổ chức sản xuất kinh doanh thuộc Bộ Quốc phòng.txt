@@ -1,0 +1,768 @@
+# Về việc thành lập các tổ chức sản xuất kinh doanh thuộc Bộ Quốc phòng
+# Loại: Nghị định
+# Số hiệu: 58/HĐBT
+# Ngày ban hành: 01/06/1989
+# Cơ quan: Hội đồng Bộ trưởng
+# Người ký: Võ Văn Kiệt
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+NGHỊ ĐỊNH CỦA BỘ QUỐC PHÒNG
+
+Ấn định chế độ nhân viên Bộ Quốc phòng
+
+BỘ TRƯỞNG BỘ QUỐC PHÒNG
+
+Chiểu Sắc lệnh số 50/SL ngày 18 tháng 6 năm 1949 tổ chức Bộ Quốc phòng;
+
+Chiểu nghị định số 56/NĐ ngày 19 tháng 8 năm 1947 ấn định chế độ công nhân Bộ Quốc phòng;
+
+Theo đề nghị của Đổng lý Quân vụ và Đổng lý sự vụ;
+
+NGHỊ ĐỊNH:
+
+Điều 1. - Công nhân Quốc phòng được hưởng chế độ ấn định trong nghị định này
+
+CHƯƠNG I
+
+Các ngạch lương bổng và phụ cấp
+
+Điều 2. - Công nhân quốc phòng xếp vào ba ngạch:
+
+1. Ngạch đốc công
+
+2. Ngạch công nhân chuyên nghiệp
+
+3. Ngạch công nhân thường.
+
+Mỗi ngạch chia thành 10 cấp, mỗi cấp xếp vào 1 bậc trong thang lương bổng chính ấn định như sau này:
+
+
+
+
+
+Các ngạch, cấp
+
+
+
+
+Lương chính hàng tháng
+
+
+
+
+
+
+Đốc công
+
+
+
+
+Cấp 10............................................. 18
+
+
+
+
+690,000
+
+
+
+
+
+
+Cấp 9............................................... 17
+
+
+
+
+640,000
+
+
+
+
+
+
+Cấp 8............................................... 16
+
+
+
+
+590,000
+
+
+
+
+
+
+Cấp 7
+
+
+
+
+Cấp 10................................ 15
+
+
+
+
+540,000
+
+
+
+
+
+
+Cấp 6
+
+
+
+
+Cấp 9.................................. 14
+
+
+
+
+505,000
+
+
+
+
+
+
+Cấp 5
+
+
+
+
+Cấp 8.................................. 13
+
+
+
+
+490,000
+
+
+
+
+
+
+Cấp 4
+
+
+
+
+Cấp 7.................................. 12
+
+
+
+
+435,000
+
+
+
+
+
+
+Cấp 3
+
+
+
+
+Cấp 6.................................. 11
+
+
+
+
+400,000
+
+
+
+
+
+
+Cấp 2
+
+
+
+
+Cấp 5
+
+
+
+
+Cấp 10.................... 10
+
+
+
+
+365,000
+
+
+
+
+
+
+Cấp 1
+
+
+
+
+Cấp 4
+
+
+
+
+Cấp 9....................... 9
+
+
+
+
+340,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấp 3
+
+
+
+
+Cấp 8....................... 8
+
+
+
+
+315,000
+
+
+
+
+
+
+Công nhân chuyên nghiệp
+
+
+
+
+Cấp 2
+
+
+
+
+Cấp 7....................... 7
+
+
+
+
+290,000
+
+
+
+
+
+
+Cấp 1
+
+
+
+
+Cấp 6....................... 6
+
+
+
+
+265,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấp 5....................... 5
+
+
+
+
+240,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấp 4....................... 4
+
+
+
+
+225,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấp 3....................... 3
+
+
+
+
+210,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cấp 2....................... 2
+
+
+
+
+195,000
+
+
+
+
+
+
+Công nhân thường
+
+
+
+
+Cấp 1....................... 1
+
+
+
+
+180,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Điều 3. - Số lương chính hàng tháng có thể tăng lên theo một tỷ lệ do nghị định ấn định hàng năm, căn cứ vào giá sinh hoạt. Về năm 1949, thì kể từ ngày thi hành nghị định này đến ngày 31 tháng 12 năm 1949, tỷ lệ ấn định là 40% lương chính.
+
+Điều 4. - Riêng ngày 1 tháng 5 là ngày kỷ niệm lao động lương chính và tỷ lệ tăng sẽ được hưởng gấp đôi.
+
+Điều 5. - Ngoài lương chính và tỷ lệ tăng, công nhân còn được hưởng những phụ cấp sau này:
+
+1. Phụ cấp gia đình: vợ 50đ một tháng; con 40đ một tháng
+
+2. Phụ cấp đắt đỏ: tính theo giá gạo;
+
+từ 301đ đến 350đ 10đ
+
+từ 351đ đến 1000đ cứ mỗi lần giá gạo tăng từ 1đ đến 50đ thì phụ cấp sẽ tăng 10đ
+
+từ 1000đ trở lên mỗi lần giá gạo tăng từ 1đ đến 100đ thì phụ cấp sẽ tăng 10đ
+
+Phụ cấp đắt đỏ tính cho gia đình công nhân như sau:
+
+Vợ: một nửa phụ cấp của chồng
+
+Con: một phần tư phụ cấp của bố hoặc của mẹ
+
+3. Phụ cấp khu vực (tính theo khu vực do Nghị định liên bộ Nội vụ - Y tế ấn định)
+
+Khu vực 1 60đ.00 một tháng
+
+Khu vực 2 40đ.00 một tháng
+
+Khu vực 3 20đ.00 một tháng
+
+Điều 6. - Phụ cấp gia đình chỉ cấp cho vợ chính thức và con chính thức dưới 16 tuổi, từ 16 tuổi đến 18 nếu còn đi học mà không được nhà trường cấp dưỡng hay bị tàn tật không làm ăn được mới được hưởng phụ cấp.
+
+Con trên 18 tuổi không được hưởng phụ cấp nữa.
+
+Đối với công nhân có nhiều vợ phụ cấp vợ chỉ cấp cho người vợ đứng hàng vợ cả.
+
+Trong trường hợp hai vợ chồng đều làm việc có lương bổng của Chính phủ người chồng không được hưởng phụ cấp gia đình cho vợ, phụ cấp cho con sẽ trả cho vợ hoặc cho chồng.
+
+Điều 7. - Công nhân phụ nữ mà chồng không giữ một chức vụ được hưởng lương bổng của Chính phủ thì được lĩnh phụ cấp cho con nếu chồng bị tàn tật không làm ăn được thì được lĩnh phụ cấp cả cho chồng nữa (tính như phụ cấp vợ đối với chồng).
+
+Điều 8. - Phụ cấp gia đình, phụ cấp đắt đỏ và phụ cấp khu vực tính trong từng tháng.
+
+Điều 9. - Công nhân nhập ngũ sẽ hưởng chế độ quân nhân trong thời kỳ tại ngũ.
+
+CHƯƠNG II
+
+1. Việc tuyển công nhân
+
+Điều 10. - Công nhân các ngành đốc công và công nhân chuyên nghiệp sẽ do nghị định Bộ trưởng Bộ quốc phòng tuyển.
+
+Công nhân thường sẽ do quyết định của Cục trưởng hoặc Giám đốc Nha tuyển. Ở Bộ thì việc tuyển các công nhân thường do quyết định của Đổng lý sự vụ nếu tuyển cho các Phòng sự vụ và của Đổng lý Quân vụ nếu tuyển cho các Phòng Quân vụ và Văn phòng.
+
+Những quyết định phải được Bộ trưởng Bộ Quốc phòng duyệt y rồi mới được thi hành.
+
+Điều 11. - Muốn được tuyển làm công nhân quốc phòng cần có những điều kiện sau này:
+
+- Có quốc tịch Việt Nam,
+
+- Từ 18 tuổi trở lên,
+
+- Không mất quyền công dân và có hạnh kiểm tốt,
+
+- Đủ điều kiện năng lực chuyên môn
+
+- Có giấy của y sĩ Chính phủ chứng nhận đủ sức khoẻ làm việc,
+
+Điều 12. - Việc tuyển và việc xếp công nhân vào các ngạch sẽ căn cứ vào những tiêu chuẩn ấn định sau:
+
+Điều 13. - Trước khi được tuyển vào chính ngạch công nhân phải qua một thời kỳ tập sự từ 6 tháng đến 1 năm.
+
+Trong thời kỳ tập sự, công nhân sẽ tuỳ theo trường hợp được xếp vào cấp dưới cấp mình được tuyển hoặc vào cấp dưới cùng của ngạch.
+
+Hết thời kỳ tập sự, công nhân sẽ được chính thức xếp vào ngạch và có thể:
+
+1. Thăng lên cấp trên
+
+2. Cứ ở cấp cũ
+
+3. Xếp xuống một cấp hoặc ngạch dưới.
+
+Điều 14. - Công nhân Bộ quốc phòng chuyển sang giúp việc ở Bộ khác sẽ được xếp theo ngạch cấp tương đương với ngạch cấp cũ của mình và vẫn giữ hạn thâm niên trong ngạch cấp.
+
+Điều 15. - Công nhân trưng tập sẽ được xếp vào ngạch cấp với những công nhân có năng lực tương đương trong thời kỳ tập sự. Nếu thời hạn trưng tập quá một năm, thì tuy vẫn giữ chế độ trưng tập nhưng về phương diện ngạch cấp, thời hạn một năm đó sẽ kể như thời kỳ tập sự, để thăng lên cấp trên.
+
+Hết hạn trưng tập, nếu tình nguyện vào chính ngạch, thì công nhân vẫn ở cấp cũ của mình theo chế độ chung.
+
+Điều 16. - Thương binh Cựu binh, muốn xin tuyển sẽ được quyền ưu tiên, nếu đủ điều kiện và năng lực.
+
+Điều 17. - Công nhân quốc phòng hoặc công nhân Bộ khác thôi việc trong một thời gian xin tuyển lại nếu đủ điều kiện được chấp nhận, sẽ tuỳ theo năng lực được xếp vào ngạch mới với cấp tương đương với ngạch cũ của mình.
+
+Nếu tuyển để làm một công việc khác hẳn với chức vụ cũ của mình thì theo chế độ chung.
+
+2. Thăng thưởng - chuyển ngạch - bổ nhiệm - thuyên chuyển
+
+Điều 18. - Hạn thâm niên tối thiểu để được thăng lên cấp trên là hai năm, trừ trường hợp tập sự nói ở Điều 13 và 15.
+
+Điều 19. - Công nhân có công trạng và thành tích đặc biệt thì có thể được đặc cách cho thăng cấp trước thời hạn thường lệ.
+
+Điều 20. - Đối với công nhân tòng ngũ thì thời gian tại ngũ sẽ tính vào hạn thâm niên trong ngạch cấp của mình.
+
+Nếu hạn thâm niên ấy được hai năm thì công nhân được đương nhiên thăng lên cấp trên.
+
+Điều 21. - Mỗi năm có 2 kỳ thăng thưởng vào ngày 6 tháng giêng là ngày kỷ niệm Tổng tuyển cử đầu tiên và ngày 19 tháng 8 là ngày kỷ niệm Cách mạng tháng tám.
+
+Điều 22. - Hồ sơ thăng thưởng công nhân ngạch đốc công và công nhân chuyên nghiệp sẽ giao cho một Hội đồng thăng thưởng xét.
+
+Hội đồng thăng thưởng gồm có:
+
+1 Đại diện Bộ trưởng Chủ tịch
+
+1 Cục trưởng hay Giám đốc Nha hội viên
+
+1 công nhân chuyên nghiệp hay đốc công lựa trong các Cục và Nha hội viên
+
+Hội đồng này do nghị định Bộ trưởng cử. Ngoài ba nhân viên chính thức sẽ cử thêm ba nhân viên dự khuyết.
+
+Hội đồng xét các đề nghị, lập danh sách những công nhân được đề nghị thăng thưởng, xếp theo thứ tự trên dưới đệ trình Bộ trưởng xét rồi ban hành nghị định thăng thưởng.
+
+Điều 23. - Hồ sơ thăng thưởng công nhân thường sẽ giao cho một hội đồng thăng thưởng xét.
+
+Hội đồng thăng thưởng ở các phòng sự vụ sẽ do Đổng lý sự vụ ra quyết định cử và gồm có:
+
+1 đại diện Đổng lý sự vụ Chủ tịch
+
+2 công nhân chuyên nghiệp hoặc đốc công hội viên
+
+1 công nhân thường thuộc các phòng sự vụ hội viên
+
+Hội đồng thăng thưởng ở các phòng Quân vụ và Văn phòng sẽ do Đổng lý Quân vụ ra quyết định cử và gồm có:
+
+1 đại diện Đổng lý quân vụ Chủ tịch
+
+1 công nhân chuyên nghiệp hoặc đốc công hội viên
+
+1 công nhân thường thuộc các phòng Quân vụ hoặc Văn phòng hội viên
+
+Hội đồng thăng thưởng ở mỗi Cục hay Nha sẽ do Cục trưởng hay Giám đốc Nha ra quyết định cử và gồm có:
+
+1 đại diện Cục trưởng hay Giám đốc Nha Chủ tịch
+
+1 công nhân chuyên nghiệp hay đốc công của Cục hay Nha hội viên
+
+1 công nhân thường của Cục hay Nha hội viên
+
+Các quyết định này phải được Bộ trưởng duyệt y.
+
+Hội đồng sẽ xét các đề nghị, lập danh sách công nhân được đề nghị thăng thưởng, xếp theo thứ tự từ trên xuống dưới. Quyết định thăng thưởng làm theo thể thức tuyển dụng.
+
+Điều 24. - Công nhân ở bất cứ ngạch cấp nào có thể xin qua một kỳ thi chuyên nghiệp để lên ngạch trên.
+
+Cách thức, chương trình, việc giám khảo sẽ do Nghị định Bộ trưởng ấn định.
+
+Điều 25. - Những công nhân đã tuyển trước ngày ký nghị định này sẽ được chuyển sang ngạch cấp mới, căn cứ vào những tiêu chuẩn đã nói ở điều 12.
+
+Điều 26. - Hồ sơ chuyển ngạch các công nhân chuyên nghiệp và đốc công sẽ do một Hội đồng chuyển ngạch xét.
+
+Hội đồng chuyển ngạch gồm có:
+
+1 đại diện Bộ trưởng Chủ tịch
+
+1 Giám đốc Nha hay Cục trưởng hội viên
+
+1 nhân viên của Bộ hội viên
+
+2 công nhân chuyên nghiệp và 1 đốc công chọn trong các Nha hội viên
+
+1 công nhân chọn trong các Cục hội viên
+
+Hội đồng này do nghị định Bộ trưởng cử và ngoài 7 nhân viên chính thức sẽ cử thêm 7 nhân viên dự khuyết.
+
+Những cuộc thảo luận của Hội đồng phải có từ 5 người trở lên tham dự mới có giá trị
+
+Hội đồng sẽ xét hồ sơ chuyển ngạch, lập bảng danh sách công nhân theo thứ tự trên dưới mỗi bảng riêng cho một ngạch đệ trình Bộ trưởng xét rồi ban hành nghị định chuyển ngạch.
+
+Điều 27. - Hồ sơ chuyển ngạch của các công nhân thường sẽ giao cho một hội đồng chuyển ngạch xét.
+
+Hội đồng chuyển ngạch ở các Phòng sự vụ sẽ do Đổng lý sự vụ ra quyết định cử và gồm có:
+
+1 đại diện Đổng lý sự vụ Chủ tịch
+
+1 người chọn trong các công nhân chuyên nghiệp và đốc công thuộc các phòng sự vụ
+
+hội viên
+
+1 công nhân thường thuộc phòng sự vụ hội viên
+
+Hội đồng chuyển ngạch ở các Phòng Quân vụ và Văn phòng sẽ do Đổng lý Quân vụ ra quyết định cử và gồm có:
+
+1 đại diện Đổng lý Quân vụ Chủ tịch
+
+1 người chọn trong các công nhân chuyên nghiệp và đốc công thuộc các Phòng quân vụ và Văn phòng hội viên
+
+1 công nhân thường thuộc các Phòng quân vụ và văn phòng hội viên
+
+Hội đồng chuyển ngạch ở mỗi Cục hay Nha sẽ do Cục trưởng hay Giám đốc Nha ra quyết định cử và gồm có:
+
+1 đại diện Cục trưởng hay Giám đốc Nha Chủ tịch
+
+1 người chọn trong các công nhân chuyên nghiệp hay đốc công của Cục hay Nha ........hội viên
+
+1 công nhân thường của Cục hay Nha hội viên
+
+Những quyết định cử các Hội đồng này phải do Bộ trưởng duyệt y.
+
+Hội đồng sẽ xét các hồ sơ chuyển ngạch, lập danh sách công nhân theo thứ tự trên dưới, đệ trình Đổng lý sự vụ, Đổng lý quân vụ, Cục trưởng hay Giám đốc Nha xét ra quyết định chuyển ngạch. Quyết định phải được Bộ trưởng duyệt y mới được thi hành.
+
+Điều 28. - Việc thuyên chuyển và bổ nhiệm các công nhân ấn định như sau:
+
+Công nhân thường đều bổ nhiệm và thuyên chuyển do quyết định của Cục trưởng hay Giám đốc nha. Khi thuyên chuyển từ Cục hay Nha này sang Cục hoặc Nha khác thì do các Cục trưởng và Giám đốc Nha sở quản cùng quyết định.
+
+Công nhân chuyên nghiệp và đốc công đều thuyên chuyển và bổ nhiệm do quyết định của Cục trưởng hay Giám đốc Nha trừ trường hợp sau đây:
+
+- Thuyên chuyển từ Cục hay Nha này sang Cục hay Nha khác sẽ do các Cục trưởng và Giám đốc Nha sở quản cùng quyết định.
+
+- Bổ nhiệm giữ chức vụ điều khiển từ trưởng ban trở lên phải do Bộ trưởng quyết định.
+
+Những việc do Cục trưởng hoặc Giám đốc Nha quyết định ở cấp Cục hoặc Nha thì ở Bộ sẽ do Đổng lý sự vụ quyết định đối với công nhân thuộc các phòng sự vụ và sẽ do Đổng lý quân vụ quyết định đối với công nhân thuộc các Phòng Quân vụ và Văn phòng.
+
+3. Giờ làm việc - nghỉ phép - thôi việc
+
+Điều 29. - Mỗi ngày một công nhân phải làm việc 8 giờ; trong thời kỳ kháng chiến số giờ làm việc hàng ngày có thể tăng lên 9 giờ.
+
+Điều 30. - Ngoài những ngày nghỉ lễ và nghỉ hàng tuần nếu không có gì cản trở cho công việc mỗi công nhân mỗi năm có thể được nghỉ 30 ngày lĩnh cả lương và mọi khoản phụ cấp, kể cả thời gian đi về từ nơi làm việc đến nơi nghỉ phép.
+
+Điều 31. - Công nhân đau yếu sẽ được vào điều trị tại các bệnh viện công và phải trả tiền sinh hoạt. Còn thuốc men thường dùng trong các bệnh viện và tiền ăn thêm, nếu y sĩ xét cần sẽ do công quỹ chịu.
+
+Điều 32.- Có bệnh tật cần phải nghỉ thì theo đề nghị của y sĩ, công nhân đã làm việc được từ một năm trở lên có thể được nghỉ ba tháng lĩnh cả lương chính, tỷ lệ tăng và phụ cấp gia đình.
+
+Hết ba tháng nếu xét cần phải nghỉ thêm công nhân sẽ nghỉ thêm ba tháng nữa lĩnh cả lương chính, tỷ lệ tăng và phụ cấp gia đình.
+
+Qua hạn 6 tháng nếu chưa đi làm được thì công nhân sẽ coi như nghỉ dài hạn không lương.
+
+Đối với công nhân chưa làm việc được một năm thì khi đau yếu chỉ được nghỉ dưỡng bệnh lĩnh cả lương chính, tỷ lệ tăng và phụ cấp gia đình đến hai tháng là cùng.
+
+Hết hai tháng, nếu chưa đi làm được sẽ coi như nghỉ dài hạn không lương.
+
+Điều 33. - Công nhân phụ nữ trong thời kỳ thai sản được nghỉ hai tháng lĩnh cả lương và mọi khoản phụ cấp.
+
+Điều 34. - Nếu không có gì cản trở cho công việc, công nhân có thể xin nghỉ dài hạn làm một lần hay nhiều lần liên tiếp từ ba tháng đến ba năm (3). Trong thời kỳ nghỉ dài hạn công nhân không được hưởng lương bổng. Sau 3 năm nếu nhân viên không xin tiếp tục công việc thì sẽ coi như từ chức.
+
+Thời gian nghỉ dài hạn không kể vào thời gian thâm niên.
+
+Điều 35. - Thể thức cho nghỉ cũng như thể thức tuyển vào ngạch nói ở trên.
+
+Điều 36. - Khi công nhân từ trần trong thời kỳ tại chức thì thân nhân sẽ được trợ cấp như sau này:
+
+Nếu công nhân đã làm việc được từ 1 ngày đến 6 tháng thì số trợ cấp sẽ là nửa tháng lương chính và tỷ lệ tăng tháng cuối cùng làm việc và cứ mỗi lần thời gian làm việc của công nhân thêm lên từ 1 ngày đến 6 tháng thì số tiền trợ cấp lại tăng thêm bằng nửa tháng lương chính và tỷ lệ tăng.
+
+Số trợ cấp tối đa không được quá 6 tháng lương chính và tỷ lệ tăng.
+
+Số tiền trợ cấp này chỉ cấp cho vợ (hay chồng). Nếu vợ (hay chồng) chết thì cấp cho con; nếu không có con (hay chồng) thì cấp cho cha hoặc mẹ.
+
+Đối với những công nhân vì công vụ mà bị hy sinh tính mạng thì số trợ cấp cho thân nhân sẽ tăng gấp đôi thể lệ trên.
+
+Điều 37. - Trừ trường hợp phạm tội, phạm kỷ luật mà bị bãi chức và trường hợp xin thôi việc mà được chấp nhận, công nhân thôi việc vì những lý do khác được hưởng một khoản trợ cấp tính bằng 1 tháng lương chính và tỷ lệ tăng nếu đã làm việc từ 1 năm trở xuống và bằng 2 tháng lương chính và tỷ lệ tăng nếu đã làm việc quá 1 năm.
+
+CHƯƠNG III
+
+Chế độ hưu bổng - hạn thâm niên
+
+Điều 38. - Công nhân Bộ quốc phòng sẽ theo chế độ hưu bổng chung, trường hợp công nhân không đủ điều kiện để hưởng chế độ này sẽ quyết định sau.
+
+Điều 39. - Trong khi chờ đợi chế độ ấy, những công nhân chính ngạch, không kể công nhân tập sự và trưng tập, sẽ phải nộp hàng tháng vào quỹ hưu bổng một số tiền hưu liễm bằng 10% lương chính, không kể tỷ lệ tăng hàng năm.
+
+Điều 40. - Hạn thâm niên tính từ ngày 2 tháng 9 năm 1945 là ngày tuyên bố Độc lập, hoặc từ ngày nhận việc nếu vào làm việc sau ngày 2 tháng 9 năm 1945.
+
+CHƯƠNG IV
+
+Kỷ luật
+
+Điều 41. - Công nhân Bộ quốc phòng nếu vô cớ bỏ việc sẽ coi như quân nhân đào ngũ và bị truy tố trước toà án binh.
+
+Điều 42. - Công nhân phạm kỷ luật có thể đưa ra trước một hội đồng kỷ luật.
+
+Thành phần thủ tục làm việc và quyền hạn của hội đồng kỷ luật đối với công nhân các ngạch sẽ ấn định sau.
+
+Công nhân phạm lỗi có thể được xem hồ sơ để tự bào chữa.
+
+Điều 43. - Công nhân bị truy tố có thể bị huyền chức.
+
+Nếu sau khi toà xử, công nhân bị kết án thì việc huyền chức sẽ đổi ra bãi chức.
+
+Nếu được trắng án thì công nhân có thể truy lĩnh số tiền lương và phụ cấp từ khi bị huyền chức, trừ trường hợp tuy được miễn tố hay vô can về mặt pháp luật nhưng vẫn bị bãi chức hoặc bị một hình phạt gì về kỷ luật.
+
+CHƯƠNG V
+
+Công nhân tạm thời
+
+Điều 44. - Trong trường hợp cần người giúp việc trong một thời gian, có thể tuyển công nhân tạm thời.
+
+Chế độ, thủ tục tuyển công nhân tạm thời sẽ ấn định sau.
+
+CHƯƠNG VI
+
+Chế độ học nghề
+
+Điều 45. - Ngoài công nhân, các cơ quan có thể nhận những người học nghề.
+
+Điều 46. - Chế độ học nghề sẽ ấn định sau.
+
+CHƯƠNG VII
+
+Điều khoản chung
+
+Điều 47. - Nghị định này thi hành bắt đầu từ ngày 1/5/1949
+
+Điều 48. - Nghị định số 56-NĐ/CB ngày 6/8/1947 trái với nghị định này nay bãi bỏ.
+
+Điều 49.- Đổng lý Quân vụ, Đổng lý Sự vụ, Bộ Quốc phòng các Cục trưởng và Giám đốc Nha chiểu nghị định thi hành./.
+
+
+
+
+
+
+

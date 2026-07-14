@@ -1,0 +1,403 @@
+# Về việc Chấn chỉnh công tác quản lý xây dựng đô thị tại thành phố Đà Lạt
+# Loại: Chỉ thị
+# Số hiệu: 17/CT-UB
+# Ngày ban hành: 08/05/1995
+# Cơ quan: None
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn, bổ sung và sửa đổi hệ thống Mục lục ngân sách nhà nước
+
+Bộ Tài chính đã ban hành hệ thống Mục lục ngân sách nhà nước theo quyết định số 280 TC/QĐ/NSNN ngày 15/4/1997 và các thông tư hướng dẫn bổ sung, sửa đổi Mục lục ngân sách nhà nước số 156/1998/TT-BTC ngày 12/12/1998, số 60/1999/TT-BTC ngày 1/6/1999. Đến nay, Chính phủ đã sửa đổi, ban hành nhiều quyết định mới liên quan đến công tác tổ chức bộ máy Nhà nước, chế độ thu - chi của ngân sách nhà nước. Để đáp ứng yêu cầu quản lý và điều hành ngân sách nhà nước theo các quyết định mới của Chính phủ và để phù hợp với tình hình thực tế, Bộ Tài chính hướng dẫn, bổ sung và sửa đổi một số Chương, Loại, Khoản, Mục và Tiểu mục của Mục lục ngân sách nhà nước hiện hành như sau:
+
+A. VỀ CHƯƠNG:
+
+1. Bổ sung Chương 145A "Quỹ hỗ trợ phát triển" để hạch toán các khoản chi của ngân sách nhà nước cấp bổ sung cho quỹ hỗ trợ phát triển theo các quyết định của Chính phủ và cơ quan Nhà nước có thẩm quyền.
+
+2. Thay thế nội dung hướng dẫn tại gạch đầu dòng thứ nhất (các khoản thu của đơn vị thuộc tỉnh khác quản lý...) điểm 7 phần I công văn số 444 TC/NSNN ngày 18/12/1998 của Bộ Tài chính về việc "hướng dẫn, bổ sung, sửa đổi nội dung hạch toán các khoản thu, chi ngân sách nhà nước theo hệ thống Mục lục ngân sách nhà nước" như sau:
+
+Các khoản thu, chi ngân sách nhà nước của các doanh nghiệp nhà nước Trung ương, các doanh nghiệp nhà nước địa phương, các doanh nghiệp có vốn đầu tư nước ngoài và các doanh nghiệp ngoài quốc doanh thuộc tỉnh khác quản lý được hạch toán:
+
+2.1. Hạch toán Chương tương ứng của công ty mẹ, nếu đơn vị đó là chi nhánh, đơn vị phụ thuộc của các doanh nghiệp nhà nước Trung ương, các doanh nghiệp nhà nước địa phương.
+
+Để thuận tiện cho việc theo dõi đánh giá và chuyển đổi số liệu, các khoản thu nộp ngân sách nhà nước của các đơn vị là chi nhánh, đơn vị phụ thuộc của các doanh nghiệp nhà nước Trung ương, các doanh nghiệp nhà nước địa phương năm 2000 vẫn được tiếp tục hạch toán ở Chương 160B cho đến 31/12/2000. Từ ngày 1/1/2001, hạch toán Chương tương ứng của công ty mẹ.
+
+2.2. Hạch toán Chương tương ứng của loại hình doanh nghiệp, nếu đơn vị đó là chi nhánh, đơn vị phụ thuộc của các doanh nghiệp có vốn đầu tư nước ngoài và các doanh nghiệp ngoài quốc doanh.
+
+3. Đổi tên Chương 152 (A,B) "Các đơn vị kinh tế liên doanh có một phần vốn nước ngoài" thành "Các đơn vị kinh tế liên doanh có vốn đầu tư nước ngoài":
+
+3.1. Chương 152A "Các đơn vị kinh tế liên doanh có vốn đầu tư nước ngoài": quy định để hạch toán các khoản thu, chi ngân sách nhà nước của các đơn vị kinh tế được thành lập trên cơ sở liên doanh, hợp đồng hợp tác kinh doanh giữa các tổ chức, cá nhân nước ngoài với các tổ chức, cá nhân Việt Nam theo quy định của Luật Đầu tư nước ngoài và được Bộ Kế hoạch và đầu tư cấp phép.
+
+3.2. Chương 152B "Các đơn vị kinh tế liên doanh có vốn đầu tư nước ngoài": quy định để hạch toán các khoản thu, chi ngân sách nhà nước của các đơn vị kinh tế được thành lập trên cơ sở liên doanh, hợp đồng hợp tác kinh doanh giữa các tổ chức, cá nhân nước ngoài với các tổ chức, cá nhân Việt Nam theo quy định của Luật Đầu tư nước ngoài và được Sở Kế hoạch và đầu tư hoặc Ban Quản lý khu công nghiệp, khu chế xuất cấp phép.
+
+4. Chương 154 (B, C, D) "Kinh tế hỗn hợp ngoài quốc doanh": quy định để hạch toán các khoản thu, chi ngân sách nhà nước của các đơn vị kinh tế được thành lập trên cơ sở liên doanh của các tổ chức, cá nhân thuộc thành phần kinh tế ngoài quốc doanh. Đơn vị đó thuộc cấp nào quản lý thì hạch toán vào Chương (B,C,D) tương ứng.
+
+5. Chương 158 (A, B, C) "Kinh tế hỗn hợp có vốn tham gia của Nhà nước": quy định để hạch toán các khoản thu, chi ngân sách nhà nước của các đơn vị kinh tế được thành lập trên cơ sở liên doanh của các đơn vị kinh tế thuộc thành phần kinh tế quốc doanh và các đơn vị thuộc thành phần kinh tế ngoài quốc doanh. Đơn vị đó thuộc cấp nào quản lý thì hạch toán vào Chương (A, B, C) tương ứng.
+
+B. VỀ LOẠI - KHOẢN:
+
+1. Loại 01:
+
+- Đổi tên Khoản 12 "Chương trình khai thác, sử dụng đất hoang hoá, bãi bồi, ven biển, ven sông" thành "Chương trình khai thác, sử dụng đất hoang hoá, bãi bồi, ven biển, ven sông và mặt nước ở các vùng đồng bằng".
+
+2. Loại 07:
+
+- Khoản 02 "Dự trữ vật tư, thiết bị, hàng hoá và dịch vụ bảo quản". Phần hướng dẫn nội dung hạch toán sửa cụm từ "dự trữ muối của Bộ Thương mại" thành "dự trữ muối của Bộ Nông nghiệp và phát triển nông thôn".
+
+Từ năm 2001, bổ sung thêm nội dung chi hoạt động dự trữ và dịch vụ bảo quản của Ban Cơ yếu Chính phủ.
+
+3. Loại 10:
+
+- Khoản 03 "Các hoạt động trung gian tài chính", sửa cụm từ ở phần ghi chú: "Quỹ hỗ trợ đầu tư quốc gia" thành "Quỹ hỗ trợ phát triển".
+
+4. Loại 14 "Giáo dục và đào tạo".
+
+- Bỏ Khoản 17 "Mục tiêu tăng cường cơ sở vật chất và thiết bị các trường học" và bổ sung thêm các Khoản sau, để hạch toán chi cho các mục tiêu tăng cường cơ sở vật chất và thiết bị các trường học cụ thể:
+
++ Bổ sung thêm Khoản 19 "Mục tiêu tăng cường cơ sở vật chất trường phổ thông".
+
++ Bổ sung thêm Khoản 20 "Mục tiêu tăng cường cơ sở vật chất các trường trung học".
+
++ Bổ sung thêm Khoản 21 "Mục tiêu tăng cường cơ sở vật chất các trường đại học và cao đẳng".
+
++ Bổ sung thêm Khoản 22 "Mục tiêu tăng cường cơ sở vật chất các trường dạy nghề".
+
+Các khoản chi hạch toán ở Khoản 17 cũ được phân tích và chuyển về hạch toán vào các Khoản đã được bổ sung nói trên.
+
+5. Loại 15 "Y tế và các hoạt động xã hội".
+
+5.1. Đổi tên các Khoản sau:
+
+- Đổi tên Khoản 08 "Hoạt động xã hội tập trung" thành "Hoạt động thực hiện chính sách người có công cách mạng".
+
+Để phản ánh các hoạt động thực hiện công tác chính sách ưu đãi thương binh, liệt sĩ và người có công, bao gồm: chi các chế độ trợ cấp thường xuyên, một lần và lần đầu cho đối tượng hưởng ưu đãi, chi hoạt động của các đơn vị nuôi dưỡng chăm sóc điều dưỡng thương bệnh binh và người có công, công tác mộ, nghĩa trang, đài tưởng niệm liệt sĩ, và các chế độ ưu đãi đặc thù khác.
+
+- Đổi tên Khoản 09 "Hoạt động xã hội không tập trung" thành "Hoạt động xã hội khác".
+
+Để phản ánh các hoạt động thực hiện các chính sách đối với đối tượng xã hội (người già không nơi nương tựa, trẻ em mồ côi, người tàn tật, lang thang, đối tượng tệ nạn xã hội...) bao gồm: chi chế độ tiền ăn, sinh hoạt phí cho đối tượng, chi hoạt động của các đơn vị nuôi dưỡng đối tượng tập trung.
+
+5.2. Bỏ Khoản 10 "Các hoạt động xã hội khác".
+
+Các khoản chi đã hạch toán ở Khoản 10 cũ được phân tích và chuyển về hạch toán Khoản 08, Khoản 09 đã được sửa đổi nói trên.
+
+5.3. Đổi tên Khoản 17 "Mục tiêu tăng cường trang thiết bị bệnh viện" thành "Mục tiêu nâng cấp thiết bị y tế".
+
+5.4. Bỏ Khoản 07 "Sự nghiệp bảo vệ và chăm sóc trẻ em" và bổ sung thêm các Khoản để hạch toán các khoản chi cho các mục tiêu thuộc chương trình chăm sóc trẻ em như sau:
+
+- Bổ sung thêm Khoản 28 "Mục tiêu chăm sóc trẻ em có hoàn cảnh đặc biệt khó khăn".
+
+- Bổ sung thêm Khoản 29 "Mục tiêu bảo vệ trẻ em có hoàn cảnh đặc biệt và xây dựng mô hình".
+
+- Bổ sung thêm Khoản 30 "Mục tiêu truyền thông phối hợp giám sát kiểm tra sự nghiệp chăm sóc bảo vệ trẻ em".
+
+Các khoản chi đã hạch toán Khoản 07 cũ được phân tích và chuyển về hạch toán ở các Khoản đã được bổ sung nói trên.
+
+5.5. Bỏ Khoản 22 "Chương trình quốc gia xoá đói, giảm nghèo trong giai đoạn 1998-2000" và bổ sung thêm các Khoản để hạch toán các khoản chi cho từng dự án của chương trình quốc gia xoá đói, giảm nghèo như sau:
+
+- Bổ sung thêm Khoản 31 "Dự án đầu tư xây dựng cơ sở hạ tầng ở các xã đặc biệt khó khăn".
+
+- Bổ sung thêm Khoản 32 "Dự án tín dụng đối với người nghèo".
+
+- Bổ sung thêm Khoản 33 "Dự án hỗ trợ sản xuất và phát triển ngành nghề".
+
+- Bổ sung thêm Khoản 34 "Dự án hướng dẫn người nghèo cách làm ăn và khuyến nông, lâm, ngư".
+
+- Bổ sung thêm Khoản 35 "Dự án đào tạo cán bộ làm công tác hỗ trợ xoá đói, giảm nghèo và cán bộ xã nghèo".
+
+- Bổ sung thêm Khoản 36 "Dự án định canh, định cư".
+
+- Bổ sung thêm Khoản 37 "Dự án kinh tế mới".
+
+- Bổ sung thêm Khoản 38 "Dự án sắp xếp, ổn định dân di cư tự do".
+
+- Bổ sung thêm Khoản 39 "Dự án hỗ trợ đồng bào dân tộc đặc biệt khó khăn".
+
+- Bổ sung thêm Khoản 40 "Chương trình xây dựng trung tâm cụm xã miền núi, vùng cao".
+
+Các khoản chi đã hạch toán Khoản 22 cũ được phân tích và chuyển về hạch toán ở các Khoản đã được bổ sung nói trên (Loại 01, Khoản 09 "Hoạt động định canh, định cư và kinh tế mới" vẫn giữ nguyên để hạch toán chi hoạt động của bộ máy quản lý định canh, định cư và kinh tế mới bố trí bằng nguồn vốn sự nghiệp kinh tế).
+
+5.6. Bổ sung thêm Khoản 41 "Mục tiêu đảm bảo chất lượng, vệ sinh an toàn thực phẩm".
+
+5.7. Bổ sung thêm Khoản 42 "Kế hoạch hành động dinh dưỡng quốc gia".
+
+6. Loại 16 "Hoạt động văn hoá và thể thao".
+
+- Bổ sung thêm Khoản 22 "Mục tiêu điều tra, sưu tầm, phát triển vốn văn hoá phi vật thể".
+
+C. VỀ MỤC VÀ TIỂU MỤC:
+
+1. Đổi tên Mục 026 "Các khoản phụ thu" thành "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu và các khoản phụ thu"
+
+1.1. Đổi tên các Tiểu mục sau:
+
+- Đổi tên Tiểu mục 01 "Quỹ bình ổn giá" thành "Thu chênh lệch giá hàng xuất khẩu, nhập khẩu".
+
+- Đổi tên Tiểu mục 02 "Lắp đặt máy điện thoại" thành "Phụ thu về giá lắp đặt điện thoại".
+
+- Đổi tên Tiểu mục 03 "Giá bán điện" thành "Phụ thu về giá bán điện".
+
+- Đổi tên Tiểu mục 04 "Giá bán nước" thành"Phụ thu về giá bán nước".
+
+- Đổi tên Tiểu mục 08 "Phụ thu mặt hàng nhựa PVC" thành"Phụ thu về giá bán mặt hàng nhựa PVC".
+
+1.2. Bỏ các Tiểu mục sau:
+
+- Bỏ Tiểu mục 05 "Phụ thu xăng dầu".
+
+- Bỏ Tiểu mục 06 "Phụ thu phân bón"
+
+- Bỏ Tiểu mục 07 "Phụ thu cà phê".
+
+Các khoản thu đã hạch toán ở Tiểu mục (05,06 và 07 cũ) được chuyển về hạch toán vào Tiểu mục 01 đã được sửa đổi nói trên.
+
+2. Mục 027 "Thu về dầu thô".
+
+- Đổi tên Tiểu mục 02 "Thuế lợi tức" thành "Thuế thu nhập doanh nghiệp".
+
+3. Mục 030 - Tiểu mục (01,02,03), Mục 077 - Tiểu mục (01,02,03) và Mục 151 - Tiểu mục (01,02,03) sửa tên cụm từ "...hệ thống đầu tư phát triển..." thành "...quỹ hỗ trợ phát triển...".
+
+4. Mục 046 "Phí hành chính", đổi tên và bổ sung thêm các Tiểu mục sau:
+
+4.1. Đổi tên Tiểu mục 01 "Cấp quota" thành "Lệ phí cấp hạn ngạch xuất, nhập khẩu".
+
+4.2. Đổi tên Tiểu mục 03 "Lệ phí cấp giấy phép hoạt động cho các văn phòng đại diện nước ngoài tại Việt Nam" thành "Lệ phí cấp giấy phép đặt và hoạt động của văn phòng đại diện và các tổ chức kinh tế nước ngoài tại Việt Nam và mở chi nhánh công ty nước ngoài tại Việt Nam".
+
+4.3. Bổ sung thêm Tiểu mục 12 "Lệ phí cấp giấy chứng nhận xuất xứ hàng hoá".
+
+5. Mục 051 "Thu tiền phạt", đổi tên các Tiểu mục sau:
+
+- Đổi tên Tiểu mục 03 "Phạt vi phạm hành chính của ngành Hải quan" thành "Phạt vi phạm hành chính trong lĩnh vực thuế do ngành Hải quan thực hiện".
+
+- Đổi tên Tiểu mục 04 "Phạm vi phạm hành chính trong lĩnh vực thuế" thành "Phạt vi phạm hành chính trong lĩnh vực thuế do ngành thuế thực hiện".
+
+6. Mục 052 "Thu tịch thu".
+
+Bổ sung thêm Tiểu mục 08 "Tịch thu từ công tác chống lậu do ngành kiểm lâm thực hiện".
+
+7. Mục 054 "Các khoản đóng góp".
+
+Bổ sung thêm Tiểu mục 07 "Thu đóng góp quỹ hỗ trợ xuất khẩu của các doanh nghiệp kinh doanh xuất, nhập khẩu".
+
+8. Mục 055 "Thu bổ sung từ ngân sách cấp trên", đổi tên và bổ sung thêm các Tiểu mục sau:
+
+- Đổi tên Tiểu mục 02 "Bổ sung có mục tiêu" thành "Bổ sung có mục tiêu bằng vốn trong nước".
+
+- Bổ sung thêm Tiểu mục 03 "Bổ sung có mục tiêu bằng vốn vay nợ nước ngoài".
+
+- Bổ sung thêm Tiểu mục 04 "Bổ sung có mục tiêu bằng vốn viện trợ không hoàn lại".
+
+- Bổ sung thêm Tiểu mục 05 "Bổ sung các chương trình, mục tiêu quốc gia và dự án".
+
+Các khoản thu đã hạch toán ở Tiểu mục 02 cũ được phân tích và chuyển về hạch toán ở các Tiểu mục đã được bổ sung, sửa đổi nói trên.
+
+9. Mục 056 "Thu ngân sách cấp dưới nộp lên"
+
+Bổ sung thêm Tiểu mục 01 "Thu ngân sách cấp dưới nộp lên" để hạch toán các khoản thu của ngân sách cấp trên được hưởng, do ngân sách cấp dưới chuyển trả.
+
+Ngân sách cấp trên nhận tiền hoàn trả tạm ứng của ngân sách cấp dưới không hạch toán vào Mục này, mà hạch toán toán giảm chi Mục 913 "Tạm ứng cho ngân sách cấp dưới" (phần danh mục tạm chi chưa đưa vào cân đối ngân sách).
+
+10. Mục 062 "Thu khác".
+
+- Bổ sung thêm Tiểu mục 06 "Thu chuyển nguồn kinh phí ngân sách năm trước sang năm sau để chi".
+
+11. Mục 086 "Vay để đầu tư phát triển", bổ sung các Tiểu mục sau:
+
+- Bổ sung thêm Tiểu mục 04 "Vay trái phiếu Chính phủ phát hành qua kho bạc Nhà nước".
+
+- Bổ sung thêm Tiểu mục 05 "Vay Ngân hàng Nhà nước theo lệnh của Chính phủ".
+
+- Bổ sung thêm Tiểu mục 06 "Vay các quỹ ngoài ngân sách".
+
+- Bổ sung thêm Tiểu mục 07 "Vay các doanh nghiệp".
+
+- Bổ sung thêm Tiểu mục 08 "Vay tư nhân".
+
+- Bổ sung thêm Tiểu mục 10 "Vay theo khoản 3 điều 8 của Luật Ngân sách nhà nước".
+
+- Bổ sung thêm Tiểu mục 11 "Vay thị trường chứng khoán".
+
+12. Đổi tên Mục 122 "Chi cho công tác xã hội" thành "Chi về công tác người có công cách mạng và xã hội". Đổi tên và giải thích thêm nội dung chi của các Tiểu mục thuộc Mục 122 như sau:
+
+- Tiểu mục 01 "Trợ cấp hàng tháng"
+
+Phản ánh các khoản chi theo định mức quy định trả hàng tháng đối với các đối tượng được hưởng chế độ trợ cấp ưu đãi thường xuyên theo tháng.
+
+- Tiểu mục 02 "Trợ cấp một lần"
+
+Phản ánh các khoản chi theo quy định chi trả một lần đối với từng đối tượng được hưởng từng loại chế độ trợ cấp ưu đãi một lần: trợ cấp truy lĩnh, trợ cấp lần đầu, trợ cấp báo tử, trợ cấp thờ cúng, tiền mai táng phí...
+
+- Đổi tên Tiểu mục 03 "Tàu, xe, khám chữa bệnh" thành "Ưu đãi khác cho thương binh, bệnh binh"
+
+Phản ánh các khoản chi theo chế độ quy định đặc biệt đối với thương binh, bệnh binh, người hưởng chính sách như thương binh: tiền tàu xe, khám chữa bệnh, phí giám định y khoa, trang cấp đặc biệt, thuốc đặc trị, hỗ trợ thương binh nặng an dưỡng tại gia đình.
+
+- Tiểu mục 04 "Dụng cụ chỉnh hình"
+
+Phản ánh các khoản chi về cấp phát dụng cụ chỉnh hình phục hồi chức năng cho thương binh và người hưởng chính sách như thương binh: chân tay giả, mắt giả, kính dâm, máy trợ thính, xe lăn, xe lắc...
+
+- Đổi tên Tiểu mục 05 "Bảo hiểm y tế cho các đối tượng chính sách, thương binh, xã hội" thành "Bảo hiểm y tế cho các đối tượng chính sách"
+
+Phản ánh các khoản chi mua thẻ bảo hiểm y tế cấp cho đối tượng được hưởng chính sách: người có công cách mạng, đối tượng xã hội, người nghèo.
+
+- Đổi tên Tiểu mục 06 "Sinh hoạt phí trại viên các trại xã hội" thành "Trợ cấp trại viên các trại xã hội"
+
+Phản ánh các khoản chi trợ cấp hàng tháng, sinh hoạt... cho các đối tượng xã hội theo chế độ quy định.
+
+- Đổi tên Tiểu mục 07 "Chi phí quy tập mồ mả" thành "Chi công tác nghĩa trang và mộ liệt sĩ"
+
+Phản ánh các khoản chi về quy tập, cất bốc, xây mộ, khảo sát, tìm kiếm hài cốt liệt sĩ, thăm viếng mộ liệt sĩ, xây dựng sửa chữa nghĩa trang, đài tưởng niệm, bia ghi tên liệt sĩ, chi phí quản trang... (không kể các nghĩa trang đã được bố trí trong nguồn vốn đầu tư xây dựng cơ bản tập trung).
+
+- Đổi tên Tiểu mục 08 "Sửa chữa, nâng cấp nghĩa trang và đài tưởng niệm" thành "Chi hỗ trợ hoạt động các cơ sở nuôi dưỡng thương binh tập trung và điều dưỡng luân phiên người có công cách mạng, trung tâm xã hội"
+
+Phản ánh các khoản chi của ngân sách nhà nước cho các cơ sở nuôi dưỡng thương binh tập trung, điều dưỡng luân phiên người có công cách mạng, các đối tượng xã hội tập trung bao gồm: thanh toán dịch vụ công cộng, vật tư văn phòng, thông tin liên lạc, chi phí thuê mướn, mua sắm, sửa chữa dụng cụ đồ dùng, trang thiết bị, phương tiện phục vụ thương binh, bệnh binh, chuyên môn nghiệp vụ, thuốc y tế và chi khác theo chế độ quy định.
+
+Các khoản chi đã hạch toán ở Tiểu mục 08 cũ chuyển về hạch toán ở Tiểu mục 07 đã được sửa đổi nói trên.
+
+- Đổi tên Tiểu mục 09 "Xây nhà tình nghĩa" thành "Hỗ trợ nhà ở cho đối tượng ưu đãi"
+
+Phản ánh các khoản chi về hỗ trợ nhà ở, xây, sửa nhà tình nghĩa cho các đối tượng chính sách ưu đãi: bà mẹ Việt Nam anh hùng, lão thành cách mạng, thương binh, bệnh binh nặng.
+
+- Tiểu mục 10 "Chi quà lễ, tết cho các đối tượng chính sách"
+
+Phản ánh các khoản chi về tiền quà và tiền ăn thêm các ngày lễ, tết cho các đối tượng theo chế độ quy định.
+
+- Tiểu mục 11 "Chi sách báo cán bộ lão thành cách mạng"
+
+Phản ánh khoản chi về tiền mua báo nhân dân hàng ngày cho cán bộ lão thành cách mạng theo chế độ quy định.
+
+- Đổi tên Tiểu mục 12 "Lệ phí chi trả" thành "Chi cho công tác quản lý"
+
+Phản ánh các khoản chi về phí quản lý nghiệp vụ thuộc nguồn kinh phí trung ương cấp uỷ quyền về địa phương, bao gồm: in ấn mẫu biểu, giấy tờ phục vụ quản lý các đối tượng chính sách; mua sắm đồ dùng văn phòng, mua sắm, sửa chữa nhỏ tài sản, đồ dùng quản lý nghiệp vụ; hội nghị tập huấn nghiệp vụ; thù lao cán bộ, chi trả trợ cấp tại xã, phường.
+
+- Tiểu mục 13 "Trợ cấp ưu đãi học tập cho đối tượng chính sách"
+
+Phản ánh các khoản chi trợ cấp về học tập cho thương binh, bệnh binh, người hưởng chính sách như thương binh và con của họ, con liệt sĩ theo chế độ quy định.
+
+- Tiểu mục 14 "Điều trị, điều dưỡng"
+
+Phản ánh các khoản chi theo chế độ giường điều trị, điều dưỡng người có công cách mạng (bao gồm tiền ăn và tiền thuốc và chi khác).
+
+13. Mục 125 "Chi bổ sung cho ngân sách cấp dưới", đổi tên và bổ sung thêm các Tiểu mục sau:
+
+- Đổi tên Tiểu mục 02 "Bổ sung có mục tiêu" thành "Chi bổ sung có mục tiêu bằng nguồn vốn trong nước"
+
+- Bổ sung thêm Tiểu mục 03 "Chi bổ sung có mục tiêu bằng vốn vay nợ nước ngoài".
+
+- Bổ sung thêm Tiểu mục 04 "Chi bổ sung có mục tiêu bằng vốn viện trợ không hoàn lại".
+
+- Bổ sung thêm Tiểu mục 05 "Chi bổ sung các chương trình, mục tiêu quốc gia và dự án".
+
+Các khoản chi đã hạch toán ở Tiểu mục 02 cũ được phân tích và chuyển về hạch toán ở các Tiểu mục đã được bổ sung, sửa đổi nói trên.
+
+14. Đổi tên Mục 126 "Chi từ các khoản phụ thu" thành "Chi hỗ trợ quỹ xuất khẩu và các khoản phụ thu".
+
+14.1. Đổi tên Tiểu mục 01 "Chi từ quỹ bình ổn giá" thành "Chi quỹ hỗ trợ xuất khẩu".
+
+14.2. Bổ sung thêm các Tiểu mục sau:
+
+- Bổ sung thêm Tiểu mục 04 "Chi từ nguồn phụ thu giá bán nước".
+
+- Bổ sung thêm Tiểu mục 08 "Chi từ nguồn phụ thu giá mặt hàng nhựa (PVC)".
+
+15. Mục 127 "Chi viện trợ".
+
+15.1. Đổi tên các Tiểu mục sau:
+
+- Đổi tên Tiểu mục 01 "Lào (C)" thành "Chi đào tạo học sinh Lào (C)".
+
+- Đổi tên Tiểu mục 02 "Căm pu chia (K)" thành "Chi đào tạo học sinh Căm pu chia (K)".
+
+15.2. Bổ sung thêm các Tiểu mục sau:
+
+- Bổ sung thêm Tiểu mục 03 "Chi hỗ trợ hợp tác Lào (C)".
+
+- Bổ sung thêm Tiểu mục 04 "Chi hỗ trợ hợp tác Căm pu chia (K)".
+
+- Bổ sung thêm Tiểu mục 05 "Chi dự án viện trợ Lào (C)".
+
+- Bổ sung thêm Tiểu mục 06 "Chi dự án viện trợ Căm pu chia (K)".
+
+Các khoản chi đã hạch toán ở Tiểu mục 01 cũ được phân tích và chuyển về hạch toán ở các Tiểu mục (01,03 và 05) và các khoản chi đã hạch toán ở Tiểu mục 02 cũ được phân tích và chuyển về hạch toán ở các Tiểu mục (02,04 và 06) đã được bổ sung, sửa đổi nói trên.
+
+16. Mục 133 "Chi nộp ngân sách cấp trên"
+
+Bổ sung thêm Tiểu mục 01 "Chi nộp ngân sách cấp trên" để hạch toán các khoản chi của ngân sách cấp dưới nộp trả ngân sách cấp trên về các khoản thu của ngân sách cấp trên được hưởng.
+
+Ngân sách cấp dưới trả ngân sách cấp trên các khoản tạm ứng không hạch toán ở Mục này, mà hạch toán giảm thu vay ngân sách cấp trên Mục 809 "Vay ngân sách cấp trên" (phần danh mục tạm thu chưa đưa vào cân đối ngân sách).
+
+17. Mục 134 "Chi khác".
+
+17.1. Đổi tên Tiểu mục 06 "Thưởng cho người có công phát hiện, tố giác các hành vi, vi phạm pháp luật" thành "Chi thưởng và chi phí xử lý các hành vi, vi phạm phát luật của các vụ xử lý không có thu hoặc thu không đủ chi".
+
+17.2. Bổ sung thêm Tiểu mục 07 "Chi chuyển nguồn kinh phí ngân sách năm trước sang năm sau để chi".
+
+18. Mục 135 "Trả lãi tiền vay trong nước".
+
+- Bổ sung thêm Tiểu mục 10 "theo khoản 3, điều 8 của Luật Ngân sách nhà nước".
+
+- Bổ sung thêm Tiểu mục 11 "Vay thị trường chứng khoán".
+
+19. Mục 141 "Hỗ trợ vốn cho các doanh nghiệp Nhà nước", bổ sung thêm các Tiểu mục sau:
+
+- Bổ sung thêm Tiểu mục 04 "Hỗ trợ lãi suất tín dụng".
+
+- Bổ sung thêm Tiểu mục 05 "Cấp vốn hỗ trợ lãi suất sau đầu tư".
+
+20. Mục 149 "Chi phí khác".
+
+Bổ sung thêm Tiểu mục 10 "Chi phí thẩm định dự án, thiết kế kỹ thuật, tổng dự toán và quyết toán".
+
+21. Mục 153 "Hỗ trợ các quỹ", đổi và bổ sung thêm các Tiểu mục sau:
+
+21.1. Đổi tên Tiểu mục 01 "Quỹ hỗ trợ đầu tư quốc gia" thành "Cấp vốn điều lệ quỹ hỗ trợ phát triển".
+
+21.2. Bổ sung thêm các Tiểu mục sau:
+
+- Bổ sung thêm Tiểu mục 03 "Cấp bù chênh lệch lãi suất quỹ hỗ trợ phát triển".
+
+- Bổ sung thêm Tiểu mục 04 "Cấp hỗ trợ lãi suất sau đầu tư quỹ hỗ trợ phát triển".
+
+- Bổ sung thêm Tiểu mục 05 "Cấp bổ sung quỹ bảo lãnh quỹ hỗ trợ phát triển".
+
+- Bổ sung thêm Tiểu mục 06 "Cấp bổ sung quỹ rủi ro quỹ hỗ trợ phát triển".
+
+- Bổ sung thêm Tiểu mục 07 "Cấp hỗ trợ kinh phí hoạt động quỹ hỗ trợ phát triển".
+
+- Bổ sung thêm Tiểu mục 08 "Hỗ trợ khác quỹ hỗ trợ phát triển".
+
+22. Mục 158 "Trả nợ gốc vay đầu tư phát triển"
+
+- Bổ sung thêm Tiểu mục 10 "theo khoản 3, điều 8 của Luật Ngân sách nhà nước".
+
+- Bổ sung thêm Tiểu mục 11 "Vay thị trường chứng khoán".
+
+23. Đổi mã số Tiểu mục 15 trong tất cả các Mục thu, Mục chi của Mục lục ngân sách nhà nước hiện hành và Tiểu mục 15 thuộc Mục thu, Mục chi bổ sung thêm tại Thông tư này thành mã số Tiểu mục 99 và Tiểu mục 99 chỉ được hạch toán các nội dung thu, chi thuộc Mục đó, nhưng chưa được quy định tên Tiểu mục cụ thể.
+
+D. MỤC TẠM THU, TẠM CHI CHƯA ĐƯA VÀO CÂN ĐỐI NGÂN SÁCH NHÀ NƯỚC:
+
+1. Bổ sung thêm Mục 808 "Vay quỹ tích luỹ trả nợ".
+
+2. Bổ sung thêm Mục 809 "Vay ngân sách cấp trên".
+
+3. Đổi tên Mục 902 "Tạm ứng xây dựng cơ bản qua hệ thống đầu tư phát triển" thành "Tạm ứng vốn xây dựng cơ bản qua kho bạc Nhà nước".
+
+4. Bổ sung thêm Mục 908 "Tạm ứng chi trả nợ cho quỹ tích luỹ trả nợ".
+
+5. Bổ sung thêm Mục 913 "Tạm ứng cho ngân sách cấp dưới".
+
+Thông tư này có hiệu lực thi hành từ 1/1/2000. Các khoản thu, chi của ngân sách nhà nước từ ngày 1/1/2000 theo Chương, Loại, Khoản, Mục và Tiểu mục hiện hành được phân tích và chuyển về hạch toán theo Chương, Loại, Khoản, Mục và Tiểu mục đã được bổ sung, sửa đổi tại Thông tư này. Những quy định trước đây trái với Thông tư này đều bãi bỏ. Trong quá trình thực hiện, nếu có gì vướng mắc đề nghị các đơn vị có công văn gửi về Bộ Tài chính để nghiên cứu và sửa đổi kịp thời.
+
+
+
+
+
+
+
+

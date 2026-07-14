@@ -1,0 +1,305 @@
+# Về việc ấn định thể lệ cho phép bộ Tài chính lấy tiền ở kho bạc ra ngay mỗi khi cần cấp
+# Loại: Sắc lệnh
+# Số hiệu: 25
+# Ngày ban hành: 10/09/1945
+# Cơ quan: Chủ tịch Chính phủ lâm thời Việt Nam Dân chủ Cộng hoà
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+CỦA TỔNG CỤC THỐNG KÊ SỐ 555/TCTK-PPCD
+
+NGÀY 13 THÁNG 9 NĂM 1988 HƯỚNG DẪN THI HÀNH
+
+PHÁP LỆNH KẾ TOÁN VÀ THỐNG KÊ
+
+(PHẦN THỐNG KÊ)
+
+Ngày 20 tháng 5 năm 1988, Hội đồng Nhà nước Nước cộng hoà xã hội chủ nghĩa Việt Nam đã công bố Pháp lệnh kế toán và thống kê.
+
+Tổng cục Thống kê ban hành Thông tư hướng dẫn thi hành Pháp lệnh - Phần nói về thông kê và những điều khoản liên quan - để các Bộ, Uỷ ban nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng, Uỷ ban nhân dân các cấp, các đơn vị cơ sở và các công dân thực hiện.
+
+Pháp lệnh này là văn bản pháp lý cao nhất về công tác kế toán, thống kê lần đầu tiên được ban hành ở nước ta. Pháp lệnh kế toán và thống kê là cơ sở pháp lý để:
+
+Giám sát các cấp, các ngành, các đơn vị cơ sở và công dân thực hiện các chế độ kế toán và thống kê, bảo đảm cung cấp thông tin kịp thời, chính xác, góp phần tăng cường quản lý kinh tế - tài chính của các cấp, các ngành và đơn vị cơ sở.
+
+Thực hiện đổi mới và tăng cường trật tự, kỷ cương trong công tác kế toán và thống kê ở mỗi cấp, mỗi ngành và đơn vị cơ sở, thực hiện kiểm kê, kiểm soát của Nhà nước đối với hoạt động sản xuất kinh doanh thuộc các thành phần kinh tế.
+
+Bảo đảm quyền độc lập về chuyên môn nghiệp vụ của những người làm công tác kế toán, thống kê nhằm nâng cao tính khách quan của số liệu kế toán và thống kê.
+
+
+
+I - NHỮNG QUY ĐỊNH CHUNG
+
+1. Đối tượng phải chấp hành chế độ thống kê quy định trong Pháp lệnh, gồm tất cả công dân (những điều có liên quan); các đơn vị sản xuất kinh doanh có tư cách pháp nhân (Xí nghiệp, xí nghiệp liên hợp, công ty, hợp tác xã, tập đoàn sản xuất...) thuộc các thành phần kinh tế; các đơn vị hành chính sự nghiệp có sử dụng kinh phí của Nhà nước và của đoàn thể; các cơ quan quản lý Nhà nước ở các cấp, các ngành. Các Xí nghiệp có vốn đầu tư nước ngoài thực hiện chế độ báo cáo thống kê theo nguyên tắc và tiêu chuẩn quốc tế phổ biến được Tổng cục Thống kê Nước Cộng hoà xã hội chủ nghĩa Việt Nam thừa nhận.
+
+2. Trong phạm vi cả nước, công tác thống kê phải thực hiện theo nguyên tắc thống nhất về: hệ thống chứng từ ghi chép ban đầu, phương pháp thu thập và tổng hợp số liệu, đơn vị đo lường, nội dung và phương pháp tính toán các chỉ tiêu kinh tế, xã hội, chế độ báo cáo và điều tra thống kê, hệ thống phân ngành kinh tế quốc dân, danh mục, phân loại và mã hoá.
+
+Nội dung và yêu cầu cụ thể đối với từng công việc có liên quan đến những số liệu thuộc hệ thống thông tin thống kê tập trung phải thực hiện thống nhất theo quy định và hướng dẫn của Tổng cục Thống kê. Việc thu thập và tổng hợp những thông tin thống kê thuộc phạm vi quyền hạn và trách nhiệm của các cấp, các ngành, ngoài những thông tin thuộc hệ thống thông tin thống kê tập trung, thì thực hiện theo sự hướng dẫn của thống kê của cấp hoặc ngành tương ứng, nhưng không được trái với quy định của Tổng cục Thống kê.
+
+3. Tại các đơn vị cơ sở thuộc tất cả các ngành kinh tế quốc dân và các thành phần kinh tế phải sử dụng thống nhất một nguồn chứng từ khi tính toán và tổng hợp các số liệu kế toán và thống kê có liên quan .
+
+4. Quyền độc lập về chuyên môn nghiệp vụ của những người làm công tác thống kê tại Điều 4, điểm 1 của Pháp lệnh, có hiệu lực đối với từng cá nhân và cả tập thể những người làm thống kê thuộc cơ quan hoặc tổ chức thống kê từ đơn vị cơ sở đến các cấp, các ngành. Cụ thể là:
+
+Thực hiện nhiệm vụ và phương pháp chuyên môn theo chỉ đạo của cơ quan thống kê cấp trên.
+
+Xác nhận và tự chịu trách nhiệm về kết quả thu thập và tổng hợp số liệu thống kê thuộc phạm vi phụ trách.
+
+5. Hệ thống thông tin thống kê của Nhà nước gồm hai hệ thống được qui định tại Điều 5 của Pháp lệnh là dựa vào nguyên tắc phân cấp quyền hạn và trách nhiệm về thu thập, quản lý và sử dụng thông tin chứ không phải là hai hệ thống tổ chức bộ máy thống kê riêng biệt.
+
+Hệ thống thông tin thống kê tập trung do Tổng cục Thống kê tổ chức, thực hiện gồm một hệ thống chỉ tiêu thống kê chủ yếu đáp ứng nhu cầu thông tin để thực hiện chức năng quản lý Nhà nước của các cấp, các ngành. Tổng cục Thống kê xây dựng kế hoạch thông tin dưới hình thức chế độ báo cáo và điều tra thống kê và giao cho thống kê các Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc HĐBT, các tỉnh, thành phố, đặc khu trực thuộc Trung ương và đơn vị cơ sở thực hiện. Ngoài ra khi cần thiết Tổng cục Thống kê có thể tổ chức các cuộc điều tra chuyên đề.
+
+Hệ thống thông tin thống kê của các Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng và UBND các cấp gồm những số liệu thống kê của ngành, địa phương phải cung cấp cho hệ thống thông tin thống kê tập trung và những số liệu cần thu thập thêm để đáp ứng yêu cầu quản lý của ngành và địa phương.
+
+Việc hoàn thiện cả hai hệ thống thông tin thống kê đều phải hướng vào mục tiêu nâng cao chất lượng và hiệu quả, bảo đảm không trùng lắp trong việc thu thập, tổng hợp số liệu, thực hiện tinh giản thông tin, không gây phiền hà cho cơ sở.
+
+6. Những số liệu thống kê có giá trị pháp lý để đánh giá kết quả sản xuất kinh doanh, mức độ thực hiện kế hoạch và nghĩa vụ đối với Nhà nước của các đơn vị, các cấp, các ngành, phải là những số liệu do Tổng cục Thống kê hoặc thống kê các cấp, các ngành, các đơn vị báo cáo với đầy đủ chữ ký của những người có thẩm quyền và dấu xác nhận.
+
+Ngược lại, những số liệu do cá nhân, tập thể tự tổ chức thu thập hoặc dự đoán theo nhận xét chủ quan đều không có cơ sở pháp lý và không được dùng để thay cho số liệu do cơ quan thống kê cung cấp.
+
+7. Những số liệu thống kê thuộc bí mật Nhà nước đã được qui định tại chương II Nghị định số 69/CP ngày 14-6-1962 của Hội đồng Chính phủ- nay là Hội đồng Bộ trưởng (xem phụ lục kèm theo).
+
+Hiện nay Nhà nước chủ trương mở rộng tính công khai trong tất cả các lĩnh vực kinh tế, xã hội. Khi nào có quyết định mới của Hội đồng Bộ trưởng thì Tổng cục Thống kê sẽ hướng dẫn tiếp về vấn đề này.
+
+8. Điều 7 của Pháp lệnh đã quy định 6 hành vi nghiêm cấm. Đối với thống kê cần đặc biệt chú ý các điểm sau đây:
+
+a) Giả mạo chứng từ, lập sổ sách, báo cáo kế toán, thống kê sai sự thật.
+
+Giả mạo chứng từ là lập chứng từ để ghi chép các hiện tượng kinh tế, xã hội không phát sinh hoặc có phát sinh nhưng không đúng với nội dung, thời gian và địa điểm mà hiện tượng xuất hiện, giả mạo chữ ký của người có liên quan hoặc dấu xác nhận; trường hợp mất chứng từ gốc phải báo cáo ngay với cơ quan hoặc người có trách nhiệm để xử lý, nếu tự lập lại để thay cho chứng từ gốc đã mất cũng coi như giả mạo chứng từ.
+
+Vì bất kỳ mục đích gì mà cá nhân hoặc đơn vị lập các sổ sách, báo cáo khác nhau để phản ánh về cùng một nội dung hoạt động kinh tế - xã hội nhưng với số liệu khác nhau để dùng hạch toán nội bộ và gửi cho các cấp có thẩm quyền, hoặc những báo cáo mà đơn vị phải gửi cho cả cơ quan thống kê và cơ quan quản lý cấp trên nhưng số liệu không thống nhất đều bị coi là vi phạm điều nghiêm cấm này.
+
+b) Khai man số liệu, báo cáo sai sự thật hoặc ép người khác khai man số liệu, báo cáo sai sự thật.
+
+Khai man số liệu hoặc ép buộc người khác khai man số liệu thống kê là hành vi cố ý ghi sai số liệu về hiện tượng kinh tế xã hội, kết quả tính toán, tổng hợp và điều tra do xuất phát từ động cơ cá nhân. Những người không có thẩm quyền, nhưng vì bất cứ lý do gì mà tự ý sửa chữa lại số liệu thống kê cũng bị coi là khai man số liệu. Trường hợp do thiếu tinh thần trách nhiệm hoặc do trình độ chuyên môn không bảo đảm, đã ghi chép sai hoặc tính toán sai số liệu thì không xét là hành vi khai man số liệu.
+
+Hành vi ép buộc người khác khai man số liệu, gồm cả hành động dùng quyền lực, đe doạ những người làm công tác thống kê sửa lại số liệu vi phạm phương pháp chuyên môn nghiệp vụ để thu được kết quả phản ánh không đúng thực tế như chọn đơn vị và đối tượng điều tra, phạm vi tính toán không đúng qui định.
+
+c) Làm lộ bí mật những số liệu kế toán, thống kê thuộc bí mật Nhà nước.
+
+Những hành vi sau đây sẽ bị coi là làm lộ bí mật số liệu thống kê thuộc bí mật Nhà nước:
+
+Cung cấp những số liệu thống kê thuộc bí mật Nhà nước sai đối tượng qui định.
+
+Công bố số liệu thống kê thuộc bí mật Nhà nước không thuộc thẩm quyền.
+
+Tự tiện thu thập, sao chép số liệu thống kê thuộc bí mật Nhà nước và để lọt vào tay những người không được quyền sử dụng các số liệu đó.
+
+d) Sử dụng các loại chứng từ, biểu mẫu không hợp lệ.
+
+Việc ghi chép từng nghiệp vụ kinh tế tài chính phát sinh cũng như báo cáo các kết quả hoạt động sản xuất, kinh doanh, tình hình sử dụng kinh phí được cấp của đơn vị, phải thực hiện trên chứng từ, biểu mẫu in sẵn do Tổng cục Thống kê hoặc cơ quan có thẩm quyền ban hành. Trường hợp xử lý trên máy tính thì biểu mẫu báo cáo cũng phải theo đúng qui định của các cơ quan nói trên. Nếu mẫu in sẵn do cơ quan có thẩm quyền phát hành không đủ, đơn vị hoặc cá nhân có quyền nhân bản hoặc kê thêm nhưng phải theo đúng mẫu qui định. Bất kỳ đơn vị và cá nhân nào làm trái với yêu cầu trên đều bị coi là phạm điều nghiêm cấm này.
+
+
+
+II. - NHỮNG QUI ĐỊNH CỤ THỂ VỀ CHẾ ĐỘ THỐNG KÊ
+
+1. Ghi chép ban đầu:
+
+Thực hiện chế độ ghi chép ban đầu là yêu cầu bắt buộc đối với tất cả các đơn vị sản xuất kinh doanh (quốc doanh, công tư hợp doanh, tập thể) và cơ quan hành chính sự nghiệp các cấp.
+
+Mọi hoạt động kinh tế, tài chính phát sinh ở bất cứ bộ phận nào trong đơn vị đều phải lập ngay chứng từ gốc. Chứng từ gốc chỉ được lập một lần và lập ngay tại nơi, tại lúc phát sinh theo đúng chế độ hiện hành về nội dung, phương pháp ghi chép, trách nhiệm ghi chép, luân chuyển chứng từ, chữ ký của người chịu trách nhiệm, dấu xác nhận của đơn vị tuỳ theo tính chất của từng loại chứng từ. Không ai được quyết định thu, chi mà không có chứng từ bảo đảm.
+
+2. Báo cáo thống kê:
+
+Việc thực hiện chế độ báo cáo thống kê ( bao gồm cả báo cáo kế toán - thống kê tổng hợp) do TCTK và cơ quan có thẩm quyền ban hành là yêu cầu bắt buộc đối với tất cả các đơn vị sản xuất kinh doanh các cấp, các ngành.
+
+Các đơn vị là đối tượng thực hiện chế độ báo cáo thống kê phải chấp hành nghiêm chỉnh những qui định về mẫu biểu báo cáo, chỉ tiêu báo cáo, nội dung và phương pháp tính toán các chỉ tiêu. Báo cáo thống kê phải chính xác, phản ánh đúng tình hình thực tế và phải nộp đúng thời hạn.
+
+Các báo cáo phải gửi trực tiếp thì ngày qui định là ngày mà báo cáo được giao cho cơ quan có thẩm quyền. Nếu báo cáo phải chuyển qua đường bưu điện, thì ngày qui định là ngày mà báo cáo được gửi đến cho Bưu điện địa phương.
+
+Những người ký tên trong các báo cáo thống kê của đơn vị cơ sở và của các cấp, các ngành phải kiểm tra số liệu thuộc phạm vi chức năng của mình và phải chịu trách nhiệm về sự sai sót của số liệu:
+
+Người lập biểu phải chịu trách nhiệm trước kế toán trưởng và thủ trưởng đơn vị những sai sót về số liệu.
+
+Kế toán trưởng hoặc người phụ trách công tác thống kê, kế toán và những người ký xác nhận có liên quan, phải kiểm tra số liệu trước khi ký duyệt và chịu trách nhiệm trước thủ trưởng đơn vị và cơ quan chức năng, những sai sót của số liệu trong tất cả các báo cáo theo chế độ.
+
+Thủ trưởng đơn vị chịu trách nhiệm về thời hạn nộp báo cáo và sự sai sót của số liệu tổng hợp có liên quan đến việc đánh giá kết quả sản xuất kinh doanh, hoàn thành kế hoạch Nhà nước, thực hiện hợp đồng kinh tế và nghĩa vụ đối với Nhà nước.
+
+3. Điều tra thống kê:
+
+Các cuộc tổng điều tra thống kê trên phạm vi lớn, nội dung phức tạp, có liên quan đến nhiều ngành, nhiều lĩnh vực như Tổng điều tra dân số, do Hội đồng Bộ trưởng xác định mục đích yêu cầu và chỉ đạo thực hiện; việc thành lập Ban chỉ đạo Tổng điều tra ở cấp nào do cấp đó quyết định: ở Trung ương do Chủ tịch Hội đồng Bộ trưởng quyết định, ở địa phương do Chủ tịch Uỷ ban nhân dân quyết định. Ban chỉ đạo Tổng điều tra các cấp chịu trách nhiệm hướng dẫn, tổ chức thực hiện, bảo đảm thống nhất phương án điều tra, đồng thời chịu trách nhiệm về kết quả điều tra thuộc phạm vi quản lý.
+
+Các cuộc điều tra thống kê định kỳ đã ghi trong kế hoạch thông tin hàng năm thì các cấp, các ngành có trách nhiệm tổ chức thực hiện theo kế hoạch thống nhất dưới sự hướng dẫn về chuyên môn, nghiệp vụ của Tổng cục thống kê. Kết quả điều tra phải gửi về Tổng cục thống kê theo đúng thời gian qui định.
+
+Tất cả các đơn vị và công dân thuộc phạm vi điều tra có trách nhiệm cung cấp kịp thời và chính xác những số liệu có liên quan đã qui định trong phương án điều tra.
+
+Đối với các cuộc điều tra khác như điều tra ngân sách gia đình, điều tra tình trạng hôn nhân.v.v. thực hiện theo nguyên tắc tự nguyện, thì cán bộ điều tra và cơ quan chịu trách nhiệm tổ chức điều tra chỉ được sử dụng số liệu vào mục đích nghiên cứu thống kê và không được tiết lộ làm ảnh hưởng đến người hoặc đơn vị đã cung cấp số liệu.
+
+Các cuộc điều tra thống kê nhằm thu thập thông tin để đáp ứng yêu cầu quản lý của Bộ, ngành hoặc địa phương không ghi trong kế hoạch thu thập thông tin thống kê hàng năm của TCTK, do Bộ, ngành hoặc địa phương tổ chức thực hiện, sau khi đã được Tổng cục thống kê chấp thuận. Cơ quan thống kê cùng cấp chịu trách nhiệm chỉ đạo về nghiệp vụ. Kết quả điều tra phải sao gửi cho Tổng cục thống kê.
+
+Trưởng ban điều tra hoặc thủ trưởng thống kê ở các cấp, các ngành chịu trách nhiệm về kết quả điều tra thuộc phạm vi phụ trách.
+
+4. Kiểm tra thống kê:
+
+a) Nội dung kiểm tra.
+
+Đối với đơn vị cơ sở, nội dung kiểm tra gồm kiểm tra việc chấp hành chế độ ghi chép ban đầu, phương pháp tổng hợp số liệu và tính toán các chỉ tiêu kinh tế xã hội, độ tin cậy của số liệu và tính hợp pháp của các chứng từ, biểu mẫu báo cáo và việc chấp hành kỷ luật báo cáo.
+
+Đối với thống kê của các cấp, các ngành, nội dung kiểm tra gồm kiểm tra việc chỉ đạo, hướng dẫn các đơn vị cơ sở và thống kê cấp dưới thực hiện kế hoạch thông tin theo đúng phương pháp chuyên môn nghiệp vụ; kiểm tra việc chấp hành chế độ báo cáo tổng hợp và thực hiện phương án điều tra thuộc phạm vi phụ trách.
+
+b) Thẩm quyền kiểm tra.
+
+Tổng cục thống kê kiểm tra việc chấp hành chế độ thống kê của các bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc HĐBT, UBND các tỉnh, thành phố và đặc khu trực thuộc Trung ương.
+
+Thống kê của các cấp các ngành phải kiểm tra việc chấp hành chế độ thống kê của thống kê cấp dưới trực tiếp và đơn vị cơ sở.
+
+Khi tiến hành kiểm tra, đối với mọi cấp, mọi ngành thì cơ quan thống kê cấp trên có thể tiến hành độc lập hoặc phối hợp với Thống kê đó, ngành đó, kiểm tra một số đơn vị cơ sở nhưng phải bảo đảm không kiểm tra trùng lặp gây khó khăn cho đơn vị được kiểm tra. Sau khi kiểm tra phải có kết luận và kiến nghị cụ thể. Biên bản kiểm tra phải có đầy đủ chữ ký của đại diện ban kiểm tra, thủ trưởng, kế toán trưởng hoặc người phụ trách công tác thống kê, kế toán của đơn vị được kiểm tra và lập thành 3 bản (một bản gửi cơ quan chủ quản cấp trên, một bản gửi cơ quan thống kê trực tiếp phụ trách, một bản lưu lại đơn vị).
+
+Hàng năm, cùng với việc hoàn thành kế hoạch thông tin, thống kê của các cấp, các ngành phải xây dựng và thực hiện kế hoạch kiểm tra việc chấp hành chế độ thống kê đối với cấp dưới và đơn vị cơ sở.
+
+c) Thủ trưởng, kế toán trưởng hoặc người phụ trách công tác thống kê, kế toán và cán bộ thống kê trực tiếp của đơn vị được kiểm tra có trách nhiệm cung cấp đầy đủ, chính xác , kịp thời các số liệu, tài liệu cần thiết theo yêu cầu của cán bộ kiểm tra, tạo mọi điều kiện cho công tác kiểm tra được tiến hành thuận lợi và ký vào báo cáo kết quả kiểm tra. Nếu có điểm nào không nhất trí với báo cáo kết quả kiểm tra thì đơn vị phải giải trình ý kiến của mình và đính kèm theo.
+
+III - TRÁCH NHIỆM, QUYỀN HẠN CỦA CÁC CẤP, CÁC NGÀNH, CÁC ĐƠN VỊ TRONG VIỆC TỔ CHỨC THỰC HIỆN CHẾ ĐỘ THỐNG KÊ
+
+1. Tổng cục thống kê
+
+Điều 15 của Pháp lệnh đã quy định: Tổng cục thống kê giúp Hội đồng Bộ trưởng quản lý công tác thống kê trong cả nước.
+
+Thực hiện chức năng quản lý đó, Tổng cục thống kê tiến hành những công việc chủ yếu sau đây:
+
+a) Xây dựng kế hoạch thu thập thông tin thống kê trong phạm vi cả nước nhằm đáp ứng nhu cầu thông tin để quản lý kinh tế - xã hội các cấp, các ngành và giao cho cơ quan thống kê các Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng, UBND các tỉnh, thành phố và đặc khu trực thuộc Trung ương thực hiện.
+
+b) Ban hành chế độ ghi chép ban đầu áp dụng trong các ngành kinh tế quốc dân, có sự nhất trí của Bộ Tài chính.
+
+c) Ban hành chế độ báo cáo thống kê và báo cáo kế toán - thống kê tổng hợp áp dụng cho các đơn vị cơ sở và các cấp, các ngành.
+
+d) Quyết định các cuộc điều tra, xây dựng phương án điều tra, hướng dẫn, kiểm tra cơ quan thống kê của các cấp thực hiện đúng phương án điều tra.
+
+đ) Từng bước nghiên cứu hoàn thiện phương pháp chuyên môn nghiệp vụ và hướng dẫn thực hiện thống nhất ở tất cả các cấp, các ngành và đơn vị cơ sở.
+
+e) Xây dựng và ban hành hệ thống và phương pháp tính các chỉ tiêu kinh tế - xã hội chủ yếu, có sự nhất trí của Uỷ ban kế hoạch Nhà nước.
+
+g) Kiểm tra, giám sát việc thực hiện kế hoạch thu thập thông tin thống kê và việc chấp hành phương pháp chuyên môn nghiệp vụ, chế độ báo cáo và điều tra thống kê của các cấp, các ngành.
+
+h) Chịu trách nhiệm trước Hội đồng Bộ trưởng về độ tin cậy của các số liệu thống kê kinh tế - xã hội tổng hợp trong phạm vi cả nước.
+
+2. Cán bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng và Uỷ ban Nhân dân các cấp có trách nhiệm:
+
+a) Lãnh đạo và thường xuyên củng cố hệ thống tổ chức thống kê, bảo đảm các điều kiện cơ sở vật chất kỹ thuật và cán bộ nghiệp vụ cần thiết để chế độ thống kê được chấp hành đầy đủ.
+
+b) Chịu trách nhiệm trước Hội đồng Bộ trưởng về tình trạng yếu kém trong công tác thống kê, và việc vi phạm chế độ ghi chép ban đầu, chế độ báo cáo và điều tra thống kê thuộc phạm vi quản lý.
+
+3. Thống kê các Bộ, Uỷ ban nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng và UBND các cấp chịu trách nhiệm giúp lãnh đạo quản lý công tác thống kê trong phạm vi ngành, địa phương với các nhiệm vụ:
+
+a) Tổ chức thực hiện kế hoạch thông tin hàng năm do Tổng cục Thống kê giao và chấp hành chế độ báo cáo đã qui định.
+
+b) Hướng dẫn và kiểm tra các cơ quan thống kê cấp dưới và đơn vị cơ sở chấp hành chế độ ghi chép ban đầu, chế độ báo cáo và điều tra theo đúng phương pháp chuyên môn nghiệp vụ.
+
+c) Xây dựng kế hoạch thông tin bổ sung và ban hành chế độ báo cáo và điều tra thống kê để thu thập thông tin đáp ứng yêu cầu quản lý đặc thù của ngành, địa phương.
+
+d) Chịu trách nhiệm trước lãnh đạo của Bộ, UBND cùng cấp về độ tin cậy của số liệu tổng hợp trong phạm vi quản lý.
+
+4. Thủ trưởng đơn vị cơ sở có trách nhiệm:
+
+a) Bảo đảm cho đơn vị chấp hành đầy đủ chế độ thống kê của Nhà nước và phải chịu trách nhiệm về việc đơn vị vi phạm chế độ thống kê.
+
+b) Tạo điều kiện cần thiết bảo đảm cho công tác thống kê được thực hiện thuận lợi như: tuyển dụng đủ cán bộ thống kê, bảo đảm đủ chứng từ biểu mẫu in sẵn, trang bị phương tiện tính toán v.v..
+
+5. Kế toán trưởng (hoặc người phụ trách công tác thống kê, kế toán) của đơn vị có trách nhiệm:
+
+a) Giúp thủ trưởng đơn vị tổ chức, lãnh đạo thực hiện toàn bộ công tác thống kê ở đơn vị;
+
+b) Chịu trách nhiệm trước thủ trưởng đơn vị và cơ quan thống kê cấp trên về những vi phạm trong việc chấp hành chế độ thống kê.
+
+
+
+IV - XỬ LÝ CÁC VI PHẠM
+
+Người nào vi phạm chế độ thống kê thì tuỳ theo mức độ nặng nhẹ sẽ bị xử phạt theo một trong các hình thức sau đây:
+
+a) Xử phạt hành chính:
+
+- Cảnh cáo,
+
+- Hạ bậc lương,
+
+- Cách chức,
+
+- Buộc thôi việc.
+
+b) Nếu vi phạm ở mức độ làm lộ số liệu thuộc bí mật Nhà nước, báo cáo sai sự thật gây hậu quả nghiêm trọng về các mặt kinh tế xã hội sẽ bị xử phạt theo Điều 176 của Bộ Luật hình sự.
+
+
+
+
+
+V. - TỔ CHỨC CHỈ ĐẠO THỰC HIỆN.
+
+1. Căn cứ vào những quy định trong Thông tư này, các Bộ, Uỷ ban Nhà nước, các cơ quan khác thuộc Hội đồng Bộ trưởng và UBND các cấp, theo chức năng và phạm vi quản lý của mình có trách nhiệm tổ chức chỉ đạo, thực hiện nghiêm chỉnh pháp lệnh kế toán và thống kê.
+
+Trước hết cần tổ chức quán triệt, phổ biến rộng rãi mục đích và nội dung cơ bản của Pháp lệnh đến tất cả cán bộ lãnh đạo các cấp, cán bộ làm công tác kế toán, thống kê ở mỗi cấp, mỗi ngành và đơn vị cơ sở.
+
+Từng ngành, từng địa phương cần có kế hoạch và biện pháp cụ thể để nhanh chóng kiện toàn bộ máy thống kê, ổn định đội ngũ cán bộ thống kê và bồi dưỡng, nâng cao trình độ cho họ có đủ năng lực hoàn thành nhiệm vụ theo yêu cầu đổi mới, củng cố và tăng cường công tác thống kê cơ sở, bảo đảm các điều kiện vật chất cần thiết cho công tác thống kê như phương tiện tính toán, chứng từ và biểu mẫu in sẵn, bảo đảm kinh phí để tiến hành các cuộc điều tra thống kê ghi trong kế hoạch thông tin hàng năm.
+
+Mỗi ngành, mỗi địa phương cần chọn ra một số đơn vị để chỉ đạo thí điểm, kịp thời rút kinh nghiệm, từng bước đưa việc thực hiện các chế độ ghi chép ban đầu, chế độ báo cáo và điều tra thống kê định kỳ vào nền nếp.
+
+2. Các Vụ ở Tổng cục Thống kê, Thống kê các cấp, các ngành và đơn vị cơ sở có trách nhiệm giúp lãnh đạo hướng dẫn cụ thể những việc cần phải làm để việc thực hiện Pháp lệnh được thuận lợi. Trước mắt, Tổng cục Thống kê và Thống kê của các cấp, các ngành cần nghiêm chỉnh đánh giá lại chế độ báo cáo và điều tra thống kê định kỳ để kịp thời xây dựng kế hoạch thông tin cho năm 1989 và có biện pháp chỉ đạo, kiểm tra để nâng cao chất lượng thông tin.
+
+3. Bãi bỏ những quy định trước đây về công tác thống kê trái với Thông tư này.
+
+4. Thông tư này có hiệu lực thi hành kể từ ngày ký.
+
+
+
+PHỤ LỤC
+
+QUI ĐỊNH VỀ NHỮNG SỐ LIỆU THỐNG KÊ THUỘC BÍ MẬT NHÀ NƯỚC
+
+(Nghị định số 69-CP ngày 14-6-1962 của Hội đồng Chính phủ)
+
+Những số liệu về quốc phòng:
+
+- Các số liệu về động viên lực lượng của các lực lượng vũ trang, lực lượng hậu bị của toàn quốc, toàn quân, các binh chủng, quân chủng, quân khu, tỉnh.
+
+- Các số liệu về số lượng binh lính, số lượng vũ khí, đạn dược, binh khí kỹ thuật.
+
+- Các số liệu về tình hình cung cấp vật chất và tài chính, tình hình luyện tập, trình độ chính trị, trình độ kỹ thuật, chiến thuật của các lực lượng vũ trang từ Trung đoàn và đơn vị tương đương trở lên; của các lực lượng hậu bị của toàn quốc; của các quân khu; của các tỉnh.
+
+- Khối lượng dự trữ các loại binh khí kỹ thuật, quân khu, lương thực và các vật dụng có ý nghĩa quan trọng về quân sự.
+
+- Các số liệu tài chính có liên quan đến các công trình quốc phòng, các đồn, các công sự phòng thủ biên giới, phòng thủ mặt biển, các căn cứ lục quân, hải quân, không quân, phòng không, vị trí bố cục, thiết bị; tác dụng quy mô và mức độ vững chắc của các công trình này; tình hình các tổ chức thiết bị sử dụng cho quốc phòng trong các sân bay, hải cảng.
+
+- Các số liệu, tài liệu về dự toán, quyết toán, chỉ tiêu của ngân sách quốc phòng nói chung và chỉ tiêu của các quân khu, binh chủng, quân chủng, sư đoàn và đơn vị khác đã qui định là không được công bố.
+
+Những số liệu về kinh tế:
+
+- Danh mục, trữ lượng của các mỏ chưa khai thác, các mỏ kim loại quí, hiếm, có chất phóng xạ nguyên tử và các mỏ phi kim loại quí, hiếm, đặc biệt số liệu về trữ lượng của các mỏ kim loại đen và màu và các mỏ phi kim loại đang khai thác.
+
+- Những tài liệu điều tra cơ bản về địa chất, rừng núi, sông biển, những tài liệu không công bố về khí tượng, trắc địa.
+
+- Số lượng, địa điểm dự trữ và các vật sử dụng cho nhu cầu quốc phòng; tình hình xây dựng và sản xuất của các xí nghiệp thuộc công nghiệp quốc phòng, tình hình sản xuất theo yêu cầu quốc phòng của các xí nghiệp thuộc công nghiệp dân dụng.
+
+- Số lượng, tổng công suất và địa điểm của các công trình đặc biệt đã xây dựng hoặc chuẩn bị xây dựng.
+
+- Số liệu về dự trữ vật tư của Nhà nước, địa điểm và trữ lượng của các kho chứa những loại hàng đặc biệt.
+
+- Số liệu tuyệt đối về thu chi tài chính của Nhà nước không được phép công bố. Các bảng cân đối sản phẩm công nghiệp và nông nghiệp, cân đối lao động, cân đối tín dụng, cân đối tài chính, cân đối tiền mặt, số lượng tiền phát sinh.
+
+- Số liệu về hàng hoá xuất nhập khẩu không được công bố; tình hình vốn xuất nhập khẩu; tình hình quỹ ngoại tệ.
+
+Những vấn đề khác mà Hội đồng Bộ trưởng sẽ qui định là thuộc phạm vi bí mật của Nhà nước.
+
+
+
+
+
+
+
+

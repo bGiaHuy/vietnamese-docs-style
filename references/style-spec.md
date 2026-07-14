@@ -1,6 +1,6 @@
-# V3 Style Specification — Complete python-docx Blueprint
+﻿# Style Specification — python-docx Blueprint
 
-Toàn bộ code mẫu để tạo DOCX chuẩn hành chính Việt Nam. **Mọi màu sắc là `#000000`**.
+Toàn bộ code mẫu để tạo DOCX chuẩn. **Mọi màu sắc là `#000000`**.
 
 ---
 
@@ -17,10 +17,10 @@ from docx.oxml import parse_xml
 doc = Document()
 
 section = doc.sections[0]
-section.page_width  = Inches(8.5)
-section.page_height = Inches(11.0)
-section.left_margin   = Cm(3.0)
-section.right_margin  = Cm(3.0)
+section.page_width  = Cm(21.0)   # A4
+section.page_height = Cm(29.7)   # A4
+section.left_margin   = Cm(3.0)  # NĐ30: 30–35 mm
+section.right_margin  = Cm(1.5)  # NĐ30: 15–20 mm
 section.top_margin    = Cm(2.0)
 section.bottom_margin = Cm(2.0)
 
@@ -35,7 +35,7 @@ BLACK = RGBColor(0x00, 0x00, 0x00)
 style = doc.styles['Normal']
 sf = style.font
 sf.name = 'Times New Roman'
-sf.size = Pt(12)
+sf.size = Pt(13) # NĐ30: 13-14pt
 sf.color.rgb = BLACK
 rPr = style.element.get_or_add_rPr()
 rPr.append(parse_xml(f'<w:rFonts {nsdecls("w")} w:eastAsia="Times New Roman"/>'))
@@ -79,7 +79,7 @@ h2.paragraph_format.keep_with_next = True
 ```python
 h3 = doc.styles['Heading 3']
 h3.font.name = 'Times New Roman'
-h3.font.size = Pt(12)
+h3.font.size = Pt(13)
 h3.font.bold = True
 h3.font.color.rgb = BLACK
 h3.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.LEFT
@@ -94,12 +94,12 @@ h3.paragraph_format.keep_with_next = True
 
 ```python
 def add_body(text):
-    """Thêm đoạn văn bản body — justified, Times New Roman 12pt, đen."""
+    """Thêm đoạn văn bản body — justified, Times New Roman 13pt, đen."""
     p = doc.add_paragraph(text)
     p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     for r in p.runs:
         r.font.name = 'Times New Roman'
-        r.font.size = Pt(12)
+        r.font.size = Pt(13)
         r.font.color.rgb = BLACK
     return p
 ```
@@ -134,7 +134,7 @@ def add_centered(text, size=16, bold=True, italic=False):
 ### 3.4 Right-Aligned Text (Signature)
 
 ```python
-def add_right(text, bold=False, italic=False, size=12):
+def add_right(text, bold=False, italic=False, size=13):
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.RIGHT
     r = p.add_run(text)
@@ -155,41 +155,48 @@ def add_italic(text):
     r = p.add_run(text)
     r.italic = True
     r.font.name = 'Times New Roman'
-    r.font.size = Pt(12)
+    r.font.size = Pt(13)
     r.font.color.rgb = BLACK
     return p
 ```
 
-## 4. BULLET LISTS (Manual — TUYỆT ĐỐI KHÔNG auto-numbering)
+## 4. BULLET LISTS (Manual for Administrative, Standard for Others)
 
 ```python
-def add_bullet(text, level=1):
+def add_bullet(text, level=1, profile="administrative"):
     """
-    Thêm bullet thủ công.
-    level 1: "- "
-    level 2: "+ "
-    level 3: "* "
-    KHÔNG dùng bullet dot (•).
+    Thêm bullet.
+    - Với profile administrative/minutes-administrative: dùng thủ công (-, +, *). KHÔNG dùng bullet dot (•).
+    - Với profile khác: có thể dùng bullet chuẩn.
     """
-    prefixes = {1: "- ", 2: "+ ", 3: "* "}
-    prefix = prefixes.get(level, "- ")
-    p = doc.add_paragraph(prefix + text)
-    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-    for r in p.runs:
-        r.font.name = 'Times New Roman'
-        r.font.size = Pt(12)
-        r.font.color.rgb = BLACK
-    # Indent cho cấp 2 và 3
-    if level == 2:
-        p.paragraph_format.left_indent = Cm(1.27)
-    elif level == 3:
-        p.paragraph_format.left_indent = Cm(2.54)
+    if profile in ["administrative", "minutes-administrative"]:
+        prefixes = {1: "- ", 2: "+ ", 3: "* "}
+        prefix = prefixes.get(level, "- ")
+        p = doc.add_paragraph(prefix + text)
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        for r in p.runs:
+            r.font.name = 'Times New Roman'
+            r.font.size = Pt(13)
+            r.font.color.rgb = BLACK
+        # Indent cho cấp 2 và 3
+        if level == 2:
+            p.paragraph_format.left_indent = Cm(1.27)
+        elif level == 3:
+            p.paragraph_format.left_indent = Cm(2.54)
+    else:
+        # Standard bullet style for non-administrative docs
+        style = 'List Bullet' if level == 1 else f'List Bullet {level}'
+        p = doc.add_paragraph(text, style=style)
+        for r in p.runs:
+            r.font.name = 'Times New Roman'
+            r.font.size = Pt(13)
+            r.font.color.rgb = BLACK
     return p
 
-def add_bullets(items, level=1):
+def add_bullets(items, level=1, profile="administrative"):
     """Thêm nhiều bullet cùng lúc."""
     for item in items:
-        add_bullet(item, level)
+        add_bullet(item, level, profile)
 ```
 
 ## 5. TABLES
@@ -197,27 +204,30 @@ def add_bullets(items, level=1):
 ### 5.1 Table Grid Style
 
 ```python
-def set_table_grid_style(table):
+def set_table_grid_style(table, profile="administrative"):
     table.style = 'Table Grid'
-    for row in table.rows:
-        for cell in row.cells:
-            tc = cell._tc
-            tcPr = tc.get_or_add_tcPr()
-            shading = tcPr.find(qn('w:shd'))
-            if shading is not None:
-                tcPr.remove(shading)
+    if profile in ["administrative", "minutes-administrative"]:
+        # VB hành chính không shading
+        for row in table.rows:
+            for cell in row.cells:
+                tc = cell._tc
+                tcPr = tc.get_or_add_tcPr()
+                shading = tcPr.find(qn('w:shd'))
+                if shading is not None:
+                    tcPr.remove(shading)
+    # Báo cáo học thuật có thể giữ shading của style (nếu có)
 ```
 
 ### 5.2 Standard Data Table
 
 ```python
-def add_table(headers, rows):
+def add_table(headers, rows, profile="administrative"):
     """
     headers: list of column header strings
     rows: list of lists, each inner list is one row
     """
     tbl = doc.add_table(rows=1 + len(rows), cols=len(headers))
-    set_table_grid_style(tbl)
+    set_table_grid_style(tbl, profile)
 
     # Header row
     for i, h in enumerate(headers):
@@ -226,7 +236,7 @@ def add_table(headers, rows):
         r = c.paragraphs[0].add_run(h)
         r.bold = True
         r.font.name = 'Times New Roman'
-        r.font.size = Pt(12)
+        r.font.size = Pt(13)
         r.font.color.rgb = BLACK
 
     # Data rows
@@ -236,7 +246,7 @@ def add_table(headers, rows):
             c.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
             r = c.paragraphs[0].add_run(str(val))
             r.font.name = 'Times New Roman'
-            r.font.size = Pt(12)
+            r.font.size = Pt(13)
             r.font.color.rgb = BLACK
 
     return tbl
@@ -247,11 +257,11 @@ def add_table(headers, rows):
 ```python
 def add_cover_page(doc, org_name, title, subtitle, team_data, location="Hà Nội", year="2026"):
     """
+    Trang bìa theo profile: bắt buộc cho proposal, tùy chọn cho academic, KHÔNG dùng cho administrative.
     team_data: list of (label, value) tuples. Example:
         [("Lớp:", "SSA101"), ("Nhóm:", "ML-Zero"), ("Thành viên:", "...")]
     """
     add_centered(org_name, 16, True)
-    add_centered("FPT UNIVERSITY", 13, False, True)  # dòng phụ tiếng Anh nếu là FPT
     add_blank()
     add_blank()
 
@@ -271,19 +281,19 @@ def add_cover_page(doc, org_name, title, subtitle, team_data, location="Hà Nộ
             c0 = tbl.cell(i, 0)
             c0.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.RIGHT
             r0 = c0.paragraphs[0].add_run(lbl)
-            r0.bold = True; r0.font.name = 'Times New Roman'; r0.font.size = Pt(12)
+            r0.bold = True; r0.font.name = 'Times New Roman'; r0.font.size = Pt(13)
 
             c1 = tbl.cell(i, 1)
             c1.paragraphs[0].alignment = WD_ALIGN_PARAGRAPH.LEFT
             r1 = c1.paragraphs[0].add_run(val)
-            r1.font.name = 'Times New Roman'; r1.font.size = Pt(12)
+            r1.font.name = 'Times New Roman'; r1.font.size = Pt(13)
 
         for row in tbl.rows:
             row.cells[0].width = Cm(4)
             row.cells[1].width = Cm(10)
 
     add_blank()
-    add_centered(f"{location}, {year}", 12, False, True)
+    add_centered(f"{location}, {year}", 13, False, True)
     doc.add_page_break()
 ```
 
@@ -310,7 +320,7 @@ def add_cover_letter(doc, greeting, body_paragraphs, signer_name):
     p_greet.alignment = WD_ALIGN_PARAGRAPH.LEFT
     for run in p_greet.runs:
         run.font.name = 'Times New Roman'
-        run.font.size = Pt(12)
+        run.font.size = Pt(13)
         run.font.color.rgb = BLACK
 
     add_blank()
@@ -329,7 +339,7 @@ def add_cover_letter(doc, greeting, body_paragraphs, signer_name):
 ## 8. MEETING MINUTES (Biên bản họp)
 
 ```python
-def add_meeting_minutes(doc, date, time, location, chair, secretary, attendees, agenda_items, conclusions, assignments):
+def add_meeting_minutes(doc, date, time, location, chair, secretary, attendees, agenda_items, conclusions, assignments, profile="minutes-general"):
     """
     attendees: list of (name, role) tuples
     agenda_items: list of strings (từng mục thảo luận)
@@ -340,39 +350,42 @@ def add_meeting_minutes(doc, date, time, location, chair, secretary, attendees, 
     add_blank()
 
     # Header info
-    add_bullet(f"Thời gian: {time}, ngày {date}")
-    add_bullet(f"Địa điểm: {location}")
-    add_bullet(f"Chủ trì: {chair}")
-    add_bullet(f"Thư ký: {secretary}")
+    add_bullet(f"Thời gian: {time}, ngày {date}", 1, profile)
+    add_bullet(f"Địa điểm: {location}", 1, profile)
+    add_bullet(f"Chủ trì: {chair}", 1, profile)
+    add_bullet(f"Thư ký: {secretary}", 1, profile)
     add_blank()
 
     # Attendees
     doc.add_heading("THÀNH PHẦN THAM DỰ", level=2)
     add_table(
         ["STT", "Họ và tên", "Vai trò"],
-        [[str(i+1), name, role] for i, (name, role) in enumerate(attendees)]
+        [[str(i+1), name, role] for i, (name, role) in enumerate(attendees)],
+        profile
     )
     add_blank()
 
     # Agenda
     doc.add_heading("NỘI DUNG", level=2)
     for i, item in enumerate(agenda_items, 1):
-        add_bullet(f"{i}. {item}")
+        add_bullet(f"{i}. {item}", 1, profile)
     add_blank()
 
     # Conclusions
     doc.add_heading("KẾT LUẬN", level=2)
     for c in conclusions:
-        add_bullet(c)
+        add_bullet(c, 1, profile)
     add_blank()
 
     # Assignments
-    doc.add_heading("PHÂN CÔNG", level=2)
-    add_table(
-        ["STT", "Công việc", "Người phụ trách", "Hạn hoàn thành"],
-        [[str(i+1), task, person, deadline] for i, (task, person, deadline) in enumerate(assignments)]
-    )
-    add_blank()
+    if assignments:
+        doc.add_heading("PHÂN CÔNG", level=2)
+        add_table(
+            ["STT", "Công việc", "Người phụ trách", "Hạn hoàn thành"],
+            [[str(i+1), task, person, deadline] for i, (task, person, deadline) in enumerate(assignments)],
+            profile
+        )
+        add_blank()
 
     # Signatures
     add_right(f"Hà Nội, ngày {date.split('/')[0]} tháng {date.split('/')[1]} năm 20{date.split('/')[2]}")
@@ -391,7 +404,7 @@ def add_meeting_minutes(doc, date, time, location, chair, secretary, attendees, 
 
 ## 9. ADMINISTRATIVE VOCABULARY — Context-Aware Templates
 
-Khi viết nội dung, ưu tiên dùng các cụm từ sau theo ngữ cảnh:
+Khi viết nội dung văn bản hành chính, ưu tiên dùng các cụm từ sau theo ngữ cảnh:
 
 ```python
 ADMIN_VOCAB = {
@@ -416,7 +429,7 @@ ADMIN_VOCAB = {
         "Từ những phân tích trên...",
         "Có thể khẳng định rằng...",
         "Dự án hứa hẹn mang lại...",
-        "Kiến nghị Ban Giám hiệu...",
+        "Kiến nghị...",
     ],
     "commitment": [
         "Đảm bảo tính khả thi...",
@@ -454,9 +467,10 @@ def add_h3(text):
 ## 11. DATA PRESENTATION CONVENTIONS
 
 - **Số liệu trong văn xuôi**: Nhúng trực tiếp vào câu. VD: "61,7% sinh viên được khảo sát cho biết..."
-- **Mục tiêu định lượng**: Luôn có % hoặc số cụ thể. VD: "100% học viên...", "tối thiểu 50 học viên..."
+- **Mục tiêu định lượng**: Mục tiêu trong VB hành chính nên có chỉ tiêu cụ thể (con số, %) khi có thể.
 - **Bảng rủi ro**: Luôn 3 cột — Rủi ro | Biện pháp phòng ngừa | Biện pháp khắc phục
 - **Bảng thành viên**: Luôn 4 cột — STT | Họ và tên | Vai trò | Ban
 - **Timeline**: Dùng bảng (Giai đoạn | Công việc | Phụ trách | Thời hạn)
 - **Ngày tháng**: Định dạng DD/MM/YYYY
 - **Số**: Dùng dấu chấm phân cách hàng nghìn kiểu Việt Nam (vd: "1.000", không phải "1,000")
+

@@ -1,0 +1,459 @@
+# Hướng dẫn tạm thời công tác kiểm dịch thuỷ sản
+# Loại: Công văn
+# Số hiệu: 2597/CLTY-TY
+# Ngày ban hành: 26/10/2005
+# Cơ quan: Bộ Thuỷ sản-Cục QLCL, ATVS & TYTS
+# Người ký: Nguyễn Tử Cương
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn về dịch vụ thanh toán không dùng tiền mặt
+
+___________________
+
+
+
+Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010;
+
+Căn cứ Luật Các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010;
+
+Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005;
+
+Căn cứ Nghị định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 của Chính phủ về thanh toán không dùng tiền mặt;
+
+Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam;
+
+Theo đề nghị của Vụ trưởng Vụ Thanh toán;
+
+Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư hướng dẫn về dịch vụ thanh toán không dùng tiền mặt.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+1. Thông tư này hướng dẫn dịch vụ thanh toán không dùng tiền mặt (sau đây gọi là dịch vụ thanh toán) qua các tổ chức cung ứng dịch vụ thanh toán, bao gồm các dịch vụ: thanh toán từng lần qua tài khoản thanh toán mở tại Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước); thanh toán lệnh chi, ủy nhiệm chi; thanh toán nhờ thu, ủy nhiệm thu; chuyển tiền; thu hộ; chi hộ.
+
+2. Việc cung ứng các dịch vụ thanh toán sau được thực hiện theo các quy định riêng của Ngân hàng Nhà nước:
+
+a) Thanh toán liên ngân hàng qua các hệ thống thanh toán do Ngân hàng Nhà nước tổ chức, quản lý và vận hành;
+
+b) Thanh toán séc, thanh toán thẻ ngân hàng qua các tổ chức cung ứng dịch vụ thanh toán.
+
+3. Việc cung ứng dịch vụ thanh toán quốc tế của các tổ chức cung ứng dịch vụ thanh toán được thực hiện theo quy định của pháp luật về quản lý ngoại hối, theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và theo tập quán thương mại quy định tại khoản 4, Điều 3 Luật Các tổ chức tín dụng được các bên thỏa thuận áp dụng.
+
+Điều 2. Đối tượng áp dụng
+
+1. Tổ chức cung ứng dịch vụ thanh toán bao gồm:
+
+a) Ngân hàng Nhà nước;
+
+b) Ngân hàng thương mại, ngân hàng chính sách, ngân hàng hợp tác xã, chi nhánh ngân hàng nước ngoài (sau đây gọi là ngân hàng);
+
+c) Quỹ tín dụng nhân dân, tổ chức tài chính vi mô.
+
+2. Tổ chức cung ứng dịch vụ trung gian thanh toán.
+
+3. Tổ chức, cá nhân sử dụng dịch vụ thanh toán.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Chứng từ thanh toán là một loại chứng từ kế toán ngân hàng dùng làm căn cứ để thực hiện dịch vụ thanh toán.
+
+2. Dịch vụ thanh toán giao dịch bằng phương tiện điện tử là việc lập, gửi, xử lý lệnh thanh toán thông qua phương tiện điện tử.
+
+3. Dịch vụ thanh toán lệnh chi, ủy nhiệm chi (sau đây gọi chung là dịch vụ thanh toán ủy nhiệm chi) là việc ngân hàng thực hiện yêu cầu của bên trả tiền trích một số tiền nhất định trên tài khoản thanh toán của bên trả tiền để trả hoặc chuyển tiền cho bên thụ hưởng. Bên thụ hưởng có thể là bên trả tiền.
+
+4. Dịch vụ thanh toán nhờ thu, ủy nhiệm thu (sau đây gọi chung là dịch vụ thanh toán ủy nhiệm thu) là việc ngân hàng thực hiện theo đề nghị của bên thụ hưởng thu hộ một số tiền nhất định trên tài khoản thanh toán của bên trả tiền để chuyển cho bên thụ hưởng trên cơ sở thỏa thuận bằng văn bản về việc ủy nhiệm thu giữa bên trả tiền và bên thụ hưởng.
+
+5. Dịch vụ thu hộ là việc tổ chức cung ứng dịch vụ thanh toán thực hiện ủy nhiệm của bên thụ hưởng thu tiền của bên trả tiền trên cơ sở thỏa thuận bằng văn bản giữa tổ chức cung ứng dịch vụ thanh toán và bên thụ hưởng.
+
+6. Dịch vụ chi hộ là việc tổ chức cung ứng dịch vụ thanh toán thực hiện ủy nhiệm của bên trả tiền thay mặt mình để chi trả cho bên thụ hưởng trên cơ sở thỏa thuận bằng văn bản giữa tổ chức cung ứng dịch vụ thanh toán và bên trả tiền.
+
+7. Dịch vụ chuyển tiền là việc tổ chức cung ứng dịch vụ thanh toán thực hiện theo yêu cầu của bên trả tiền nhằm chuyển một số tiền nhất định cho bên thụ hưởng. Bên thụ hưởng có thể là bên trả tiền. Dịch vụ chuyển tiền bao gồm dịch vụ chuyển tiền qua tài khoản thanh toán và không qua tài khoản thanh toán của khách hàng.
+
+Điều 4. Chứng từ thanh toán
+
+1. Chứng từ sử dụng trong thanh toán phải được lập, ký, kiểm soát, luân chuyển, quản lý, sử dụng và bảo quản theo đúng quy định về chế độ chứng từ kế toán ngân hàng và phù hợp với quy định tại Thông tư này.
+
+2. Chứng từ sử dụng trong thanh toán qua Ngân hàng Nhà nước thực hiện theo quy định của Ngân hàng Nhà nước về quy cách, mẫu biểu, in ấn, phát hành và sử dụng.
+
+3. Chứng từ sử dụng trong thanh toán qua ngân hàng, quỹ tín dụng nhân dân, tổ chức tài chính vi mô do ngân hàng, quỹ tín dụng nhân dân, tổ chức tài chính vi mô quy định quy cách, mẫu biểu, in ấn, phát hành và hướng dẫn thực hiện đảm bảo phù hợp với quy trình thanh toán đối với từng loại hình dịch vụ theo quy định tại Thông tư này và các quy định của pháp luật liên quan.
+
+4. Các thông tin, dữ liệu của chứng từ điện tử phải được kiểm soát đầy đủ đảm bảo tính hợp pháp, hợp lệ và tính toàn vẹn của thông tin. Đồng thời, chứng từ phải được kiểm soát, quản lý bảo mật để ngăn ngừa và tránh việc lợi dụng khai thác, xâm nhập, sao chép thông tin bất hợp pháp.
+
+Điều 5. Dịch vụ thanh toán giao dịch bằng phương tiện điện tử
+
+Tổ chức cung ứng dịch vụ thanh toán khi cung ứng các dịch vụ thanh toán giao dịch bằng phương tiện điện tử phải đáp ứng các yêu cầu sau:
+
+1. Tuân thủ các quy định về việc lập, xử lý, sử dụng, bảo quản, lưu trữ chứng từ điện tử theo quy định của pháp luật về giao dịch điện tử trong hoạt động ngân hàng.
+
+2. Xây dựng quy trình thanh toán trong đó đảm bảo có đủ thông tin cần thiết để kiểm tra, đối chiếu nhận biết khách hàng; đáp ứng cơ sở hạ tầng kỹ thuật; quản lý rủi ro, an toàn, bảo mật khi thực hiện dịch vụ thanh toán bằng phương thức điện tử theo quy định của Ngân hàng Nhà nước về hoạt động ngân hàng điện tử.
+
+3. Có thỏa thuận bằng văn bản với khách hàng và các bên liên quan, trong đó quy định rõ quyền và nghĩa vụ của các bên và cơ chế giải quyết tranh chấp (nếu có) theo quy định của pháp luật.
+
+4. Tuân thủ các quy định của pháp luật về phòng, chống rửa tiền.
+
+Điều 6. Quy định về quản lý ngoại hối trong dịch vụ thanh toán
+
+1. Việc cung ứng dịch vụ thanh toán liên quan đến ngoại hối phải phù hợp với các quy định của pháp luật về quản lý ngoại hối.
+
+2. Việc sử dụng ngoại tệ trong dịch vụ thanh toán của người cư trú và người không cư trú; việc sử dụng đồng Việt Nam trong dịch vụ thanh toán của người không cư trú và người cư trú là cá nhân người nước ngoài phải tuân theo các quy định của pháp luật về quản lý ngoại hối.
+
+Chương II
+
+DỊCH VỤ THANH TOÁN QUA CÁC
+
+TỔ CHỨC CUNG ỨNG DỊCH VỤ THANH TOÁN
+
+Điều 7. Dịch vụ thanh toán từng lần qua tài khoản thanh toán mở tại Ngân hàng Nhà nước
+
+1. Các tổ chức mở tài khoản thanh toán tại Ngân hàng Nhà nước (là đơn vị trả tiền) gửi chứng từ thanh toán đến Ngân hàng Nhà nước yêu cầu Ngân hàng Nhà nước trích tài khoản thanh toán của mình để trả cho đơn vị thụ hưởng có tài khoản tại cùng một đơn vị Ngân hàng Nhà nước hoặc chuyển tiền đi cho đơn vị thụ hưởng theo các hệ thống thanh toán thích hợp.
+
+2. Quy trình thanh toán:
+
+a) Lập, giao nhận chứng từ
+
+- Đối với các khoản thanh toán của bản thân đơn vị trả tiền: đơn vị trả tiền lập và nộp chứng từ thanh toán (ủy nhiệm chi, các chứng từ thanh toán thích hợp khác) vào Ngân hàng Nhà nước nơi mở tài khoản thanh toán yêu cầu trích một số tiền nhất định trên tài khoản của đơn vị mình để trả hoặc chuyển cho đơn vị thụ hưởng.
+
+- Đối với các khoản thanh toán cho khách hàng của đơn vị trả tiền: đơn vị trả tiền căn cứ vào các chứng từ của khách hàng để lập Bảng kê các chứng từ thanh toán qua Ngân hàng Nhà nước (theo Phụ lục 01 đính kèm Thông tư này) và nộp vào Ngân hàng Nhà nước kèm các chứng từ thanh toán của khách hàng. Bảng kê các chứng từ được lập riêng cho từng đơn vị thụ hưởng; trong trường hợp đơn vị trả tiền và đơn vị thụ hưởng có tài khoản thanh toán khác địa bàn tỉnh, thành phố, Bảng kê các chứng từ phải ghi rõ số hiệu tài khoản bên thụ hưởng, đơn vị thụ hưởng.
+
+b) Xử lý chứng từ và hạch toán
+
+- Khi nhận được các chứng từ thanh toán do đơn vị trả tiền nộp, Ngân hàng Nhà nước kiểm soát tính hợp pháp, hợp lệ của chứng từ; đối chiếu sự khớp đúng giữa Bảng kê các chứng từ với các chứng từ kèm theo và kiểm tra khả năng thanh toán của đơn vị trả tiền.
+
+- Sau khi kiểm soát, nếu chứng từ không hợp lệ thì Ngân hàng Nhà nước báo cho đơn vị trả tiền để chỉnh sửa hoặc trả lại cho đơn vị trả tiền. Nếu đơn vị trả tiền không đủ khả năng thanh toán, Ngân hàng Nhà nước thông báo để bổ sung khả năng thanh toán hoặc trả lại chứng từ cho đơn vị trả tiền.
+
+Nếu chứng từ hợp lệ và đơn vị trả tiền đủ khả năng thanh toán, Ngân hàng Nhà nước tiến hành thanh toán ngay và xử lý:
+
++ Trường hợp đơn vị trả tiền và đơn vị thụ hưởng mở tài khoản tại cùng một đơn vị Ngân hàng Nhà nước, Ngân hàng Nhà nước hạch toán vào tài khoản thanh toán của đơn vị trả tiền, đơn vị thụ hưởng và báo Nợ cho đơn vị trả tiền, báo Có kèm các chứng từ thanh toán của khách hàng cho đơn vị thụ hưởng (nếu có).
+
++ Trường hợp đơn vị trả tiền và đơn vị thụ hưởng không mở tài khoản tại cùng một đơn vị Ngân hàng Nhà nước, Ngân hàng Nhà nước hạch toán vào tài khoản thanh toán của đơn vị trả tiền, báo Nợ cho đơn vị trả tiền và lập lệnh chuyển tiền đi qua hệ thống thanh toán thích hợp.
+
+- Khi nhận được lệnh chuyển tiền đến, sau khi kiểm soát và xử lý chứng từ theo quy định của hệ thống thanh toán, Ngân hàng Nhà nước nhận lệnh hạch toán vào tài khoản thanh toán của đơn vị thụ hưởng (hoặc tài khoản thích hợp nếu đơn vị thụ hưởng không có tài khoản thanh toán tại Ngân hàng Nhà nước) và báo Có cho đơn vị thụ hưởng.
+
+Điều 8. Dịch vụ thanh toán ủy nhiệm chi
+
+1. Mẫu chứng từ ủy nhiệm chi bao gồm các yếu tố chính sau:
+
+a) Chữ lệnh chi (hoặc ủy nhiệm chi), số chứng từ;
+
+b) Ngày, tháng, năm lập ủy nhiệm chi;
+
+c) Tên, địa chỉ, số hiệu tài khoản thanh toán của bên trả tiền;
+
+d) Tên ngân hàng phục vụ bên trả tiền;
+
+đ) Tên, địa chỉ, số hiệu tài khoản thanh toán của bên thụ hưởng;
+
+e) Tên ngân hàng phục vụ bên thụ hưởng;
+
+g) Nội dung thanh toán;
+
+h) Số tiền thanh toán bằng chữ và bằng số;
+
+i) Ngày, tháng, năm ủy nhiệm chi có giá trị thanh toán;
+
+k) Chữ ký (chữ ký tay đối với chứng từ giấy và chữ ký điện tử đối với chứng từ điện tử) của chủ tài khoản hoặc người được chủ tài khoản ủy quyền và chữ ký những người có liên quan đến chứng từ theo quy định của pháp luật; dấu đơn vị (nếu có).
+
+Ngân hàng được quy định thêm các yếu tố trên ủy nhiệm chi cho phù hợp với yêu cầu quản lý và đặc thù hoạt động của đơn vị mình nhưng phải đảm bảo phù hợp với quy định của pháp luật.
+
+2. Quy trình thanh toán ủy nhiệm chi:
+
+Ngân hàng xây dựng, ban hành quy trình nội bộ thực hiện thanh toán ủy nhiệm chi, đảm bảo xử lý nhanh chóng, chính xác, an toàn và đầy đủ các bước sau:
+
+a) Lập, giao nhận ủy nhiệm chi
+
+Bên trả tiền lập ủy nhiệm chi gửi đến ngân hàng phục vụ mình (nơi mở tài khoản thanh toán) để trích tài khoản trả cho bên thụ hưởng. Ngân hàng hướng dẫn khách hàng lập, phương thức giao nhận ủy nhiệm chi tại đơn vị mình, đảm bảo phù hợp với quy định tại Thông tư này và các quy định hiện hành của Ngân hàng Nhà nước.
+
+b) Kiểm soát ủy nhiệm chi
+
+Khi nhận được ủy nhiệm chi, ngân hàng phải kiểm soát chặt chẽ đảm bảo tính hợp pháp, hợp lệ của chứng từ, cụ thể:
+
+- Đối với chứng từ giấy: Chứng từ phải được kiểm soát đầy đủ, chặt chẽ theo quy định của Ngân hàng Nhà nước về chế độ chứng từ kế toán ngân hàng, trong đó: Chứng từ phải lập đúng mẫu, đủ số liên để hạch toán và lưu trữ. Chứng từ phải ghi đầy đủ, rõ ràng, chính xác các yếu tố, khớp đúng nội dung giữa các liên, có đủ chữ ký và dấu (nếu có) của khách hàng và ngân hàng trên tất cả các liên. Chữ ký và dấu (nếu có) của khách hàng trên chứng từ phải khớp đúng với mẫu đã đăng ký tại ngân hàng nơi mở tài khoản.
+
+- Đối với chứng từ điện tử: Ngân hàng phải kiểm soát nội dung chứng từ, thông tin kỹ thuật (chữ ký điện tử, tính hợp lệ của bên khởi tạo dữ liệu, loại, khuôn dạng dữ liệu, mã chứng từ,...) theo đúng quy định về chứng từ điện tử.
+
+- Ngân hàng phải kiểm tra số dư trên tài khoản thanh toán và khả năng thanh toán của bên trả tiền.
+
+Nếu ủy nhiệm chi không hợp pháp, hợp lệ hoặc không được đảm bảo khả năng thanh toán thì ngân hàng báo cho bên trả tiền để chỉnh sửa, bổ sung hoặc trả lại cho bên trả tiền.
+
+c) Xử lý chứng từ và hạch toán
+
+- Tại ngân hàng phục vụ bên trả tiền:
+
+Sau khi kiểm soát, nếu ủy nhiệm chi hợp pháp, hợp lệ và được đảm bảo khả năng thanh toán thì xử lý:
+
++ Nếu bên thụ hưởng và bên trả tiền có tài khoản thanh toán cùng ngân hàng thì chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận ủy nhiệm chi của khách hàng (trừ trường hợp có thỏa thuận khác), ngân hàng hạch toán vào tài khoản thanh toán của bên trả tiền, bên thụ hưởng và báo Nợ cho bên trả tiền, báo Có cho bên thụ hưởng.
+
++ Nếu bên thụ hưởng không có tài khoản thanh toán tại ngân hàng phục vụ bên trả tiền, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận ủy nhiệm chi của khách hàng (trừ trường hợp có thỏa thuận khác), ngân hàng hạch toán vào tài khoản thanh toán của bên trả tiền, báo Nợ cho bên trả tiền và lập lệnh chuyển tiền gửi cho ngân hàng phục vụ bên thụ hưởng theo hệ thống thanh toán thích hợp.
+
+- Tại ngân hàng phục vụ bên thụ hưởng:
+
+Sau khi nhận được lệnh chuyển tiền do ngân hàng phục vụ bên trả tiền chuyển đến, ngân hàng phục vụ bên thụ hưởng tiến hành kiểm soát chứng từ và xử lý:
+
++ Nếu lệnh chuyển tiền hợp pháp, hợp lệ, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng phải hạch toán vào tài khoản thanh toán của bên thụ hưởng và báo Có cho bên thụ hưởng.
+
++ Nếu lệnh chuyển tiền có sai sót, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng gửi yêu cầu tra soát hoặc hoàn trả lệnh chuyển tiền cho ngân hàng phục vụ bên trả tiền. Khi nhận được trả lời tra soát, trong thời gian tối đa 01 ngày làm việc, ngân hàng phục vụ bên thụ hưởng thực hiện lệnh chuyển tiền hoặc hoàn trả lệnh chuyển tiền cho ngân hàng phục vụ bên trả tiền.
+
++ Nếu tài khoản bên thụ hưởng đã đóng, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng hoàn trả lệnh chuyển tiền cho ngân hàng phục vụ bên trả tiền.
+
+- Trường hợp bên thụ hưởng không có tài khoản thanh toán tại ngân hàng:
+
+Khi nhận được lệnh chuyển tiền, chậm nhất trong 01 ngày làm việc, ngân hàng kiểm soát chứng từ, hạch toán vào tài khoản thích hợp và thông báo cho bên thụ hưởng. Trường hợp bên thụ hưởng nhận tiền mặt xử lý như sau:
+
++ Nếu bên thụ hưởng là cá nhân, khi đến nhận tiền khách hàng phải xuất trình giấy chứng minh nhân dân hoặc hộ chiếu còn thời hạn sử dụng hoặc giấy tờ thay thế hợp pháp khác (sau đây gọi chung là giấy tờ tùy thân). Trong trường hợp người nhận là người được ủy quyền thì xuất trình thêm văn bản ủy quyền phù hợp với quy định của pháp luật. Nếu bên thụ hưởng là tổ chức thì người đại diện cho tổ chức đến nhận tiền ngoài việc xuất trình giấy tờ tùy thân, còn phải xuất trình giấy tờ chứng minh tư cách đại diện hợp pháp cho tổ chức đó.
+
++ Tối đa 15 ngày kể từ ngày nhận lệnh chuyển tiền đến nếu bên thụ hưởng đã được ngân hàng thông báo nhưng không đến nhận tiền hoặc ngân hàng không liên hệ được với bên thụ hưởng, ngân hàng phải lập lệnh chuyển trả lại tiền cho ngân hàng phục vụ bên trả tiền.
+
+d) Ngân hàng thực hiện báo Nợ, báo Có đầy đủ, kịp thời cho khách hàng theo phương thức, thời điểm báo Nợ, báo Có đã được thỏa thuận giữa ngân hàng và khách hàng phù hợp với quy định của pháp luật.
+
+Điều 9. Dịch vụ thanh toán ủy nhiệm thu
+
+1. Mẫu chứng từ ủy nhiệm thu bao gồm các yếu tố chính sau:
+
+a) Chữ nhờ thu (hoặc ủy nhiệm thu), số chứng từ;
+
+b) Ngày, tháng, năm lập chứng từ ủy nhiệm thu;
+
+c) Tên, địa chỉ, số hiệu tài khoản thanh toán của bên thụ hưởng;
+
+d) Tên ngân hàng phục vụ bên thụ hưởng;
+
+đ) Tên, địa chỉ, số hiệu tài khoản thanh toán của bên trả tiền;
+
+e) Tên ngân hàng phục vụ bên trả tiền;
+
+g) Số hợp đồng (hoặc đơn đặt hàng, thỏa thuận) làm căn cứ để nhờ thu, số lượng chứng từ kèm theo;
+
+h) Nội dung thanh toán;
+
+i) Số tiền nhờ thu bằng chữ và bằng số;
+
+k) Ngày, tháng, năm ngân hàng phục vụ bên trả tiền thanh toán;
+
+l) Ngày, tháng, năm ngân hàng phục vụ bên thụ hưởng nhận được khoản thanh toán;
+
+m) Chữ ký (chữ ký tay đối với chứng từ giấy và chữ ký điện tử đối với chứng từ điện tử) của chủ tài khoản hoặc người được chủ tài khoản ủy quyền và chữ ký những người có liên quan đến chứng từ theo quy định của pháp luật; dấu đơn vị (nếu có).
+
+Ngân hàng được quy định thêm các yếu tố trên ủy nhiệm thu cho phù hợp với yêu cầu quản lý và đặc thù hoạt động của đơn vị mình nhưng phải đảm bảo phù hợp với quy định của pháp luật.
+
+2. Quy trình thanh toán ủy nhiệm thu:
+
+Ngân hàng xây dựng, ban hành quy trình nội bộ thực hiện thanh toán ủy nhiệm thu, đảm bảo xử lý nhanh chóng, chính xác, an toàn và đầy đủ các bước sau:
+
+a) Lập, giao nhận ủy nhiệm thu
+
+Bên thụ hưởng lập ủy nhiệm thu kèm theo văn bản thỏa thuận giữa bên trả tiền và bên thụ hưởng về việc ủy nhiệm thu và các chứng từ khác (nếu có) gửi ngân hàng phục vụ mình hoặc ngân hàng phục vụ bên trả tiền. Ngân hàng hướng dẫn khách hàng lập, phương thức giao nhận chứng từ đảm bảo phù hợp với quy định tại Thông tư này và các quy định hiện hành của Ngân hàng Nhà nước.
+
+b) Kiểm soát ủy nhiệm thu
+
+- Tại ngân hàng phục vụ bên thụ hưởng: Khi nhận được ủy nhiệm thu và các chứng từ kèm theo của khách hàng, ngân hàng phải kiểm soát chặt chẽ đảm bảo tính hợp pháp, hợp lệ của ủy nhiệm thu theo đúng quy định về chế độ chứng từ kế toán ngân hàng. Nếu ủy nhiệm thu không hợp pháp, hợp lệ thì ngân hàng báo cho khách hàng để chỉnh sửa, bổ sung hoặc trả lại cho khách hàng.
+
+- Tại ngân hàng phục vụ bên trả tiền: Khi nhận được hồ sơ thanh toán ủy nhiệm thu, ngân hàng tiến hành kiểm soát ủy nhiệm thu hợp pháp, hợp lệ và kiểm tra số dư trên tài khoản thanh toán và khả năng thanh toán của bên trả tiền.
+
+Nếu ủy nhiệm thu có sai sót, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận ủy nhiệm thu, ngân hàng phục vụ bên trả tiền gửi yêu cầu tra soát hoặc trả lại ủy nhiệm thu cho ngân hàng phục vụ bên thụ hưởng hoặc bên thụ hưởng. Nếu tài khoản bên trả tiền đã đóng, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận ủy nhiệm thu, ngân hàng phục vụ bên trả tiền trả lại ủy nhiệm thu cho ngân hàng phục vụ bên thụ hưởng hoặc bên thụ hưởng.
+
+c) Xử lý chứng từ và hạch toán
+
+- Đối với trường hợp bên trả tiền có tài khoản thanh toán tại ngân hàng phục vụ bên thụ hưởng:
+
+Sau khi kiểm soát ủy nhiệm thu, ngân hàng kiểm tra thỏa thuận thanh toán bằng ủy nhiệm thu giữa bên trả tiền và bên thụ hưởng và xử lý:
+
++ Trường hợp bên trả tiền đã ủy quyền cho ngân hàng được quyền tự động trích nợ tài khoản thanh toán của bên trả tiền để thanh toán ủy nhiệm thu:
+
+Nếu bên trả tiền đảm bảo khả năng thanh toán, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được ủy nhiệm thu, ngân hàng phải hạch toán vào tài khoản thanh toán của bên trả tiền, bên thụ hưởng và báo Nợ cho bên trả tiền, báo Có cho bên thụ hưởng.
+
+Nếu bên trả tiền không đảm bảo khả năng thanh toán, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được ủy nhiệm thu, ngân hàng phải báo cho bên trả tiền, bên thụ hưởng biết và trả lại ủy nhiệm thu cho bên thụ hưởng (nếu bên thụ hưởng yêu cầu) hoặc tiếp tục lưu giữ ủy nhiệm thu đến khi bên trả tiền đảm bảo khả năng thanh toán và tiến hành xử lý như trên.
+
++ Trường hợp bên trả tiền chưa ủy quyền cho ngân hàng được quyền tự động trích nợ tài khoản thanh toán của bên trả tiền để thanh toán ủy nhiệm thu, ngân hàng phải thông báo ủy nhiệm thu cho bên trả tiền.
+
+Nếu bên trả tiền chấp thuận ủy quyền trích nợ tài khoản thanh toán, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận ủy quyền trích nợ của bên trả tiền, ngân hàng tiến hành xử lý hạch toán vào tài khoản thanh toán của bên trả tiền, bên thụ hưởng và báo Nợ cho bên trả tiền, báo Có cho bên thụ hưởng.
+
+Nếu bên trả tiền không chấp thuận ủy quyền trích nợ, ngân hàng thông báo ngay và gửi trả ủy nhiệm thu cho bên thụ hưởng.
+
++ Hình thức ủy quyền trích nợ tài khoản thanh toán do ngân hàng quy định phù hợp với quy định của pháp luật về ủy quyền.
+
+- Đối với trường hợp bên trả tiền không có tài khoản thanh toán tại ngân hàng phục vụ bên thụ hưởng:
+
++ Sau khi kiểm soát ủy nhiệm thu hợp pháp, hợp lệ, ngân hàng phục vụ bên thụ hưởng có hình thức theo dõi phù hợp chứng từ đã được xử lý và chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được ủy nhiệm thu, ngân hàng gửi đi cho ngân hàng phục vụ bên trả tiền.
+
++ Khi nhận được ủy nhiệm thu và các chứng từ kèm theo (nếu có) do ngân hàng phục vụ bên thụ hưởng hoặc bên thụ hưởng gửi đến, sau khi kiểm soát ủy nhiệm thu hợp pháp, hợp lệ, ngân hàng phục vụ bên trả tiền kiểm tra thỏa thuận ủy quyền trích nợ tài khoản thanh toán và tiến hành xử lý, hạch toán vào tài khoản thanh toán bên trả tiền như trường hợp bên trả tiền có tài khoản thanh toán tại ngân hàng phục vụ bên thụ hưởng; đồng thời lập lệnh chuyển tiền gửi ngân hàng phục vụ bên thụ hưởng theo hệ thống thanh toán thích hợp.
+
++ Khi nhận được lệnh chuyển tiền do ngân hàng phục vụ bên trả tiền chuyển đến, chậm nhất trong 01 ngày làm việc, ngân hàng phục vụ bên thụ hưởng căn cứ lệnh chuyển tiền để hạch toán vào tài khoản thích hợp và báo Có cho bên thụ hưởng.
+
+d) Ngân hàng thực hiện báo Nợ, báo Có đầy đủ, kịp thời cho khách hàng theo phương thức, thời điểm báo Nợ, báo Có đã được thỏa thuận giữa ngân hàng và khách hàng phù hợp với quy định của pháp luật.
+
+Điều 10. Dịch vụ thu hộ và dịch vụ chi hộ
+
+1. Để thực hiện dịch vụ thu hộ, bên thụ hưởng phải cung cấp cho tổ chức cung ứng dịch vụ thanh toán các văn bản, tài liệu cần thiết liên quan làm điều kiện để tổ chức cung ứng dịch vụ thanh toán thực hiện việc thu hộ tiền theo đúng nội dung văn bản thỏa thuận giữa tổ chức cung ứng dịch vụ thanh toán với bên thụ hưởng và phù hợp quy định pháp luật có liên quan.
+
+2. Đối với dịch vụ chi hộ, tổ chức cung ứng dịch vụ thanh toán thực hiện theo đúng yêu cầu của bên trả tiền trong văn bản thỏa thuận giữa tổ chức cung ứng dịch vụ thanh toán với bên trả tiền và phù hợp quy định pháp luật có liên quan.
+
+3. Tổ chức cung ứng dịch vụ thanh toán xây dựng, ban hành quy trình nội bộ để thực hiện dịch vụ thu hộ và dịch vụ chi hộ cho khách hàng phù hợp với quy định của pháp luật có liên quan.
+
+Điều 11. Dịch vụ chuyển tiền
+
+1. Quy trình dịch vụ chuyển tiền qua tài khoản thanh toán của khách hàng được thực hiện như quy trình dịch vụ thanh toán ủy nhiệm chi.
+
+2. Quy trình dịch vụ chuyển tiền không qua tài khoản thanh toán của khách hàng:
+
+Ngân hàng xây dựng, ban hành quy trình nội bộ về dịch vụ chuyển tiền không qua tài khoản thanh toán của khách hàng, đảm bảo xử lý nhanh chóng, chính xác, an toàn và đầy đủ các bước sau:
+
+a) Lập, kiểm soát chứng từ:
+
+Khi khách hàng có nhu cầu nộp tiền mặt để yêu cầu ngân hàng chuyển tiền cho bên thụ hưởng, ngân hàng hướng dẫn khách hàng lập giấy nộp tiền theo mẫu quy định của ngân hàng, đảm bảo đầy đủ thông tin cần thiết của người chuyển tiền và người thụ hưởng, bao gồm: họ và tên, số chứng minh nhân dân/hộ chiếu hoặc thông tin xác nhận giấy tờ tùy thân hợp pháp khác, số điện thoại, địa chỉ liên hệ, chữ ký (của người chuyển tiền) và các thông tin khác.
+
+- Nếu người chuyển tiền là cá nhân, khi chuyển tiền khách hàng phải xuất trình giấy tờ tùy thân. Trong trường hợp người chuyển tiền là người được ủy quyền thì khách hàng phải xuất trình thêm văn bản ủy quyền theo quy định của pháp luật. Nếu người chuyển tiền đại diện cho tổ chức thì khi chuyển tiền ngoài việc xuất trình giấy tờ tùy thân, còn phải có giấy tờ chứng minh tư cách đại diện hợp pháp cho tổ chức đó.
+
+- Khi nhận được giấy nộp tiền của khách hàng, ngân hàng kiểm tra, kiểm soát chứng từ và tiến hành kiểm đếm số tiền mặt khách hàng nộp để thực hiện chuyển tiền theo đúng quy định.
+
+b) Xử lý chứng từ và hạch toán
+
+- Tại ngân hàng phục vụ bên chuyển tiền: Sau khi kiểm soát chứng từ hợp pháp, hợp lệ:
+
++ Trường hợp bên thụ hưởng mở tài khoản thanh toán tại ngân hàng phục vụ bên chuyển tiền: chậm nhất trong 01 ngày làm việc kể từ thời điểm khách hàng hoàn tất thủ tục nộp tiền, ngân hàng hạch toán vào tài khoản thích hợp cho bên chuyển tiền, báo Có cho bên thụ hưởng.
+
++ Trường hợp bên thụ hưởng mở tài khoản thanh toán tại ngân hàng khác: chậm nhất trong 01 ngày làm việc kể từ thời điểm khách hàng hoàn tất thủ tục nộp tiền, ngân hàng hạch toán vào tài khoản thích hợp và lập lệnh chuyển tiền gửi ngân hàng phục vụ bên thụ hưởng theo hệ thống thanh toán thích hợp.
+
+- Tại ngân hàng phục vụ bên thụ hưởng:
+
+Sau khi nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng tiến hành kiểm soát chứng từ và xử lý:
+
++ Nếu lệnh chuyển tiền hợp pháp, hợp lệ, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng phải hạch toán vào tài khoản thanh toán của bên thụ hưởng, sau đó báo Có cho bên thụ hưởng.
+
++ Nếu lệnh chuyển tiền có sai sót, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng phối hợp ngân hàng phục vụ bên chuyển tiền thực hiện tra soát theo quy định. Khi nhận được trả lời tra soát, trong thời gian tối đa 01 ngày làm việc, ngân hàng phục vụ bên thụ hưởng thực hiện lệnh chuyển tiền hoặc hoàn trả lệnh chuyển tiền cho ngân hàng phục vụ bên trả tiền.
+
++ Nếu tài khoản bên thụ hưởng đã đóng, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng phục vụ bên thụ hưởng hoàn trả lệnh chuyển tiền cho ngân hàng phục vụ bên chuyển tiền.
+
++ Trường hợp bên thụ hưởng không có tài khoản thanh toán tại ngân hàng: khi nhận được lệnh chuyển tiền, chậm nhất trong 01 ngày làm việc kể từ thời điểm nhận được lệnh chuyển tiền, ngân hàng kiểm soát chứng từ, hạch toán vào tài khoản thích hợp và phải thông báo cho bên thụ hưởng. Trường hợp bên thụ hưởng nhận tiền mặt xử lý như sau:
+
+Nếu bên thụ hưởng là cá nhân, khi đến nhận tiền khách hàng phải xuất trình giấy tờ tùy thân. Trong trường hợp người nhận là người được ủy quyền thì xuất trình thêm văn bản ủy quyền phù hợp với quy định của pháp luật. Nếu bên thụ hưởng là tổ chức thì người đại diện cho tổ chức đến nhận tiền ngoài việc xuất trình giấy tờ tùy thân, còn phải xuất trình giấy tờ chứng minh tư cách đại diện hợp pháp cho tổ chức đó.
+
+Tối đa 30 ngày kể từ ngày nhận lệnh chuyển tiền đến và đã thông báo cho bên thụ hưởng, nếu bên thụ hưởng không đến nhận tiền hoặc không liên hệ được với bên thụ hưởng để thông báo nhận tiền, ngân hàng phục vụ bên thụ hưởng phải lập lệnh chuyển trả lại tiền cho ngân hàng phục vụ bên chuyển tiền.
+
+- Ngân hàng thực hiện báo Có kịp thời cho khách hàng mở tài khoản thanh toán tại đơn vị mình theo phương thức, thời điểm báo Có đã được thỏa thuận giữa ngân hàng và khách hàng phù hợp với quy định của pháp luật.
+
+Điều 12. Dịch vụ thanh toán qua quỹ tín dụng nhân dân, tổ chức tài chính vi mô
+
+1. Quỹ tín dụng nhân dân cung ứng dịch vụ thanh toán không qua tài khoản thanh toán cho các thành viên của mình. Tổ chức tài chính vi mô cung ứng dịch vụ thanh toán không qua tài khoản thanh toán cho khách hàng tài chính vi mô.
+
+2. Quỹ tín dụng nhân dân, tổ chức tài chính vi mô xây dựng, ban hành quy trình thanh toán nội bộ nghiệp vụ chuyển tiền, thu hộ, chi hộ không qua tài khoản thanh toán phù hợp với quy định tại Điều 10 và Khoản 2, Điều 11 Thông tư này.
+
+Chương III
+
+QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN
+
+THAM GIA DỊCH VỤ THANH TOÁN
+
+Điều 13. Quyền của tổ chức, cá nhân sử dụng dịch vụ thanh toán
+
+1. Được lựa chọn sử dụng dịch vụ thanh toán của tổ chức cung ứng dịch vụ thanh toán.
+
+2. Được thỏa thuận với tổ chức cung ứng dịch vụ thanh toán về quyền và nghĩa vụ khi sử dụng dịch vụ thanh toán phù hợp với các quy định của pháp luật.
+
+3. Được yêu cầu tổ chức cung ứng dịch vụ thanh toán cung cấp thông tin về việc thực hiện các dịch vụ thanh toán theo thỏa thuận với tổ chức cung ứng dịch vụ thanh toán.
+
+4. Được khiếu nại và yêu cầu tổ chức cung ứng dịch vụ thanh toán bồi thường thiệt hại khi: tổ chức cung ứng dịch vụ thanh toán thực hiện giao dịch thanh toán chậm so với thỏa thuận, không thực hiện giao dịch thanh toán hoặc thực hiện giao dịch thanh toán không khớp đúng với lệnh thanh toán, thu phí dịch vụ thanh toán không đúng loại phí hoặc mức phí mà tổ chức cung ứng dịch vụ thanh toán đã công bố và các vi phạm khác trong thỏa thuận.
+
+5. Các quyền khác theo quy định của pháp luật.
+
+Điều 14. Nghĩa vụ của tổ chức, cá nhân sử dụng dịch vụ thanh toán
+
+1. Thực hiện đúng, đầy đủ các điều kiện, quy trình đối với các dịch vụ thanh toán theo quy định tại Thông tư này và theo thỏa thuận giữa tổ chức, cá nhân sử dụng dịch vụ thanh toán và tổ chức cung ứng dịch vụ thanh toán phù hợp với quy định của pháp luật.
+
+2. Hoàn trả hoặc phối hợp với tổ chức cung ứng dịch vụ thanh toán hoàn trả đầy đủ số tiền thụ hưởng do tổ chức cung ứng dịch vụ thanh toán chuyển thừa, chuyển nhầm (bao gồm cả lỗi tác nghiệp, sự cố hệ thống của tổ chức cung ứng dịch vụ thanh toán).
+
+3. Chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của các thông tin và chứng từ thanh toán mà mình cung cấp.
+
+4. Tự bảo vệ các bí mật thông tin tài khoản, giao dịch của cá nhân do mình quản lý để đảm bảo an toàn, bảo mật trong giao dịch thanh toán; thông báo kịp thời cho tổ chức cung ứng dịch vụ thanh toán khi phát hiện thấy có sai sót, nhầm lẫn trong giao dịch thanh toán hoặc nghi ngờ thông tin giao dịch bị lợi dụng.
+
+5. Không được sử dụng các dịch vụ thanh toán cho các mục đích rửa tiền, tài trợ khủng bố, lừa đảo, gian lận hoặc các hành vi vi phạm pháp luật khác.
+
+6. Các nghĩa vụ khác theo quy định của pháp luật.
+
+Điều 15. Quyền của tổ chức cung ứng dịch vụ thanh toán
+
+1. Yêu cầu tổ chức, cá nhân sử dụng dịch vụ thanh toán cung cấp đầy đủ thông tin có liên quan và thực hiện các nghĩa vụ theo thỏa thuận phù hợp với quy định pháp luật trong quá trình sử dụng dịch vụ thanh toán.
+
+2. Từ chối cung cấp dịch vụ thanh toán cho tổ chức, cá nhân sử dụng dịch vụ thanh toán trong các trường hợp sau:
+
+a) Tổ chức, cá nhân sử dụng dịch vụ thanh toán không đáp ứng đầy đủ các yêu cầu khi thực hiện dịch vụ thanh toán theo quy định tại Thông tư này hoặc vi phạm các thỏa thuận giữa tổ chức cung ứng dịch vụ thanh toán với tổ chức, cá nhân sử dụng dịch vụ thanh toán;
+
+b) Khi có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền hoặc có bằng chứng về việc giao dịch thanh toán nhằm rửa tiền, tài trợ khủng bố theo quy định của pháp luật về phòng chống rửa tiền.
+
+3. Yêu cầu tổ chức, cá nhân sử dụng dịch vụ thanh toán hoàn trả đầy đủ số tiền thụ hưởng do tổ chức cung ứng dịch vụ thanh toán chuyển thừa, chuyển nhầm (bao gồm cả lỗi tác nghiệp, sự cố hệ thống của tổ chức cung ứng dịch vụ thanh toán).
+
+4. Được quyền thu phí khi cung ứng các dịch vụ thanh toán theo quy định của pháp luật.
+
+5. Các quyền khác theo quy định của pháp luật.
+
+Điều 16. Nghĩa vụ của tổ chức cung ứng dịch vụ thanh toán
+
+1. Thông báo và hướng dẫn khách hàng sử dụng dịch vụ thanh toán mà mình cung cấp; trả lời hoặc xử lý kịp thời các thắc mắc, khiếu nại của tổ chức, cá nhân sử dụng dịch vụ thanh toán trong phạm vi nghĩa vụ và quyền hạn của mình.
+
+2. Thực hiện giao dịch thanh toán kịp thời, an toàn, chính xác theo thỏa thuận với tổ chức, cá nhân sử dụng dịch vụ thanh toán; niêm yết công khai phí dịch vụ thanh toán.
+
+3. Tổ chức cung ứng dịch vụ thanh toán có trách nhiệm điều chỉnh kịp thời nhầm lẫn, sai sót của giao dịch thanh toán trong trường hợp thực hiện không đúng yêu cầu theo lệnh thanh toán của tổ chức, cá nhân sử dụng dịch vụ thanh toán; có trách nhiệm phối hợp với tổ chức cung ứng dịch vụ thanh toán có liên quan để thu hồi số tiền chuyển nhầm, chuyển thừa khi thực hiện các giao dịch thanh toán theo quy định của pháp luật.
+
+4. Tổ chức cung ứng dịch vụ thanh toán phải tuân thủ đúng quy định của pháp luật về giao dịch điện tử và về đảm bảo an toàn, bảo mật, quản lý rủi ro trong hoạt động ngân hàng.
+
+5. Tổ chức cung ứng dịch vụ thanh toán có nghĩa vụ thông báo, cảnh báo để khách hàng nhận biết và phòng tránh những rủi ro khi sử dụng dịch vụ thanh toán và tuân thủ đúng nội dung tại văn bản thỏa thuận đã ký kết với tổ chức cung ứng dịch vụ thanh toán; hướng dẫn tổ chức, cá nhân sử dụng dịch vụ thanh toán về nghĩa vụ tự bảo mật thông tin tài khoản, các yếu tố định danh khác và các phương tiện điện tử dùng trong thanh toán, tránh bị lợi dụng, lừa đảo, gian lận.
+
+6. Tổ chức cung ứng dịch vụ thanh toán phải thực hiện những biện pháp nhận biết khách hàng; kiểm soát, phát hiện, báo cáo giao dịch có giá trị lớn, giao dịch chuyển tiền điện tử, giao dịch đáng ngờ cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật phòng chống, rửa tiền và các quy định pháp luật khác có liên quan.
+
+7. Tổ chức cung ứng dịch vụ thanh toán phải chịu trách nhiệm bồi thường thiệt hại do lỗi của mình theo quy định của pháp luật.
+
+8. Trách nhiệm phối hợp tra soát giữa các tổ chức cung ứng dịch vụ thanh toán:
+
+Các tổ chức cung ứng dịch vụ thanh toán có trách nhiệm phối hợp để xử lý kịp thời các yêu cầu tra soát trong thanh toán ủy nhiệm chi, ủy nhiệm thu: trong vòng 01 ngày làm việc bên nhận yêu cầu tra soát phải trả lời kết quả tra soát cho bên yêu cầu tra soát.
+
+9. Các nghĩa vụ khác theo quy định của pháp luật.
+
+Điều 17. Nghĩa vụ của tổ chức cung ứng dịch vụ thanh toán khi hợp tác với các tổ chức cung ứng dịch vụ trung gian thanh toán
+
+1. Khi cung ứng dịch vụ thanh toán có sự hợp tác với các tổ chức cung ứng dịch vụ trung gian thanh toán, tổ chức cung ứng dịch vụ thanh toán phải có thỏa thuận bằng văn bản hoặc hợp đồng hợp tác với các bên tham gia, trong đó quy định rõ nghĩa vụ cam kết của các bên về việc bảo mật thông tin khách hàng, giao dịch thanh toán và chịu trách nhiệm đối với những tổn thất do làm lộ thông tin khách hàng, giao dịch.
+
+2. Ngân hàng chỉ được ký kết hợp đồng hợp tác với tổ chức cung ứng dịch vụ trung gian thanh toán đã được Ngân hàng Nhà nước cấp phép hoạt động dịch vụ trung gian thanh toán để thực hiện dịch vụ thanh toán, đồng thời phải phối hợp với tổ chức trung gian thanh toán trong việc kiểm tra, đối soát dữ liệu, xác thực giao dịch, thông tin khách hàng, thực hiện các biện pháp bảo mật trong thanh toán và các nghĩa vụ khác theo quy định của Ngân hàng Nhà nước về dịch vụ trung gian thanh toán.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 18. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 03 năm 2015.
+
+2. Thông tư này thay thế cho Quyết định số 226/2002/QĐ-NHNN ngày 26/03/2002 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế hoạt động thanh toán qua các tổ chức cung ứng dịch vụ thanh toán và Quyết định số 1092/2002/QĐ-NHNN ngày 08/10/2002 của Thống đốc Ngân hàng Nhà nước ban hành Quy định thủ tục thanh toán qua các tổ chức cung ứng dịch vụ thanh toán.
+
+Điều 19. Tổ chức thực hiện
+
+1. Vụ Thanh toán có trách nhiệm theo dõi, kiểm tra, giám sát và phối hợp với các đơn vị liên quan để xử lý những vướng mắc phát sinh trong quá trình thực hiện Thông tư này.
+
+2. Cơ quan Thanh tra, giám sát ngân hàng, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thanh tra, giám sát việc tuân thủ các quy định tại Thông tư này và xử lý các trường hợp vi phạm theo thẩm quyền.
+
+3. Các tổ chức cung ứng dịch vụ thanh toán căn cứ quy định tại Thông tư này để xây dựng quy trình nội bộ về dịch vụ thanh toán không dùng tiền mặt tại đơn vị mình và gửi quy trình nội bộ về Ngân hàng Nhà nước (Vụ Thanh toán) ngay sau khi ban hành.
+
+4. Chánh Văn phòng, Vụ Trưởng Vụ Thanh toán, Chánh Thanh tra, giám sát ngân hàng và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị (Hội đồng thành viên), Tổng Giám đốc (Giám đốc) các tổ chức cung ứng dịch vụ thanh toán chịu trách nhiệm thi hành Thông tư này./.
+
+
+
+
+
+
+
+
+

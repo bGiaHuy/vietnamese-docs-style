@@ -1,0 +1,208 @@
+# Về việc bổ sung ngành nghề kinh doanh cho Công ty công nghiệp rừng Tây nguyên thuộc Tổng công ty lâm nghiệp VN
+# Loại: Quyết định
+# Số hiệu: 24/2000/QĐ-BNNPTNT/TCCB
+# Ngày ban hành: 09/03/2000
+# Cơ quan: Bộ Nông nghiệp và Phát triển nông thôn
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Về việc ban hành tiêu chuẩn ngành
+
+BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN
+
+Căn cứ Pháp lệnh chất lượng hàng hoá ban hành ngày 27 tháng 12 năm 1990 của Hội đồng Nhà nước;
+
+Căn cứ Nghị định số 73/CP ngày 01 tháng 11 năm 1995 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nông nghiệp và Phát triển nông thôn
+
+Xét đề nghị của ông Vụ trưởng Vụ Khoa học công nghệ - CLSP
+
+QUYẾT ĐỊNH
+
+Điều 1 : Nay ban hành tiêu chuẩn 10 TCN 404-2000 "Phương pháp hậu kiểm giống cây trồng"
+
+Điều 2 : Quyết định này có hiệu lực sau 15 ngày kể từ ngày ký
+
+Điều 3: Các ông Chánh văn phòng, Vụ trưởng Vụ Khoa học công nghệ - CLSP, Giám đốc Trung tâm Khảo, kiểm nghiệm giống cây trồng Trung ương và các đơn vị có liên quan chịu trách nhiệm thi hành quyết định này .
+
+
+
+
+
+TIÊU CHUẨN
+
+Phương pháp hậu kiểm giống cây trồng
+
+( Method for conducting post control plots )
+
+10TCN 404 - 2000
+
+(Ban hành kèm theo quyết định số 20/2000/QĐ-BNN-KHCN
+
+ngày 06 tháng 03 năm 2000)
+
+1. Phạm vi áp dụng:
+
+Tiêu chuẩn này qui định những nguyên tắc và phương pháp đánh giá tính đúng giống, độ thuần và một số chỉ tiêu chất lượng khác của một lô giống, thông qua thí nghiệm đồng ruộng.
+
+Tiêu chuẩn này được áp dụng đối với các lô giống cây lương thực, cây thực phẩm, cây công nghiệp ngắn ngày đang sản xuất, kinh doanh trong phạm vi cả nước, khi có yêu cầu của các cơ quan quản lý, cá nhân và tổ chức sản xuất kinh doanh hoặc người sử dụng giống cây trồng.
+
+2. Mục đích hậu kiểm:
+
+Hậu kiểm giống cây trồng nhằm xác định :
+
+- Tính đúng giống và độ thuần của lô giống làm cơ sở để sử dụng lô giống hoặc giải quyết những nghi ngờ, tranh chấp liên quan đến chất lượng lô giống.
+
+- Trong trường hợp giống lai, hậu kiểm nhằm đánh giá thêm một số chỉ tiêu khác như : độ bất dục đực của dòng mẹ, năng suất F1 của cùng một tổ hợp lai nhưng bố mẹ được duy trì và nhân ở những điều kiện khác nhau .
+
+3. Thuật ngữ :
+
+Trong tiêu chuẩn này, những thuật ngữ dưới đây được hiểu như sau :
+
+3.1. Hậu kiểm giống cây trồng - Post Control Plots - gọi tắt là Hậu kiểm :
+
+Là đánh giá chất lượng (chủ yếu là tính đúng giống và độ thuần ) của một lô giống thông qua kiểm tra cây được gieo trồng từ mẫu hạt của lô giống đó trên ô thí nghiệm ngoài đồng. Hậu kiểm được thực hiện sau khi đã kiểm định ruộng giống và kiểm nghiệm trong phòng.
+
+3.2. Tính đúng giống ( tính xác thực của giống ) - Varietal Trueness :
+
+Một lô giống được coi là đúng giống nếu cây được gieo trồng từ mẫu hạt của lô giống đó, trong quá trình sinh trưởng - phát triển luôn biểu hiện các tính trạng đặc trưng phù hợp với mẫu chuẩn hoặc bảng mô tả giống.
+
+3.3. Độ thuần giống - Varietal Purity :
+
+Là mức độ đồng nhất về các tính trạng đặc trưng của các cây được gieo trồng từ mẫu hạt giống của cùng một lô giống. Độ thuần được tính bằng tỷ lệ phần trăm số cây của chính giống đó so với tổng số cây kiểm tra.
+
+3.4. Cây khác dạng - Off Type Plant :
+
+Là những cây có một hoặc nhiều tính trạng khác biệt với tính trạng đặc trưng của giống được kiểm tra.
+
+3.5. Bảng mô tả giống - Table of Variety Characteristics :
+
+Là bảng liệt kê các tính trạng đặc trưng của một giống nhằm mô tả giống mà dựa vào đó có thể phân biệt giống này với các giống khác.
+
+3.6. Mẫu chuẩn - Standard Sample :
+
+Là mẫu hạt giống hoặc cây mọc từ mẫu hạt giống đó, có các tính trạng đặc trưng phù hợp với bảng mô tả giống, do chính tác giả của giống đó cung cấp hoặc được nhân từ giống tác giả và được các cơ quan có thẩm quyền công nhận.
+
+4. Nguyên tắc hậu kiểm:
+
+4.1. Để kiểm tra tính đúng giống, thí nghiệm hậu kiểm phải được thiết kế để có thể so sánh các mẫu đại diện của các lô giống tham gia hậu kiểm với mẫu chuẩn của giống đó.
+
+4.2. Để đánh giá độ thuần, thí nghiệm hậu kiểm phải được bố trí và thực hiện nhằm bảo đảm các thông tin thu được hoàn toàn chính xác.
+
+5. Yêu cầu :
+
+5.1. Mỗi thí nghiệm hậu kiểm chỉ kiểm tra các mẫu giống của cùng một giống. Các giống khác nhau sẽ được kiểm tra ở các thí nghiệm hậu kiểm khác nhau.
+
+5.2. Thí nghiệm hậu kiểm có thể được thực hiện trước, đồng thời hoặc sau khi đã sử dụng lô hạt giống.Thời gian hậu kiểm tuỳ thuộc mục đích của thí nghiệm hoặc yêu cầu của các tổ chức, cá nhân có quyền lợi hoặc trách nhiệm liên quan đến lô giống.
+
+5.3. Ruộng hậu kiểm phải đồng đều, sạch cỏ, tuyệt đối không có cây cùng loài sót lại từ vụ trước. Trong suốt quá trình hậu kiểm, không được khử lẫn và sử dụng bất kỳ một loại thuốc diệt cỏ hoặc hormon sinh trưởng nào.
+
+5.4. Đối chứng trong thí nghiệm hậu kiểm là mẫu chuẩn của chính giống đó. Giống tham gia hậu kiểm ở cấp nào thì mẫu chuẩn ở cấp đó. Có thể thu thập, bảo quản mẫu chuẩn với khối lượng lớn để sử dụng trong nhiều vụ. Nếu lượng mẫu chuẩn cũ gần hết, phải có lượng mẫu chuẩn mới chuẩn bị thay thế. Chất lượng của mẫu chuẩn mới phải được kiểm tra qua thí nghiệm so sánh với mẫu chuẩn cũ trên đồng ruộng và bảng mô tả giống.
+
+Đối với giống nhập nội từ nước ngoài, cơ quan thực hiện hậu kiểm có thể tham khảo ý kiến của các cơ quan quản lý chất lượng giống cây trồng tại các nước xuất khẩu giống đó để tìm nguồn mẫu chuẩn thích hợp hoặc bảng mô tả các tính trạng đặc trưng của giống.
+
+6. Phương pháp tiến hành :
+
+6.1. Bố trí thí nghiệm hậu kiểm :
+
+- Thí nghiệm theo phương pháp ngẫu nhiên, không nhắc lại. Ô có dạng hình chữ nhật, được gieo trồng một mẫu hạt giống đại diện cho lô giống tham gia hậu kiểm. Các ô cách nhau một lối đi chăm sóc phù hợp với từng loại cây trồng.
+
+- Diện tích của mỗi ô bảo đảm gieo trồng đủ số cây cần kiểm tra, tuỳ thuộc vào từng loại cây trồng và tiêu chuẩn qui định về độ thuần của loại cây trồng đó. Số cây trong một ô được tính theo công thức :
+
+
+
+
+
+N = 4 x
+
+
+
+
+100
+
+
+-------------------
+
+
+100 - S(%)
+
+
+
+
+
+Trong đó :
+
+- S (%) là tiêu chuẩn qui định về độ thuần đồng ruộng.
+
+- N là số cây cần kiểm tra thích hợp nhất có trong 1 ô.
+
+Nếu điều kiện thực tế không cho phép, trong một số trường hợp, số cây cần kiểm tra của một mẫu giống ít nhất cũng phải bằng n = 1/4 N ( Xem phụ lục 1 ).
+
+6.2. Các biện pháp kỹ thuật :
+
+- Chỉ gieo trồng mỗi hốc 1 cây hoặc cấy 1 dảnh.
+
+- Khi chuyển cây từ vườn ươm hoặc ruộng mạ ra ruộng thí nghiệm, phải nhổ ngẫu nhiên, liền khoảnh, không được chọn cây.
+
+- Các biện pháp kỹ thuật khác thực hiện theo các qui phạm khảo nghiệm giống đã được ban hành.
+
+6.3. Kiểm tra và đánh giá kết quả :
+
+6.3.1. Thời kỳ và số lần kiểm tra:
+
+Việc kiểm tra được tiến hành thường xuyên trong suốt thời gian sinh trưởng và phát triển của cây. Tập trung vào các thời kỳ:
+
+- Cây con.
+
+- Trước khi ra hoa .
+
+- Ra hoa, thụ phấn.
+
+- Đang làm hạt.
+
+Tuỳ từng loại cây, số lần kiểm tra trong mỗi thời kỳ có thể là một hay nhiều lần. Đặc biệt chú ý nhữnh tính trạng đặc trưng chỉ xuất hiện rõ trong một thời gian ngắn.
+
+6.3.2. Đánh giá tính đúng giống:
+
+So sánh cây của các mẫu giống tham gia hậu kiểm với cây mẫu chuẩn
+
+( đối chứng ) và bảng mô tả tính trạng đặc trưng của giống. Nếu đa số cây của mẫu giống có các tính trạng đặc trưng phù hợp với mẫu chuẩn hoặc bảng mô tả giống thì mẫu giống đó bảo đảm tính đúng giống và ngược lại.
+
+6.3.3. Đánh giá độ thuần của giống:
+
+Quan sát, phát hiện, đếm và ghi chép số cây khác dạng có trong mỗi ô. Những cây khác dạng phải được đánh dấu hoặc có thể nhổ bỏ nếu đã được khẳng định chính xác. Thống kê qua các lần kiểm tra và tính kết quả theo công thức sau:
+
+Tổng số cây kiểm tra - Số cây khác dạng
+
+P(%) = -------------------------------------------------- x 100
+
+Tổng số cây kiểm tra
+
+P(%) lấy tới hai số lẻ sau đơn vị.
+
+So sánh kết quả với tiêu chuẩn và kết luận về độ thuần của lô giống.
+
+6.3.4. Đánh giá một số chỉ tiêu khác :
+
+- Đối với các lô giống lúa lai F1 của cùng một tổ hợp lai được sản xuất trong nước, cần so sánh thêm về năng suất thực tế giữa chúng với mẫu chuẩn nhằm đánh giá đầy đủ hơn chất lượng của một lô giống. Vì vậy, thí nghiệm hậu kiểm các lô giống này phải thực hiện ba lần nhắc lại .
+
+- Khi tiến hành hậu kiểm các dòng lúa bất dục đực đang được duy trì trong nước hay nhập nội để sản xuất giống lúa lai F1, cần kiểm tra thêm khả năng bất dục đực của các dòng này. Các cây hữu thụ ( toàn bộ hay từng phần ) đều được coi là cây khác dạng để tính độ thuần của dòng lúa bất dục đực theo tiêu chuẩn đã được qui định ( Xem phụ lục 2 ).
+
+7. Công bố kết quả hậu kiểm :
+
+Cơ quan tiến hành hậu kiểm phải có kết luận về kết quả hậu kiểm và thông báo cho các cơ quan quản lý chất lượng, các tổ chức, cá nhân có trách nhiệm và quyền lợi liên quan đến lô giống trong thời gian không quá 30 ngày sau khi kết thúc thí nghiệm hậu kiểm. ( Xem phụ lục 3 ).
+
+
+
+
+
+
+
+

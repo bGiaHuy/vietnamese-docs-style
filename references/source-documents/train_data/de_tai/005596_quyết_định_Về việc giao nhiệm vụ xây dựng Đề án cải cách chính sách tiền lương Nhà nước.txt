@@ -1,0 +1,1037 @@
+# Về việc giao nhiệm vụ xây dựng Đề án cải cách chính sách tiền lương Nhà nước
+# Loại: Quyết định
+# Số hiệu: 154/2000/QĐ-TTg
+# Ngày ban hành: 31/12/2000
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Tấn Dũng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+Bộ tài chínhQUYẾT ĐỊNH CỦA BỘ TRƯỞNGBỘ TÀI CHÍNH
+
+Về việcban hành và công bố
+
+sáu(06) chuẩn mực kiểm toán Việt Nam (đợt 2)
+
+
+
+BỘ TRƯỞNG BỘ TÀI CHÍNH
+
+Căn cứ Nghị định số 15/CP ngày2/3/1993 của Chính phủ về Nhiệm vụ, quyền hạn và trách nhiệm quản lý Nhà nướccủa Bộ, cơ quan ngang Bộ;
+
+Căn cứ Nghị định số 178/CP ngày28/10/1994 của Chính phủ về Nhiệm vụ, quyền hạn và tổ chức bộ máy Bộ Tài chính;
+
+Căn cứ Nghị định số 07/CP ngày29/01/1994 của Chính phủ ban hành Quy chế kiểm toán độc lập trong nền kinh tếquốc dân;
+
+Để đáp ứng yêu cầu đổi mới cơchế quản lý kinh tế, tài chính, nâng cao chất lượng của kiểm toán độc lập trongnền kinh tế quốc dân; Kiểm tra, kiểm soát chất lượng hoạt động kiểm toán độclập, lành mạnh hoá thông tin tài chính trong nền kinh tế quốc dân;
+
+Theo đề nghị của Vụ trưởng VụChế độ kế toán, Chánh Văn phòng Bộ Tài chính,
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1: Ban hành sáu (06) chuẩn mực kiểm toán Việt Nam (đợt 2) có số hiệu vàtên gọi sau đây:
+
+1. Chuẩn mực số 250 - Xem xét tínhtuân thủ pháp luật và các qui định
+
+trong kiểm toán báo cáo tàichính;
+
+2. Chuẩn mực số 310 - Hiểu biếtvề tình hình kinh doanh;
+
+3. Chuẩn mực số 500 - Bằngchứng kiểm toán;
+
+4. Chuẩn mực số 510 - Kiểm toánnăm đầu tiên - Số dư đầu năm tài chính;
+
+5. Chuẩn mực số 520 - Quy trìnhphân tích;
+
+6. Chuẩn mực số 580 - Giảitrình của Giám đốc.
+
+Điều 2: Chuẩn mực kiểm toán Việt Nam được ban hành kèm theo Quyết định này ápdụng đối với hoạt động kiểm toán độc lập các báo cáo tài chính. Dịch vụ kiểmtoán độc lập các thông tin tài chính khác và dịch vụ liên quan của Công ty kiểmtoán được áp dụng theo quy định cụ thể của từng chuẩn mực.
+
+Điều 3: Quyết định này có hiệu lực thi hành sau 15 ngày kể từ ngày ký.
+
+Điều 4: Kiểm toán viên và Công ty kiểm toán hoạt động hợp pháp tại Việt Nam cótrách nhiệm triển khai thực hiện chuẩn mực kiểm toán Việt Nam trong hoạt độngcủa mỗi Công ty.
+
+Vụ trưởng Vụ Chế độ kế toán,Chánh Văn phòng Bộ và Thủ trưởng các đơn vị liên quan thuộc và trực thuộc BộTài chính có trách nhiệm hướng dẫn, kiểm tra và thi hành Quyết định này./.
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁNVIỆT NAM
+
+Chuẩn mực số 250
+
+Xem xét tính tuân thủpháp luật và các quy định trong kiểm toán báo cáo tài chính
+
+(Ban hành theo Quyếtđịnh số 219/2000/QĐ-BTC ngày 29 tháng 12 năm 2000 của Bộ trưởng Bộ Tài chính)
+
+QUI ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà quy định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản liên quan đến kiểm toán viên và công ty kiểm toánkhi xem xét tính tuân thủ pháp luật và các quy định của đơn vị được kiểm toántrong quá trình kiểm toán báo cáo tài chính.
+
+02. Khi lập kế hoạch và thựchiện các thủ tục kiểm toán, khi đánh giá kết quả và lập báo cáo kiểm toán, kiểmtoán viên và công ty kiểm toán phải chú ý đến vấn đề đơn vị được kiểm toánkhông tuân thủ pháp luật và các quy định có liên quan có thể ảnh hưởng trọngyếu đến báo cáo tài chính. Mặc dù trong một cuộc kiểm toán báo cáo tài chínhkhông thể phát hiện hết mọi hành vi không tuân thủ pháp luật và các quy định cóliên quan.
+
+03.Việc đánh giá và xác địnhhành vi không tuân thủ pháp luật và các quy định nói chung không phải là tráchnhiệm nghề nghiệp của kiểm toán viên và công ty kiểm toán. Trường hợp phải xácđịnh hành vi không tuân thủ pháp luật và các quy định làm ảnh hưởng trọng yếuđến báo cáo tài chính thì kiểm toán viên và công ty kiểm toán phải tham khảo ýkiến của chuyên gia pháp luật hoặc cơ quan chức năng có liên quan.
+
+04. Quy định và hướng dẫn vềtrách nhiệm của kiểm toán viên và công ty kiểm toán trong việc xem xét "gianlận và sai sót" trong một cuộc kiểm toán báo cáo tài chính được quyđịnh trong một chuẩn mực riêng khác mà không quy định trong chuẩn mực này.
+
+05. Chuẩn mực này áp dụng chocuộc kiểm toán báo cáo tài chính và cũng được vận dụng cho kiểm toán thông tintài chính khác và các dịch vụ liên quan của công ty kiểm toán. Chuẩn mực nàykhông áp dụng cho cuộc kiểm toán tuân thủ do công ty kiểm toán thực hiện đượclập thành hợp đồng riêng.
+
+Kiểm toán viên và công ty kiểmtoán phải tuân thủ các quy định của chuẩn mực này khi xem xét tính tuân thủpháp luật và các quy định trong quá trình kiểm toán báo cáo tài chính.
+
+Đơn vị được kiểm toán và cácbên sử dụng kết quả kiểm toán phải có những hiểu biết cần thiết về các nguyêntắc và thủ tục quy định trong chuẩn mực này để thực hiện trách nhiệm của mìnhvà để phối hợp công việc với kiểm toán viên và công ty kiểm toán giải quyết cácmối quan hệ trong quá trình kiểm toán.
+
+Các thuật ngữ trong chuẩn mựcnày được hiểu như sau:
+
+06. Pháp luật và các quy định:Là những văn bản quy phạm pháp luật do các cơ quan có thẩm quyền ban hành (Quốchội, Uỷ ban Thường vụ Quốc hội, Chủ tịch nước, Chính phủ, Thủ tướng Chính phủ,các Bộ và cơ quan ngang Bộ, cơ quan thuộc Chính phủ; văn bản liên tịch của cáccơ quan, tổ chức có thẩm quyền, Hội đồng Nhân dân và Uỷ ban Nhân dân các cấp vàcác cơ quan khác theo quy định của pháp luật); các văn bản do cấp trên, hộinghề nghiệp, Hội đồng quản trị và Giám đốc quy định không trái với pháp luật,liên quan đến hoạt động sản xuất, kinh doanh và quản lý kinh tế, tài chính, kếtoán thuộc lĩnh vực của đơn vị.
+
+07. Không tuân thủ: Là chỉnhững hành vi thực hiện sai, bỏ sót, thực hiện không đầy đủ, không kịp thờihoặc không thực hiện pháp luật và các quy định dù là vô tình hay cố ý của đơnvị. Những hành vi này bao gồm hành vi của tập thể, cá nhân dưới danh nghĩa đơnvị hoặc của những người đại diện cho đơn vị gây ra. Chuẩn mực này không đề cậpđến hành vi không tuân thủ do tập thể hoặc cá nhân của đơn vị gây ra nhưngkhông liên quan đến báo cáo tài chính của đơn vị.
+
+
+
+NỘI DUNG CHUẨN MỰC
+
+Trách nhiệm của đơn vị đượckiểm toán trong việc tuân thủ pháp luật và các quy định
+
+08. Giám đốc (hoặc người đứngđầu) đơn vị được kiểm toán có trách nhiệm đảm bảo cho đơn vị tuân thủ đúng phápluật và các quy định hiện hành; ngăn ngừa, phát hiện và xử lý những hành vikhông tuân thủ pháp luật và các quy định trong đơn vị.
+
+09. Đơn vị được kiểm toán phảiáp dụng các biện pháp và thủ tục nhằm ngăn ngừa, phát hiện những hành vi khôngtuân thủ pháp luật và các quy định, gồm:
+
+- Nắm bắt kịp thời yêu cầu củapháp luật và các quy định liên quan đến hoạt động của đơn vị, và có các biệnpháp để thực hiện những yêu cầu đó;
+
+- Thiết lập và vận hành một hệthống kiểm soát nội bộ thích hợp và hiệu quả;
+
+- Xây dựng và thực hiện các quytắc trong hoạt động kinh doanh của đơn vị, có biện pháp theo dõi, khen thưởng,kỷ luật kịp thời;
+
+- Sử dụng dịch vụ tư vấn phápluật, kể cả dịch vụ tư vấn tài chính, kế toán để thực hiện đúng các yêu cầu củapháp luật và các quy định;
+
+- Tổ chức bộ phận kiểm toán nộibộ phù hợp với quy mô và yêu cầu của đơn vị;
+
+- Lưu trữ đầy đủ các văn bảnpháp luật và các quy định liên quan mà đơn vị phải tuân thủ và những tài liệucó liên quan đến các vụ tranh chấp, kiện tụng.
+
+Xem xét của kiểm toán viên vềtính tuân thủ pháp luật và các quy định
+
+10. Trách nhiệm củađơn vị được kiểm toán là phải tuân thủ pháp luật và các qui định. Thông quaviệc kiểm toán báo cáo tài chính hàng năm, kiểm toán viên và công ty kiểm toánsẽ giúp cho đơn vị được kiểm toán ngăn ngừa, phát hiện một phần các hành vikhông tuân thủ pháp luật và các qui định.
+
+11. Công việc kiểm toán luônphải chịu rủi ro kiểm toán là rất khó phát hiện hết mọi sai sót làm ảnh hưởngtrọng yếu đến báo cáo tài chính, kể cả khi cuộc kiểm toán đã được lập kế hoạchvà tiến hành thận trọng, đúng theo chuẩn mực kiểm toán. Nguyên nhân rủi ro kiểmtoán gồm:
+
+- Hệ thống kiểm soát nội bộ vàhệ thống kế toán của đơn vị không đáp ứng được đầy đủ yêu cầu của các văn bảnpháp luật và các quy định có liên quan đến hoạt động và báo cáo tài chính củađơn vị;
+
+- Hệ thống kiểm soát nội bộ vàhệ thống kế toán có những hạn chế tiềm tàng trong việc ngăn ngừa và phát hiệnsai phạm, nhất là những sai phạm do hành vi không tuân thủ pháp luật và các quyđịnh;
+
+- Kiểm toán viên sử dụng phươngpháp chọn mẫu;
+
+- Bằng chứng kiểm toán thườngcó tính xét đoán và thuyết phục nhiều hơn là tính khẳng định chắc chắn;
+
+- Đơn vị có thể cố tình che dấunhững vi phạm của mình (Ví dụ: Thông đồng, che dấu, giả mạo chứng từ, cố tìnhhạch toán sai...) hoặc cố tình cung cấp sai thông tin cho kiểm toán viên.
+
+12. Khi lập kế hoạch và thựchiện kiểm toán, kiểm toán viên và công ty kiểm toán phải có thái độ thận trọngnghề nghiệp (theo quy định tại Chuẩn mực kiểm toán Việt Nam số 200), phảichú ý đến hành vi không tuân thủ pháp luật và các quy định dẫn đến sai sót ảnhhưởng trọng yếu đến báo cáo tài chính. Khi phát hiện thấy một hành vi cố ýkhông tuân thủ pháp luật và các quy định, kiểm toán viên phải tính đến khả năngđơn vị còn có những vi phạm khác nữa. Ngược lại, nếu hành vi là vô tình, kiểmtoán viên không nhất thiết phải áp dụng yêu cầu trên.
+
+13. Trường hợp luật pháp quiđịnh hoặc một hợp đồng kiểm toán có yêu cầu phải báo cáo về việc tuân thủ nhữngđiều khoản nhất định của các quy định pháp luật, kiểm toán viên và công ty kiểmtoán phải lập kế hoạch để kiểm tra việc tuân thủ của đơn vị được kiểm toán vềnhững điều khoản này.
+
+14. Để lập kế hoạch kiểm toán,kiểm toán viên phải có sự hiểu biết tổng thể về pháp luật và các quy định liênquan đến hoạt động và ngành nghề kinh doanh của đơn vị được kiểm toán; phải nắmđược cách thức, biện pháp thực hiện pháp luật và các quy định của đơn vị. Kiểmtoán viên phải chú ý đến các quy định mà nếu vi phạm những quy định này sẽ gâyảnh hưởng trọng yếu đến báo cáo tài chính, hoặc ảnh hưởng đến khả năng hoạtđộng liên tục của đơn vị được kiểm toán.
+
+15. Để hiểu biết tổng thể vềpháp luật và các quy định có liên quan đến đơn vị được kiểm toán, kiểm toánviên áp dụng những biện pháp sau đây:
+
+- Sử dụng các kiến thức hiện cóliên quan đến hoạt động và ngành nghề kinh doanh của đơn vị;
+
+- Yêu cầu đơn vị cung cấp vàgiải trình về những qui định và thủ tục nội bộ của đơn vị liên quan đến việctuân thủ pháp luật và các quy định;
+
+- Trao đổi với lãnh đạo đơn vịvề pháp luật và các quy định có ảnh hưởng trọng yếu đến báo cáo tài chính củađơn vị;
+
+- Xem xét các qui định và thủtục giải quyết cụ thể của đơn vị khi xảy ra tranh chấp hoặc xử phạt;
+
+- Thảo luận với những cơ quanchức năng liên quan, chuyên gia tư vấn pháp luật và cá nhân khác để hiểu biếtthêm về pháp luật và các quy định liên quan đến hoạt động của đơn vị.
+
+16. Dựa trên những hiểu biếttổng thể về pháp luật và các quy định liên quan đến hoạt động của đơn vị đượckiểm toán, kiểm toán viên và công ty kiểm toán phải tiến hành các thủ tục cầnthiết để xác định hành vi không tuân thủ pháp luật và các quy định liên quanđến quá trình lập báo cáo tài chính, đặc biệt phải chú ý đến các thủ tục sau:
+
+- Trao đổi với Giám đốc (hoặcngười đứng đầu) đơn vị được kiểm toán về việc tuân thủ pháp luật và các quyđịnh;
+
+- Trao đổi với các cơ quan chứcnăng có liên quan.
+
+17. Kiểm toán viên phải thuthập đầy đủ bằng chứng kiểm toán thích hợp về việc không tuân thủ pháp luật vàcác quy định của đơn vị làm ảnh hưởng trọng yếu đến báo cáo tài chính. Kiểmtoán viên phải có những hiểu biết đầy đủ về pháp luật và các quy định nhằm mụcđích xem xét tính tuân thủ pháp luật và các qui định khi kiểm toán cơ sở dẫnliệu liên quan đến các thông tin trên báo cáo tài chính.
+
+18. Khi những văn bản pháp luậtvà các quy định liên quan đến hoạt động của đơn vị và ngành kinh doanh có thayđổi trong từng giai đoạn, kiểm toán viên và công ty kiểm toán phải xem xét tínhtuân thủ những quy định này trong quan hệ phù hợp về mặt thời gian với việc lậpbáo cáo tài chính.
+
+19. Ngoài những nguyên tắc vàthủ tục đã nêu trong các đoạn 16, 17 và 18, kiểm toán viên và công ty kiểm toánkhông cần thực hiện những thủ tục kiểm tra khác đối với việc tuân thủ pháp luậtvà các quy định của đơn vị, nếu những thủ tục đó nằm ngoài phạm vi kiểm toánbáo cáo tài chính.
+
+20. Việc thực hiện các thủ tụckiểm toán báo cáo tài chính sẽ giúp cho kiểm toán viên và công ty kiểm toánphát hiện ra những hành vi không tuân thủ pháp luật và các quy định.
+
+21. Kiểm toán viên phải thuthập được bản giải trình của Giám đốc và các tài liệu của đơn vị liên quan đếnhành vi không tuân thủ pháp luật và các quy định thực tế đã xảy ra hoặc có thểxảy ra làm ảnh hưởng đến tính trung thực và hợp lý của báo cáo tài chính.
+
+22. Sau khi tiến hành các thủtục xem xét đúng theo yêu cầu của chuẩn mực này, nếu không thu được các bằngchứng về hành vi không tuân thủ pháp luật và các quy định thì kiểm toán viên cóquyền xem như đơn vị đã tuân thủ pháp luật và các quy định.
+
+Các thủ tục phải thực hiện khiphát hiện hành vi không tuân thủ pháp luật và các quy định
+
+23. Kiểm toán viên phải luônchú ý tới các dấu hiệu dẫn đến hành vi không tuân thủ pháp luật và các quy địnhcủa đơn vị. Một số dấu hiệu chủ yếu này được nêu tại Phụ lục số 01.
+
+24. Khi phát hiện ra nhữngthông tin liên quan đến hành vi không tuân thủ pháp luật và các quy định, kiểmtoán viên và công ty kiểm toán phải tìm hiểu rõ tính chất của hành vi, hoàncảnh phát sinh hành vi và những thông tin liên quan để đánh giáảnh hưởng có thể có đến báo cáo tài chính.
+
+25. Khi xét thấy các hành vikhông tuân thủ pháp luật và các quy định có ảnh hưởng đến báo cáo tài chính,kiểm toán viên phải xem xét đến:
+
+- Khả năng xảy ra hậu quả vềtài chính, thậm chí dẫn đến rủi ro buộc đơn vị được kiểm toán phải ngừng hoạtđộng;
+
+- Sự cần thiết phải giải trìnhhậu quả về tài chính trong phần Thuyết minh báo cáo tài chính;
+
+- Mức độ ảnh hưởng đến tínhtrung thực và hợp lý của báo cáo tài chính.
+
+26. Khi có nghi ngờ hoặc khi đãphát hiện có hành vi không tuân thủ pháp luật và các quy định, kiểm toán viênphải ghi lại và lưu hồ sơ kiểm toán những phát hiện đó và thảo luận với Giámđốc (hoặc người đứng đầu) của đơn vị được kiểm toán. Hồ sơ lưu bao gồm bảntrích sao chứng từ, sổ kế toán, biên bản họp và các tài liệu khác có liên quan.
+
+27. Trường hợp Giám đốc (hoặcngười đứng đầu) đơn vị không cung cấp đầy đủ thông tin chứng minh rằng đơn vịtuân thủ đúng pháp luật và các quy định thì kiểm toán viên và công ty kiểm toáncần thảo luận, trao đổi với các chuyên gia tư vấn pháp luật hoặc cơ quan chứcnăng có liên quan về các hành vi bị nghi ngờ là không tuân thủ ảnh hưởng đếnbáo cáo tài chính. Việc trao đổi này giúp cho kiểm toán viên và công ty kiểmtoán hiểu rõ thêm về những hậu quả xảy ra và những biện pháp phải tiếp tục thựchiện.
+
+28. Trường hợp không thể thuthập được đầy đủ thông tin để xoá bỏ nghi ngờ về hành vi không tuân thủ phápluật và các quy định, kiểm toán viên và công ty kiểm toán phải xem xét ảnh hưởngcủa việc thiếu bằng chứng và phải trình bày điều đó trong báo cáo kiểm toán.
+
+29. Kiểm toán viên và công tykiểm toán phải phân tích hậu quả của việc không tuân thủ pháp luật và các quyđịnh liên quan đến công việc kiểm toán, nhất là đối với độ tin cậy vào các bảngiải trình của Giám đốc. Kiểm toán viên phải đánh giá lại rủi ro và xem xét lạicác bản giải trình của Giám đốc trong các trường hợp:
+
+- Hệ thống kiểm soát nội bộkhông phát hiện và không ngăn ngừa được hành vi không tuân thủ;
+
+- Hành vi không tuân thủ khôngđược nêu trong bản giải trình, đặc biệt là những hành vi mà đơn vị cố tình chedấu.
+
+Thông báo những hành vi khôngtuân thủ pháp luật và các quy định
+
+Thông báo cho Giám đốc (hoặc ngườiđứng đầu) đơn vị được kiểm toán
+
+30. Trong quá trình kiểm toán,kiểm toán viên phải thông báo cho Giám đốc (hoặc người đứng đầu) đơn vị về các hànhvi không tuân thủ pháp luật và các quy định do kiểm toán viên phát hiện được.Kiểm toán viên được phép không phải thông báo những hành vi không tuân thủ nếuxác định là không gây hậu quả đáng kể, trừ trường hợp kiểm toán viên và đơn vịcó thoả thuận khác.
+
+31. Nếu kiểm toán viên và côngty kiểm toán xác định các hành vi không tuân thủ pháp luật và các quy định làcố ý và có ảnh hưởng trọng yếu đến báo cáo tài chính thì phải thông báo ngayphát hiện của mình bằng văn bản cho Giám đốc (hoặc người đứng đầu) đơn vị.
+
+32. Nếu kiểm toán viên và côngty kiểm toán phát hiện Giám đốc (hoặc người đứng đầu) đơn vị có liên quan đếncác hành vi không tuân thủ pháp luật và các quy định làm ảnh hưởng trọng yếuđến báo cáo tài chính thì phải tham khảo ý kiến của chuyên gia pháp luật và báocáo lên cấp cao hơn của đơn vị được kiểm toán.
+
+Thông báo cho người sử dụng báocáo kiểm toán về báo cáo tài chính
+
+33. Nếu kiểm toán viên kết luậnlà những hành vi không tuân thủ pháp luật và các quy định làm ảnh hưởng trọngyếu đến báo cáo tài chính nhưng không được phản ảnh đúng trong báo cáo tàichính mặc dù kiểm toán viên đã đề nghị sửa đổi, điều chỉnh thì kiểm toán viênphải đưa ra ý kiến chấp nhận từng phần, hoặc ý kiến không chấp nhận.
+
+34. Nếu đơn vị không tạo điềukiện cho kiểm toán viên thu thập được đầy đủ bằng chứng kiểm toán thích hợp đểđánh giá các hành vi không tuân thủ pháp luật và các qui định có ảnh hưởngtrọng yếu đến báo cáo tài chính, thì kiểm toán viên phải đưa ra ý kiến chấpnhận từng phần, hoặc ý kiến từ chối đưa ra ý kiến vì bị hạnchế về phạm vi kiểm toán.
+
+35. Nếu không thể thu thập đượcđầy đủ bằng chứng về các hành vi không tuân thủ pháp luật và các quy định đãxảy ra thì kiểm toán viên phải xem xét ảnh hưởng của nó đến báo cáo kiểm toán.
+
+Thông báo cho cơ quan chức năngcó liên quan
+
+36. Kiểm toán viên và công tykiểm toán có trách nhiệm bảo mật các thông tin, số liệu của khách hàng. Tuynhiên, nếu đơn vị được kiểm toán có hành vi không tuân thủ pháp luật và các quyđịnh thì tuỳ theo yêu cầu của pháp luật, kiểm toán viên và công ty kiểm toánphải thông báo hành vi đó cho cơ quan chức năng có liên quan. Trường hợp này,kiểm toán viên được phép trao đổi trước với chuyên gia tư vấn pháp luật.
+
+Kiểm toán viên và công ty kiểmtoán rút khỏi hợp đồng kiểm toán
+
+37. Khi xét thấy đơn vị đượckiểm toán không có biện pháp cần thiết để xử lý các hành vi, hoặc những biểuhiện không tuân thủ pháp luật và các quy định, kể cả những hành vi không ảnh hưởngtrọng yếu đến báo cáo tài chính, thì công ty kiểm toán được phép chấm dứt hợpđồng kiểm toán. Công ty kiểm toán phải cân nhắc kỹ lưỡng và trao đổi với chuyêngia tư vấn pháp luật trước khi đưa ra quyết định này.
+
+38. Khi kiểm toán viên khác đượcthay thế yêu cầu cung cấp thông tin về khách hàng, kiểm toán viên hiện tại phảicó trách nhiệm:
+
+- Nếu khách hàng cho phép thảoluận về công việc của họ thì kiểm toán viên hiện tại phải đưa ra những thôngtin về hành vi không tuân thủ pháp luật và các qui định, lý do chấm dứt hợpđồng và khuyến nghị với kiểm toán viên khác được thay thế nên từ chối hoặc chấpnhận hợp đồng;
+
+- Nếu khách hàng không cho phépthảo luận về công việc của họ thì kiểm toán viên và công ty kiểm toán hiện tạicũng phải thông báo về việc không cho phép này cho kiểm toán viên được thaythế./.
+
+
+
+Phụ lục số 01
+
+Các dấu hiệu chủ yếu dẫnđến hành vi
+
+không tuân thủ pháp luậtvà các quy định
+
+- Đã có sự kiểm tra, thanh tra,điều tra của cơ quan chức năng có liên quan về việc vi phạm pháp luật và cácqui định, như vay mượn, quan hệ thanh toán, tiền phạt ...;
+
+- Có những khoản thanh toánkhông rõ ràng, hoặc cho các đối tượng là những người có chức, có quyền vay;
+
+- Các khoản chi phí trả cho cácdịch vụ quá cao so với các doanh nghiệp khác cùng ngành hoặc so với giá trị bảnthân dịch vụ nhận được;
+
+- Giá cả mua bán quá cao hoặcquá thấp so với mức giá của thị trường;
+
+- Doanh nghiệp có những quan hệkhông bình thường với những công ty có nhiều đặc quyền, kinh doanh quá thuậnlợi hoặc những công ty có vấn đề nghi vấn;
+
+- Thanh toán hàng hoá và dịchvụ cho một nước khác với nước sản xuất hoặc cung cấp hàng hoá, dịch vụ đó;
+
+- Không có chứng từ mua bán hợplệ, thích hợp khi thanh toán;
+
+- Chấp hành không đúng, khôngđầy đủ chế độ kế toán phải thực hiện;
+
+- Những nghiệp vụ thu, chikhông được phê duyệt hoặc những nghiệp vụ ghi chép sai quy định;
+
+- Đơn vị đã bị tố giác, hoặc đãcó dư luận không tốt trên các phương tiện thông tin đại chúng hoặc từ xã hội;
+
+- Kết quả sản xuất, kinh doanhcủa doanh nghiệp không ổn định, báo cáo kết quả hoạt động kinh doanh thườngxuyên biến động;
+
+- Chi phí quản lý, chi phíquảng cáo quá cao;
+
+- Bổ nhiệm kế toán trưởng khôngđúng quy định;
+
+- Thực hiện chế độ kiểm kêkhông đúng quy định.
+
+
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁNVIỆT NAM
+
+Chuẩn mực số 310 hiểubiết về tình hình kinh doanh
+
+(Ban hành theo Quyếtđịnh số 219/2000/QĐ-BTC ngày 29 tháng 12 năm 2000 của Bộ trưởng Bộ Tài chính )
+
+QUY ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà quy định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản để tìm hiểu tình hình kinh doanh và việc sử dụngnhững hiểu biết đó trong quá trình kiểm toán báo cáo tài chính.
+
+02. Để thực hiện kiểm toán báocáo tài chính, kiểm toán viên phải có hiểu biết cần thiết, đầy đủ về tình hìnhkinh doanh nhằm đánh giá và phân tích được các sự kiện, nghiệp vụ và thực tiễnhoạt động của đơn vị được kiểm toán mà theo kiểm toán viên thì có ảnh hưởngtrọng yếu đến báo cáo tài chính, đến việc kiểm tra của kiểm toán viên hoặc đếnbáo cáo kiểm toán. Ví dụ: Kiểm toán viên sử dụng sự hiểu biết về tình hình kinhdoanh để xác định rủi ro tiềm tàng, rủi ro kiểm soát và xác định nội dung, lịchtrình, phạm vi của các thủ tục kiểm toán.
+
+03. Hiểu biết cần thiết củakiểm toán viên để thực hiện một cuộc kiểm toán bao gồm những hiểu biết tổngquan về nền kinh tế, lĩnh vực hoạt động của đơn vị, hiểu biết cụ thể hơn về tổchức và hoạt động của đơn vị được kiểm toán. Mức độ hiểu biết về đơn vị củakiểm toán viên không nhất thiết phải như Ban Giám đốc của đơn vị được kiểmtoán.
+
+Nội dung cụ thể những vấn đềcần hiểu biết khi thực hiện một cuộc kiểm toán báo cáo tài chính được trình bàytrong Phụ lục số 01. Kiểm toán viên được phép bổ sung thêm các nội dung vàodanh mục này và cũng được phép không phải áp dụng tất cả danh mục này cho mộtcuộc kiểm toán cụ thể.
+
+04. Chuẩn mực này áp dụng chokiểm toán báo cáo tài chính và cũng được vận dụng cho kiểm toán thông tin tàichính khác và các dịch vụ có liên quan của công ty kiểm toán.
+
+Kiểm toán viên và công ty kiểmtoán phải tuân thủ các quy định của chuẩn mực này trong quá trình thực hiệnkiểm toán báo cáo tài chính.
+
+NỘI DUNG CHUẨN MỰC
+
+Thu thập thông tin
+
+05. Trước khi chấp nhận một hợpđồng kiểm toán, kiểm toán viên và công ty kiểm toán phải thu thập những thôngtin sơ bộ về lĩnh vực hoạt động, loại hình doanh nghiệp, hình thức sở hữu, côngnghệ sản xuất, tổ chức bộ máy quản lý và thực tiễn hoạt động của đơn vị, qua đóđánh giá khả năng có thể thu thập được những thông tin (hiểu biết) cần thiết vềtình hình kinh doanh để thực hiện công việc kiểm toán.
+
+06. Sau khi chấp nhận hợp đồngkiểm toán, kiểm toán viên phải thu thập những thông tin chi tiết cần thiết ngaytừ khi bắt đầu công việc kiểm toán. Trong quá trình kiểm toán, kiểm toán viênphải luôn xem xét, đánh giá, cập nhật và bổ sung thêm các thông tin mới.
+
+07. Việc thu thập các thông tincần thiết về tình hình kinh doanh của đơn vị là một quá trình tích luỹ liêntục, bao gồm việc thu thập, đánh giá và đối chiếu thông tin thu thập được vớicác bằng chứng kiểm toán ở tất cả các giai đoạn của quá trình kiểm toán. Ví dụ:Các thông tin đã thu thập ở giai đoạn lập kế hoạch vẫn phải được tiếp tục cậpnhật và bổ sung thêm ở các giai đoạn kế tiếp để kiểm toán viên hiểu biết đầy đủhơn về hoạt động của đơn vị.
+
+08. Đối với hợp đồng kiểm toánnăm sau, kiểm toán viên phải cập nhật và đánh giá lại những thông tin đã thuthập trước đây, nhất là những thông tin trong hồ sơ kiểm toán các năm trước.Kiểm toán viên phải chú ý đến các vấn đề tồn tại đã phát hiện trong năm trướcvà thực hiện các thủ tục nhằm phát hiện ra những thay đổi đáng kể phát sinh saulần kiểm toán trước.
+
+09. Kiểm toán viên thu thậpthông tin về tình hình kinh doanh từ các nguồn như:
+
+- Kinh nghiệm thực tiễn về đơnvị và ngành nghề kinh doanh của đơn vị được kiểm toán trên báo cáo tổng kết,biên bản làm việc, báo chí;
+
+- Hồ sơ kiểm toán năm trước;
+
+- Trao đổi với Giám đốc, kếtoán trưởng hoặc cán bộ, nhân viên của đơn vị được kiểm toán;
+
+Trao đổi với kiểm toán viên nộibộ và xem xét báo cáo kiểm toán nội bộ của đơn vị được kiểm toán;
+
+- Trao đổi với kiểm toán viênkhác và với các nhà tư vấn đã cung cấp dịch vụ cho đơn vị được kiểm toán hoặchoạt động trong cùng lĩnh vực với đơn vị được kiểm toán;
+
+- Trao đổi với chuyên gia, đốitượng bên ngoài có hiểu biết về đơn vị được kiểm toán (Ví dụ: Chuyên gia kinhtế, cơ quan cấp trên, khách hàng, nhà cung cấp, các đối thủ cạnh tranh...);
+
+- Tham khảo các ấn phẩm liênquan đến lĩnh vực hoạt động của đơn vị được kiểm toán (Ví dụ: Số liệu thống kêcủa Chính phủ, báo chí chuyên ngành, thông tin của ngân hàng, thông tin của thịtrường chứng khoán...);
+
+- Các văn bản pháp lý và cácquy định có ảnh hưởng đến đơn vị được kiểm toán;
+
+- Khảo sát thực tế văn phòng,nhà xưởng của đơn vị được kiểm toán;
+
+- Các tài liệu do đơn vị đượckiểm toán cung cấp (Ví dụ: Nghị quyết và biên bản các cuộc họp, tài liệu gửicho các cổ đông hay cho cơ quan cấp trên, báo cáo quản lý nội bộ, báo cáo tàichính định kỳ, các chính sách về quản lý kinh tế, tài chính, thuế, hệ thống kếtoán, tài liệu kiểm soát nội bộ, quy định về quyền hạn, chức năng, nhiệm vụ củatừng bộ phận trong đơn vị...).
+
+Sử dụng hiểu biết
+
+10. Những hiểu biết về tìnhhình kinh doanh là cơ sở quan trọng để kiểm toán viên đưa ra các xét đoánchuyên môn. Mức độ hiểu biết tình hình kinh doanh và việc sử dụng các hiểu biếtnày một cách hợp lý sẽ trợ giúp kiểm toán viên trong các công việc:
+
+- Đánh giá rủi ro và xác địnhcác vấn đề đáng chú ý;
+
+- Lập kế hoạch và thực hiệncông việc kiểm toán một cách hiệu quả;
+
+- Đánh giá bằng chứng kiểmtoán;
+
+- Cung cấp dịch vụ tốt hơn chođơn vị được kiểm toán.
+
+11.Trong quá trình kiểm toán,hiểu biết về tình hình kinh doanh là rất quan trọng để giúp kiểm toán viên xétđoán trên các khía cạnh cụ thể sau:
+
+- Đánh giá rủi ro tiềm tàng vàrủi ro kiểm soát;
+
+- Phân tích rủi ro kinh doanhvà các phương án giải quyết của Giám đốc (hoặc người đứng đầu);
+
+- Xây dựng kế hoạch và chươngtrình kiểm toán;
+
+- Xác định mức độ trọng yếu vàđánh giá sự phù hợp của mức độ trọng yếu đó trong quá trình kiểm toán;
+
+- Đánh giá về sự đầy đủ và tínhthích hợp của các bằng chứng kiểm toán;
+
+- Đánh giá các ước tính kế toánvà giải trình của Giám đốc;
+
+- Xác định các vùng phải chú ýđặc biệt trong việc kiểm toán và các kỹ năng kiểm toán cần thiết;
+
+- Xác định các bên liên quan vànghiệp vụ phát sinh giữa các bên liên quan;
+
+- Xác định các thông tin có mâuthuẫn ;
+
+- Xác định các tình huống bấtthường (Ví dụ: Gian lận hoặc không tuân thủ pháp luật và các qui định; số liệuthống kê mâu thuẫn với số liệu báo cáo tài chính...);
+
+- Đặt ra câu hỏi thăm dò vàđánh giá mức độ hợp lý của các câu trả lời;
+
+- Xem xét sự phù hợp của chế độkế toán, các thông tin trình bày trên báo cáo tài chính.
+
+12. Kiểm toán viên và công tykiểm toán sử dụng các trợ lý kiểm toán được phân công thực hiện công việc kiểmtoán cũng phải đảm bảo đạt được sự hiểu biết nhất định về tình hình kinh doanhđể thực hiện công việc của mình. Ngoài ra, các trợ lý phải thực hiện việc thuthập thông tin bổ sung đáp ứng yêu cầu công việc của mình và trao đổi các thôngtin đó với các thành viên khác của nhóm.
+
+13. Để sử dụng hiệu quả cáchiểu biết về tình hình kinh doanh, kiểm toán viên phải đánh giá, xem xét mức độảnh hưởng tổng thể từ những hiểu biết của mình đến báo cáo tài chính của đơnvị, cũng như sự phù hợp của các cơ sở dẫn liệu trong báo cáo tài chính so vớinhững hiểu biết của kiểm toán viên về tình hình kinh doanh./.
+
+Phụ lục số01
+
+Những nội dung cụ thểkiểm toán viên phải
+
+hiểu biết về tình hìnhkinh doanh của đơn vị được kiểm toán
+
+A- Hiểubiết chung về nền kinh tế:
+
+- Thực trạng nền kinh tế (Vídụ: Suy thoái, tăng trưởng kinh tế,...);
+
+- Các tỷ lệ lãi suất và khảnăng tài chính của nền kinh tế;
+
+- Mức độ lạm phát và giá trịđơn vị tiền tệ;
+
+- Các chính sách của Chính phủ:
+
++ Chính sách tiền tệ ngân hàng(Ví dụ: Mức lãi suất, tỉ giá hối đoái, hạn mức tín dụng,...);
+
++ Chính sách tài chính;
+
++ Chính sách thuế ( Ví dụ: Thuếgiá trị gia tăng; thuế xuất nhập khẩu; thuế thu nhập doanh nghiệp,...);
+
++ Chính sách khuyến khích đầu tư(Ví dụ: Các chương trình trợ giúp của Chính phủ,...).
+
+- Biến động thị trường chứngkhoán và các tỷ lệ đảm bảo an toàn trong hoạt động kinh doanh của đơn vị đượckiểm toán;
+
+- Kiểm soát ngoại hối và tỉ giángoại tệ
+
+B- Môi trường và lĩnh vực hoạtđộng của đơn vị được kiểm toán:
+
+- Các yêu cầu về môi trường vàcác vấn đề liên quan;
+
+- Thị trường và cạnh tranh;
+
+- Đặc điểm hoạt động kinh doanh(liên tục hay theo thời vụ);
+
+- Các thay đổi trong công nghệsản xuất, kinh doanh;
+
+- Rủi ro kinh doanh (Ví dụ:Công nghệ cao, thị hiếu của thị trường, cạnh tranh,...);
+
+- Sự thu hẹp hay mở rộng quy môkinh doanh;
+
+- Các điều kiện bất lợi (Ví dụ:Cung, cầu tăng hoặc giảm, chiến tranh, giá cả,...);
+
+- Các tỷ suất quan trọng và cácsố liệu thống kê về hoạt động kinh doanh hàng năm;
+
+- Chuẩn mực, chế độ kế toán vàcác vấn đề liên quan;
+
+- Các quy định pháp luật và cácchính sách, chế độ cụ thể có liên quan;
+
+- Các nguồn cung cấp (Ví dụ:Hàng hóa, dịch vụ, lao động,...) và giá cả.
+
+C- Nhân tố nội tại của đơn vị đượckiểm toán:
+
+1- Các đặc điểm quan trọng vềsở hữu và quản lý
+
+- Hội đồng quản trị:
+
++ Số lượng uỷ viên và thànhphần;
+
++ Uy tín và kinh nghiệm củatừng cá nhân;
+
++ Tính độc lập đối với Giám đốcvà kiểm soát hoạt động của Giám đốc;
+
++ Các cuộc họp định kỳ;
+
++ Sự tồn tại và phạm vi hoạtđộng của Ban kiểm soát;
+
++ Sự tồn tại và tác động củaquy chế hoạt động của đơn vị;
+
++ Những thay đổi về các cố vấnchuyên môn (nếu có).
+
+- Giám đốc (người đứng đầu) vàbộ máy điều hành:
+
++ Thay đổi nhân sự (Ví dụ: Giámđốc, Phó Giám đốc, Kế toán trưởng,...);
+
++ Kinh nghiệm và uy tín;
+
++ Thu nhập;
+
++ Các cán bộ tài chính chủ chốtvà vị trí của họ trong đơn vị;
+
++ Kế toán trưởng và nhân viênkế toán;
+
++ Các chế độ khuyến khích vậtchất, khen thưởng, kỷ luật;
+
++ Sử dụng các ước tính kế toánvà dự toán;
+
++ Phân cấp quyền hạn và tráchnhiệm trong bộ máy điều hành;
+
++ Áp lực đối với Giám đốc (hoặc người đứng đầu);
+
++ Các hệ thống thông tin quảnlý.
+
+- Loại hình doanh nghiệp ( Vídụ: Nhà nước, tập thể, tư nhân, cổ phần, trách nhiệm hữu hạn, doanh nghiệp cóvốn đầu tư nước ngoài...);
+
+- Lĩnh vực, phạm vi và đối tượngđược phép kinh doanh;
+
+- Thời hạn được phép hoạt động;
+
+- Các chủ sở hữu vốn và các bênliên quan (Ví dụ: Trong nước, ngoài nước, uy tín và kinh nghiệm, ...);
+
+- Cơ cấu vốn (những thay đổigần đây hay dự kiến trong tương lai, ...);
+
+- Sơ đồ tổ chức bộ máy sản xuất,kinh doanh;
+
+- Phạm vi hoạt động;
+
+- Cơ sở sản xuất, kinh doanhchính và các chi nhánh, đại lý;
+
+- Sơ đồ tổ chức bộ máy quản lý;
+
+- Các mục tiêu quản lý và kếhoạch chiến lược;
+
+- Thu hẹp hay mở rộng hoạt độngkinh doanh (đã lên kế hoạch hay đã thực hiện gần đây);
+
+- Các nguồn và biện pháp tàichính;
+
+- Chức năng và chất lượng hoạtđộng của bộ phận kiểm toán nội bộ (nếu có);
+
+- Quan niệm và thái độ của Giámđốc đối với hệ thống kiểm soát nội bộ;
+
+- Công ty kiểm toán và kiểmtoán viên các năm trước.
+
+2- Tình hình kinh doanh của đơnvị
+
+(Sản phẩm, thị trường, các nhàcung cấp, chi phí, các hoạt động nghiệp vụ)
+
+- Đặc điểm và qui mô hoạt độngsản xuất, kinh doanh;
+
+- Các điều kiện sản xuất, khobãi, văn phòng;
+
+- Các vấn đề về nhân lực (Vídụ: Số lượng, chất lượng lao động, sự phân bố nhân lực, nguồn cung cấp, mức lương,quy chế nhân viên, thoả ước lao động tập thể và công đoàn, việc thực hiện chếđộ hưu trí và quy định của Chính phủ về lao động,...);
+
+- Sản phẩm, dịch vụ và thị trường(Ví dụ: Các khách hàng và hợp đồng chính, các điều khoản về thanh toán, tỷ lệlợi nhuận gộp, phần thị trường chiếm lĩnh, các đối thủ cạnh tranh, xuất khẩu,các chính sách giá cả, danh tiếng các mặt hàng, bảo hành, đơn đặt hàng, xu hướng,chiến lược và mục tiêu tiếp thị, quy trình sản xuất,...);
+
+- Các nhà cung cấp hàng hoá vàdịch vụ quan trọng (Ví dụ: Các hợp đồng dài hạn, mức độ ổn định của nhà cungcấp, các điều kiện thanh toán, các hình thức nhập khẩu, các hình thức cungứng,...);
+
+- Hàng tồn kho (Ví dụ: Địađiểm, số lượng, chất lượng, quy cách,...);
+
+- Lợi thế thương mại, quyền sửdụng nhãn hiệu, bằng phát minh sáng chế...;
+
+- Các khoản chi phí quan trọng;
+
+- Nghiên cứu và phát triển;
+
+- Các tài sản, công nợ, nghiệpvụ bằng ngoại tệ và các nghiệp vụ bảo hiểm rủi ro hối đoái;
+
+- Luật pháp và các quy định cóảnh hưởng lớn đến đơn vị được kiểm toán;
+
+- Các hệ thống thông tin quảnlý (Tình trạng hiện tại, dự kiến thay đổi, ...);
+
+- Cơ cấu nợ vay, các điều khoảnthu hẹp và giới hạn nợ.
+
+3- Khả năng tài chính
+
+(Các nhân tố liên quan đến tìnhhình tài chính và khả năng sinh lợi của đơn vị được kiểm toán)
+
+- Các tỷ suất quan trọng và sốliệu thống kê về hoạt động kinh doanh;
+
+- Xu hướng biến động của kếtquả tài chính.
+
+4- Môi trường lập báo cáo
+
+(Các tác động khách quan có ảnhhưởng đến Giám đốc (hoặc người đứng đầu) đơn vị trong việc lập các báo cáo tàichính)
+
+5- Yếu tố luật pháp
+
+- Môi trường và các quy địnhpháp luật;
+
+- Các chính sách tài chính vàchính sách thuế;
+
+- Các yêu cầu đối với báo cáokiểm toán;
+
+- Những người sử dụng báo cáotài chính.
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁNVIỆT NAM
+
+CHUẨN MỰC SỐ 500 BẰNGCHỨNG KIỂM TOÁN
+
+(Ban hành theo Quyếtđịnh số 219/2000/QĐ-BTC ngày 29 tháng 12 năm 2000 của Bộ trưởng Bộ Tài chính)
+
+QUI ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà quy định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản đối với số lượng và chất lượng các bằng chứng kiểmtoán phải thu thập khi kiểm toán báo cáo tài chính.
+
+02. Kiểm toán viên và công tykiểm toán phải thu thập đầy đủ các bằng chứng kiểm toán thích hợp để làm cơ sởđưa ra ý kiến của mình về báo cáo tài chính của đơn vị được kiểm toán.
+
+03. Chuẩn mực này áp dụng chokiểm toán báo cáo tài chính và cũng được vận dụng cho kiểm toán thông tin tàichính khác và các dịch vụ có liên quan của công ty kiểm toán.
+
+Kiểm toán viên và công ty kiểmtoán phải tuân thủ các qui định của chuẩn mực này trong quá trình thu thập vàxử lý bằng chứng kiểm toán.
+
+Đơn vị được kiểm toán (kháchhàng) và các bên sử dụng kết quả kiểm toán phải có những hiểu biết cần thiết vềchuẩn mực này để phối hợp công việc và xử lý các mối quan hệ liên quan đến quátrình cung cấp và thu thập bằng chứng kiểm toán.
+
+04. Bằng chứng kiểm toán đượcthu thập bằng sự kết hợp thích hợp giữa các thủ tục thử nghiệm kiểm soát và thửnghiệm cơ bản. Trong một số trường hợp, bằng chứng kiểm toán chỉ có thể thuthập được bằng thử nghiệm cơ bản.
+
+Các thuật ngữ trong chuẩn mựcnày được hiểu như sau:
+
+05. Bằng chứng kiểm toán: Làtất cả các tài liệu, thông tin do kiểm toán viên thu thập được liên quan đếncuộc kiểm toán và dựa trên các thông tin này kiểm toán viên hình thành nên ýkiến của mình.
+
+Bằng chứng kiểm toán bao gồmcác tài liệu, chứng từ, sổ kế toán, báo cáo tài chính và các tài liệu, thôngtin từ những nguồn khác.
+
+06. Thử nghiệm kiểm soát (kiểmtra hệ thống kiểm soát): Là việc kiểm tra để thu thập bằng chứng kiểm toán vềsự thiết kế phù hợp và sự vận hành hữu hiệu của hệ thống kế toán và hệ thốngkiểm soát nội bộ.
+
+07. Thử nghiệm cơ bản (kiểm tracơ bản): Là việc kiểm tra để thu thập bằng chứng kiểm toán liên quan đến báocáo tài chính nhằm phát hiện ra những sai sót trọng yếu làm ảnh hưởng đến báocáo tài chính. "Thử nghiệm cơ bản" gồm:
+
+a/ Kiểm tra chi tiết các nghiệpvụ và số dư;
+
+b/ Quy trình phân tích.
+
+Nội dung chuẩn mực
+
+Bằng chứng kiểm toán đầyđủ và thích hợp
+
+08. Kiểm toán viên phải thuthập đầy đủ các bằng chứng kiểm toán thích hợp cho mỗi loại ý kiến của mình. Sự"đầy đủ" và tính "thích hợp" luôn đi liền với nhau và đượcáp dụng cho các bằng chứng kiểm toán thu thập được từ các thủ tục thử nghiệmkiểm soát và thử nghiệm cơ bản. "Đầy đủ" là tiêu chuẩn thể hiện về sốlượng bằng chứng kiểm toán; "Thích hợp" là tiêu chuẩn thể hiện chất lượng,độ tin cậy của bằng chứng kiểm toán. Thông thường kiểm toán viên dựa trên cácbằng chứng mang tính xét đoán và thuyết phục nhiều hơn là tính khẳng định chắcchắn. Bằng chứng kiểm toán thường thu được từ nhiều nguồn, nhiều dạng khác nhauđể làm căn cứ cho cùng một cơ sở dẫn liệu.
+
+09. Trong quá trình hình thànhý kiến của mình, kiểm toán viên không nhất thiết phải kiểm tra tất cả các thôngtin có sẵn. Kiểm toán viên được phép đưa ra kết luận về số dư tài khoản, cácnghiệp vụ kinh tế hoặc hệ thống kiểm soát nội bộ trên cơ sở kiểm tra chọn mẫutheo phương pháp thống kê hoặc theo xét đoán cá nhân.
+
+10. Đánh giá của kiểm toán viênvề sự đầy đủ và tính thích hợp của bằng chứng kiểm toán chủ yếu phụ thuộc vào:
+
+. Tínhchất, nội dung và mức độ rủi ro tiềm tàng của toàn bộ báo cáo tài chính, từngsố dư tài khoản hoặc từng loại nghiệp vụ;
+
+. Hệthống kế toán, hệ thống kiểm soát nội bộ và sự đánh giá về rủi ro kiểm soát;
+
+. Tínhtrọng yếu của khoản mục được kiểm tra;
+
+. Kinhnghiệm từ các lần kiểm toán trước;
+
+. Kết quảcác thủ tục kiểm toán, kể cả các sai sót hoặc gian lận đã được phát hiện;
+
+. Nguồngốc, độ tin cậy của các tài liệu, thông tin.
+
+11. Khi thu thập bằng chứngkiểm toán từ các thử nghiệm kiểm soát, kiểm toán viên phải xem xét sự đầy đủ vàtính thích hợp của các bằng chứng làm cơ sở cho việc đánh giá của mình về rủiro kiểm soát.
+
+12. Kiểm toán viên cần thu thậpbằng chứng kiểm toán từ hệ thống kế toán và hệ thống kiểm soát nội bộ về các phươngdiện:
+
+Thiết kế: Hệ thống kế toán và hệ thống kiểm soát nội bộ được thiết kế sao cho cókhả năng ngăn ngừa, phát hiện và sửa chữa các sai sót trọng yếu;
+
+Thực hiện: Hệ thống kế toán và hệ thống kiểm soát nội bộ tồn tại và hoạt động mộtcách hữu hiệu trong suốt thời kỳ xem xét.
+
+13. Khi thu thập bằng chứngkiểm toán từ các thử nghiệm cơ bản, kiểm toán viên phải xem xét sự đầy đủ vàtính thích hợp của các bằng chứng từ các thử nghiệm cơ bản kết hợp với các bằngchứng thu được từ thử nghiệm kiểm soát nhằm khẳng định cơ sở dẫn liệu của báocáo tài chính.
+
+14. Cơ sở dẫn liệu của báocáo tài chính: Là căn cứ của các khoản mục và thông tin trình bày trong báocáo tài chính do Giám đốc (hoặc người đứng đầu) đơn vị chịu trách nhiệm lậptrên cơ sở các chuẩn mực và chế độ kế toán qui định phải được thể hiện rõ rànghoặc có cơ sở đối với từng chỉ tiêu trong báo cáo tài chính.
+
+Cơ sở dẫn liệu của báo cáo tàichính phải có các tiêu chuẩn sau:
+
+a/ Hiện hữu: Một tài sảnhay một khoản nợ phản ánh trên báo cáo tài chính thực tế phải tồn tại (có thực)vào thời điểm lập báo cáo;
+
+b/ Quyền và nghĩa vụ:Một tài sản hay một khoản nợ phản ánh trên báo cáo tài chính đơn vị phải cóquyền sở hữu hoặc có trách nhiệm hoàn trả tại thời điểm lập báo cáo;
+
+c/ Phát sinh: Một nghiệpvụ hay một sự kiện đã ghi chép thì phải đã xảy ra và có liên quan đến đơn vị trongthời kỳ xem xét;
+
+d/ Đầy đủ: Toàn bộ tài sản, các khoản nợ, nghiệp vụ hay giao dịch đã xảy ra cóliên quan đến báo cáo tài chính phải được ghi chép hết các sự kiện liên quan;
+
+e/ Đánh giá: Một tài sản hay một khoản nợ được ghi chép theo giá trị thích hợp trêncơ sở chuẩn mực và chế độ kế toán hiện hành (hoặc được thừa nhận);
+
+f/ Chính xác: Một nghiệp vụ hay một sự kiện được ghi chép theo đúng giá trị của nó,doanh thu hay chi phí được ghi nhận đúng kỳ, đúng khoản mục và đúng về toánhọc.
+
+g/Trình bày và công bố: Các khoản mục được phân loại, diễn đạt và công bố phùhợp với chuẩn mực và chế độ kế toán hiện hành (hoặc được chấp nhận).
+
+15. Bằng chứng kiểm toán phải đượcthu thập cho từng cơ sở dẫn liệu của báo cáo tài chính. Bằng chứng liên quanđến một cơ sở dẫn liệu (như sự hiện hữu của hàng tồn kho) không thể bù đắp choviệc thiếu bằng chứng liên quan đến cơ sở dẫn liệu khác (như giá trị của hàngtồn kho đó). Nội dung, lịch trình và phạm vi của các thử nghiệm cơ bản đượcthay đổi tuỳ thuộc vào từng cơ sở dẫn liệu. Các thử nghiệm có thể cung cấp bằngchứng kiểm toán cho nhiều cơ sở dẫn liệu cùng một lúc (như việc thu hồi cáckhoản phải thu có thể cung cấp bằng chứng cho sự hiện hữu và giá trị của cáckhoản phải thu đó).
+
+16. Độ tin cậy của bằng chứngkiểm toán phụ thuộc vào nguồn gốc (ở bên trong hay ở bên ngoài); hình thức(hình ảnh, tài liệu, hoặc lời nói) và từng trường hợp cụ thể. Việc đánh giá độtin cậy của bằng chứng kiểm toán dựa trên các nguyên tắc sau đây:
+
+. Bằng chứngcó nguồn gốc từ bên ngoài đơn vị đáng tin cậy hơn bằng chứng có nguồn gốc từbên trong;
+
+. Bằngchứng có nguồn gốc từ bên trong đơn vị có độ tin cậy cao hơn khi hệ thống kếtoán và hệ thống kiểm soát nội bộ hoạt động có hiệu quả;
+
+. Bằngchứng do kiểm toán viên tự thu thập có độ tin cậy cao hơn bằng chứng do đơn vịcung cấp;
+
+. Bằngchứng dưới dạng văn bản, hình ảnh đáng tin cậy hơn bằng chứng ghi lại lời nói.
+
+17. Bằng chứng kiểm toán có sứcthuyết phục cao hơn khi có được thông tin từ nhiều nguồn và nhiều loại khácnhau cùng xác nhận. Trường hợp này kiểm toán viên có thể có được độ tin cậy caohơn đối với bằng chứng kiểm toán so với trường hợp thông tin có được từ nhữngbằng chứng riêng rẽ. Ngược lại, trường hợp bằng chứng có từ nguồn này mâu thuẫnvới bằng chứng có từ nguồn khác, thì kiểm toán viên phải xác định những thủ tụckiểm tra bổ sung cần thiết để giải quyết mâu thuẫn trên.
+
+18. Trong quá trình kiểm toán,kiểm toán viên phải xem xét mối quan hệ giữa chi phí cho việc thu thập bằngchứng kiểm toán với lợi ích của các thông tin đó. Khó khăn và chí phí phát sinhđể thu thập bằng chứng không phải là lý do để bỏ qua một số thủ tục kiểm toáncần thiết.
+
+19. Khi có nghi ngờ liên quanđến cơ sở dẫn liệu có thể ảnh hưởng trọng yếu đến báo cáo tài chính, kiểm toánviên phải thu thập thêm bằng chứng kiểm toán để loại trừ sự nghi ngờ đó. Nếukhông thể thu thập đầy đủ bằng chứng thích hợp, kiểm toán viên sẽ phải đưa ra ýkiến chấp nhận từng phần, hoặc ý kiến không thể đưa ra ý kiến.
+
+Phương pháp thu thập bằng chứngkiểm toán
+
+20. Kiểm toán viên thu thậpbằng chứng kiểm toán bằng các phương pháp sau: kiểm tra, quan sát, điều tra,xác nhận, tính toán và quy trình phân tích. Việc thực hiện các phương pháp nàymột phần tuỳ thuộc vào thời gian thu thập được bằng chứng kiểm toán.
+
+21. Kiểm tra: Là việcsoát xét chứng từ, sổ kế toán, báo cáo tài chính và các tài liệu có liên quanhoặc việc kiểm tra các tài sản hữu hình. Việc kiểm tra nói trên cung cấp bằngchứng có độ tin cậy cao hay thấp tuỳ thuộc vào nội dung, nguồn gốc của các bằngchứng và tuỳ thuộc vào hiệu quả của hệ thống kiểm soát nội bộ đối với quy trìnhxử lý tài liệu đó. Bốn nhóm tài liệu chủ yếu sau đây cung cấp cho kiểm toánviên các bằng chứng với độ tin cậy khác nhau:
+
+. Tàiliệu do bên thứ ba lập và lưu giữ;
+
+. Tàiliệu do bên thứ ba lập và đơn vị được kiểm toán lưu giữ;
+
+. Tàiliệu do đơn vị được kiểm toán lập và bên thứ ba lưu giữ;
+
+. Tàiliệu do đơn vị được kiểm toán lập và lưu giữ.
+
+Việc kiểm tra tài sản hữu hìnhcung cấp bằng chứng tin cậy về tính hiện hữu của tài sản, nhưng không hẳn làbằng chứng đủ tin cậy về quyền sở hữu và giá trị của tài sản đó.
+
+22. Quan sát: Là việctheo dõi một hiện tượng, một chu trình hoặc một thủ tục do người khác thực hiện(Ví dụ: Kiểm toán viên quan sát việc kiểm kê thực tế hoặc quan sát các thủ tụckiểm soát do đơn vị tiến hành...).
+
+23. Điều tra: Là việctìm kiếm thông tin từ những người có hiểu biết ở bên trong hoặc bên ngoài đơnvị. Điều tra được thực hiện bằng việc chính thức gửi văn bản, phỏng vấn hoặctrao đổi kết quả điều tra, sẽ cung cấp cho kiểm toán viên những thông tin chưacó, hoặc những thông tin bổ sung để củng cố các bằng chứng đã có.
+
+24. Xác nhận: Là sự trảlời cho một yêu cầu cung cấp thông tin nhằm xác minh lại những thông tin đã cótrong các tài liệu kế toán (Ví dụ: Kiểm toán viên yêu cầu đơn vị gửi thư chokhách hàng xác nhận trực tiếp đối với số dư các khoản phải thu của kháchhàng...).
+
+25. Tính toán: Là việckiểm tra tính chính xác về mặt toán học của số liệu trên chứng từ, sổ kế toán,báo cáo tài chính và các tài liệu liên quan khác hay việc thực hiện các tínhtoán độc lập của kiểm toán viên.
+
+26. Quy trình phân tích:Là việc phân tích các số liệu, thông tin, các tỷ suất quan trọng, qua đó tìm ranhững xu hướng, biến động và tìm ra những mối quan hệ có mâu thuẫn với cácthông tin liên quan khác hoặc có sự chênh lệch lớn so với giá trị đã dự kiến./.
+
+
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁNVIỆT NAM
+
+CHUẨN MỰC SỐ 510 KIỂMTOÁN NĂM ĐẦU TIÊN - SỐ DƯ ĐẦU NĂM TÀI CHÍNH
+
+(Ban hành theo Quyết định số 219/2000/QĐ-BTC
+
+ngày 29 tháng 12 năm2000 của Bộ trưởng Bộ Tài chính)
+
+QUI ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà quy định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản liên quan đến số dư đầu năm tài chính khi kiểm toánbáo cáo tài chính năm đầu tiên. Chuẩn mực này cũng yêu cầu kiểm toán viên nắm đượcnhững sự kiện không chắc chắn hay những cam kết hiện hữu ở thời điểm đầu nămtài chính trong trường hợp kiểm toán báo cáo tài chính năm đầu tiên.
+
+02. Khi thực hiện kiểm toán báocáo tài chính năm đầu tiên, kiểm toán viên phải thu thập đầy đủ bằng chứng kiểmtoán thích hợp nhằm bảo đảm:
+
+a. Số dư đầu năm không có saisót làm ảnh hưởng trọng yếu tới báo cáo tài chính năm nay;
+
+b. Số dư cuối năm của năm tàichính trước được kết chuyển chính xác, hoặc được phân loại lại một cách phù hợptrong trường hợp cần thiết;
+
+c. Chế độ kế toán đã được ápdụng nhất quán hoặc các thay đổi về chế độ kế toán đã được điều chỉnh trong báocáo tài chính và trình bày đầy đủ trong phần thuyết minh báo cáo tài chính.
+
+03. Chuẩn mực này áp dụng chokiểm toán báo cáo tài chính năm đầu tiên và được vận dụng cho kiểm toán năm đầutiên các thông tin tài chính khác.
+
+Kiểm toán viên và công ty kiểmtoán phải tuân thủ những quy định của chuẩn mực này trong quá trình kiểm toánbáo cáo tài chính năm đầu tiên.
+
+Đơn vị được kiểm toán (kháchhàng) và các bên sử dụng kết quả kiểm toán phải có những hiểu biết cần thiết vềcác quy định trong chuẩn mực này để phối hợp công việc với công ty kiểm toán vàkiểm toán viên cũng như khi xử lý các quan hệ liên quan đến báo cáo tài chínhnăm đầu tiên được kiểm toán.
+
+Các thuật ngữ trong chuẩn mựcnày được hiểu như sau:
+
+04. Số dư đầu năm: Là số dưtrên tài khoản kế toán vào thời điểm đầu năm tài chính. Số dư đầu năm được lậpdựa trên cơ sở số dư cuối năm tài chính trước.
+
+Số dư đầu năm chịu ảnh hưởngcủa:
+
+a) Các sự kiện và nghiệp vụkinh tế trong các năm trước;
+
+b) Chế độ kế toán đã áp dụngtrong năm trước.
+
+05. Năm đầu tiên: Là năm đượckiểm toán mà Báo cáo tài chính năm trước đó:
+
+- Chưa được kiểm toán; hoặc
+
+- Được công ty kiểm toán kháckiểm toán.
+
+Nội dung chuẩn mực
+
+Các thủ tục kiểm toán
+
+06. Mức độ đầy đủ và tính thíchhợp của bằng chứng kiểm toán về số dư đầu năm phải thu thập phụ thuộc vào:
+
+- Chế độ kế toán mà đơn vị ápdụng;
+
+- Báo cáo tài chính năm trướcđã được kiểm toán hoặc chưa được kiểm toán và nội dung của báo cáo kiểm toánnăm trước (nếu đã kiểm toán);
+
+- Nội dung, tính chất của cáctài khoản và các rủi ro có sai sót trọng yếu ảnh hưởng đến báo cáo tài chínhnăm nay;
+
+- Tính trọng yếu của các số dưđầu năm liên quan đến báo cáo tài chính năm nay.
+
+07. Kiểm toán viên phải xem xétcác số dư đầu năm đã được phản ánh theo chế độ kế toán được áp dụng trong nămtrước và được áp dụng nhất quán trong năm nay. Nếu có thay đổi chế độ kế toánthì kiểm toán viên phải xem xét những thay đổi đó cũng như việc thực hiện vàtrình bày trong báo cáo tài chính năm nay.
+
+08. Khi báo cáo tài chính nămtrước được công ty kiểm toán khác kiểm toán thì kiểm toán viên năm nay có thểthu thập bằng chứng kiểm toán về số dư đầu năm bằng cách xem xét hồ sơ kiểmtoán của kiểm toán viên năm trước. Trong trường hợp này, kiểm toán viên năm naycần lưu ý đến năng lực chuyên môn và tính độc lập của kiểm toán viên năm trước.Nếu báo cáo kiểm toán của kiểm toán viên năm trước không chấp nhận toàn phầnthì kiểm toán viên năm nay phải lưu ý đến những nguyên nhân không chấp nhậntoàn phần của ý kiến kiểm toán năm trước.
+
+09. Khi báo cáo tài chính nămtrước chưa được kiểm toán hoặc đã được kiểm toán nhưng kiểm toán viên năm naykhông thoả mãn sau khi đã thực hiện các thủ tục quy định trong đoạn 08, màkhông thu thập được đầy đủ bằng chứng kiểm toán thích hợp, thì kiểm toán viênphải thực hiện các thủ tục kiểm toán quy định trong đoạn 10 và đoạn 11.
+
+10. Đối với số dư đầu năm về nợngắn hạn và tài sản lưu động, kiểm toán viên có thể thu thập được bằng chứngkiểm toán khi thực hiện thủ tục kiểm toán năm nay.
+
++ Ví dụ 1: "Khixem xét việc thanh toán các khoản phải thu, phải trả trong năm nay, kiểm toánviên sẽ thu thập được bằng chứng kiểm toán về số dư các khoản phải thu, phảitrả đầu năm".
+
++ Vídụ 2: "Đối với hàng tồn kho đầu năm, kiểm toán viên phảithực hiện các thủ tục kiểm toán bổ sung bằng cách giám sát kiểm kê thực tếtrong năm hoặc cuối năm nay, đối chiếu số lượng, giá trị nhập, xuất từ đầu nămđến thời điểm kiểm kê thực tế và tính ra hàng tồn kho đầu năm".
+
++ Ví dụ 3: "Đốivới số dư tiền gửi ngân hàng, các khoản phải thu, phải trả cũng có thể thựchiện thủ tục xác nhận số dư đầu năm của người thứ ba".
+
+Sự kết hợp các thủ tục kiểmtoán này sẽ cung cấp cho kiểm toán viên đầy đủ bằng chứng kiểm toán thích hợp.
+
+11. Đối với tài sản cố định,các khoản đầu tư và nợ dài hạn, kiểm toán viên phải kiểm tra các chứng từ chứngminh cho số dư đầu năm. Trong một số trường hợp nhất định, đối với các khoảnđầu tư và nợ dài hạn, kiểm toán viên có thể lấy xác nhận về số dư đầu năm từbên thứ ba hoặc thực hiện các thủ tục kiểm toán bổ sung.
+
+Kết luận và lập báo cáo kiểmtoán
+
+12. Sau khi tiến hành các thủtục kiểm toán nêu trên, nếu kiểm toán viên vẫn không thể thu thập đầy đủ bằngchứng kiểm toán thích hợp về số dư đầu năm, thì báo cáo kiểm toán báo cáo tàichính năm đầu tiên sẽ được lập theo một trong các loại sau:
+
+a. Báo cáo kiểm toán loại "ý kiến chấp nhận từng phần" (hoặc "ý kiếnngoại trừ")
+
+Ví dụ 1:
+
+"...Chúng tôi đã khôngthể giám sát kiểm kê thực tế hàng tồn kho vào ngày 31/12/X1, vì tại thời điểmđó, chúng tôi không được bổ nhiệm làm kiểm toán. Các thủ tục kiểm toán bổ sungcũng không cho phép chúng tôi kiểm tra được tính đúng đắn của số lượng hàng tồnkho tại thời điểm trên.
+
+Theo ý kiến chúng tôi, ngoạitrừ những ảnh hưởng (nếu có) đến báo cáo tài chính vì lý do nêu trên, báo cáotài chính đã phản ánh trung thực và hợp lý trên các khía cạnh trọng yếu tìnhhình tài chính của công ty tại thời điểm 31/12/X2 cũng như kết quả kinh doanhvà các luồng lưu chuyển tiền tệ trong năm tài chính kết thúc tại ngày 31/12/X2,phù hợp với chuẩn mực và chế độ kế toán Việt Nam hiện hành và các quy định pháplý có liên quan".
+
+b. Báo cáo kiểm toán loại "ý kiến từ chối" (hoặc "ý kiến không thểđưa ra ý kiến")
+
+Ví dụ 2:
+
+"...Chúng tôi đã khôngthể giám sát kiểm kê thực tế hàng tồn kho tại ngày 31/12/X1, vì tại thời điểmđó chúng tôi không được bổ nhiệm làm kiểm toán. Do những hạn chế từ phía đơn vịmà chúng tôi không thể kiểm tra được hàng tồn kho đầu năm với giá trị XX VNĐcũng như không nhận được các bản xác nhận nợ phải thu đầu năm với giá trị XYVNĐ trên Bảng cân đối kế toán tại ngày 31/12/X1. Theo ý kiến của chúng tôi vìtính trọng yếu của các sự kiện này, chúng tôi từ chối đưa ra ý kiến (hoặc khôngthể đưa ra ý kiến) của mình về báo cáo tài chính kết thúc tại ngày 31/12/X2 củađơn vị".
+
+13. Trường hợp số dư đầu năm cónhiều sai sót ảnh hưởng trọng yếu đến báo cáo tài chính năm nay thì kiểm toánviên phải thông báo cho Giám đốc (hoặc người đứng đầu) đơn vị và sau khi đượcsự đồng ý của Giám đốc, thông báo cho kiểm toán viên năm trước (nếu có).
+
+Trường hợp số dư đầu năm cónhững sai sót ảnh hưởng trọng yếu đến Báo cáo tài chính năm nay như nói trên,nhưng đơn vị được kiểm toán không xử lý và không trình bày trong thuyết minhbáo cáo tài chính thì kiểm toán viên đưa ra "ý kiến chấp nhận từngphần" hoặc "ý kiến không chấp nhận".
+
+14. Trường hợp chế độ kế toáncủa năm nay thay đổi so với chế độ kế toán năm trước và sự thay đổi đó đơn vị đượckiểm toán không xử lý và không trình bày đầy đủ trong thuyết minh Báo cáo tàichính thì kiểm toán viên đưa ra "ý kiến chấp nhận từng phần" hoặc"ý kiến không chấp nhận".
+
+15. Trường hợp báo cáo kiểmtoán năm trước không đưa ra "ý kiến chấp nhận toàn phần", thì kiểmtoán viên phải xem xét lý do dẫn đến ý kiến đó và ảnh hưởng của nó đến báo cáotài chính năm nay. Ví dụ, do giới hạn phạm vi kiểm toán hoặc không có khả năngxác định số dư hàng tồn kho đầu năm nhưng điều đó không ảnh hưởng trọng yếu đếnbáo cáo tài chính năm nay thì kiểm toán viên có thể đưa ra ý kiến chấp nhậntoàn phần. Nếu lý do không được chấp nhận toàn phần trong báo cáo kiểm toán nămtrước vẫn còn và ảnh hưởng trọng yếu đến báo cáo tài chính năm nay thì kiểmtoán viên phải đưa ra ý kiến phù hợp trong báo cáo kiểm toán năm nay./.
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁNVIỆT NAM
+
+Chuẩn mực số 520 quytrình phân tích
+
+(Ban hành theo Quyếtđịnh số 219/2000/QĐ-BTC
+
+ngày 29 tháng 12 năm2000 của Bộ trưởng Bộ Tài chính)
+
+QUI ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà quy định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản liên quan đến quy trình (thủ tục) phân tích trongquá trình kiểm toán báo cáo tài chính.
+
+02. Kiểm toán viên phải thựchiện quy trình phân tích khi lập kế hoạch kiểm toán và giai đoạn soát xét tổngthể về cuộc kiểm toán.
+
+Quy trình phân tích cũng đượcthực hiện ở các giai đoạn khác trong quá trình kiểm toán.
+
+03. Chuẩn mực này áp dụng chokiểm toán báo cáo tài chính và cũng được vận dụng cho kiểm toán thông tin tàichính khác và các dịch vụ có liên quan của Công ty kiểm toán.
+
+Kiểm toán viên và Công ty kiểmtoán phải tuân thủ những quy định của chuẩn mực này trong quá trình thực hiệnkiểm toán và cung cấp dịch vụ liên quan.
+
+Đơn vị được kiểm toán (kháchhàng) phải có những hiểu biết cần thiết về chuẩn mực này để phối hợp với kiểmtoán viên trong việc cung cấp các thông tin và tài liệu cần thiết liên quan đếncuộc kiểm toán.
+
+Các thuật ngữ trong chuẩn mựcnày được hiểu như sau:
+
+04. Quy trình phân tích: Làviệc phân tích các số liệu, thông tin, các tỷ suất quan trọng, qua đó tìm ranhững xu hướng, biến động và tìm ra những mối quan hệ có mâu thuẫn với cácthông tin liên quan khác hoặc có sự chênh lệch lớn so với giá trị đã dự kiến.
+
+Nội dung chuẩn mực
+
+Nội dung và mục đích củaquy trình phân tích
+
+05. Quy trình phân tích bao gồmviệc so sánh các thông tin tài chính, như:
+
+- So sánh thông tin tương ứngtrong kỳ này với các kỳ trước;
+
+- So sánh giữa thực tế với kếhoạch của đơn vị (Ví dụ: Kế hoạch sản xuất, kế hoạch bán hàng ...);
+
+- So sánh giữa thực tế với ướctính của kiểm toán viên (Ví dụ: Chi phí khấu hao ước tính...);
+
+- So sánh giữa thực tế của đơnvị với các đơn vị trong cùng ngành có cùng quy mô hoạt động, hoặc với số liệuthống kê, định mức cùng ngành (Ví dụ: Tỷ suất đầu tư, tỷ lệ lãi gộp...).
+
+06. Quy trình phân tích cũngbao gồm việc xem xét các mối quan hệ:
+
+- Giữa các thông tin tài chínhvới nhau (Ví dụ: Mối quan hệ giữa lãi gộp với doanh thu...);
+
+- Giữa các thông tin tài chínhvới các thông tin phi tài chính (Ví dụ: Mối quan hệ giữa chi phí nhân công vớisố lượng nhân viên...).
+
+07. Trong quá trình thực hiệnquy trình phân tích, kiểm toán viên được phép sử dụng nhiều phương pháp khácnhau từ việc so sánh đơn giản đến những phân tích phức tạp đòi hỏi phải sử dụngcác kỹ thuật thống kê tiên tiến. Quy trình phân tích cũng được áp dụng đối vớibáo cáo tài chính hợp nhất, báo cáo tài chính của đơn vị thành viên hoặc từngthông tin riêng lẻ của các báo cáo tài chính.
+
+Việc lựa chọn quy trình phântích, phương pháp và mức độ áp dụng tuỳ thuộc vào sự xét đoán chuyên môn củakiểm toán viên.
+
+08. Quy trình phân tích được sửdụng cho các mục đích sau:
+
+- Giúp kiểm toán viên xác địnhnội dung, lịch trình và phạm vi của các thủ tục kiểm toán khác;
+
+- Quy trình phân tích được thựchiện như là một thử nghiệm cơ bản khi việc sử dụng thủ tục này có hiệu quả hơnso với kiểm tra chi tiết trong việc giảm bớt rủi ro phát hiện liên quan đến cơsở dẫn liệu của báo cáo tài chính;
+
+- Quy trình phân tích để kiểmtra toàn bộ báo cáo tài chính trong khâu soát xét cuối cùng của cuộc kiểm toán.
+
+Quy trình phân tích áp dụng khilập kế hoạch kiểm toán
+
+09. Kiểm toán viên phải áp dụngquy trình phân tích trong quá trình lập kế hoạch kiểm toán để tìm hiểu tìnhhình kinh doanh của đơn vị và xác định những vùng có thể có rủi ro.
+
+Quy trình phân tích giúp kiểmtoán viên xác định nội dung, lịch trình và phạm vi của các thủ tục kiểm toánkhác.
+
+10. Quy trình phân tích áp dụngtrong quá trình lập kế hoạch kiểm toán được dựa trên các thông tin tài chính vàthông tin phi tài chính (Ví dụ: Mối quan hệ giữa doanh thu với số lượng hàngbán hoặc số lượng sản phẩm sản xuất với công suất máy móc, thiết bị...).
+
+Quy trình phân tíchtrong thử nghiệm cơ bản
+
+11. Trong quá trình kiểm toán,nhằm giảm bớt rủi ro phát hiện liên quan đến cơ sở dẫn liệu của báo cáo tàichính, kiểm toán viên phải thực hiện quy trình phân tích hoặc kiểm tra chi tiếthoặc kết hợp cả hai. Nhằm xác định thủ tục kiểm toán thích hợp cho một mục tiêukiểm toán cụ thể, kiểm toán viên phải xét đoán hiệu quả của từng thủ tục kiểmtoán.
+
+12. Kiểm toán viên phải thảoluận với Giám đốc, kế toán trưởng hoặc người đại diện của đơn vị được kiểm toánvề khả năng cung cấp thông tin và độ tin cậy của các thông tin cần thiết choviệc áp dụng quy trình phân tích, kể cả kết quả phân tích mà đơn vị đã thựchiện. Kiểm toán viên được phép sử dụng các dữ liệu phân tích của đơn vị nếu tintưởng vào các dữ liệu này.
+
+13. Khi áp dụng quy trình phântích, kiểm toán viên phải xem xét các yếu tố sau:
+
+- Mục tiêu của phân tích và độtin cậy của kết quả thu được;
+
+- Đặc điểm của đơn vị và mức độchi tiết hoá thông tin (Ví dụ: Quy trình phân tích áp dụng đối với thông tintài chính của từng đơn vị thành viên sẽ hiệu quả hơn là chỉ áp dụng đối vớithông tin tổng hợp của các đơn vị...);
+
+- Khả năng sẵn có của các thôngtin tài chính và phi tài chính;
+
+- Độ tin cậy của các thông tin(Ví dụ: Sự đúng đắn của các kế hoạch hoặc dự toán ...);
+
+- Tính thích đáng của các thôngtin (Ví dụ: Kế hoạch được thiết lập có tính khả thi hơn là kế hoạch chỉ là cácmục đích phải đạt được);
+
+- Nguồn gốc thông tin (Ví dụ:Thông tin từ bên ngoài thường có độ tin cậy cao hơn thông tin do đơn vị cungcấp...);
+
+- Khả năng so sánh của thôngtin (Ví dụ: Thông tin do đơn vị cung cấp có thể so sánh với thông tin của đơnvị khác trong cùng ngành...);
+
+- Những hiểu biết có được từcuộc kiểm toán các kỳ trước cùng với hiểu biết về tính hiệu quả của hệ thống kếtoán và hệ thống kiểm soát nội bộ và các vấn đề nảy sinh đã dẫn đến các búttoán điều chỉnh trong những kỳ trước.
+
+Quy trình phân tích áp dụngtrong giai đoạn soát xét tổng thể cuộc kiểm toán
+
+14. Trong giai đoạn soát xéttổng thể cuộc kiểm toán, kiểm toán viên phải áp dụng quy trình phân tích để cókết luận tổng quát về sự phù hợp trên các khía cạnh trọng yếu của báo cáo tàichính với những hiểu biết của mình về tình hình kinh doanh của đơn vị. Quytrình phân tích giúp kiểm toán viên khẳng định lại những kết luận có được trongsuốt quá trình kiểm tra các tài khoản hoặc các khoản mục trên báo cáo tàichính. Trên cơ sở đó giúp kiểm toán viên đưa ra kết luận tổng quát về tínhtrung thực, hợp lý của toàn bộ báo cáo tài chính. Tuy nhiên, quy trình phântích cũng chỉ ra những điểm yêu cầu kiểm toán viên phải thực hiện công việckiểm toán bổ sung.
+
+Mức độ tin cậy của quy trìnhphân tích
+
+15. Quy trình phân tích được ápdụng cho các thông tin có thực và có mối quan hệ lẫn nhau. Kết quả phân tíchcác mối liên hệ cung cấp cho kiểm toán viên các bằng chứng kiểm toán về sự đầyđủ, tính chính xác, tính hợp lý về các dữ liệu do hệ thống kế toán lập ra. Độtin cậy của quy trình phân tích phụ thuộc vào sự đánh giá của kiểm toán viên vềrủi ro mà quy trình phân tích không phát hiện được (Ví dụ: Kết quả phân tíchkhông thể hiện sự biến động hay chênh lệch lớn nhưng trong thực tế vẫn có saisót trọng yếu...).
+
+16. Mức độ tin cậy vào kết quảcủa quy trình phân tích phụ thuộc vào các nhân tố sau:
+
+- Tính trọng yếu của các tàikhoản hoặc loại nghiệp vụ (Ví dụ: Hàng tồn kho là trọng yếu thì không chỉ dừnglại ở quy trình phân tích mà còn thực hiện một số thủ tục kiểm tra chi tiếtkhác trước khi kết luận. Ngược lại khoản mục nợ phải thu được coi là khôngtrọng yếu thì có thể chỉ căn cứ vào kết quả phân tích để kết luận...);
+
+- Các thủ tục kiểm toán khác cócùng một mục tiêu kiểm toán (Ví dụ: Thủ tục kiểm tra nghiệp vụ thu tiền saungày khoá sổ của các khoản phải thu sẽ khẳng định hoặc phủ nhận kết quả của quytrình phân tích nợ phải thu theo thời hạn, ...);
+
+- Độ chính xác có thể dự kiếncủa quy trình phân tích (Ví dụ: Kiểm toán viên thường so sánh, phân tích tỷ lệlãi gộp giữa năm nay với năm trước hơn là so sánh các chi phí bất thường giữanăm trước với năm nay...);
+
+- Đánh giá rủi ro tiềm tàng vàrủi ro kiểm soát (Ví dụ: Nếu việc kiểm soát nội bộ của bộ phận bán hàng là yếukém thì nên dựa vào kiểm tra chi tiết hơn là dựa vào quy trình phân tích...).
+
+17. Kiểm toán viên phải kiểmtra lại các thủ tục kiểm soát để tạo ra các thông tin sử dụng trong quytrình phân tích. Trường hợp thủ tục kiểm soát có hiệu quả thì kiểm toán viên sẽtin tưởng hơn vào độ tin cậy của các thông tin và kết quả phân tích cũng tincậy hơn. Kiểm toán viên phải kiểm tra đồng thời các thủ tục kiểm soát của kếtoán với thủ tục kiểm soát thông tin phi tài chính (Ví dụ: Trường hợp đơn vịkiểm soát việc lập hoá đơn bán hàng đồng thời với kiểm soát số lượng bán hàngthì kiểm toán viên cũng kiểm tra đồng thời thủ tục kiểm soát hoá đơn bán hàngvà kiểm soát số lượng hàng bán).
+
+Điều tra các yếu tố bất thường
+
+18. Trường hợp quy trình phântích phát hiện được những chênh lệch trọng yếu hoặc mối liên hệ không hợp lýgiữa các thông tin tương ứng, hoặc có chênh lệch lớn với số liệu dự tính, kiểmtoán viên phải thực hiện các thủ tục điều tra để thu thập đầy đủ bằng chứngkiểm toán thích hợp.
+
+19. Điều tra các khoản chênhlệch trọng yếu hay mối liên hệ không hợp lý thường bắt đầu bằng việc yêu cầuGiám đốc (hoặc người đứng đầu ) đơn vị được kiểm toán cung cấp thông tin, tiếptheo là thực hiện các thủ tục:
+
+- Kiểm tra lại những câu trảlời của Giám đốc (hoặc người đứng đầu) bằng cách đối chiếu với những bằng chứngkiểm toán khác đã thu được trong quá trình kiểm toán;
+
+- Xem xét, thực hiện các thủtục kiểm toán khác nếu Giám đốc (hoặc người đứng đầu) vẫn không thể giải thíchđược, hoặc giải thích không thoả đáng./.
+
+
+
+HỆ THỐNG
+
+CHUẨN MỰC KIỂM TOÁN VIỆT NAM
+
+Chuẩn mực số 580 giảitrình của Giám đốc
+
+(Ban hành theo Quyếtđịnh số 219/2000/QĐ-BTC
+
+ngày 29 tháng 12 năm2000 của Bộ trưởng Bộ Tài chính)
+
+QUI ĐỊNH CHUNG
+
+01. Mục đích của chuẩn mực nàylà qui định các nguyên tắc, thủ tục cơ bản và hướng dẫn thể thức áp dụng cácnguyên tắc, thủ tục cơ bản trong việc thu thập và sử dụng các giải trình củaGiám đốc (hoặc người đứng đầu) đơn vị được kiểm toán như những bằng chứng kiểmtoán, các thủ tục được áp dụng để đánh giá và lưu trữ các giải trình của Giámđốc (hoặc người đứng đầu) đơn vị, các biện pháp xử lý khi Giám đốc (hoặc ngườiđứng đầu) đơn vị từ chối cung cấp các giải trình thích hợp trong quá trình kiểmtoán báo cáo tài chính.
+
+02. Kiểm toán viên phải thuthập được các giải trình của Giám đốc (hoặc người đứng đầu) đơn vị được kiểmtoán.
+
+03. Chuẩn mực này áp dụng chokiểm toán báo cáo tài chính và cũng được vận dụng cho kiểm toán thông tin tàichính khác và các dịch vụ liên quan của công ty kiểm toán.
+
+Kiểm toán viên và công ty kiểmtoán phải tuân thủ các qui định của chuẩn mực này trong quá trình kiểm toán báocáo tài chính.
+
+Đơn vị được kiểm toán (kháchhàng) và các bên sử dụng kết quả kiểm toán phải có những hiểu biết cần thiết vềchuẩn mực này để phối hợp công việc với kiểm toán viên và công ty kiểm toáncũng như xử lý các mối quan hệ trong kiểm toán.
+
+Các thuật ngữ trong chuẩn mựcnày được hiểu như sau:
+
+04. Giám đốc (hoặcngười đứng đầu): Là người đại diện theo pháp luật cao nhất của doanhnghiệp, tổ chức như: Giám đốc, Tổng Giám đốc, Chủ sở hữu, Thủ trưởng đơn vị.Trong một số trường hợp người đứng đầu là Chủ tịch Hội đồng quản trị hoặc Chủtịch Hội đồng quản lý (dưới đây gọi chung là Giám đốc).
+
+NỘI DUNG CHUẨN MỰC
+
+Sự thừa nhận của Giám đốc đơnvị được kiểm toán về trách nhiệm đối với báo cáo tài chính
+
+05. Kiểm toán viên phải thuthập bằng chứng về việc Giám đốc đơn vị được kiểm toán thừa nhận trách nhiệmcủa mình trong việc lập và trình bày báo cáo tài chính trung thực, hợp lý, phùhợp với chuẩn mực và chế độ kế toán hiện hành (hoặc được chấp nhận) và đã phêduyệt báo cáo tài chính. Kiểm toán viên thu thập bằng chứng nói trên trong cácbiên bản họp Hội đồng quản trị (hoặc Ban Giám đốc) liên quan đến vấn đề này,hoặc bằng cách yêu cầu Giám đốc cung cấp "Bản giải trình", bản"Báo cáo của Giám đốc" hoặc "Báo cáo tài chính" đã đượcGiám đốc ký duyệt.
+
+Sử dụng các giải trình của Giámđốc như là bằng chứng kiểm toán
+
+06. Trường hợp không có đầy đủbằng chứng kiểm toán thích hợp, kiểm toán viên phải thu thập các giải trìnhbằng văn bản của Giám đốc đơn vị được kiểm toán về những vấn đề xét thấy có ảnhhưởng trọng yếu đến báo cáo tài chính. Để hạn chế sự hiểu lầm giữa kiểm toánviên và Giám đốc đơn vị, các giải trình bằng lời phải được Giám đốc xác nhậnlại bằng văn bản. Phụ lục số 01 đưa ra ví dụ về những vấn đề được thể hiệntrong bản giải trình của Giám đốc hoặc trong văn bản của kiểm toán viên yêu cầuGiám đốc xác nhận.
+
+07. Các vấn đề yêu cầu Giám đốcgiải trình bằng văn bản được giới hạn trong những vấn đề riêng lẻ, hoặc tổnghợp có ảnh hưởng trọng yếu đến báo cáo tài chính. Đối với những vấn đề xét thấycần thiết, kiểm toán viên phải thông báo với Giám đốc biết rõ ý kiến của mìnhvề tính trọng yếu của vấn đề cần phải giải trình.
+
+08. Trong quá trình kiểm toán,Giám đốc (hoặc người đứng đầu) đơn vị được kiểm toán gửi các bản giải trình tớikiểm toán viên và công ty kiểm toán một cách tự nguyện hoặc do yêu cầu cụ thểcủa kiểm toán viên. Khi những giải trình này có liên quan đến những vấn đề cóảnh hưởng trọng yếu đến báo cáo tài chính, kiểm toán viên phải làm các côngviệc sau:
+
+- Thu thập bằng chứng kiểm toántừ các thông tin ở trong đơn vị hay ngoài đơn vị để xác minh các giải trình củaGiám đốc;
+
+- Đánh giá sự hợp lý và nhấtquán giữa bản giải trình của Giám đốc với các bằng chứng kiểm toán khác đã thuthập được;
+
+- Xác định mức độ hiểu biết cácvấn đề đã được giải trình của người lập giải trình.
+
+09. Giải trình của Giám đốckhông thể thay thế các bằng chứng kiểm toán mà kiểm toán viên thu thập được.(Ví dụ: Giải trình của Giám đốc về nguyên giá một TSCĐ không thể thay thế chobằng chứng kiểm toán về nguyên giá TSCĐ đó như hoá đơn của người bán hay báocáo quyết toán dự án hoàn thành được duyệt). Việc kiểm toán viên không thu thậpđầy đủ bằng chứng kiểm toán thích hợp về một vấn đề ảnh hưởng trọng yếu đến báocáo tài chính, trong khi có thể thu thập được các bằng chứng đó sẽ dẫn đến sựgiới hạn về phạm vi kiểm toán mặc dù vấn đề đó đã được Giám đốc giải trình.
+
+10. Trong một số trường hợp, giảitrình của Giám đốc là bằng chứng kiểm toán duy nhất thu thập được (Ví dụ: Kiểmtoán viên không phải thu thập các bằng chứng khác để chứng minh cho chủ trươngcủa Giám đốc thực hiện một khoản đầu tư dài hạn nào đó...).
+
+11. Kiểm toán viên phải tìmhiểu nguyên nhân khi giải trình của Giám đốc mâu thuẫn với bằng chứng kiểm toánkhác và khi cần thiết thì phải xác minh lại mức độ tin cậy của bằng chứng kiểmtoán và các giải trình của Giám đốc.
+
+Lưu vào hồ sơ kiểm toán cácgiải trình của Giám đốc
+
+12. Kiểm toán viên phải lưu vàohồ sơ kiểm toán các giải trình của Giám đốc dưới hình thức tóm tắt các lần traođổi bằng lời hoặc các giải trình bằng văn bản để làm bằng chứng kiểm toán.
+
+13. Các giải trình bằng văn bảnđược đánh giá là các bằng chứng kiểm toán có giá trị hơn các giải trình bằnglời nói. Các giải trình bằng văn bản được thể hiện dưới các hình thức:
+
+- Bản giải trình của Giám đốc;
+
+- Thư của kiểm toán viên liệtkê ra tất cả những hiểu biết của mình về các giải trình của Giám đốc và đượcGiám đốc xác nhận là đúng;
+
+- Biên bản họp Hội đồng quảntrị hoặc báo cáo tài chính đã được Giám đốc ký duyệt.
+
+Các yếu tố cơ bản của một bảngiải trình
+
+14. Khi yêu cầu Giám đốc đơn vịlập bản giải trình, kiểm toán viên phải đề nghị văn bản đó được gửi trực tiếpcho mình với nội dung gồm: Các thông tin phải giải trình, ngày tháng, họ tên,chữ ký của người lập hoặc xác nhận vào bản giải trình.
+
+15. Thông thường, bản giảitrình của Giám đốc được ghi ngày tháng cùng với ngày tháng ghi trên báo cáokiểm toán. Một số trường hợp yêu cầu lập bản giải trình ngay trong qúa trìnhkiểm toán hoặc sau ngày ghi trên báo cáo tài chính nhưng phải trước ngày ghitrên báo cáo kiểm toán. Trường hợp cá biệt, bản giải trình được lập và công bốsau ngày phát hành báo cáo kiểm toán (Ví dụ: Ngày phát hành cổ phiếu...).
+
+16. Bản giải trình củaGiám đốc thường do Giám đốc (hoặc người đứng đầu) đơn vị ký. Trong một số trườnghợp, kiểm toán viên được phép nhận bản giải trình từ các thành viên khác đượcGiám đốc uỷ quyền. (Ví dụ: Kiểm toán viên muốn thu thập bản xác nhận về việccung cấp đầy đủ toàn bộ biên bản họp đại hội cổ đông, biên bản họp Ban Giám đốchoặc Hội đồng quản trị từ những người có trách nhiệm giữ các biên bản này...).
+
+Các biện pháp xử lý nếu Giámđốc từ chối cung cấp giải trình
+
+17. Nếu Giám đốc từ chối cungcấp giải trình mà kiểm toán viên yêu cầu sẽ làm hạn chế phạm vi kiểm toán thìkiểm toán viên phải đưa ra "ý kiến chấp nhận từng phần" hoặc "ýkiến từ chối". Trong trường hợp này, kiểm toán viên phải đánh giá lại độtin cậy của tất cả các giải trình khác của Giám đốc trong quá trình kiểm toánvà xem xét mức độ ảnh hưởng của nó đến báo cáo tài chính./.
+
+Phụ lục số 01
+
+Ví dụ về Bản giải trìnhcủa Giám đốc
+
+Công ty ABC
+
+
+
+(Địa chỉ, điện thoại, Fax, ...)
+
+Ngày ..... tháng ...... năm ......
+
+Kính gửi: Ông/Bà.................................................................
+
+Kiểm toán viên Công ty Kiểmtoán ....................
+
+Bản giải trình này được lập ratrong phạm vi công tác kiểm toán của Ông (Bà) cho Báo cáo tài chính của công tyABC, năm tài chính kết thúc ngày 31/12/X.
+
+Chúng tôi chịu trách nhiệm lậpvà trình bày trung thực và hợp lý các báo cáo tài chính của đơn vị phù hợp vớichuẩn mực và chế độ kế toán hiện hành (hoặc được chấp nhận tại công văn số..... ngày .... tháng .... năm ....của ....).
+
+Trong phạm vi trách nhiệm và sựhiểu biết của mình, chúng tôi xác nhận các giải trình sau đây :
+
+ Chúng tôi khẳng định là báo cáo tài chính đã được lập, trình bày trungthực, hợp lý trên các khía cạnh trọng yếu và theo đúng chuẩn mực và chế độ kếtoán hiện hành (hoặc được chấp thuận) và các qui định có liên quan.
+
+ Chúng tôi đã chuyển cho Ông (Bà) xem xét tất cả sổ sách kế toán, các tàiliệu, chứng từ liên quan và tất cả các biên bản họp Đại hội cổ đông, Hội đồngquản trị, (gồm Biên bản họp ngày ... tháng ... năm... và ngày... tháng ...năm...);
+
+ Chúng tôi khẳng định là đã cung cấp toàn bộ các thông tin về các bên cóliên quan;
+
+ Công ty chúng tôi đã tuân thủ tất cả các điều khoản quan trọng của cáchợp đồng có ảnh hưởng trọng yếu đến báo cáo tài chính. Không có bất kỳ hành vikhông tuân thủ nào liên quan đến các yêu cầu của các cơ quan có thẩm quyền, cóthể có ảnh hưởng trọng yếu đến báo cáo tài chính;
+
+ Các yếu tố sau đây đã được ghi nhận một cách đúng đắn và trong trườnghợp cần thiết các thông tin thích hợp đã được nêu ra trong phần thuyết minh báocáo tài chính:
+
+a. Số dư và nghiệp vụ được thựchiện với các bên có liên quan;
+
+b. Thua lỗ từ các hợp đồng muavà bán;
+
+c. Thoả thuận và khả năng mualại các tài sản đã được chuyển nhượng trước đây;
+
+d. Các tài sản được đem đi thếchấp.
+
+ Chúng tôi không có bất kỳ một kế hoạch hay dự tính nào có thể làm sailệch đáng kể số liệu kế toán hoặc cách phân loại tài sản và khoản nợ đã đượcphản ánh trong báo cáo tài chính;
+
+ Chúng tôi không có bất kỳ một kế hoạch nào nhằm ngừng sản xuất một loạisản phẩm đang được sản xuất, cũng không có một kế hoạch hay dự tính nào có thểdẫn đến tình trạng hàng tồn kho, ứ đọng hoặc lạc hậu; và không có bất kỳ mộtkhoản hàng tồn kho nào được hạch toán với giá trị cao hơn giá trị thực hiệnthuần;
+
+ Công ty là chủ sở hữu tất cả các tài sản trên báo cáo tài chính vàkhông có bất kỳ một tài sản nào đang được cầm cố, thế chấp hoặc bị cầm giữ,ngoại trừ những tài sản được nêu trong phần thuyết minh X của báo cáo tàichính;
+
+ Tất cả các khoản nợ, cam kết vay và các khoản bảo lãnh của công ty vớibên thứ ba đã được công ty hạch toán hoặc giải trình trong phần thuyết minh X.;
+
+ Hiện tại Công ty không có bất kỳ sự kiện nào phát sinh sau ngày kếtthúc niên độ kế toán có ảnh hưởng đến báo cáo tài chính hoặc phải giải trìnhtrong phần thuyết minh;
+
+ Vụ tranh chấp với công ty XYZ đã được giải quyết với khoản tiền là XXXVNĐ, và đã được lập dự phòng trong báo cáo tài chính. Không có khiếu nại trongbất kỳ một vụ tranh chấp nào đang bị khởi tố hoặc hiện nay có thể dự đoán được;
+
+ Chúng tôi đã hạch toán hoặc đã thuyết minh đầy đủ trong báo cáo tàichính tất cả các kế hoạch về việc mua lại các cổ phiếu của chính công ty, cácnguồn vốn được dự trữ cho kế hoạch này, các khoản đảm bảo cũng như việc chuyểnđổi và các yêu cầu có liên quan khác.
+
+Giám đốc (hoặc Chủ tịch Hộiđồng quản trị)
+
+(Chữ ký, Họ và tên, đóng dấu)
+
+
+
+
+
+

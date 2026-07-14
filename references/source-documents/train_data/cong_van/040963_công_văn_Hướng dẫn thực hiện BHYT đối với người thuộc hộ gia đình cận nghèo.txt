@@ -1,0 +1,277 @@
+# Hướng dẫn thực hiện BHYT đối với người thuộc hộ gia đình cận nghèo
+# Loại: Công văn
+# Số hiệu: 660 /BHXH-CSYT
+# Ngày ban hành: 18/03/2009
+# Cơ quan: Bảo hiểm Xã hội Việt Nam
+# Người ký: Nguyễn Đình Khương
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định chế độ báo cáo của Quản lý thị trường
+
+______________
+
+
+
+Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;
+
+Căn cứ Nghị định số 10/CP ngày 23 tháng 01 năm 1995 của Chính phủ về tổ chức, nhiệm vụ, quyền hạn của Quản lý thị trường và Nghị định số 27/2008/NĐ-CP ngày 13 tháng 3 năm 2008 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 10/CP ngày 23 tháng 01 năm 1995;
+
+Theo đề nghị của Cục trưởng Cục Quản lý thị trường;
+
+Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về chế độ báo cáo của Quản lý thị trường,
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định về chế độ báo cáo của Quản lý thị trường bao gồm:
+
+1. Báo cáo định kỳ bao gồm báo cáo tuần, tháng, quý và hàng năm về tình hình hoạt động, kết quả thực hiện công tác quản lý thị trường và những biến động đáng chú ý về thị trường trong kỳ báo cáo.
+
+2. Báo cáo đột xuất hoặc báo cáo chuyên đề theo chỉ đạo của cơ quan Quản lý thị trường cấp trên đối với một số nội dung trọng tâm, trọng điểm liên quan đến tình hình hoạt động của lực lượng Quản lý thị trường trong từng thời kỳ nhất định.
+
+3. Nội dung, trình tự, thủ tục thực hiện báo cáo định kỳ, chuyên đề và đột xuất.
+
+Điều 2. Đối tượng áp dụng
+
+1. Cơ quan Quản lý thị trường các cấp.
+
+2. Công chức Quản lý thị trường được cấp có thẩm quyền giao tham gia thực hiện công tác báo cáo định kỳ, chuyên đề và đột xuất.
+
+3. Tổ chức, cá nhân khác có liên quan đến chế độ báo cáo của Quản lý thị trường.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, những từ ngữ dưới đây được hiểu như sau:
+
+1. Hệ thống báo cáo điện tử của Quản lý thị trường là hệ thống để cập nhật, truy cập, khai thác và quản lý cơ sở dữ liệu về tình hình hoạt động của lực lượng Quản lý thị trường.
+
+2. Cơ sở dữ liệu của hệ thống báo cáo điện tử của Quản lý thị trường là tập hợp các dữ liệu được biên soạn, sắp xếp có hệ thống theo một phương pháp nhất định để có thể truy cập, khai thác, quản lý và cập nhật thông qua phương tiện điện tử.
+
+3. Dữ liệu của hệ thống báo cáo điện tử của Quản lý thị trường là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự.
+
+4. Văn bản điện tử của hệ thống báo cáo điện tử của Quản lý thị trường là văn bản được thể hiện dưới dạng thông điệp dữ liệu.
+
+Chương II
+
+NỘI DUNG, TRÌNH TỰ, THỦ TỤC THỰC HIỆN BÁO CÁO
+
+Mục 1
+
+NỘI DUNG, TRÌNH TỰ, THỦ TỤC THỰC HIỆN BÁO CÁO
+
+Điều 4. Các loại báo cáo
+
+Cục Quản lý thị trường, Chi cục Quản lý thị trường, Đội Quản lý thị trường có trách nhiệm thực hiện các loại báo cáo sau:
+
+1. Báo cáo định kỳ:
+
+a) Báo cáo tuần.
+
+b) Báo cáo tháng.
+
+c) Báo cáo Quý I.
+
+d) Báo cáo 6 tháng đầu năm.
+
+đ) Báo cáo Quý III.
+
+e) Báo cáo năm.
+
+2. Báo cáo đột xuất.
+
+3. Báo cáo chuyên đề.
+
+Điều 5. Nội dung báo cáo
+
+1. Báo cáo định kỳ quy định tại các mẫu báo cáo từ Phụ lục I đến Phụ lục V.
+
+2. Báo cáo đột xuất quy định tại Phụ lục VI; được áp dụng trong trường hợp có yêu cầu của Thủ trưởng cơ quan Quản lý thị trường cấp trên hoặc có diễn biến bất thường trên thị trường hoặc có vụ việc quan trọng liên quan đến công tác quản lý thị trường thuộc phạm vi trách nhiệm của Chi cục Quản lý thị trường, Đội Quản lý thị trường.
+
+3. Báo cáo chuyên đề được áp dụng đối với những vấn đề phát sinh, nổi cộm trên thị trường hoặc các nhiệm vụ theo yêu cầu của Bộ Công Thương và Cục Quản lý thị trường. Nội dung báo cáo chuyên đề do Cục trưởng Cục Quản lý thị trường và Chi cục trưởng Quản lý thị trường quy định theo từng chuyên đề cụ thể.
+
+Điều 6. Trách nhiệm báo cáo
+
+1. Đối với Cục Quản lý thị trường:
+
+a) Báo cáo bằng văn bản theo mẫu quy định tại các phụ lục ban hành kèm theo Thông tư này gửi Bộ Công Thương, một số Bộ, ngành liên quan và Chi cục Quản lý thị trường các tỉnh, thành phố trực thuộc trung ương;
+
+b) Báo cáo bằng văn bản điện tử theo mẫu quy định tại các phụ lục ban hành kèm theo Thông tư này thông qua hệ thống báo cáo điện tử của Quản lý thị trường.
+
+2. Đối với Chi cục Quản lý thị trường:
+
+a) Báo cáo bằng văn bản theo mẫu quy định tại các phụ lục ban hành kèm theo Thông tư này gửi về Cục Quản lý thị trường;
+
+b) Báo cáo bằng văn bản điện tử theo mẫu quy định tại các phụ lục ban hành kèm theo Thông tư này thông qua hệ thống báo cáo điện tử của Quản lý thị trường.
+
+3. Đối với Đội Quản lý thị trường:
+
+a) Báo cáo bằng văn bản theo mẫu quy định tại các phụ lục ban hành kèm theo Thông tư này gửi Chi cục Quản lý thị trường;
+
+b) Báo cáo bằng văn bản điện tử theo mẫu quy tại các phụ lục ban hành kèm theo Thông tư này định thông qua hệ thống báo cáo điện tử của Quản lý thị trường;
+
+4. Mọi thông tin, nội dung báo cáo bằng văn bản điện tử phải được dùng thống nhất bộ mã tiếng Việt Unicode.
+
+Điều 7. Trình tự, thời gian thực hiện chế độ báo cáo
+
+1. Cục Quản lý thị trường tổng hợp và thực hiện chế độ báo cáo như sau:
+
+a) Báo cáo tuần phải được hoàn thành và gửi đi vào 16 giờ ngày thứ Sáu hàng tuần;
+
+b) Báo cáo tháng phải được hoàn thành và gửi đi trong ngày 28 hàng tháng;
+
+c) Báo cáo quý phải được hoàn thành và gửi đi trong ngày 28 tháng cuối quý;
+
+d) Báo cáo 6 tháng phải được hoàn thành và gửi đi trong ngày 28 tháng 6;
+
+đ) Báo cáo năm phải được hoàn thành và gửi đi trong ngày 28 tháng 12;
+
+e) Báo cáo chuyên đề, báo cáo đột xuất phải được hoàn thành đúng thời gian theo yêu cầu của cơ quan có thẩm quyền quy định.
+
+2. Chi cục Quản lý thị trường tổng hợp và thực hiện chế độ báo cáo như sau:
+
+a) Báo cáo tuần phải được hoàn thành và gửi đi trong ngày thứ Năm hàng tuần;
+
+b) Báo cáo tháng phải được hoàn thành và gửi đi trong ngày 24 hàng tháng;
+
+c) Báo cáo quý phải được hoàn thành và gửi đi trong ngày 24 tháng cuối quý;
+
+d) Báo cáo 6 tháng phải được hoàn thành và gửi đi trong ngày 24 tháng 6;
+
+đ) Báo cáo năm phải được hoàn thành và gửi đi trong ngày 24 tháng 12;
+
+e) Báo cáo chuyên đề, báo cáo đột xuất phải được hoàn thành đúng thời gian theo yêu cầu của cơ quan có thẩm quyền quy định.
+
+3. Đội Quản lý thị trường tổng hợp và thực hiện chế độ báo cáo như sau:
+
+a) Báo cáo tuần phải được hoàn thành và gửi đi trong ngày thứ Tư hàng tuần;
+
+b) Báo cáo tháng phải được hoàn thành và gửi đi trong ngày 20 hàng tháng;
+
+c) Báo cáo quý phải được hoàn thành và gửi đi trong ngày 20 tháng cuối quý;
+
+d) Báo cáo 6 tháng phải được hoàn thành và gửi đi trong ngày 20 tháng 6;
+
+đ) Báo cáo năm phải được hoàn thành và gửi đi trong ngày 20 tháng 12;
+
+e) Báo cáo chuyên đề, báo cáo đột xuất phải được hoàn thành đúng thời gian theo yêu cầu của cơ quan có thẩm quyền quy định.
+
+Mục 2
+
+HỆ THỐNG BÁO CÁO ĐIỆN TỬ
+
+Điều 8. Cơ sở dữ liệu điện tử của Quản lý thị trường
+
+1. Cơ sở dữ liệu điện tử của Quản lý thị trường được đặt trên hệ thống báo cáo điện tử của Quản lý thị trường. Cục trưởng Cục Quản lý thị trường quy định thống nhất về tiêu chuẩn kỹ thuật của hệ thống.
+
+2. Cơ sở dữ liệu điện tử của Quản lý thị trường bao gồm:
+
+a) Hệ thống dữ liệu liên quan đến hành vi vi phạm hành chính;
+
+b) Hệ thống dữ liệu liên quan đến tang vật, phương tiện vi phạm hành chính;
+
+c) Hệ thống dữ liệu liên quan đến xử phạt vi phạm hành chính;
+
+d) Hệ thống dữ liệu liên quan đến hoạt động kiểm tra, kiểm soát;
+
+đ) Hệ thống dữ liệu liên quan đến quản lý địa bàn;
+
+e) Hệ thống dữ liệu liên quan đến quản lý công chức Quản lý thị trường.
+
+3. Việc phân quyền truy nhập và sử dụng Cơ sở dữ liệu điện tử của Quản lý thị trường do Cục trưởng Cục Quản lý thị trường quy định trong hệ thống báo cáo điện tử của Quản lý thị trường.
+
+Điều 9. Cập nhật dữ liệu và báo cáo tổng hợp điện tử
+
+1. Cục Quản lý thị trường có trách nhiệm kết chuyển số liệu báo cáo của các Chi cục Quản lý thị trường và các đơn vị trực thuộc.
+
+2. Chi cục Quản lý thị trường có trách nhiệm cập nhật, kết chuyển số liệu báo cáo của các Đội Quản lý thị trường và các đơn vị trực thuộc.
+
+3. Đội Quản lý thị trường có trách nhiệm cập nhật số liệu của đơn vị mình theo mẫu quy định tại hệ thống báo cáo điện tử của Quản lý thị trường.
+
+4. Công chức Quản lý thị trường được người có thẩm quyền giao nhiệm vụ thực hiện việc cập nhật dữ liệu cho Cơ sở dữ liệu điện tử của Quản lý thị trường theo đúng hướng dẫn của Cục Quản lý thị trường.
+
+5. Mẫu báo cáo điện tử dựa trên phân tích cơ sở dữ liệu điện tử của Quản lý thị trường do Cục trưởng Cục Quản lý thị trường quy định tùy theo kỳ báo cáo hoặc biến động của tình hình thị trường và theo yêu cầu của Bộ trưởng Bộ Công Thương.
+
+Điều 10. Thời gian cập nhật dữ liệu, kết chuyển số liệu kỳ báo cáo
+
+1. Việc cập nhật dữ liệu liên quan đến hoạt động báo cáo thông qua hệ thống báo cáo điện tử của lực Quản lý thị trường phải được thực hiện thường xuyên và liên tục.
+
+2. Việc cập nhật dữ liệu thực hiện theo nguyên tắc mọi hoạt động phát sinh trong quá trình kiểm tra thị trường đều được cập nhật chậm nhất là 48 giờ sau khi phát sinh trừ trường hợp bất khả kháng.
+
+3. Thời gian kết chuyển số liệu kỳ báo cáo:
+
+a) Cục Quản lý thị trường:
+
+- Báo cáo tuần phải được kết chuyển số liệu vào thời điểm 15 giờ ngày thứ Sáu hàng tuần;
+
+- Báo cáo tháng phải được kết chuyển số liệu vào 16 giờ ngày 20 hàng tháng;
+
+- Báo cáo quý phải được kết chuyển số liệu vào 16 giờ ngày 20 tháng cuối quý;
+
+- Báo cáo 6 tháng phải được kết chuyển số liệu vào 16 giờ ngày 20 tháng 6;
+
+- Báo cáo năm phải được kết chuyển số liệu vào 16 giờ ngày 20 tháng 12.
+
+b) Chi cục Quản lý thị trường:
+
+- Báo cáo tuần phải được kết chuyển số liệu vào thời điểm 11 giờ ngày thứ Tư hàng tuần;
+
+- Báo cáo tháng phải được kết chuyển số liệu vào 11 giờ ngày 20 hàng tháng;
+
+- Báo cáo quý phải được kết chuyển số liệu vào 11 giờ ngày 20 tháng cuối quý;
+
+- Báo cáo 6 tháng phải được kết chuyển số liệu vào 11 giờ ngày 20 tháng 6;
+
+- Báo cáo năm phải được kết chuyển số liệu vào 11 giờ ngày 20 tháng 12.
+
+c) Đội Quản lý thị trường:
+
+- Báo cáo tuần phải được kết chuyển số liệu vào thời điểm 10 giờ ngày thứ Tư hàng tuần;
+
+- Báo cáo tháng phải được kết chuyển số liệu vào 10 giờ ngày 20 hàng tháng;
+
+- Báo cáo quý phải được kết chuyển số liệu vào 10 giờ ngày 20 tháng cuối quý;
+
+- Báo cáo 6 tháng phải được kết chuyển số liệu vào 10 giờ ngày 20 tháng 6;
+
+- Báo cáo năm phải được kết chuyển số liệu vào 10 giờ ngày 20 tháng 12.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 11. Tổ chức thực hiện
+
+1. Các đơn vị trong lực lượng Quản lý thị trường cử công chức, người lao động chuyên trách hoặc kiêm nhiệm thực hiện nhiệm vụ tổng hợp báo cáo và thông báo danh sách công chức làm công tác tổng hợp báo cáo về Cục Quản lý thị trường để tiện liên hệ công tác; tổ chức quán triệt chế độ thông tin báo cáo này đến công chức được giao nhiệm vụ và các bộ phận liên quan; quy định trách nhiệm cụ thể cho từng cá nhân. Cục Quản lý thị trường chịu trách nhiệm hướng dẫn các Chi cục thực hiện tốt chế độ thông tin báo cáo, đặc biệt hình thức báo cáo qua mạng.
+
+2. Các đơn vị trong lực lượng Quản lý thị trường thực hiện nghiêm chỉnh chế độ thông tin báo cáo này được đề nghị khen thưởng. Công chức Quản lý thị trường được giao nhiệm vụ phải thực hiện đúng yêu cầu về nội dung, đúng biểu mẫu và chế độ báo cáo quy định tại Thông tư này. Nếu không thực hiện hoặc thực hiện không đầy đủ, kịp thời chế độ thông tin báo cáo sẽ là căn cứ đánh giá cán bộ công chức và bình xét thi đua hàng năm.
+
+4. Công chức Quản lý thị trường được giao nhiệm vụ phải chịu trách nhiệm về tính chính xác, trung thực của số liệu, thông tin nêu trong báo cáo; đảm bảo bí mật thông tin tài khoản truy cập vào hệ thống báo cáo điện tử của Quản lý thị trường; số liệu báo cáo phải được cập nhật thường xuyên và là số liệu mới nhất tại thời điểm báo cáo.
+
+5. Phòng Tổng hợp và Phối hợp liên ngành Cục Quản lý thị trường là đơn vị đầu mối tổng hợp kết quả báo cáo của các đơn vị gửi về.
+
+Điều 12. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2014 và thay thế Quyết định số 3480/QĐ-BCT ngày 09 tháng 7 năm 2009 của Bộ trưởng Bộ Công Thương ban hành Quy định chế độ thông tin báo cáo của Quản lý thị trường.
+
+2. Trong quá trình triển khai thực hiện Thông tư này, nếu có vấn đề phát sinh, vướng mắc, các tổ chức, cá nhân phản ánh về Cục Quản lý thị trường - Bộ Công Thương để được giải đáp./.
+
+
+
+
+
+
+

@@ -1,0 +1,798 @@
+# Về công tác phòng chống lụt, bão, giảm nhẹ thiên tai năm 2000
+# Loại: Chỉ thị
+# Số hiệu: 07/2000/CT-BTM
+# Ngày ban hành: 12/04/2000
+# Cơ quan: Bộ Thương mại
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Về việc ban hành tiêu chuẩn ngành
+
+BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN
+
+Căn cứ Nghị định số 73/CP ngày 01 tháng 11 năm 1995 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nông nghiệp và Phát triển Nông thôn;
+
+Căn cứ Nghị định 86/CP ngày 08 tháng 12 năm 1995 của Chính phủ quy định phân công trách nhiệm quản lý Nhà nước về chất lượng hàng hoá.
+
+Xét đề nghị của ông Vụ trưởng Vụ Khoa học Công nghệ và Chất lượng sản phẩm
+
+QUYẾT ĐỊNH
+
+Điều 1: Nay ban hành tiêu chuẩn ngành sau:
+
+10TCN 422-2000: Nông sản thực phẩm - Xác định hàm lượng Lizin trong các loại hạt. Phương pháp quang phổ.
+
+10TCN 423-2000: Đậu tương và sản phẩm đậu tương. Phương pháp xác định protein tan trong Kali hydroxyt 0,2%.
+
+10TCN 424-2000: Gạo. Phương pháp xác định độ bền gel.
+
+10TCN 425-2000: Gạo. Phương pháp xác định tỷ lệ trắng trong, trắng bạc và độ trắng bạc.
+
+Điều 2: Quyết định có hiệu lực sau 15 ngày kể từ ngày ký.
+
+Điều 3: Các ông Chánh Văn phòng, Vụ trưởng Vụ Khoa học Công nghệ và Chất lượng sản phẩm, Lãnh đạo các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+
+
+
+TIÊU CHUẨN
+
+Nông sản thực phẩm – xác định hàm lượng Lizin trong các loại hạt.
+
+Phương pháp quang phổ 10 TCN 422-
+
+(Ban hành theo QĐ 57/2000/QĐ/BNN-KHCN ngày 23/5/2000)
+
+Tiêu chuẩn này áp dụng cho các loại hạt ngũ cốc (gạo, mỳ, ngô...), hạt đậu đỗ (đậu tương, đậu xanh...) và quy định phép thử xác định hàm lượng lizin bằng phương pháp quang phổ.
+
+1. Lấy mẫu thử
+
+Tiến hành lấy mẫu theo TCVN 5451-91 (ISO 950-1979)
+
+2. Nguyên tắc
+
+Dựa trên phản ứng tạo phức màu của các nhóm e-NH2 tự do của lizin trong phân tử protein với thuốc thử ninhydrin và đo độ hấp thụ quang học của phức màu tạo thành ở bước sóng 540nm. Dung dịch tiêu chuẩn được sử dụng là dung dịch lơxin vì phân tử lơxin tương đương với lizin và chỉ chứa 1 nhóm e-NH2.
+
+3. Thuốc thử
+
+Tất cả thuốc thử phải có chất lượng tinh khiết phân tích. Nước sử dụng là nước cất hoặc là nước có độ tinh khiết tương đương.
+
+3.1 Dung dịch đệm
+
+Hoà tan 30g natri formiat trong 60ml nước cất, thêm 10ml dung dịch axit formic 86-88% và thêm tiếp nước cất cho đủ 100ml.
+
+3.2 Thuốc thử ninhydrin
+
+Cho 1g ninhydrin tinh khiết và 1g CdCl2.2,5H2O vào bình tối có nút mài. Thêm 25ml dung dịch đệm (3.1) và 75ml etylen glycol, lắc đều đến tan hoàn toàn. Thuốc thử được ổn định trong 1 tháng ở nhiệt độ 40C , trong bóng tối.
+
+3.3 Dung dịch rượu etylic 20% và 95%.
+
+3.4 Dung dịch natri cacbonat 2% và 4%
+
+3.5 Dung dịch lơxin chuẩn
+
+Cân 100mg lơxin tinh khiết với độ chính xác 0,1mg cho vào bình định mức 100ml, hoà tan hoàn toàn bằng dung dịch rượu etylic 20% và đưa thể tích đến vạch định mức bằng dung dịch này. 1ml dung dịch lơxin chuẩn chứa 1mg lơxin.
+
+4. Dụng cụ
+
+Cân phân tích có độ chính xác 0,0001g
+
+Máy nghiền mẫu
+
+Rây có lỗ sàng 250mm
+
+Quang phổ kế có bước sóng 540nm.
+
+Nồi cách thuỷ có điều chỉnh nhiệt độ tự động
+
+Ống nghiệm cỡ 18x150mm
+
+Bình định mức dung tích 100, 500ml.
+
+Pipet chia độ dung tích 1, 2, 10, 20ml
+
+Giá ống nghiệm bằng nhôm
+
+Phễu lọc có đường kính 4,0 - 4,5cm
+
+Giấy lọc định lượng.
+
+5. Tiến hành thử
+
+5.1. Xây dựng đồ thị chuẩn
+
+Cho vào các bình định mức dung tích 100ml lần lượt 0, 10, 20, 30 và 40ml dung dịch chuẩn gốc lơxin (mục 3.5). Dùng dung dịch rượu etylic 20% đưa thể tích đến vạch mức và lắc đều. Nồng độ lơxin trong các dung dịch chuẩn tương ứng sẽ là 0, 100, 200, 300 và 400mg/ml. Dùng pipet hút chính xác 0,5ml mỗi dung dịch chuẩn này cho lần lượt vào các ống nghiệm. Thêm tiếp vào mỗi ống nghiệm 0,5ml dung dịch Na2CO3 4% và 2ml thuốc thử ninhydrin. Lắc đều mẫu và đun trên nồi cách thuỷ 30'. Sau đó làm lạnh bằng cách nhúng cả giá ống nghiệm vào nước. Thêm tiếp vào mỗi ống nghiệm 5ml dung dịch rượu etylic 95% lắc kỹ và đo độ hấp thụ quang học trên quang phổ kế ở bước sóng 540nm.
+
+Xây dựng đồ thị chuẩn với trục tung là các giá trị độ hấp thụ quang học đo được, trục hoành là nồng độ của các dung dịch lơxin chuẩn từ 0 đến 400mg/1ml.
+
+5.2. Chuẩn bị mẫu thử
+
+Từ mẫu trung bình nghiền khoảng 10g mẫu đến kích thước lọt hoàn toàn qua lỗ sàng 250mm.
+
+5.3. Tiến hành
+
+Cho vào ống nghiệm 200-250mg bột thuỷ tinh sạch, cân chính xác 30mg mẫu thử đã được chuẩn bị theo (5.1) cho vào mỗi ống nghiệm. Mỗi mẫu tiến hành 2 lần song song. Thêm vào ống nghiệm 1ml dung dịch Na2CO3 2%. Trộn đều mẫu với bột thuỷ tinh, đặt vào giá ống nghiệm và đặt vào bếp cách thuỷ đã đạt nhiệt độ 800C, giữ trong10phút. Dùng đũa thuỷ tinh khuấy đều dung dịch thành thể đồng nhất. Cho vào mỗi ống nghiệm 2ml ninhydrin. Khuấy đều mẫu và đun trên nồi cách thuỷ 30phút. Sau đó làm lạnh bằng cách nhúng cả giá ống nghiệm vào nước. Sau khi nguội, cho vào mỗi ống nghiệm 5ml dung dịch rượu etylic 95%, lắc kỹ và lọc qua giấy lọc trên phễu thuỷ tinh đường kính 4,0 - 4,5cm. Đo độ hấp thụ quang học của các dịch lọc trên quang phổ kế ở bước sóng 540nm, đúng theo trình tự thực hiện khi lên màu.
+
+Nếu gặp mẫu cho màu xanh lam thì có thể pha loãng bằng dung dịch rượu etylic 95% và khi tính toán phải tính đến hệ số pha loãng.
+
+Hàm luợng lizin của các mẫu thử được tính theo đồ thị chuẩn (mục 5.1) ứng với các dung dịch lơxin có nồng độ từ 0 đến 400mg/1ml
+
+6. Tính toán kết quả
+
+6.1. Hàm lượng lizin (X1, %) trong mẫu thử được tính theo công thức:
+
+Trong đó:
+
+C: nồng độ lơxin trong mẫu thử tìm thấy trên đồ thị chuẩn, mg/ml.
+
+m: khối lượng mẫu thử, mg
+
+1000: hệ số chuyển đổi từ mg sang mg
+
+1,11: hệ số chuyển đổi từ lơxin sang lizin
+
+Kết quả phép thử là trị số trung bình số học của hai lần phân tích song song.
+
+6.2. Hàm lượng lizin trong mẫu thử tính theo chất khô (X2, %) xác định theo công thức sau:
+
+Trong đó:
+
+X1: hàm lượng lizin trong mẫu thử ở dạng khô không khí, %
+
+W: độ ẩm của mẫu thử, %
+
+* Chú ý:
+
+Trong nghiên cứu, hàm lượng lizin trong mẫu thử thường tính bằng tỷ lệ phần trăm so với protein (X3, %), theo công thức sau:
+
+Trong đó:
+
+X2: hàm lượng lizin trong mẫu thử tính theo chất khô, %
+
+P: hàm lượng protein trong mẫu thử tính theo chất khô, %
+
+
+
+TIÊU CHUẨN
+
+Đậu tương và sản phẩm đậu tương- phương pháp xác định Protein hòa tan trong Kalihydroxit 0,2% 10TCN 423-2000
+
+(Ban hành theo QĐ 57/2000/QĐ/BNN-KHCN ngày 23/5/2000)
+
+Tiêu chuẩn này áp dụng cho đậu tương, sản phẩm chế biến từ đậu tương và quy định phương pháp xác định protein tan trong kali hydroxit 0,2%.
+
+1. Lấy mẫu thử
+
+Tiến hành lấy mẫu theo TCVN 4847-89 (ISO 5506-1988)
+
+2. Nguyên tắc
+
+Tách protein trong mẫu thử bằng dung dịch kali hydroxit 0,2% và xác định nitơ trong dịch chiết bằng phương pháp Ken đan.
+
+Hàm lượng protein tan trong kali hydroxit 0,2% được tính bằng hàm lượng nitơ nhân với hệ số 5,71
+
+3. Thuốc thử
+
+Tất cả thuốc thử đều phải có chất lượng tinh khiết phân tích. Nước sử dụng phải là nước cất hoặc nước có độ tinh khiết tương đương.
+
+3.1. Dung dịch kali hydroxit 0,2% (tương ứng với 0,036N; pH=12,5)
+
+3.2. Các thuốc thử sử dụng để xác định nitơ theo phương pháp Ken đan (TCVN4295-86)
+
+4. Dụng cụ
+
+Máy nghiền mẫu
+
+Rây có lỗ sàng 250mm
+
+Cân phân tích có độ chính xác 0,0001g
+
+Máy khuấy từ
+
+Máy li tâm có tốc độ 2700vòng/phút
+
+Bình tam giác dung tích 250ml
+
+Pipet chia độ dung tích 10, 20ml
+
+Các dụng cụ để xác định nitơ theo phương pháp Ken đan.
+
+5. Tiến hành thử
+
+5.1. Chuẩn bị mẫu thử
+
+Từ mẫu trung bình tiến hành nghiền khoảng 10g mẫu đến kích thước lọt hoàn toàn qua lỗ sàng 250mm.
+
+5.2. Tách chiết protein
+
+Cân chính xác từ 1,5 - 2g mẫu đã được chuẩn bị theo (5.1) cho vào bình tam giác dung tích 250ml. Mỗi mẫu tiến hành 2 lần song song. Thêm 75ml dung dịch KOH 0,2% và khuấy đều hỗn hợp mẫu trên máy khuấy từ trong 20phút ở nhiệt độ phòng. Thời gian chiết protein có thể trên 20phút nếu thấy cần thiết. Sau đó li tâm hỗn hợp với tốc độ 2700vòng/phút trong thời gian 15phút. Chắt dịch chiết protein (ở phần trên ống li tâm) sang bình tam giác sạch để phân tích protein tan trong kali hydroxit 0,2%.
+
+5.3. Vô cơ hoá dịch chiết protein tan và xác định nitơ
+
+Dùng pipet hút chính xác 10 - 20ml dịch chiết protein (5.2) cho vào bình đốt để vô cơ hoá protein và xác định hàm lượng nitơ theo phương pháp Ken đan (TheoTCVN 4295-86).
+
+6. Tính toán kết quả
+
+6.1. Hàm lượng protein tan trong dung dịch KOH 0,2% tính bằng phần trăm khối lượng (X1, %) theo công thức:
+
+Trong đó:
+
+a, b: lượng dung dịch NaOH 0,1N dùng để chuẩn độ mẫu trắng và chuẩn độ mẫu
+
+thử, ml.
+
+V1: thể tích dung dịch chiết protein đem vô cơ hoá, ml
+
+V2: thể tích dung dịch KOH 0,2% dùng để chiết protein trong mẫu thử, ml
+
+m: khối lượng mẫu thử, g
+
+0,0014: hệ số tính chuyển lượng nitơ tương ứng với 1ml dung dịch chuẩn
+
+H2SO40,1N
+
+5,71: hệ số chuyển đổi nitơ sang protein của đậu tương.
+
+Kết quả phép thử là trị số trung bình số học của 2 lần phân tích song song nếu sự sai khác giữa chúng không vượt quá 0,3%. Kết quả cuối cùng được tính đến số lẻ thứ nhất.
+
+6.2. Hàm lượng protein tan trong kali hydroxit 0,2% tính bằng tỷ lệ phần trăm so với protein tổng số (X2, %) được xác định theo công thức sau:
+
+Trong đó:
+
+X1: Hàm lượng protein tan trong dung dịch KOH 0,2%, %
+
+P: Hàm lượng protein tổng số,%
+
+
+
+TIÊU CHUẨN
+
+Gạo phương pháp xác định độ bền gel 10TCN 424-
+
+(Ban hành theo QĐ 57/2000/QĐ/BNN-KHCN ngày 23/5/2000)
+
+Tiêu chuẩn này áp dụng cho gạo xát nghiền hoặc bột gạo và quy định phương pháp xác định độ bền gel.
+
+1. Lấy mẫu thử
+
+Lấy mẫu theo TCVN 5451-1991 (ISO 950-1979)
+
+2. Khái niệm chung
+
+Độ bền gel dựa trên đặc tính chảy dài của gel bột gạo xát và có thể phân loại như sau:
+
+
+
+
+
+Độ bền gel
+
+
+
+
+Chiều dài gel (mm)
+
+
+
+
+
+
+Độ bền gel mềm
+
+
+Độ bền gel trung bình
+
+
+Độ bền gel cứng
+
+
+
+
+61 - 100
+
+
+41 - 60
+
+
+26 - 40
+
+
+
+
+
+3. Nội dung phương pháp
+
+Tiến hành gelatin hoá bột gạo xát bằng cách thuỷ phân trong dung dịch kiềm loãng, sau đó làm lạnh và đo độ chảy dài của gel.
+
+4. Thuốc thử
+
+Tất cả thuốc thử phải có chất lượng tinh khiết phân tích. Nước sử dụng phải là nước cất hoặc nước có độ tinh khiết tương đương.
+
+4.1. Dung dịch rượu etylic 95% có 0,03% thymol xanh
+
+4.2. Dung dịch kali hydroxit 0,2N
+
+5. Dụng cụ
+
+Cân phân tích có độ chính xác 0,0001g
+
+Máy nghiền mẫu
+
+Rây có lỗ sàng 150mm
+
+Máy lắc nhỏ: Genic mixer
+
+Bếp ga có điều chỉnh nhiệt độ
+
+Nồi đun cách thuỷ
+
+Ống nghiệm cỡ 13 x 100mm (ống pyrex 9820)
+
+Giá ống nghiệm bằng nhôm
+
+Pipet chia độ dung tích 1, 2ml
+
+6. Tiến hành
+
+6.1. Chuẩn bị mẫu thử
+
+Từ mẫu trung bình tiến hành nghiền khoảng 10g mẫu đến kích thước lọt hoàn toàn qua lỗ sàng 150mm.
+
+6.2. Cân chính xác 100mg bột gạo đã được chuẩn bị theo (6.1) cho vào ống nghiệm cỡ 13x100mm. Mỗi mẫu tiến hành 3 lần song song. Cho vào mỗi ống nghiệm 0,2ml dung dịch rượu etylic 95% chứa 0,03% thymol xanh và lắc đều.
+
+* Chú thích: Dung dịch rượu etylic 95% để cản trở sự vón cục của bột ở nhiệt độ hoá hồ, còn thymol xanh tạo màu cho bột hồ để khi đọc kết quả cho dễ.
+
+Thêm tiếp 2ml dung dịch KOH 0,2N và trộn đều trên máy Genic mixer ở tốc độ 6. Đậy ống nghiệm bằng bi thuỷ tinh và đặt vào nồi cách thuỷ đang sôi trong thời gian 8phút. Trong thời gian đun cần đảm bảo độ sôi của nước trong nồi cách thuỷ và phải giữ để sự chuyển động lên xuống của tinh bột khi nấu không vượt quá 2/3 chiều cao ống nghiệm.
+
+Lấy ống nghiệm ra khỏi nồi cách thuỷ và lắc nhanh trên máy Genic mixer, làm nguội ở nhiệt độ phòng khoảng 5phút và sau đó làm lạnh trong nước đá 20phút để quá trình tạo gel đạt tốt.
+
+6.3. Chuẩn bị để đọc kết quả
+
+Sau khi làm lạnh, đặt các ống nghiệm trên mặt phẳng nằm ngang có chia vạch1mm.
+
+Sau 30 và 60 phút đọc độ dài của gel
+
+6.4. Đọc và ghi độ dài gel
+
+Độ dài gel (mm) được tính bằng khoảng cách từ đáy ống nghiệm tới đầu nhọn của bề mặt gel. Kết quả phép đo là giá trị trung bình số học của 3 lần phân tích song song.
+
+6.5. Phân loại độ bền gel
+
+Từ độ dài trung bình gel thu được, dựa vào bảng phân loại (mục 2) để phân loại độ bền gel của bột gạo xát.
+
+* Ghi chú: Phép xác định này dựa vào cơ sở thực nghiệm nên tốt nhất trong mỗi đợt phân tích cần tiến hành cùng với 3 mẫu kiểm tra có độ bền gel mềm, cứng, trung bình.
+
+
+
+TIÊU CHUẨN
+
+Gạo xát phương pháp xác định tỷ lệ trắng trong, trắng bạc
+
+và độ trắng bạc TCN 425-2000
+
+(Ban hành theo QĐ 57/2000/QĐ/BNN-KHCN ngày 23/5/2000)
+
+Tiêu chuẩn này áp dụng cho gạo xát và quy định phương pháp xác định tỷ lệ trắng trong, trắng bạc và độ trắng bạc.
+
+1. Định nghĩa
+
+Các thuật ngữ và định nghĩa dùng trong tiêu chuẩn này được hiểu như sau:
+
+1.1. Hạt gạo trắng trong là hạt gạo xát hoàn toàn trong không có một vết trắng bạc nào ở nội nhũ.
+
+1.2. Hạt gạo trắng bạc là hạt gạo xát có những vết trắng bạc xuất hiện ở phần nội nhũ. Tuỳ thuộc vào vị trí vết bạc trên nội nhũ mà chia thành: bạc bụng, bạc lưng và bạc lòng.
+
+* Hạt bạc bụng là hạt gạo có vết bạc ở cùng phía với phôi.
+
+* Hạt bạc lưng là hạt gạo có vết bạc ở phía lưng đối diện với phôi.
+
+* Hạt bạc lòng (bạc giữa) là hạt gạo có vết bạc ở phần giữa nội nhũ.
+
+1.3. Điểm trắng bạc và độ trắng bạc dùng để đánh giá và phân loại mức độ trắng bạc giữa các giống hoặc các lô gạo được phân tích.
+
+2. Lấy mẫu thử
+
+Lấy mẫu gạo xát theo TCVN 5451-1991 (ISO 950-1979)
+
+Lấy mẫu hạt nguyên theo TCVN 1643-1992
+
+3. Dụng cụ
+
+Cân kỹ thuật có độ chính xác 0,01g
+
+Dụng cụ đo độ trắng bạc
+
+Hộp đựng mẫu
+
+Khay nhỏ có thể đựng khoảng 50g - 100g gạo
+
+4. Tiến hành thử
+
+4.1. Xác định tỷ lệ trắng trong, trắng bạc
+
+4.1.1. Xác định tỷ lệ trắng trong
+
+Trộn đều mẫu hạt gạo xát nguyên vẹn bằng phương pháp đường chéo để chia mẫu gạo thành các mẫu phân tích và mẫu lưu. Từ mẫu phân tích cân 50g, mỗi mẫu tiến hành hai lần song song. Dàn đều lượng mẫu đã cân trên mặt dụng cụ xác định độ trắng bạc (gồm một mặt kính mầu, bên dưới có dọi đèn điện). Chọn những hạt hoàn toàn trắng trong từ mẫu hạt gạo nguyên và cân khối lượng. Phần còn lại là hạt trắng bạc.
+
+Tỷ lệ trắng trong được tính bằng phần trăm theo khối lượng trên hạt gạo nguyên theo công thức:
+
+
+
+
+
+Tỷ lệ hạt trắng trong (%) =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khối lượng hạt trắng trong
+
+
+
+
+
+
+
+
+
+
+
+Khối lượng hạt nguyên
+
+
+
+
+
+
+
+
+
+
+
+x 100
+
+
+
+
+
+
+
+4.1.2. Xác định tỷ lệ trắng bạc
+
+Tỷ lệ hạt trắng bạc (%) = 100% - tỷ lệ hạt trắng trong (%)
+
+4.2. Xác định điểm trắng bạc và độ trắng bạc
+
+4.2.1. Xác định số điểm trắng bạc
+
+Từ mẫu trung bình tiến hành chia mẫu theo phương pháp đường chéo và lấy ra 100 hạt nguyên vẹn. Sau đó dàn đều hạt trên mặt kính màu của dụng cụ đo độ trắng bạc và tiến hành phân loại theo thang điểm 6 mức từ 0 đến 5 được mô tả như sau:
+
+
+
+
+
+Thang điểm
+
+
+
+
+Mô tả hạt gạo xát
+
+
+
+
+Phần diện tích hạt bị trắng bạc (%)
+
+
+
+
+
+
+0
+
+
+
+
+Hạt hoàn toàn trong
+
+
+(không có vết bạc nào)
+
+
+
+
+Không
+
+
+
+
+
+
+1
+
+
+
+
+Hạt bạc rất nhỏ
+
+
+
+
+< 10
+
+
+
+
+
+
+2
+
+
+
+
+Hạt hơi bạc
+
+
+
+
+10 - 20
+
+
+
+
+
+
+3
+
+
+
+
+Hạt bạc trung bình
+
+
+
+
+21 - 35
+
+
+
+
+
+
+4
+
+
+
+
+Hạt bạc
+
+
+
+
+36 - 50
+
+
+
+
+
+
+5
+
+
+
+
+Hạt rất bạc
+
+
+
+
+> 50
+
+
+
+
+
+Đếm và ghi lại số hạt được phân theo từng mức điểm khác nhau, từ đó tính điểm trắng bạc trung bình cho mẫu gạo theo công thức sau:
+
+Trong đó:
+
+X: Điểm trắng bạc trung bình
+
+S0, S1, S2, S3, S4, S5 là số hạt tương ứng với các mức điểm 0, 1, 2, 3, 4, 5
+
+4.2.2. Xác định độ trắng bạc
+
+Từ điểm trắng bạc trung bình thu được, đánh giá độ trắng bạc của mẫu gạo dựa theo sự phân loại sau:
+
+
+
+
+
+Phân loại độ trắng bạc
+
+
+
+
+Điểm trắng bạc trung bình
+
+
+
+
+
+
+Hơi bạc
+
+
+
+
+< 1,0
+
+
+
+
+
+
+Bạc trung bình
+
+
+
+
+1,0 - 1,5
+
+
+
+
+
+
+Bạc
+
+
+
+
+1,6 - 2,0
+
+
+
+
+
+
+Rất bạc
+
+
+
+
+> 2,0
+
+
+
+
+
+*Ví dụ: Chọn 100 hạt gạo xát nguyên vẹn và sau khi tiến hành phân loại đã thu được số hạt ở các mức điểm khác nhau như sau:
+
+
+
+
+
+Thang điểm
+
+
+
+
+Số hạt
+
+
+
+
+Tổng số điểm từng mức
+
+
+
+
+
+
+0
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+
+
+59
+
+
+5
+
+
+4
+
+
+6
+
+
+11
+
+
+15
+
+
+
+
+0
+
+
+5
+
+
+8
+
+
+18
+
+
+44
+
+
+75
+
+
+
+
+
+
+Tổng số
+
+
+
+
+100
+
+
+
+
+150
+
+
+
+
+
+Vì vậy điểm trắng bạc trung bình của giống gạo này là 150:100 = 1,50
+
+Dựa theo bảng phân loại, giống gạo trên có độ trắng bạc thuộc loại: bạc trung bình.
+
+
+
+
+
+
+
+

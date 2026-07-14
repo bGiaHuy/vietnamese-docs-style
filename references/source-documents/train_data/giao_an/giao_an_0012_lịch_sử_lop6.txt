@@ -1,0 +1,76 @@
+GIÁO ÁN LỊCH SỬ - LỚP 6
+Bài: Phong kiến
+Thời lượng: 2 tiết
+Ngày soạn: 2026-03-07
+
+I. MỤC TIÊU
+1. Kiến thức:
+  - Học sinh vận dụng được khái niệm về phong kiến.
+  - Học sinh trình bày được ý nghĩa về phong kiến.
+2. Năng lực:
+  - Năng lực công nghệ
+  - Năng lực tính toán
+3. Phẩm chất:
+  - Trung thực
+  - Trách nhiệm
+  - Yêu nước
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. Giáo viên: SGK, SGV, giáo án, máy chiếu, bảng phụ, phiếu học tập.
+2. Học sinh: SGK, vở ghi, đồ dùng học tập.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+Hoạt động 1: Khởi động (5 phút)
+a) Mục tiêu: Học sinh củng cố kiến thức về Phong kiến.
+b) Nội dung: GV sử dụng phương pháp {random.choice(pp)} để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 4 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 2: Hình thành kiến thức (14 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Phong kiến.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, sơ đồ tư duy.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 3: Luyện tập (17 phút)
+a) Mục tiêu: Học sinh nắm bắt kiến thức về Phong kiến.
+b) Nội dung: GV đặt câu hỏi gợi mở để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 4: Vận dụng (9 phút)
+a) Mục tiêu: Học sinh mở rộng kiến thức về Phong kiến.
+b) Nội dung: GV chia lớp thành các nhóm để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, phiếu học tập đã hoàn thành.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS suy nghĩ độc lập và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 3 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+Hoạt động 5: Mở rộng (9 phút)
+a) Mục tiêu: Học sinh vận dụng kiến thức về Phong kiến.
+b) Nội dung: GV sử dụng phương pháp {random.choice(pp)} để tìm hiểu nội dung bài học.
+c) Sản phẩm: Câu trả lời của HS, bài tập nhóm.
+d) Tổ chức thực hiện:
+  Bước 1 - Chuyển giao nhiệm vụ: GV nêu yêu cầu, giao nhiệm vụ cho HS.
+  Bước 2 - Thực hiện nhiệm vụ: HS thảo luận nhóm và hoàn thành nhiệm vụ. GV quan sát, hỗ trợ kịp thời.
+  Bước 3 - Báo cáo, thảo luận: 2 HS/nhóm trình bày kết quả. Các HS/nhóm khác nhận xét, bổ sung.
+  Bước 4 - Kết luận, nhận định: GV nhận xét, đánh giá và chốt kiến thức trọng tâm.
+
+IV. RÚT KINH NGHIỆM
+  ...
+Nguồn: Tài liệu tập huấn giáo viên Lịch Sử lớp 6 - Bộ GD&ĐT

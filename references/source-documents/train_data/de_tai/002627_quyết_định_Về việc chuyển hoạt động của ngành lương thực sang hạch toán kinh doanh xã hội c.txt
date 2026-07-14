@@ -1,0 +1,1150 @@
+# Về việc chuyển hoạt động của ngành lương thực sang hạch toán kinh doanh xã hội chủ nghĩa
+# Loại: Quyết định
+# Số hiệu: 209a-HĐBT
+# Ngày ban hành: 03/11/1987
+# Cơ quan: Hội đồng Bộ trưởng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+Tổng cục Bưu điện cộng hoà xã hội chủ nghĩa việt namQUYẾT ĐỊNH CỦA TỔNG CỤC TRƯỞNG TỔNG CỤC BƯU ĐIỆN
+
+Ban hành Thể lệ dịch vụ viễn thông trên mạng điện thoại công cộng (PSTN).
+
+
+
+TỔNG CỤC TRƯỞNG TỔNG CỤC BƯU ĐIỆN
+
+Căn cứ Nghị định số 12/CP ngày 11/3/1996 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức bộ máy của Tổng cục Bưu điện;
+
+Căn cứ Nghị định số 109/1997/NĐ-CP ngày 12/11/1997 của Chính phủ về Bưu chính và Viễn thông;
+
+Theo đề nghị của ông Vụ trưởng Vụ Chính sách Bưu điện,
+
+
+
+QUYẾT ĐỊNH:
+
+Điều 1
+
+. Ban hành kèm theo Quyết định này "Thể lệ dịch vụ viễn thông trên mạng điện thoại công cộng (PSTN)".Điều 2. Quyết định này có hiệu lực sau 15 ngày kể từ ngày ký.
+
+Điều 3. Các Ông (Bà) Chánh Văn phòng, Chánh Thanh tra, Vụ trưởng các Vụ: Chính sách Bưu điện, Kinh tế kế hoạch, Khoa học công nghệ và hợp tác quốc tế, Thủ trưởng các đơn vị trực thuộc Tổng cục Bưu điện, Tổng giám đốc Tổng Công ty Bưu chính Viễn thông Việt Nam, Giám đốc Công ty cổ phần dịch vụ Bưu chính Viễn thông Sài Gòn, Công ty Điện tử Viễn thông Quân đội, các doanh nghiệp cung cấp dịch vụ viễn thông có liên quan khác chịu trách nhiệm thi hành Quyết định này.
+
+THỂ LỆ DỊCH VỤ VIỄN THÔNG
+
+TRÊN MẠNG ĐIỆN THOẠI CÔNG CỘNG (PSTN)
+
+(Ban hành kèm theo Quyết định số 953/2000/QĐ-TCBĐ
+
+ngày 17/10/2000 của Tổng cục trưởng Tổng cục Bưu điện)
+
+CHƯƠNG I
+
+QUY ĐỊNH CHUNG
+
+Điều 1: Phạm vi và đối tượng điều chỉnh
+
+1. Thể lệ này quy định việc cung cấp và sử dụng các dịch vụ viễn thông cơ bản trên mạng điện thoại công cộng (PSTN) bao gồm dịch vụ điện thoại, dịch vụ Fax, dịch vụ truyền số liệu trong băng thoại tiêu chuẩn (0,3 - 3,4 kHz) và các dịch vụ cộng thêm của các dịch vụ cơ bản nêu trên (sau đây gọi chung là dịch vụ viễn thông cố định).
+
+2. Thể lệ này điều chỉnh mối quan hệ giữa bên cung cấp dịch vụ viễn thông cố định bao gồm doanh nghiệp cung cấp dịch vụ viễn thông, doanh nghiệp bán lại dịch vụ viễn thông (sau đây gọi chung là đơn vị cung cấp dịch vụ), đại lý dịch vụ viễn thông (sau đây gọi là đại lý dịch vụ) với cơ quan, tổ chức, cá nhân sử dụng dịch vụ viễn thông cố định (sau đây gọi chung là người sử dụng dịch vụ).
+
+3. Quan hệ giữa các bên cung cấp dịch vụ viễn thông cố định với nhau không thuộc phạm vi điều chỉnh của Thể lệ này.
+
+Điều 2: Giải thích thuật ngữ
+
+Trong Thể lệ này, các thuật ngữ được hiểu như sau:
+
+1. Mạng điện thoại công cộng là mạng điện thoại chuyển mạch công cộng cố định (PSTN) do các doanh nghiệp cung cấp dịch vụ viễn thông thiết lập để cung cấp dịch vụ viễn thông cố định trên cơ sở giấy phép thiết lập mạng viễn thông công cộng và cung cấp dịch vụ viễn thông do Tổng cục Bưu điện cấp.
+
+2. Phạm vi (vùng cước) nội hạt hoặc đường dài là phạm vi địa lý xác định mà các cuộc gọi trong phạm vi đó được áp dụng mức cước liên lạc nội hạt hoặc đường dài thống nhất do Tổng cục Bưu điện quy định.
+
+3. Hai phạm vi (vùng cước) nội hạt hoặc đường dài được gọi là liền kề nếu hai phạm vi (vùng cước) đó có chung địa giới.
+
+4. Chủ thuê bao là người sử dụng dịch vụ tại địa chỉ đăng ký thông qua hợp đồng cung cấp và sử dụng dịch vụ ký với đơn vị cung cấp dịch vụ.
+
+5. Nhà thuê bao là một địa điểm có địa chỉ và phạm vi xác định mà chủ thuê bao được toàn quyền sử dụng theo quy định của pháp luật và được chủ thuê bao chỉ định đặt thiết bị đầu cuối thuê bao khi ký kết hợp đồng cung cấp và sử dụng dịch vụ với đơn vị cung cấp dịch vụ.
+
+6. Cáp nội hạt là phần cáp từ giá đấu cáp (MDF) của tổng đài nội hạt đến hộp đầu cáp cuối cùng.
+
+7. Hộp đầu cáp cuối cùng là hộp phân phối cáp, dùng để kết nối cáp nội hạt với đôi dây thuê bao.
+
+8. Hộp đầu dây thuê bao là hộp để kết nối đôi dây thuê bao với ổ giắc cắm thiết bị đầu cuối thuê bao.
+
+9. Ổ giắc cắm thiết bị đầu cuối thuê bao là ổ giắc cắm để đấu thiết bị đầu cuối thuê bao với đôi dây thuê bao .
+
+10. Trạm thuê bao vô tuyến cố định (SS) bao gồm an ten, bộ nguồn và bộ thiết bị đầu cuối thuê bao vô tuyến cố định được lắp đặt tại nhà thuê bao. Trạm thuê bao vô tuyến cố định được kết nối với tổng đài nội hạt thông qua trạm vô tuyến gốc (BS) của đơn vị cung cấp dịch vụ.
+
+11. Cáp, đường dây nội bộ là phần cáp, đường dây thuộc sở hữu của chủ thuê bao, do chủ thuê bao tự lắp đặt hoặc thuê các tổ chức, cá nhân khác lắp đặt trong phạm vi nhà thuê bao cho tới điểm kết cuối của mạng điện thoại công cộng.
+
+Điều 3: Quản lý nhà nước đối với việc cung cấp và sử dụng dịch vụ viễn thông cố định
+
+1. Tổng cục Bưu điện là cơ quan thuộc Chính phủ thực hiện chức năng quản lý nhà nước đối với hoạt động cung cấp và sử dụng dịch vụ viễn thông cố định trên phạm vi toàn quốc.
+
+2. Các Cục Bưu điện khu vực là cơ quan thuộc Tổng cục Bưu điện thực hiện chức năng quản lý nhà nước đối với hoạt động cung cấp và sử dụng dịch vụ viễn thông cố định ở các địa phương do Cục quản lý.
+
+Điều 4: Thiết lập mạng, cung cấp và sử dụng dịch vụ viễn thông cố định
+
+1. Doanh nghiệp cung cấp dịch vụ viễn thông được phép thiết lập mạng điện thoại công cộng và cung cấp dịch vụ viễn thông cố định theo đúng các nội dung quy định trong giấy phép do Tổng cục Bưu điện cấp. Thủ tục cấp phép thiết lập mạng điện thoại công cộng và cung cấp dịch vụ viễn thông cố định thực hiện theo các quy định tại Thông tư số 04/1998/TT-TCBĐ ngày 29/09/1998 của Tổng cục Bưu điện.
+
+2. Đại lý dịch vụ được quyền cung cấp cho người sử dụng các dịch vụ viễn thông cố định theo đúng các quy định của Tổng cục Bưu điện và theo các nội dung quy định trong hợp đồng đại lý dịch vụ ký với đơn vị cung cấp dịch vụ. Điều kiện làm đại lý dịch vụ viễn thông cố định được quy định tại Thông tư số 06/2000/TT-TCBĐ ngày 29/09/2000 của Tổng cục Bưu điện.
+
+3. Doanh nghiệp bán lại dịch vụ viễn thông được quyền mua trực tiếp các dịch vụ viễn thông cố định dưới hình thức mua lưu lượng hoặc thuê dung lượng thông qua hợp đồng mua, bán dịch vụ ký với doanh nghiệp cung cấp dịch vụ và bán lại dịch vụ mà mình mua cho người sử dụng dịch vụ theo đúng các nội dung quy định trong giấy phép bán lại dịch vụ do Tổng cục Bưu điện cấp. Thủ tục cấp phép bán lại dịch vụ viễn thông cố định thực hiện theo các quy định tại Thông tư số 04/1998/TT-TCBĐ ngày 29/09/1998 của Tổng cục Bưu điện.
+
+4. Người sử dụng dịch vụ có quyền sử dụng hợp pháp các dịch vụ viễn thông cố định được cung cấp, nhưng không được kinh doanh lại trái phép các dịch vụ viễn thông. Người sử dụng dịch vụ phải có trách nhiệm quản lý các thiết bị đầu cuối thuê bao và không được cho người khác sử dụng các thiết bị đầu cuối thuê bao, các phương tiện và dịch vụ được cung cấp sai với mục đích sử dụng đã được quy định trong hợp đồng cung cấp và sử dụng dịch vụ.
+
+Điều 5: Quyền và nghĩa vụ của các bên trong việc cung cấp và sử dụng dịch vụ
+
+Quyền và nghĩa vụ của đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ được quy định cụ thể tại Thông tư số 04/1998/TT-TCBĐ ngày 29/09/1998 của Tổng cục Bưu điện.
+
+CHƯƠNG II
+
+DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+Điều 6 : Dịch vụ cơ bản
+
+1. Dịch vụ cơ bản được quy định trong Thể lệ này bao gồm dịch vụ điện thoại, dịch vụ Fax và dịch vụ truyền số liệu trong băng thoại tiêu chuẩn.
+
+a) Dịch vụ điện thoại là dịch vụ dùng thiết bị điện thoại để truyền đưa các thông tin dưới dạng âm thanh hoặc âm thanh cùng hình ảnh (đối với điện thoại thấy hình - videophone) trong băng thoại tiêu chuẩn qua mạng điện thoại công cộng mà không làm thay đổi loại hình hoặc nội dung thông tin;
+
+b) Dịch vụ Fax là dịch vụ dùng thiết bị Fax để truyền đưa các thông tin có sẵn dưới dạng văn bản, biểu mẫu, bút tích, thư từ, sơ đồ, hình ảnh, bản vẽ (gọi chung là bức Fax) trong băng thoại tiêu chuẩn qua mạng điện thoại công cộng mà không làm thay đổi loại hình hoặc nội dung thông tin;
+
+c) Dịch vụ truyền số liệu trong băng thoại tiêu chuẩn (sau đây gọi là dịch vụ truyền số liệu) là dịch vụ dùng modem quay số tốc độ thấp (tốc độ <64 Kb/s) để truyền đưa các thông tin dưới dạng số liệu trong băng thoại tiêu chuẩn qua mạng điện thoại công cộng mà không làm thay đổi loại hình hoặc nội dung thông tin.
+
+2. Theo địa điểm cung cấp dịch vụ, dịch vụ cơ bản được quy định trong Thể lệ này bao gồm dịch vụ tại nhà thuê bao và dịch vụ tại điểm công cộng.
+
+a) Dịch vụ tại nhà thuê bao là dịch vụ được cung cấp đến tận địa chỉ đăng ký của từng chủ thuê bao trên cơ sở các thiết bị đầu cuối thuê bao được lắp đặt tại nhà thuê bao và được đấu nối vào mạng điện thoại công cộng thông qua hợp đồng cung cấp và sử dụng dịch vụ được ký giữa chủ thuê bao và đơn vị cung cấp dịch vụ. Dịch vụ tại nhà thuê bao bao gồm:
+
+- Dịch vụ điện thoại thuê bao;
+
+- Dịch vụ Fax thuê bao (Telefax);
+
+- Dịch vụ truyền số liệu thuê bao.
+
+b) Dịch vụ tại điểm công cộng là dịch vụ được cung cấp cho người sử dụng dịch vụ trên cơ sở các thiết bị đầu cuối do đơn vị cung cấp dịch vụ lắp đặt tại các điểm công cộng. Dịch vụ tại điểm công cộng bao gồm:
+
+- Dịch vụ có người phục vụ: điện thoại công cộng, Fax công cộng (Bureaufax), truyền số liệu công cộng (truyền file);
+
+- Dịch vụ không có người phục vụ: điện thoại, Fax và truyền số liệu thanh toán tự động bằng thẻ.
+
+3. Theo phương thức khai thác dịch vụ, dịch vụ cơ bản trên mạng điện thoại công cộng được quy định trong Thể lệ này bao gồm dịch vụ quay số trực tiếp và dịch vụ qua điện thoại viên:
+
+a) Dịch vụ quay số trực tiếp là dịch vụ mà việc liên lạc giữa các thiết bị đầu cuối hoặc giữa thiết bị đầu cuối với thiết bị truy nhập mạng dịch vụ qua mạng điện thoại công cộng được thực hiện bằng phương thức tự động quay (bấm) số trực tiếp. Dịch vụ quay số trực tiếp bao gồm:
+
+- Dịch vụ quay số trực tiếp nội hạt;
+
+- Dịch vụ quay số trực tiếp đường dài trong nước;
+
+- Dịch vụ quay số trực tiếp quốc tế.
+
+b) Dịch vụ qua điện thoại viên là dịch vụ mà việc liên lạc giữa các thiết bị đầu cuối hoặc giữa thiết bị đầu cuối với thiết bị truy nhập mạng dịch vụ qua mạng điện thoại công cộng được thực hiện bằng phương thức bán tự động thông qua sự trợ giúp của điện thoại viên hoặc thiết bị hướng dẫn kết nối cuộc gọi. Dịch vụ qua điện thoại viên bao gồm:
+
+- Dịch vụ gọi số;
+
+- Dịch vụ tìm người;
+
+- Dịch vụ giấy mời;
+
+- Dịch vụ gọi trực tiếp về nước (Home Country Direct - HCD);
+
+- Dịch vụ giới hạn thời gian đàm thoại;
+
+- Dịch vụ thu cước ở người bị gọi (Collect Call);
+
+- Dịch vụ giải đáp thông tin, tư vấn;
+
+- Các dịch vụ khác do Tổng cục Bưu điện quy định.
+
+4. Theo phạm vi cung cấp dịch vụ, dịch vụ cơ bản được quy định trong Thể lệ này bao gồm dịch vụ nội hạt, dịch vụ đường dài trong nước và dịch vụ quốc tế:
+
+a) Dịch vụ nội hạt là dịch vụ mà liên lạc được thiết lập thông qua mạng điện thoại công cộng giữa các thiết bị đầu cuối hoặc giữa thiết bị đầu cuối với thiết bị truy nhập mạng dịch vụ trong cùng một phạm vi (vùng cước) nội hạt;
+
+b) Dịch vụ đường dài trong nước là dịch vụ mà liên lạc được thiết lập thông qua mạng điện thoại công cộng giữa các thiết bị đầu cuối hoặc giữa thiết bị đầu cuối với thiết bị truy nhập mạng dịch vụ nằm ở các phạm vi (vùng cước) nội hạt khác nhau;
+
+c) Dịch vụ quốc tế là dịch vụ mà liên lạc được thiết lập thông qua mạng điện thoại công cộng giữa các thiết bị đầu cuối hoặc giữa thiết bị đầu cuối với thiết bị truy nhập mạng dịch vụ, trong đó có ít nhất một thiết bị đầu cuối hoặc thiết bị truy nhập mạng dịch vụ được lắp đặt hoặc đăng ký sử dụng ở nước ngoài.
+
+5. Theo phương thức thanh toán, dịch vụ cơ bản trên mạng điện thoại công cộng được quy định trong Thể lệ này bao gồm dịch vụ trả tiền trước và dịch vụ trả tiền sau:
+
+a) Dịch vụ trả tiền trước là dịch vụ mà người sử dụng thanh toán cước cho đơn vị cung cấp dịch vụ trước khi sử dụng dịch vụ, dưới hình thức mua thẻ trả trước (prepaid calling card) và cước dịch vụ sẽ được trừ dần trên thẻ cho đến hết phụ thuộc vào phạm vi và thời gian liên lạc;
+
+b) Dịch vụ trả tiền sau là dịch vụ mà người sử dụng thanh toán cước cho đơn vị cung cấp dịch vụ sau khi sử dụng dịch vụ trên cơ sở thông báo hoặc hoá đơn thanh toán cước của đơn vị cung cấp dịch vụ.
+
+Điều 7: Dịch vụ cộng thêm
+
+Dịch vụ cộng thêm là dịch vụ được cung cấp thêm đồng thời cùng với dịch vụ cơ bản, tạo điều kiện thuận lợi cho người sử dụng dịch vụ, làm phong phú và hoàn thiện thêm dịch vụ cơ bản trên cơ sở các tính năng kỹ thuật của thiết bị hoặc khả năng phục vụ của đơn vị cung cấp dịch vụ.
+
+CHƯƠNG III
+
+CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+TẠI NHÀ THUÊ BAO
+
+MỤC 1. HỢP ĐỒNG CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ
+
+Điều 8: Hình thức, địa điểm giao kết hợp đồng
+
+1. Hợp đồng cung cấp và sử dụng dịch vụ viễn thông cố định (sau đây gọi là hợp đồng cung cấp và sử dụng dịch vụ) là sự thoả thuận bằng văn bản giữa đơn vị cung cấp dịch vụ và người sử dụng dịch vụ để cung cấp và sử dụng dịch vụ viễn thông cố định tại nhà thuê bao theo quy định của pháp luật và thoả thuận của các bên.
+
+2. Tuỳ theo mục đích, tư cách pháp lý của người sử dụng dịch vụ mà hợp đồng cung cấp và sử dụng dịch vụ có thể là hợp đồng kinh tế hoặc hợp đồng dân sự và được điều chỉnh bởi các văn bản quy phạm pháp luật tương ứng.
+
+3. Địa điểm giao kết hợp đồng cung cấp và sử dụng dịch vụ do đơn vị cung cấp dịch vụ và người sử dụng dịch vụ thoả thuận theo quy định của pháp luật.
+
+Điều 9: Hợp đồng mẫu
+
+1. Trên cơ sở quy định của pháp luật về hợp đồng và quy định của Tổng cục Bưu điện về viễn thông, đơn vị cung cấp dịch vụ có trách nhiệm xây dựng và ban hành hợp đồng cung cấp và sử dụng dịch vụ mẫu để thực hiện thống nhất trong đơn vị và báo cáo với Tổng cục Bưu điện.
+
+2. Ngoài các nội dung chủ yếu được quy định trong hợp đồng mẫu, các bên giao kết hợp đồng có thể thoả thuận với nhau về các nội dung khác trong hợp đồng, nhưng không được trái với quy định của pháp luật, không được xâm phạm đến lợi ích của Nhà nước, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác.
+
+Điều 10: Từ chối ký kết hợp đồng
+
+Ngoài các quy định chung của pháp luật, đơn vị cung cấp dịch vụ có quyền từ chối ký kết hợp đồng cung cấp và sử dụng dịch vụ trong các trường hợp sau:
+
+1. Việc cung cấp dịch vụ không thể thực hiện được do các điều kiện kinh tế, kỹ thuật của mạng lưới, thiết bị viễn thông.
+
+2. Người sử dụng dịch vụ vi phạm pháp luật về bưu chính, viễn thông theo văn bản kết luận của cơ quan nhà nước có thẩm quyền và không thực thi trách nhiệm của mình theo kết luận xử lý của văn bản.
+
+3. Người sử dụng dịch vụ không thực hiện nghĩa vụ thanh toán cước dịch vụ theo quy định với một đơn vị cung cấp dịch vụ khác, nếu đã có thoả thuận bằng văn bản giữa các đơn vị cung cấp dịch vụ với nhau về vấn đề này.
+
+Điều 11: Ký kết, sửa đổi và chuyển giao hợp đồng
+
+1. Việc cung cấp và sử dụng dịch vụ tại nhà thuê bao phải được thực hiện thông qua hợp đồng cung cấp và sử dụng dịch vụ.
+
+a) Đối với đơn vị cung cấp dịch vụ, người ký hợp đồng phải là người đại diện theo pháp luật, hoặc người đại diện theo uỷ quyền hợp pháp của đơn vị đó;
+
+b) Đối với người sử dụng là cá nhân, người ký hợp đồng phải là người có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật;
+
+c) Đối với người sử dụng là cơ quan, tổ chức, người ký hợp đồng phải là người đại diện theo pháp luật hoặc người đại diện theo uỷ quyền hợp pháp của cơ quan, tổ chức đó.
+
+2. Cá nhân là người Việt Nam, khi giao kết hợp đồng phải xuất trình một trong các loại giấy tờ hợp lệ, xác nhận nhân thân có ảnh và dấu nổi do các cơ quan Nhà nước có thẩm quyền cấp (chứng minh nhân dân, chứng minh quân đội, chứng minh của lực lượng công an v.v..). Nếu thấy cần thiết, đơn vị cung cấp dịch vụ có quyền yêu cầu cá nhân là người Việt Nam khi giao kết hợp đồng xuất trình thêm hộ khẩu thường trú, hoặc xác nhận của công an phường, xã nơi cư trú.
+
+3. Cá nhân là người nước ngoài, khi giao kết hợp đồng cung cấp và sử dụng dịch vụ phải xuất trình Hộ chiếu cùng Thẻ thường trú, hoặc Chứng nhận tạm trú, hoặc Thẻ tạm trú do các cơ quan nhà nước có thẩm quyền cấp.
+
+4. Đối với cơ quan, tổ chức Việt Nam và nước ngoài hoạt động hợp pháp trên lãnh thổ Việt Nam, hợp đồng cung cấp và sử dụng dịch vụ phải có chữ ký của người có đủ thẩm quyền quy định tại điểm c khoản 1 Điều này và phải có dấu hợp lệ theo quy định của pháp luật.
+
+5. Trên cơ sở các quy định của pháp luật và các quy định về viễn thông của Tổng cục Bưu điện, đơn vị cung cấp dịch vụ và chủ thuê bao có thể thoả thuận sửa đổi, bổ sung hợp đồng đã ký và giải quyết các vấn đề phát sinh liên quan đến việc sửa đổi, bổ sung đó.
+
+6. Riêng đối với chủ mạng nội bộ (chủ thuê bao có mạng nội bộ quy định tại khoản 3 Điều 22), để bảo đảm cung cấp và sử dụng dịch vụ viễn thông đúng mục đích và đúng đối tượng, khi giao kết hoặc sửa đổi, bổ sung hợp đồng cung cấp và sử dụng dịch vụ, đơn vị cung cấp dịch vụ có quyền yêu cầu, còn chủ mạng nội bộ có trách nhiệm cung cấp các văn bản, tài liệu và thông tin liên quan sau:
+
+a) Mục đích thiết lập mạng và sử dụng dịch vụ;
+
+b) Cấu hình và quy mô mạng;
+
+c) Chủng loại thiết bị đầu cuối thuê bao;
+
+d) Số lượng thành viên nội bộ của mạng (đối với mạng nội bộ không thu cước).
+
+7. Khi chuyển giao toàn bộ hay một phần nhiệm vụ sản xuất, kinh doanh cho một đơn vị cung cấp dịch vụ khác, đơn vị cung cấp dịch vụ phải chuyển giao cả việc tiếp tục thực hiện hợp đồng cung cấp và sử dụng dịch vụ có liên quan.
+
+a) Trong thời hạn 30 ngày trước khi chuyển giao, đơn vị chuyển giao phải thông báo bằng văn bản cho chủ thuê bao có quan hệ hợp đồng biết nội dung việc chuyển giao và đơn vị nhận chuyển giao. Trong thời hạn 10 ngày kể từ ngày nhận được thông báo, chủ thuê bao có quan hệ hợp đồng với đơn vị chuyển giao có quyền đơn phương đình chỉ thực hiện hợp đồng và yêu cầu thanh lý hợp đồng theo quy định của pháp luật. Trong thời hạn 10 ngày nói trên, nếu chủ thuê bao không yêu cầu thanh lý hợp đồng thì việc chuyển giao hợp đồng coi như được chủ thuê bao chấp nhận;
+
+b) Đơn vị nhận chuyển giao có nghĩa vụ thực hiện hợp đồng cung cấp và sử dụng dịch vụ được chuyển giao.
+
+Điều 12: Chấm dứt và đơn phương đình chỉ thực hiện hợp đồng
+
+1. Hợp đồng cung cấp và sử dụng dịch vụ chấm dứt trong các trường hợp sau:
+
+a) Theo thoả thuận của các bên giao kết hợp đồng;
+
+b) Thời hạn có hiệu lực của hợp đồng đã hết và không có sự thoả thuận kéo dài thời hạn đó;
+
+c) Hợp đồng bị đơn vị cung cấp dịch vụ đơn phương đình chỉ theo quy định tại khoản 2 Điều này;
+
+d) Hợp đồng bị chủ thuê bao đơn phương đình chỉ theo quy định tại khoản 7 Điều 11, khoản 3 Điều 18 và khoản 3 Điều này;
+
+e) Các trường hợp khác do pháp luật quy định.
+
+2. Đơn vị cung cấp dịch vụ có quyền đơn phương đình chỉ thực hiện hợp đồng khi chủ thuê bao:
+
+a) Vi phạm các điều khoản của hợp đồng mà hai bên đã thoả thuận là điều kiện đình chỉ; hoặc
+
+b) Vi phạm pháp luật về bưu chính và viễn thông theo văn bản kết luận của cơ quan nhà nước có thẩm quyền và không thực thi trách nhiệm của mình theo kết luận xử lý của văn bản.
+
+Khi đơn phương đình chỉ thực hiện hợp đồng, đơn vị cung cấp dịch vụ phải thông báo bằng văn bản cho chủ thuê bao trước thời điểm ấn định đình chỉ 10 ngày.
+
+3. Chủ thuê bao có quyền đơn phương đình chỉ thực hiện hợp đồng khi:
+
+a) Đơn vị cung cấp dịch vụ vi phạm các điều khoản của hợp đồng mà hai bên đã thoả thuận là điều kiện đình chỉ; hoặc
+
+b) Chủ thuê bao thấy rằng việc tiếp tục thực hiện hợp đồng là không cần thiết hoặc không có lợi.
+
+Khi đơn phương đình chỉ thực hiện hợp đồng, chủ thuê bao phải thông báo bằng văn bản cho đơn vị cung cấp dịch vụ trước thời điểm ấn định đình chỉ 10 ngày.
+
+Điều 13: Thời điểm ngừng cung cấp và sử dụng dịch vụ khi chấm dứt hợp đồng
+
+1. Đối với trường hợp chấm dứt hợp đồng quy định tại điểm a khoản 1 Điều 12, thời điểm ngừng cung cấp và sử dụng dịch vụ khi chấm dứt hợp đồng là thời điểm mà hai bên thoả thuận chấm dứt hợp đồng được ghi trong hợp đồng.
+
+2. Đối với trường hợp chấm dứt hợp đồng quy định tại điểm b khoản 1 Điều 12, thời điểm ngừng cung cấp và sử dụng dịch vụ khi chấm dứt hợp đồng là thời điểm khi thời hạn có hiệu lực của hợp đồng đã hết mà không có thoả thuận kéo dài thêm thời hạn đó.
+
+3. Đối với trường hợp chấm dứt hợp đồng quy định tại điểm c khoản 1 Điều 12, thời điểm ngừng cung cấp và sử dụng dịch vụ là:
+
+a) Thời điểm được ấn định trong văn bản thông báo đơn phương đình chỉ, nếu đơn vị cung cấp dịch vụ có được xác nhận của chủ thuê bao là chủ thuê bao đã nhận được văn bản trước thời điểm ấn định đó; hoặc
+
+b) Thời điểm đơn vị cung cấp dịch vụ có được xác nhận của chủ thuê bao là chủ thuê bao đã nhận được văn bản thông báo đơn phương đình chỉ, nếu đơn vị cung cấp dịch vụ có được xác nhận đó muộn hơn thời điểm được ấn định trong văn bản.
+
+4. Đối với trường hợp chấm dứt hợp đồng theo quy định tại điểm d khoản 1 Điều 12, thời điểm ngừng cung cấp và sử dụng dịch vụ là:
+
+a) Thời điểm được ấn định trong văn bản thông báo đơn phương đình chỉ, nếu chủ thuê bao có được xác nhận của đơn vị cung cấp dịch vụ là đơn vị đã nhận được văn bản trước thời điểm ấn định đó; hoặc
+
+b) Thời điểm chủ thuê bao có được xác nhận của đơn vị cung cấp dịch vụ là đơn vị đã nhận được văn bản thông báo đơn phương đình chỉ, nếu chủ thuê bao có được xác nhận đó muộn hơn thời điểm được ấn định trong văn bản.
+
+Điều 14: Thanh lý hợp đồng
+
+1. Sau khi chấm dứt hợp đồng, đơn vị cung cấp dịch vụ và chủ thuê bao tiến hành thanh lý hợp đồng cung cấp và sử dụng dịch vụ theo các quy định của pháp luật.
+
+2. Khi thanh lý hợp đồng, chủ thuê bao và đơn vị cung cấp dịch vụ có trách nhiệm thanh toán với nhau mọi khoản nợ còn lại tính đến thời điểm ngừng cung cấp và sử dụng dịch vụ qui định tại Điều 13.
+
+MỤC 2. THAY ĐỔI ĐỊA ĐIỂM SỬ DỤNG DỊCH VỤ,
+
+ĐƠN VỊ CUNG CẤP DỊCH VỤ VÀ CHỦ THUÊ BAO
+
+Điều 15: Thay đổi địa điểm sử dụng dịch vụ
+
+1. Khi thay đổi địa điểm sử dụng dịch vụ đến địa điểm mới thuộc cùng một tỉnh, thành phố trực thuộc trung ương với địa điểm cũ, chủ thuê bao phải bổ sung hợp đồng cũ hoặc ký lại hợp đồng mới và thanh toán cước thay đổi địa điểm sử dụng dịch vụ theo quy định về quản lý giá, cước của Chính phủ và Tổng cục Bưu điện.
+
+2. Khi thay đổi địa điểm sử dụng dịch vụ đến địa điểm mới không thuộc cùng một tỉnh, thành phố trực thuộc trung ương với địa điểm cũ, chủ thuê bao phải làm thủ tục như trường hợp đăng ký mới (thanh lý hợp đồng cũ, ký hợp đồng mới và thanh toán cước đấu nối hoà mạng tại địa điểm mới).
+
+Điều 16: Thay đổi đơn vị cung cấp dịch vụ
+
+Chủ thuê bao được quyền thay đổi đơn vị cung cấp dịch vụ. Khi thay đổi đơn vị cung cấp dịch vụ, chủ thuê bao phải thanh lý hợp đồng với đơn vị cung cấp dịch vụ cũ và ký hợp đồng với đơn vị cung cấp dịch vụ mới.
+
+Điều 17: Thay đổi chủ thuê bao
+
+Nếu chủ thuê bao muốn chuyển việc sử dụng dịch vụ cho người khác mà không thay đổi địa điểm sử dụng dịch vụ và số thuê bao, thì chủ thuê bao chuyển việc sử dụng phải có đề nghị bằng văn bản gửi đơn vị cung cấp dịch vụ và thực hiện thanh lý hợp đồng, còn người nhận việc sử dụng dịch vụ phải ký hợp đồng mới với đơn vị cung cấp dịch vụ. Trong trường hợp này, đơn vị cung cấp dịch vụ không thu cước đấu nối hoà mạng, nhưng được quyền thu cước chuyển việc sử dụng dịch vụ theo quy định về quản lý giá, cước của Chính phủ và Tổng cục Bưu điện.
+
+MỤC 3. NGỪNG VÀ KHÔI PHỤC VIỆC CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ
+
+Điều 18: Đơn vị cung cấp dịch vụ tạm ngừng, ngừng và khôi phục cung cấp dịch vụ
+
+1. Nếu không có thoả thuận khác giữa đơn vị cung cấp dịch vụ và chủ thuê bao, đơn vị cung cấp dịch vụ được quyền:
+
+a) Tạm ngừng cung cấp một phần dịch vụ (trừ dịch vụ khẩn cấp quy định tại khoản 3 Điều 53), nếu sau thời hạn thanh toán cước quy định trong hợp đồng (quy định tại khoản 5 Điều 45) chủ thuê bao chưa thanh toán đủ cước dịch vụ theo thông báo hoặc hoá đơn thanh toán cước dịch vụ;
+
+b) Tạm ngừng cung cấp toàn bộ dịch vụ (trừ dịch vụ khẩn cấp quy định tại khoản 3 Điều 53), nếu sau 15 ngày kể từ ngày bị tạm ngừng cung cấp một phần dịch vụ quy định tại điểm a khoản 1 Điều này mà chủ thuê bao vẫn không hoặc chưa thanh toán đủ cước dịch vụ theo thông báo hoặc hoá đơn thanh toán cước dịch vụ.
+
+2. Trong vòng 60 ngày kể từ ngày tạm ngừng cung cấp toàn bộ dịch vụ, nếu chủ thuê bao đã thanh toán đủ cước dịch vụ như quy định tại khoản 6 Điều 45 cho đơn vị cung cấp dịch vụ và đề nghị được tiếp tục sử dụng dịch vụ, thì đơn vị cung cấp dịch vụ có trách nhiệm khôi phục việc cung cấp dịch vụ cho chủ thuê bao trong thời hạn 24 giờ kể từ thời điểm chủ thuê bao thanh toán đủ cước dịch vụ.
+
+3. Đơn vị cung cấp dịch vụ được quyền đơn phương đình chỉ thực hiện hợp đồng và ngừng cung cấp dịch vụ nếu sau 60 ngày kể từ ngày tạm ngừng cung cấp toàn bộ dịch vụ mà chủ thuê bao chưa thanh toán đủ cước dịch vụ. Trong trường hợp này chủ thuê bao vẫn phải chịu trách nhiệm thanh toán cước dịch vụ chưa trả, kể cả lãi suất nợ quá hạn và phải làm lại thủ tục như trường hợp đăng ký mới (thanh lý hợp đồng cũ, ký hợp đồng mới và thanh toán cước đấu nối hoà mạng), nếu có nhu cầu được tiếp tục sử dụng dịch vụ.
+
+4. Việc tạm ngừng và ngừng cung cấp dịch vụ do chủ thuê bao chưa thanh toán đủ cước không áp dụng đối với các số máy thuê bao phục vụ trực tiếp các liên lạc khẩn cấp quy định tại khoản 1 Điều 53.
+
+5. Trong quá trình cung cấp dịch vụ, đơn vị cung cấp dịch vụ có trách nhiệm tạm ngừng cung cấp dịch vụ đối với chủ thuê bao, đồng thời báo cáo Tổng cục Bưu điện, các Cục Bưu điện khu vực để xem xét giải quyết theo quy định, nếu phát hiện và có đủ sở cứ kết luận:
+
+a) Chủ thuê bao vi phạm các quy định tại khoản 4 Điều 4 về việc sử dụng dịch vụ; hoặc
+
+b) Thiết bị đầu cuối thuê bao gây mất an toàn cho mạng lưới viễn thông công cộng, đơn vị cung cấp và người sử dụng dịch vụ.
+
+Điều 19: Chủ thuê bao tạm ngừng và khôi phục sử dụng dịch vụ
+
+1. Chủ thuê bao có quyền đề nghị bằng văn bản tạm ngừng sử dụng toàn bộ dịch vụ trong thời hạn tối thiểu là 30 ngày và tối đa là 180 ngày. Khi nhận được đề nghị của chủ thuê bao, đơn vị cung cấp dịch vụ thực hiện việc tạm ngừng cung cấp dịch vụ và trả lời bằng văn bản xác nhận đã tạm ngừng cung cấp dịch vụ cho chủ thuê bao biết.
+
+2. Chủ thuê bao có quyền đề nghị bằng văn bản kéo dài thời hạn tạm ngừng sử dụng dịch vụ, nhưng tổng số ngày của các lần tạm ngừng kế tiếp nhau không được quá 180 ngày kể từ thời điểm đơn vị cung cấp dịch vụ có văn bản chấp thuận lần đầu việc tạm ngừng.
+
+3. Trong thời gian tạm ngừng sử dụng dịch vụ, nếu chủ thuê bao có văn bản đề nghị khôi phục việc sử dụng dịch vụ và đã thanh toán đủ cước theo quy định cho đơn vị cung cấp dịch vụ đến thời điểm đó, thì trong thời hạn 24 giờ kể từ khi nhận được văn bản đề nghị của chủ thuê bao, đơn vị cung cấp dịch vụ có trách nhiệm khôi phục việc sử dụng dịch vụ cho chủ thuê bao.
+
+4. Nếu đã hết thời hạn tạm ngừng sử dụng dịch vụ được hai bên thoả thuận và chủ thuê bao không có đề nghị bằng văn bản xin kéo dài thời hạn tạm ngừng sử dụng dịch vụ, thì đơn vị cung cấp dịch vụ khôi phục việc cung cấp dịch vụ cho chủ thuê bao và thông báo bằng văn bản cho chủ thuê bao biết. Chủ thuê bao có trách nhiệm thanh toán cước đầy đủ theo quy định cho đơn vị cung cấp dịch vụ tính từ thời điểm khôi phục dịch vụ.
+
+5. Nếu đã hết thời hạn 180 ngày kể từ thời điểm được ấn định trong văn bản của đơn vị cung cấp dịch vụ chấp thuận lần đầu việc tạm ngừng sử dụng dịch vụ, mà chủ thuê bao có đề nghị bằng văn bản xin kéo dài thêm thời hạn tạm ngừng sử dụng dịch vụ, thì căn cứ vào tình hình thực tế, đơn vị cung cấp dịch vụ có quyền chấp nhận, hoặc từ chối yêu cầu trên của chủ thuê bao. Trong trường hợp từ chối yêu cầu của chủ thuê bao, thì đơn vị cung cấp dịch vụ và chủ thuê bao thực hiện việc thanh lý hợp đồng theo quy định.
+
+6. Trong thời gian tạm ngừng sử dụng dịch vụ, chủ thuê bao phải thanh toán cho đơn vị cung cấp dịch vụ cước áp dụng cho thời gian tạm ngừng sử dụng dịch vụ.
+
+MỤC 4. ĐIỂM KẾT CUỐI CỦA MẠNG ĐIỆN THOẠI CÔNG CỘNG
+
+Điều 20: Đường dây thuê bao, đường trung kế và điểm kết cuối của mạng
+
+1. Đường dây thuê bao là đường truyền dẫn hữu tuyến hoặc vô tuyến, kết nối tổng đài nội hạt của đơn vị cung cấp dịch vụ với thiết bị đầu cuối thuê bao một đường (quy định tại khoản 1 Điều 22) của chủ thuê bao.
+
+2. Đường trung kế là đường truyền dẫn hữu tuyến hoặc vô tuyến kết nối tổng đài nội hạt của đơn vị cung cấp dịch vụ với thiết bị đầu cuối thuê bao nhiều đường (quy định tại khoản 1 Điều 22) của chủ thuê bao. Theo tiêu chuẩn kỹ thuật, đường trung kế bao gồm:
+
+a) Đường trung kế thuê bao;
+
+b) Đường trung kế tương tự;
+
+c) Đường trung kế số.
+
+3. Điểm kết cuối của mạng điện thoại công cộng là điểm nằm trên đường dây thuê bao hoặc đường trung kế, kết nối tổng đài nội hạt với thiết bị đầu cuối thuê bao, phân định ranh giới trách nhiệm về kinh tế và kỹ thuật giữa đơn vị cung cấp dịch vụ và chủ thuê bao.
+
+Điều 21: Vị trí điểm kết cuối của mạng
+
+1. Đối với đường dây thuê bao hữu tuyến, nếu không có thoả thuận khác trong hợp đồng cung cấp và sử dụng dịch vụ thì vị trí điểm kết cuối của mạng điện thoại công cộng được xác định là phía thuê bao của:
+
+a) Hộp đầu cáp cuối cùng lắp đặt tại nhà thuê bao; hoặc
+
+b) Hộp đầu dây thuê bao lắp đặt tại nhà thuê bao nếu điều kiện tại điểm a nêu trên không thoả mãn; hoặc
+
+c) Ổ giắc cắm thiết bị đầu cuối thuê bao đầu tiên tại nhà thuê bao, nếu điều kiện tại các điểm a và b nêu trên không thoả mãn.
+
+2. Đối với đường dây thuê bao vô tuyến cố định, nếu không có thoả thuận khác trong hợp đồng cung cấp và sử dụng dịch vụ, thì vị trí điểm kết cuối của mạng điện thoại công cộng được xác định là phía thuê bao của:
+
+a) Ổ giắc cắm tại bộ thiết bị đầu cuối thuê bao, nếu thiết bị đầu cuối thuê bao là loại cố định; hoặc
+
+b) Anten trạm vô tuyến gốc của đơn vị cung cấp dịch vụ nếu thiết bị đầu cuối thuê bao là loại di động.
+
+3. Đối với đường trung kế hữu tuyến nếu không có thoả thuận khác trong hợp đồng cung cấp và sử dụng dịch vụ, thì vị trí điểm kết cuối của mạng điện thoại công cộng được xác định là phía thuê bao của:
+
+a) Hộp đầu cáp cuối cùng lắp đặt tại nhà thuê bao; hoặc
+
+b) Phiến (bảng) đấu dây của thiết bị truyền dẫn hữu tuyến lắp đặt tại nhà thuê bao, nếu điều kiện tại điểm a nêu trên không thoả mãn; hoặc
+
+c) Phiến (bảng) đấu dây trên giá đấu dây (MDF) của thiết bị đầu cuối thuê bao nhiều đường lắp đặt tại nhà thuê bao, nếu các điều kiện tại điểm a và b nêu trên không thoả mãn.
+
+4. Đối với đường trung kế vô tuyến, nếu không có thoả thuận khác trong hợp đồng cung cấp và sử dụng dịch vụ, thì vị trí điểm kết cuối của mạng điện thoại công cộng được xác định là phía thuê bao của:
+
+a) Phiến (bảng) đấu dây của thiết bị truyền dẫn vô tuyến lắp đặt tại nhà thuê bao; hoặc
+
+b) Phiến (bảng) đấu dây trên giá đấu dây (MDF) của thiết bị đầu cuối thuê bao nhiều đường lắp đặt tại nhà thuê bao, nếu điều kiện tại điểm a nêu trên không thoả mãn.
+
+MỤC 5. THIẾT BỊ ĐẦU CUỐI THUÊ BAO VÀ MẠNG NỘI BỘ
+
+Điều 22: Thiết bị đầu cuối thuê bao và mạng nội bộ
+
+1. Thiết bị đầu cuối thuê bao của mạng điện thoại công cộng bao gồm thiết bị đầu cuối thuê bao một đường (máy điện thoại, máy điện thoại thấy hình, thiết bị Fax, modem quay số tốc độ thấp hoặc thiết bị kết hợp tính năng của các thiết bị nói trên) và thiết bị đầu cuối thuê bao nhiều đường (tổng đài nội bộ PABX, thiết bị có tính năng kết nối cuộc gọi) được lắp đặt tại nhà thuê bao để sử dụng các dịch vụ viễn thông cố định.
+
+2. Máy nhánh là thiết bị đầu cuối thuê bao một đường được lắp đặt và đấu nối vào thiết bị đầu cuối thuê bao nhiều đường trong phạm vi nhà thuê bao.
+
+3. Trong Thể lệ này, mạng nội bộ là mạng lưới thiết bị đầu cuối thuê bao, bao gồm thiết bị đầu cuối thuê bao nhiều đường, các máy nhánh và mạng cáp nội bộ kết nối thiết bị đầu cuối thuê bao nhiều đường với các máy nhánh, được lắp đặt trong phạm vi nhà thuê bao để sử dụng các dịch vụ viễn thông cố định.
+
+4. Theo mục đích sử dụng, mạng nội bộ được phân thành mạng nội bộ không thu cước và mạng nội bộ có thu cước:
+
+a) Mạng nội bộ không thu cước là mạng nội bộ do chủ thuê bao thiết lập trong phạm vi nhà thuê bao để bảo đảm liên lạc nội bộ cho các thành viên của mạng và không thu cước. Nếu chủ thuê bao của mạng nội bộ (sau đây gọi là chủ mạng nội bộ) là cá nhân thì các thành viên của mạng là các thành viên của hộ gia đình mà chủ mạng nội bộ là chủ hộ hoặc là người được chủ hộ uỷ quyền theo quy định của pháp luật. Nếu chủ mạng nội bộ là cơ quan, tổ chức thì tư cách thành viên của mạng được xác định theo điều lệ hoạt động, văn bản pháp quy quy định cơ cấu tổ chức bộ máy của cơ quan, tổ chức đó hoặc các quy định pháp lý có liên quan khác.
+
+b) Mạng nội bộ có thu cước là mạng nội bộ do chủ mạng nội bộ thiết lập để cung cấp các dịch vụ viễn thông cố định cho người sử dụng dịch vụ trong phạm vi nhà thuê bao và được thu cước của người sử dụng dịch vụ theo quy định của Chính phủ và Tổng cục Bưu điện.
+
+Đối tượng được phép thiết lập mạng nội bộ có thu cước bao gồm cơ sở lưu trú du lịch (khách sạn; làng du lịch; biệt thự, căn hộ kinh doanh du lịch; bãi cắm trại du lịch v.v...), nhà nghỉ, nhà khách, nhà hàng được phép kinh doanh hoặc hoạt động theo quy định của pháp luật và các trường hợp khác do Tổng cục Bưu điện quy định.
+
+5. Các thiết bị đầu cuối thuê bao thuộc danh mục bắt buộc phải chứng nhận hợp chuẩn muốn sử dụng trên mạng điện thoại công cộng phải tuân theo các quy định tại Thông tư số 01/1998/TT-TCBĐ ngày 15/5/1998 của Tổng cục Bưu điện và các quy định có liên quan khác của Tổng cục Bưu điện về công tác quản lý chất lượng vật tư, thiết bị, mạng lưới và dịch vụ bưu chính viễn thông.
+
+6. Các thiết bị đầu cuối thuê bao có phát xạ sóng vô tuyến điện muốn sử dụng trên mạng điện thoại công cộng, ngoài quy định tại khoản 5 nêu trên, phải tuân theo các quy định tại Thông tư số 05/1999/TT-TCBĐ ngày 06/10/1999 của Tổng cục Bưu điện và các quy định có liên quan khác của Tổng cục Bưu điện về quản lý và cấp phép sử dụng tần số, thiết bị phát sóng vô tuyến điện .
+
+Điều 23: Trang bị, thiết kế, lắp đặt thiết bị đầu cuối thuê bao và mạng nội bộ
+
+1. Việc trang bị, thiết kế, lắp đặt các thiết bị đầu cuối thuê bao và mạng nội bộ phải tuân thủ các quy trình, quy phạm của Nhà nước và các quy định của Tổng cục Bưu điện về xây lắp công trình mạng lưới và thiết bị viễn thông.
+
+2. Chủ thuê bao có thể tự mua thiết bị đầu cuối thuê bao, hoặc thuê thiết bị đầu cuối của đơn vị cung cấp dịch vụ.
+
+3. Đối với thiết bị đầu cuối thuê bao một đường, chủ thuê bao có thể tự đảm nhiệm hoặc thuê các tổ chức, cá nhân khác đảm nhiệm việc thiết kế, lắp đặt trong phạm vi nhà thuê bao cho đến điểm kết cuối của mạng điện thoại công cộng với điều kiện mỗi đường dây thuê bao được nối với 01 thiết bị đầu cuối thuê bao. Trường hợp lắp đặt nhiều hơn 01 thiết bị đầu cuối thuê bao trên mỗi đường dây thuê bao, thì chủ thuê bao phải thực hiện các biện pháp kỹ thuật bảo đảm tiêu chuẩn đấu nối và chỉ tiêu chất lượng dịch vụ được Tổng cục Bưu điện quy định.
+
+4. Đối với mạng nội bộ không thu cước, chủ mạng nội bộ có thể tự đảm nhiệm hoặc thuê các tổ chức, cá nhân khác đảm nhiệm việc thiết kế, lắp đặt trong phạm vi nhà thuê bao cho đến điểm kết cuối của mạng điện thoại công cộng.
+
+5. Đối với mạng nội bộ có thu cước, chủ mạng nội bộ phải thuê các tổ chức, cá nhân có chứng nhận đăng ký kinh doanh thiết kế, lắp đặt công trình mạng lưới, thiết bị viễn thông đảm nhiệm việc thiết kế, lắp đặt trong phạm vi nhà thuê bao cho đến điểm kết cuối của mạng điện thoại công cộng.
+
+Điều 24: Bảo dưỡng, sửa chữa thiết bị đầu cuối thuê bao, mạng nội bộ
+
+1. Chủ thuê bao có thể tự đảm nhiệm hoặc thuê các tổ chức, cá nhân khác bảo dưỡng, sửa chữa thiết bị đầu cuối thuê bao, mạng nội bộ thuộc tài sản của mình.
+
+2. Đối với các thiết bị đầu cuối thuê bao thuê của đơn vị cung cấp dịch vụ, việc bảo dưỡng, sửa chữa được đơn vị cung cấp dịch vụ thực hiện thông qua hợp đồng ký với chủ thuê bao.
+
+Điều 25: Đấu nối hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ
+
+1. Các thiết bị đầu cuối thuê bao một đường được đấu nối vào tổng đài nội hạt của mạng điện thoại công cộng bằng đường dây thuê bao.
+
+2. Các thiết bị đầu cuối thuê bao nhiều đường được đấu nối vào tổng đài nội hạt của mạng điện thoại công cộng bằng các đường trung kế.
+
+3. Việc đấu nối hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng điện thoại công cộng do đơn vị cung cấp dịch vụ thực hiện thông qua hợp đồng cung cấp và sử dụng dịch vụ. Việc đấu nối hoà mạng do đơn vị cung cấp dịch vụ thực hiện bao gồm:
+
+a) Lắp đặt, đấu nối phần đường dây thuê bao hoặc đường trung kế từ điểm kết cuối của mạng điện thoại công cộng đến tổng đài nội hạt của đơn vị cung cấp dịch vụ;
+
+b) Lập trình tổng đài để cấp số và tín hiệu cho đường dây thuê bao hoặc đường trung kế của mạng nội bộ;
+
+c) Thử kết nối cuộc gọi và thử các dịch vụ đã ghi trong hợp đồng qua đường dây thuê bao hoặc qua đường trung kế của mạng nội bộ;
+
+d) Lập biên bản bàn giao và nghiệm thu.
+
+4. Ngoài các quy định tại khoản 3 Điều này, khi đấu nối hoà mạng nội bộ vào mạng điện thoại công cộng, đơn vị cung cấp dịch vụ có trách nhiệm phối hợp với chủ thuê bao đo thử, kiểm tra chất lượng kết nối cuộc gọi, chất lượng dịch vụ, tiêu chuẩn kỹ thuật giao diện kết nối của mạng nội bộ.
+
+5. Khi đấu nối hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng điện thoại công cộng, đơn vị cung cấp dịch vụ có trách nhiệm từ chối đấu nối hoà mạng và yêu cầu chủ thuê bao, chủ mạng nội bộ khắc phục các tồn tại nếu phát hiện và có đủ sở cứ kết luận việc lắp đặt thiết bị đầu cuối thuê bao và mạng nội bộ:
+
+a) Không bảo đảm đúng mục đích sử dụng dịch vụ viễn thông cố định quy định trong hợp đồng; hoặc
+
+b) Không đáp ứng tiêu chuẩn kỹ thuật quy định của Tổng cục Bưu điện; hoặc
+
+c) Gây mất an toàn cho mạng lưới viễn thông công cộng, đơn vị cung cấp và người sử dụng dịch vụ.
+
+6. Trong trường hợp không đồng ý với việc từ chối đấu nối hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng điện thoại công cộng và các yêu cầu của đơn vị cung cấp dịch vụ, chủ thuê bao, chủ mạng nội bộ có thể yêu cầu Tổng cục Bưu điện và các Cục Bưu điện khu vực xem xét giải quyết theo quy định.
+
+7. Mạng nội bộ không thu cước mà chủ mạng nội bộ là cá nhân (mạng nội bộ của hộ gia đình) và mạng nội bộ có thu cước không được phép đấu nối trực tiếp với kênh thuê riêng trong nước và quốc tế.
+
+8. Đối với các thiết bị đầu cuối thuê bao và mạng nội bộ có đấu nối với kênh thuê riêng trong nước và quốc tế thì chủ thuê bao phải bảo đảm sử dụng thiết bị đầu cuối thuê bao và mạng nội bộ đúng mục đích đã ghi trong hợp đồng. Chủ thuê bao không được dùng hoặc cho phép người khác dùng thiết bị đầu cuối thuê bao và mạng nội bộ để chuyển tiếp bằng bất kỳ phương thức nào (tự động hay nhân công) các cuộc gọi từ các thiết bị đầu cuối không phải của mình hoặc thiết bị đầu cuối ngoài mạng nội bộ qua các kênh thuê riêng và ngược lại (theo cả hai chiều đi và đến).
+
+9. Thiết bị đầu cuối thuê bao lắp đặt trong phạm vi (vùng cước) nội hạt nào thì được đấu nối vào tổng đài nội hạt thuộc phạm vi (vùng cước) nội hạt đó. Đơn vị cung cấp dịch vụ có thể thực hiện việc đấu nối thiết bị đầu cuối thuê bao vào tổng đài nội hạt thuộc phạm vi (vùng cước) nội hạt liền kề, nếu chủ thuê bao yêu cầu hoặc đồng ý đấu nối thiết bị đầu cuối thuê bao vào tổng đài nội hạt thuộc phạm vi (vùng cước) nội hạt liền kề và điều kiện kinh tế, kỹ thuật cho phép đơn vị cung cấp dịch vụ có thể thực hiện được việc đấu nối đó.
+
+MỤC 6. CẤP VÀ SỬ DỤNG SỐ THUÊ BAO
+
+Điều 26: Số thuê bao
+
+1. Số thuê bao là một tập hợp các chữ số được chủ thuê bao quay (bấm) trên thiết bị đầu cuối để nối đến một chủ thuê bao khác trong cùng một phạm vi (vùng cước) nội hạt hoặc cùng một tổng đài nội hạt.
+
+2. Đối với thiết bị đầu cuối thuê bao một đường, mỗi đường dây thuê bao được cấp một số thuê bao của mạng điện thoại công cộng.
+
+3. Đối với thiết bị đầu cuối thuê bao nhiều đường:
+
+a) Mỗi đường trung kế thuê bao được cấp một số thuê bao của mạng điện thoại công cộng;
+
+b) Mỗi đường trung kế số và đường trung kế tương tự được cấp một hoặc một nhóm số thuê bao của mạng điện thoại công cộng.
+
+4. Trừ các trường hợp đặc biệt được Tổng cục Bưu điện quy định riêng, số máy nhánh của mạng nội bộ được quy định như sau:
+
+a) Số máy nhánh không nằm trong vùng số của mạng điện thoại công cộng, do chủ mạng nội bộ tự quy định;
+
+b) Số máy nhánh nằm trong vùng số của mạng điện thoại công cộng, được chủ mạng nội bộ thuê lại của đơn vị cung cấp dịch vụ theo quy định quản lý kho số và quản lý giá, cước của Chính phủ và Tổng cục Bưu điện.
+
+Điều 27: Thay đổi số thuê bao
+
+1. Trường hợp đơn vị cung cấp dịch vụ chủ động đổi số thuê bao theo kế hoạch đánh số và kế hoạch phát triển mạng lưới đã được cấp có thẩm quyền phê duyệt, thì đơn vị cung cấp dịch vụ phải thông báo trước ít nhất 60 ngày cho chủ thuê bao về thời điểm và các thông tin cần thiết về kế hoạch đổi số, hướng dẫn chủ thuê bao việc sử dụng dịch vụ sau khi đổi số và chịu mọi chi phí cho việc đổi số, nhưng không phải chịu trách nhiệm về những thiệt hại gián tiếp do việc đổi số gây ra cho chủ thuê bao.
+
+2. Trường hợp chủ thuê bao không thay đổi địa điểm sử dụng dịch vụ nhưng yêu cầu được đổi số thuê bao, thì nếu điều kiện kỹ thuật cho phép, đơn vị cung cấp dịch vụ thực hiện đổi số và hướng dẫn việc sử dụng sau khi đổi số, còn chủ thuê bao phải thanh toán cước đổi số thuê bao theo quy định về quản lý giá, cước của Chính phủ và Tổng cục Bưu điện.
+
+Điều 28: Giữ nguyên số thuê bao
+
+1. Trường hợp chủ thuê bao thay đổi địa điểm đăng ký sử dụng dịch vụ đến địa điểm mới thuộc cùng một tỉnh, thành phố trực thuộc trung ương với địa điểm cũ và yêu cầu được giữ nguyên số thuê bao, thì nếu điều kiện kỹ thuật cho phép, đơn vị cung cấp dịch vụ thực hiện việc giữ nguyên số thuê bao, còn chủ thuê bao phải thanh toán cước giữ nguyên số thuê bao cho đơn vị cung cấp dịch vụ theo quy định về quản lý giá, cước của Chính phủ và Tổng cục Bưu điện.
+
+2. Trường hợp chủ thuê bao thay đổi đơn vị cung cấp dịch vụ nhưng không thay đổi địa điểm sử dụng dịch vụ và yêu cầu được giữ nguyên số thuê bao, thì nếu điều kiện kỹ thuật cho phép, đơn vị cung cấp dịch vụ cũ và đơn vị cung cấp dịch vụ mới phối hợp thực hiện việc giữ nguyên số thuê bao, còn chủ thuê bao phải thanh toán cước giữ nguyên số thuê bao cho đơn vị cung cấp dịch vụ mới theo quy định về quản lý giá, cước của Chính phủ và Tổng cục Bưu điện. Đơn vị cung cấp dịch vụ mới có trách nhiệm thanh toán phần chi phí có liên quan đến việc giữ nguyên số thuê bao cho đơn vị cung cấp dịch vụ cũ theo thoả thuận giữa hai bên.
+
+Điều 29: Danh bạ điện thoại công cộng
+
+1. Danh bạ điện thoại công cộng là tập hợp các thông tin liên quan đến tên, địa chỉ của chủ thuê bao, số thuê bao và các thông tin liên quan khác (nếu có), được lưu trữ dưới hình thức ấn phẩm truyền thống hoặc ấn phẩm điện tử (sách, đĩa CD-ROM v.v..) và được các đơn vị cung cấp dịch vụ in, phát hành và quản lý theo quy định của Tổng cục Bưu điện.
+
+2. Chủ thuê bao có quyền đăng ký hoặc từ chối đăng ký số thuê bao của mình vào danh bạ điện thoại công cộng. Nếu chủ thuê bao từ chối đăng ký số thuê bao vào danh bạ điện thoại công cộng thì đơn vị cung cấp dịch vụ chịu trách nhiệm giữ bí mật các thông tin liên quan đến chủ thuê bao, trừ các trường hợp quy định tại khoản 1 Điều 51 của Thể lệ.
+
+Điều 30: Trợ giúp tra cứu số thuê bao
+
+1. Dịch vụ trợ giúp tra cứu số thuê bao của mạng điện thoại công cộng là dịch vụ điện thoại của đơn vị cung cấp dịch vụ, giúp cho người sử dụng dịch vụ tra cứu số thuê bao nội hạt do đơn vị quản lý và được đăng ký trong danh bạ điện thoại công cộng. Khi người sử dụng dịch vụ gọi đến số máy dịch vụ trợ giúp tra cứu số thuê bao của đơn vị cung cấp dịch vụ và nêu các thông tin liên quan đến tên, địa chỉ của chủ thuê bao thì sẽ được biết số thuê bao nội hạt cần tra cứu.
+
+2. Tổng cục Bưu điện quy định số máy dịch vụ trợ giúp tra cứu số thuê bao của mạng điện thoại công cộng trong kế hoạch đánh số quốc gia. Các đơn vị cung cấp dịch vụ có trách nhiệm thông báo cho người sử dụng dịch vụ, đăng trong danh bạ điện thoại công cộng và thông báo trên các phương tiện thông tin đại chúng các số máy dịch vụ trợ giúp tra cứu số thuê bao của mạng điện thoại công cộng được Tổng cục Bưu điện quy định.
+
+3. Đơn vị cung cấp dịch vụ có trách nhiệm cung cấp khả năng truy nhập và miễn cước đối với dịch vụ trợ giúp tra cứu số thuê bao của mạng điện thoại công cộng cho người sử dụng dịch vụ bằng các phương thức sau:
+
+a) Tự tổ chức thực hiện; hoặc
+
+b) Ủy thác cho đơn vị cung cấp dịch vụ khác thực hiện thông qua hợp đồng ký với đơn vị đó.
+
+Điều 31: Báo hỏng số thuê bao
+
+1. Dịch vụ báo hỏng số thuê bao của mạng điện thoại công cộng là dịch vụ điện thoại của đơn vị cung cấp dịch vụ, giúp cho người sử dụng dịch vụ thông báo cho đơn vị biết việc hoạt động không bình thường hoặc việc mất liên lạc của số thuê bao nội hạt do đơn vị quản lý và yêu cầu khắc phục sự cố.
+
+2. Tổng cục Bưu điện quy định số máy dịch vụ báo hỏng số thuê bao của mạng điện thoại công cộng trong kế hoạch đánh số quốc gia. Các đơn vị cung cấp dịch vụ có trách nhiệm thông báo cho người sử dụng dịch vụ, đăng trong danh bạ điện thoại công cộng và thông báo trên các phương tiện thông tin đại chúng các số máy dịch vụ báo hỏng số thuê bao của mạng điện thoại công cộng được Tổng cục Bưu điện quy định.
+
+3. Đơn vị cung cấp dịch vụ có trách nhiệm cung cấp khả năng truy nhập và miễn cước đối với dịch vụ báo hỏng số thuê bao của mạng điện thoại công cộng cho người sử dụng dịch vụ.
+
+4. Đơn vị cung cấp dịch vụ có trách nhiệm bảo đảm thời gian sửa chữa số thuê bao hỏng theo tiêu chuẩn đã đăng ký với Tổng cục Bưu điện.
+
+CHƯƠNG IV
+
+CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+TẠI ĐIỂM CÔNG CỘNG
+
+Điều 32: Cung cấp và sử dụng dịch vụ tại điểm công cộng có người phục vụ
+
+1. Các đơn vị cung cấp dịch vụ được thiết lập các điểm cung cấp dịch vụ công cộng có người phục vụ để đáp ứng nhu cầu của người sử dụng dịch vụ.
+
+2. Đơn vị cung cấp dịch vụ phải niêm yết công khai, chính xác, rõ ràng giờ phục vụ, cước dịch vụ hiện hành và các hướng dẫn sử dụng dịch vụ cần thiết tại các điểm công cộng có người phục vụ.
+
+3. Người sử dụng dịch vụ tại các điểm công cộng có người phục vụ phải thực hiện đúng các quy định của đơn vị cung cấp dịch vụ, hướng dẫn của nhân viên giao dịch và thanh toán đầy đủ cước dịch vụ theo quy định.
+
+4. Đơn vị cung cấp dịch vụ có quyền từ chối cung cấp dịch vụ tại điểm công cộng, nếu người sử dụng dịch vụ vi phạm pháp luật về bưu chính và viễn thông.
+
+Điều 33: Cung cấp và sử dụng dịch vụ tại điểm công cộng không có người phục vụ
+
+1. Tuỳ theo điều kiện thực tế, đơn vị cung cấp dịch vụ được bố trí, lắp đặt các buồng (cabin) điện thoại công cộng với các điều kiện:
+
+a) Vị trí lắp đặt buồng điện thoại thuận tiện cho người sử dụng dịch vụ, không ảnh hưởng đến mỹ quan, trật tự công cộng và môi trường xung quanh;
+
+b) Biểu trưng của mỗi đơn vị cung cấp dịch vụ trên buồng điện thoại phải thống nhất trong cả nước;
+
+c) Trong buồng điện thoại phải có niêm yết hướng dẫn sử dụng dịch vụ và các số máy dịch vụ khẩn cấp, dịch vụ trợ giúp tra cứu số thuê bao của mạng điện thoại công cộng.
+
+2. Đơn vị cung cấp dịch vụ có trách nhiệm phát hành và tổ chức việc cung cấp (bán) các loại thẻ điện thoại với mệnh giá được quy định cho người sử dụng dịch vụ.
+
+3. Người sử dụng dịch vụ phải thực hiện đúng các nội quy, quy định hướng dẫn sử dụng dịch vụ được niêm yết tại các điểm cung cấp dịch vụ không có người phục vụ.
+
+4. Nghiêm cấm các hành vi:
+
+a) Làm thẻ điện thoại giả, sử dụng thẻ điện thoại giả để thực hiện các cuộc gọi;
+
+b) Phá hoại hoặc sử dụng không đúng mục đích các buồng điện thoại công cộng.
+
+CHƯƠNG V
+
+CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+QUA ĐIỆN THOẠI VIÊN
+
+Điều 34: Trách nhiệm cung cấp dịch vụ qua điện thoại viên
+
+1. Các doanh nghiệp cung cấp dịch vụ viễn thông thiết lập mạng để cung cấp dịch vụ đường dài trong nước và quốc tế có trách nhiệm bảo đảm cung cấp dịch vụ gọi số qua điện thoại viên được quy định tại điểm b khoản 3 Điều 6.
+
+2. Ngoài dịch vụ gọi số quy định ở trên, tùy theo điều kiện thực tế, các đơn vị cung cấp dịch vụ có thể tổ chức cung cấp các dịch vụ qua điện thoại viên khác.
+
+Điều 35: Trách nhiệm của điện thoại viên
+
+1. Điện thoại viên có trách nhiệm thực hiện thủ tục tiếp nhận đăng ký dịch vụ qua điện thoại viên, cập nhật các thông tin liên quan đến cuộc gọi trên ấn phẩm nghiệp vụ hoặc trên máy tính, tiếp thông cuộc gọi theo đúng quy trình khai thác được đơn vị cung cấp dịch vụ quy định.
+
+2. Điện thoại viên có trách nhiệm tuyệt đối giữ bí mật các cuộc gọi, không được tìm hiểu, tiết lộ nội dung thông tin cuộc gọi.
+
+3. Điện thoại viên phải có tinh thần, thái độ phục vụ lịch sự, đúng mực, hợp tác và sẵn sàng hướng dẫn cách dùng cho người sử dụng dịch vụ, không được nhận hay chuyển thay cho người sử dụng dịch vụ những tin tức bằng điện thoại trừ những trường hợp đặc biệt có quy định riêng.
+
+4. Thời hạn đăng ký dịch vụ qua điện thoại viên có hiệu lực cho đến khi cuộc gọi hoàn thành.
+
+CHƯƠNG VI
+
+CƯỚC DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+Điều 36: Quản lý cước dịch vụ
+
+Việc quản lý cước dịch vụ viễn thông cố định được thực hiện theo Nghị định số 109/1997/NĐ-CP ngày 12/11/1997 của Chính phủ về Bưu chính và Viễn thông, Quyết định số 99/1998/QĐ-TTg ngày 26/5/1998 của Thủ tướng Chính phủ về quản lý giá, cước bưu chính và viễn thông và Thông tư số 03/1999/TT-TCBĐ ngày 11/5/1999 của Tổng cục Bưu điện.
+
+Điều 37: Quản lý hệ thống tính cước
+
+1. Đơn vị cung cấp dịch vụ và chủ mạng nội bộ có thu cước có trách nhiệm khai thác, quản lý hệ thống tính cước theo quy định thống nhất trong đơn vị để bảo đảm tính cước và lập hóa đơn chính xác cho người sử dụng dịch vụ.
+
+2. Đơn vị cung cấp dịch vụ và chủ mạng nội bộ có thu cước phải thực hiện việc đăng ký kiểm định hệ thống tính cước theo quy định của Tổng cục Bưu điện và các cơ quan nhà nước có thẩm quyền.
+
+3. Để bảo đảm việc giải quyết khiếu nại của người sử dụng dịch vụ, cũng như đáp ứng yêu cầu thanh tra, kiểm tra của Tổng cục Bưu điện và các cơ quan nhà nước có thẩm quyền, đơn vị cung cấp dịch vụ có trách nhiệm lưu giữ số liệu gốc tính cước của tổng đài tối thiểu 180 ngày.
+
+Điều 38: Nguyên tắc xác định thời gian liên lạc, phạm vi (vùng cước) liên lạc, đơn vị tính cước
+
+1. Thời điểm thiết lập liên lạc là thời điểm khi bên bị gọi nhấc máy trả lời hoặc khi có tín hiệu nhấc máy trả lời tự động từ các thiết bị đầu cuối (thiết bị điện thoại có chức năng thông báo, chức năng ghi âm, tổng đài nội bộ v.v...), hoặc khi cuộc gọi được chuyển tiếp đến hộp thư thoại. Thời điểm kết thúc liên lạc là thời điểm tổng đài nhận được tín hiệu đặt máy của bên chủ gọi, hoặc tín hiệu đặt máy của bên bị gọi theo tiêu chuẩn kỹ thuật về báo hiệu của Tổng cục Bưu điện. Thời gian liên lạc của người sử dụng dịch vụ là thời gian từ thời điểm thiết lập liên lạc đến thời điểm kết thúc liên lạc.
+
+Các đơn vị cung cấp dịch vụ có trách nhiệm lập trình tính cước cho người sử dụng dịch vụ theo nguyên tắc xác định thời gian liên lạc quy định ở trên.
+
+2. Tổng cục Bưu điện quy định và công bố phạm vi (vùng cước) nội hạt, phạm vi (vùng cước) đường dài trong nước.
+
+3. Tổng cục Bưu điện quy định và công bố đơn vị tính cước đầu và các đơn vị tính cước tiếp theo đối với các dịch vụ cơ bản.
+
+Điều 39: Cước dịch vụ tại nhà thuê bao
+
+1. Cước dịch vụ tại nhà thuê bao là cước mà chủ thuê bao phải thanh toán cho đơn vị cung cấp dịch vụ để sử dụng các dịch vụ viễn thông thông qua hợp đồng cung cấp và sử dụng dịch vụ. Không phụ thuộc vào loại hình dịch vụ cước dịch vụ tại nhà thuê bao bao gồm:
+
+Cước đấu nối hoà mạng; b) Cước thuê bao;
+
+c) Cước liên lạc (nếu có);
+
+d) Cước dịch vụ cộng thêm (nếu có).
+
+2. Cước đấu nối hoà mạng là cước mà chủ thuê bao phải thanh toán cho đơn vị cung cấp dịch vụ khi hai bên giao kết hợp đồng để lắp đặt, đấu nối và đưa vào sử dụng đường dây thuê bao hoặc đường trung kế. Việc đấu nối hoà mạng được quy định tại khoản 3 Điều 25 của Thể lệ.
+
+3. Cước thuê bao được quy định theo nguyên tắc sau:
+
+a) Cước thuê bao được tính đối với mỗi đường dây thuê bao và đường trung kế. Tuỳ vào phương thức đấu nối thiết bị đầu cuối thuê bao vào mạng điện thoại công cộng và dung lượng đường trung kế mà cước thuê bao được quy định theo các mức khác nhau:
+
+- Cước thuê bao đối với đường dây thuê bao và trung kế thuê bao;
+
+- Cước thuê bao đối với đường trung kế tương tự ;
+
+- Cước thuê bao đối với đường trung kế số.
+
+b) Không tính cước thuê bao đối với các máy đấu song song và máy nhánh;
+
+c) Cước thuê bao xa bao gồm cước thuê kênh và cước thuê bao;
+
+d) Nếu không có thoả thuận khác giữa đơn vị cung cấp dịch vụ và chủ thuê bao thì cước thuê bao được thanh toán một lần mỗi tháng;
+
+e) Nếu thời gian sử dụng dịch vụ không tròn tháng thì cước thuê bao trong tháng đó được tính như sau:
+
+(Cước thuê bao tháng /30 ngày) x N ngày
+
+N là số ngày từ khi đơn vị cung cấp dịch vụ bàn giao máy thông liên lạc cho chủ thuê bao đến ngày cuối cùng của tháng hoặc là số ngày từ ngày đầu tiên của tháng đến ngày ngừng cung cấp và sử dụng dịch vụ.
+
+4. Cước liên lạc đối với dịch vụ nội hạt được quy định trên cơ sở thời gian liên lạc theo nguyên tắc sau:
+
+a) Khi quay số trực tiếp, chủ thuê bao thanh toán cước liên lạc cho một đơn vị tính cước nội hạt đầu là thời gian liên lạc tối thiểu của cuộc gọi và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị được tính tròn thành một đơn vị tính cước;
+
+b) Các cuộc gọi trong phạm vi một vùng cước nội hạt đều áp dụng mức cước thống nhất và không phụ thuộc vào cự ly liên lạc.
+
+5. Cước liên lạc đối với dịch vụ đường dài trong nước được quy định trên cơ sở thời gian liên lạc, phương thức khai thác và các vùng cước đường dài theo các nguyên tắc sau:
+
+a) Khi quay số trực tiếp, chủ thuê bao thanh toán cước liên lạc cho một đơn vị tính cước đường dài đầu là thời gian liên lạc tối thiểu của mỗi cuộc gọi và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị được tính tròn thành một đơn vị tính cước;
+
+b) Khi quay số qua điện thoại viên, chủ thuê bao thanh toán cước cho một đơn vị tính cước đường dài đầu là thời gian liên lạc tối thiểu của mỗi cuộc gọi qua điện thoại viên và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị được tính tròn thành một đơn vị tính cước;
+
+c) Các cuộc gọi trong phạm vi một vùng cước đường dài (các cuộc gọi nội vùng) đều áp dụng một mức cước thống nhất và không phụ thuộc vào cự ly liên lạc;
+
+d) Các cuộc gọi giữa các vùng cước đường dài (các cuộc gọi liên vùng) được áp dụng các mức cước liên lạc khác nhau theo vùng cước.
+
+6. Cước liên lạc đối với dịch vụ quốc tế được quy định trên cơ sở thời gian liên lạc, phương thức khai thác và nước gọi đến theo các nguyên tắc sau:
+
+a) Khi quay số trực tiếp, chủ thuê bao thanh toán cước liên lạc cho một đơn vị tính cước quốc tế đầu là thời gian liên lạc tối thiểu của mỗi cuộc gọi và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị tính cước được tính tròn thành một đơn vị tính cước;
+
+b) Khi quay số qua điện thoại viên, chủ thuê bao thanh toán cước cho một đơn vị tính cước quốc tế đầu là thời gian liên lạc tối thiểu của mỗi cuộc gọi qua điện thoại viên và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị được tính tròn thành một đơn vị tính cước.
+
+7. Chủ mạng nội bộ có thu cước được thu của người sử dụng dịch vụ tại nhà thuê bao cước liên lạc, cước dịch vụ cộng thêm (nếu có) và phải thanh toán cho đơn vị cung cấp dịch vụ cước thuê bao, cước liên lạc, cước dịch vụ cộng thêm (nếu có) theo đúng quy định của Tổng cục Bưu điện.
+
+Một số mạng nội bộ có thu cước, ngoài cước liên lạc, cước dịch vụ cộng thêm được phép thu của người sử dụng dịch vụ phụ thu cước. Chính phủ quy định các đối tượng là mạng nội bộ có thu cước được phép thu phụ thu cước và mức phụ thu cước.
+
+8. Chủ mạng nội bộ có thu cước có trách nhiệm báo cáo và chịu sự thanh tra, kiểm tra của Tổng cục Bưu điện và các cơ quan quản lý nhà nước có thẩm quyền về việc thu cước của người sử dụng dịch vụ tại nhà thuê bao.
+
+Điều 40: Cước dịch vụ tại điểm công cộng
+
+1. Phụ thuộc vào loại hình dịch vụ (thoại, Fax, truyền số liệu trong băng thoại) cước dịch vụ tại điểm công cộng có người phục vụ được quy định trong Thể lệ này bao gồm:
+
+a) Cước dịch vụ điện thoại công cộng;
+
+b) Cước dịch vụ fax công cộng;
+
+c) Cước dịch vụ truyền số liệu công cộng.
+
+2. Cước dịch vụ tại điểm công cộng có người phục vụ là cước mà người sử dụng dịch vụ phải thanh toán cho đơn vị cung cấp dịch vụ ngay khi sử dụng dịch vụ tại các điểm công cộng. Cước dịch vụ có người phục vụ bao gồm:
+
+a) Cước liên lạc;
+
+b) Cước phục vụ (nếu có);
+
+c) Cước dịch vụ cộng thêm (nếu có).
+
+3. Cước dịch vụ điện thoại thẻ là cước liên lạc được thanh toán thông qua việc khấu trừ tự động từ thẻ số tiền mà người sử dụng dịch vụ phải trả cho đơn vị cung cấp dịch vụ khi sử dụng dịch vụ cho một đơn vị tính cước đầu là thời gian liên lạc tối thiểu của mỗi cuộc gọi và các đơn vị tính cước tiếp theo (nếu có). Phần lẻ cuối cùng của đơn vị tính cước tiếp theo chưa đến một đơn vị được tính tròn thành một đơn vị tính cước.
+
+Điều 41: Cước liên lạc đối với dịch vụ điện thoại tại điểm công cộng
+
+Cước liên lạc đối với dịch vụ điện thoại tại điểm công cộng có người phục vụ và dịch vụ điện thoại thẻ được quy định theo các nguyên tắc nêu tại các khoản 4, 5, 6 Điều 39 và khoản 3 Điều 40 của Thể lệ.
+
+Điều 42: Cước liên lạc đối với dịch vụ Fax tại điểm công cộng
+
+Cước liên lạc đối với dịch vụ Fax tại điểm công cộng (Bureau fax) được quy định trên cơ sở số trang Fax và phạm vi liên lạc theo nguyên tắc sau:
+
+1. Người sử dụng thanh toán cước cho trang chuẩn A4 (ISO) đầu tiên là đơn vị tính cước tối thiểu cho mỗi lần sử dụng dịch vụ và các trang A4 tiếp theo (nếu có). Phần lẻ của trang A4 tiếp theo tính tròn thành một trang A4. Trường hợp người sử dụng gửi các bức Fax có khổ giấy nhỏ hơn khổ A4 cũng được tính cước như các bức Fax khổ A4;
+
+2. Cước liên lạc nội hạt áp dụng theo nguyên tắc quy định tại điểm b khoản 4 Điều 39 của Thể lệ;
+
+3. Cước liên lạc đường dài trong nước áp dụng theo nguyên tắc quy định tại các điểm c và d khoản 5 Điều 39 của Thể lệ;
+
+4. Cước liên lạc quốc tế được quy định trên cơ sở nước gọi đến.
+
+Điều 43: Cước liên lạc đối với dịch vụ truyền số liệu tại điểm công cộng
+
+Cước liên lạc đối với dịch vụ truyền số liệu tại điểm công cộng được quy định trên cơ sở phạm vi liên lạc theo các nguyên tắc sau:
+
+1. Cước liên lạc nội hạt áp dụng theo nguyên tắc quy định tại điểm b khoản 4 Điều 39 của Thể lệ;
+
+2. Cước liên lạc đường dài trong nước áp dụng theo nguyên tắc quy định tại các điểm c và d khoản 5 Điều 39 của Thể lệ;
+
+3. Cước liên lạc quốc tế được quy định trên cơ sở nước gọi đến.
+
+Điều 44: Cước dịch vụ qua điện thoại viên
+
+1. Cước dịch vụ qua điện thoại viên bao gồm :
+
+a. Cước liên lạc;
+
+b. Cước dịch vụ cộng thêm (nếu có);
+
+c) Cước phục vụ (nếu có).
+
+2. Cước liên lạc đối với dịch vụ qua điện thoại viên được quy định theo các nguyên tắc sau:
+
+a) Cước liên lạc không phụ thuộc vào địa điểm cung cấp dịch vụ tại nhà thuê bao hay tại điểm công cộng;
+
+b) Người sử dụng dịch vụ thanh toán cước liên lạc theo quy định tại các điểm b khoản 5, điểm b khoản 6 Điều 39 của Thể lệ.
+
+Điều 45: Lập hoá đơn và thanh toán cước
+
+1. Các đơn vị cung cấp dịch vụ có trách nhiệm lập hoá đơn thanh toán cước dịch vụ chính xác, đầy đủ, kịp thời cho các chủ thuê bao theo các quy định của pháp luật về chế độ hoá đơn, chứng từ.
+
+2. Hoá đơn thanh toán cước dịch vụ phải thể hiện chính xác, đầy đủ, rõ ràng, tối thiểu các nội dung sau:
+
+a) Cước thuê bao;
+
+b) Cước liên lạc đối với từng loại dịch vụ viễn thông cố định;
+
+c) Tổng số cước phải thanh toán;
+
+d) Tỷ giá quy đổi giữa ngoại tệ áp dụng để thu cước và Đồng Việt Nam (nếu có);
+
+e) Thuế giá trị gia tăng (VAT).
+
+3. Đối với việc lập hoá đơn hàng tháng theo hợp đồng, trừ trường hợp chủ thuê bao yêu cầu không in, đơn vị cung cấp dịch vụ có trách nhiệm cung cấp bảng kê chi tiết miễn phí một lần kèm theo hoá đơn cho chủ thuê bao đối với:
+
+a) Các cuộc gọi đường dài trong nước;
+
+b) Các cuộc gọi quốc tế;
+
+c. Các cuộc gọi vào mạng thông tin di động.
+
+4. Nếu không có thoả thuận khác giữa đơn vị cung cấp dịch vụ và chủ thuê bao, bảng kê chi tiết kèm theo hoá đơn thanh toán cước dịch vụ cấp cho chủ thuê bao quy định ở trên phải có tối thiểu các thông tin sau đối với từng cuộc gọi có tính cước
+
+a) Ngày, tháng, năm thực hiện cuộc gọi;
+
+b) Thời gian bắt đầu và thời gian kết thúc (hoặc thời gian bắt đầu và tổng thời gian) cuộc gọi;
+
+c) Số máy bị gọi (cuộc gọi quốc tế: mã quốc gia, mã vùng, số thuê bao; cuộc gọi trong nước: mã vùng, số thuê bao);
+
+d) Số tiền tính cho từng cuộc gọi.
+
+5. Nếu không có thoả thuận khác giữa đơn vị cung cấp dịch vụ và chủ thuê bao thì thời hạn thanh toán cước được quy định là 15 ngày kể từ ngày chủ thuê bao nhận được hoá đơn thanh toán cước hoặc thông báo thanh toán cước đầu tiên.
+
+6. Người sử dụng dịch vụ có trách nhiệm thanh toán cước dịch vụ đầy đủ, đúng hạn cho đơn vị cung cấp dịch vụ theo đúng các quy định của Tổng cục Bưu điện, các điều khoản ghi trong hợp đồng và hoá đơn thanh toán cước. Trong trường hợp không thanh toán đúng hạn thì ngoài cước dịch vụ phải trả theo quy định, người sử dụng dịch vụ còn phải thanh toán cho đơn vị cung cấp dịch vụ lãi suất nợ quá hạn cho mỗi ngày trả chậm tính trên tổng số tiền trả chậm. Mức lãi suất trả chậm được áp dụng theo các quy định hiện hành của Ngân hàng Nhà nước Việt Nam.
+
+CHƯƠNG VII
+
+TIÊU CHUẨN KỸ THUẬT MẠNG LƯỚI, THIẾT BỊ VÀ
+
+CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+Điều 46: Tiêu chuẩn kỹ thuật mạng điện thoại công cộng
+
+Việc thiết lập và khai thác mạng điện thoại công cộng phải tuân theo các tiêu chuẩn kỹ thuật do Tổng cục Bưu điện ban hành hoặc các tiêu chuẩn Việt Nam, các tiêu chuẩn khuyến nghị quốc tế đã được Tổng cục Bưu điện công bố bắt buộc áp dụng.
+
+Điều 47: Tiêu chuẩn kỹ thuật thiết bị đầu cuối
+
+Thiết bị đầu cuối lắp đặt và sử dụng trên mạng điện thoại công cộng phải tuân theo các tiêu chuẩn kỹ thuật do Tổng cục Bưu điện hoặc các tiêu chuẩn Việt Nam, các tiêu chuẩn khuyến nghị quốc tế đã được Tổng cục Bưu điện công bố bắt buộc áp dụng.
+
+Điều 48: Tiêu chuẩn chất lượng dịch vụ viễn thông cố định
+
+1. Đơn vị cung cấp dịch vụ có trách nhiệm đăng ký với Tổng cục Bưu điện và công bố tiêu chuẩn chất lượng dịch vụ viễn thông cố định mà mình cung cấp. Tiêu chuẩn chất lượng dịch vụ mà đơn vị cung cấp dịch vụ đăng ký và công bố không được thấp hơn "Tiêu chuẩn chất lượng dịch vụ viễn thông trên mạng điện thoại công cộng" do Tổng cục Bưu điện ban hành (TCN 68-176:1998).
+
+2. Đơn vị cung cấp dịch vụ có trách nhiệm thực hiện đúng các điều khoản cam kết về chất lượng dịch vụ đã công bố và quy định trong hợp đồng ký với người sử dụng dịch vụ.
+
+3. Việc tính cước và lập hoá đơn thanh toán cước cho người sử dụng phải tuân theo các tiêu chuẩn do Tổng cục Bưu điện ban hành hoặc các tiêu chuẩn Việt Nam, các tiêu chuẩn khuyến nghị quốc tế đã được Tổng cục Bưu điện công bố bắt buộc áp dụng.
+
+4. Đơn vị cung cấp dịch vụ có trách nhiệm báo cáo Tổng cục Bưu điện định kỳ hoặc đột xuất về chất lượng cung cấp dịch vụ viễn thông trên mạng điện thoại công cộng theo quy định của Tổng cục Bưu điện và chịu sự thanh tra, kiểm tra về tiêu chuẩn mạng lưới, thiết bị và chất lượng dịch vụ của Tổng cục Bưu điện và các cơ quan nhà nước có thẩm quyền.
+
+CHƯƠNG VIII
+
+AN TOÀN MẠNG LƯỚI VÀ AN NINH THÔNG TIN
+
+Điều 49: Trách nhiệm bảo đảm an toàn mạng lưới
+
+1. Mạng điện thoại công cộng là phương tiện thông tin liên lạc quốc gia, phải được bảo vệ, không ai được xâm phạm. Bảo vệ mạng điện thoại công cộng là trách nhiệm của các cơ quan, tổ chức và mọi cá nhân.
+
+2. Đơn vị cung cấp dịch vụ có trách nhiệm phối hợp với chính quyền địa phương và các đơn vị lực lượng vũ trang bảo vệ an toàn mạng điện thoại công cộng do mình thiết lập và khai thác.
+
+3. Đại lý dịch vụ và người sử dụng dịch vụ có trách nhiệm bảo vệ cáp, đường dây nội bộ và thiết bị đầu cuối thuê bao của mình, tích cực tham gia bảo vệ mạng điện thoại công cộng, đồng thời thông báo cho đơn vị cung cấp dịch vụ hoặc các cơ quan nhà nước có thẩm quyền về các hành động phá hoại mạng điện thoại công cộng.
+
+4. Đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ chịu sự thanh tra, kiểm tra của các cơ quan nhà nước có thẩm quyền về việc bảo đảm an toàn mạng lưới.
+
+Điều 50: Trách nhiệm bảo đảm an ninh thông tin
+
+1. Bí mật và an ninh thông tin trên mạng điện thoại công cộng được bảo đảm theo Hiến pháp và pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+2. Việc kiểm tra hoạt động mạng điện thoại công cộng và thông tin của các cơ quan, tổ chức, cá nhân trên mạng phải do cơ quan nhà nước có thẩm quyền tiến hành theo quy định của pháp luật.
+
+3. Nghiêm cấm mọi cơ quan, tổ chức, cá nhân sử dụng mạng điện thoại công cộng để truyền đưa các thông tin nhằm mục đích chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam; gây rối loạn an ninh, trật tự; vi phạm đạo đức, thuần phong, mỹ tục, hoạt động buôn lậu và các hoạt động vi phạm pháp luật khác; hoặc trái với các hiệp định, điều ước quốc tế mà Chính phủ nước Cộng hoà xã hội chủ nghĩa Việt Nam đã ký kết hoặc tham gia.
+
+4. Khi có yêu cầu của các cơ quan nhà nước có thẩm quyền, đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ có trách nhiệm phối hợp chặt chẽ và bảo đảm các điều kiện cần thiết cho các cơ quan đó kiểm tra, kiểm soát thông tin trên mạng điện thoại công cộng theo quy định của pháp luật.
+
+5. Người sử dụng dịch vụ chịu trách nhiệm trước pháp luật về nội dung thông tin mà mình truyền trên mạng điện thoại công cộng.
+
+6. Đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ chịu sự thanh tra, kiểm tra của các cơ quan nhà nước có thẩm quyền về việc bảo đảm an ninh thông tin trên mạng điện thoại công cộng.
+
+Điều 51: Bảo mật thông tin
+
+1. Đơn vị cung cấp dịch vụ có trách nhiệm bảo đảm bí mật các thông tin liên quan đến người sử dụng dịch vụ như tên, địa chỉ, số máy, lưu lượng trừ các trường hợp sau:
+
+a) Người sử dụng thoả thuận cho đăng các thông tin nêu trên;
+
+b) Các đơn vị cung cấp dịch vụ có thoả thuận bằng văn bản với nhau việc trao đổi thông tin về người sử dụng dịch vụ vi phạm pháp luật bưu chính, viễn thông, hoặc không thực hiện nghĩa vụ thanh toán cước dịch vụ đã sử dụng theo quy định;
+
+c) Khi có yêu cầu của cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
+
+2. Nghiêm cấm việc:
+
+a) Nghe trộm, thu trộm các thông tin truyền trên mạng điện thoại công cộng;
+
+b) Chiếm đoạt, huỷ bỏ, bóc mở, tráo đổi, tiết lộ nội dung điện văn của người khác.
+
+3. Cơ quan Đảng, Nhà nước các cấp, các đơn vị lực lượng vũ trang, cơ quan đại diện ngoại giao nước ngoài, cơ quan đại diện tổ chức quốc tế được hưởng quy chế ngoại giao được dùng tiếng mật trong các điện văn. Các đối tượng khác muốn dùng tiếng mật trong điện văn phải đăng ký và được cơ quan nhà nước có thẩm quyền cho phép.
+
+CHƯƠNG IX
+
+LIÊN LẠC NGHIỆP VỤ VÀ LIÊN LẠC KHẨN CẤP
+
+Điều 52: Liên lạc nghiệp vụ
+
+1. Đơn vị cung cấp dịch vụ được phép sử dụng liên lạc nghiệp vụ trong nước và quốc tế qua mạng điện thoại công cộng do mình thiết lập để trao đổi, giải quyết những công việc có liên quan đến công tác quản lý, điều hành khai thác, xử lý kỹ thuật, nghiệp vụ.
+
+2. Đơn vị cung cấp dịch vụ có trách nhiệm quy định đối tượng, phạm vi, mức độ sử dụng và ban hành quy chế quản lý liên lạc nghiệp vụ trong đơn vị mình.
+
+3. Miễn cước dịch vụ đối với máy nghiệp vụ của các đơn vị cung cấp dịch vụ.
+
+Điều 53: Liên lạc khẩn cấp
+
+1. Đơn vị cung cấp dịch vụ có trách nhiệm bảo đảm ưu tiên phục vụ ngay các trường hợp liên lạc khẩn cấp sau:
+
+a) Phòng chống bão lụt, hoả hoạn, thiên tai;
+
+b) Cấp cứu và phòng chống dịch bệnh cho người;
+
+c) Thông tin khẩn cấp về quốc phòng, an ninh;
+
+d) Thông tin cứu nạn, cứu hộ tầu bay, tầu thuỷ lâm nguy, lâm nạn;
+
+e) Thông tin công ích khẩn cấp khác.
+
+2. Trong những trường hợp khẩn cấp kể trên, Tổng cục trưởng Tổng cục Bưu điện quyết định huy động một phần hay toàn bộ mạng điện thoại công cộng vào việc phục vụ các nhu cầu khẩn cấp này.
+
+3. Dịch vụ khẩn cấp trên mạng điện thoại công cộng là dịch vụ điện thoại dùng để gọi đến các số máy dịch vụ khẩn cấp của các cơ quan công an, cứu hoả, y tế và các cơ quan khác do Tổng cục Bưu điện quy định.
+
+4. Tổng cục Bưu điện quy định các số máy dịch vụ khẩn cấp trong kế hoạch đánh số quốc gia. Các đơn vị cung cấp dịch vụ có trách nhiệm thông báo cho người sử dụng, đăng trong danh bạ điện thoại công cộng và thông báo trên các phương tiện thông tin đại chúng các số máy dịch vụ khẩn cấp được Tổng cục Bưu điện quy định.
+
+5. Các đơn vị cung cấp dịch vụ có trách nhiệm cung cấp khả năng truy nhập và miễn cước đối với dịch vụ khẩn cấp trên mạng điện thoại công cộng cho người sử dụng dịch vụ.
+
+CHƯƠNG X
+
+KHIẾU NẠI VÀ HOÀN CƯỚC
+
+Điều 54: Quyền khiếu nại
+
+1. Người sử dụng dịch vụ có quyền trực tiếp hoặc thông qua người đại diện hợp pháp khiếu nại các vi phạm của đơn vị cung cấp dịch vụ trong việc cung cấp dịch vụ tới đơn vị đó hoặc tới các cơ quan nhà nước có thẩm quyền.
+
+2. Đơn vị cung cấp dịch vụ có quyền khiếu nại các vi phạm của người sử dụng dịch vụ làm ảnh hưởng đến hoạt động hoặc gây thiệt hại cho đơn vị mình tới các cơ quan nhà nước có thẩm quyền.
+
+3. Việc khiếu nại phải được thực hiện bằng đơn khiếu nại. Bên khiếu nại phải cung cấp những giấy tờ, chứng cứ liên quan đến việc khiếu nại và chịu trách nhiệm về nội dung khiếu nại của mình.
+
+4. Trong quá trình khiếu nại, bên khiếu nại vẫn phải thực hiện các nghĩa vụ thanh toán tài chính theo quy định hoặc theo thoả thuận giữa các bên.
+
+Điều 55: Thời hiệu khiếu nại
+
+1. Thời hiệu khiếu nại của người sử dụng dịch vụ về các hành vi vi phạm của đơn vị cung cấp dịch vụ được quy định như sau:
+
+a) Thời hiệu khiếu nại về cước là 01 tháng kể từ ngày nhận được thông báo hoặc hoá đơn thanh toán cước đầu tiên nếu sử dụng dịch vụ tại nhà thuê bao; hoặc 01 tháng kể từ ngày trả cước dịch vụ nếu sử dụng dịch vụ tại điểm công cộng;
+
+b) Thời hiệu khiếu nại về chỉ tiêu chất lượng dịch vụ và các vi phạm khác là 03 tháng kể từ ngày sử dụng dịch vụ hoặc xảy ra vi phạm;
+
+c) Thời hiệu khiếu nại về cước hoặc chỉ tiêu chất lượng dịch vụ liên quan đến nước ngoài, được áp dụng theo các điều ước quốc tế mà Việt Nam ký kết hoặc tham gia.
+
+2. Thời hiệu khiếu nại của đơn vị cung cấp dịch vụ về các hành vi vi phạm của người sử dụng dịch vụ được quy định như sau:
+
+a) Thời hiệu khiếu nại về cước là 01 tháng kể từ thời hạn thanh toán cước quy định tại khoản 5 Điều 45 nếu sử dụng dịch vụ tại nhà thuê bao; hoặc 01 tháng kể từ ngày trả cước dịch vụ nếu sử dụng dịch vụ tại điểm công cộng;
+
+b) Thời hiệu khiếu nại về các vi phạm khác là 03 tháng kể từ ngày xảy ra vi phạm.
+
+3. Trừ những trường hợp đặc biệt do Tổng cục Bưu điện quy định, các khiếu nại không được giải quyết sau khi hết thời hiệu khiếu nại.
+
+Điều 56: Địa chỉ, trình tự và thời hạn giải quyết khiếu nại
+
+1. Các đơn vị cung cấp dịch vụ có trách nhiệm thông báo cho người sử dụng dịch vụ các địa chỉ giải quyết khiếu nại để người sử dụng dịch vụ gửi đơn khiếu nại. Nếu thay đổi địa chỉ giải quyết khiếu nại, thì đơn vị cung cấp dịch vụ phải thông báo cho người sử dụng dịch vụ biết địa chỉ mới trước 01 tháng.
+
+2. Trình tự và thời hạn giải quyết khiếu nại của người sử dụng dịch vụ về các hành vi vi phạm của đơn vị cung cấp dịch vụ được quy định như sau:
+
+a) Đơn vị cung cấp dịch vụ phải thông báo việc nhận được đơn khiếu nại bằng văn bản tới người sử dụng dịch vụ trong thời hạn 48 giờ kể từ khi nhận được đơn khiếu nại;
+
+b) Đơn vị cung cấp dịch vụ có trách nhiệm giải quyết khiếu nại và thông báo kết quả việc giải quyết khiếu nại bằng văn bản cho người sử dụng dịch vụ biết chậm nhất không quá 02 tháng đối với các dịch vụ viễn thông trong nước và 03 tháng đối với các dịch vụ viễn thông quốc tế kể từ ngày nhận được đơn khiếu nại.
+
+3. Nếu người sử dụng dịch vụ không đồng ý với việc giải quyết khiếu nại của đơn vị cung cấp dịch vụ, thì trong vòng 01 tháng kể từ ngày nhận được thông báo kết quả giải quyết khiếu nại, người sử dụng dịch vụ có quyền gửi đơn khiếu nại:
+
+a) Tới đơn vị quản lý cấp trên trực tiếp của đơn vị cung cấp dịch vụ đã giải quyết khiếu nại để được giải quyết tiếp. Thời hạn giải quyết khiếu nại tiếp theo của đơn vị quản lý cấp trên trực tiếp là 02 tháng kể từ ngày đơn vị này nhận được đơn khiếu nại của người sử dụng dịch vụ; hoặc
+
+b) Tới Tổng cục Bưu điện, các Cục bưu điện khu vực để xem xét, giải quyết theo trình tự và trong thời hạn quy định của pháp luật, hoặc khởi kiện ra toà để giải quyết theo các qui định tố tụng của pháp luật.
+
+4. Trình tự và thời hạn giải quyết khiếu nại của đơn vị cung cấp dịch vụ về các hành vi vi phạm của người sử dụng dịch vụ được quy định như sau:
+
+a) Đơn khiếu nại của đơn vị cung cấp dịch vụ được gửi đến Tổng cục Bưu điện, các Cục Bưu điện khu vực. Các cơ quan trên sẽ giải quyết khiếu nại và thông báo kết quả giải quyết khiếu nại cho đơn vị cung cấp dịch vụ biết theo trình tự và trong thời hạn quy định của pháp luật; hoặc
+
+b) Đơn vị cung cấp dịch vụ có thể khởi kiện ra toà để giải quyết theo các qui định tố tụng của pháp luật.
+
+Điều 57: Hoàn cước
+
+Nếu do lỗi của mình mà đơn vị cung cấp dịch vụ không bảo đảm chỉ tiêu chất lượng dịch vụ đã công bố, hoặc đã thoả thuận trong hợp đồng thì đơn vị cung cấp dịch vụ phải hoàn lại một phần, hoặc toàn bộ cước đã thu.
+
+CHƯƠNG XI
+
+THANH TRA, KIỂM TRA VÀ XỬ LÝ VI PHẠM
+
+Điều 58: Thanh tra, kiểm tra
+
+1. Đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ chịu sự thanh tra, kiểm tra của Tổng cục Bưu điện trong việc cung cấp và sử dụng dịch vụ viễn thông trên mạng điện thoại công cộng theo quy định của pháp luật.
+
+2. Đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ được thanh tra, kiểm tra phải cung cấp chính xác những thông tin, tài liệu cần thiết có liên quan đến nội dung thanh tra, kiểm tra và tạo điều kiện cho đoàn thanh tra, kiểm tra thi hành nhiệm vụ; phải chấp hành nghiêm chỉnh các quyết định của đoàn thanh tra, kiểm tra.
+
+Điều 59: Xử lý vi phạm
+
+Các vi phạm trong việc cung cấp và sử dụng dịch vụ viễn thông trên mạng điện thoại công cộng bị xử lý theo Nghị định số 79/CP ngày 19/6/1997 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực quản lý nhà nước về bưu chính, viễn thông và tần số vô tuyến điện, hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.
+
+CHƯƠNG XII
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 60: Tổ chức thực hiện
+
+1. Trên cơ sở Thể lệ này đơn vị cung cấp dịch vụ chịu trách nhiệm:
+
+a) Ban hành quy trình, thủ tục khai thác dịch vụ;
+
+b) Phổ biến và hướng dẫn các đơn vị thành viên, đại lý dịch vụ và người sử dụng dịch vụ thực hiện Thể lệ và các văn bản có liên quan.
+
+2. Trong quá trình thực hiện nếu có vấn đề vướng mắc, đơn vị cung cấp dịch vụ, đại lý dịch vụ và người sử dụng dịch vụ phản ánh về Tổng cục Bưu điện để xem xét, giải quyết theo quy định.
+
+Điều 61: Hiệu lực thi hành
+
+Thể lệ này có hiệu lực thi hành kể từ ngày 02/11/2000. Mọi quy định trước đây trái với Thể lệ này đều bãi bỏ.
+
+TỔNG CỤC TRƯỞNG TỔNG CỤC BƯU ĐIỆN
+
+MAI LIÊM TRỰC
+
+MỤC LỤC
+
+CHƯƠNG I: QUY ĐỊNH CHUNG.
+
+Điều 1
+
+: Phạm vi và đối tượng điều chỉnhĐiều 2: Giải thích thuật ngữ
+
+Điều 3: Quản lý nhà nước đối với việc cung cấp và sử dụng dịch vụ viễn thông cố định
+
+Điều 4: Thiết lập mạng, cung cấp và sử dụng dịch vụ viễn thông cố định
+
+Điều 5: Quyền và nghĩa vụ của các bên trong việc cung cấp và sử dụng dịch vụ
+
+CHƯƠNG II: DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH
+
+.Điều 6
+
+: Dịch vụ cơ bảnĐiều 7: Dịch vụ cộng thêm
+
+CHƯƠNG III: CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ VIỄN THÔNG
+
+CỐ ĐỊNH TẠI NHÀ THUÊ BAO.
+
+MỤC 1: HỢP ĐỒNG CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ
+
+Điều
+
+8: Hình thức, địa điểm giao kết hợp đồngĐiều 9: Hợp đồng mẫu
+
+Điều 10: Từ chối ký kết hợp đồng
+
+Điều 11: Ký kết, sửa đổi và chuyển giao hợp đồng
+
+Điều 12: Chấm dứt và đơn phương đình chỉ thực hiện hợp đồng
+
+Điều 13: Thời điểm ngừng cung cấp và sử dụng dịch vụ khi chấm dứt hợp đồng
+
+Điều 14: Thanh lý hợp đồng.
+
+MỤC 2: THAY ĐỔI ĐỊA ĐIỂM SỬ DỤNG DỊCH VỤ, ĐƠN VỊ CUNG CẤP DỊCH VỤ VÀ CHỦ THUÊ BAO.
+
+Điều 15
+
+: Thay đổi địa điểm sử dụng dịch vụ Điều 16: Thay đổi đơn vị cung cấp dịch vụ
+
+Điều 17: Thay đổi chủ thuê bao
+
+MỤC 3: NGỪNG VÀ KHÔI PHỤC VIỆC CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ.
+
+Điều 18
+
+: Đơn vị cung cấp dịch vụ tạm ngừng, ngừng và khôi phục cung cấp dịch vụĐiều 19: Chủ thuê bao vụ tạm ngừng và khôi phục sử dụng dịch vụ
+
+MỤC 4: ĐIỂM KẾT CUỐI CỦA MẠNG ĐIỆN THOẠI CÔNG CỘNG
+
+Điều 20
+
+: Đường dây thuê bao, đường trung kế và điểm kết cuối của mạng điện thoại công cộngĐiều 21: Vị trí điểm kết cuối của mạng
+
+MỤC 5: THIẾT BỊ ĐẦU CUỐI THUÊ BAO VÀ MẠNG NỘI BỘ
+
+Điều 22
+
+: Thiết bị đầu cuối thuê bao và mạng nội bộĐiều 23: Trang bị, thiết kế, lắp đặt thiết bị đầu cuối thuê bao và mạng nội bộ
+
+Điều 24: Bảo dưỡng, sửa chữa thiết bị đầu cuối thuê bao và mạng nội bộ
+
+Điều 25: Đấu nối hoà mạng thiết bị đầu cuối thuê bao, mạng nội bộ vào mạng điện thoại công cộng
+
+MỤC 6: CẤP VÀ SỬ DỤNG SỐ THUÊ BAO
+
+Điều 26
+
+: Số thuê baoĐiều 27: Thay đổi số thuê bao
+
+Điều 28: Giữ nguyên số thuê bao
+
+Điều 29: Danh bạ điện thoại công cộng
+
+Điều 30: Trợ giúp tra cứu số thuê bao
+
+Điều 31: Báo hỏng số thuê bao
+
+CHƯƠNG IV: CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH TẠI ĐIỂM CÔNG CỘNG.
+
+Điều 32
+
+: Cung cấp và sử dụng dịch vụ tại điểm công cộng có người phục vụĐiều 33: Cung cấp và sử dụng dịch vụ tại điểm công cộng không có người phục vụ.
+
+CHƯƠNG V: CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ
+
+QUA ĐIỆN THOẠI VIÊN.
+
+Điều 34
+
+: Trách nhiệm cung cấp dịch vụ qua điện thoại viênĐiều 35: Trách nhiệm của điện thoại viên
+
+CHƯƠNG VI : CƯỚC DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH.
+
+Điều 36
+
+: Quản lý cước dịch vụĐiều 37: Quản lý thiết bị, số liệu và chương trình tính cước
+
+Điều 38: Nguyên tắc xác định thời gian liên lạc, phạm vi (vùng cước) liên lạc, đơn vị tính cước
+
+Điều 39: Cước dịch vụ tại nhà thuê bao
+
+Điều 40: Cước dịch vụ tại điểm công cộng.
+
+Điều 41: Cước liên lạc đối với dịch vụ điện thoại tại điểm công cộng
+
+Điều 42: Cước liên lạc đối với dịch vụ Fax tại điểm công cộng
+
+Điều 43: Cước liên lạc đối với dịch vụ truyền số liệu tại điểm công cộng
+
+Điều 44: Cước dịch vụ qua điện thoại viên
+
+Điều 45: Lập hoá đơn và thanh toán cước
+
+
+
+CHƯƠNG VII: TIÊU CHUẨN KỸ THUẬT MẠNG LƯỚI, THIẾT BỊ VÀ TIÊU CHUẨN CHẤT LƯỢNG DỊCH VỤ VIỄN THÔNG CỐ ĐỊNH.
+
+Điều 46
+
+: Tiêu chuẩn kỹ thuật mạng điện thoại công cộngĐiều 47: Tiêu chuẩn kỹ thuật thiết bị đầu cuối
+
+Điều 48: Tiêu chuẩn chất lượng dịch vụ viễn thông cố định
+
+CHƯƠNG VIII: AN TOÀN MẠNG LƯỚI VÀ AN NINH THÔNG TIN.
+
+Điều 49
+
+: Trách nhiệm bảo đảm an toàn mạng lướiĐiều 50: Trách nhiệm bảo đảm an ninh thông tin
+
+Điều 51: Bảo mật thông tin
+
+CHƯƠNG IX: LIÊN LẠC NGHIỆP VỤ VÀ LIÊN LẠC KHẨN CẤP.
+
+Điều 52
+
+: Liên lạc nghiệp vụ.Điều 53: Liên lạc khẩn cấp.
+
+CHƯƠNG X: KHIẾU NẠI VÀ HOÀN CƯỚC.
+
+Điều 54
+
+: Quyền khiếu nạiĐiều 55: Thời hiệu khiếu nại
+
+Điều 56: Địa chỉ, trình tự và thời hạn giải quyết khiếu nại
+
+Điều 57: Hoàn cước
+
+CHƯƠNG XI: THANH TRA, KIỂM TRA VÀ SỬ LÝ VI PHẠM.
+
+Điều 58
+
+: Thanh tra, kiểm tra Điều 59: Xử lý vi phạm
+
+CHƯƠNG XII: ĐIỀU KHOẢN THI HÀNH.
+
+Điều 60
+
+: Tổ chức thực hiệnĐiều 61: Hiệu lực thi hành.
+
+
+
+
+
+

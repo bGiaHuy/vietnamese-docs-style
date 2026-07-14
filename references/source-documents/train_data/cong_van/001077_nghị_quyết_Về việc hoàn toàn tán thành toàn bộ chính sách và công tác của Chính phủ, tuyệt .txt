@@ -1,0 +1,354 @@
+# Về việc hoàn toàn tán thành toàn bộ chính sách và công tác của Chính phủ, tuyệt đối tín nhiệm và triệt để ủng hộ Hồ Chủ Tịch và Chính phủ
+# Loại: Nghị quyết
+# Số hiệu: Không số
+# Ngày ban hành: 26/03/1955
+# Cơ quan: Quốc hội
+# Người ký: Hoàng Văn Hoan
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+QUYẾT ĐỊNH
+
+Ban hành tiêu chuẩn ngành về: Phương pháp bảo quản dài hạn
+
+nguồn gen vi sinh vật nông nghiệp bằng nitơ lỏng (416-2000)
+
+BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN
+
+Căn cứ Nghị định số 73/CP ngày 01 tháng 11 năm 1995 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Bộ Nông nghiệp và Phát triển Nông thôn;
+
+Căn cứ Nghị định 86/CP ngày 08 tháng 12 năm 1995 của Chính phủ quy định phân công trách nhiệm quản lý Nhà nước về chất lượng hàng hoá.
+
+Xét đề nghị của ông Vụ trưởng Vụ Khoa học Công nghệ và Chất lượng sản phẩm
+
+QUYẾT ĐỊNH
+
+Điều 1: Nay ban hành tiêu chuẩn ngành sau:
+
+10TCN: 416-2000 Phương pháp bảo quản dài hạn nguồn gen vi sinh vật nông nghiệp bằng ni tơ lỏng gồm 3 mục 13 điểm.
+
+Điều 2: Quyết định có hiệu lực sau 15 ngày kể từ ngày ký.
+
+Điều 3: Các ông Chánh Văn phòng, Vụ trưởng Vụ Khoa học Công nghệ và Chất lượng sản phẩm, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định này.
+
+
+
+PHƯƠNG PHÁP BẢO QUẢN DÀI HẠN NGUỒN GEN VI SINH VẬT NÔNG NGHIỆP BẰNG NI TƠ LỎNG
+
+YÊU CẦU KỸ THUẬT
+
+Hà Nội - 2000
+
+Cơ quan biên soạn : Bộ môn vi sinh vật
+
+Cơ quan đề nghị ban hành: Viện khoa học kỹ thuật
+
+nông nghiệp Việt nam
+
+Cơ quan trình duyệt: Vụ khoa học công nghệ & CLSP
+
+Cơ quan ban hành: Bộ Nông nghiệp và PTNT
+
+Ban hành kèm theo Quyết định số: /2000-QĐ/BNN-KHCN
+
+ngày tháng năm 2000
+
+
+
+TIÊU CHUẨN
+
+PHƯƠNG PHÁP BẢO QUẢN DÀI HẠN NGUỒN GEN VI SINH VẬT NÔNG NGHIỆP BẰNG NITƠ LỎNG 10TCN 416-2000
+
+(Ban hành kèm theo Quyết định số: 2000/QĐ-BNN-KHCN ngày tháng năm 2000)
+
+1. Phạm vi áp dụng:
+
+Tiêu chuẩn này áp dụng cho việc bảo quản dài hạn vi sinh vật dị dưỡng hiếu khí và vi hiếu khí sử dụng trong nông nghiệp (trừ vi sinh vật trong lĩnh vực thú y) dưới dạng là tế bào sinh dưỡng và bào tử trong điều kiện vô trùng bằng phương pháp nitơ lỏng.
+
+2. Thuật ngữ, định nghĩa:
+
+2.1. Vi sinh vật nông nghiệp: là các loại vi sinh vật khác nhau thuộc vi khuẩn, xạ khuẩn, vi khuẩn lam, nấm men, nấm mốc đang là đối tượng được nghiên cứu và sử dụng trong nông nghiệp, được Bộ nông nghiệp và phát triển nông thôn cho phép.
+
+2.2. Bảo quản vi sinh vật: là bảo quản các mẫu giống thuần khiết sau khi đã chọn lọc, trong điều kiện phù hợp để bảo đảm độ sống sót cao và bảo tồn các tính trạng ban đầu.
+
+2.3. Bảo quản dài hạn: là bảo quản các mẫu giống trong thời gian trên 2 năm.
+
+2.4. Đặc tính sinh học: là khả năng của vi sinh vật thông qua hoạt động sống của chúng có tác dụng đến quá trình sinh trưởng, phát triển của cây trồng,vật nuôi, kiểm soát sinh học và sinh thái môi trường.
+
+2.5. Môi trường nuôi cấy chọn lọc: là môi trường chỉ phù hợp cho sự sinh trưởng, phát triển của một loài hay một nhóm vi sinh vật nào đó.
+
+2.6. Môi trường chẩn đoán phân biệt (môi trường chỉ thị): là môi trường cho phép phân biệt nhanh chóng một loại vi sinh vật này với các loại vi sinh vật khác.
+
+2.7. Mẫu giống: là giống do tác giả thu thập, chọn lọc, lai tạo hay lấy từ quĩ gen có tính di truyền ổn định.
+
+2.8. Thời gian cấy chuyển: là khoảng thời gian giữa 2 lần cấy để duy trì các tính trạng của vi sinh vật.
+
+2.9. Độ phần trăm sống sót của mẫu giống: là tỷ lệ phần trăm của số lượng tế bào sống sót trong các mẫu giống bảo quản so với mẫu giống gốc khi mới được nuôi cấy và phát triển ổn định.
+
+2.10. Hồi phục giống: là quá trình cấy chuyển vi sinh vật từ mẫu bảo quản vào môi trường dinh dưỡng thích hợp để vi sinh vật khôi phục lại các tính trạng ban đầu.
+
+3. Nội dung:
+
+3.1. Trang thiết bị:
+
+- Tủ sấy (thiết bị tiệt trùng khô) và nồi hấp áp lực (thiết bị tiệt trùng ướt)
+
+- Tủ ấm
+
+- Tủ cấy vô trùng
+
+- Tủ lạnh sâu
+
+- Bình để mẫu vi sinh vật có chứa nitơ lỏng
+
+- Bình trữ nitơ lỏng
+
+- Găng tay (Poleyolefin)
+
+- Ống nghiệm polypropylen có nút xoáy, dung tích 2ml, chịu nhiệt độ thấp, khử trùng được hoặc ampul thuỷ tinh trung tính
+
+- Cân kỹ thuật có độ chính xác tới 0,01g
+
+- Que cấy
+
+- Que gạt thủy tinh
+
+- Ống nghiệm thủy tinh
+
+- Ống đong
+
+- Bình tam giác
+
+- Đĩa petri (hộp lồng)
+
+- Pipet chia độ, pipetman
+
+- Đèn cồn hoặc đèn gas
+
+3.2. Tiến hành:
+
+3.2.1. Chuẩn bị dụng cụ:
+
+- Các dụng cụ dùng trong xác định vi sinh vật phải tiệt trùng bằng một trong các phương pháp dưới đây:
+
++ Trong tủ sấy ở nhiệt độ 160 - 1750C không ít hơn 2 giờ.
+
++ Trong nồi hấp áp lực 1atmotphe (1210C) không ít hơn 20 phút.
+
+- Chuẩn bị ống nghiệm polypropylen (hoặc ampul): ngâm trong dung dịch HCl 2% trong 12 giờ. Sau đó rửa lại bằng nước máy 3 - 4 lần và tráng lại bằng nước cất rồi khử trùng trong nồi hấp áp lực 1atmotphe (1210C) không ít hơn 20 phút.
+
+3.2.2. Chuẩn bị môi trường:
+
+- Môi trường nuôi cấy sinh khối và kiểm tra độ phần trăm sống sót của mẫu giống là môi trường nuôi cấy chọn lọc (mục 2.5).
+
+Cân và hoà tan các thành phần môi trường trong nước cất theo thứ tự đã cho. Phân phối môi trường vào các bình tam giác. Đậy nút bông, khử trùng ở điều kiện phù hợp cho từng loại môi trường.
+
+- Môi trường bảo vệ: có tỷ lệ sữa tách bơ 10% (w/v), hoặc glyxerol 10% (v/v), hoặc Dimetyl sunfoxide (DMSO) 5% (v/v). Môi trường bảo vệ cần được tiệt trùng bằng phương pháp Pasteur, hoặc màng lọc vi khuẩn hoặc ở 1210C trong 15 phút.
+
+3.2.3. Chuẩn bị mẫu giống:
+
+- Một mẫu giống vật liệu cần giữ một lượng mẫu lặp lại không ít hơn ba lần.
+
+- Không được chọn những khuẩn lạc riêng biệt trong các lần cấy chuyển làm giống (tránh đột biến sinh trưởng).
+
+- Việc lấy mẫu được tiến hành sao cho mẫu kiểm tra phải là mẫu thuần. Người lấy mẫu phải được huấn luyện và có kinh nghiệm trong việc lấy mẫu.
+
+- Trong quá trình lấy mẫu, vận chuyển và xử lý mẫu phải đảm bảo tránh sự tạp nhiễm từ bên ngoài và đảm bảo được tính nguyên trạng ban đầu.
+
+3.2.4. Chuẩn bị dịch huyền phù: theo 2 cách
+
+3.2.4.1. Chuẩn bị dịch huyền phù từ mẫu giống nuôi cấy trên môi trường thạch nghiêng:
+
+Các mẫu giống được nuôi cấy trên môi trường thạch nghiêng thích hợp. Sau khi tế bào phát triển tốt, ổn định (pha sinh trưởng), thu sinh khối vi sinh vật để tiến hành bảo quản.
+
+Dùng pipet vô trùng hút 5ml môi trường dinh dưỡng (NB) chứa 10% (v/v) glycerol hoặc 5% (v/v) DMSO hoặc 10% (w/v) sữa tách bơ vào mỗi ống thạch nghiêng.
+
+Dùng pipet vô trùng hút 5ml môi trường dinh dưỡng (NB) chứa 10% (v/v) glycerol hoặc 5% (v/v) DMSO hoặc 10% (w/v) sữa tách bơ vào mỗi ống thạch nghiêng.
+
+Dùng dụng cụ vô trùng đánh tan toàn bộ sinh khối trên bề mặt thạch nghiêng vào môi trường, sau đó hút toàn bộ dịch huyền phù tế bào, đảm bảo mật độ tế bào ít nhất là 108 tế bào/ml.
+
+Dùng pipet vô trùng phân 1ml của dịch huyền phù tế bào vào ống nghiệm polypropylen, vặn chặt nút . Có thể sử dụng ampul thuỷ tinh, gắn đầu ampul bằng đèn khò. Không để rây dịch vi sinh lên mép hoặc thành ống nghiệm polypropylen hoặc ampul.
+
+Đặt ampul trong tủ lạnh 50C trong 30 phút để đạt được sự ổn định giữa tế bào và môi trường.
+
+3.2.4.2. Chuẩn bị dịch huyền phù từ mẫu giống nuôi cấy trên môi trường dịch thể:
+
+Các mẫu giống được nuôi cấy trên môi trường dịch thể thích hợp. Sau khi tế bào phát triển tốt, ổn định, tiến hành bảo quản bằng nitơ lỏng.
+
+Dùng pipet vô trùng bổ sung một lượng 20% (v/v) glycerol hoặc 10% (v/v) DMSO hoặc 20% sữa tách bơ đã khử trùng bằng thể tích của dịch vi sinh vật để đạt nồng độ glycerol cuối cùng 10% (v/v) hoặc DMSO 5% (v/v) hoặc sữa tách bơ 10% (w/v).
+
+Lắc nhẹ để thu được dịch huyền phù tế bào đồng đều, đảm bảo mật độ tế bào ít nhất là 108 tế bào/ml. Nếu giống vi sinh vật mọc thành viên nhỏ hay thành đám lớn, có thể dùng máy nghiền mô nhỏ hoặc cối sứ vô trùng để nghiền nát.
+
+Dùng pipet vô trùng phân 1ml của dịch huyền phù tế bào vào ống nghiệm polypropylen, vặn chặt nút . Có thể sử dụng ampul thuỷ tinh, gắn đầu ampul bằng đèn khò. Không để rây dịch vi sinh lên mép hoặc thành ống nghiệm polypropylen hoặc ampul.
+
+Đặt ampul trong tủ lạnh 50C trong 30 phút để đạt được sự ổn định giữa tế bào và môi trường.
+
+3.2.5. Quá trình bảo quản bằng nitơ lỏng: được tiến hành như sau:
+
+Đặt ống nghiệm polypropylen (ampul) vào trong khay nhôm. Sau đó đặt vào buồng làm lạnh của máy làm lạnh.
+
+Điều chỉnh tốc độ làm lạnh 1-20C/phút đến khi nhiệt độ đạt âm 300C. Sau đó tiếp tục điều chỉnh tốc độ làm lạnh 10C/phút đến khi nhiệt độ đạt không nhỏ hơn âm 500
+
+Nhanh chóng chuyển ống nghiệm polypropylen (ampul) đến vị trí bảo quản cuối cùng trong bình nitơ lỏng (nhiệt độ từ âm1560C đến âm 1960C).
+
+Ghi chú: Cần đi găng tay poleyolefin khi thao tác để tránh bị bỏng tay.
+
+3.3. Kiểm tra giống:
+
+Định kỳ hàng năm kiểm tra độ sống sót và đặc tính sinh học của giống. Chỉ cho phép giữ lại các giống có độ sống sót và có hoạt tính sinh học ổn định như giống gốc.
+
+3.3.1. Kiểm tra độ sống sót của giống:
+
+3.3.1.1. Môi trường để kiểm tra:
+
+Dùng môi trường nuôi cấy chọn lọc là môi trường để kiểm tra. Môi trường được pha chế theo thứ tự các hoá chất trong thành phần đã cho. Sau đó phân phối vào các dụng cụ thuỷ tinh đã chuẩn bị trước rồi khử trùng ở những điều kiện phù hợp. Để nguội môi trường đến 45-500C rồi phân phối vào các đĩa petri vô trùng. Thao tác này được thực hiện trong điều kiện vô trùng.
+
+3.3.1.2. Dịch pha loãng: Nước muối sinh lý (NaCl 0,85%), không chứa các hợp chất nitơ, sau khi khử trùng có độ pH là 7,0.
+
+Phân phối dịch pha loãng vào các ống nghiệm có dung tích thích hợp với một lượng sao cho sau khi khử trùng, mỗi ống nghiệm chứa 9ml. Làm nút bông và khử trùng ở 1 atmotphe (1210C) trong 30 phút.
+
+Nếu chưa sử dụng ngay, dịch pha loãng cần được bảo quản trong tủ lạnh ở nhiệt độ 4-100C, thời gian bảo quản không quá 1 tháng kể từ ngày chuẩn bị.
+
+Ghi chú: Để tránh làm ảnh hưởng đến các vi sinh vật do thay đổi nhiệt độ đột ngột, nên điều chỉnh nhiệt độ của dịch pha loãng đến nhiệt độ phòng thử nghiệm trước khi sử dụng.
+
+3.3.1.3. Chuẩn bị dịch huyền phù tế bào (suspension):
+
+Lấy ống giống bảo quản cần kiểm tra ra khỏi bình nitơ lỏng, cho băng tan tự nhiên (trong điều kiện phòng thử nghiệm).
+
+Lau bên ngoài của ống nghiệm polypropylen (ampul) bằng gạc vô trùng có thấm etanol 70% (v/v), đặc biệt chú ý đến vùng giữa nút và thân ống.
+
+Mở nút ống nghiệm polypropylen (ampul) trong điều kiện vô trùng. Dùng bơm tiêm đã vô trùng hút 1ml dịch huyền phù trong ống nghiệm cho vào 9 ml dịch pha loãng, tránh chạm bơm tiêm vào dịch pha loãng. Trộn kỹ bằng cách dùng một pipet vô trùng khác hút lên xuống 10 lần hoặc bằng dụng cụ trộn cơ học trong 5-10 giây. Lặp lại các thao tác này để thu được dịch pha loãng 10-3, 10-4, 10-5, 10-6, 10-7.
+
+Cấy mẫu: dùng pipet vô trùng lấy từ dịch mẫu pha loãng một lượng 0,05 ml mẫu (1 giọt) cấy vào 1 đĩa petri chứa môi trường đã chuẩn bị sẵn (xem 3.3.1). Mỗi mẫu pha loãng được cấy vào 3 đĩa petri (mỗi độ pha loãng sử dụng 1 pipet vô trùng riêng).
+
+Dùng que gạt vô trùng gạt đều dịch mẫu trên bề mặt thạch, đợi khô bề mặt thạch, úp ngược đĩa petri, để trong tủ ấm với nhiệt độ và thời gian thích hợp.
+
+Đếm số lượng khuẩn lạc đặc trưng của mẫu giống vi sinh vật trên mỗi đĩa petri.
+
+Mật độ vi sinh vật trên một đơn vị kiểm tra (ml) được tính theo công thức sau:
+
+
+
+
+
+
+
+
+
+
+a x 20
+
+
+
+
+
+
+A =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+
+
+
+
+Trong đó:
+
+A: số khuẩn lạc/ml dịch
+
+a: số khuẩn lạc trung bình có trong đĩa petri
+
+d: nồng độ dịch pha loãng
+
+20: số giọt dịch trong 1 ml dịch
+
+Ghi chú: Số lượng khuẩn lạc trung bình được tính là trung bình cộng số khuẩn lạc của các đĩa petri được câý từ cùng một độ pha loãng, trong đó chỉ tính các đĩa petri chứa từ 30-300 khuẩn lạc. Số lượng khuẩn lạc trung bình cũng có thể được tính là trung bình cộng số lượng khuẩn lạc của các đĩa petri được cấy từ hai độ pha loãng kế tiếp nhau bằng cách tính số khuẩn lạc trung bình cộng ở mỗi độ pha loãng, trong đó số khuẩn lạc ở độ pha loãng cao hơn được nhân với 10, sau đó lấy trung bình cộng của hai giá trị trên nếu tỷ số giữa giá trị lớn và giá trị nhỏ không lớn hơn 2. Nếu tỷ số này lớn hơn 2 thì lấy giá trị nhỏ làm kết quả. Mật độ vi sinh vật trên một đơn vị kiểm tra được biểu thị bằng một số giữa 1,00 và 9,99 nhân với 10n, n là số mũ thích hợp.
+
+
+
+
+
+
+
+
+
+
+Mật độ tế bào mẫu giống bảo quản
+
+
+
+
+
+
+
+
+
+
+
+% sống sót =
+
+
+
+
+
+
+
+
+
+x 100
+
+
+
+
+
+
+
+
+
+
+
+Mật độ tế bào mẫu giống gốc
+
+
+
+
+
+
+
+
+
+
+3.3.2. Xác định đặc tính sinh học:
+
+Tiến hành theo những phương pháp cụ thể phụ thuộc vào đặc tính sinh học của từng chủng vi sinh vật.
+
+
+
+
+
+
+
+
+

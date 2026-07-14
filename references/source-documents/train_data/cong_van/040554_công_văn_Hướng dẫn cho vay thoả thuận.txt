@@ -1,0 +1,209 @@
+# Hướng dẫn cho vay thoả thuận
+# Loại: Công văn
+# Số hiệu: 3363/NHPT-KHTH
+# Ngày ban hành: 06/10/2008
+# Cơ quan: Ngân hàng phát triển Việt Nam
+# Người ký: Nguyễn Quang Dũng
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định phương pháp xác định mức chi phí ngừng và cấp điện trở lại
+
+____________________
+
+
+
+Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;
+
+Căn cứ Luật Điện lực ngày 03 tháng 12 năm 2004 và Luật sửa đổi, bổ sung một số điều của Luật Điện lực ngày 20 tháng 11 năm 2012;
+
+Căn cứ Nghị định số 137/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Điện lực và Luật sửa đổi, bổ sung một số điều của Luật Điện lực;
+
+Theo đề nghị của Cục trưởng Cục Điều tiết điện lực,
+
+Bộ trưởng Bộ Công Thương ban hành Thông tư quy định phương pháp xác định mức chi phí ngừng và cấp điện trở lại.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Thông tư này quy định phương pháp xác định mức chi phí ngừng và cấp điện trở lại do các tổ chức, cá nhân liên quan phải trả cho bên bán điện để thực hiện ngừng và cấp điện trở lại trong các trường hợp quy định tại Khoản 2, Khoản 3 Điều 5 và Điều 7 Thông tư số 30/2013/TT-BCT ngày 14 tháng 11 năm 2013 của Bộ trưởng Bộ Công Thương quy định điều kiện, trình tự ngừng, giảm mức cung cấp điện (sau đây viết là Thông tư số 30/2013/TT-BCT).
+
+Điều 2. Đối tượng áp dụng
+
+1. Bên bán điện.
+
+2. Bên mua điện yêu cầu bên bán điện ngừng cung cấp điện.
+
+3. Tổ chức, cá nhân yêu cầu bên bán điện ngừng cấp điện trong các trường hợp để đảm bảo an toàn phục vụ thi công các công trình.
+
+4. Tổ chức, cá nhân vi phạm quy định của pháp luật bị bên bán điện ngừng cấp điện trong các trường hợp quy định tại Điều 7 Thông tư số 30/2013/TT- BCT.
+
+Điều 3. Giải thích từ ngữ
+
+Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:
+
+1. Bên bán điện là đơn vị điện lực được cấp giấy phép hoạt động điện lực hoặc được ủy quyền trong lĩnh vực phân phối và bán lẻ điện, trực tiếp thực hiện ngừng và cấp điện trở lại, bao gồm:
+
+a) Tổng công ty Điện lực;
+
+b) Công ty Điện lực;
+
+c) Đơn vị phân phối và bán lẻ điện.
+
+2. Bên mua điện là tổ chức, cá nhân mua điện để sử dụng hoặc để bán lẻ điện cho khách hàng sử dụng điện, bao gồm:
+
+a) Đơn vị phân phối và bán lẻ điện;
+
+b) Khách hàng sử dụng điện.
+
+Điều 4. Thu và hạch toán chi phí ngừng và cấp điện trở lại
+
+1. Bên bán điện được phép thu chi phí ngừng và cấp điện trở lại quy định tại Thông tư này. Chi phí này nhằm bù đắp cho bên bán điện để thực hiện việc ngừng và cấp điện trở lại. Tiền thu chi phí ngừng và cấp điện trở lại được hạch toán vào doanh thu của bên bán điện (phần doanh thu sản xuất kinh doanh khác) và nộp thuế theo quy định.
+
+2. Chi phí ngừng và cấp điện trở lại được thu cụ thể như sau:
+
+a) Thu trước một lần khi ngừng cấp điện đối với đối tượng quy định tại Khoản 2 và Khoản 3 Điều 2 Thông tư này;
+
+b) Thu trước khi cấp điện trở lại đối với đối tượng quy định tại Khoản 4 Điều 2 Thông tư này.
+
+Chương II
+
+PHƯƠNG PHÁP XÁC ĐỊNH MỨC CHI PHÍ NGỪNG VÀ CẤP ĐIỆN TRỞ LẠI
+
+Điều 5. Nguyên tắc tính mức chi phí ngừng và cấp điện trở lại
+
+Công thức tính mức chi phí ngừng và cấp điện trở lại như sau:
+
+
+
+
+
+Chi phí ngừng và cấp điện trở lại
+
+
+
+
+=
+
+
+
+
+(Chi phí nhân công    +     Chi phí đi lại)    x    k    x    n
+
+
+
+
+
+Trong đó:
+
+1. Chi phí nhân công tính theo các yếu tố: lương tối thiểu vùng bình quân cho 01 ngày công, hệ số lương bậc thợ, hệ số phụ cấp lưu động và số công cho một lần đóng cắt theo các cấp điện áp.
+
+2. Chi phí đi lại được xác định theo khoảng cách từ trụ sở đơn vị trực tiếp thực hiện ngừng và cấp điện trở lại đến địa điểm thực hiện ngừng và cấp điện trở lại.
+
+3. k: hệ số điều chỉnh theo khoảng cách.
+
+4. n: hệ số điều chỉnh theo vùng miền.
+
+Điều 6. Mức chi phí ngừng và cấp điện trở lại cơ sở (M)
+
+Mức chi phí ngừng và cấp điện trở lại cơ sở (M) là mức chi phí cho 01 (một) lần ngừng và cấp điện trở lại tại khu vực đồng bằng, có khoảng cách từ trụ sở đơn vị trực tiếp thực hiện ngừng và cấp điện trở lại đến địa điểm thực hiện ngừng và cấp điện trở lại từ 05 km trở xuống và được xác định tương ứng với các cấp điện áp như sau:
+
+1. Tại điểm có cấp điện áp từ 0,4 kV trở xuống.
+
+2. Tại điểm có cấp điện áp trên 0,4 kV đến 35 kV.
+
+3. Tại điểm có cấp điện áp trên 35 kV.
+
+Điều 7. Hệ số điều chỉnh theo khoảng cách và vùng, miền
+
+1. Hệ số điều chỉnh theo khoảng cách (k) được xác định theo khoảng cách từ trụ sở đơn vị trực tiếp thực hiện ngừng và cấp điện đến địa điểm thực hiện ngừng và cấp điện trở lại và được áp dụng cụ thể như sau:
+
+a) Đến 05 km: hệ số k = 1;
+
+b) Trên 05 km đến 10 km: hệ số k = 1,14;
+
+c) Trên 10 km đến 20 km: hệ số k = 1,28;
+
+d) Trên 20 km đến 30 km: hệ số k = 1,42;
+
+đ) Trên 30 km đến 50 km: hệ số k = 1,56;
+
+e) Trên 50 km: hệ số k = 1,70.
+
+2. Hệ số điều chỉnh theo vùng, miền (n) được xác định theo khu vực thực hiện ngừng và cấp điện trở lại và được áp dụng cụ thể như sau:
+
+a) Tại khu vực đồng bằng: hệ số n = 1;
+
+b) Tại khu vực miền núi, hải đảo: hệ số n = 1,15.
+
+Điều 8. Phân loại mức chi phí ngừng và cấp điện trở lại theo đối tượng áp dụng
+
+1. Đối với khách hàng sử dụng điện phục vụ mục đích sinh hoạt, mức chi phí cho 01 (một) lần ngừng và cấp điện trở lại (T) là mức chi phí ngừng và cấp điện trở lại cơ sở (M), không phân biệt khu vực đồng bằng, miền núi, hải đảo và không phụ thuộc vào khoảng cách từ trụ sở đơn vị trực tiếp thực hiện ngừng và cấp điện trở lại đến địa điểm thực hiện ngừng và cấp điện trở lại và được xác định theo công thức sau:
+
+T = M
+
+Trong đó:
+
+a) T: Số tiền bên bán điện được phép thu để thực hiện việc ngừng và cấp điện trở lại;
+
+b) M: Mức chi phí ngừng và cấp điện trở lại cơ sở quy định tại Điều 6 Thông tư này.
+
+2. Đối với khách hàng mua điện ngoài mục đích sinh hoạt và tổ chức, cá nhân yêu cầu ngừng cấp điện để đảm bảo an toàn khi thi công công trình và trường hợp bên mua điện yêu cầu bên bán điện ngừng cung cấp điện, mức chi phí cho một lần ngừng và cấp điện trở lại (T) được điều chỉnh theo vùng, miền và theo khoảng cách từ trụ sở đơn vị trực tiếp thực hiện ngừng và cấp điện trở lại đến địa điểm thực hiện ngừng và cấp điện trở lại và được xác định theo công thức sau:
+
+T = M x k x n
+
+Trong đó:
+
+a) T: Số tiền bên bán điện được phép thu để thực hiện việc ngừng và cấp điện trở lại;
+
+b) M: Mức chi phí ngừng và cấp điện trở lại cơ sở quy định tại Điều 6 Thông tư này;
+
+c) k: Hệ số điều chỉnh theo khoảng cách quy định tại Khoản 1 Điều 7 Thông tư này;
+
+d) n: Hệ số điều chỉnh theo vùng, miền quy định tại Khoản 2 Điều 7 Thông tư này.
+
+3. Mức chi phí ngừng và cấp điện trở lại quy định tại Điều này chưa bao gồm thuế VAT.
+
+Chương III
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 9. Tổ chức thực hiện
+
+1. Tập đoàn Điện lực Việt Nam có trách nhiệm tính toán cụ thể mức chi phí ngừng và cấp điện trở lại theo quy định tại Chương II Thông tư này, trình Cục Điều tiết điện lực thẩm định.
+
+2. Cục Điều tiết điện lực có trách nhiệm:
+
+a) Trình Bộ Công Thương ban hành Quyết định quy định mức chi phí ngừng và cấp điện trở lại;
+
+b) Phổ biến, hướng dẫn và kiểm tra việc thực hiện Thông tư này.
+
+3. Trường hợp có thay đổi về chính sách tiền lương dẫn đến chi phí ngừng cấp điện trở lại thay đổi từ 30% trở lên so với mức đang được áp dụng, Tập đoàn Điện lực Việt Nam có trách nhiệm cập nhật, tính toán lại mức chi phí ngừng và cấp điện trở lại theo quy định tại Chương II Thông tư này, trình Cục Điều tiết điện lực thẩm định. Cục Điều tiết điện lực có trách nhiệm trình Bộ Công Thương ban hành Quyết định điều chỉnh mức chi phí ngừng và cấp điện trở lại.
+
+4. Bên bán điện có trách nhiệm thực hiện việc thu chi phí ngừng và cấp điện trở lại theo quy định tại Thông tư này.
+
+Điều 10. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực thi hành từ ngày 25 tháng 9 năm 2014. Quyết định số 08/2007/QĐ-BCN ngày 30 tháng 01 năm 2007 của Bộ trưởng Bộ Công nghiệp quy định về mức chi phí ngừng và cấp điện trở lại hết hiệu lực thi hành từ ngày Thông tư này có hiệu lực.
+
+2. Trong quá trình thực hiện Thông tư này, nếu có vướng mắc, nội dung mới phát sinh, các đơn vị có liên quan có trách nhiệm báo cáo Cục Điều tiết điện lực nghiên cứu, đề xuất, trình Bộ trưởng Bộ Công Thương sửa đổi, bổ sung Thông tư cho phù hợp./.
+
+
+
+
+
+
+

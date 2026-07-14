@@ -1,0 +1,272 @@
+# Về việc ban hành chế độ báo cáo thống kê tổng hợp công tác văn thư, lưu trữ
+# Loại: Quyết định
+# Số hiệu: 14/2005/QĐ-BNV
+# Ngày ban hành: 06/01/2005
+# Cơ quan: Bộ Nội vụ
+# Người ký: Đỗ Quang Trung
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ CÔNG AN
+
+Về việc ban hành quy định đảm bảo an toàn, an ninh trong hoạt động quản lý, cung cấp, sử dụng dịch vụ Enternet tại Việt Nam
+
+
+
+
+
+BỘ TRƯỞNG BỘ CÔNG AN
+
+
+
+Căn cứ Nghị định số 136/2003/NĐ-CP ngày 14/11/2003 của Chính phủ qui định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an;
+
+
+
+Căn cứ Nghị định số 55/2001/NĐ-CP ngày 23/8/2001 của Chính phủ về quản lý, cung cấp và sử dụng dịch vụ Internet;
+
+
+
+Theo đề nghị của Tổng cục trưởng Tổng cục An ninh,
+
+
+
+
+
+QUYẾT ĐỊNH:
+
+
+
+Điều 1. Ban hành kèm theo Quyết định này "Quy định về đảm bảo an toàn, an ninh trong hoạt động quản lý, cung cấp và sử dụng dịch vụ Internet tại Việt Nam".
+
+
+
+Điều 2. Quyết định này có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo và thay thế Quyết định sô 848/1997/QĐ-BNV (A11) ngày 23/10/1997 của Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) ban hành Quy định về biện pháp và trang thiết bị kiểm tra, kiểm soát đảm bảo an ninh quốc gia trong hoạt động Internet tại Việt Nam.
+
+
+
+Điều 3. Các đơn vị chức năng của Bộ Công an, các tổ chức, đơn vị, doanh nghiệp cung cấp dịch vụ Internet, đại lý Internet và sử dụng dịch vụ Internet tại Việt Nam chịu trách nhiệm thi hành Quyết định này.
+
+
+
+QUI ĐỊNH
+
+VỀ ĐẢM BẢO AN TOÀN, AN NINH TRONG HOẠT ĐỘNG QUẢN LÝ, CUNG CẤP SỬ DỤNG INTERNET TẠI VIỆT NAM
+
+(Ban hành kèm theo Quyết định số 71/2004/QĐ-BCA (A11)
+
+ngày 29 tháng 1 năm 2004 của Bộ trưởng Bộ Công an)
+
+CHƯƠNG I
+
+NHỮNG QUY ĐỊNH CHUNG
+
+Điều 1. Quy định này áp dụng đối với các đối tượng là doanh nghiệp, đơn vị cung cấp dịch vụ Internet (dịch vụ kết nối Internet-IXP, dịch vụ truy nhập Internet-ISP, dịch vụ ứng dụng Internet-OSP, dịch vụ thông tin Internet-ICP, dịch vụ truy nhập Internet dùng riêng- ISP dùng riêng); đại lý Internet (đại lý cung cấp dịch vụ truy nhập, dịch vụ ứng dụng Internet) và người sử dụng dịch vụ Internet tại Việt Nam.
+
+
+
+Điều 2. Đảm bảo an toàn, an ninh trong hoạt động Internet tại Việt Nam bao gồm: bảo vệ hệ thống thiết bị, thông tin, dữ liệu trong cơ sở dữ liệu và trên mạng của các chủ thể tham gia Internet hoạt động ổn định; đảm bảo thông tin lưu truyền trên Internet được thông suốt, nguyên vẹn, nhanh chóng, kịp thời; chủ động phòng ngừa, phát hiện, ngăn chặn các hành vi lợi dụng dịch vụ Internet để xâm phạm an ninh quốc gia, trật tự an toàn xã hội.
+
+
+
+Điều 3. Bảo đảm an toàn, an ninh trong hoạt động Internet là trách nhiệm của các cơ quan, tổ chức, cá nhân. Bộ Công an là cơ quan quản lý Nhà nước đối với việc đảm bảo an ninh trong hoạt động Internet, có quyền kiểm tra, kiểm soát, giám sát thông tin trên Internet theo qui định của pháp luật.
+
+
+
+Điều 4. Mọi tổ chức, doanh nghiệp, cá nhân tham gia hoạt động Internet tại Việt Nam phải chịu trách nhiệm về những nội dung tin do mình đưa vào lưu trữ, truyền đi trên Internet; chịu sự quản lý, kiểm tra, giám sát và thực hiện các yêu cầu đảm bảo an toàn an ninh trong hoạt động Internet theo quy định của Quy định này và quy định khác của pháp luật có liên quan.
+
+
+
+Điều 5.
+
+Nghiêm cấm các hành vi sau đây:
+
+1. Lợi dụng Internet để hoạt động xâm phạm an ninh quốc gia, trật tự an toàn xã hội, vi phạm thuần phong mỹ tục, bản sắc văn hoá Việt Nam, xâm phạm các quyền và lợi ích hợp pháp của tổ chức, công dân cũng như tiến hành các hoạt động tội phạm dưới bất cứ hình thức, phương tiện nào.
+
+2. Lưu giữ trên máy tính kết nối Internet tin, tài liệu, số liệu thuộc bí mật nhà nước.
+
+3. Sử dụng mật mã trái với quy định của pháp luật về cơ yếu.
+
+4. Truy cập đến các nhà cung cấp dịch vụ Internet nước ngoài bằng việc quay số điện thoại quốc tế trực tiếp; sử dụng hoặc hướng dẫn người khác sử dụng công cụ hỗ trợ để vào các trang Web do cơ quan quản lý nhà nước có thẩm quyền cấm truy cập; gửi, lan truyền, phát tán vi rút tin học, chương trình phần mềm có tính năng lấy trộm thông tin, phá huỷ dữ liệu máy tính lên mạng Internet; làm rối loạn, cản trở hoạt động cung cấp, sử dụng dịch vụ Internet; xây dựng các trang Web, tổ chức diễn đàn trên Internet có nội dung hướng dẫn, lôi kéo, kích động người khác thực hiện các hành vi trên.
+
+5. Lợi dụng chức vụ, quyền hạn trong quản lý nhà nước về an ninh thông tin để gây cản trở hoạt động hợp pháp của các chủ thể tham gia dịch vụ Internet; xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức và công dân.
+
+
+
+
+
+CHƯƠNG II
+
+NHỮNG QUI ĐỊNH CỤ THỂ
+
+
+
+Điều 6.
+
+Các doanh nghiệp cung cấp dịch vụ Internet có trách nhiệm:
+
+1. Có trang thiết bị kỹ thuật đồng bộ tương xứng với qui mô hoạt động của mình để thực hiện việc quản lý, kiểm tra, giám sát đảm bảo an toàn cho hệ thống, ngăn chặn những tin mà pháp luật cấm đưa vào lưu trữ, truyền đi trên Internet qua hệ thống do doanh nghiệp quản lý.
+
+2. Xây dựng nội quy vận hành, khai thác, sử dụng dịch vụ Internet do doanh nghiệp cung cấp. Tổ chức tuyên truyền, hướng dẫn, kiểm tra việc thực hiện đối với các doanh nghiệp sử dụng dịch vụ (đối với các ICP là những thành viên cung cấp nội dung thông tin trên Internet), đại lý Internet, người sử dụng dịch vụ Internet, cán bộ nhân viên trong nội bộ doanh nghiệp.
+
+3. Phối hợp với đơn vị chức năng của Bộ Công an, các cơ quan Nhà nước có thẩm quyền phát hiện, ngăn chặn và xử lý các hành vi lợi dụng Internet để hoạt động xâm phạm an ninh quốc gia và trật tự an toàn xã hội.
+
+4. Ngừng ngay việc cung cấp dịch vụ Internet đối với các chủ thể lợi dụng Internet để hoạt động chống lại Nhà nước Cộng hoà xã hội chủ nghĩa Việt nam gây phương hại đến an ninh quốc gia.
+
+5. Bố trí mặt bằng, điểm truy nhập mạng lưới và những điều kiện kỹ thuật cần thiết cho các đơn vị chức năng thuộc Bộ Công an thực hiện nhiệm vụ bảo vệ an ninh quốc gia trong hoạt động Internet.
+
+6. Chỉ được cung cấp dịch vụ ra công cộng sau khi được phép bằng văn bản của Bộ Bưu chính, Viễn thông trên cơ sở báo cáo của đoàn kiểm tra liên ngành theo qui định tại Thông tư số 04/2001/TT-TCBĐ ngày 20/11/2001 của Tổng Cục Bưu điện (nay là Bộ Bưu chính Viễn thông) hướng dẫn thi hành Nghị định số 55/2001/NĐ-CP ngày 23/8/2001 của Chính phủ về quản lý, cung cấp và sử dụng dịch vụ Internet (sau đây gọi là Nghị định số 55) về kết quả kiểm tra thực tế mạng lưới, thiết bị và các biện pháp đảm bảo an toàn, an ninh hoạt động Internet của doanh nghiệp.
+
+
+
+Điều 7.
+
+Tổ chức, doanh nghiệp cung cấp dịch vụ truy nhập Internet (ISP), dịch vụ ứng dụng Internet (OSP), các đơn vị cung cấp dịch vụ thông tin Internet (ICP), dịch vụ truy nhập Internet dùng riêng (ISP dùng riêng) có trách nhiệm:
+
+1. Có hệ thống bức tường lửa (Firewall) tương xứng với qui mô hoạt động của từng doanh nghiệp đảm bảo phát hiện, ngăn chặn những tin mà pháp luật cấm theo qui định của Nghị định số 55 cũng như bảo vệ an toàn hệ thống thiết bị, thông tin, dữ liệu của doanh nghiệp, đơn vị.
+
+2. Thông tin đưa vào, truyền đi trên Internet phải được lưu giữ lại tại máy chủ của doanh nghiệp, đơn vị trong thời gian 15 ngày, thời gian lưu trữ tính từ khi thông tin đi/đến máy chủ.
+
+3. Tổ chức tập huấn cho số nhân viên đại lý Internet nắm vững qui định của Nhà nước về an toàn, an ninh thông tin trong hoạt động Internet, giải pháp kỹ thuật phù hợp để đại lý thực hiện tốt nhiệm vụ hướng dẫn khách hàng sử dụng dịch vụ vào những mục đích lành mạnh, phát hiện, ngăn chặn kịp thời những khách hàng có hành vi vi phạm qui định của Nghị định số 55.
+
+4. Doanh nghiệp, đơn vị cung cấp dịch vụ truy nhập Internet (ISP và ISP dùng riêng) phải phối hợp với nhau ngăn chặn các hành vi lợi dụng hệ thống thiết bị, mạng lưới, dịch vụ của mình để gây rối, phá hoại, cản trở hoạt động cung cấp, sử dụng dịch vụ Internet.
+
+
+
+Điều 8.
+
+Đại lý Internet có trách nhiệm:
+
+1. Tuân thủ các qui định của pháp luật về đảm bảo an toàn, an ninh thông tin Internet. Xây dựng, niêm yết công khai nội qui sử dụng Internet tại các điểm khai thác.
+
+2. Thông tin liên quan đến người sử dụng dịch vụ phải được lưu giữ lại tại máy chủ của đại lý trong thời gian 30 ngày, thời gian lưu trữ tính từ khi thông tin đi/đến máy chủ.
+
+3. Có sổ đăng ký sử dụng dịch vụ thống kê đầy đủ chi tiết thông tin về khách hàng gồm: họ tên, địa chỉ, số chứng minh nhân dân hoặc hộ chiếu, thời gian sử dụng dịch vụ. Phải có giải pháp ngăn chặn việc truy cập đến các trang Web có nội dung xấu trên Internet và cài đặt chương trình phần mềm để quản lý tức thời nội dung thông tin của khách hàng.
+
+4. Bố trí nhân viên quản lý có chuyên môn kỹ thuật nắm vững các qui định của Nhà nước về Internet tại điểm khai thác để hướng dẫn khách hàng sử dụng vào những mục đích lành mạnh, phát hiện, ngăn chặn kịp thời những khách hàng có hành vi vi phạm qui định của pháp luật về Internet.
+
+5. Cung cấp đầy đủ số liệu về cấu hình kỹ thuật, sơ đồ kết nối, lưu lượng thông tin trong phạm vi đại lý quản lý một cách trung thực, chi tiết, đầy đủ cho cơ quan quản lý Nhà nước có thẩm quyền khi có yêu cầu.
+
+6. Phối hợp với cơ quan công an và các cơ quan nhà nước có thẩm quyền thực hiện yêu cầu bảo đảm an toàn và an ninh thông tin.
+
+
+
+Điều 9.
+
+Người sử dụng Internet có trách nhiệm:
+
+1. Chịu trách nhiệm trước pháp luật về các nội dung tin đưa vào và truyền đi trên Internet.
+
+2. Khi nhận được thông tin gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, vi phạm thuần phong mỹ tục, bản sắc văn hoá Việt Nam thì không được in, sao, tán phát và phải báo ngay cho cơ quan Công an nơi gần nhất để xử lý.
+
+3. Bảo vệ mật khẩu, khoá mật mã, nội dung thông tin riêng và bảo vệ hệ thống thiết bị Internet của mình.
+
+
+
+Điều 10.
+
+Cơ quan, tổ chức, cá nhân tham gia hoạt động Internet có trách nhiệm thực hiện chế độ thông tin, báo cáo sau đây;
+
+1. Các doanh nghiệp, đơn vị sau khi được cấp phép cung cấp dịch vụ Internet phải báo cáo với Tổng cục An ninh - Bộ Công an sơ đồ kết nối mạng, kế hoạch, biện pháp và trang thiết bị đảm bảo an toàn, an ninh trong hoạt động Internet, danh sách trích ngang cán bộ, nhân viên của doanh nghiệp, đơn vị, sơ yếu lý lịch của các thành viên quản trị mạng, quản trị hệ thống, nhân viên điều hành mạng lưới chậm nhất 15 ngày trước khi đoàn kiểm tra liên ngành đến kiểm tra thực tế theo hướng dẫn tại Thông tư số 04/2001/TT-TCBĐ ngày 20/11/2001 của Tổng Cục Bưu điện (nay là Bộ Bưu chính Viễn thông).
+
+2. Định kỳ 6 tháng một lần, các doanh nghiệp cung cấp dịch vụ Internet có trách nhiệm báo cáo Tổng cục An ninh - Bộ Công an kết quả thực hiện công tác đảm bảo an toàn, an ninh trong hoạt động cung cấp, sử dụng dịch vụ Internet, những thay đổi bổ sung về cấu trúc của mạng, danh sách đại lý Internet, thuê bao sử dụng dịch vụ Internet của mình; thống kê danh sách các thành viên cung cấp thông tin, các loại hình tin tức điện tử trên Internet theo mẫu thống nhất và tổ chức theo dõi, quản lý chặt chẽ.
+
+3. Phát hiện, thông báo kịp thời cho cơ quan công an về các hoạt động vi phạm an toàn, an ninh thông tin, tấn công, phá hoại hệ thống thiết bị, gây cản trở hoạt động cung cấp dịch vụ Internet và các hành vi vi phạm pháp luật khác; phối hợp chặt chẽ với cơ quan Công an trong quá trình xác minh làm rõ nội dung sự việc vi phạm, cung cấp các thông tin, tài liệu cần thiết liên quan đến vụ việc khi được yêu cầu.
+
+
+
+Điều 11.
+
+Bộ Công an giao Tổng cục An ninh là cơ quan thường trực giúp lãnh đạo Bộ Công an chỉ đạo, tổ chức công tác đảm bảo an toàn, an ninh trong hoạt động Internet, có trách nhiệm:
+
+1. Tổ chức, triển khai biện pháp nghiệp vụ để kiểm tra, kiểm soát, giám sát thông tin trên Internet theo quy định của pháp luật.
+
+2. Hướng dẫn các cơ quan, tổ chức, cá nhân tham gia hoạt động Internet thực hiện công tác phòng ngừa, phát hiện và ngăn chặn các hoạt động lợi dụng dịch vụ Internet để xâm hại an ninh quốc gia, trật tự an toàn xã hội.
+
+3. Hướng dẫn Công an các tỉnh, thành phố trực thuộc Trung ương tổ chức, triển khai công tác đảm bảo an toàn, an ninh trong hoạt động Internet tại địa phương mình.
+
+
+
+Điều 12.
+
+Tổng cục An ninh chỉ đạo các Cục nghiệp vụ chức năng, công an các địa phương:
+
+1. Định kỳ 6 tháng một lần, tổ chức kiểm tra việc triển khai các biện pháp đảm bảo an toàn, an ninh thông tin trong hoạt động Internet của các chủ thể cung cấp dịch vụ theo những nội dung quy định tại Quy định này.
+
+2. Phối hợp với Thanh tra chuyên ngành Bưu chính Viễn thông và Công nghệ thông tin, Thanh tra chuyên ngành Văn hoá Thông tin tiến hành thanh tra, kiểm tra và xử lý vi phạm trong hoạt động Internet theo quy định của pháp luật.
+
+
+
+Điều 13.
+
+Cơ quan, tổ chức, cá nhân vi phạm quy định về an toàn, an ninh thông tin trong hoạt động quản lý, cung cấp, sử dụng dịch vụ Internet, tuỳ theo tính chất, mức độ vi phạm sẽ bị xử phạt theo quy định tại Điều 41 và Điều 45 của Nghị định số 55. Cụ thể như sau:
+
+1. Phạt tiền từ 200.000 đồng đến 1.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Sử dụng mật khẩu, khoá mật mã, thông tin riêng của người khác để truy nhập, sử dụng dịch vụ Internet trái phép;
+
+b) Sử dụng các công cụ phần mềm để truy nhập, sử dụng dịch vụ Internet trái phép.
+
+2. Phạt tiền từ 1.000.000 đồng đến 5.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Vi phạm các qui định của Nhà nước về mã hoá và giải mã thông tin trên Internet trong việc sử dụng dịch vụ Internet;
+
+b) Vi phạm các qui định của Nhà nước về an toàn, an ninh thông tin trên Internet trong việc sử dụng dịch vụ Internet.
+
+3. Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các hành vi vi phạm sau đây:
+
+a) Vi phạm các qui định của Nhà nước về mã hoá và giải mã thông tin trên Internet trong việc cung cấp dịch vụ Internet;
+
+b) Vi phạm các qui định của Nhà nước về an toàn, an ninh thông tin trên Internet trong việc cung cấp dịch vụ Internet;
+
+c) Sử dụng Internet để nhằm mục đích đe dọa, quấy rối, xúc phạm đến danh dự, nhân phẩm người khác mà chưa đến mức truy cứu trách nhiệm hình sự;
+
+d) Đưa vào Internet hoặc lợi dụng Internet để truyền bá các thông tin, hình ảnh đồi truỵ, hoặc những thông tin khác trái với qui định của pháp luật về nội dung tin trên Internet, mà chưa đến mức truy cứu trách nhiệm hình sự;
+
+đ) Đánh cắp mật khẩu, khoá mật mã, thông tin riêng của tổ chức, cá nhân và phổ biến cho người khác sử dụng;
+
+e) Vi phạm các quy định về vận hành, khai thác và sử dụng máy tính gây rối loạn hoạt động, phong toả hoặc làm biến dạng, làm huỷ hoại các dữ liệu trên Internet mà chưa đến mức truy cứu trách nhiệm hình sự.
+
+4. Phạt tiền từ 20.000.000 đồng đến 50.000.000 đồng đối với hành vi tạo ra và cố ý lan truyền, phát tán các chương trình vi rút trên Internet mà chưa đến mức truy cứu trách nhiệm hình sự.
+
+5. Ngoài các hình thức xử phạt hành chính, tuỳ theo tính chất, mức độ vi phạm mà tổ chức, cá nhân còn có thể bị áp dụng hình thức xử phạt bổ sung hoặc biện pháp khắc phục hậu quả sau đây:
+
+a) Tạm đình chỉ hoặc đình chỉ việc cung cấp và sử dụng dịch vụ Internet đối với các hành vi vi phạm các điểm tại khoản 1, các điểm tại khoản 2, các điểm tại khoản 3, khoản 4 Điều 13 của Qui định này.
+
+b) Buộc khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính gây ra đối với hành vi vi phạm qui định tại điểm e khoản 3, khoản 4 Điều 13 của Qui định này.
+
+6. Hành vi lợi dụng Internet để chống lại Nhà nước Cộng hoà xã hội Chủ nghĩa Việt Nam và gây rối an ninh, trật tự; các hành vi vi phạm nghiêm trọng khác có dấu hiệu tội phạm sẽ bị truy cứu trách nhiệm hình sự theo qui định của pháp luật.
+
+
+
+
+
+CHƯƠNG III
+
+ĐIỀU KHOẢN THI HÀNH
+
+
+
+
+
+Điều 14. Căn cứ Quy định này, các tổ chức, doanh nghiệp cung cấp dịch vụ Internet tại Việt Nam xây dựng quy chế quản lý Internet của đơn vị mình, quản lý người sử dụng, quản lý nội dung thông tin và các biện pháp kỹ thuật kiểm tra, giám sát, đảm bảo an toàn, an ninh thông tin trong hoạt động Internet.
+
+
+
+Điều 15.
+
+1. Tổng cục An ninh - Bộ Công an chỉ đạo các đơn vị nghiệp vụ phối hợp với các cơ quan chức năng của Bộ Bưu chính - Viễn thông, Bộ Văn hoá - Thông tin và các Bộ, ngành, địa phương liên quan xem xét các giải pháp kỹ thuật đảm bảo an toàn, anh ninh hoạt động Internet của các tổ chức, đơn vị, doanh nghiệp cung cấp dịch vụ Internet ngay từ khi cấp phép và định kỳ kiểm tra việc tổ chức, thực hiện Quy định này.
+
+2. Các cơ quan, tổ chức, cá nhân trong quá trình thực hiện Quy định này nếu có khó khăn vướng mắc đề nghị phản ánh về Bộ Công an (qua Tổng cục An ninh) để được hướng dẫn giải quyết kịp thời./.
+
+
+
+
+
+

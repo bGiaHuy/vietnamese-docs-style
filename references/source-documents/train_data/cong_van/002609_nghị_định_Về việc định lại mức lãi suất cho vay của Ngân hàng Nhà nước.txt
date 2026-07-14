@@ -1,0 +1,199 @@
+# Về việc định lại mức lãi suất cho vay của Ngân hàng Nhà nước
+# Loại: Nghị định
+# Số hiệu: 218-HĐBT
+# Ngày ban hành: 19/11/1987
+# Cơ quan: Hội đồng Bộ trưởng
+# Người ký: Đoàn Duy Thành
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Hướng dẫn hoạt động đối với các ngành, nghề kinh doanh có
+
+điều kiện trong lĩnh vực bưu chính, viễn thông và Internet
+
+
+
+Để triển khai thực hiện các quy định tại Nghị định số 03/2000/NĐ-CP ngày 3/2/2000 hướng dẫn thi hành một số điều của Luật doanh nghiệp và Nghị định số 30/2000/NĐ-CP ngày 11/8/2000 về việc bãi bỏ một số giấy phép và chuyển một số giấy phép thành điều kiện kinh doanh, đồng thời để tạo điều kiện thuận lợi cho các hoạt động của doanh nghiệp. Sau khi lấy ý kiến đóng góp của một số Bộ, ngành có liên quan, Tổng cục Bưu điện hướng dẫn một số nội dung về hoạt động kinh doanh trong lĩnh vực bưu chính, viễn thông và Internet như sau:
+
+
+
+I.NHỮNG QUI ĐỊNH CHUNG
+
+1.1. Thông tư này hướng dẫn các doanh nghiệp hoạt động kinh doanh trong lĩnh vực bưu chính, viễn thông và Internet, theo qui định của pháp luật thuộc ngành, nghề kinh doanh có điều kiện.
+
+1.2. Doanh nghiệp bưu chính, viễn thông là doanh nghiệp tham gia hoạt động kinh doanh một hoặc nhiều lĩnh vực được qui định tại Nghị định 109/1997/NĐ-CP ngày 12/11/1997 của Chính phủ về Bưu chính và Viễn thông. Các lĩnh vực kinh doanh bưu chính, viễn thông có điều kiện là các lĩnh vực sau:
+
+a. Cung cấp dịch vụ bưu chính, viễn thông;
+
+b. Sản xuất vật tư, thiết bị bưu chính, viễn thông;
+
+c. Xuất, nhập khẩu, mua bán vật tư, thiết bị bưu chính, viễn thông;
+
+d. In tem bưu chính; sản xuất, xuất nhập khẩu, mua bán tem bưu chính, các ấn phẩm tem và các mặt hàng tem bưu chính.
+
+1.3. Doanh nghiệp cung cấp dịch vụ Internet là doanh nghiệp tham gia kinh doanh các dịch vụ Internet được qui định tại Nghị định số 21/CP ngày 05/3/1997 của Chính phủ ban hành "Qui chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam". Các lĩnh vực kinh doanh Internet có điều kiện là các lĩnh vực sau:
+
+a. Cung cấp dịch vụ truy nhập Internet (IAP);
+
+b. Cung cấp dịch vụ Internet (ISP).
+
+1.4. Lĩnh vực bưu chính, viễn thông và Internet thuộc ngành, nghề kinh doanh có điều kiện. Trong đó, một số lĩnh vực kinh doanh cần có giấy phép của Tổng cục Bưu điện, một số lĩnh vực không cần giấy phép nhưng phải tuân theo các điều kiện qui định tại Thông tư này.
+
+1.5. Các loại giấy phép, giấy chứng nhận để quản lý kỹ thuật, nghiệp vụ theo qui định tại Nghị định 109/1997/NĐ-CP nhằm bảo đảm chất lượng mạng lưới và dịch vụ, bảo đảm an toàn cho hoạt động của mạng lưới bưu chính, viễn thông công cộng và dùng riêng, bảo đảm quyền lợi của người sử dụng không thuộc phạm vi điều chỉnh của Thông tư này.
+
+II. ĐIỀU KIỆN KINH DOANH CẦN CÓ GIẤY PHÉP
+
+2.1. Các lĩnh vực kinh doanh bưu chính, viễn thông và Internet cần có giấy phép, bao gồm:
+
+a. Thiết lập hệ thống đường trục viễn thông quốc gia, mạng viễn thông công cộng và cung cấp (trực tiếp, bán lại) các dịch vụ viễn thông (cơ bản, giá trị gia tăng);
+
+b. Thiết lập mạng và cung cấp dịch vụ Internet (IAP, ISP);
+
+c. Thiết lập mạng và cung cấp dịch vụ bưu chính;
+
+d. In tem bưu chính;
+
+e. Sản xuất thiết bị phát, thu-phát sóng vô tuyến điện.
+
+2.2. Các doanh nghiệp hoạt động kinh doanh trong các lĩnh vực quy định tại điểm a, b, c và d mục 2.1 là doanh nghiệp nhà nước hoặc công ty cổ phần mà nhà nước chiếm cổ phần chi phối hoặc cổ phần đặc biệt. Đối tượng kinh doanh lĩnh vực quy định tại điểm e mục 2.1 là doanh nghiệp thuộc mọi thành phần kinh tế. Các doanh nghiệp được kinh doanh các lĩnh vực theo điều kiện và thời hạn hoạt động được ghi cụ thể trong giấy phép và chỉ hoạt động kinh doanh kể từ khi có giấy phép.
+
+2.3. Các doanh nghiệp phải đăng ký kinh doanh theo qui định của pháp luật trước khi làm các thủ tục xin cấp giấy phép hoạt động kinh doanh các lĩnh vực qui định tại điểm 2.1 nêu trên.
+
+2.4. Điều kiện, trình tự và thủ tục cấp các loại giấy phép để kinh doanh các lĩnh vực như nêu tại mục 2.1 trên đây được thực hiện như sau:
+
+a. Đối với các giấy phép nêu tại điểm a được thực hiện theo qui định tại Thông tư số 04/1998/TT-TCBĐ ngày 29/9/1998 của Tổng cục Bưu điện hướng dẫn Nghị định 109/1997/NĐ-CP ngày 12/11/1997 của Chính phủ về mạng lưới và dịch vụ viễn thông;
+
+b. Đối với các giấy phép nêu tại điểm b được thực hiện theo quy định tại Thông tư liên tịch số 08/TTLT ngày 24/5/1997 giữa Tổng cục Bưu điện, Bộ Nội vụ (nay là Bộ Công an) và Bộ Văn hoá-Thông tin Hướng dẫn cấp phép việc kết nối, cung cấp và sử dụng Internet ở Việt Nam;
+
+c. Đối với các giấy phép nêu tại điểm c được thực hiện theo các quy định tại Thông tư số 02/1998/TT-TCBĐ ngày 20/6/1998 của Tổng cục Bưu điện hướng dẫn thực hiện Nghị định số 109/1997/NĐ-CP của Chính phủ về mạng lưới và dịch vụ bưu chính;
+
+d. Đối với các giấy phép nêu tại điểm d được thực hiện theo các quy định tại Quyết định số 217/2000/QĐ-TCBĐ ngày 06/3/2000 của Tổng cục trưởng Tổng cục Bưu điện về việc ban hành "Quy định quản lý nghiệp vụ tem bưu chính".
+
+e. Trình tự, thủ tục cấp giấy phép sản xuất thiết bị phát, thu-phát sóng vô tuyến điện:
+
+Hồ sơ xin cấp phép gồm:
+
+Đơn xin phép
+
+Điều lệ tổ chức và hoạt động của doanh nghiệp
+
+Đề án sản xuất gồm các nội dung chính sau: chủng loại thiết bị, tính năng kỹ thuật (tần số, băng tần số, công suất máy phát của thiết bị...), công nghệ, năng lực của dây truyền sản xuất...
+
+Thời hạn xử lý hồ sơ: Tổng cục Bưu điện tiến hành thẩm định và cấp phép trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ. Nếu có những vấn đề phát sinh đòi hỏi phải thẩm tra lại thì thời hạn trên có thể kéo dài thêm nhưng không quá 60 ngày kể từ ngày nhận được hồ sơ hợp lệ. Trường hợp từ chối cấp giấy phép, Tổng cục Bưu điện sẽ trả lời bằng văn bản cho doanh nghiệp biết trong thời hạn nêu trên.
+
+III. ĐIỀU KIỆN KINH DOANH KHÔNG CẦN GIẤY PHÉP
+
+3.1. Các lĩnh vực kinh doanh bưu chính, viễn thông có điều kiện không cần giấy phép, bao gồm:
+
+a. Sản xuất vật tư, thiết bị bưu chính, viễn thông (trừ thiết bị phát, thu-phát sóng vô tuyến điện);
+
+b. Xuất khẩu, nhập khẩu vật tư, thiết bị bưu chính, viễn thông;
+
+c. Mua bán vật tư, thiết bị bưu chính, viễn thông;
+
+d. Đại lý cung cấp các dịch vụ bưu chính, viễn thông;
+
+e. Đại lý cho các công ty chuyển phát nhanh nước ngoài;
+
+g. Xuất nhập khẩu, mua bán tem bưu chính, ấn phẩm tem và các mặt hàng tem bưu chính.
+
+3.2. Các doanh nghiệp thuộc mọi thành phần kinh tế hoạt động hợp pháp tại Việt Nam có thể đăng ký và hoạt động kinh doanh các lĩnh vực như quy định tại điểm 3.1 và được quyền kinh doanh lĩnh vực đó kể từ khi có đủ điều kiện kinh doanh theo quy định của Thông tư này và cam kết thực hiện đúng các điều kiện đó trong suốt quá trình hoạt động kinh doanh.
+
+3.3. Trong quá trình hoạt động kinh doanh các doanh nghiệp cần phải tuân theo các quy định của pháp luật về chất lượng hàng hoá và dịch vụ, các quy định về thông tin quảng cáo, các quy định về giải quyết khiếu nại bồi thường và các quy định khác của pháp luật có liên quan.
+
+3.4. Điều kiện kinh doanh sản xuất vật tư, thiết bị bưu chính, viễn thông:
+
+a. Đối với vật tư, thiết bị thuộc "Danh mục vật tư, thiết bị bưu chính, viễn thông bắt buộc phải chứng nhận hợp chuẩn" theo qui định của Tổng cục Bưu điện, thì doanh nghiệp phải làm thủ tục chứng nhận hợp chuẩn cho các vật tư, thiết bị đó trước khi lưu thông trên thị trường.
+
+Trình tự, thủ tục, điều kiện chứng nhận hợp chuẩn vật tư, thiết bị bưu chính, viễn thông được quy định tại "Quy định chứng nhận hợp chuẩn vật tư thiết bị bưu chính, viễn thông" ban hành kèm theo Quyết định số 285/2000/QĐ-TCBĐ ngày 29/03/2000 của Tổng cục trưởng Tổng cục Bưu điện;
+
+b. Đối với các thiết bị đầu cuối thuê bao, doanh nghiệp phải thực hiện việc ghi nhãn hàng hoá theo quy định tại Thông tư số 03/2000/TT-TCBĐ ngày 26/7/2000 của Tổng cục Bưu điện.
+
+3.5. Điều kiện kinh doanh xuất nhập khẩu vật tư, thiết bị bưu chính, viễn thông:
+
+a. Đối với vật tư, thiết bị thuộc "Danh mục vật tư, thiết bị bưu chính, viễn thông bắt buộc phải chứng nhận hợp chuẩn" theo qui định của Tổng cục Bưu điện, thì doanh nghiệp phải làm thủ tục chứng nhận hợp chuẩn trước khi nhập khẩu.
+
+Trình tự, thủ tục, điều kiện chứng nhận hợp chuẩn vật tư thiết bị bưu chính, viễn thông được quy định tại "Quy định chứng nhận hợp chuẩn vật tư thiết bị bưu chính, viễn thông" ban hành kèm theo Quyết định số 285/2000/QĐ-TCBĐ ngày 29/03/2000 của Tổng cục trưởng Tổng cục Bưu điện;
+
+b. Đối với các thiết bị đầu cuối thuê bao sản xuất tại nước ngoài được nhập khẩu để tiêu thụ tại thị trường Việt Nam, doanh nghiệp phải thực hiện việc ghi nhãn hàng hoá theo quy định tại Thông tư số 03/2000/TT-TCBĐ ngày 26/7/2000 của Tổng cục Bưu điện;
+
+c. Đối với thiết bị phát, thu-phát sóng vô tuyến điện, doanh nghiệp chỉ được nhập khẩu các thiết bị có tần số hoặc băng tần số phù hợp với qui hoạch phổ tần số cho các nghiệp vụ tại Việt Nam được quy định tại Quyết định số 85/1998/QĐ-TTg ngày 16/4/1998 của Thủ tướng Chính phủ về việc phê duyệt quy hoạch phổ tần số của Việt Nam cho các nghiệp vụ và các quy định có liên quan khác của Tổng cục Bưu điện;
+
+d. Đối với các thiết bị phát, thu-phát qua vệ tinh lắp đặt cố định dùng trong các nghiệp vụ viễn thông và nghiệp vụ phát thanh truyền hình, doanh nghiệp có trách nhiệm yêu cầu khách hàng sử dụng thiết bị thực hiện việc xin cấp giấy phép sử dụng máy phát và tần số vô tuyến điện do Tổng cục Bưu điện cấp trước khi làm các thủ tục nhập khẩu;
+
+e. Doanh nghiệp có trách nhiệm thông báo cho khách hàng biết khi đưa vào sử dụng các loại thiết bị phát, thu-phát sóng vô tuyến điện phải có giấy phép sử dụng máy phát và tần số vô tuyến điện của Tổng cục Bưu điện;
+
+g. Việc xuất, nhập khẩu vật tư, thiết bị bưu chính, viễn thông để phục vụ mục đích an ninh, quốc phòng thực hiện theo qui định của Bộ Công an, Bộ Quốc phòng.
+
+3.6. Điều kiện kinh doanh mua bán vật tư, thiết bị bưu chính, viễn thông:
+
+a. Đối với vật tư, thiết bị thuộc "Danh mục vật tư, thiết bị bưu chính, viễn thông bắt buộc phải chứng nhận hợp chuẩn" theo qui định của Tổng cục Bưu điện, thì doanh nghiệp chỉ được kinh doanh mua bán các vật tư, thiết bị đã được chứng nhận hợp chuẩn theo quy định;
+
+b. Đối với các thiết bị đầu cuối thuê bao, doanh nghiệp phải thực hiện việc ghi nhãn hàng hoá theo quy định tại Thông tư số 03/2000/TT-TCBĐ ngày 26/7/2000 của Tổng cục Bưu điện;
+
+c. Đối với việc mua bán các loại thiết bị phát, thu-phát sóng vô tuyến điện, doanh nghiệp có trách nhiệm thông báo cho khách hàng biết khi đưa vào sử dụng phải có giấy phép sử dụng máy phát và tần số vô tuyến điện của Tổng cục Bưu điện.
+
+3.7. Điều kiện làm đại lý cung cấp các dịch vụ bưu chính, viễn thông:
+
+a. Doanh nghiệp muốn làm đại lý cung cấp các dịch vụ bưu chính, viễn thông phải ký hợp đồng đại lý với doanh nghiệp cung cấp dịch vụ bưu chính viễn thông hoặc doanh nghiệp bán lại dịch vụ viễn thông (dưới đây gọi tắt là bên giao đại lý). Trong hợp đồng đại lý phải ghi rõ loại dịch vụ bưu chính, viễn thông mà đại lý được phép cung cấp, chất lượng, cước từng loại dịch vụ và tỷ lệ hoa hồng được hưởng;
+
+b. Bảo đảm cung cấp đúng dịch vụ, đúng chất lượng nêu trong hợp đồng đại lý và nguyên giá cước mà bên giao đại lý áp dụng với người sử dụng;
+
+c. Điểm đại lý cung cấp các dịch vụ bưu chính, viễn thông phải ghi tên thương mại và biểu trưng của bên giao đại lý;
+
+d. Đại lý cung cấp các dịch vụ bưu chính, viễn thông phải tuân theo các thể lệ dịch vụ bưu chính, viễn thông do Tổng cục Bưu điện ban hành và chịu sự thanh tra, kiểm tra của Tổng cục Bưu điện và các cơ quan quản lý nhà nước có thẩm quyền trong việc cung cấp dịch vụ bưu chính, viễn thông.
+
+3.8. Điều kiện làm đại lý cho các công ty chuyển phát nhanh nước ngoài:
+
+a. Doanh nghiệp được Tổng cục Bưu điện cấp phép cung cấp dịch vụ bưu chính quốc tế mới được làm đại lý dịch vụ (sau đây gọi là đại lý) cho các công ty chuyển phát nhanh (CPN) nước ngoài;
+
+b. Doanh nghiệp được ký hợp đồng đại lý với các công ty CPN nước ngoài trong phạm vi các dịch vụ bưu chính quốc tế đã được cấp phép;
+
+c. Công ty CPN nước ngoài ký hợp đồng đại lý phải là công ty được phép hoạt động hợp pháp tại một trong các nước mà Việt Nam có quan hệ bưu chính quốc tế;
+
+d. Hoạt động đại lý cho các công ty CPN nước ngoài phải bảo đảm chủ quyền, an ninh quốc gia, quyền lợi của người sử dụng dịch vụ và tuân theo đúng quy định của pháp luật Việt Nam về bưu chính, thuế, hải quan, an ninh thông tin và an toàn hàng gửi;
+
+e. Doanh nghiệp làm đại lý cho các công ty CPN nước ngoài, trên cơ sở pháp luật Việt Nam và thoả thuận với công ty CPN nước ngoài, có trách nhiệm xây dựng Hợp đồng đại lý khung áp dụng thống nhất trong toàn doanh nghiệp và đăng ký mẫu hợp đồng với Tổng cục Bưu điện; các ấn phẩm sử dụng trong giao dịch với người sử dụng dịch vụ phải được thể hiện bằng tiếng Việt Nam và tiếng nước ngoài;
+
+g. Doanh nghiệp làm đại lý cho các công ty CPN nước ngoài có trách nhiệm công bố và niêm yết đầy đủ thông tin tại các điểm giao dịch về cước dịch vụ, chỉ tiêu chất lượng dịch vụ, quyền và nghĩa vụ của người sử dụng;
+
+h. Doanh nghiệp làm đại lý cho các công ty CPN nước ngoài thực hiện chế độ báo cáo định kỳ hàng năm hoặc đột xuất về kết quả hoạt động đại lý theo các yêu cầu của Tổng cục Bưu điện.
+
+3.8. Điều kiện kinh doanh xuất nhập khẩu, mua bán tem bưu chính, ấn phẩm tem và các mặt hàng tem bưu chính:
+
+a. Doanh nghiệp được phép kinh doanh dịch vụ thư mới được phép kinh doanh xuất nhập khẩu tem bưu chính, ấn phẩm tem và các mặt hàng tem bưu chính;
+
+b. Doanh nghiệp kinh doanh mua bán tem bưu chính, ấn phẩm tem và các mặt hàng tem bưu chính phải thông qua hợp đồng đại lý với doanh nghiệp cung cấp dịch vụ thư;
+
+c. Không được mua bán, xuất nhập khẩu các loại tem bưu chính, ấn phẩm tem và các mặt hàng tem bưu chính mà Tổng cục Bưu điện đã đình chỉ phát hành, không cho phép lưu hành hoặc có nội dung không lành mạnh, gây kích động, gây hằn thù giữa các dân tộc, vi phạm chủ quyền quốc gia, trái với phong tục và pháp luật Việt Nam.
+
+IV. ĐIỀU KHOẢN THI HÀNH
+
+4.1. Thông tư này có hiệu lực thi hành sau 15 ngày kể từ ngày ký. Các qui định trước đây trái với Thông tư này đều bị bãi bỏ.
+
+4.2. Các đơn vị thuộc Tổng cục Bưu điện trong phạm vi quyền hạn, nhiệm vụ liên quan có trách nhiệm giải thích, hướng dẫn, thanh tra, kiểm tra việc thi hành Thông tư này.
+
+4.3. Các doanh nghiệp có trách nhiệm thực hiện nghiêm chỉnh các quy định tại Thông tư này. Trong quá trình thực hiện nếu có vướng mắc đề nghị các doanh nghiệp phản ánh kịp thời về Tổng cục Bưu điện để được hướng dẫn hoặc giải thích./.
+
+
+
+
+
+
+

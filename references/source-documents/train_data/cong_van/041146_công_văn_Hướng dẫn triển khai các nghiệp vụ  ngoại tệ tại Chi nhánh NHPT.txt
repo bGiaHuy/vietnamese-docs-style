@@ -1,0 +1,541 @@
+# Hướng dẫn triển khai các nghiệp vụ  ngoại tệ tại Chi nhánh NHPT
+# Loại: Công văn
+# Số hiệu: 2383/NHPT-NV
+# Ngày ban hành: 04/07/2008
+# Cơ quan: Ngân hàng phát triển Việt Nam
+# Người ký: Nguyễn Quang Dũng
+# Nguồn: thuvienphapluat.vn (HF dataset)
+
+---
+
+
+
+
+
+
+
+
+THÔNG TƯ
+
+Quy định hoạt động xây dựng tiêu chuẩn quốc gia và quy chuẩn kỹ thuật quốc gia
+
+của Bộ Văn hóa, Thể thao và Du lịch
+
+___________________
+
+
+
+Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006;
+
+Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật;
+
+Căn cứ Nghị định số 185/2007/NĐ-CP ngày 25 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Văn hóa, Thể thao và Du lịch;
+
+Theo đề nghị của Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường;
+
+Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành Thông tư quy định hoạt động xây dựng tiêu chuẩn quốc gia và quy chuẩn kỹ thuật quốc của Bộ Văn hóa, Thể thao và Du lịch.
+
+Chương I
+
+QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi và đối tượng áp dụng
+
+1. Thông tư này quy định hoạt động xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia trong lĩnh vực thuộc trách nhiệm quản lý nhà nước và có sử dụng nguồn vốn ngân sách sự nghiệp khoa học và công nghệ của Bộ Văn hóa, Thể thao và Du lịch.
+
+2. Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia vào hoạt động xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia trong lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch.
+
+Điều 2. Giải thích từ ngữ
+
+Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+
+1. Tiêu chuẩn quốc gia trong lĩnh vực thuộc trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch (dưới đây gọi tắt là tiêu chuẩn quốc gia) là tiêu chuẩn trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch do Bộ Văn hóa, Thể thao và Du lịch tổ chức xây dựng và đề nghị Bộ Khoa học và Công nghệ thẩm định, công bố theo trình tự, thủ tục quy định.
+
+2. Quy chuẩn kỹ thuật quốc gia trong lĩnh vực thuộc trách nhiệm quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch (dưới đây gọi tắt là quy chuẩn kỹ thuật quốc gia) là các quy chuẩn kỹ thuật trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành để áp dụng trong phạm vi toàn quốc.
+
+3. Chấp nhận tiêu chuẩn quốc tế, tiêu chuẩn khu vực hoặc tiêu chuẩn nước ngoài thành tiêu chuẩn quốc gia là việc Bộ Văn hóa, Thể thao và Du lịch đề nghị Bộ Khoa học và Công nghệ công bố một tiêu chuẩn trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch có nội dung hoàn toàn tương đương hoặc tương đương có sửa đổi với nội dung của tiêu chuẩn quốc tế, tiêu chuẩn khu vực hoặc tiêu chuẩn nước ngoài tương ứng.
+
+4. Tiêu chuẩn quốc tế là tiêu chuẩn do một tổ chức tiêu chuẩn quốc tế hoặc tổ chức quốc tế có hoạt động trong lĩnh vực tiêu chuẩn công bố.
+
+5. Tiêu chuẩn khu vực là tiêu chuẩn do tổ chức tiêu chuẩn khu vực hoặc tổ chức khu vực có hoạt động trong lĩnh vực tiêu chuẩn công bố.
+
+6. Tiêu chuẩn nước ngoài là tiêu chuẩn do tổ chức tiêu chuẩn quốc gia của nước ngoài hoặc tổ chức nước ngoài có hoạt động trong lĩnh vực tiêu chuẩn (hiệp hội nghề nghiệp, viện nghiên cứu...) công bố.
+
+Điều 3. Đối tượng tiêu chuẩn quốc gia
+
+Đối tượng tiêu chuẩn quốc gia trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch bao gồm:
+
+1. Nhóm đối tượng tiêu chuẩn về di sản văn hóa.
+
+2. Nhóm đối tượng tiêu chuẩn về điện ảnh.
+
+3. Nhóm đối tượng tiêu chuẩn về thư viện.
+
+4. Nhóm đối tượng tiêu chuẩn về mỹ thuật, nhiếp ảnh.
+
+5. Nhóm đối tượng tiêu chuẩn về quảng cáo.
+
+6. Nhóm đối tượng tiêu chuẩn về nghệ thuật biểu diễn và sân khấu.
+
+7. Nhóm đối tượng tiêu chuẩn về dịch vụ văn hóa.
+
+8. Nhóm đối tượng tiêu chuẩn về thể dục, thể thao (dụng cụ, trang thiết bị, sân bãi, công trình, vui chơi giải trí) và dịch vụ liên quan.
+
+9. Nhóm đối tượng tiêu chuẩn về du lịch và các dịch vụ liên quan.
+
+10. Nhóm đối tượng tiêu chuẩn về môi trường của khu du lịch, điểm du lịch, khu di tích lịch sử - văn hóa, khu di sản thế giới, khu danh lam thắng cảnh đã được xếp hạng; khu dịch vụ thể thao, vui chơi giải trí, sân golf.
+
+11. Các nhóm đối tượng khác theo yêu cầu quản lý trong từng thời kỳ.
+
+Điều 4. Đối tượng quy chuẩn kỹ thuật quốc gia
+
+Đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch bao gồm:
+
+1. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia về di sản văn hóa.
+
+2. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia về điện ảnh.
+
+3. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia về mỹ thuật, nhiếp ảnh.
+
+4. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia về quảng cáo.
+
+5. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia về dịch vụ văn hóa.
+
+6. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực công trình thể thao, vui chơi giải trí và các dịch vụ liên quan.
+
+7. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực trang thiết bị luyện tập, thi đấu thể dục, thể thao.
+
+8. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực cơ sở lưu trú du lịch.
+
+9. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực khu, tuyến, điểm và phương tiện vận chuyển khách du lịch.
+
+10. Nhóm đối tượng quy chuẩn kỹ thuật quốc gia trong lĩnh vực môi trường trong lĩnh vực du lịch.
+
+11. Các nhóm đối tượng quy chuẩn kỹ thuật quốc gia khác theo yêu cầu quản lý trong từng thời kỳ.
+
+Điều 5. Mục tiêu xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia
+
+1. Bộ Văn hóa, Thể thao và Du lịch tổ chức xây dựng và đề nghị công bố các tiêu chuẩn quốc gia để khuyến khích áp dụng nhằm nâng cao chất lượng và hiệu quả của các đối tượng tiêu chuẩn quốc gia trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch; nâng cao sức cạnh tranh của sản phẩm, hàng hóa và dịch vụ trên thị trường trong nước và quốc tế.
+
+2. Bộ Văn hóa, Thể thao và Du lịch tổ chức xây dựng và ban hành các quy chuẩn kỹ thuật quốc gia trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch nhằm:
+
+a) Bảo đảm nâng cao chất lượng, hiệu quả, hiệu lực quản lý nhà nước của Bộ Văn hóa, Thể thao và Du lịch, phù hợp với yêu cầu hội nhập và phát triển theo cơ chế kinh tế thị trường thông qua việc quy định thống nhất, cụ thể, có cơ sở khoa học và khả thi các yêu cầu về kỹ thuật và biện pháp quản lý;
+
+b) Bảo đảm an toàn, vệ sinh, sức khoẻ con người; bảo vệ động vật, thực vật, môi trường; bảo vệ lợi ích và an ninh quốc gia, quyền lợi của người tiêu dùng và các yêu cầu thiết yếu khác.
+
+Điều 6. Kinh phí xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia
+
+1. Nguồn kinh phí xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia:
+
+a) Kinh phí được bố trí trong dự toán ngân sách nhà nước hàng năm cho hoạt động khoa học và công nghệ của Bộ Văn hóa, Thể thao và Du lịch để chi cho hoạt động xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia;
+
+b) Kinh phí tài trợ, hỗ trợ của các tổ chức cá nhân khác (nếu có);
+
+c) Các nguồn thu hợp pháp khác (nếu có).
+
+2. Việc quản lý, sử dụng kinh phí xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia được thực hiện theo quy định của Bộ Khoa học và Công nghệ, Bộ Tài chính và hướng dẫn của Bộ Văn hóa, Thể thao và Du lịch.
+
+Điều 7. Yêu cầu đối với dự thảo và thuyết minh dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia
+
+1. Nội dung của tiêu chuẩn quốc gia phải tuân thủ những yêu cầu cơ bản sau:
+
+a) Phù hợp với tiến bộ khoa học và công nghệ, điều kiện và nhu cầu phát triển kinh tế - xã hội;
+
+b) Phù hợp với quy chuẩn kỹ thuật, quy định của pháp luật, cam kết quốc tế có liên quan, yêu cầu hài hoà với tiêu chuẩn quốc tế;
+
+c) Bảo đảm tính thống nhất, đồng bộ trong hệ thống tiêu chuẩn quốc gia, việc tuân thủ nguyên tắc đồng thuận và hài hoà lợi ích của các bên có liên quan;
+
+d) Đáp ứng đúng mục tiêu của tiêu chuẩn quốc gia quy định tại khoản 1 Điều 5 Thông tư này.
+
+2. Nội dung của quy chuẩn kỹ thuật quốc gia phải tuân thủ những yêu cầu cơ bản sau:
+
+a) Phù hợp với quy định của pháp luật và cam kết quốc tế có liên quan;
+
+b) Đảm bảo tính thống nhất, đồng bộ trong hệ thống quy chuẩn kỹ thuật quốc gia;
+
+c) Xác định rõ phương pháp đo kiểm, đánh giá;
+
+d) Đáp ứng đúng mục tiêu của quy chuẩn kỹ thuật quốc gia quy định tại khoản 2 Điều 5 Thông tư này.
+
+3. Quy định đối với tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia được xây dựng trên cơ sở chấp nhận tiêu chuẩn quốc tế:
+
+a) Ưu tiên xây dựng tiêu chuẩn quốc gia trên cơ sở chấp nhận tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài (sau đây gọi chung là tiêu chuẩn quốc tế) đã được áp dụng rộng rãi;
+
+b) Quy chuẩn kỹ thuật quốc gia chấp nhận một tiêu chuẩn quốc tế được thể hiện trong lời nói đầu là “Quy chuẩn kỹ thuật quốc gia có các quy định kỹ thuật và phương pháp đo thử phù hợp với tiêu chuẩn quốc tế”;
+
+c) Tiêu chuẩn quốc gia chấp nhận một tiêu chuẩn quốc tế với bố cục và nội dung cơ bản của tiêu chuẩn quốc tế được giữ nguyên và chuyển nguyên vẹn sang tiêu chuẩn quốc gia được thể hiện trong lời nói đầu là “Tiêu chuẩn quốc gia hoàn toàn tương đương với tiêu chuẩn quốc tế” và được ghi ký hiệu tương đương với tiêu chuẩn quốc tế;
+
+d) Tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia chấp nhận từ hai tiêu chuẩn quốc tế trở lên được thể hiện trong lời nói đầu là “Tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia xây dựng dựa trên các tiêu chuẩn quốc tế”.
+
+4. Thể thức trình bày của tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia thực hiện như sau:
+
+a) Trình bày và thể hiện nội dung tiêu chuẩn quốc gia được thực hiện theo Tiêu chuẩn quốc gia TCVN 1-2: 2008 và các quy định của Bộ Khoa học và Công nghệ;
+
+b) Trình bày và thể hiện nội dung quy chuẩn kỹ thuật quốc gia được thực hiện theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.
+
+Chương II
+
+TRÌNH TỰ, THỦ TỤC XÂY DỰNG DỰ THẢO TIÊU CHUẨN
+
+QUỐC GIA
+
+Điều 8. Đăng ký kế hoạch hàng năm xây dựng tiêu chuẩn quốc gia
+
+1. Hàng năm, căn cứ thông báo và hướng dẫn việc đề xuất xây dựng tiêu chuẩn quốc gia của Bộ Văn hóa, Thể thao và Du lịch, các cơ quan, tổ chức thuộc Bộ Văn hóa, Thể thao và Du lịch đăng ký kế hoạch xây dựng tiêu chuẩn quốc gia.
+
+2. Hồ sơ đăng ký kế hoạch xây dựng tiêu chuẩn quốc gia
+
+a) Hồ sơ bao gồm:
+
+- Văn bản đăng ký dự án xây dựng tiêu chuẩn quốc gia.
+
+- Dự án xây dựng tiêu chuẩn quốc gia được lập theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này.
+
+b) Số lượng Hồ sơ gửi đăng ký là 01 (một) bản gốc và 11 (mười một) bản sao kèm theo file điện tử.
+
+c) Thời hạn nộp Hồ sơ: Hồ sơ phải nộp đúng hạn như trong thông báo.
+
+Ngày nhận Hồ sơ được tính là ngày ghi ở dấu bưu điện (trường hợp gửi qua bưu điện); dấu công văn đến của Văn phòng Bộ hoặc văn thư của Vụ Khoa học, Công nghệ và Môi trường (trong trường hợp gửi trực tiếp).
+
+3. Vụ Khoa học, Công nghệ và Môi trường tổng hợp kế hoạch dự kiến xây dựng tiêu chuẩn quốc gia cho từng nhóm đối tượng quy định tại Điều 3 và theo mẫu đăng ký kế hoạch xây dựng tiêu chuẩn quốc gia quy định tại Phụ lục III ban hành kèm theo Thông tư này.
+
+Điều 9. Tư vấn xét chọn dự án xây dựng tiêu chuẩn quốc gia
+
+1. Trong thời hạn 15 (mười lăm) ngày, kể từ ngày hết hạn nộp Hồ sơ, Bộ Văn hóa, Thể thao và Du lịch tổ chức việc tư vấn xét chọn dự án xây dựng tiêu chuẩn quốc gia.
+
+2. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định thành lập các Hội đồng tư vấn xét chọn dự án xây dựng tiêu chuẩn quốc gia (sau đây gọi tắt là Hội đồng tư vấn) theo đề nghị của Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường theo từng nhóm đối tượng tiêu chuẩn quốc gia quy định tại Điều 3 Thông tư này.
+
+a) Hội đồng tư vấn có từ 07 (bảy) đến 11 (mười một) thành viên gồm Chủ tịch, Phó Chủ tịch và các thành viên khác, bao gồm:
+
+- Đại diện các cơ quan, đơn vị trực thuộc Bộ Văn hóa, Thể thao và Du lịch có liên quan đến đối tượng xây dựng tiêu chuẩn quốc gia (chiếm ít nhất 1/2 số thành viên Hội đồng).
+
+- Các chuyên gia trong hoặc ngoài Bộ Văn hóa, Thể thao và Du lịch có uy tín, có trình độ chuyên môn phù hợp và am hiểu sâu về nhóm đối tượng tiêu chuẩn quốc gia.
+
+- Đại diện các Bộ, ngành, tổ chức có liên quan đến lĩnh vực xây dựng tiêu chuẩn quốc gia.
+
+b) Ban Thư ký Hội đồng tư vấn có các thành viên là các chuyên viên của Vụ Khoa học, Công nghệ và Môi trường.
+
+3. Trách nhiệm của Hội đồng tư vấn:
+
+a) Có nhiệm vụ tư vấn xét chọn tên, sự cần thiết, tính đầy đủ của các căn cứ pháp lý, tính khả thi, tiến độ thực hiện Dự án; tính hợp lý của việc phân bổ kinh phí cho các nội dung nhiệm vụ của Dự án; năng lực tổ chức thực hiện nhiệm vụ của đơn vị đăng ký thực hiện Dự án;
+
+b) Đảm bảo nhận xét trung thực, khách quan, chính xác và công bằng;
+
+c) Chịu trách nhiệm cá nhân về kết quả đánh giá của mình và trách nhiệm tập thể về kết luận chung của Hội đồng tư vấn.
+
+4. Nguyên tắc làm việc của Hội đồng tư vấn:
+
+a) Các thành viên thảo luận công khai về nhiệm vụ được giao đồng thời chịu trách nhiệm về ý kiến của mình;
+
+b) Phiên họp của Hội đồng tư vấn phải có mặt ít nhất 2/3 số thành viên (ý kiến bằng văn bản của thành viên vắng mặt chỉ có giá trị tham khảo);
+
+c) Chủ tịch Hội đồng tư vấn chủ trì các phiên họp, trong trường hợp Chủ tịch Hội đồng tư vấn vắng mặt, Phó Chủ tịch Hội đồng tư vấn là người chủ trì phiên họp.
+
+5. Nội dung phiên họp của Hội đồng tư vấn:
+
+a) Thành viên Hội đồng tư vấn nhận xét, đánh giá dự án xây dựng tiêu chuẩn quốc gia theo mẫu Bản nhận xét quy định tại Phụ lục IV và mẫu Phiếu đánh giá quy định tại Phụ lục V ban hành kèm theo Thông tư này;
+
+b) Hội đồng tư vấn bầu Ban kiểm phiếu bao gồm 03 (ba) thành viên trong đó có 01 (một) Trưởng ban. Kết quả kiểm phiếu được lập thành biên bản theo mẫu Biên bản kiểm phiếu quy định tại Phụ lục VI ban hành kèm theo Thông tư này;
+
+c) Những dự án xây dựng tiêu chuẩn quốc gia được Hội đồng tư vấn "đề nghị thực hiện" phải được ít nhất 2/3 số thành viên Hội đồng có mặt đồng ý kiến nghị và số thành viên này bảo đảm không ít hơn 1/2 tổng số thành viên Hội đồng tư vấn;
+
+d) Hội đồng trao đổi, thảo luận, bổ sung hoặc sửa đổi những nội dung trong dự án xây dựng tiêu chuẩn quốc gia đã được Hội đồng tư vấn "đề nghị thực hiện";
+
+đ) Trong trường hợp chưa đưa ra được kết luận cuối cùng Hội đồng tư vấn sẽ báo cáo để Lãnh đạo Bộ quyết định;
+
+e) Kết luận của Hội đồng tư vấn thể hiện trong Biên bản họp là căn cứ để hoàn thiện nội dung dự án xây dựng tiêu chuẩn quốc gia trình Lãnh đạo Bộ phê duyệt chủ trương thực hiện.
+
+Điều 10. Phê duyệt danh mục dự án xây dựng tiêu chuẩn quốc gia
+
+1. Căn cứ vào kết quả làm việc của Hội đồng tư vấn và theo đề nghị của Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch phê duyệt quyết định Danh mục các dự án xây dựng tiêu chuẩn quốc gia để gửi đăng ký dự kiến kế hoạch xây dựng tiêu chuẩn quốc gia tới Tổng cục Tiêu chuẩn Đo lường Chất lượng, Bộ Khoa học và Công nghệ.
+
+2. Trong thời hạn 30 (ba mươi) ngày, kể từ ngày nhận được Quyết định phê duyệt kế hoạch hàng năm xây dựng tiêu chuẩn quốc gia do Bộ Khoa học và Công nghệ ban hành, Bộ Văn hóa, Thể thao và Du lịch phê duyệt quyết định giao nhiệm vụ thực hiện dự án xây dựng tiêu chuẩn quốc gia và thông báo tới các cơ quan, tổ chức có liên quan; công bố trên trang tin điện tử (website) của Bộ Văn hóa, Thể thao và Du lịch; trang tin điện tử của Cơ quan Thông báo và Điểm hỏi đáp Bộ Văn hóa, Thể thao và Du lịch (sau đây gọi là trang tin điện tử www.tbt-mocst.vn) để các cơ quan, tổ chức, cá nhân có liên quan triển khai xây dựng dự thảo tiêu chuẩn quốc gia.
+
+Điều 11. Triển khai xây dựng dự thảo tiêu chuẩn quốc gia
+
+1. Ký Hợp đồng thực hiện dự án xây dựng tiêu chuẩn quốc gia:
+
+a) Dự án xây dựng tiêu chuẩn quốc gia được thực hiện thông qua Hợp đồng nghiên cứu khoa học và phát triển công nghệ Xây dựng tiêu chuẩn quốc gia (sau đây gọi tắt là Hợp đồng) được ký kết giữa Bên giao (Bên A) là Bộ Văn hóa, Thể thao và Du lịch với Bên nhận (Bên B) là cơ quan, tổ chức chủ trì thực hiện (sau đây gọi tắt là Tổ chức biên soạn) có con dấu, tài khoản riêng;
+
+Đối với trường hợp tổ chức chủ trì thực hiện là các cơ quan, đơn vị thuộc Bộ không có con dấu, tài khoản riêng thì chủ tài khoản của tổ chức chủ trì thực hiện trực tiếp hoặc đồng đứng tên trong Hợp đồng.
+
+b) Nội dung của Hợp đồng được các bên liên quan thỏa thuận, thống nhất, trên cơ sở mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này.
+
+2. Trình tự xây dựng dự thảo tiêu chuẩn quốc gia:
+
+a) Thủ trưởng Tổ chức biên soạn thành lập Ban kỹ thuật (hoặc tiểu ban kỹ thuật) để thực hiện việc biên soạn dự thảo tiêu chuẩn quốc gia và chịu trách nhiệm chỉnh sửa, hoàn thiện cho tới khi dự thảo được công bố;
+
+b) Tổ chức nghiên cứu, xây dựng dự thảo tiêu chuẩn quốc gia đúng nội dung, tiến độ như kế hoạch và dự án xây dựng tiêu chuẩn quốc gia đã phê duyệt; tổ chức các hội nghị, hội thảo để thảo luận và góp ý cho dự thảo tiêu chuẩn quốc gia;
+
+c) Tổ chức lấy ý kiến cho dự thảo tiêu chuẩn quốc gia:
+
+Gửi dự thảo tiêu chuẩn kỹ thuật quốc gia kèm theo thuyết minh đến các cơ quan, tổ chức, cá nhân có liên quan, đồng thời thông báo về việc lấy ý kiến góp ý cho dự thảo tiêu chuẩn quốc gia kèm theo thuyết minh trên trang tin điện tử (website) của Bộ Văn hóa, Thể thao và Du lịch, trang tin điện tử www.tbt-mocst.vn và Tổng cục Tiêu chuẩn Đo lường Chất lượng. Nội dung thuyết minh dự thảo tiêu chuẩn kỹ thuật quốc gia theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư này.
+
+Việc tổ chức lấy ý kiến phải bảo đảm sự tham gia góp ý của các bên liên quan và các cơ quan phối hợp (đã nêu trong dự án xây dựng tiêu chuẩn quốc gia). Thời gian lấy ý kiến về dự thảo tiêu chuẩn quốc gia ít nhất là 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo.
+
+d) Tổ chức tổng hợp, xử lý các ý kiến góp ý để hoàn chỉnh dự thảo và thuyết minh dự thảo tiêu chuẩn quốc gia;
+
+đ) Báo cáo về Bộ Văn hóa, Thể thao và Du lịch (qua Vụ Khoa học, Công nghệ và Môi trường) khi có điều chỉnh về: thành viên Ban kỹ thuật; nội dung, tiến độ của kế hoạch và báo cáo các nội dung thực hiện theo yêu cầu;
+
+e) Tổ chức đánh giá nghiệm thu cơ sở dự án xây dựng tiêu chuẩn quốc gia:
+
+- Thủ trưởng Tổ chức biên soạn thành lập Hội đồng đánh giá nghiệm thu dự án xây dựng tiêu chuẩn quốc gia.
+
+- Thành viên Hội đồng bao gồm: đại diện Tổ chức biên soạn, đại diện Vụ Khoa học, Công nghệ và Môi trường, đại diện của Tổng cục Tiêu chuẩn Đo lường Chất lượng và các Bộ, ngành, tổ chức có liên quan đến lĩnh vực xây dựng tiêu chuẩn quốc gia, các chuyên gia trong và ngoài Bộ có uy tín, có trình độ chuyên môn phù hợp và am hiểu sâu về nhóm đối tượng tiêu chuẩn quốc gia. Thành viên của Ban kỹ thuật không được là thành viên Hội đồng.
+
+- Căn cứ Hợp đồng, Thuyết minh dự án xây dựng tiêu chuẩn quốc gia và kết quả của nhiệm vụ được thể hiện qua báo cáo tổng hợp kết quả nghiên cứu và nội dung trình bày của cá nhân chủ trì, Hội đồng tiến hành đánh giá chất lượng sản phẩm của dự án xây dựng tiêu chuẩn quốc gia.
+
+g) Hoàn chỉnh dự thảo tiêu chuẩn quốc gia và hồ sơ gửi Bộ Văn hóa, Thể thao và Du lịch để thẩm tra.
+
+Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm tra bao gồm:
+
+- Công văn đề nghị thẩm tra Hồ sơ và dự thảo tiêu chuẩn quốc gia của Tổ chức biên soạn.
+
+- Quyết định giao nhiệm vụ thực hiện dự án xây dựng tiêu chuẩn quốc gia, kèm theo dự án xây dựng tiêu chuẩn quốc gia đã đ­­ược phê duyệt.
+
+- Báo cáo quá trình xây dựng dự thảo tiêu chuẩn quốc gia của Tổ chức biên soạn.
+
+- Dự thảo tiêu chuẩn quốc gia đã được hoàn chỉnh trên cơ sở ý kiến nghiệm thu dự án xây dựng tiêu chuẩn quốc gia (bao gồm cả văn bản dự thảo và file điện tử), kèm theo bản thuyết minh; bản sao tài liệu gốc được sử dụng làm căn cứ để xây dựng dự thảo tiêu chuẩn quốc gia; các tài liệu tham khảo khác.
+
+- Danh sách cơ quan, tổ chức, cá nhân được gửi dự thảo tiêu chuẩn quốc gia để lấy ý kiến; bản tổng hợp và giải trình, tiếp thu ý kiến góp ý kèm theo văn bản góp ý.
+
+Nội dung lấy ý kiến được thực hiện bằng Phiếu đánh giá dự thảo tiêu chuẩn quốc gia theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư này.
+
+- Biên bản nghiệm thu cơ sở dự án xây dựng dự thảo tiêu chuẩn quốc gia, văn bản tiếp thu ý kiến nghiệm thu.
+
+- Các văn bản, tài liệu khác liên quan đến quá trình xử lý ý kiến nghiệm thu (nếu có).
+
+Số lượng Hồ sơ gửi thẩm tra là 07 (bảy) bộ.
+
+3. Nhận Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm tra:
+
+a) Vụ Khoa học, Công nghệ và Môi trường có trách nhiệm kiểm tra tính hợp lệ của Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm tra. Trường hợp Hồ sơ chưa hợp lệ, Vụ Khoa học, Công nghệ và Môi trường phải thông báo bằng văn bản cho Tổ chức biên soạn chỉnh sửa, hoàn thiện;
+
+b) Thời gian nhận Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm tra được tính là ngày ghi ở dấu bưu điện (trường hợp gửi qua bưu điện); dấu công văn đến của Văn phòng Bộ hoặc văn thư của Vụ Khoa học, Công nghệ và Môi trường (trong trường hợp gửi trực tiếp).
+
+Trường hợp Hồ sơ hoặc dự thảo tiêu chuẩn quốc gia phải chỉnh sửa, hoàn thiện theo ý kiến của Vụ Khoa học, Công nghệ và Môi trường, thời gian nhận Hồ sơ được tính theo ngày ghi ở dấu bưu điện (trong trường hợp gửi qua bưu điện); dấu công văn đến của Văn phòng Bộ hoặc văn thư của Vụ Khoa học, Công nghệ và Môi trường (trong trường hợp gửi trực tiếp) của lần gửi kế tiếp.
+
+Điều 12. Thẩm tra Hồ sơ và dự thảo tiêu chuẩn quốc gia
+
+1. Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm tra đầy đủ và hợp lệ, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định thành lập Hội đồng thẩm tra Hồ sơ và dự thảo tiêu chuẩn quốc gia (sau đây gọi tắt là Hội đồng thẩm tra) theo đề nghị của Vụ trưởng Vụ Khoa học, Công nghệ và Môi trường.
+
+Thành phần Hội đồng thẩm tra:
+
+a) Hội đồng thẩm tra có từ 05 (năm) đến 7 (bảy) thành viên gồm Chủ tịch và các thành viên khác, bao gồm:
+
+- Đại diện các cơ quan, đơn vị trực thuộc Bộ Văn hóa, Thể thao và Du lịch có liên quan đến đối tượng xây dựng tiêu chuẩn quốc gia (chiếm ít nhất 1/2 số thành viên Hội đồng).
+
+- Các chuyên gia trong và ngoài Bộ có uy tín, có trình độ chuyên môn phù hợp và am hiểu sâu về nhóm đối tượng tiêu chuẩn quốc gia.
+
+- Đại diện của cơ quản quản lý chuyên ngành thuộc Bộ Văn hóa, Thể thao và Du lịch và đại diện của Tổng cục Tiêu chuẩn Đo lường Chất lượng.
+
+Thành viên của Ban kỹ thuật không được là thành viên Hội đồng thẩm tra.
+
+b) Thư ký Hội đồng là chuyên viên của Vụ Khoa học, Công nghệ và Môi trường.
+
+2. Trong thời hạn 30 (ba mươi) ngày, kể từ khi có quyết định thành lập, Hội đồng thẩm tra phải tổ chức họp thẩm tra Hồ sơ và dự thảo tiêu chuẩn quốc gia.
+
+3. Trách nhiệm của Hội đồng thẩm tra:
+
+a) Xem xét, đánh giá tính đầy đủ và hợp lệ của Hồ sơ dự thảo tiêu chuẩn quốc gia theo quy định tại điểm g khoản 2 Điều 11 Thông tư này;
+
+b) Tuân thủ các quy định tại các khoản 4 và 5 Điều này, đảm bảo đánh giá trung thực, khách quan, chính xác và công bằng;
+
+c) Chịu trách nhiệm cá nhân về kết quả đánh giá của mình và trách nhiệm tập thể về kết luận chung của Hội đồng thẩm tra.
+
+4. Nguyên tắc làm việc của Hội đồng thẩm tra:
+
+a) Các thành viên thảo luận công khai và chịu trách nhiệm về ý kiến của mình.
+
+b) Phiên họp của Hội đồng thẩm tra phải có mặt ít nhất 2/3 (hai phần ba) số thành viên (ý kiến bằng văn bản của thành viên vắng mặt chỉ có giá trị tham khảo).
+
+c) Chủ tịch Hội đồng thẩm tra chủ trì các phiên họp.
+
+5. Nội dung phiên họp của Hội đồng thẩm tra:
+
+a) Thành viên Hội đồng thẩm tra nhận xét Hồ sơ và dự thảo tiêu chuẩn quốc gia theo mẫu Phiếu đánh giá dự thảo tiêu chuẩn quốc gia quy định tại Phụ lục X ban hành kèm theo Thông tư này.
+
+b) Kết luận của Hội đồng thẩm tra thể hiện trong Biên bản họp Hội đồng được lập theo theo mẫu quy định tại Phụ lục XI ban hành kèm theo Thông tư này. Kết luận của Hội đồng là căn cứ để hoàn thiện Hồ sơ và dự thảo tiêu chuẩn quốc gia để đề nghị Bộ Khoa học và Công nghệ thẩm định.
+
+Điều 13. Gửi hồ sơ đề nghị thẩm định và công bố tiêu chuẩn quốc gia
+
+1. Gửi hồ sơ đề nghị thẩm định:
+
+Tổ chức biên soạn có trách nhiệm phối hợp với Vụ Khoa học, Công nghệ và Môi trường hoàn chỉnh Hồ sơ và Dự thảo tiêu chuẩn quốc gia theo ý kiến của Hội đồng thẩm tra gửi Bộ Khoa học và Công nghệ thẩm định (số lượng Hồ sơ gửi thẩm định là 10 bộ); tiếp thu, giải trình, hoàn thiện tiêu chuẩn quốc gia theo ý kiến thẩm định của Bộ Khoa học và Công nghệ và gửi Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị Bộ Khoa học và Công nghệ công bố.
+
+Trường hợp không nhất trí với ý kiến thẩm định của Bộ Khoa học và Công nghệ, Tổ chức biên soạn phải báo cáo Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch có ý kiến chính thức bằng văn bản gửi Bộ Khoa học và Công nghệ báo cáo Thủ tướng Chính phủ xem xét, quyết định.
+
+2. Hồ sơ dự thảo tiêu chuẩn quốc gia đề nghị thẩm định, công bố gồm:
+
+- Công văn của Bộ Văn hóa, Thể thao và Du lịch đề nghị thẩm định dự thảo tiêu chuẩn quốc gia hoặc công bố tiêu chuẩn quốc gia.
+
+- Quyết định giao nhiệm vụ thực hiện dự án xây dựng tiêu chuẩn quốc gia, kèm theo dự án xây dựng tiêu chuẩn quốc gia đã đ­­ược phê duyệt.
+
+- Báo cáo quá trình xây dựng dự thảo tiêu chuẩn quốc gia của Tổ chức biên soạn.
+
+- Dự thảo tiêu chuẩn quốc gia đã được hoàn chỉnh trên cơ sở tiếp thu ý kiến thẩm tra hoặc thẩm định (bao gồm cả văn bản dự thảo và file điện tử), kèm theo bản thuyết minh; bản sao tài liệu gốc được sử dụng làm căn cứ để xây dựng dự thảo tiêu chuẩn quốc gia; các tài liệu tham khảo khác.
+
+- Danh sách cơ quan, tổ chức, cá nhân được gửi dự thảo tiêu chuẩn quốc gia để lấy ý kiến; bản tổng hợp và giải trình, tiếp thu ý kiến góp ý kèm theo văn bản góp ý.
+
+- Biên bản nghiệm thu cơ sở dự án xây dựng dự thảo tiêu chuẩn quốc gia và văn bản tiếp thu ý kiến nghiệm thu.
+
+- Biên bản thẩm tra và văn bản tiếp thu ý kiến thẩm tra của Tổ chức biên soạn;
+
+- Báo cáo kết quả thẩm định dự thảo tiêu chuẩn quốc gia của Bộ Khoa học và Công nghệ và văn bản tiếp thu ý kiến thẩm định của Tổ chức biên soạn (đối với việc đề nghị công bố);
+
+- Các văn bản, tài liệu khác liên quan đến quá trình xử lý ý kiến thẩm tra, thẩm định (nếu có).
+
+Chương III
+
+TRÌNH TỰ, THỦ TỤC XÂY DỰNG DỰ THẢO QUY CHUẨN KỸ THUẬT QUỐC GIA
+
+Điều 14. Đăng ký kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia
+
+1. Việc đăng ký kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia được áp dụng thực hiện theo quy định tại các khoản 1, 2 và 3 Điều 8 Thông tư này (Dự án xây dựng quy chuẩn quốc gia được lập theo mẫu quy định tại Phụ lục XII ban hành kèm theo Thông tư này).
+
+2. Vụ Khoa học, Công nghệ và Môi trường tổng hợp kế hoạch dự kiến xây dựng quy chuẩn kỹ thuật quốc gia cho từng nhóm đối tượng quy định tại Điều 4 Thông tư này và theo mẫu đăng ký kế hoạch xây dựng quy chuẩn kỹ thuật quốc gia quy định tại Phụ lục XIII ban hành kèm theo Thông tư này.
+
+Điều 15. Tổ chức Hội đồng tư vấn xét chọn dự án xây dựng quy chuẩn kỹ thuật quốc gia
+
+Việc tổ chức Hội đồng tư vấn xét chọn dự án xây dựng quy chuẩn kỹ thuật quốc gia được thực hiện theo quy định tại Điều 9 Thông tư này.
+
+Điều 16. Phê duyệt kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia
+
+1. Vụ Khoa học, Công nghệ và môi trường chịu trách nhiệm gửi dự thảo kế hoạch xây dựng quy chuẩn kỹ thuật quốc gia cho năm sau đến các cơ quan, tổ chức, cá nhân có liên quan để lấy ý kiến, đồng thời thông báo về việc lấy ý kiến trên trang tin điện tử của Bộ Văn hóa, Thể thao và Du lịch, trang tin điện tử www.tbt-mocst.vn. Thời gian lấy ý kiến ít nhất là 30 (ba mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến.
+
+2. Trong thời hạn 30 (ba mươi) ngày, kể từ khi hết hạn lấy ý kiến, Vụ Khoa học, Công nghệ và Môi trường chủ trì tổ chức việc tổng hợp, hoàn chỉnh dự thảo kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia và báo cáo Bộ Khoa học và Công nghệ. Căn cứ theo hướng dẫn chung về kế hoạch khoa học và công nghệ hàng năm của Bộ Khoa học và Công nghệ, Vụ trưởng Vụ khoa học, Công nghệ và Môi trường  trình Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định phê duyệt Kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia.
+
+Trong thời hạn 30 (ba mươi) ngày, kể từ ngày được phê duyệt, Bộ Văn hóa, Thể thao và Du lịch thông báo Kế hoạch hàng năm xây dựng quy chuẩn kỹ thuật quốc gia cho các cơ quan, tổ chức có liên quan, Văn phòng Thông báo và Điểm hỏi đáp quốc gia về Tiêu chuẩn Đo lường Chất lượng (sau đây viết tắt là Văn phòng TBT Việt Nam) và công khai trên trang tin điện tử của Bộ Văn hóa, Thể thao và Du lịch, trang tin điện tử www.tbt-mocst.vn.
+
+3. Bộ Văn hóa, Thể thao và Du lịch tổ chức thực hiện Kế hoạch đã được phê duyệt, định kỳ sáu tháng hoặc đột xuất theo yêu cầu, thông báo cho Bộ Khoa học và Công nghệ (Tổng cục Tiêu chuẩn Đo lường Chất lượng) về tình hình và kết quả thực hiện Kế hoạch xây dựng quy chuẩn kỹ thuật quốc gia để tổng hợp, báo cáo Chính phủ.
+
+Điều 17. Triển khai xây dựng dự thảo quy chuẩn kỹ thuật quốc gia
+
+1. Việc ký Hợp đồng thực hiện dự án xây dựng quy chuẩn kỹ thuật quốc gia được thực hiện theo quy định tại khoản 1 Điều 11 của Thông tư này.
+
+2. Trình tự xây dựng dự thảo quy chuẩn kỹ thuật quốc gia:
+
+a) Các cơ quan, tổ chức được Bộ Văn hóa, Thể thao và Du lịch giao nhiệm vụ tổ chức triển khai xây dựng dự thảo quy chuẩn kỹ thuật quốc gia (sau đây gọi tắt là Tổ chức biên soạn) triển khai xây dựng dự thảo quy chuẩn quốc gia theo quy định tại các điểm a, b, d, đ, e và g khoản 2 Điều 11 của Thông tư này.
+
+b) Việc lấy ý kiến cho dự thảo quy chuẩn kỹ thuật quốc gia thực hiện theo quy định tại điểm c khoản 2 Điều 11 của Thông tư này và các quy định sau:
+
+- Tổ chức biên soạn gửi dự thảo quy chuẩn kỹ thuật quốc gia (bao gồm cả văn bản Dự thảo và file điện tử) kèm theo thuyết minh đến Cơ quan Thông báo và Điểm hỏi đáp của Bộ Văn hóa, Thể thao và Du lịch về Hàng rào Kỹ thuật trong Thương mại để xác định sự cần thiết phải thông báo cho WTO theo Quyết định số 09/2006/QĐ-BKHCN ngày 04 tháng 5 năm 2006 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về quy trình thông báo và hỏi đáp của mạng lưới cơ quan Thông báo và Điểm hỏi đáp của Việt Nam về hàng rào kỹ thuật trong thương mại. Nội dung thuyết minh dự thảo quy chuẩn kỹ thuật quốc gia theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư này.
+
+- Thời gian lấy ý kiến cho dự thảo quy chuẩn quốc giá ít nhất là 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo. Trong trường hợp cấp thiết, thời gian lấy ý kiến có thể ngắn hơn theo quyết định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
+
+3. Việc nhận hồ sơ dự thảo quy chuẩn kỹ thuật quốc gia đề nghị thẩm tra được áp dụng thực hiện theo quy định tại khoản 3 Điều 13 của Thông tư này.
+
+Điều 18. Tổ chức thẩm tra dự thảo quy chuẩn kỹ thuật quốc gia
+
+Việc tổ chức thẩm tra dự thảo quy chuẩn kỹ thuật quốc gia được thực hiện theo quy định tại Điều 12 của Thông tư này.
+
+Điều 19. Gửi hồ sơ đề nghị thẩm định
+
+1. Tổ chức biên soạn có trách nhiệm phối hợp với Vụ Khoa học, Công nghệ và Môi trường hoàn chỉnh Hồ sơ và dự thảo quy chuẩn kỹ thuật quốc gia gửi Bộ Khoa học và Công nghệ đề nghị thẩm định
+
+Số lượng Hồ sơ gửi thẩm định 03 (ba) bộ.
+
+2. Hồ sơ dự thảo quy chuẩn kỹ thuật quốc gia đề nghị thẩm định gồm:
+
+- Công văn đề nghị thẩm định dự thảo quy chuẩn kỹ thuật quốc gia của Bộ Văn hóa, Thể thao và Du lịch.
+
+- Quyết định giao nhiệm vụ thực hiện dự án xây dựng quy chuẩn kỹ thuật quốc gia, kèm theo dự án xây dựng quy chuẩn kỹ thuật quốc gia đã được phê duyệt.
+
+- Báo cáo quá trình xây dựng dự thảo quy chuẩn kỹ thuật quốc gia của Tổ chức biên soạn.
+
+- Dự thảo quy chuẩn kỹ thuật quốc gia đã được hoàn chỉnh trên cơ sở tiếp thu ý kiến thẩm tra (bao gồm cả văn bản dự thảo và file điện tử), kèm theo bản thuyết minh; bản sao tài liệu gốc được sử dụng làm căn cứ để xây dựng dự thảo quy chuẩn kỹ thuật quốc gia; các tài liệu tham khảo khác.
+
+- Danh sách cơ quan, tổ chức, cá nhân được gửi dự thảo quy chuẩn kỹ thuật quốc gia để lấy ý kiến; bản tổng hợp và giải trình, tiếp thu ý kiến góp ý kèm theo văn bản góp ý.
+
+- Biên bản nghiệm thu cơ sở dự án xây dựng dự thảo quy chuẩn kỹ thuật quốc gia và văn bản tiếp thu ý kiến nghiệm thu.
+
+- Biên bản thẩm tra và văn bản tiếp thu ý kiến thẩm tra của Tổ chức biên soạn.
+
+- Các văn bản, tài liệu khác liên quan đến quá trình xử lý ý kiến thẩm tra, thẩm định (nếu có).
+
+Điều 20.  Ban hành quy chuẩn kỹ thuật quốc gia
+
+Tổ chức biên soạn chịu trách nhiệm phối hợp với Vụ Khoa học, Công nghệ và Môi trường Bộ Văn hóa, Thể thao và Du lịch hoàn chỉnh dự thảo quy chuẩn kỹ thuật quốc gia theo ý kiến thẩm định của Bộ Khoa học và Công nghệ.
+
+Trường hợp quy chuẩn kỹ thuật quốc gia đáp ứng yêu cầu theo nội dung thẩm định, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định ban hành quy chuẩn kỹ thuật quốc gia.
+
+Trường hợp không nhất trí với ý kiến thẩm định của Bộ Khoa học và Công nghệ, Tổ chức biên soạn phải báo cáo Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch có ý kiến chính thức bằng văn bản gửi Bộ Khoa học và Công nghệ và báo cáo Thủ tướng Chính phủ xem xét, quyết định.
+
+Điều 21. Đăng ký quy chuẩn kỹ thuật quốc gia
+
+1. Bộ Văn hóa, Thể thao và Du lịch thực hiện việc đăng ký quy chuẩn kỹ thuật quốc gia tại Bộ Khoa học và Công nghệ chậm nhất 15 (mười lăm) ngày, kể từ ngày ban hành theo quy định tại Điều 13 Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật theo mẫu bản đăng ký quy chuẩn kỹ thuật quốc gia quy định tại Phụ lục XIV ban hành kèm theo Thông tư này
+
+2. Tổ chức biên soạn chịu trách nhiệm xuất bản và phát hành quy chuẩn kỹ thuật quốc gia trong thời hạn 30 (ba mươi) ngày, kể từ ngày quy chuẩn kỹ thuật quốc gia được ban hành.
+
+Chương IV
+
+TỔ CHỨC THỰC HIỆN
+
+Điều 22. Trách nhiệm của các cơ quan, đơn vị thuộc Bộ Văn hóa, Thể thao và Du lịch
+
+1. Vụ Khoa học, Công nghệ và Môi trường có trách nhiệm:
+
+a) Tổng hợp đề xuất dự án xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia của các cơ quan, tổ chức, cá nhân; lập kế hoạch xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia hàng năm trình Bộ trưởng phê duyệt hoặc đề nghị phê duyệt theo thẩm quyền;
+
+b) Theo dõi, đôn đốc các cơ quan, tổ chức, cá nhân triển khai thực hiện kế hoạch xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia;
+
+c) Tổ chức thẩm tra và trình duyệt Hồ sơ gửi Bộ Khoa học và Công nghệ thẩm định dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia;
+
+d) Tổ chức hoàn thiện và trình duyệt gửi Bộ Khoa học và Công nghệ công bố tiêu chuẩn quốc gia; đăng ký quy chuẩn kỹ thuật quốc gia sau khi được ban hành;
+
+đ) Có trách nhiệm lập và quản lý Hồ sơ dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+2. Các cơ quan, đơn vị thuộc Bộ Văn hóa, Thể thao và Du lịch trong phạm vi nhiệm vụ và quyền hạn của mình có trách nhiệm:
+
+a) Đề xuất, chủ trì xây dựng hoặc phối hợp xây dựng các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia thuộc phạm vi tham mưu quản lý nhà nước;
+
+b) Đề xuất việc rà soát, sửa đổi tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia thuộc phạm vi tham mưu quản lý nhà nước và tham gia xây dựng quy hoạch tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia theo trách nhiệm.
+
+Điều 23. Hiệu lực thi hành
+
+1. Thông tư này có hiệu lực từ ngày 12 tháng 9 năm 2013.
+
+2. Ban hành kèm theo Thông tư các Phụ lục sau:
+
+a) Phụ lục I: Mẫu trình bày và thể hiện nội dung quy chuẩn kỹ thuật quốc gia.
+
+b) Phụ lục II: Mẫu Dự án xây dựng tiêu chuẩn quốc gia.
+
+c) Phụ lục III: Mẫu đăng ký kế hoạch xây dựng tiêu chuẩn quốc gia.
+
+d) Phụ lục IV: Mẫu Bản nhận xét dự án xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia dành cho Hội đồng tư vấn, xét chọn dự án xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+đ) Phụ lục V: Mẫu Phiếu đánh giá dự án xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia dành cho Hội đồng tư vấn, xét chọn dự án xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+e) Phụ lục VI: Mẫu Biên bản kiểm phiếu dành cho Hội đồng tư vấn, xét chọn dự án xây dựng Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+g) Phụ lục VII: Mẫu Hợp đồng nghiên cứu khoa học và phát triển công nghệ Xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+h) Phụ lục VIII: Mẫu Thuyết minh Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+i) Phụ lục IX: Mẫu Phiếu trưng cầu ý kiến đối với Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+k) Phụ lục số X: Mẫu Phiếu đánh giá Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia dành cho Hội đồng thẩm tra Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+l) Phụ lục XI: Mẫu Biên bản họp Hội đồng thẩm tra Dự thảo tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia.
+
+m) Phụ lục XII: Mẫu Dự án xây dựng quy chuẩn kỹ thuật quốc gia.
+
+n) Phụ lục XIII: Mẫu đăng ký kế hoạch xây dựng quy chuẩn kỹ thuật quốc gia.
+
+o) Phụ lục XIV: Mẫu đăng ký quy chuẩn kỹ thuật quốc gia với Bộ Khoa học và Công nghệ.
+
+Điều 24. Tổ chức thực hiện
+
+1. Vụ Khoa học, Công nghệ và Môi trường chịu trách nhiệm theo dõi và kiểm tra việc thực hiện Thông tư này.
+
+2. Thủ trưởng các cơ quan, đơn vị liên quan có trách nhiệm tổ chức thực hiện đầy đủ, chính xác các quy định của Thông tư này.
+
+3. Trong quá trình thực hiện nếu có vấn đề cần bổ sung, sửa đổi, các cơ quan đơn vị, các tổ chức và cá nhân báo cáo về Bộ Văn hóa, Thể thao và Du lịch để nghiên cứu, sửa đổi, bổ sung./.
+
+
+
+
+
+
+

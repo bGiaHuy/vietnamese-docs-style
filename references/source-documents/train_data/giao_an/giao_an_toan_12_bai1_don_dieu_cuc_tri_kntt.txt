@@ -1,0 +1,75 @@
+# Giáo án Toán 12 — Bài 1: Tính đơn điệu và cực trị của hàm số (Kết nối tri thức)
+# Nguồn: vietjack.com
+
+I. MỤC TIÊU
+
+1. Kiến thức
+Học xong bài này, HS đạt các yêu cầu sau:
+- Hiểu định nghĩa của sự đồng biến, nghịch biến của hàm số và mối liên hệ giữa khái niệm này với đạo hàm.
+- Nắm được quy tắc xét tính đơn điệu của hàm số.
+- Biết vận dụng quy tắc để xét tính đơn điệu của một hàm số.
+- Biết vận dụng tính đơn điệu của hàm số vào giải quyết các bài toán thực tế.
+- Hiểu được khái niệm cực đại, cực tiểu. Phân biệt được điểm cực trị của hàm số và của đồ thị hàm số; giá trị và điểm cực trị.
+- Nắm được điều kiện đủ để hàm số có cực trị.
+- Nắm vững quy tắc tìm cực trị của hàm số. Bước đầu vận dụng vào giải các bài toán tìm cực trị đơn giản.
+- Hiểu được đồ thị và bảng biến thiên, từ đó chỉ ra được các điểm cực trị, giá trị cực trị.
+
+2. Năng lực
+* Năng lực chung:
+- Rèn luyện được năng lực mô hình hóa toán học thông qua các bài toán thực tiễn về chuyển động của chất điểm (tình huống mở đầu), số dân của một thị trấn (Bài tập 1.5), doanh số của một sản phẩm mới (Bài tập 1.6) ...; rèn luyện năng lực giải quyết vấn đề toán học thông qua các bài toán về xác định khoảng đồng biến, nghịch biến, tìm điểm cực trị, giá trị cực trị của hàm số.
+
+* Năng lực riêng: tư duy và lập luận toán học; giao tiếp toán học; mô hình hóa toán học; giải quyết vấn đề toán học.
+- Tư duy và lập luận toán học: So sánh, phân tích dữ liệu tìm ra mối liên hệ giữa các đối tượng đã cho và nội dung bài học, từ đó có thể áp dụng kiến thức đã học để giải quyết các bài toán.
+- Mô hình hóa toán học, giải quyết vấn đề toán học thông qua các bài toán thực tiễn gắn với tính đơn điệu của hàm số.
+- Giao tiếp toán học: Trình bày, phát biểu được các khái niệm về tính đơn điệu của hàm số, cực trị của hàm số.
+
+3. Phẩm chất
+- Tích cực thực hiện nhiệm vụ khám phá, thực hành, vận dụng.
+- Có tinh thần trách nhiệm trong việc thực hiện nhiệm vụ được giao.
+- Khách quan, công bằng, đánh giá chính xác bài làm của nhóm mình và nhóm bạn.
+- Tự tin trong việc tính toán; giải quyết bài tập chính xác.
+
+II. THIẾT BỊ DẠY HỌC VÀ HỌC LIỆU
+1. GV: SGK, SGV, Tài liệu giảng dạy, giáo án PPT, PBT (ghi đề bài cho các hoạt động trên lớp), các hình ảnh liên quan đến nội dung bài học, ...
+2. HS: SGK, SBT, vở ghi, giấy nháp, đồ dùng học tập (bút, thước...), bảng nhóm, bút viết bảng nhóm.
+
+III. TIẾN TRÌNH DẠY HỌC
+
+A. HOẠT ĐỘNG KHỞI ĐỘNG (MỞ ĐẦU)
+a) Mục tiêu: Giúp HS có hứng thú với nội dung bài học thông qua một tình huống liên quan đến dấu của đạo hàm và tính đơn điệu của hàm số.
+b) Nội dung: HS đọc bài toán khởi động và thực hiện bài toán dưới sự dẫn dắt của GV (HS chưa cần giải bài toán ngay).
+c) Sản phẩm: HS nắm được các thông tin trong bài toán và dự đoán câu trả lời cho câu hỏi mở đầu theo ý kiến cá nhân.
+d) Tổ chức thực hiện:
+
+Bước 1: Chuyển giao nhiệm vụ:
+- GV chiếu Slide dẫn dắt, đặt vấn đề qua bài toán mở đầu và yêu cầu HS thảo luận và nêu dự đoán (chưa cần HS giải):
+Xét một chất điểm chuyển động trên một trục số nằm ngang, chiều dương từ trái sang phải. Giả sử vị trí s(t) (mét) của chất điểm trên trục số đã chọn tại thời điểm t (giây) được cho bởi công thức s(t) = t³ – 9t² + 15t, t ≥ 0. Hỏi trong khoảng thời gian nào thì chất điểm chuyển động sang phải, trong khoảng thời gian nào thì chất điểm chuyển động sang trái?
+
+Bước 2: Thực hiện nhiệm vụ: HS quan sát và chú ý lắng nghe, thảo luận nhóm và thực hiện yêu cầu theo dẫn dắt của GV.
+
+Bước 3: Báo cáo, thảo luận: GV gọi đại diện một số thành viên nhóm HS trả lời, HS khác nhận xét, bổ sung.
+
+Bước 4: Kết luận, nhận định: GV ghi nhận câu trả lời của HS, trên cơ sở đó dẫn dắt HS vào tìm hiểu bài học mới.
+
+→ Bài 1. Tính đơn điệu và cực trị của hàm số.
+
+B. HÌNH THÀNH KIẾN THỨC MỚI
+
+Hoạt động 1: Nhận biết tính đơn điệu của hàm số
+a) Mục tiêu: Nhận biết được định nghĩa hàm số đồng biến, nghịch biến và nhận biết được mối liên hệ giữa dấu của đạo hàm và tính đơn điệu của hàm số. Biết cách sử dụng đồ thị hàm số để xác định hàm số đồng biến, nghịch biến. Nắm được quy tắc xét tính đơn điệu của hàm số. Biết vận dụng quy tắc để xét tính đơn điệu của một hàm số.
+b) Nội dung: HS tìm hiểu nội dung kiến thức về tính đơn điệu của hàm số theo yêu cầu, dẫn dắt của GV, thảo luận trả lời câu hỏi trong SGK.
+c) Sản phẩm: HS ghi nhớ và vận dụng kiến thức về tính đơn điệu của hàm số để thực hành làm các bài tập Ví dụ, Luyện tập, Vận dụng.
+d) Tổ chức thực hiện:
+
+1. Tính đơn điệu của hàm số
+a) Khái niệm tính đơn điệu của hàm số
+
+Hoạt động 1:
+a) Hàm số đồng biến trên khoảng (0; +∞).
+b) Hàm số nghịch biến trên khoảng (−∞; 0).
+
+Kết luận: (SGK – Trang 6)
+Chú ý: (SGK – Trang 6)
+
+Ví dụ 1: (SGK – Trang 6)
+Lời giải: (SGK – Trang 6)

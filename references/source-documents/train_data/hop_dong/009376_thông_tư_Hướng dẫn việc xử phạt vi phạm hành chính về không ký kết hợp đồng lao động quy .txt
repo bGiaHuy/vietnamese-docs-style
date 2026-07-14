@@ -1,0 +1,285 @@
+# Hướng dẫn việc xử phạt vi phạm hành chính về không ký kết hợp đồng lao động quy định tại Nghị định số 87/CP ngày 12/12/1995 và số 88/CP ngày 14/12/1995
+# Loại: Thông tư
+# Số hiệu: 05/LĐTBXH-TT
+# Ngày ban hành: 12/02/1996
+# Cơ quan: Bộ Lao động - Thương binh và Xã hội
+# Người ký: Trần Đình Hoan
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+Thông tưTHÔNG TƯ LIÊN TỊCH
+
+Hướng dẫn cấp phép việc kết nối, cung cấp và sử dụng Internet ở Việt Nam
+
+
+
+Căn cứ Nghị định số 21/CP ngày 05 tháng 3 năm 1997 của Chính phủ về việc ban hành "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam".
+
+Tổng cục Bưu điện, Bộ Nội vụ, Bộ Văn hoá - Thông tin hướng dẫn cấp phép việc kết nối, cung cấp và sử dụng dịch vụ Internet ở Việt Nam như sau:
+
+
+
+I. NHỮNG QUY ĐỊNH CHUNG
+
+1. Chủ thể tham gia hoạt động Internet trong Thông tư này được hiểu như sau:
+
+1.1. Nhà cung cấp dịch vụ kết nối truy nhập Internet (IAP) là cơ quan, tổ chức, doanh nghiệp được phép tiến hành kết nối truy nhập mạng Internet cho tất cả các nhà cung cấp dịch vụ Internet.
+
+1.2. Nhà cung cấp dịch vụ Internet (ISP) là cơ quan, tổ chức, doanh nghiệp được phép thiết lập mạng thông tin máy tính với một số địa chỉ IP và cung cấp các dịch vụ: thư tín điện tử, truyền tệp dữ liệu, truy nhập từ xa, truy nhập các cơ sở dữ liệu theo các phương thức khác nhau cho đơn vị và người sử dụng Internet.
+
+1.3. Đơn vị cung cấp dịch vụ Internet dùng riêng là cơ quan, tổ chức, doanh nghiệp được phép thiết lập mạng thông tin máy tính để cung cấp dịch vụ Internet cho các thành viên trong nội bộ của đơn mình không nhằm mục đích kinh doanh.
+
+1.4. Người sử dụng dịch vụ Internet là cá nhân sử dụng máy tính hoặc tổ chức sử dụng máy tính, mạng máy tính có kết nối với Internet thông qua hợp đồng thuê bao với các nhà cung cấp dịch vụ Internet, hoặc hợp đồng nguyên tắc với đơn vị cung cấp dịch vụ Internet dùng riêng.
+
+1.5. Nhà cung cấp nội dung thông tin trên Internet (ICP) là cơ quan, tổ chức, doanh nghiệp có thông tin và cơ sở dữ liệu cung cấp lên mạng Internet thông qua nhà cung cấp dịch vụ Internet.
+
+2. Mọi hoạt động kết nối, cung cấp và sử dụng Internet ở Việt Nam phải tuân theo quy định của "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ và các hướng dẫn của Thông tư này.
+
+
+
+II. THỦ TỤC CẤP PHÉP
+
+1. Hồ sơ xin cấp phép
+
+1.1. Đối với nhà cung cấp dịch vụ kết nối truy nhập Internet
+
+Cơ quan, tổ chức, doanh nghiệp đáp ứng các điều kiện ghi tại Điều 5 của "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ, sau khi làm đầy đủ thủ tục ghi trong Điều 7 của Quy chế nói trên, muốn cung cấp dịch vụ kết nối truy nhập Internet phải nộp hồ sơ xin cấp phép tại cơ quan cấp phép.
+
+Hồ sơ xin cấp phép gồm:
+
+1. Đơn xin phép tổ chức mạng thông tin đường trục trong nước và các cửa đi quốc tế để cung cấp dịch vụ kết nối truy nhập gửi cơ quan cấp phép (theo mẫu);
+
+2. Bản sao có công chứng Quyết định thành lập cơ quan, tổ chức, doanh nghiệp;
+
+3. Bản khai cấu trúc mạng thông tin đường trục, bao gồm các số liệu: dung lượng các đường truyền, số lượng và vị trí đặt các cổng đi quốc tế, số lượng và chức năng cung cấp dịch vụ của các máy chủ nối mạng; các biện pháp và thiết bị kiểm tra, kiểm soát bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép (theo mẫu);
+
+4. Đề án, kế hoạch chi tiết về việc cung cấp dịch vụ kết nối truy nhập và các loại hình dịch vụ;
+
+5. Lý lịch tóm tắt của các thành viên Ban điều hành mạng có xác nhận của cơ quan chủ quản;
+
+6. Bảng giá cước các dịch vụ phù hợp với khung giá cước do Tổng cục Bưu điện quy định;
+
+7. Mẫu hợp đồng với nhà cung cấp dịch vụ Internet.
+
+1.2. Đối với nhà cung cấp dịch vụ Internet.
+
+Cơ quan, tổ chức, doanh nghiệp đáp ứng các điều kiện ghi tại Điều 5 của "Quy chế tạm thời về quản lý, thiếp lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ, sau khi làm đầy đủ thủ tục ghi trong Điều 7 của Quy chế nói trên, muốn cung cấp dịch vụ Internet phải nộp hồ sơ xin cấp phép tại cơ quan cấp phép.
+
+Hồ sơ xin cấp phép gồm:
+
+1. Đơn xin phép tổ chức mạng thông tin máy tính kết nối Internet và cung cấp dịch vụ Internet gửi cơ quan cấp phép (theo mẫu);
+
+2. Bản sao có công chứng Quyết định thành lập cơ quan, tổ chức, doanh nghiệp;
+
+3. Bản khai cấu trúc mạng, bao gồm các số liệu: số lượng và chức năng cung cấp dịch vụ của các máy chủ nối mạng; các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép; số lượng người sử dụng dự kiến (theo mẫu);
+
+4. Đề án, kế hoạch chi tiết về việc cung cấp dịch vụ: loại hình, chất lượng, phạm vị cung cấp; đối tượng cung cấp dịch vụ;
+
+5. Lý lịch tóm tắt của các thành viên Ban điều hành mạng có xác nhận của cơ quan chủ quản;
+
+6. Bảng giá cước các dịch vụ phù hợp với khung giá cước do Tổng cục Bưu điện quy định;
+
+7. Mẫu hợp đồng với đơn vị cung cấp dịch vụ Internet dùng riêng.
+
+8. Mẫu hợp đồng với người sử dụng dịch vụ Internet.
+
+1.3. Đối với đơn vị cung cấp dịch vụ Internet dùng riêng.
+
+Cơ quan, tổ chức, doanh nghiệp đáp ứng các điều kiện ghi tại Điều 5 của "Quy chế tạm thời về quản lý, thiếp lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997, muốn cung cấp dịch vụ Internet với mục đích dùng riêng phải nộp hồ sơ xin cấp phép tại cơ quan cấp phép.
+
+1.3.1. Đối với đơn vị cung cấp dịch vụ Internet dùng riêng của Việt Nam, hồ sơ xin cấp phép gồm:
+
+1. Đơn xin phép tổ chức mạng thông tin máy tính kết nối Internet và cung cấp dịch vụ Internet gửi cơ quan cấp phép (theo mẫu);
+
+2. Bản sao có công chứng Quyết định thành lập cơ quan, tổ chức, doanh nghiệp;
+
+3. Bản khai cấu trúc mạng, bao gồm các số liệu: số lượng và chức năng cung cấp dịch vụ của các máy chủ nối mạng; các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép; số lượng người sử dụng dự kiến (theo mẫu);
+
+4. Đề án, kế hoạch chi tiết về cung cấp dịch vụ: loại hình, chất lượng, phạm vị cung cấp; đối tượng cung cấp dịch vụ;
+
+5. Lý lịch tóm tắt của các thành viên Ban điều hành mạng có xác nhận của cơ quan chủ quản;
+
+6. Mẫu hợp đồng nguyên tắc với người sử dụng của đơn vị mình.
+
+1.3.2. Đối với các đơn vị cung cấp dịch vụ Internet dùng riêng là các tổ chức quốc tế, cơ quan ngoại giao, tổ chức người nước ngoài, doanh nghiệp nước ngoài tại Việt Nam, hồ sơ xin cấp phép gồm:
+
+1. Đơn xin phép tổ chức mạng thông tin máy tính kết nối Internet và cung cấp dịch vụ Internet gửi cơ quan cấp phép (theo mẫu);
+
+2. Bản sao có công chứng văn bản xác nhận tư cách pháp nhân của cơ quan, tổ chức, doanh nghiệp;
+
+3. Bản khai cấu trúc mạng, bao gồm các số liệu: số lượng và chức năng cung cấp dịch vụ của các máy chủ nối mạng; thiết bị bảo đảm an toàn thông tin; số lượng người sử dụng dự kiến (theo mẫu);
+
+4. Đề án, kế hoạch chi tiết về cung cấp dịch vụ: loại hình, chất lượng, phạm vị cung cấp; đối tượng cung cấp dịch vụ;
+
+5. Mẫu hợp đồng nguyên tắc với người sử dụng của đơn vị mình.
+
+1.4. Đối với người sử dụng Internet
+
+Cá nhân sử dụng máy tính hoặc tổ chức sử dụng máy tính, mạng máy tính muốn sử dụng dịch vụ Internet phải ký hợp đồng thuê bao với nhà cung cấp dịch vụ Internet hoặc hợp đồng nguyên tắc với đơn vị cung cấp dịch vụ Internet dùng riêng.
+
+1.5. Đối với nhà cung cấp nội dung thông tin
+
+Cơ quan, tổ chức, doanh nghiệp đáp ứng các điều kiện ghi tại Điều 5 của "Quy chế tạm thời về quản lý, thiếp lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997, muốn đưa loại hình thông tin (âm thanh, tranh ảnh, phim hình, trò chơi, báo chí, văn bản,...) và nội dung thông tin vào mạng Internet phải nộp hồ sơ xin cấp phép tại cơ quan cấp phép.
+
+Hồ sơ xin cấp phép gồm:
+
+1. Đơn xin phép tổ chức mạng thông tin đưa lên mạng Internet gửi cơ quan cấp phép có xác nhận của cơ quan chủ quản (theo mẫu);
+
+Đối với các cơ quan Ngoại giao, tổ chức quốc tế phải có xác nhận của Bộ Ngoại giao nước Cộng hoà xã hội chủ nghĩa Việt Nam;
+
+2. Bản sao có công chứng Quyết định thành lập cơ quan, tổ chức, doanh nghiệp;
+
+Đối với các tổ chức kinh tế, doanh nghiệp nước ngoài phải có giấy phép hoạt động hoặc giấy phép đầu tư;
+
+3. Đề án, kế hoạch chi tiết về cung cấp nội dung thông tin: các loại hình thông tin sẽ cung cấp; chất lượng thông tin; phạm vi cung cấp;
+
+4. Lý lịch tóm tắt của các thành viên phụ trách việc cung cấp thông tin có xác nhận của cơ quan chủ quản;
+
+5. Bảng giá cước các loại thông tin sẽ cung cấp.
+
+2. Quy trình cấp phép
+
+2.1. Cấp giấy phép mới 2.1.1. Tiếp nhận hồ sơ
+
+Chủ thể xin cấp phép phải nộp 03 (ba) bộ hồ sơ cho cơ quan cấp phép.
+
+Hồ sơ xin cấp phép của các nhà cung cấp dịch vụ kết nối truy nhập Internet (IAP), nhà cung cấp dịch vụ Internet (ISP) nộp tại Tổng cục Bưu điện.
+
+Hồ sơ xin cấp phép của các đơn vị cung cấp dịch vụ Internet dùng riêng nộp tại các Cục Bưu điện khu vực theo phân vùng.
+
+Hồ sơ xin cấp phép của các nhà cung cấp nội dung thông tin trên Internet (ICP) nộp tại Bộ Văn hoá - Thông tin.
+
+Hồ sơ chỉ được tiếp nhận khi có đầy đủ các văn bản theo quy định ở phần Hồ sơ xin cấp phép.
+
+2.1. Xử lý hồ sơ.
+
+Sau khi tiếp nhận hồ sơ, cơ quan cấp phép tiến hành xét duyệt hồ sơ theo chức năng của mình, đồng thời gửi 01 (một) bộ hồ sơ cho Bộ Nội vụ để xét duyệt các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin.
+
+Trong thời gian 15 ngày kể từ khi nhận được hồ sơ, Bộ Nội vụ phải trả lời ý kiến chấp thuận hay không cho cơ quan cấp phép bằng văn bản. Sau thời hạn trên, nếu Bộ Nội vụ không có ý kiến thì coi như hồ sơ đương nhiên được chấp thuận.
+
+2.1.3. Trả lời kết quả
+
+Trong thời hạn 30 ngày kể từ khi nhận được hồ sơ, cơ quan cấp phép phải xem xét để cấp giấy phép cho chủ thể xin tham gia hoạt động Internet. Trường hợp không chấp thuận, cơ quan cấp phép phải trả lời và nêu rõ lý do.
+
+Mạng chỉ được đưa vào hoạt động sau khi có xác nhận bằng văn bản của Bộ Nội vụ về các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng quy mô hoạt động của chủ thể xin cấp phép.
+
+2.2. Thay đổi hoặc bổ sung giấy phép.
+
+Nếu chủ thể tham gia hoạt động Internet muốn thay đổi mục đích, nội dung hoạt động thì phải làm hồ sơ xin thay đổi hoặc bổ sung giấy phép. Hồ sơ và thủ tục tương tự như hồ sơ cấp phép mới.
+
+Khi cấp giấy phép mới, cơ quan cấp phép thu hồi giấy phép cũ.
+
+2.3. Hiệu lực của giấy phép.
+
+Tuỳ theo chủ thể và loại hình hoạt động Internet mà xác định thời hạn có hiệu lực của giấy phép, nhưng không quá 5 năm. Sau thời gian đó chủ thể tham gia hoạt động Internet muốn hoạt động tiếp thì phải làm thủ tục xin gia hạn giấy phép.
+
+2.4. Gia hạn giấy phép.
+
+Trước khi giấy phép hết hiệu lực ba tháng, nếu chủ thể tham gia hoạt động Internet muốn gia hạn giấy phép thì phải làm đơn xin gia hạn gửi cơ quan cấp phép theo quy định tại phần Cấp giấy phép mới.
+
+Trong thời hạn 30 ngày kể từ khi nhận hồ sơ, cơ quan cấp phép phải trả lời kết quả cho chủ thể xin gia hạn giấy phép biết. Trường hợp không chấp thuận, Cơ quan cấp phép phải nêu rõ lý do.
+
+
+
+III. QUAN HỆ GIỮA CÁC CHỦ THỂ HOẠT ĐỘNG INTERNET
+
+Nhà cung cấp dịch vụ kết nối truy nhập, nhà cung cấp dịch vụ, đơn vị cung cấp dịch vụ Internet dùng riêng chỉ được phép ký kết hợp đồng sau khi có giấy phép hoạt động của cơ quan cấp phép.
+
+Các hợp đồng phải quy định chi tiết trách nhiệm của mỗi bên, đảm bảo sự công bằng, hợp lý, phù hợp với luật pháp của Nhà nước, với "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet tại Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ, với Điều lệ Bưu chính - Viễn thông và Thể lệ khai thác dịch vụ Internet.
+
+
+
+IV. TRÁCH NHIỆM CỦA CÁC CHỦ THỂ HOẠT ĐỘNG INTERNET
+
+1. Trách nhiệm của nhà cung cấp dịch vụ kết nối truy nhập Internet.
+
+1- Tổ chức mạng thông tin đường trục dể đáp ứng nhu cầu về truy nhập Internet của các nhà cung cấp dịch vụ Internet;
+
+2- Thực hiện đầy đủ các điều khoản ghi trong hợp đồng với các nhà cung cấp dịch vụ Internet;
+
+3- Phải có đầy đủ các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép và tạo điều kiện thuận lợi cho các cơ quan có chức năng thực hiện các biện pháp bảo đảm an ninh thông tin cho các luồng thông tin đi qua cổng quốc tế;
+
+4- Tuân thủ các giải pháp công nghệ và các tiêu chuẩn kỹ thuật do Ban điều phối quốc gia về mạng Internet, Bộ Khoa học, Công nghệ và Môi trường và Tổng cục Bưu điện ban hành;
+
+5- Thực hiện báo cáo định kỳ ba tháng một lần về tình hình hoạt động truy nhập Internet; những thay đổi về các nội dung ghi trong hồ sơ xin cấp phép và gửi cơ quan cấp phép. Khi cần thiết, cơ quan cấp phép yêu cầu báo cáo đột xuất.
+
+2. Trách nhiệm của nhà cung cấp dịch vụ Internet
+
+1- Sử dụng hoặc cho phép người sử dụng dùng thiết bị kết nối mạng phù hợp với tiêu chuẩn kỹ thuật theo chuẩn mực Internet ở Việt Nam;
+
+2- Đảm bảo chất lượng dịch vụ như: khả năng sử dụng của mạng, của hệ thống truy nhập qua điện thoại, qua kệnh thuê riêng v.v...;
+
+3- Thực hiện đầy đủ các điều khoản ghi trong hợp đồng với nhà cung cấp dịch vụ kết nối truy nhập Internet, với đơn vị cung cấp dịch vụ Internet dùng riêng và với người sử dụng dịch vụ Internet;
+
+4- Hướng dẫn, đào tạo người sử dụng dịch vụ Internet thực hiện đúng các quy trình khai thác, bảo quản thiết bị nối ghép, máy tính;
+
+5- Phải có đầy đủ các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép và tạo điều kiện thuận lợi cho cơ quan chức năng thực hiện các giải pháp bảo đảm an ninh thông tin tham gia mạng của mình. Hướng dẫn và kiểm tra người sử dụng bảo vệ thông tin theo Pháp lệnh bảo vệ bí mật Nhà nước và chịu sự kiểm tra và kiểm soát của các cơ quan quản lý Nhà nước có liên quan về tiêu chuẩn kỹ thuật, chất lượng dịch vụ và đảm bảo an toàn thông tin, an ninh quốc gia;
+
+6- Thực hiện báo cáo định kỳ ba tháng một lần về tình hình cung cấp dịch vụ Internet; những thay đổi về các nội dung ghi trong Hồ sơ xin cấp phép; danh sách người sử dụng Internet gửi cơ quan cấp phép. Khi cần thiết, cơ quan cấp phép yêu cầu báo cáo đột xuất.
+
+3. Trách nhiệm của đơn vị cung cấp dịch vụ Internet dùng riêng.
+
+1- Sử dụng hoặc cho phép người sử dụng dùng thiết bị kết nối mạng phù hợp với tiêu chuẩn kỹ thuật theo chuẩn mực Internet ở Việt Nam;
+
+2- Đảm bảo chất lượng dịch vụ như: khả năng sử dụng của mạng, của hệ thống truy nhập qua điện thoại, qua kênh thuê riêng, v.v...;
+
+3- Thực hiện đầy đủ các điều khoản ghi trong hợp đồng với nhà cung cấp dịch vụ Internet và với người sử dụng dịch vụ Internet;
+
+4- Hướng dẫn, đào tạo người sử dụng dịch vụ Internet thực hiện đúng các quy trình khai thác, bảo quản thiết bị nối ghép, máy tính;
+
+5- Phải có đầy đủ các trang thiết bị kiểm tra, kiểm soát và biện pháp bảo đảm an ninh thông tin tương xứng với quy mô hoạt động xin cấp phép và tạo điều kiện thuận lợi cho cơ quan chức năng thực hiện các giải pháp bảo đảm an ninh thông tin tham gia mạng của mình. Hướng dẫn và kiểm tra người sử dụng bảo vệ thông tin theo Pháp lệnh Bảo vệ bí mật Nhà nước và chịu sự kiểm tra và kiểm soát của các cơ quan quản lý Nhà nước có liên quan về tiêu chuẩn kỹ thuật, chất lượng dịch vụ và đảm bảo an toàn thông tin, an ninh quốc gia;
+
+6- Thực hiện báo cáo định kỳ ba tháng một lần về tình hình cung cấp dịch vụ Internet, những thay đổi về các nội dung ghi trong Hồ sơ xin cấp phép; danh sách người sử dụng Internet gửi cơ quan cấp phép. Khi cần thiết, cơ quan cấp phép yêu cầu báo cáo đột xuất.
+
+Đơn vị cung cấp dịch vụ Internet dùng riêng là tổ chức quốc tế, cơ quan ngoại giao, tổ chức người ngoài có trách nhiệm thực hiện các điểm 1, 2, 3, 4 và 6 của mục này.
+
+4. Trách nhiệm của người sử dụng dịch vụ Internet.
+
+1- Chấp hành nghiêm chỉnh các điều khoản của "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet tại Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ và các điều khoản cụ thể trong hợp đồng với nhà cung cấp dịch vụ Internet hoặc với đơn vị cung cấp dịch vụ Internet dùng riêng;
+
+2- Tạo điều kiện thuận lợi cho cơ quan chức năng thực hiện biện pháp bảo đảm an ninh thông tin và tuân thủ Pháp lệnh Bảo vệ bí mật Nhà nước;
+
+3- Chịu sự kiểm tra của nhà cung cấp dịch vụ Internet hoặc đơn vị cung cấp dịch vụ Internet dùng riêng; của các cơ quan chức năng quản lý Nhà nước về các vấn đề liên quan đến việc sử dụng dịch vụ Internet.
+
+Việc tự ý liên kết máy tính hoặc mạng máy tính qua điện thoại vào Internet qua địa chỉ của nhà cung cấp dịch vụ Internet hoặc đơn vị cung cấp dịch vụ Internet dùng riêng khi chưa được phép của họ; việc sử dụng điện thoại, các kênh thuê riêng, các phương thức kết nối khác để truy nhập vào Internet qua máy chủ ở nước ngoài là vi phạm "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 5/3/1997 của Chính phủ.
+
+5. Trách nhiệm của nhà cung cấp nội dung thông tin
+
+1- Chịu sự kiểm tra, kiểm soát của cơ quan quản lý Nhà nước có liên quan về tiêu chuẩn kỹ thuật, chất lượng dịch vụ và đảm bảo an toàn thông tin, an ninh quốc gia;
+
+2- Phải đảm bảo các yêu cầu ghi tại Điều 3 của "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ và chấp hành luật về bản quyền tác giả;
+
+3- Tuân thủ các quy định về cung cấp nội dung thông tin do Bộ Văn hoá - Thông tin ban hành;
+
+4- Thực hiện báo cáo định kỳ ba tháng một lần về tình hình sử dụng dịch vụ Internet, cung cấp nội dung thông tin; những thay đổi về các nội dung ghi trong Hồ sơ xin cấp phép gửi cơ quan cấp phép. Khi cần thiết, cơ quan cấp phép yêu cầu báo cáo đột xuất.
+
+
+
+V. XỬ LÝ VI PHẠM
+
+Các chủ thể tham gia hoạt động Internet vi phạm các quy định trong "Quy chế tạm thoài về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ có thể bị đình chỉ hoạt động, thu hồi giấy phép, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo pháp luật hiện hành.
+
+
+
+VI. TỔ CHỨC THỰC HIỆN
+
+1. Thông tư này có hiệu lực sau 15 ngày kể từ ngày ký, mọi quy định trái với Thông tư này đều bãi bỏ.
+
+2. Thông tư này được áp dụng cho tất cả các đối tượng kết nối, cung cấp và sử dụng dịch vụ Internet trên toàn lãnh thổ Việt Nam.
+
+3. Kể từ khi Thông tư này có hiệu lực, trong thời gian 30 ngày các mạng máy tính hoặc máy tính có kết nối với Internet bằng bất kỳ hình thức này đều phải ngừng hoạt động nếu chưa được cấp phép theo "Quy chế tạm thời về quản lý, thiết lập, sử dụng mạng Internet ở Việt Nam" ban hành kèm theo Nghị định 21/CP ngày 05/3/1997 của Chính phủ.
+
+4. Trong quá trình quản lý, nếu có vấn đề nảy sinh mà chưa được quy định rõ trong Thông tư này thì các Bộ, ngành và địa phương đề xuất để Ban điều phối quốc gia về mạng Internet quyết định./.
+
+
+
+
+
+

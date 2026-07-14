@@ -1,0 +1,406 @@
+# Về việc phê duyệt Đề án chuyển Tổng công ty Thép Việt Nam sang hoạt động theo mô hình công ty mẹ - công ty con
+# Loại: Quyết định
+# Số hiệu: 266/2006/QĐ-TTg
+# Ngày ban hành: 23/11/2006
+# Cơ quan: Thủ tướng Chính phủ
+# Người ký: Nguyễn Sinh Hùng
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+QUY CHẾ
+
+Cấp và quản lý bảo lãnh Chính phủ đối với các khoản vay nước ngoài
+
+(Ban hành kèm theo Quyết định số 272/2006/QĐ-TTg
+
+ngày 28  tháng 11 năm 2006 của Thủ tướng Chính phủ)
+
+____________________
+
+
+
+Chương I
+
+CÁC QUY ĐỊNH CHUNG
+
+Điều 1. Phạm vi điều chỉnh
+
+Quy chế này quy định quy trình xem xét, cấp bảo lãnh Chính phủ; việc tổ chức quản lý bảo lãnh Chính phủ và trách nhiệm của các cơ quan trong việc cấp và quản lý bảo lãnh Chính phủ.
+
+Điều 2. Giải thích từ ngữ
+
+Các từ ngữ dưới đây được hiểu như sau:
+
+1. Bảo lãnh Chính phủ đối với khoản vay nước ngoài (sau đây được gọi là “bảo lãnh Chính phủ”) là việc Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam (người bảo lãnh) thông qua Bộ Tài chính, cam kết bằng văn bản với người cho vay nước ngoài (người nhận bảo lãnh) đảm bảo thực hiện các nghĩa vụ thanh toán đã được cam kết trong thỏa thuận vay; trường hợp người vay không thực hiện, thực hiện không đầy đủ và đúng hạn các nghĩa vụ thanh toán đã được cam kết trong thỏa thuận vay, người bảo lãnh sẽ thực hiện các nghĩa vụ thanh toán đó thay cho người được bảo lãnh theo quy định của thư bảo lãnh. Người vay phải có nghĩa vụ bồi hoàn cho người bảo lãnh các khoản tiền mà người bảo lãnh đã trả thay cùng với lãi và tất cả các chi phí phát sinh thực tế liên quan đến khoản tiền đã trả thay.
+
+2. Cơ quan cấp bảo lãnh Chính phủ là Bộ Tài chính (sau đây gọi là “cơ quan cấp bảo lãnh”).
+
+3. Người được bảo lãnh là doanh nghiệp thực hiện vay nước ngoài (người vay) được Chính phủ bảo lãnh. Người được bảo lãnh bao hàm cả (các) người nhận chuyển nhượng, người nhận chuyển giao hợp pháp của người vay được người bảo lãnh chấp thuận.
+
+4. Người nhận bảo lãnh là người có quyền sở hữu một phần hoặc toàn bộ khoản vay được bảo lãnh. Người nhận bảo lãnh là người cho vay và (các) người nhận chuyển nhượng, người nhận chuyển giao hợp pháp của người cho vay và được hiểu là người cho vay trong các thỏa thuận vay.
+
+5. Người nhận chuyển nhượng của người được bảo lãnh hoặc của người nhận bảo lãnh là người nhận toàn bộ hoặc một phần các quyền và nghĩa vụ của người được bảo lãnh hoặc người nhận bảo lãnh trong chuyển nhượng.
+
+6. Người nhận chuyển giao của người được bảo lãnh hoặc của người nhận bảo lãnh là người nhận toàn bộ hoặc một phần các quyền và nghĩa vụ của người được bảo lãnh hoặc người nhận bảo lãnh trong chuyển giao.
+
+7. Nghĩa vụ thanh toán là các khoản phải trả gồm nợ gốc, nợ lãi theo hợp đồng, lãi chậm trả, các khoản phí và chi phí, bồi thường tổn thất (nếu có) theo quy định trong thỏa thuận vay cụ thể và được chấp nhận trong thư bảo lãnh.
+
+8. Đại diện tiếp nhận hồ sơ tố tụng là cơ quan đại diện của Việt Nam ở nước ngoài được uỷ quyền để tiếp nhận, xác nhận việc đã nhận được các hồ sơ tố tụng liên quan đến bảo lãnh Chính phủ và chuyển toàn bộ hồ sơ trên cho cơ quan cấp bảo lãnh.
+
+9. Ý kiến pháp lý là văn bản do Bộ Tư pháp phát hành phù hợp với các quy định của Việt Nam và thông lệ tài chính, tín dụng quốc tế về các căn cứ pháp luật của các giao dịch thương mại, đầu tư, tài chính, ngân hàng được thực hiện trên cơ sở pháp luật Việt Nam, các điều ước, các thoả thuận quốc tế, các hợp đồng có yếu tố nước ngoài và các văn bản pháp lý khác.
+
+Điều 3. Bảo lãnh Chính phủ là bảo lãnh có tính pháp lý cao nhất tại Việt Nam. Cam kết bảo lãnh Chính phủ được thực hiện dưới hình thức thư bảo lãnh hoặc hợp đồng bảo lãnh (sau đây gọi chung là “thư bảo lãnh”)
+
+Chính phủ chỉ cấp bảo lãnh, không cấp tái bảo lãnh.
+
+Chương II
+
+TRÁCH NHIỆM CỦA CÁC CƠ QUAN
+
+TRONG VIỆC CẤP BẢO LÃNH CHÍNH PHỦ
+
+Điều 4. Trách nhiệm của cơ quan cấp bảo lãnh
+
+Bộ Tài chính là cơ quan cấp bảo lãnh Chính phủ có trách nhiệm:
+
+1. Ban hành và hướng dẫn quy trình xem xét, cấp và quản lý bảo lãnh Chính phủ;
+
+2. Thẩm định phương án tài chính và các điều kiện cấp bảo lãnh theo hồ sơ đề nghị cấp bảo lãnh cho các chương trình, dự án cụ thể trình Thủ tướng Chính phủ quyết định việc bảo lãnh;
+
+3. Tham gia quá trình thương thảo thỏa thuận vay về các điều kiện vay và chủ trì đàm phán về nội dung thư bảo lãnh;
+
+4. Trực tiếp cấp bảo lãnh Chính phủ và tổ chức quản lý các khoản vay nước ngoài được Chính phủ bảo lãnh như đối với các khoản vay nước ngoài của Chính phủ theo quy định tại Điều 6 khoản 1 mục g của Nghị định số 134/2005/NĐ-CP ngày 01 tháng 11 năm 2005 của Chính phủ về ban hành Quy chế quản lý vay và trả nợ nước ngoài;
+
+5. Tổng hợp các khoản vay của các tổ chức tín dụng yêu cầu bảo lãnh Chính phủ do Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước) thẩm định trình Thủ tướng Chính phủ quyết định;
+
+6. Xây dựng hạn mức bảo lãnh Chính phủ để tổng hợp vào hạn mức vay thương mại hàng năm của Chính phủ;
+
+7. Đánh giá tình hình thực hiện bảo lãnh Chính phủ và báo cáo tiến độ giải ngân, thanh toán nợ và dư nợ nước ngoài của các khoản vay được Chính phủ bảo lãnh theo Quy chế thu thập, báo cáo, tổng hợp, chia sẻ và công bố thông tin về nợ nước ngoài;
+
+8. Thực hiện nghĩa vụ của người bảo lãnh đối với người nhận bảo lãnh (người cho vay nước ngoài);
+
+9. Áp dụng các công cụ tài chính và các chế tài theo quy định của pháp luật để truy đòi số nợ và các chi phí phát sinh có liên quan đến việc trả thay người được bảo lãnh;
+
+10. Thực hiện việc kiểm tra kết quả hoạt động kinh doanh, sử dụng vốn vay nước ngoài để giám sát khả năng trả nợ của người được bảo lãnh.
+
+Điều 5. Trách nhiệm của các cơ quan phối hợp
+
+1. Ngân hàng Nhà nước có trách nhiệm:
+
+a) Thẩm định phương án vay của các tổ chức tín dụng gửi cơ quan cấp bảo lãnh để trình Thủ tướng Chính phủ quyết định việc cấp bảo lãnh;
+
+b) Xác nhận đăng ký các khoản vay nước ngoài được Chính phủ bảo lãnh;
+
+c) Phối hợp với cơ quan cấp bảo lãnh trong việc kiểm tra sử dụng vốn vay, giám sát việc trả nợ nước ngoài của các dự án do Ngân hàng Nhà nước thẩm định;
+
+d) Phối hợp chặt chẽ với cơ quan cấp bảo lãnh trong việc tạo điều kiện cho cơ quan cấp bảo lãnh thực hiện các trách nhiệm của cơ quan cấp bảo lãnh đối với người được bảo lãnh.
+
+2. Bộ Tư pháp:
+
+a) Tham gia ý kiến về những vấn đề pháp lý trong các thoả thuận về vay, các thoả thuận về bảo lãnh Chính phủ trước khi trình Thủ tướng Chính phủ quyết định; tham gia ý kiến trong trường hợp cần thiết về những vấn đề pháp lý khác có liên quan đến các văn kiện vay, trả nợ nước ngoài của các doanh nghiệp và tổ chức kinh tế trong nước theo đề nghị của người vay và của cơ quan cấp bảo lãnh;
+
+b) Thẩm định những vấn đề khác nhau giữa các thoả thuận về vay, trả nợ nước ngoài của Chính phủ và pháp luật trong nước;
+
+c) Cấp ý kiến pháp lý đối với các thỏa thuận vay, thư bảo lãnh, người bảo lãnh và người được bảo lãnh.
+
+3. Bộ Ngoại giao: phối hợp với cơ quan cấp bảo lãnh chỉ định cơ quan đại diện thích hợp của Việt Nam ở nước ngoài được ủy quyền làm Đại diện tiếp nhận hồ sơ tố tụng liên quan đến bảo lãnh Chính phủ và chuyển toàn bộ hồ sơ cho cơ quan cấp bảo lãnh trong trường hợp thủ tục tố tụng được thoả thuận trong thỏa thuận vay và thư bảo lãnh là tố tụng toà án.
+
+4. Các cơ quan khác liên quan có trách nhiệm phối hợp với cơ quan cấp bảo lãnh thực hiện quản lý nhà nước về vay, trả nợ nước ngoài theo chức năng, thẩm quyền của mình và theo quy định tại Quy chế này.
+
+
+
+Chương III
+
+ĐỐI TƯỢNG, PHẠM VI VÀ ĐIỀU KIỆN
+
+XEM XÉT,CẤP BẢO LÃNH CHÍNH PHỦ
+
+Điều 6.  Đối tượng được cấp bảo lãnh
+
+Đối tượng được xem xét cấp bảo lãnh Chính phủ (người được bảo lãnh) là doanh nghiệp, tổ chức kinh tế, tổ chức tín dụng trong nước thuộc mọi thành phần kinh tế trực tiếp ký thỏa thuận vay với người cho vay nước ngoài theo phương thức tự vay, tự chịu trách nhiệm trả nợ để thực hiện chương trình, dự án đầu tư hoặc tín dụng và có đủ điều kiện quy định tại Điều 8 Quy chế này.
+
+Điều 7. Các loại hình chương trình dự án vay nước ngoài được xem xét cấp bảo lãnh
+
+1. Chương trình, dự án đầu tư trọng điểm được Quốc hội hoặc Thủ tướng Chính phủ phê duyệt chủ trương đầu tư.
+
+2. Chương trình, dự án nhập các thiết bị công nghệ cao để sản xuất hàng hoá, cung cấp dịch vụ xuất khẩu và chương trình, dự án thuộc các lĩnh vực ưu tiên đầu tư của Nhà nước, có khả năng trả được nợ.
+
+3. Chương trình, dự án được tài trợ bằng khoản vay thương mại đi cùng nguồn vốn ODA tạo thành nguồn vốn tài trợ dưới dạng tín dụng hỗn hợp.
+
+4. Chương trình, dự án vay của các tổ chức tín dụng được Ngân hàng Nhà nước thẩm định và đề nghị cấp bảo lãnh Chính phủ.
+
+Điều 8. Điều kiện cấp bảo lãnh
+
+1. Điều kiện về chương trình, dự án:
+
+a) Các chương trình, dự án vay vốn có phương án tài chính được cơ quan cấp bảo lãnh thẩm định và xác định là có hiệu quả, có khả năng trả nợ;
+
+b) Các chương trình, dự án vay của các tổ chức tín dụng có phương án tài chính được Ngân hàng Nhà nước thẩm định và đề nghị cơ quan cấp bảo lãnh trình Thủ tướng Chính phủ quyết định việc cấp bảo lãnh;
+
+c) Được Thủ tướng Chính phủ chấp thuận cấp bảo lãnh.
+
+2. Điều kiện về người vay:
+
+a) Đảm bảo tối thiểu 20% tổng mức vốn đầu tư cho từng chương trình, dự án là vốn chủ sở hữu;
+
+b) Có đầy đủ hồ sơ đề nghị cấp bảo lãnh Chính phủ theo quy định tại Điều 9 Quy chế này;
+
+c) Có hoạt động kinh doanh bình thường, không bị lỗ trong 3 năm liên tục gần nhất, hiện tại không có các khoản nợ vay trong và ngoài nước quá hạn;
+
+d) Chấp nhận mức phí bảo lãnh quy định tại Điều 14 Quy chế này;
+
+đ) Chấp nhận các hình thức chế tài do cơ quan cấp bảo lãnh thực hiện kể cả việc phong tỏa các tài khoản để cưỡng chế việc bồi hoàn nghĩa vụ tài chính do cơ quan cấp bảo lãnh thực hiện thay.
+
+3. Điều kiện về khoản vay:
+
+a) Trị giá khoản vay nằm trong tổng hạn mức vay thương mại nước ngoài hàng năm của doanh nghiệp, tổ chức thuộc khu vực công và dự báo mức vay của khu vực tư nhân được Thủ tướng Chính phủ phê duyệt;
+
+b) Có mức tối thiểu tương đương 10 triệu USD, trừ các khoản vay cho các chương trình, dự án nêu ở khoản 3 Điều 7 Quy chế này;
+
+c) Có thời hạn vay tối thiểu là 10 năm;
+
+d) Loại tiền vay phải là loại tiền tự do chuyển đổi;
+
+đ) Lãi suất vay, các loại phí và chi phí phù hợp với điều kiện hiện tại của thị trường quốc tế;
+
+đ) Nội dung các điều khoản trong thỏa thuận vay phù hợp với pháp luật Việt Nam và thông lệ quốc tế.
+
+Điều 9. Hồ sơ đề nghị cấp bảo lãnh
+
+Hồ sơ đề nghị cấp bảo lãnh được gửi cho cơ quan cấp bảo lãnh gồm:
+
+1. Đề nghị chính thức của người cho vay nước ngoài yêu cầu bảo lãnh Chính phủ và đề nghị chính thức của người vay;
+
+2. Các văn bản về tư cách pháp lý tóm tắt lịch sử hoạt động của doanh nghiệp là chủ đầu tư;
+
+3. Quyết định đầu tư kèm theo hồ sơ dự án theo quy định hiện hành;
+
+4. Phương án tài chính chứng minh khả năng hoàn trả vốn vay, trong đó xác định rõ (i) nguồn vốn đầu tư (gồm vốn tự có, vốn vay); (ii) tính khả thi của khoản vay về điều kiện vay; (iii) khả năng hoàn trả của dự án;
+
+5. Các bản chào của người cho vay kèm theo dự thảo thỏa thuận vay;
+
+6. Các Báo cáo tài chính của 3 năm gần nhất đã được kiểm toán hoặc được cơ quan có thẩm quyền phê duyệt. Đối với những trường hợp các doanh nghiệp chưa đủ 3 năm hoạt động thì phải có các báo cáo tài chính của công ty mẹ hoặc của các công ty là cổ đông chiến lược và văn bản cam kết của cơ quan chủ quản cấp trên hoặc của công ty mẹ, cổ đông chiến lược đảm bảo khả năng trả nợ;
+
+7. Văn bản cam kết chấp nhận mức phí bảo lãnh theo quy định của cơ quan cấp bảo lãnh.
+
+Điều 10. Mức bảo lãnh
+
+1. Mức bảo lãnh không vượt quá 80% tổng mức đầu tư của chương trình, dự án bao gồm cả phí bảo hiểm và lãi vay trong thời gian xây dựng;
+
+2. Mức bảo lãnh phải nằm trong hạn mức bảo lãnh hàng năm được Bộ Tài chính cân đối tính toán trên cơ sở hạn mức thương mại nước ngoài hàng năm của doanh nghiệp và tổ chức thuộc khu vực công và dự báo vay nước ngoài hàng năm của khu vực tư nhân được Thủ tướng Chính phủ phê duyệt.
+
+
+
+Chương IV
+
+TRÌNH TỰ VÀ THỦ TỤC CẤP BẢO LÃNH CHÍNH  PHỦ
+
+Điều 11. Trình tự xem xét cấp bảo lãnh
+
+Việc xem xét cấp bảo lãnh Chính phủ được thực hiện theo trình tự sau:
+
+­1. Thẩm định phương án tài chính và khả năng trả của dự án
+
+Trong vòng 30 ngày làm việc kể từ ngày cơ quan cấp bảo lãnh nhận được hồ sơ đề nghị cấp bảo lãnh đầy đủ và hợp lệ từ người vay, cơ quan cấp bảo lãnh thẩm định phương án tài chính theo các điều kiện và hồ sơ đề nghị cấp bảo lãnh với các nội dung sau:
+
+a) Thẩm định đối tượng, loại hình dự án đảm bảo các điều kiện quy định tại Điều 6 và Điều 7 của Quy chế này;
+
+b) Thẩm định phương án tài chính và khả năng trả nợ của dự án. Phương pháp thẩm định được quy định chi tiết tại Phụ lục I kèm theo Quy chế này;
+
+c) Sau khi thẩm định, cơ quan cấp bảo lãnh phải có báo cáo về nội dung thẩm định trình Thủ tướng Chính phủ ra quyết định.
+
+Riêng đối với các doanh nghiệp là các tổ chức tín dụng có các chương trình, dự án vay nước ngoài, các doanh nghiệp lập phương án tài chính để Ngân hàng Nhà nước thẩm định. Trong thời gian 30 ngày làm việc Ngân hàng Nhà nước tổ chức thẩm định phương án tài chính và có công văn chính thức gửi cho cơ quan cấp bảo lãnh kèm theo báo cáo thẩm định. Sau khi nhận được đề nghị của Ngân hàng Nhà nước, trong vòng 10 ngày làm việc cơ quan cấp bảo lãnh có trách nhiệm trình Thủ tướng Chính phủ xem xét, quyết định việc cấp bảo lãnh Chính phủ cho khoản vay.
+
+2. Chấp thuận của Thủ tướng Chính phủ
+
+Sau khi nhận được văn bản đề nghị của cơ quan cấp bảo lãnh, Văn phòng Chính phủ có trách nhiệm trình Thủ tướng Chính phủ ra quyết định chấp thuận bảo lãnh hoặc từ chối bảo lãnh làm cơ sở cho cơ quan cấp bảo lãnh, chủ đầu tư và các cơ quan liên quan thực hiện.
+
+3. Đàm phán nội dung thỏa thuận vay, nội dung thư bảo lãnh và nội dung ý kiến pháp lý
+
+a) Sau khi có quyết định của Thủ tướng Chính phủ chấp thuận cấp bảo lãnh Chính phủ, người được bảo lãnh tiến hành đàm phán thỏa thuận vay    với sự tham gia của cơ quan cấp bảo lãnh và Bộ Tư pháp. Ít nhất trong vòng 03 ngày làm việc trước khi tiến hành đàm phán thỏa thuận vay, người được bảo lãnh cung cấp cho cơ quan cấp bảo lãnh và Bộ Tư pháp những tài liệu sau: dự thảo thỏa thuận vay; hợp đồng thương mại đã ký kết (trường hợp đầu tư theo hình thức EPC); dự thảo thư bảo lãnh và dự thảo ý kiến pháp lý;
+
+Cơ quan cấp bảo lãnh chủ trì việc đàm phán nội dung thư bảo lãnh và Bộ Tư pháp chủ trì đàm phán nội dung ý kiến pháp lý. Nội dung thư bảo lãnh sau khi đạt được thỏa thuận phải được cơ quan cấp bảo lãnh trình Thủ tướng Chính phủ phê duyệt.
+
+b) Ký kết thỏa thuận vay: sau khi đàm phán thống nhất các nội dung trong thỏa thuận vay, người được bảo lãnh trình cấp có thẩm quyền phê duyệt và tiến hành ký thỏa thuận vay;
+
+c) Hoàn thiện hồ sơ cấp bảo lãnh: sau khi ký kết thỏa thuận vay, người được bảo lãnh cung cấp cho cơ quan cấp bảo lãnh thỏa thuận vay đã ký và văn bản cam kết có xác nhận của cơ quan chủ quản cấp trên (nếu có) theo mẫu tại Phụ lục II đính kèm Quy chế này để hoàn thiện hồ sơ bảo lãnh.
+
+4. Phê duyệt của Thủ tướng Chính phủ
+
+Sau khi nhận được báo cáo của cơ quan cấp bảo lãnh, Văn phòng Chính phủ trình Thủ tướng Chính phủ:
+
+a) Phê duyệt nội dung thư bảo lãnh và giao cho Bộ Tài chính phát hành bảo lãnh;
+
+b) Giao cho Bộ Tư pháp cấp ý kiến pháp lý về thỏa thuận vay, thư bảo lãnh, người bảo lãnh và người được bảo lãnh;
+
+c) Giao Bộ Ngoại giao phối hợp với cơ quan cấp bảo lãnh chỉ định cơ quan đại diện thích hợp của Việt Nam ở nước ngoài được ủy quyền  làm Đại diện tiếp nhận hồ sơ tố tụng trong trường hợp thủ tục tố tụng được thoả thuận là tố tụng toà án.
+
+5. Phát hành thư bảo lãnh, ý kiến pháp lý và đăng ký khoản vay
+
+a) Phát hành thư bảo lãnh: sau khi hoàn tất toàn bộ hồ sơ cấp bảo lãnh, trong vòng 10 ngày làm việc cơ quan cấp bảo lãnh sẽ phát hành thư bảo lãnh. Thư bảo lãnh được phát hành bốn (04) bản chính, cơ quan cấp bảo lãnh lưu hồ sơ một (01) bản, người được bảo lãnh lưu một (01) bản, Bộ Tư pháp lưu một (01) bản và một (01) bản được chuyển cho người cho vay thông qua người được bảo lãnh. Đồng thời, cơ quan cấp bảo lãnh có công văn kèm theo thư bảo lãnh chính thức đã được ký gửi Bộ Tư pháp để Bộ Tư pháp cấp ý kiến pháp lý về các nội dung đã được Thủ tướng Chính phủ quyết định;
+
+b) Đăng ký khoản vay: sau khi thư bảo lãnh được phát hành, người được bảo lãnh đăng ký khoản vay tại Ngân hàng Nhà nước theo quy định tại Điều 6 của Nghị định số 134/2005/NĐ-CP ngày 01 tháng 11 năm 2005 về Quy chế quản lý vay và trả nợ nước ngoài;
+
+c) Xác nhận Đại diện tiếp nhận tài liệu tố tụng: trong trường hợp thủ tục tố tụng được quy định trong thỏa thuận vay và thư bảo lãnh là tố tụng toà án, cơ quan cấp bảo lãnh phối hợp với Bộ Ngoại giao chỉ định cơ quan đại diện Việt Nam thích hợp tại nước ngoài được ủy quyền làm Đại diện tiếp nhận hồ sơ tố tụng cho người được bảo lãnh và cơ quan cấp bảo lãnh;
+
+Trên cơ sở ý kiến thống nhất của Bộ Ngoại giao và căn cứ theo đề nghị kèm theo mẫu văn bản ủy quyền của cơ quan cấp bảo lãnh, cơ quan đại diện Việt Nam được ủy quyền ký xác nhận văn bản đồng ý làm Đại diện tiếp nhận hồ sơ tố tụng để  chuyển cho người nhận bảo lãnh và sao gửi cho cơ quan cấp bảo lãnh;
+
+d) Cấp ý kiến pháp lý về bảo lãnh và thỏa thuận vay: trong vòng 10 ngày làm việc, trên cơ sở đề nghị của cơ quan cấp bảo lãnh, Bộ Tư pháp phát hành ý kiến pháp lý thành hai (02) bản chính, một (01) bản gửi cho người nhận bảo lãnh và một (01) bản do Bộ Tư pháp lưu giữ.
+
+6. Đối với các dự án đặc biệt có tầm quan trọng đối với nền kinh tế quốc dân được Thủ tướng Chính phủ chỉ định cấp bảo lãnh và cho phép miễn thẩm định; các khoản vay thương mại đi cùng khoản viện trợ không hoàn lại hoặc vay ODA để tạo thành nguồn tài trợ dưới dạng tín dụng hỗn hợp (dự án đã được chỉ định theo các nguồn tài trợ đi kèm), trình tự xem xét bảo lãnh được thực hiện theo các quy định từ khoản 3 đến khoản 5 Điều này.
+
+Điều 12. Nội dung thư bảo lãnh Chính phủ
+
+1. Những nội dung bắt buộc có trong thư bảo lãnh Chính phủ gồm:
+
+a) Người bảo lãnh;
+
+b) Người được bảo lãnh;
+
+c) Dẫn chiếu các hợp đồng thương mại liên quan, thỏa thuận vay;
+
+d) Mức yêu cầu bảo lãnh, loại tiền vay;
+
+đ) Cam kết của cơ quan cấp bảo lãnh đối với người nhận bảo lãnh về các nghĩa vụ của người được bảo lãnh và cơ quan cấp bảo lãnh;
+
+e) Quyền lợi và trách nhiệm của người nhận bảo lãnh;
+
+g) Thời hạn hiệu lực và thu hồi thư bảo lãnh;
+
+h) Luật điều chỉnh và cơ quan, địa điểm, ngôn ngữ được sử dụng trong xét xử khi phát sinh các tranh chấp;
+
+i) Địa điểm, ngày, tháng, năm ký phát hành thư bảo lãnh.
+
+2. Những nội dung khác do các bên thoả thuận nhưng không được làm ảnh hưởng đến quyền lợi của cơ quan cấp bảo lãnh, người được bảo lãnh và trái với các quy định pháp luật của Việt Nam.
+
+Điều 13. Thu hồi bảo lãnh Chính phủ
+
+Thư bảo lãnh Chính phủ được thu hồi khi toàn bộ nghĩa vụ nợ được bảo lãnh đã hoàn thành.
+
+Chương V
+
+PHÍ BẢO LÃNH
+
+Điều 14. Phí bảo lãnh
+
+Cơ quan cấp bảo lãnh căn cứ vào kết quả thẩm định phương án tài chính của dự án quy định mức phí cụ thể cho từng chương trình, dự án tùy theo mức độ rủi ro, nhưng tối đa không  vượt quá 1,5%/năm trên số dư nợ còn đang được bảo lãnh. Mức phí bảo lãnh được quy định cụ thể tại Phụ lục III Quy chế này.
+
+Điều 15. Thu phí bảo lãnh
+
+­1. Phí bảo lãnh được tính bằng loại ngoại tệ ký vay và được thu 6 tháng một lần vào cùng thời điểm với ngày thanh toán lãi của khoản vay bằng ngoại tệ ký vay, hoặc bằng đồng Việt Nam quy theo tỷ giá bán ra do Ngân hàng Ngoại thương Việt Nam công bố chính thức tại thời điểm nộp phí bảo lãnh.
+
+2. Phí bảo lãnh được nộp vào Quỹ tích luỹ trả nợ nước ngoài theo hướng dẫn của Bộ Tài chính.
+
+3. Trường hợp chậm nộp phí bảo lãnh thì người được bảo lãnh phải chịu lãi trên số tiền phí bảo lãnh chậm nộp. Lãi suất áp dụng được tính bằng 150% mức lãi suất tiền gửi có kỳ hạn 6 tháng bình quân của bốn (04) Ngân hàng Thương mại (gồm Ngân hàng Ngoại thương Việt Nam, Ngân hàng Đầu tư và Phát triển Việt Nam, Ngân hàng Công thương Việt Nam, Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam) và số ngày chậm nộp.
+
+Chương VI
+
+TÀI SẢN THẾ CHẤP CHO KHOẢN VAY
+
+ĐƯỢC CHÍNH PHỦ BẢO LÃNH
+
+Điều 16. Tài sản thế chấp
+
+1. Tài sản hình thành từ vốn vay nước ngoài được Chính phủ bảo lãnh  dùng làm tài sản thế chấp bảo đảm thực hiện các nghĩa vụ của người vay với cơ quan cấp bảo lãnh theo tỷ trọng vốn hình thành nên tài sản đó.
+
+2. Không được dùng tài sản được hình thành từ nguồn vốn bảo lãnh để bảo đảm thực hiện các nghĩa vụ dân sự khác.
+
+3. Tài sản thế chấp không được bán, trao đổi trừ trường hợp được sự đồng ý của cơ quan cấp bảo lãnh. Trong trường hợp bán tài sản thế chấp thì số tiền thu được hoặc tài sản hình thành từ số tiền thu được trở thành tài sản thế chấp thay thế cho tài sản đã bán.
+
+4. Đăng ký thế chấp: sau khi cơ quan cấp bảo lãnh phát hành thư bảo lãnh, người được bảo lãnh thực hiện việc đăng ký thế chấp bảo đảm cho bảo lãnh Chính phủ theo quy định của pháp luật về đăng ký giao dịch bảo đảm.
+
+Điều 17. Xử lý tài sản thế chấp
+
+1. Trong trường hợp người được bảo lãnh không thực hiện hoặc thực hiện không đầy đủ các nghĩa vụ trả nợ mà cơ quan cấp bảo lãnh đã thực hiện toàn bộ nghĩa vụ trả nợ thay và người được bảo lãnh không có khả năng hoàn trả cho cơ quan cấp bảo lãnh thì tài sản thế chấp được xử lý để bảo đảm thu hồi nợ cho cơ quan cấp bảo lãnh.
+
+2. Phương thức xử lý tài sản thế chấp được thực hiện theo quy định của pháp luật về giao dịch bảo đảm.
+
+Điều 18. Giải chấp
+
+Các tài sản thế chấp được giải chấp theo quy định của pháp luật về giao dịch bảo đảm.
+
+Chương VII
+
+THỰC HIỆN BẢO LÃNH CHÍNH PHỦ
+
+Điều 19. Đối với cơ quan cấp bảo lãnh
+
+Khi đến hạn trả nợ, trường hợp người được bảo lãnh không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ trả nợ thì cơ quan cấp bảo lãnh phải thực hiện thanh toán theo đúng cam kết trong thư bảo lãnh. Người được bảo lãnh có trách nhiệm phải hoàn trả cho cơ quan cấp bảo lãnh toàn bộ khoản tiền mà cơ quan cấp bảo lãnh đã trả nợ thay cộng toàn bộ chi phí phát sinh thực tế liên quan đến việc trả nợ thay.
+
+Điều 20. Đối với người được bảo lãnh
+
+1. Người được bảo lãnh có nghĩa vụ:
+
+a) Cung cấp cho cơ quan cấp bảo lãnh hồ sơ cấp bảo lãnh Chính phủ và các tài liệu cần thiết liên quan để cơ quan cấp bảo lãnh thẩm định và đề nghị Thủ tướng Chính phủ quyết định việc bảo lãnh;
+
+b) Thực hiện các nghĩa vụ của người vay theo thỏa thuận vay đã ký và các nghĩa vụ của người được bảo lãnh đối với cơ quan cấp bảo lãnh theo Quy chế này;
+
+c) Thực hiện việc đăng ký tài sản thế chấp theo quy định của pháp luật về đăng ký giao dịch bảo đảm;
+
+d) Cung cấp cho cơ quan cấp bảo lãnh theo định kỳ và khi cần thiết các báo cáo tài chính được kiểm toán hoặc có xác nhận của cơ quan quản lý tài chính nhà nước cấp trên; báo cáo kế hoạch, tình hình rút vốn vay, trả nợ, dư nợ; báo cáo tình hình thực hiện chương trình, dự án và các tình huống đặc biệt có ảnh hưởng đến tình hình thực hiện chương trình, dự án và khả năng thực hiện các nghĩa vụ thanh toán theo thỏa thuận vay theo đúng các yêu cầu và quy định của cơ quan cấp bảo lãnh;
+
+đ) Tạo điều kiện cho cơ quan cấp bảo lãnh kiểm tra tình hình thực hiện chương trình, dự án khi cần thiết;
+
+e) Nộp phí bảo lãnh kịp thời và đầy đủ theo quy định tại Quy chế này;
+
+g) Thực hiện nghiêm chỉnh và đầy đủ các nghĩa vụ đã cam kết với cơ quan cấp bảo lãnh trong văn bản cam kết theo mẫu quy định tại Phụ lục I đính kèm Quy chế này.
+
+2. Khi đến hạn trả nợ, trường hợp người được bảo lãnh không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ trả nợ thì người được bảo lãnh phải thông báo bằng văn bản cho cơ quan cấp bảo lãnh trước kỳ hạn nợ tối thiểu là 45 ngày, nêu rõ lý do không có khả năng thực hiện nghĩa vụ nợ và cam kết hoàn trả số tiền mà cơ quan cấp bảo lãnh sẽ trả nợ thay cộng toàn bộ chi phí phát sinh thực tế liên quan đến việc trả nợ thay.
+
+3. Sau khi trả nợ thay, người được bảo lãnh phải ký thỏa thuận cho vay bắt buộc theo các điều kiện cụ thể sau:
+
+a) Về lãi suất: theo mức lãi suất cao hơn 2 mức lãi suất sau: (i) lãi suất quy định tại Hợp đồng vay; (ii) lãi suất LIBOR/6 tháng đối với đồng tiền vay theo Hợp đồng vay cộng với 2%/năm. Thời gian tính lãi kể từ ngày cơ quan cấp bảo lãnh thanh toán thay người được bảo lãnh cho tới ngày cơ quan cấp bảo lãnh thu hồi được khoản tiền đó.
+
+b) Về thời hạn cho vay bắt buộc: thời hạn cho vay bắt buộc được xem xét tuỳ thuộc vào khả năng trả nợ của từng dự án, nhưng tối đa không quá 5 năm.
+
+c) Nguồn cho vay bắt buộc được lấy từ Quỹ tích luỹ trả nợ nước ngoài.
+
+4. Trong trường hợp người được bảo lãnh vi phạm các cam kết trong thoả thuận cho vay bắt buộc trong 2 lần liên tiếp, ngoài tài sản thế chấp được quy định tại Điều 16 Quy chế này, người được bảo lãnh phải mở “tài khoản đặc biệt” và toàn bộ doanh thu của người được bảo lãnh phải chuyển qua tài khoản này đảm bảo việc ưu tiên thanh toán được dành cho việc thanh toán trả nợ nước ngoài đã được Chính phủ bảo lãnh. Số dư tối thiểu trong tài khoản đặc biệt bằng 100% số tiền phải trả của kỳ hạn nợ tiếp theo và sẽ phải duy trì trong vòng 1 năm liên tiếp. Sau thời hạn này, nếu người được bảo lãnh thực hiện đúng cam kết thì việc áp dụng tài khoản này sẽ được xoá bỏ.
+
+Điều 21. Chuyển nhượng, chuyển giao nghĩa vụ được bảo lãnh
+
+Việc chuyển nhượng, chuyển giao liên quan đến bảo lãnh Chính phủ phải được sự chấp thuận của cơ quan cấp bảo lãnh. Người nhận chuyển nhượng, người nhận chuyển giao của người được bảo lãnh có nghĩa vụ đối với cơ quan cấp bảo lãnh tương ứng với phạm vi nhận chuyển nhượng, hoặc chuyển giao từ người được bảo lãnh.
+
+Chương VIII
+
+CHẾ ĐỘ BÁO CÁO VÀ KIỂM TRA, GIÁM SÁT
+
+Điều 22. Chế độ báo cáo
+
+Người được bảo lãnh thực hiện chế độ báo cáo theo đúng quy định của Nghị định số 134/2005/NĐ-CP ngày 01 tháng 11 năm 2005 về Quy chế quản lý vay và trả nợ nước ngoài, cụ thể:
+
+1. Báo cáo tình hình rút vốn (ngày và trị giá từng lần rút vốn) theo khoản vay được bảo lãnh.
+
+2. Báo cáo tiến độ rút vốn, trả nợ định kỳ theo quý của khoản vay được bảo lãnh theo mẫu quy định tại Phụ lục IV kèm theo Quy chế này.
+
+3. Báo cáo tình hình trả nợ của khoản vay có bảo lãnh định kỳ theo hàng quý.
+
+4. Báo cáo hàng năm về tình hình thực hiện dự án.
+
+5. Báo cáo đánh giá dự án sau khi dự án kết thúc.
+
+Điều 23. Kiểm tra và giám sát
+
+1. Cơ quan cấp bảo lãnh có trách nhiệm giám sát thường xuyên việc thực hiện các nghĩa vụ của người được bảo lãnh;
+
+2. Trong trường hợp người được bảo lãnh không trả được nợ theo Điều 20 Quy chế này, cơ quan cấp bảo lãnh sẽ tiến hành kiểm tra tình hình tài chính của dự án, xác định nguyên nhân mất khả năng thanh toán và báo cáo Thủ tướng Chính phủ biện pháp xử lý.
+
+Chương IX
+
+XỬ LÝ VI PHẠM
+
+Điều 24. Tổ chức, cá nhân vi phạm các quy định của Quy chế này tùy theo tính chất, mức độ vi phạm sẽ bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự, bồi thường thiệt hại theo các quy định hiện hành./.
+
+
+
+
+
+
+
+

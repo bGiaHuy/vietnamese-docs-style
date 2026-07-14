@@ -1,0 +1,259 @@
+# Về việc ban hành Quy định chức năng nhiệm vụ, quyền hạn và tổ chức bộ máy quản lý Nhà nước của Sở Lao động - Thương binh và Xã hội
+# Loại: Quyết định
+# Số hiệu: 01/QĐ-UB
+# Ngày ban hành: 17/01/1998
+# Cơ quan: UBND tỉnh Bắc Ninh
+# Nguồn: thuvienphapluat.vn
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+THÔNG TƯ LIÊN TỊCH
+
+Số 18 /1998/TTLT-BLĐTBXH-BTC ngày 31 tháng 12 năm 1998 của 8ộ Lao động - Thương binh và Xã hội - Tài chính hướng dẫn xác định quỹ tiền lương thực hiện khi doanh nghiệp nhà nước không bảo đảm chỉ tiêu nộp ngân sách và lợi nhuận
+
+Thi hành khoản 2, Điều 1, Nghị định số 28/CP ngày 28/03/1997 của Chính phủ về việc đổi mới quản lý tiền lương và thu nhập trong các doanh nghiệp nhà nước, Liên tịch Bộ Lao động - Thương binh và xã hội - Bộ Tài chính hướng dẫn xác định quỹ tiền lương thực hiện khi doanh nghiệp không bảo đảm chỉ tiêu nộp ngân sách và lợi nhuận, như sau:
+
+I. ĐỐI TƯỢNG ÁP DỤNG.
+
+Đối tượng áp dụng là các doanh nghiệp nhà nước được qui định tại Thông tư số 13/LĐTBXH-TT ngày 10/04/1997 của Bộ Lao động - Thương binh và xã hội hướng dẫn thi hành Nghị định số 28/CP ngày 28/03/1997 của Chính phủ về việc đổi mới quản lý tiền lương và thu nhập trong doanh nghiệp nhà nước.
+
+II. XÁC ĐỊNH QUỸ TIỀN LƯƠNG THỰC HIỆN KHI DOANH NGHIỆP NHÀ NƯỚC KHÔNG BẢO ĐẢM CHỈ TIÊU NỘP NGÂN SÁCH VÀ CHỈ TIÊU LỢI NHUẬN
+
+1/ Khi doanh nghiệp không bảo đảm chỉ tiêu nộp ngân sách:
+
+Trong quá trình sản xuất kinh doanh, các doanh nghiệp nhà nước phải có trách nhiệm nộp đúng, nộp đủ các khoản phải nộp thực tế phát sinh vào ngân sách theo Luật định. Nếu doanh nghiệp vi phạm dẫn đến không bảo đảm chỉ tiêu thu nộp ngân sách thì xử lý theo Luật thuế và các văn bản hướng dẫn khác có liên quan.
+
+
+
+2/ Khi doanh nghiệp không bảo đảm chỉ tiêu lợi nhuận thực hiện:
+
+Khi lợi nhuận thực hiện thấp hơn so với năm trước liền kề thì doanh nghiệp phải giảm trừ quỹ tiền lương tương ứng với lợi nhuận giảm so với năm trước liền kề theo 1 trong 2 cách dưới đây:
+
+Cách 1: quỹ tiền lương thực hiện được tính theo công thức sau:
+
+Vth = Vđg - ( Pnt - Pth ) + Vpc + Vbs + Vtg
+
+Trong đó:
+
+- Vth: quỹ tiền lương thực hiện của doanh nghiệp;
+
+- Vđg: quỹ tiền lương tính theo đơn giá được giao ứng với khối lượng sản phẩm thực hiện, hoặc doanh thu (doanh số) thực hiện, hoặc tổng thu trừ tổng chi (chưa có tiền lương) thực hiện, hoặc lợi nhuận thực hiện;
+
+- Pnt: lợi nhuận thực hiện năm trước liền kề;
+
+- Pth: lợi nhuận thực hiện năm báo cáo;
+
+- Vpc: là quỹ các khoản phụ cấp lương và các chế độ khác (nếu có);
+
+- Vbs: là quỹ tiền lương bổ sung;
+
+- Vtg: là quỹ tiền lương làm thêm giờ.
+
+Cách tính Vpc, Vbs và Vtg (nếu có) được xác định theo quy định tại khoản a, điểm 2, phần C, mục IV Thông tư số 13/LĐTBXH-TT ngày 10/04/1997 của Bộ Lao động - Thương binh và xã hội
+
+Cách 2: quỹ tiền lương thực hiện được tính theo nguyên tắc: cứ giảm 1% lợi nhuận so với năm trước liền kề thì giảm đi 0,5% quỹ tiền lương điều chỉnh tăng thêm, nhưng mức giảm trừ không quá 50% quỹ tiền lương điều chỉnh tăng thêm và được tính theo công thức sau:
+
+
+
+
+
+Vth =
+
+
+
+
+Vcđ + Vđc - Vđc
+
+
+
+
+x {( 1 - Pth ) x 0,5 }
+
+
+Pnt
+
+
+
+
++ Vpc + Vbs + Vtg
+
+
+
+
+
+
+
+Trong đó:
+
+- Vth: quỹ tiền lương thực hiện của doanh nghiệp;
+
+- Vcđ: quỹ tiền lương chế độ, được xác định theo số lao động định mức nhân với hệ số lương cấp bậc công việc bình quân (kể cả các khoản phụ cấp lương) và mức lương tối thiểu chung do Chính phủ qui định (năm 1998 là 144.000 đồng/tháng);
+
+- Vđc: quỹ tiền lương điều chỉnh tăng thêm, được xác định bằng qũy tiền lương tính theo đơn giá được giao (Vđg như đã nêu ở cách 1) trừ đi quỹ tiền lương chế độ (Vcđ);
+
+- Pnt: lợi nhuận thực hiện năm trước liền kề;
+
+- Pth: lợi nhuận thực hiện năm báo cáo;
+
+- Vpc, Vbs, Vtg được xác định như cách 1 nêu trên.
+
+Ví dụ: Doanh nghiệp A năm 1998 có các chỉ tiêu thực hiện như sau:
+
+
+
+
+
+
+
+TH 1997
+
+
+
+
+TH 1998
+
+
+
+
+
+
+- Tổng doanh thu (triệu đồng)
+
+
+
+
+100.000
+
+
+
+
+110.000
+
+
+
+
+
+
+- Lợi nhuận thực hiện (triệu đồng)
+
+
+
+
+1.000
+
+
+
+
+800
+
+
+
+
+
+- Đơn giá tiền lương được duyệt năm 1998 là: 15 đồng/1.000 đồng doanh thu.
+
+- Quỹ tiền lương theo chế độ là: 800 triệu đồng.
+
+- Quỹ tiền lương (Vpc, Vbs, Vtg) là: 300 triệu đồng
+
+Quỹ tiền lương thực hiện năm 1998 để quyết toán như sau:
+
+* Cách 1:
+
+- Quỹ tiền lương tính theo đơn giá được giao ứng với doanh thu thực hiện (110.000 triệu đồng) là:
+
+110.000 x 15/1.000 = 1.650 tr. đồng.
+
+- Phần quỹ tiền lương bị giảm trừ tương ứng với mức lợi nhuận thực hiện năm 1998 thấp hơn năm 1997 là:
+
+( 1.000 tr. đồng - 800 tr. đồng ) = 200 tr. đồng.
+
+- Quỹ tiền lương còn lại được hưởng sau khi giảm trừ là:
+
+( 1.650 tr. đồng - 200 tr. đồng + 300 tr. đồng ) = 1.750 tr. đồng.
+
+* Cách 2:
+
+- Quỹ tiền lương tính theo đơn giá được giao là: 1.650 tr. đồng.
+
+- Quỹ tiền lương điều chỉnh tăng thêm là:
+
+1.650 tr. đồng - 800 tr. đồng = 850 tr. đồng.
+
+Quỹ tiền lương thực hiện sau khi giảm trừ là:
+
+
+
+
+
+Vth =
+
+
+
+
+800 + 850 - 850
+
+
+
+
+x { (1 - 800 ) x 0,5 }
+
+
+1.000
+
+
+
+
++ 300
+
+
+
+
+= 1.865 tr. đồng
+
+
+
+
+
+III. TỔ CHỨC THỰC HIỆN.
+
+1/ Căn cứ vào qui định và hướng dẫn tại Thông tư này, Chủ tịch Hội đồng quản trị (đối với doanh nghiệp có Hội đồng quản trị), Giám đốc hoặc Tổng giám đốc doanh nghiệp Nhà nước xác định quỹ tiền lương thực hiện của doanh nghiệp khi không bảo đảm lợi nhuận thực hiện nhằm sử dụng hợp lý quỹ tiền lương, không vượt quá mức quy định, tránh tình trạng nợ hoặc thâm hụt quỹ tiền lương, ảnh hưởng đến đời sống của người lao động và kế hoạch sản xuất, kinh doanh năm sau, đồng thời làm cơ sở để quyết toán tài chính hằng năm theo quy định tại Nghị định số 59/CP ngày 03/10/1996 của Chính phủ và các văn bản hướng dẫn của Bộ Tài chính.
+
+2/ Đối với doanh nghiệp quan trọng, sản phẩm trọng yếu bảo đảm các cân đối lớn của nền kinh tế, có đóng góp lớn cho ngân sách, mà Nhà nước điều chỉnh chính sách, cơ chế làm cho lợi nhuận thực hiện của doanh nghiệp bị giảm nhiều so với năm trước liền kề, ảnh hưởng lớn đến tiền lương và thu nhập của người lao động, Thủ trưởng Bộ quản lý ngành, lĩnh vực, Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và Chủ tịch Hội đồng quản trị Tổng công ty 91/TTg xem xét, có văn bản gửi Liên Bộ giải quyết cụ thể.
+
+3/ Đơn giá tiền lương có hiệu lực để xác định quĩ tiền lương thực hiện của doanh nghiệp được quy định như sau:
+
+- Đối với doanh nghiệp được xếp hạng đặc biệt: Chủ tịch Hội đồng quản trị quyết định đơn giá tiền lương ứng với chỉ tiêu nộp ngân sách và lợi nhuận của các đơn vị thành viên, nhưng khi tổng hợp lại không vượt quá đơn giá tiền lương do Bộ Lao động - Thương binh và xã hội đã thẩm định;
+
+- Đối với doanh nghiệp trực thuộc Bộ quản lý ngành, lĩnh vực: đơn giá tiền lương theo quyết định của Thủ trưởng Bộ quản lý ngành, lĩnh vực hoặc Thủ trưởng cơ quan chức năng được uỷ quyền theo phân cấp quản lý;
+
+
+
+- Đối với doanh nghiệp địa phương: đơn giá tiền lương theo quyết định của Giám đốc Sở Lao động - Thương binh và xã hội tỉnh, thành phố trực thuộc Trung ương hoặc Giám đốc Sở quản lý ngành, lĩnh vực hoặc Chủ tịch uỷ ban nhân dân quận, huyện theo phân cấp quản lý tại địa phương;
+
+- Đối với các Tổng công ty được thành lập theo Quyết định số 90/TTg ngày 07/03/1994 của Thủ tướng Chính phủ, không được xếp hạng đặc biệt thì Chủ tịch Hội đồng quản trị (đối với doanh nghiệp có Hội đồng quản trị) hoặc Tổng Giám đốc (đối với doanh nghiệp không có Hội đồng quản trị) quyết định đơn giá tiền lương ứng với chỉ tiêu nộp ngân sách và lợi nhuận của các đơn vị thành viên, nhưng khi tổng hợp lại không vượt quá đơn giá tiền lương do Bộ quản lý ngành, lĩnh vực hoặc Giám đốc Sở Lao động - Thương binh và xã hội tỉnh, thành phố trực thuộc Trung ương thẩm định.
+
+4/ Các Bộ quản lý ngành, lĩnh vực, Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương, Chủ tịch Hội đồng quản trị (đối với doanh nghiệp có Hội đồng quản trị) hằng năm có trách nhiệm tổng hợp, báo cáo kết quả xác định quỹ tiền lương thực hiện của các doanh nghiệp thuộc quyền quản lý gửi về Liên Bộ Lao động - Thương binh và xã hội - Tài chính vào quý I năm sau.
+
+5/ Thông tư này có hiệu lực từ ngày ký, áp dụng để thực hiện quyết toán quỹ tiền lương từ năm 1998 trở đi.
+
+Trong quá trình thực hiện có gì vướng mắc, đề nghị các Bộ quản lý ngành, lĩnh vực, Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các doanh nghiệp nhà nước phản ánh về Liên Bộ Lao động - Thương binh và xã hội - Tài chính nghiên cứu, giải quyết.
+
+
+
+
+
+
+
+
