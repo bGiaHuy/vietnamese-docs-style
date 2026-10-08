@@ -1,6 +1,6 @@
 # Vietnamese Docs Style
 
-**Bản địa hóa việc tạo tài liệu Word bằng AI cho Việt Nam.**
+**Chỉnh sửa phong cách tạo docx của AI cho phù hợp với yêu cầu về văn bản của Việt Nam.**
 
 *Localizing AI-powered Word document generation for Vietnam.*
 
