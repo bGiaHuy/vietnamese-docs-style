@@ -115,7 +115,9 @@ Renderer có thể thay font khi máy thiếu font, nên tên font trong XML kh�
 việc xem bản render.
 
 `python -m ruff check scripts tests` và `python -m pytest -q` là kiểm tra local
-được CI chạy trong repo nguồn (tests và dependency phát triển không nằm trong ZIP cài skill). Trong phiên phát triển Windows này, LibreOffice hệ thống thiếu DLL;
-đã giải nén bản chính thức riêng. Khi dùng bản đó, đặt VNDOCS_RENDERER tới đường
-dẫn tuyệt đối `.tools/lo-extracted/program/soffice.com`. `.tools` không vào gói;
-người dùng gói phải có LibreOffice khả dụng hoặc chỉ định renderer riêng.
+được CI chạy trong repo nguồn (tests và dependency phát triển không nằm trong ZIP cài skill).
+Để render PDF/PNG ở local, cài LibreOffice theo hệ điều hành:
+- Windows: `winget install TheDocumentFoundation.LibreOffice`
+- macOS: `brew install --cask libreoffice`
+- Ubuntu/Debian: `sudo apt-get install -y libreoffice-writer fonts-liberation`
+Nếu `soffice` không nằm trong `PATH`, truyền `--renderer` hoặc đặt biến môi trường `VNDOCS_RENDERER` trỏ tới file thực thi LibreOffice.
