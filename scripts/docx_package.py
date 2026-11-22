@@ -97,8 +97,57 @@ def replace_span(paragraph, start, end, replacement):
         inserted = True
 
 
-def xml_bytes(root):
-    return etree.tostring(root, encoding='UTF-8', xml_declaration=True, standalone=True)
+MC_IGNORABLE = '{http://schemas.openxmlformats.org/markup-compatibility/2006}Ignorable'
+
+
+def preserve_root_namespaces(before_bytes, after_root):
+    """Ensure every root xmlns declaration and mc:Ignorable from before_bytes survives serialization."""
+    parser = etree.XMLParser(resolve_entities=False, no_network=True)
+    before_root = etree.fromstring(before_bytes, parser)
+    merged_ns = dict(before_root.nsmap or {})
+    merged_ns.update(after_root.nsmap or {})
+
+    attrs = dict(after_root.attrib)
+    if MC_IGNORABLE in before_root.attrib and MC_IGNORABLE not in attrs:
+        attrs[MC_IGNORABLE] = before_root.attrib[MC_IGNORABLE]
+
+    if dict(after_root.nsmap or {}) == merged_ns and dict(after_root.attrib) == attrs:
+        return after_root
+
+    rebuilt = etree.Element(after_root.tag, attrib=attrs, nsmap=merged_ns)
+    rebuilt.text = after_root.text
+    for child in list(after_root):
+        rebuilt.append(child)
+    return rebuilt
+
+
+def audit_namespace_preservation(before_bytes, after_bytes):
+    """Verify after_bytes keeps all root namespace bindings and mc:Ignorable from before_bytes."""
+    parser = etree.XMLParser(resolve_entities=False, no_network=True)
+    b_root = etree.fromstring(before_bytes, parser)
+    a_root = etree.fromstring(after_bytes, parser)
+    b_ns = b_root.nsmap or {}
+    a_ns = a_root.nsmap or {}
+    missing_ns = [
+        {'prefix': prefix or '', 'uri': uri}
+        for prefix, uri in b_ns.items()
+        if a_ns.get(prefix) != uri
+    ]
+    ign_ok = (
+        True
+        if MC_IGNORABLE not in b_root.attrib
+        else (a_root.attrib.get(MC_IGNORABLE) == b_root.attrib[MC_IGNORABLE])
+    )
+    return {
+        'preserved': (not missing_ns) and ign_ok,
+        'missing_ns': missing_ns,
+        'ignorable_preserved': ign_ok,
+    }
+
+
+def xml_bytes(root, original_bytes=None):
+    target = preserve_root_namespaces(original_bytes, root) if original_bytes is not None else root
+    return etree.tostring(target, encoding='UTF-8', xml_declaration=True, standalone=True)
 
 
 def write_package(source, destination, entries, original, changed):
@@ -106,12 +155,13 @@ def write_package(source, destination, entries, original, changed):
     if source == destination:
         raise ValueError('Write to a new file; preserve the original template')
     destination.parent.mkdir(parents=True, exist_ok=True)
+    clean_entries = [entry for entry in entries if not entry.is_dir()]
     # No extraction of archive paths. Atomic output avoids half-written DOCX files.
     handle, temporary = tempfile.mkstemp(suffix='.docx', dir=destination.parent)
     os.close(handle)
     try:
         with ZipFile(temporary, 'w') as archive:
-            for entry in entries:
+            for entry in clean_entries:
                 archive.writestr(entry, changed.get(entry.filename, original[entry.filename]))
         os.replace(temporary, destination)
     finally:

@@ -8,6 +8,7 @@ import sys
 
 try:
     from . import (
+        auto_paginate,
         create_demo,
         create_templates,
         diff_layout,
@@ -22,6 +23,7 @@ try:
         validate_docx,
     )
 except ImportError:
+    import auto_paginate
     import create_demo
     import create_templates
     import diff_layout
@@ -45,6 +47,7 @@ COMMANDS = {
     'map': map_docx.main,
     'layout-edit': layout_edit.main,
     'diff-layout': diff_layout.main,
+    'paginate': auto_paginate.main,
     'demo': create_demo.main,
     'templates': create_templates.main,
     'package': package_skill.main,
@@ -64,7 +67,8 @@ commands:
   edit         Patch verified plain-text slots in a retained DOCX
   map          Build a compact structural + spatial anchor map for DOCX editing
   layout-edit  Apply table-scoped OOXML layout operations with XML preservation checks
-  diff-layout  Compare LibreOffice-rendered table geometry and pagination ripple before/after
+  diff-layout  Compare rendered PDF geometry and pagination ripple before/after
+  paginate     Fit page targets or absorb orphan signature blocks cleanly
   demo         Generate a reproducible multi-section demo template and filled DOCX
   templates    Regenerate project-authored starter templates
   package      Build a clean distributable skill ZIP

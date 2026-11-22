@@ -13,7 +13,7 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.3.0` (`59/59` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
+**Trạng thái:** `v0.3.0` (`93/93` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -68,8 +68,9 @@ Khi LLM hoặc script Python tự tạo một file `.docx` mới mà không đư
 
 - Chọn thể thức phù hợp với loại văn bản và nơi tiếp nhận thông qua 8 profile, hỗ trợ văn bản hành chính theo NĐ30/2020, văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), VBQPPL (NĐ 187/2025/NĐ-CP), tài liệu học thuật và tài liệu doanh nghiệp.
 - Sinh file `.docx` đa profile từ JSON đúng [JSON Schema](assets/schemas/document-input.schema.json) (`vndocs generate ... --validate`), điền token `{{name}}` (`vndocs fill`) hoặc vá vị trí xác minh bằng `vndocs edit --source-sha256`, giữ nguyên XML ngoài vùng sửa.
+- Chỉnh sửa bố cục `.docx` hiện có theo quy trình 4 bước (`vndocs map` -> đối chiếu ảnh/`--annotate-marks` -> `vndocs layout-edit` với 13 op có `--track-changes` và bảo toàn namespace Word 365 -> `vndocs diff-layout` đo PDF trước/sau), kèm `vndocs paginate` tự co gọn bố cục đúng chuẩn profile (gom chữ ký rơi lẻ sang trang cuối hoặc ép vừa số trang) mà không sửa bất kỳ từ nào (`xml_ntpr == 1.0`).
 - Soi nhanh file mẫu và phát hiện lỗi encoding `Ð` (`U+00D0` -> `Đ` `U+0110`), `kính giửi` hoặc placeholder sót qua `vndocs inspect`; kiểm tra khổ giấy, lề, font/màu kế thừa, style role và numbering qua `vndocs validate`.
-- Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm (`vndocs render --png`) để kiểm tra hiển thị thực tế trước khi bàn giao.
+- Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm (`vndocs render --png`, hỗ trợ cache PDF theo `SHA-256` qua `--cache-dir` và tùy chọn `--renderer word-win` trên máy Windows có Microsoft Word) để kiểm tra hiển thị thực tế trước khi bàn giao.
 - Kèm bộ câu hỏi phỏng vấn ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), chỉ mục [llms.txt](llms.txt) và đóng gói thành file ZIP (`vndocs package`).
 
 ### Các profile được hỗ trợ
@@ -99,6 +100,13 @@ Benchmark gồm **16 test case**, chạy bằng `python evals/run_validation_ben
 | Placeholder sót / `numId` hỏng (`placeholder`, `numbering`) | 3/3 case lỗi bị bắt | 0 lỗi |
 
 Xem bảng đầy đủ, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
+
+### Benchmark chỉnh sửa bố cục (Vibe Docs): 30/30 Oracle Hit & `xml_ntpr = 1.0`
+
+Bộ benchmark phân tầng **30 ca (`T01`–`T30`)** trên văn bản ngắn/trung bình/dài (`short: 14`, `medium: 10`, `long: 6`), chạy tái lập bằng `python evals/run_vibe_edit_benchmark.py --run-oracle`:
+
+- **Kết quả oracle (`vndocs`):** **30 / 30 (100.0%)** đạt mọi checkpoint hình học PDF + OOXML, **100%** bảo toàn cấu trúc XML ngoài vùng sửa (`xml_ntpr = 1.0`), **4 / 4** ca rủi ro/mơ hồ từ chối an toàn (kể cả `.docx` đã ký số `T28` và ảnh crop không phân biệt được `T17`).
+- **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`). Chi tiết nằm ở [`evals/VIBE-BENCHMARK.md`](evals/VIBE-BENCHMARK.md).
 
 ## Cách bắt đầu
 
@@ -176,6 +184,13 @@ vndocs render artifacts/demo/office-filled.docx --png
   ```bash
   vndocs edit source.docx artifacts/edited.docx --edits slots.json --source-sha256 <SHA256>
   ```
+- **Chỉnh bố cục bảng/ảnh/đoạn/trang và đo lại bằng PDF (`map` -> `layout-edit` / `paginate` -> `diff-layout`):**
+  ```bash
+  vndocs map source.docx --format markdown
+  vndocs layout-edit source.docx artifacts/scaled.docx --plan plan.json --track-changes
+  vndocs diff-layout source.docx artifacts/scaled.docx --target <ANCHOR> --cache-dir .vndocs-cache
+  vndocs paginate source.docx artifacts/onepage.docx --fix-orphan-signature --profile administrative
+  ```
 - **Prompt mẫu gửi AI Agent:**
   - *Hành chính:* `Tạo file DOCX thông báo lịch họp theo thể thức NĐ30/2020; chỗ nào thiếu thông tin ký hoặc số văn bản thì đánh dấu [CẦN BỔ SUNG: ...].`
   - *Học thuật:* `Viết báo cáo học thuật ngắn về ứng dụng AI trong giáo dục (chưa có mẫu trường), không tự thêm số liệu nghiên cứu.`
@@ -186,8 +201,8 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
 
 ## Giới hạn và tích hợp
 
-- **Cài đặt LibreOffice (tùy chọn để render PNG):**
-  - Windows: `winget install TheDocumentFoundation.LibreOffice`
+- **Cài đặt LibreOffice (khuyến nghị để render PDF/PNG đa nền tảng):**
+  - Windows: `winget install TheDocumentFoundation.LibreOffice` (hoặc tùy chọn `--renderer word-win` nếu máy Windows đã cài Microsoft Word desktop; Word COM không sẵn có trên môi trường Linux/CI hoặc máy Windows chưa cài Word)
   - macOS: `brew install --cask libreoffice`
   - Ubuntu / Debian: `sudo apt-get update && sudo apt-get install -y libreoffice-writer fonts-liberation`
   - Nếu `soffice` không có trong `PATH`, truyền `--renderer` hoặc đặt biến môi trường `VNDOCS_RENDERER`.
@@ -199,7 +214,7 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
 
 ## Dữ liệu và quyền riêng tư
 
-- `vndocs` chạy local, không gửi telemetry hay dữ liệu lên server. Đầu ra mặc định lưu trong `artifacts/` và `dist/` (đã nằm trong `.gitignore`); khi render, LibreOffice chạy với profile tạm trên máy.
+- `vndocs` chạy local, không gửi telemetry hay dữ liệu lên server. Đầu ra mặc định lưu trong `artifacts/`, `dist/` và cache render `.vndocs-cache/` (đều đã nằm trong `.gitignore`); khi render, LibreOffice chạy với profile tạm trên máy.
 - Nếu bạn sử dụng skill thông qua AI Agent chạy trên đám mây, nội dung prompt tuân theo chính sách dữ liệu của nhà cung cấp mô hình đó — không dán tài liệu mật hoặc thông tin nhạy cảm chưa được phép lên dịch vụ ngoài.
 
 ## Thông tin cho người đóng góp
@@ -212,6 +227,7 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
   python -m compileall -q scripts tests evals
   python -m pytest -q
   python evals/run_validation_benchmark.py
+  python evals/run_vibe_edit_benchmark.py --run-oracle
   ```
 - **Báo lỗi và đóng góp:** Mở issue tại [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) hoặc gửi Pull Request theo hướng dẫn tại [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -232,10 +248,10 @@ vietnamese-docs-style/
 ├── assets/                    # Starter templates, JSON Schema, ví dụ đầu vào & custom rules
 ├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
 ├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
-├── evals/                     # Benchmark tái lập, báo cáo audit & manual evals
+├── evals/                     # Benchmark tái lập, báo cáo audit & Vibe Docs 30-case eval
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 59 automated tests (pytest + LibreOffice render)
+└── tests/                     # 93 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -288,8 +304,9 @@ Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 c
 
 - Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
 - Declarative multi-profile JSON generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), `{{token}}` template filling (`vndocs fill`), and SHA256-verified slot patching (`vndocs edit`) preserving untouched ZIP members.
+- Controlled Vibe Docs layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`).
 - Template inspection and lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.
-- PDF and PNG page rendering (`vndocs render --png`) via LibreOffice in a temporary profile.
+- PDF and PNG page rendering (`vndocs render --png`, with SHA-256 PDF caching via `--cache-dir` and optional Windows Word COM backend via `--renderer word-win`) via LibreOffice in a temporary profile.
 - Root agent sitemap ([llms.txt](llms.txt)), interview checklist ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and skill ZIP packaging (`vndocs package`).
 
 ## Getting Started & Agent Support
@@ -334,7 +351,7 @@ vndocs validate artifacts/demo/office-filled.docx --profile minutes-general
 vndocs render artifacts/demo/office-filled.docx --png
 ```
 
-Common workflows also include `vndocs generate ... --validate`, `vndocs inspect --normalize-output ...`, `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys and exit codes (`0` pass, `1` fail, `2` partial).
+Common workflows also include `vndocs generate ... --validate`, `vndocs inspect --normalize-output ...`, `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs map`, `vndocs layout-edit --track-changes`, `vndocs diff-layout --cache-dir ...`, `vndocs paginate`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys, all 13 layout ops, and exit codes (`0` pass, `1` fail, `2` partial).
 
 ### Benchmark: 0/8 Baseline vs. 8/8 Skill
 
@@ -343,15 +360,22 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
 - **Result:** `0 / 8` baseline pass vs. `8 / 8` skill pass (checked continuously in CI).
 - **Details:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
+### Layout Editing Benchmark (Vibe Docs): 30/30 Oracle Hit & `xml_ntpr = 1.0`
+
+30 stratified DOCX layout cases (`T01`–`T30`; `short: 14`, `medium: 10`, `long: 6`), run via `python evals/run_vibe_edit_benchmark.py --run-oracle`:
+
+- **Oracle (`vndocs`):** **30 / 30 (100.0%)** pass every PDF geometry & OOXML checkpoint with **100%** non-target XML preservation (`xml_ntpr = 1.0`) and **4 / 4** safe fail-closed refusals (including signed `.docx` `T28` and indistinguishable crops `T17`).
+- **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`). See [`evals/VIBE-BENCHMARK.md`](evals/VIBE-BENCHMARK.md).
+
 ## Limitations & Integrations
 
-- **LibreOffice (optional for rendering):** `winget install TheDocumentFoundation.LibreOffice` (Windows), `brew install --cask libreoffice` (macOS), or `sudo apt-get install -y libreoffice-writer fonts-liberation` (Ubuntu/Debian); override via `--renderer` or `VNDOCS_RENDERER`.
+- **LibreOffice (recommended cross-platform renderer) & optional Word COM:** `winget install TheDocumentFoundation.LibreOffice` (Windows), `brew install --cask libreoffice` (macOS), or `sudo apt-get install -y libreoffice-writer fonts-liberation` (Ubuntu/Debian); override via `--renderer` or `VNDOCS_RENDERER`. `--renderer word-win` is optional on Windows hosts that have desktop Microsoft Word installed (unavailable on Linux/CI or hosts without Office COM registered).
 - **Accounts & Quotas:** `vndocs` runs offline with zero API keys or accounts. Agent execution uses whichever model subscription or quota you configure in your agent client.
 - **Unsupported / uncertified scope:** Not a legal compliance certificate; refuses editing digitally signed `_xmlsignatures/` files; never fabricates signatures or stamps; leaves theme fonts/colors, conditional table styles, text boxes, charts, footnotes, and tracked revisions in `unchecked`. Human review is required before official issuance.
 
 ## Data & Privacy
 
-- `vndocs` runs locally and sends no telemetry or data to external servers. Local outputs go to gitignored `artifacts/` and `dist/`, and LibreOffice renders in an isolated temp directory.
+- `vndocs` runs locally and sends no telemetry or data to external servers. Local outputs go to gitignored `artifacts/`, `dist/`, and `.vndocs-cache/`, and LibreOffice renders in an isolated temp directory.
 - When using cloud-hosted AI agents, prompt text is governed by that provider's privacy terms — avoid sending confidential records without authorization.
 
 ## Contributing
@@ -364,6 +388,7 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
   python -m compileall -q scripts tests evals
   python -m pytest -q
   python evals/run_validation_benchmark.py
+  python evals/run_vibe_edit_benchmark.py --run-oracle
   ```
 - Report bugs or submit PRs via [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) following [CONTRIBUTING.md](CONTRIBUTING.md).
 

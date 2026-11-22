@@ -133,11 +133,8 @@ def _resolve_sections(body):
 
 
 def _cell_text(tc):
-    parts = []
-    for p in tc.findall(f'{{{W}}}p'):
-        txt = ''.join(node.text or '' for node in p.iter(f'{{{W}}}t'))
-        parts.append(txt)
-    return normalize_nfc(' '.join(parts))
+    parts = [re.sub(r'\s+', ' ', docx_package.text_of(p)).strip() for p in tc.findall(f'{{{W}}}p')]
+    return normalize_nfc(' '.join(part for part in parts if part))
 
 
 def _row_logical_grid_count(tr):
@@ -433,9 +430,12 @@ def _match_table_in_pdf(pdf_doc, table_entry, sections_by_idx):
         matched_rects = []
         # Match contiguous phrases from non-empty cells first for high precision.
         non_empty_cells = [
-            c.lower() for row in table_entry.get('row_texts_nfc', []) for c in row if len(c) >= 3
+            re.sub(r'\s+', ' ', c).strip().lower()
+            for row in table_entry.get('row_texts_nfc', [])
+            for c in row
+            if len(re.sub(r'\s+', ' ', c).strip()) >= 3
         ]
-        page_text_lower = normalize_nfc(page.get_text('text')).lower()
+        page_text_lower = re.sub(r'\s+', ' ', normalize_nfc(page.get_text('text'))).lower()
         hits = sum(1 for c in non_empty_cells if c[:30] in page_text_lower)
         if non_empty_cells and hits >= max(1, min(3, len(non_empty_cells) // 2 + 1)):
             for w_item in word_entries:

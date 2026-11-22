@@ -9,3 +9,4 @@ artifacts/
 .tools/
 dist/
 /research/
+.vndocs-cache/

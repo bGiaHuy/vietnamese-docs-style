@@ -1469,9 +1469,14 @@ def apply_layout_plan(
 
     changed = {}
     if any(item['kind'] != 'style' for item in prepared):
-        changed['word/document.xml'] = docx_package.xml_bytes(doc_root)
+        changed['word/document.xml'] = docx_package.xml_bytes(doc_root, original_bytes=original['word/document.xml'])
     if styles_root is not None and any(item['kind'] == 'style' for item in prepared):
-        changed['word/styles.xml'] = docx_package.xml_bytes(styles_root)
+        changed['word/styles.xml'] = docx_package.xml_bytes(styles_root, original_bytes=original['word/styles.xml'])
+
+    for part_name, new_bytes in changed.items():
+        ns_audit = docx_package.audit_namespace_preservation(original[part_name], new_bytes)
+        if not ns_audit['preserved']:
+            raise LayoutEditError('NAMESPACE_DRIFT', f'Namespace/Ignorable drift on {part_name}: {ns_audit}')
 
     pkg_report = docx_package.write_package(src_path, dst_path, clean_entries, original, changed)
     out_sha256 = hashlib.sha256(dst_path.read_bytes()).hexdigest()

@@ -15,8 +15,13 @@
 - [scripts/validate_docx.py](scripts/validate_docx.py): Kiểm tra chuẩn style kế thừa, bảng/header/footer, numbering và báo `unchecked`.
 - [scripts/fill_template.py](scripts/fill_template.py): Điền token `{{name}}` giữ nguyên byte các thành phần XML ngoài vùng sửa.
 - [scripts/edit_docx.py](scripts/edit_docx.py): Sửa chính xác theo SHA256 và slot map trên mẫu không dùng token.
-- [scripts/render_docx.py](scripts/render_docx.py): Render PDF/PNG qua LibreOffice cô lập + PyMuPDF.
-- [scripts/cli.py](scripts/cli.py): Entrypoint hợp nhất `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|package>`.
+- [scripts/render_docx.py](scripts/render_docx.py): Render PDF/PNG qua LibreOffice cô lập + PyMuPDF (hỗ trợ `--annotate-marks`, `--cache-dir` và `--renderer word-win`).
+- [scripts/map_docx.py](scripts/map_docx.py): Lập bản đồ anchor `T#`/`IMG#`/`P#`, section/lề và nhận diện `[LAYOUT:...]` (`vndocs map`).
+- [scripts/ooxml_order.py](scripts/ooxml_order.py): Kiểm tra/chèn thẻ đúng thứ tự schema ECMA-376 và đo `xml_ntpr`.
+- [scripts/layout_edit.py](scripts/layout_edit.py): Sửa bố cục có kiểm soát (13 op, đọc-kiểm lại, `--track-changes`, bảo toàn namespace gốc `w14`/`w15`/`mc:Ignorable`).
+- [scripts/diff_layout.py](scripts/diff_layout.py): So đo PDF trước/sau, tràn lề, nhảy trang ngoài target và `compare_renderers` (`vndocs diff-layout`).
+- [scripts/auto_paginate.py](scripts/auto_paginate.py): Co gọn bố cục nhiều bậc đúng chuẩn profile để gom chữ ký lẻ hoặc vừa số trang (`vndocs paginate`).
+- [scripts/cli.py](scripts/cli.py): Entrypoint hợp nhất `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|package>`.
 
 ## Tài liệu tham chiếu theo ngữ cảnh (`references/`)
 
@@ -41,3 +46,4 @@
 
 - [assets/templates/manifest.json](assets/templates/manifest.json): Starter `.docx`, `.rules.json`, `.values.json` và ví dụ JSON tại `assets/schemas/examples/`.
 - [evals/BENCHMARK.md](evals/BENCHMARK.md): Benchmark công khai 16 case (`0/8` baseline vs. `8/8` skill) và [evals/audit-comparison.md](evals/audit-comparison.md).
+- [evals/VIBE-BENCHMARK.md](evals/VIBE-BENCHMARK.md): Benchmark chỉnh sửa bố cục 30 ca phân tầng (`T01`–`T30`, `evals/run_vibe_edit_benchmark.py`).

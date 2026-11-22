@@ -1,7 +1,7 @@
 # Công cụ và phạm vi kiểm tra
 
 Python 3.10+; cài `pip install -e .` (hoặc `requirements.txt`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
-Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|package>` hoặc chạy `python scripts/<tool>.py`.
+Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|package>` hoặc chạy `python scripts/<tool>.py`.
 Kiểm tra nhanh môi trường và LibreOffice renderer: `vndocs doctor`.
 LibreOffice là dependency hệ thống riêng để render. Trên Windows có thể chỉ
 định `--renderer` hoặc biến `VNDOCS_RENDERER`; không yêu cầu cài đè phiên bản sẵn.
@@ -112,6 +112,8 @@ Luồng chỉnh sửa bố cục trên `.docx` hiện có giữ nguyên cấu tr
    - `section.set_layout`: `{op, section_index?, orientation?: "portrait|landscape", page_size?: "A4|Letter", margins_cm?: {top?, bottom?, left?, right?, header?, footer?}}`
 4. `vndocs diff-layout src.docx dst.docx [--target <anchor>] [--output-dir out] [--crop-dir crops] [--renderer ...] [--cache-dir ...]`
    Đo lại kích thước bảng/ảnh trên PDF sau render (hỗ trợ `--cache-dir` và `compare_renderers`), phát hiện tràn lề phải (`overflow_right_mm`), kiểm tra nhảy trang ngoài vùng đích (`non_target_page_shifts`) và xuất crop PNG trước/sau của target (`max_iter = 2`).
+5. `vndocs paginate src.docx dst.docx [--target-pages N] [--fix-orphan-signature] [--profile <name>] [--max-steps 5] [--renderer ...] [--cache-dir ...]`
+   Co gọn bố cục theo bậc an toàn (lề ô bảng -> ảnh lớn -> cỡ chữ bảng theo sàn profile -> giãn dòng/đoạn không phải tiêu đề -> lề trên/dưới nếu profile cho phép), giữ nguyên 100% câu chữ và bảng bố cục NĐ30/Đảng, giúp gom chữ ký rơi lẻ sang trang cuối hoặc ép vừa số trang mục tiêu.
 
 ## Mẫu kiểm tra tái lập
 

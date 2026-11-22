@@ -1,0 +1,530 @@
+{
+  "benchmark_name": "vietnamese-vibe-docx-edit-v1",
+  "version": "2.0",
+  "design_references": [
+    "SkillsBench (arXiv:2602.12670): paired no-skill vs curated-skill arms, zero benchmark/skill leakage in task prompts, normalized gain g",
+    "Anthropic skill-creator: with_skill vs without_skill run layout and benchmark.json statistics",
+    "WordInferBench (arXiv:2611.15189): descriptive vs inferential instructions and non-target preservation",
+    "DocFormBench (arXiv:2606.01936) & LEDGER (arXiv:2606.28379): short/medium/long document length stratification",
+    "OfficeEval (arXiv:2606.10956): multi-checkpoint partial credit alongside binary task hit"
+  ],
+  "cases": [
+    {
+      "id": "T01_starter_scale_center",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "starter", "template": "academic-short-report.docx"},
+      "prompt_vi": "Tôi đang chỉnh lại báo cáo trong file này. Nhờ bạn thu nhỏ bảng trong tài liệu xuống 80% so với kích thước hiện tại rồi căn giữa bảng, giữ nguyên mọi đoạn văn bản và nội dung trong ô.",
+      "grading": {
+        "target_ordinal": 1,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T02_starter_minutes_cols",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "starter", "template": "office-minutes.docx"},
+      "prompt_vi": "Trong biên bản họp này, hãy giữ nguyên tổng bề rộng hiện tại của bảng nhưng chia lại 3 cột theo đúng tỷ lệ 20% - 50% - 30%, giữ nguyên mọi nội dung khác.",
+      "grading": {
+        "target_ordinal": 1,
+        "expected_total_width_cm": 16.5,
+        "width_tolerance_cm": 0.35,
+        "expected_col_widths_pct": [20.0, 50.0, 30.0],
+        "pct_tolerance": 2.5,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T03_nd30_budget_not_header",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "nd30_with_budget"},
+      "prompt_vi": "Công văn này nhìn phần bảng dự toán kinh phí hơi rộng quá, bạn thu gọn bảng dự toán đó lại khoảng 80% và căn giữa cho cân đối trang nhé. Tuyệt đối không đụng vào phần Quốc hiệu ở đầu trang hay phần Nơi nhận và chữ ký phía dưới.",
+      "grading": {
+        "target_ordinal": 2,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.5,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T04_nd30_layout_only_refusal",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "refuse",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "starter", "template": "administrative-dispatch.docx"},
+      "prompt_vi": "Nhờ bạn tìm bảng dữ liệu trong công văn hành chính này và thu nhỏ lại còn 85% giúp mình nhé.",
+      "grading": {
+        "refusal_reason": "Văn bản chỉ có bảng bố cục không viền (Quốc hiệu và Nơi nhận/Chữ ký NĐ30), không có bảng dữ liệu để thu nhỏ."
+      }
+    },
+    {
+      "id": "T05_long_multi_similar_tables",
+      "length_tier": "long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "long_multi_similar_tables"},
+      "prompt_vi": "Báo cáo tổng kết dài này có 4 bảng biểu cấu trúc 3 cột khá giống nhau phân bố qua các mục. Hãy giữ nguyên tất cả các bảng khác và văn bản, chỉ thu gọn bảng kinh phí ở Mục 3 xuống 75% bề rộng hiện tại và căn giữa cho đẹp.",
+      "grading": {
+        "target_ordinal": 3,
+        "expected_total_width_cm": 12.38,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T06_overflow_wide_table",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "overflow_wide_table"},
+      "prompt_vi": "Bảng dữ liệu trong báo cáo này đang bị tràn ra ngoài lề phải trang giấy. Hãy điều chỉnh lại bề rộng bảng cho vừa vặn bên trong vùng in (khoảng 95% chiều ngang cho phép) và căn giữa bảng để không còn bị tràn lề nữa.",
+      "grading": {
+        "target_ordinal": 1,
+        "expected_total_width_cm": 15.68,
+        "expected_width_min_cm": 14.5,
+        "expected_width_max_cm": 16.5,
+        "width_tolerance_cm": 1.0,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T07_merged_gridspan_vmerge_med",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "merged_gridspan_vmerge_med"},
+      "prompt_vi": "Trong báo cáo tiến độ này, hãy tìm đúng bảng nghiệm thu có các ô gộp theo nhóm giai đoạn (không động vào bảng thông tin tóm tắt đầu bài), đặt lại bề rộng 4 cột lưới của bảng đó lần lượt là 2.5cm, 6.0cm, 2.5cm và 3.0cm, đồng thời căn giữa bảng.",
+      "grading": {
+        "target_ordinal": 2,
+        "expected_total_width_cm": 14.0,
+        "width_tolerance_cm": 0.35,
+        "expected_col_widths_cm": [2.5, 6.0, 2.5, 3.0],
+        "col_tolerance_cm": 0.15,
+        "check_grid_span_tcw": true,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T08_long_landscape_multisection",
+      "length_tier": "long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "long_landscape_multisection"},
+      "prompt_vi": "Tài liệu này có phần phụ lục ở các trang cuối xoay khổ giấy ngang. Hãy thu nhỏ riêng bảng chỉ tiêu KPI nằm trong phần trang xoay ngang đó xuống bằng 80% chiều ngang vùng in của trang ngang và căn giữa, tuyệt đối không sửa các bảng ở các trang khổ đứng phía trước.",
+      "grading": {
+        "target_ordinal": 3,
+        "expected_total_width_cm": 20.56,
+        "width_tolerance_cm": 0.4,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T09_long_multipage_table",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "long_multipage_table"},
+      "prompt_vi": "Trong báo cáo thống kê dài này, giữ nguyên bảng tóm tắt ngắn ở phần đầu, chỉ thu nhỏ bảng danh mục thống kê nhiều trang (28 dòng dữ liệu) ở phần sau xuống 80% và căn giữa bảng.",
+      "grading": {
+        "target_ordinal": 2,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T10_nfd_vietnamese_med",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "nfd_vietnamese_med"},
+      "prompt_vi": "Báo cáo này copy text từ macOS nên chứa chữ tổ hợp. Hãy thu nhỏ đúng bảng đầu tiên liệt kê danh sách đơn vị phối hợp xuống 80% và căn giữa, giữ nguyên bảng lịch làm việc phía sau và toàn bộ văn bản.",
+      "grading": {
+        "target_ordinal": 1,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T11_impossible_narrow_col_refusal",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "refuse",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "impossible_narrow_col_med"},
+      "prompt_vi": "Hãy đặt lại độ rộng 4 cột của bảng trong tài liệu này lần lượt thành 0.3cm, 5cm, 5cm và 3cm.",
+      "grading": {
+        "refusal_reason": "Cột đầu tiên chứa văn bản sẽ bị co xuống 0.3 cm (< 0.51 cm), làm vỡ ký tự theo từng chữ."
+      }
+    },
+    {
+      "id": "T12_pagination_ripple_awareness",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "nearly_full_page_ripple"},
+      "prompt_vi": "Hãy thu nhỏ bảng trong file này xuống 55% bề rộng hiện tại và căn giữa bảng. Sau khi chỉnh, nhớ kiểm tra kỹ xem đoạn 'ĐOẠN XÁC NHẬN CUỐI TRANG ĐỂ ĐO PAGINATION RIPPLE' có bị đẩy sang trang 2 không và ghi kết quả thật vào trường pagination_ripple (true/false) trong JSON kết quả.",
+      "grading": {
+        "target_ordinal": 1,
+        "expected_total_width_cm": 9.08,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_pagination_ripple": true
+      }
+    },
+    {
+      "id": "T13_screenshot_cropped_similar_tables",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "has_screenshot": true,
+      "screenshot_table_ordinal": 2,
+      "source_spec": {"kind": "generated", "generator": "screenshot_three_similar_tables"},
+      "prompt_vi": "Tài liệu này có 3 bảng thống kê cùng mẫu 3 cột qua các phần. Hãy xem ảnh chụp cắt riêng một bảng đính kèm (user_screenshot.png), tìm đúng bảng duy nhất đó trong file Word rồi thu gọn xuống còn 80% bề rộng hiện tại và căn giữa bảng; giữ nguyên hoàn toàn hai bảng còn lại và mọi đoạn văn bản.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T14_table_cell_margins_and_font_nd30",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "nd30_dense_table_font_margins"},
+      "prompt_vi": "Trong công văn hành chính NĐ30 này, phần bảng dự toán kinh phí ở giữa hơi thô. Hãy chỉnh bảng dự toán đó sao cho: giữ nguyên cỡ chữ 14pt in đậm ở dòng tiêu đề, hạ cỡ chữ toàn bộ các dòng dữ liệu bên dưới xuống 12pt, và đặt lề trong các ô thống nhất là trên 0.12cm, dưới 0.12cm, trái 0.18cm, phải 0.18cm (xóa lề ô lệch riêng nếu có). Tuyệt đối không chạm vào phần Quốc hiệu ở đầu trang hay Nơi nhận và chữ ký phía dưới.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_max_drift_cm": 0.35,
+        "expected_cell_margins_cm": {"top": 0.12, "bottom": 0.12, "left": 0.18, "right": 0.18},
+        "margin_tolerance_cm": 0.03,
+        "require_no_cell_margin_overrides": true,
+        "expected_data_font_pt": 12.0,
+        "expected_header_font_pt": 14.0,
+        "require_header_bold": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T15_image_scale_aspect_ratio",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "overflow_image_and_icon"},
+      "prompt_vi": "Hình ảnh sơ đồ kích thước lớn đầu tài liệu đang tràn ra ngoài vùng in của trang A4. Hãy thu nhỏ riêng hình sơ đồ bị tràn đó xuống bề rộng 12cm sao cho giữ đúng tỷ lệ khung hình ban đầu và căn giữa ảnh; giữ nguyên biểu tượng nhỏ bên dưới và toàn bộ văn bản.",
+      "grading": {
+        "target_kind": "image",
+        "target_image_ordinal": 1,
+        "expected_image_width_cm": 12.0,
+        "image_width_tolerance_cm": 0.25,
+        "max_aspect_ratio_delta_pct": 2.0,
+        "expected_image_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T16_party_hd05_paragraph_format",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "party_hd05_misformatted_body"},
+      "prompt_vi": "Đây là văn bản của tổ chức Đảng. Ba đoạn văn nội dung nằm ngay dưới tiêu đề 'I. KẾT QUẢ THỰC HIỆN' hiện bị căn trái, không thụt lề đầu dòng và giãn dòng quá hẹp. Hãy định dạng lại CHỈ ba đoạn văn đó cho đúng quy định thể thức văn bản Đảng (Hướng dẫn 05-HD/VPTW năm 2026: căn đều hai bên, thụt đầu dòng chuẩn, giãn dòng cố định đúng khung chuẩn và có khoảng cách sau đoạn tối thiểu), tuyệt đối không sửa tiêu đề hay phần đầu trang và chữ ký không viền.",
+      "grading": {
+        "target_kind": "paragraph",
+        "target_paragraph_ordinals": [4, 5, 6],
+        "expected_para_align": "both",
+        "expected_first_line_cm_range": [0.9, 1.15],
+        "expected_line_rule": "exact",
+        "expected_line_pt_range": [18.0, 22.0],
+        "min_para_spacing_pt": 6.0
+      }
+    },
+    {
+      "id": "T17_screenshot_ambiguous_identical_tables_refusal",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "refuse",
+      "spot_check_inherit": true,
+      "has_screenshot": true,
+      "screenshot_table_ordinal": 1,
+      "source_spec": {"kind": "generated", "generator": "screenshot_two_identical_tables"},
+      "prompt_vi": "Hãy xem ảnh chụp cắt riêng một bảng trong file user_screenshot.png, xác định chính xác DUY NHẤT một bảng tương ứng với ảnh đó trong tài liệu Word rồi thu nhỏ bảng đó xuống 80% và căn giữa; tuyệt đối không được sửa nhầm sang bảng khác nếu không chắc chắn phân biệt được.",
+      "grading": {
+        "refusal_reason": "Tài liệu có hai bảng (Phụ lục 1 và Phụ lục 2) hoàn toàn giống hệt nhau về cấu trúc, tiêu đề và toàn bộ nội dung ô; ảnh chụp user_screenshot.png bị cắt sát bảng không chứa tiêu đề mục hay số trang nên không thể xác định duy nhất bảng nào cần sửa."
+      }
+    },
+    {
+      "id": "T18_combined_multi_op_long_doc",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "long_combined_table_img_para"},
+      "prompt_vi": "Trong báo cáo tổng kết nhiều trang này, hãy giữ nguyên bảng tóm tắt ở Phần 1 và toàn bộ các đoạn văn khác, chỉ thực hiện đồng thời 3 chỉnh sửa sau: (1) thu nhỏ bảng chi tiết ở Phần 3 xuống 80% bề rộng hiện tại, căn giữa bảng và chỉnh cỡ chữ các dòng dữ liệu bảng xuống 12pt nhưng giữ nguyên dòng tiêu đề bảng 14pt; (2) thu nhỏ hình ảnh sơ đồ ở Phần 2 xuống bề rộng 11.5cm (giữ nguyên tỷ lệ khung hình) và căn giữa hình; (3) căn giữa đoạn chú thích 'Hình 1: Sơ đồ kiến trúc tổng thể hệ thống' và bật thuộc tính giữ liền với đoạn sau (keep with next) để chú thích không tách khỏi hình.",
+      "grading": {
+        "target_kind": "multi",
+        "target_ordinal": 2,
+        "expected_total_width_cm": 13.2,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "expected_data_font_pt": 12.0,
+        "expected_header_font_pt": 14.0,
+        "target_image_ordinal": 1,
+        "expected_image_width_cm": 11.5,
+        "image_width_tolerance_cm": 0.25,
+        "max_aspect_ratio_delta_pct": 2.0,
+        "expected_image_alignment": "center",
+        "target_paragraph_text_match": "Hình 1: Sơ đồ kiến trúc tổng thể hệ thống",
+        "expected_para_align": "center",
+        "expected_keep_with_next": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T19_table_pagination_repeat_header_cantsplit",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "long_multipage_table"},
+      "prompt_vi": "Trong báo cáo thống kê dài này, giữ nguyên bảng tóm tắt ở phần đầu và mọi văn bản khác, chỉ chỉnh bảng danh mục thống kê nhiều trang (28 dòng dữ liệu) ở phần sau sao cho dòng tiêu đề đầu tiên tự động lặp lại khi sang trang mới và không có dòng nào bị cắt đôi qua hai trang.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_max_drift_cm": 0.35,
+        "expected_repeat_header": true,
+        "expected_cant_split": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T20_table_borders_and_header_shading",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "table_borders_shading_src"},
+      "prompt_vi": "Hãy giữ nguyên nội dung bảng số liệu trong tài liệu này, chỉ đồng bộ đường viền bảng thành nét đơn dày 0.75pt (sz=6) màu xanh đậm 1F4E79 và tô nền màu xanh nhạt D9E2F3 cho riêng dòng tiêu đề đầu bảng.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_width_max_drift_cm": 0.35,
+        "expected_border_style": "single",
+        "expected_border_color": "1F4E79",
+        "expected_header_shading_fill": "D9E2F3",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T21_style_update_normal_global",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "style_update_medium_src"},
+      "prompt_vi": "Hãy cập nhật định nghĩa style 'Normal' toàn cục trong file styles.xml sao cho sử dụng font Times New Roman, cỡ 14pt, màu chữ 112233, giãn dòng cố định 20pt và khoảng cách sau đoạn 6pt; tuyệt đối không làm thay đổi nội dung trực tiếp trong document.xml.",
+      "grading": {
+        "target_kind": "style",
+        "target_style_name": "Normal",
+        "expected_style_font": "Times New Roman",
+        "expected_style_size_pt": 14.0,
+        "expected_style_color": "112233",
+        "expected_style_line_rule": "exact",
+        "expected_style_line_pt": 20.0,
+        "expected_style_space_after_pt": 6.0,
+        "require_document_xml_unchanged": true
+      }
+    },
+    {
+      "id": "T22_section_landscape_appendix_layout",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "two_portrait_sections_appendix"},
+      "prompt_vi": "Tài liệu này có 2 section khổ đứng. Hãy giữ nguyên section 1, chỉ xoay riêng section 2 (phần phụ lục) sang khổ A4 nằm ngang với lề trên 2.0cm, dưới 2.0cm, trái 2.5cm và phải 2.0cm.",
+      "grading": {
+        "target_kind": "section",
+        "target_section_index": 2,
+        "expected_orientation": "landscape",
+        "expected_section_margins_cm": {"top": 2.0, "bottom": 2.0, "left": 2.5, "right": 2.0},
+        "keep_section1_portrait": true
+      }
+    },
+    {
+      "id": "T23_paragraph_merge_fragmented_runs",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "fragmented_runs_src"},
+      "prompt_vi": "Đoạn văn đầu tiên trong file này bị tách vụn thành nhiều mảnh run giống nhau khi copy từ nguồn khác. Hãy gộp gọn các mảnh run văn bản thuần có định dạng giống hệt nhau trong đoạn đầu tiên đó nhưng vẫn giữ nguyên phần chữ in đậm và toàn bộ nội dung chữ, đồng thời giữ nguyên các đoạn phía sau.",
+      "grading": {
+        "target_kind": "merge_runs",
+        "target_paragraph_ordinals": [1],
+        "max_run_count_after": 3
+      }
+    },
+    {
+      "id": "T24_track_changes_table_scale",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "overflow_wide_table"},
+      "prompt_vi": "Hãy thu nhỏ bảng trong file này xuống 80% bề rộng hiện tại và căn giữa bảng, đồng thời bật chế độ ghi dấu vết chỉnh sửa (track changes) vào XML của bảng để người duyệt kiểm tra thay đổi.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_total_width_cm": 16.0,
+        "width_tolerance_cm": 0.4,
+        "expected_alignment": "center",
+        "require_track_changes_tags": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T25_auto_paginate_orphan_nd30_signature",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "nd30_orphan_signature_2p"},
+      "prompt_vi": "Công văn hành chính NĐ30 này đang bị đẩy phần Nơi nhận và chữ ký rơi lẻ sang trang 2. Hãy co gọn bố cục một cách an toàn đúng quy chuẩn hành chính NĐ30 (không sửa bất kỳ từ nào và không vi phạm quy định font/lề) sao cho toàn bộ công văn vừa khít trong 1 trang.",
+      "grading": {
+        "target_kind": "paginate",
+        "expected_max_pages": 1,
+        "require_no_orphan_signature": true,
+        "validate_profile": "administrative"
+      }
+    },
+    {
+      "id": "T26_auto_paginate_target_2pages_report",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "academic_3pages_src"},
+      "prompt_vi": "Báo cáo học thuật này hiện dài 3 trang. Hãy tự động điều chỉnh khoảng cách bố cục (tuyệt đối không cắt xén hay thay đổi bất kỳ câu chữ nào) để toàn bộ báo cáo gói gọn trong tối đa 2 trang.",
+      "grading": {
+        "target_kind": "paginate",
+        "expected_max_pages": 2,
+        "validate_profile": "academic"
+      }
+    },
+    {
+      "id": "T27_complex_word365_namespaces_mc_alternate",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "spot_check_inherit": true,
+      "source_spec": {"kind": "generated", "generator": "word365_complex_src"},
+      "prompt_vi": "Tài liệu Word 365 này chứa namespace mở rộng (w14, w15, mc:Ignorable) và khối mc:AlternateContent. Hãy thu nhỏ bảng dữ liệu xuống 85% bề rộng hiện tại và giữ nguyên hoàn toàn các khai báo namespace gốc, mc:Ignorable và nội dung không liên quan.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_total_width_cm": 14.02,
+        "width_tolerance_cm": 0.4,
+        "require_namespace_audit_pass": true,
+        "require_mc_alternate_preserved": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T28_signed_docx_refusal",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "refuse",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "signed_docx_src"},
+      "prompt_vi": "Hãy thu nhỏ bảng trong tài liệu đã ký số này xuống 80% và căn giữa giúp mình.",
+      "grading": {
+        "refusal_reason": "Tài liệu chứa chữ ký số OOXML (_xmlsignatures/); mọi chỉnh sửa làm mất hiệu lực chữ ký số nên phải từ chối an toàn."
+      }
+    },
+    {
+      "id": "T29_nested_header_footer_preservation",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "header_footer_table_src"},
+      "prompt_vi": "Báo cáo này có header và footer riêng theo mẫu cơ quan. Hãy thu nhỏ bảng dữ liệu chính ở thân văn bản xuống 85% và căn giữa bảng, bảo đảm file header và footer không bị sửa đổi dù chỉ một byte.",
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_total_width_cm": 14.02,
+        "width_tolerance_cm": 0.4,
+        "expected_alignment": "center",
+        "require_header_footer_byte_identical": true,
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "id": "T30_long_full_pipeline_nd30_report",
+      "length_tier": "long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "spot_check_inherit": false,
+      "source_spec": {"kind": "generated", "generator": "long_nd30_full_report_src"},
+      "prompt_vi": "Trong công văn kèm phụ lục dài theo NĐ30 này, tuyệt đối không chạm vào bảng Quốc hiệu đầu trang và khối Nơi nhận/Chữ ký cuối văn bản; hãy thực hiện đồng thời: (1) thu nhỏ bảng số liệu chính ở giữa xuống 85% bề rộng hiện tại, căn giữa bảng, bật lặp lại dòng tiêu đề khi sang trang và hạ cỡ chữ các dòng dữ liệu xuống 12pt (giữ nguyên dòng tiêu đề 14pt in đậm); (2) thu nhỏ hình sơ đồ đang quá khổ xuống bề rộng 11.5cm (giữ tỷ lệ khung hình) và căn giữa ảnh; (3) căn giữa đoạn chú thích 'Hình 1: Sơ đồ quy trình xử lý văn bản điện tử' và bật giữ liền với đoạn sau.",
+      "grading": {
+        "target_kind": "multi",
+        "target_ordinal": 2,
+        "expected_total_width_cm": 14.02,
+        "width_tolerance_cm": 0.4,
+        "expected_alignment": "center",
+        "expected_repeat_header": true,
+        "expected_data_font_pt": 12.0,
+        "expected_header_font_pt": 14.0,
+        "require_header_bold": true,
+        "target_image_ordinal": 1,
+        "expected_image_width_cm": 11.5,
+        "image_width_tolerance_cm": 0.25,
+        "max_aspect_ratio_delta_pct": 2.0,
+        "expected_image_alignment": "center",
+        "target_paragraph_text_match": "Hình 1: Sơ đồ quy trình xử lý văn bản điện tử",
+        "expected_para_align": "center",
+        "expected_keep_with_next": true,
+        "max_overflow_right_mm": 0.5
+      }
+    }
+  ]
+}
