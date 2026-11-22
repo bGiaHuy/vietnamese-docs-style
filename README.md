@@ -1,8 +1,17 @@
 # Vietnamese Docs Style
 
-**Chỉnh sửa phong cách tạo docx của AI cho phù hợp với yêu cầu về văn bản của Việt Nam.**
+Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent, cán bộ hành chính, nhân viên văn phòng, sinh viên và lập trình viên tạo, điền mẫu và kiểm tra file Word (`.docx`) theo đúng quy ước trình bày Việt Nam (Nghị định 30/2020/NĐ-CP, báo cáo học thuật, biên bản họp).
 
-*Localizing AI-powered Word document generation for Vietnam.*
+*Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, academic, and office conventions.*
+
+[![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
+[![Static Checks](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
+[![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
+[![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
+
+**Trạng thái:** `v0.2.0` (`42/42` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài trực tiếp từ mã nguồn (`pip install -e .`) hoặc xuất file ZIP skill qua `vndocs package`.
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -10,437 +19,273 @@
 
 # Tiếng Việt
 
-## Công cụ hiện tại / Current tools
+## Bằng chứng trực quan
 
-Giữ tên skill `vietnamese-docx`. Hỗ trợ text trực tiếp và DOCX theo loại/mẫu;
-quy trình chính nằm trong [SKILL.md](SKILL.md). Nguồn mẫu ứng viên và trạng thái
-kiểm tra nằm trong [template-sources.md](references/template-sources.md).
+Ảnh dưới là kết quả render trực tiếp (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang do skill tạo ra với dữ liệu giả định**:
 
-Python 3.10+; LibreOffice cần được cài riêng để render. Cài dependency:
+| Trang 1 — Header NĐ30, căn cứ và bảng lặp tiêu đề | Trang 2 — Số trang `2` căn giữa, nơi nhận và khối ký |
+| :---: | :---: |
+| ![Thông báo 2 trang tạo bằng skill — Trang 1](docs/images/skill-generated-notice-p1.png) | ![Thông báo 2 trang tạo bằng skill — Trang 2](docs/images/skill-generated-notice-p2.png) |
+
+Tệp nguồn vượt qua `validate_docx.py --profile administrative` với 0 lỗi: khổ A4 (`21.0 × 29.7 cm`), lề NĐ30 (`3.0 / 1.5 / 2.0 / 2.0 cm`), bảng đầu 2×2 giữ `Số:` và `Ngày` cùng hàng ngang, đường kẻ dưới Tiêu ngữ dài `4.95 cm` khớp bề ngang chữ, ẩn số trang ở trang 1 và hiện `2` căn giữa ở đầu trang 2. File minh họa giữ nguyên vùng ký trống, không tạo chữ ký hay con dấu giả.
+
+<details>
+<summary>So sánh thêm: file Word mặc định (Before) vs. starter sau audit (After) và đối chiếu văn bản cơ quan nhà nước</summary>
+
+| Mặc định không hướng dẫn (`before-naive`) | Starter NĐ30 sau audit (`after-audit-notice`) |
+| :---: | :---: |
+| ![Before: file docx mặc định](docs/images/before-naive.png) | ![After: starter NĐ30 sau audit](docs/images/after-audit-notice.png) |
+| **`validate_docx.py` → `fail` (4 lỗi):** khổ US Letter (`21.59 × 27.94 cm`), lề mặc định (`3.18 / 2.54 cm`), font Calibri theme, dùng dấu `---` làm đường kẻ, thiếu bố cục `Số:`/`Ngày` và `Nơi nhận:`. | **`validate_docx.py` → `pass` (0 lỗi):** khổ A4, lề chuẩn NĐ30, Times New Roman `#000000`, `Số:` và `Ngày` thẳng hàng trong bảng 2×2, đường kẻ Tiêu ngữ `4.95 cm`, ghi chú ký in nghiêng khóa `cantSplit`. |
+
+Xem thêm so sánh Starter Trước/Sau Audit và kết quả chạy validator trên 2 văn bản `.docx` thật tại Việt Nam (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) ở [evals/audit-comparison.md](evals/audit-comparison.md).
+
+</details>
+
+## Giới thiệu ngắn
+
+Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy ước địa phương, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
+
+`vietnamese-docs-style` tách rõ hai phần: bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), [GEMINI.md](GEMINI.md), `references/`) để agent chọn đúng thể thức ngay từ đầu, đi kèm CLI `vndocs` để dựng file, điền mẫu giữ nguyên XML gốc, kiểm tra định dạng và render ảnh từng trang.
+
+## Tính năng chính
+
+- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 7 profile; NĐ30/2020 chỉ áp dụng cho văn bản hành chính thuộc phạm vi quy định, không ép lên bài học thuật hay tài liệu nội bộ doanh nghiệp.
+- Điền token `{{name}}` (kể cả khi Word tách token qua nhiều run) bằng `vndocs fill` hoặc vá đúng vị trí văn bản bằng `vndocs edit --source-sha256`, giữ nguyên từng byte của các thành phần XML ngoài vùng sửa.
+- Kiểm tra khổ giấy, lề từng section, font/màu kế thừa, named style role, placeholder sót (`{{...}}`, `[CẦN BỔ SUNG: ...]`) và tham chiếu numbering qua `vndocs validate`, kèm danh sách `unchecked` cho phần chưa kiểm tra.
+- Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm cô lập (`vndocs render --png`), tránh trường hợp PDF cũ nằm sẵn trên đĩa bị nhận nhầm là bản mới.
+- Hỗ trợ dựng tài liệu từ đầu (`scripts/build_docx.py`) với trường số trang `PAGE` thật và đóng gói bản phân phối ZIP gọn sạch (`vndocs package`) không dính dữ liệu nghiên cứu hay test.
+
+### Phạm vi hỗ trợ theo Profile
+
+| Profile | Nhóm tài liệu | Rule & Validator | Starter template sẵn có |
+| --- | --- | --- | --- |
+| `administrative` | Thông báo, công văn, quyết định thuộc NĐ30/2020 | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx) (tham chiếu Mẫu 1.4 NĐ30) |
+| `academic` | Báo cáo học thuật ngắn, tiểu luận, học phần | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx) |
+| `minutes-general` | Biên bản họp nhóm, họp nội bộ doanh nghiệp | Đầy đủ | [`office-minutes`](assets/templates/office-minutes.docx) |
+| `office` | Thông báo, ghi nhớ, báo cáo nội bộ văn phòng | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
+| `proposal` | Đề xuất dự án, kế hoạch công việc | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
+| `minutes-administrative` | Biên bản thủ tục hành chính cụ thể | Rule lề/font/số trang | Chọn mẫu đúng thủ tục thực tế |
+| `custom` | Biểu mẫu `.docx` riêng của trường/cơ quan/công ty | Giữ mẫu; kiểm theo `--config` | Người dùng cung cấp ([ví dụ config](assets/rules/custom-example.json)) |
+
+<details>
+<summary>Benchmark công cụ tái lập: Baseline 0/6 pass vs. Skill-guided 6/6 pass</summary>
+
+Chạy qua `python evals/run_validation_benchmark.py` trên **12 case deterministic** (6 file baseline tạo bằng `python-docx` mặc định vs. 6 đầu ra qua starter/builder/config của skill). Đây là phép đo hành vi cố định của bộ công cụ DOCX, không phải benchmark đo khả năng sinh văn bản của nhiều LLM trên prompt tự nhiên (xem đánh giá thủ công ở [evals/manual-results.md](evals/manual-results.md)).
+
+| Hạng mục kiểm tra (`validate_docx.py`) | Baseline mặc định | Đầu ra dùng Skill |
+| --- | :---: | :---: |
+| Tổng số case đạt `pass` | **0 / 6** | **6 / 6** |
+| Khổ giấy & lề NĐ30 (`page`, `margin`) | 3/3 case hành chính lỗi | 0 lỗi |
+| Font & màu chữ (`font`, `color`) | 2/3 case gán sai bị bắt | 0 lỗi |
+| Placeholder sót / `numId` hỏng | 3/3 case lỗi bị bắt | 0 lỗi |
+
+</details>
+
+## Cách bắt đầu
+
+**Yêu cầu hệ thống:** Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` cài tự động). LibreOffice chỉ cần khi xuất PDF/PNG bằng `vndocs render`.
 
 ```bash
-python -m pip install -r requirements-dev.txt
-python scripts/create_demo.py --output-dir artifacts/demo
-python scripts/validate_docx.py artifacts/demo/office-filled.docx --profile minutes-general
-python scripts/render_docx.py artifacts/demo/office-filled.docx --png
-python -m pytest -q
+git clone https://github.com/bGiaHuy/vietnamese-docs-style.git
+cd vietnamese-docs-style
+python -m pip install -e .
+# Nếu chỉ chạy trực tiếp `python scripts/...py` và không dùng `vndocs`:
+# python -m pip install -r requirements.txt
+vndocs doctor
 ```
 
-Điền mẫu có token `{{name}}`: `python scripts/fill_template.py template.docx output.docx --values values.json`.
-Mẫu không token có thể sửa bằng `scripts/edit_docx.py` với hash nguồn và slot map đã xác minh. Ba starter do dự án viết nằm ở `assets/templates/`; xem [cách chọn](references/starter-templates.md).
+Người dùng cuối không cần cài `requirements-dev.txt`.
 
-Mẫu tùy chỉnh dùng `--profile custom --config rules.json`; ví dụ config ở
-`assets/rules/custom-example.json`. Không áp setup mặc định lên mẫu có sẵn.
+### Tương thích AI Agent
 
-Validator trả pass/fail/partial cho phạm vi đã kiểm tra, luôn công bố unchecked;
-không chứng nhận pháp lý hay bố cục. Render tạo file thật, cần mở xem ảnh để
-nghiệm thu. Xem [tooling.md](references/tooling.md) cho exit code và giới hạn.
-Demo là dữ liệu giả có nhãn, không phải mẫu hành chính được chứng nhận. Đóng gói local bằng `python scripts/package_skill.py`; gói loại dữ liệu nghiên cứu, file bên thứ ba và runtime. Đánh giá hành vi text/query ở `evals/` là đánh giá thủ công, không phải benchmark model độc lập.
+| AI Agent / IDE | Tệp cấu hình trong repo | Cách tích hợp |
+| --- | --- | --- |
+| **Claude Code** | [SKILL.md](SKILL.md) | Đọc `SKILL.md` trong repo hoặc cài từ ZIP đóng gói qua `vndocs package --output dist/vietnamese-docx.zip` |
+| **OpenAI Codex** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Tự đọc `AGENTS.md` ở thư mục gốc và nạp `SKILL.md` theo nhu cầu |
+| **Cursor** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở repo làm workspace để nhận `AGENTS.md`, hoặc gắn `SKILL.md` vào rule/context |
+| **Gemini CLI** | [GEMINI.md](GEMINI.md), [SKILL.md](SKILL.md) | Tự nạp `GEMINI.md` ở thư mục gốc và tra cứu `SKILL.md` / `references/` |
+| **Antigravity** | [SKILL.md](SKILL.md), [GEMINI.md](GEMINI.md), [AGENTS.md](AGENTS.md) | Nhận diện tự động quy tắc dự án và skill tại thư mục gốc |
+| **GitHub Copilot (VS Code)** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc hướng dẫn repo qua `AGENTS.md` / `SKILL.md` trong workspace |
+| **Windsurf** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở workspace chứa `AGENTS.md` và trỏ agent tới `SKILL.md` |
+| **OpenCode / Cline / Roo Code** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc chuẩn `AGENTS.md` ở gốc repo và gọi lệnh `vndocs` |
 
----
+## Cách sử dụng
 
-## Giới thiệu
+### Chạy thử bộ demo
 
-**AI có thể tạo tài liệu Word, nhưng liệu AI có thực sự hiểu cách người Việt Nam trình bày văn bản?**
+```bash
+vndocs demo --output-dir artifacts/demo
+vndocs validate artifacts/demo/office-filled.docx --profile minutes-general
+vndocs render artifacts/demo/office-filled.docx --png
+```
 
-`vietnamese-docs-style` là một AI Agent Skill hỗ trợ tạo, định dạng, biên tập và kiểm tra tài liệu Word (`.docx`) theo các quy ước trình bày, cấu trúc và văn phong phù hợp với bối cảnh sử dụng tại Việt Nam.
+### Thao tác thường dùng với CLI và Agent
 
-Dự án được xây dựng nhằm thu hẹp khoảng cách giữa khả năng tạo tài liệu của AI và những yêu cầu thực tế trong môi trường học thuật, hành chính và tổ chức tại Việt Nam.
+- **Điền starter có sẵn (`{{token}}`):**
+  ```bash
+  vndocs fill assets/templates/administrative-notice.docx artifacts/notice.docx --values assets/templates/administrative-notice.values.json
+  vndocs validate artifacts/notice.docx --profile administrative --config assets/templates/administrative-notice.rules.json
+  ```
+- **Sửa giữ nguyên mẫu có sẵn không dùng token:**
+  ```bash
+  vndocs edit source.docx artifacts/edited.docx --edits slots.json --source-sha256 <SHA256>
+  ```
+- **Prompt mẫu gửi AI Agent:**
+  - *Hành chính:* `Tạo file DOCX thông báo lịch họp theo thể thức NĐ30/2020; chỗ nào thiếu thông tin ký hoặc số văn bản thì đánh dấu [CẦN BỔ SUNG: ...].`
+  - *Học thuật:* `Viết báo cáo học thuật ngắn về ứng dụng AI trong giáo dục (chưa có mẫu trường), không tự thêm số liệu nghiên cứu.`
+  - *Biên bản họp:* `Chuyển ghi chú họp sau thành biên bản họp nội bộ gồm thảo luận, quyết định đã chốt và bảng phân công.`
+  - *Mẫu riêng:* `Điền dữ liệu vào mẫu DOCX đính kèm và giữ nguyên style, bảng, header/footer ngoài vùng sửa.`
 
-## 1. Vấn đề đặt ra
+Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `1` fail, `2` partial) nằm tại [references/tooling.md](references/tooling.md).
 
-Sự phát triển của các mô hình ngôn ngữ lớn (LLM) và AI Agent đã giúp việc tạo tài liệu trở nên dễ dàng hơn. Người dùng có thể yêu cầu AI viết một báo cáo, soạn công văn hoặc xuất trực tiếp nội dung thành file DOCX.
+## Giới hạn và tích hợp
 
-Tuy nhiên, **khả năng tạo ra một file Word hợp lệ không đồng nghĩa với khả năng tạo ra một tài liệu được trình bày đúng quy cách.**
+- **Cài đặt LibreOffice (tùy chọn để render PNG):**
+  - Windows: `winget install TheDocumentFoundation.LibreOffice`
+  - macOS: `brew install --cask libreoffice`
+  - Ubuntu / Debian: `sudo apt-get update && sudo apt-get install -y libreoffice-writer fonts-liberation`
+  - Nếu `soffice` không có trong `PATH`, truyền `--renderer` hoặc đặt biến môi trường `VNDOCS_RENDERER`.
+- **Tài khoản và quota:** CLI `vndocs` và toàn bộ script trong `scripts/` chạy offline trên máy, không cần API key hay tài khoản. Khi chạy qua AI Agent, lượng token sử dụng phụ thuộc vào gói tài khoản hoặc API của agent bạn đang dùng.
+- **Phạm vi chưa hỗ trợ:**
+  - `validate_docx.py` không chứng nhận hợp lệ pháp lý hay tính chính xác của dữ liệu; văn bản hành chính chính thức vẫn cần người chịu trách nhiệm kiểm tra trước khi phát hành.
+  - Công cụ từ chối sửa các file `.docx` đã ký số (`_xmlsignatures/`) và không tạo chữ ký hay con dấu giả.
+  - Phần `unchecked` trong báo cáo kiểm tra gồm: theme font/color phức tạp, conditional table style, text box, chart, footnote/endnote, tracked revisions và tính đúng của thứ tự đánh số/cập nhật field.
 
-Các mẫu định dạng phổ thông mà AI sử dụng có thể phù hợp với một số quy ước quốc tế, nhưng chưa chắc đáp ứng yêu cầu tại Việt Nam.
+## Dữ liệu và quyền riêng tư
 
-Chẳng hạn:
+- Toàn bộ xử lý `.docx` qua `vndocs` và `scripts/` diễn ra cục bộ trên máy. Đầu ra mặc định lưu trong `artifacts/` và `dist/` (cả hai đã nằm trong `.gitignore`).
+- Bộ công cụ Python không gửi telemetry, không đồng bộ đám mây và không mở kết nối mạng ra ngoài; khi render, LibreOffice chạy với profile tạm trong thư mục temp cục bộ.
+- Nếu bạn sử dụng skill thông qua AI Agent chạy trên đám mây, nội dung prompt tuân theo chính sách dữ liệu của nhà cung cấp mô hình đó — không dán tài liệu mật hoặc thông tin nhạy cảm chưa được phép lên dịch vụ ngoài.
 
-- **Văn bản hành chính** có những quy định về thể thức và kỹ thuật trình bày theo Nghị định 30/2020/NĐ-CP.
-- **Báo cáo học thuật** thường phải tuân theo hướng dẫn riêng của từng trường đại học hoặc cơ sở đào tạo.
-- **Biên bản và đề xuất dự án** có bố cục, cách diễn đạt và mức độ trang trọng phụ thuộc vào mục đích sử dụng.
-- **Tài liệu nội bộ** có thể cần tuân theo những mẫu được tổ chức quy định sẵn.
+## Thông tin cho người đóng góp
 
-Sự khác biệt không chỉ nằm ở phông chữ, cỡ chữ hay căn lề, mà còn ở cấu trúc nội dung, hệ thống đề mục, cách trình bày bảng biểu và văn phong.
+- **Công nghệ chính:** Python 3.10+, `python-docx`, `lxml`, `PyMuPDF`, LibreOffice (render), `pytest`, `ruff`.
+- **Cài môi trường dev và chạy bộ kiểm tra:**
+  ```bash
+  python -m pip install -e ".[dev]"
+  python -m ruff check .
+  python -m compileall -q scripts tests evals
+  python -m pytest -q
+  python evals/run_validation_benchmark.py
+  ```
+- **Báo lỗi và đóng góp:** Mở issue tại [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) hoặc gửi Pull Request theo hướng dẫn tại [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Điều này đặt ra một câu hỏi:
-
-**Làm thế nào để AI không chỉ viết tài liệu bằng tiếng Việt, mà còn hiểu cách trình bày tài liệu phù hợp với từng bối cảnh tại Việt Nam?**
-
-## 2. Quá trình nghiên cứu và phát triển
-
-`vietnamese-docs-style` được phát triển từ nhu cầu giải quyết những bất cập trong quá trình sử dụng AI để tạo tài liệu tiếng Việt.
-
-Thay vì xây dựng một template cố định, dự án tiếp cận vấn đề bằng cách nghiên cứu và hệ thống hóa các quy tắc trình bày, cấu trúc và biên tập tài liệu.
-
-Những nội dung được tập trung bao gồm:
-
-- Các quy định về thể thức văn bản hành chính Việt Nam.
-- Quy ước trình bày báo cáo học thuật và tài liệu nghiên cứu.
-- Cấu trúc của những loại biên bản, kế hoạch và đề xuất.
-- Cách sử dụng tiếng Việt trong văn bản trang trọng.
-- Những khác biệt giữa yêu cầu định dạng chung và yêu cầu riêng của từng tổ chức.
-
-Các kết quả được tổ chức thành hệ thống tài liệu tham chiếu (`references`), hướng dẫn dành cho AI Agent và những công cụ hỗ trợ xử lý DOCX.
-
-Thay vì buộc người dùng phải giải thích lại toàn bộ quy tắc trình bày trong mỗi lần yêu cầu, skill cung cấp một cơ sở hướng dẫn có thể tái sử dụng.
-
-## 3. Giải pháp
-
-Vietnamese Docs Style hoạt động như một lớp tri thức chuyên biệt, giúp AI Agent lựa chọn cách tạo tài liệu theo ngữ cảnh.
-
-### Phân loại tài liệu
-
-Skill xác định nhóm tài liệu trước khi lựa chọn những quy tắc định dạng và cấu trúc phù hợp.
-
-| Profile | Nhóm tài liệu |
-|---|---|
-| `office` | Tài liệu văn phòng, thông báo và báo cáo nội bộ |
-| `administrative` | Văn bản hành chính |
-| `academic` | Báo cáo học thuật, tiểu luận, nghiên cứu |
-| `proposal` | Đề xuất dự án, kế hoạch |
-| `minutes-administrative` | Biên bản hành chính |
-| `minutes-general` | Biên bản họp thông thường |
-| `custom` | Tài liệu theo mẫu riêng |
-
-### Áp dụng quy tắc theo ngữ cảnh
-
-Một nguyên tắc quan trọng của dự án là **không áp dụng một tiêu chuẩn duy nhất cho tất cả tài liệu tiếng Việt**.
-
-Chẳng hạn, Nghị định 30/2020/NĐ-CP được sử dụng làm cơ sở tham chiếu cho những văn bản hành chính thuộc phạm vi áp dụng, thay vì áp đặt lên mọi báo cáo học thuật hay tài liệu doanh nghiệp.
-
-Khi người dùng cung cấp mẫu hoặc yêu cầu riêng, AI Agent được hướng dẫn xem xét những yêu cầu đó cùng các quy định liên quan.
-
-### Hỗ trợ tạo và kiểm tra DOCX
-
-Dự án cung cấp các công cụ Python nhằm hỗ trợ:
-
-- Thiết lập khổ giấy, căn lề, phông chữ và định dạng cơ bản.
-- Xây dựng đoạn văn, tiêu đề, bảng và một số thành phần tài liệu.
-- Kiểm tra một số thuộc tính cấu trúc và định dạng.
-- Phát hiện những placeholder chưa được xử lý.
-
-## 4. Quy trình hoạt động
-
-**Bước 1 — Phân tích yêu cầu**
-
-Xác định loại tài liệu, mục đích sử dụng, thông tin đầu vào và những yêu cầu định dạng đặc biệt.
-
-**Bước 2 — Lựa chọn Document Profile**
-
-Chọn nhóm tài liệu tương ứng và xác định bộ quy tắc cần sử dụng.
-
-**Bước 3 — Tham chiếu quy chuẩn**
-
-AI Agent đọc các tài liệu trong `references/` để lựa chọn cách trình bày, cấu trúc và văn phong thích hợp.
-
-**Bước 4 — Tạo tài liệu**
-
-Sử dụng hướng dẫn và các công cụ hỗ trợ để xây dựng file DOCX.
-
-**Bước 5 — Kiểm tra**
-
-Thực hiện các bước kiểm tra được hỗ trợ, đồng thời rà soát kết quả hiển thị khi có công cụ render phù hợp.
-
-## 5. Cấu trúc dự án
+<details>
+<summary>Cấu trúc thư mục chính của repository</summary>
 
 ```text
 vietnamese-docs-style/
-├── README.md
-├── SKILL.md
-├── GEMINI.md
-├── references/
-│   ├── administrative-format-nd30.md
-│   ├── academic-report.md
-│   ├── document-profiles.md
-│   ├── editorial-quality-vi.md
-│   ├── meeting-minutes.md
-│   ├── style-spec.md
-│   └── validation-checklist.md
-├── scripts/
-│   ├── build_docx.py
-│   ├── validate_docx.py
-│   ├── render_docx.py
-│   ├── document_rules.py
-│   ├── docx_package.py
-│   ├── fill_template.py
-│   ├── edit_docx.py
-│   ├── create_templates.py
-│   ├── create_demo.py
-│   └── package_skill.py
-├── assets/
-│   ├── templates/
-│   └── rules/
-├── evals/
-├── requirements.txt
-├── requirements-dev.txt
-└── tests/
+├── README.md                  # Tài liệu chính (Việt / Anh)
+├── LICENSE                    # Giấy phép MIT
+├── CONTRIBUTING.md            # Hướng dẫn review và đóng góp
+├── pyproject.toml             # Đóng gói PEP 621 & CLI `vndocs`
+├── SKILL.md                   # Hướng dẫn chính cho AI Agent
+├── AGENTS.md                  # Quy tắc chung cho Codex, Cursor, Copilot, Windsurf, OpenCode
+├── GEMINI.md                  # Quy tắc gốc cho Gemini CLI và Antigravity
+├── requirements.txt           # Runtime dependencies
+├── requirements-dev.txt       # Dev/CI dependencies (pytest, PyYAML, ruff)
+├── assets/                    # Starter templates, manifest nguồn & ví dụ custom rule
+├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
+├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
+├── evals/                     # Benchmark tái lập, báo cáo audit & manual evals
+├── references/                # Tài liệu quy chuẩn NĐ30, học thuật, biên bản, tooling
+├── scripts/                   # Package Python & CLI `vndocs`
+└── tests/                     # 42 automated tests (pytest + LibreOffice render)
 ```
 
-Trong đó:
+</details>
 
-- `SKILL.md`: Điểm vào chính và hướng dẫn quy trình dành cho AI Agent.
-- `references/`: Tài liệu tham chiếu về cấu trúc, thể thức và ngôn ngữ.
-- `scripts/`: Công cụ hỗ trợ tạo và kiểm tra DOCX.
-- `assets/`: Tài nguyên và tài liệu mẫu.
-- `tests/`: Các bài kiểm thử.
+## Credits và giấy phép
 
-## 6. Sử dụng
-
-Skill được thiết kế để tích hợp vào môi trường AI Agent có hỗ trợ đọc hướng dẫn và thực thi công cụ phù hợp.
-
-Người dùng có thể tham khảo `SKILL.md` để cấu hình skill trong môi trường agent của mình.
-
-### Ví dụ yêu cầu
-
-**Văn bản hành chính**
-
-> Tạo một công văn thông báo lịch họp, áp dụng quy định trình bày phù hợp theo Nghị định 30/2020/NĐ-CP.
-
-**Báo cáo học thuật**
-
-> Viết báo cáo nghiên cứu về ứng dụng trí tuệ nhân tạo trong giáo dục, có trang bìa và hệ thống đề mục rõ ràng.
-
-**Biên bản họp**
-
-> Tạo biên bản họp nhóm từ những ghi chú này, bao gồm nội dung thảo luận, kết luận và phân công công việc.
-
-**Tài liệu tùy chỉnh**
-
-> Định dạng lại tài liệu Word theo mẫu do trường đại học cung cấp.
-
-### Kiểm tra DOCX
-
-Có thể sử dụng công cụ kiểm tra cấu trúc được cung cấp trong repository:
-
-```bash
-python scripts/validate_docx.py document.docx --profile administrative
-```
-
-Cần cài đặt các thư viện phụ thuộc phù hợp, bao gồm `python-docx`.
-
-## 7. Giới hạn
-
-Vietnamese Docs Style là một công cụ hỗ trợ AI Agent, không phải hệ thống chứng nhận tính hợp lệ của văn bản.
-
-- Kết quả phụ thuộc vào khả năng của AI Agent và thông tin được cung cấp.
-- Các công cụ kiểm tra hiện tại chưa bao phủ toàn bộ quy định về thể thức và trình bày.
-- Một số vấn đề về bố cục cần được kiểm tra trực quan.
-- Những tài liệu sử dụng trong hoạt động hành chính chính thức vẫn cần được người có trách nhiệm rà soát.
-
-## 8. Định hướng
-
-Mục tiêu của dự án là phát triển một hệ thống tri thức và công cụ hỗ trợ AI tạo tài liệu tiếng Việt một cách nhất quán, có ngữ cảnh và phù hợp hơn với môi trường sử dụng thực tế.
-
-Bản địa hóa AI không chỉ là chuyển đổi ngôn ngữ. Đó còn là giúp AI hiểu các quy ước, tiêu chuẩn và cách thức làm việc của cộng đồng mà nó phục vụ.
+- **Tác giả:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
+- **Tham chiếu & thư viện nền tảng:** Đối chiếu thể thức hành chính từ **Nghị định 30/2020/NĐ-CP** (Cổng TTĐT Chính phủ); xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
+- **Giấy phép:** Mã nguồn, script và tài liệu của dự án dùng giấy phép **MIT** ([LICENSE](LICENSE)). Các văn bản, biểu mẫu tham khảo của bên thứ ba giữ nguyên bản quyền và điều khoản gốc của đơn vị ban hành.
 
 ---
 
 # English
 
-## Introduction
+## Visual Proof
 
-**AI can generate Word documents. But does it really understand how documents are written and formatted in Vietnam?**
+Real LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice generated with the skill and simulated data**:
 
-`vietnamese-docs-style` is an AI Agent Skill designed to assist with creating, formatting, editing, and validating Microsoft Word (`.docx`) documents according to Vietnamese document conventions, structures, and writing practices.
+| Page 1 — NĐ30 Header, Legal Bases & Repeating Table Header | Page 2 — Centered Top Page `2` & Recipients / Signer Block |
+| :---: | :---: |
+| ![Skill-generated 2-page notice — Page 1](docs/images/skill-generated-notice-p1.png) | ![Skill-generated 2-page notice — Page 2](docs/images/skill-generated-notice-p2.png) |
 
-The project aims to bridge the gap between general-purpose AI document generation and the specific requirements found in Vietnamese academic, administrative, and organizational environments.
+`validate_docx.py --profile administrative` passes with 0 errors: A4 (`21.0 × 29.7 cm`), NĐ30 margins (`3.0 / 1.5 / 2.0 / 2.0 cm`), 2×2 aligned `Số:` / `Ngày` header row, `4.95 cm` motto underline, page 1 number hidden, and page `2` centered in the page 2 header (no fabricated signatures or stamps).
 
-## 1. The Problem
+See Before vs. After comparisons and real-world audits against human-authored Vietnamese government/enterprise `.docx` files in [evals/audit-comparison.md](evals/audit-comparison.md).
 
-Large Language Models (LLMs) and AI agents have made document creation significantly more accessible.
+## Overview
 
-Users can now ask an AI to write a report, prepare an official letter, or generate a complete Word document.
+Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 cm` margins, Calibri or Arial fonts, blue Word headings, or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices.
 
-However, **generating a valid DOCX file does not necessarily mean producing a properly formatted document.**
+`vietnamese-docs-style` combines context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), [GEMINI.md](GEMINI.md), `references/`) with the local `vndocs` CLI so agents pick the right conventions first and verify `.docx` structure and rendered pages before handoff.
 
-General-purpose AI tools may rely on document templates and formatting conventions that work well in some international contexts but do not necessarily match Vietnamese requirements.
+## Key Features
 
-For example:
+- Context-routed formatting across 7 profiles (`administrative`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) instead of imposing one rigid standard everywhere.
+- Lossless `{{token}}` template filling (`vndocs fill`, including split-run tokens) and SHA256-verified slot patching (`vndocs edit`) while keeping untouched ZIP members byte-identical.
+- Structural and style validation (`vndocs validate`) covering page size, per-section margins, inherited font/color resolution, style roles, unresolved placeholders, and numbering definitions, with an explicit `unchecked` list.
+- Real PDF and PNG rendering (`vndocs render --png`) using LibreOffice in an isolated temporary profile so stale PDFs never trigger false passes.
+- Document builders with real `PAGE` fields (`scripts/build_docx.py`) and clean skill ZIP packaging (`vndocs package`) that excludes research corpora and tests.
 
-- **Administrative documents** in Vietnam are subject to specific presentation and formatting requirements under Decree 30/2020/NĐ-CP.
-- **Academic reports** often follow institution-specific formatting and structural guidelines.
-- **Meeting minutes and project proposals** require different layouts, terminology, and levels of formality depending on their purpose.
-- **Internal documents** may need to follow organization-specific templates.
+## Getting Started & Agent Support
 
-These differences extend beyond fonts, margins, and page sizes. They also involve document structure, heading hierarchy, tables, and writing conventions.
-
-This raises an important question:
-
-**How can AI move beyond generating Vietnamese text and produce documents that respect the conventions of their intended local context?**
-
-## 2. Research and Development
-
-Vietnamese Docs Style was developed to address practical limitations encountered when using AI to create Vietnamese Word documents.
-
-Instead of building another fixed document template, the project focuses on researching and systematizing local document conventions into reusable guidance.
-
-The research focuses on:
-
-- Vietnamese administrative document formatting requirements.
-- Academic and research document presentation conventions.
-- Structures used in meeting minutes, plans, and project proposals.
-- Vietnamese editorial practices and formal writing styles.
-- Differences between general formatting standards and institution-specific requirements.
-
-This knowledge is organized into reference documents, agent instructions, and supporting Python utilities.
-
-The goal is to reduce the need for users to repeatedly explain the same formatting requirements each time they generate a document.
-
-## 3. The Solution
-
-Vietnamese Docs Style acts as a specialized knowledge layer that helps AI agents make context-aware document generation decisions.
-
-### Document classification
-
-The skill identifies the document category before selecting the appropriate formatting and structural guidance.
-
-| Profile | Intended use |
-|---|---|
-| `office` | General office documents and internal notices/reports |
-| `administrative` | Administrative documents |
-| `academic` | Academic reports, essays, research papers |
-| `proposal` | Project proposals and planning documents |
-| `minutes-administrative` | Administrative meeting minutes |
-| `minutes-general` | General and internal meeting minutes |
-| `custom` | User-provided templates and requirements |
-
-### Context-aware formatting
-
-A key design principle is that **no single formatting standard should be applied to every Vietnamese document**.
-
-For example, Decree 30/2020/NĐ-CP is referenced when preparing applicable administrative documents, rather than being automatically imposed on academic reports or business documents.
-
-When users provide their own templates or organizational requirements, the agent is instructed to consider them alongside relevant standards.
-
-### DOCX generation and validation support
-
-The repository includes Python utilities that assist with:
-
-- Configuring page dimensions, margins, fonts, and basic styles.
-- Creating paragraphs, headings, tables, and document elements.
-- Checking selected structural and formatting properties.
-- Detecting unresolved placeholders.
-
-## 4. Workflow
-
-**Step 1 — Understand the request**
-
-Identify the document type, intended purpose, source information, and any specific formatting requirements.
-
-**Step 2 — Select a document profile**
-
-Choose the appropriate document category and determine which conventions should apply.
-
-**Step 3 — Consult references**
-
-Read relevant guidance from `references/` to determine document structure, formatting, and writing conventions.
-
-**Step 4 — Generate the document**
-
-Use the available instructions and utilities to construct the DOCX output.
-
-**Step 5 — Validate the result**
-
-Run supported checks and visually review the rendered document when an appropriate rendering tool is available.
-
-## 5. Repository Structure
-
-```text
-vietnamese-docs-style/
-├── README.md
-├── SKILL.md
-├── GEMINI.md
-├── references/
-│   ├── administrative-format-nd30.md
-│   ├── academic-report.md
-│   ├── document-profiles.md
-│   ├── editorial-quality-vi.md
-│   ├── meeting-minutes.md
-│   ├── style-spec.md
-│   └── validation-checklist.md
-├── scripts/
-│   ├── build_docx.py
-│   ├── validate_docx.py
-│   ├── render_docx.py
-│   ├── document_rules.py
-│   ├── docx_package.py
-│   ├── fill_template.py
-│   ├── edit_docx.py
-│   ├── create_templates.py
-│   ├── create_demo.py
-│   └── package_skill.py
-├── assets/
-│   ├── templates/
-│   └── rules/
-├── evals/
-├── requirements.txt
-├── requirements-dev.txt
-└── tests/
-```
-
-- `SKILL.md`: Main entry point and workflow instructions for AI agents.
-- `references/`: Document formatting, structural, and editorial knowledge.
-- `scripts/`: Supporting DOCX generation and validation utilities.
-- `assets/`: Document samples and related resources.
-- `tests/`: Test files.
-
-## 6. Usage
-
-The skill is intended for AI agent environments capable of reading skill instructions and using compatible tools.
-
-Refer to `SKILL.md` for the agent workflow and relevant integration details.
-
-### Example prompts
-
-**Administrative document**
-
-> Create a Vietnamese administrative notice using the applicable formatting guidance from Decree 30/2020/NĐ-CP.
-
-**Academic report**
-
-> Prepare an academic report on artificial intelligence in education, including a cover page and structured headings.
-
-**Meeting minutes**
-
-> Convert these meeting notes into formal Vietnamese meeting minutes, including decisions and assigned responsibilities.
-
-**Custom formatting**
-
-> Reformat this Word document according to the university template I provided.
-
-### DOCX validation
-
-The repository includes a structural validation utility:
+Requires Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml`); LibreOffice is optional and only needed for `vndocs render`.
 
 ```bash
-python scripts/validate_docx.py document.docx --profile administrative
+git clone https://github.com/bGiaHuy/vietnamese-docs-style.git
+cd vietnamese-docs-style
+python -m pip install -e .
+# Or install runtime deps directly without the `vndocs` CLI:
+# python -m pip install -r requirements.txt
+vndocs doctor
 ```
 
-Compatible dependencies, including `python-docx`, must be installed.
+| AI Agent / IDE | Entry files | Integration |
+| --- | --- | --- |
+| **Claude Code** | [SKILL.md](SKILL.md) | Point to `SKILL.md` or install the ZIP built by `vndocs package` |
+| **OpenAI Codex / Cursor / Copilot / Windsurf / OpenCode** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Open the repo as workspace (`AGENTS.md` auto-discovered) and invoke `vndocs` |
+| **Gemini CLI / Antigravity** | [GEMINI.md](GEMINI.md), [SKILL.md](SKILL.md) | Automatically loads root `GEMINI.md` and consults `SKILL.md` / `references/` |
 
-## 7. Limitations
+## Usage
 
-Vietnamese Docs Style assists AI agents with document preparation. It does not certify that documents are legally compliant or universally correct.
+```bash
+vndocs demo --output-dir artifacts/demo
+vndocs validate artifacts/demo/office-filled.docx --profile minutes-general
+vndocs render artifacts/demo/office-filled.docx --png
+```
 
-- Output quality depends on the AI agent and information provided.
-- Current validation utilities cover only selected formatting and structural checks.
-- Some layout problems require visual inspection.
-- Official administrative documents still require appropriate human review.
+Common workflows also include `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys and exit codes (`0` pass, `1` fail, `2` partial), and `python evals/run_validation_benchmark.py` for the reproducible `0/6` baseline vs. `6/6` skill-guided tooling benchmark (deterministic checks only; manual behavior reviews are in [evals/manual-results.md](evals/manual-results.md)).
 
-## 8. Project Vision
+## Limitations & Integrations
 
-The long-term goal is to build a reusable knowledge and tooling foundation that helps AI agents generate Vietnamese documents more consistently and with greater awareness of local requirements.
+- **LibreOffice (optional for rendering):** `winget install TheDocumentFoundation.LibreOffice` (Windows), `brew install --cask libreoffice` (macOS), or `sudo apt-get install -y libreoffice-writer fonts-liberation` (Ubuntu/Debian); override via `--renderer` or `VNDOCS_RENDERER`.
+- **Accounts & Quotas:** `vndocs` runs offline with zero API keys or accounts. Agent execution uses whichever model subscription or quota you configure in your agent client.
+- **Unsupported / uncertified scope:** Not a legal compliance certificate; refuses editing digitally signed `_xmlsignatures/` files; never fabricates signatures or stamps; leaves theme fonts/colors, conditional table styles, text boxes, charts, footnotes, and tracked revisions in `unchecked`. Human review is required before official issuance.
 
-**AI localization is more than language translation. It is about understanding the conventions, standards, and workflows of the people who use it.**
+## Data & Privacy
 
----
+- All `vndocs` / `scripts/` execution runs locally with zero telemetry, zero cloud sync, and zero outbound network requests. Local outputs go to gitignored `artifacts/` and `dist/`, and LibreOffice renders in an isolated temp directory.
+- When using cloud-hosted AI agents, prompt text is governed by that provider's privacy terms — avoid sending confidential records without authorization.
 
-## Tác giả / Author
+## Contributing
 
-**Bùi Gia Huy**
+- **Stack:** Python 3.10+, `python-docx`, `lxml`, `PyMuPDF`, LibreOffice, `pytest`, `ruff`.
+- **Checks:**
+  ```bash
+  python -m pip install -e ".[dev]"
+  python -m ruff check .
+  python -m compileall -q scripts tests evals
+  python -m pytest -q
+  python evals/run_validation_benchmark.py
+  ```
+- Report bugs or submit PRs via [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) following [CONTRIBUTING.md](CONTRIBUTING.md).
 
-GitHub: [bGiaHuy](https://github.com/bGiaHuy)
+## Credits & License
 
-Repository: [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style)
+- **Author:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
+- **Credits:** Administrative format referenced against Decree 30/2020/NĐ-CP (Vietnam Government Portal); built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
+- **License:** Project-authored source, scripts, and documentation are licensed under the **MIT License** ([LICENSE](LICENSE)). Third-party reference materials remain under their original owners' licenses.
