@@ -1,6 +1,6 @@
 # Vietnamese Docs Style
 
-Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent, cán bộ hành chính, nhân viên văn phòng, sinh viên và lập trình viên tạo, điền mẫu và kiểm tra file Word (`.docx`) theo đúng quy ước trình bày Việt Nam (Nghị định 30/2020/NĐ-CP, văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW, văn bản quy phạm pháp luật, báo cáo học thuật, biên bản họp).
+Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền mẫu và kiểm tra file Word (`.docx`) theo quy ước trình bày Việt Nam — từ văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng, VBQPPL đến báo cáo học thuật và tài liệu văn phòng.
 
 *Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
 
@@ -20,25 +20,25 @@ Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent
 
 # Tiếng Việt
 
-## Bằng chứng trực quan
+## Ví dụ
 
-Ảnh dưới là kết quả render trực tiếp (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang do skill tạo ra với dữ liệu giả định**:
+Ảnh dưới là kết quả render (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang do skill tạo ra với dữ liệu giả định**:
 
 | Trang 1 — Header NĐ30, căn cứ và bảng lặp tiêu đề | Trang 2 — Số trang `2` căn giữa, nơi nhận và khối ký |
 | :---: | :---: |
 | ![Thông báo 2 trang tạo bằng skill — Trang 1](docs/images/skill-generated-notice-p1.png) | ![Thông báo 2 trang tạo bằng skill — Trang 2](docs/images/skill-generated-notice-p2.png) |
 
-Tệp nguồn vượt qua `validate_docx.py --profile administrative` với 0 lỗi: khổ A4 (`21.0 × 29.7 cm`), lề NĐ30 (`3.0 / 1.5 / 2.0 / 2.0 cm`), bảng đầu 2×2 giữ `Số:` và `Ngày` cùng hàng ngang, đường kẻ dưới Tiêu ngữ dài `4.95 cm` khớp bề ngang chữ, ẩn số trang ở trang 1 và hiện `2` căn giữa ở đầu trang 2. File minh họa giữ nguyên vùng ký trống, không tạo chữ ký hay con dấu giả.
+Tệp nguồn vượt qua `validate_docx.py --profile administrative` với 0 lỗi (không tạo chữ ký hay con dấu giả). Chi tiết thông số trình bày và kết quả đối chiếu với văn bản thật nằm ở [evals/audit-comparison.md](evals/audit-comparison.md).
 
 <details>
-<summary>So sánh thêm: file Word mặc định (Before) vs. starter sau audit (After) và đối chiếu văn bản cơ quan nhà nước</summary>
+<summary>So sánh trước và sau</summary>
 
-| Mặc định không hướng dẫn (`before-naive`) | Starter NĐ30 sau audit (`after-audit-notice`) |
+| File Word mặc định (`before-naive`) | Starter NĐ30 đã kiểm tra (`after-audit-notice`) |
 | :---: | :---: |
-| ![Before: file docx mặc định](docs/images/before-naive.png) | ![After: starter NĐ30 sau audit](docs/images/after-audit-notice.png) |
-| **`validate_docx.py` → `fail` (4 lỗi):** khổ US Letter (`21.59 × 27.94 cm`), lề mặc định (`3.18 / 2.54 cm`), font Calibri theme, dùng dấu `---` làm đường kẻ, thiếu bố cục `Số:`/`Ngày` và `Nơi nhận:`. | **`validate_docx.py` → `pass` (0 lỗi):** khổ A4, lề chuẩn NĐ30, Times New Roman `#000000`, `Số:` và `Ngày` thẳng hàng trong bảng 2×2, đường kẻ Tiêu ngữ `4.95 cm`, ghi chú ký in nghiêng khóa `cantSplit`. |
+| ![Before: file docx mặc định](docs/images/before-naive.png) | ![After: starter NĐ30 đã kiểm tra](docs/images/after-audit-notice.png) |
+| **`validate_docx.py` → `fail` (4 lỗi):** sai khổ giấy sang US Letter, lề mặc định Word, font Calibri theme, gạch ngang `---` và thiếu bố cục `Số:`/`Ngày`, `Nơi nhận:`. | **`validate_docx.py` → `pass` (0 lỗi):** đúng khổ A4, lề chuẩn NĐ30, Times New Roman `#000000`, `Số:`/`Ngày` thẳng hàng và khối `Nơi nhận:`/ký tách rõ ràng. |
 
-Xem thêm so sánh Starter Trước/Sau Audit và kết quả chạy validator trên 2 văn bản `.docx` thật tại Việt Nam (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) ở [evals/audit-comparison.md](evals/audit-comparison.md).
+Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) tại [evals/audit-comparison.md](evals/audit-comparison.md).
 
 </details>
 
@@ -46,17 +46,17 @@ Xem thêm so sánh Starter Trước/Sau Audit và kết quả chạy validator t
 
 Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy ước địa phương, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
 
-`vietnamese-docs-style` tách rõ hai phần: bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) để agent chọn đúng thể thức ngay từ đầu, đi kèm CLI `vndocs` để dựng file, điền mẫu giữ nguyên XML gốc, kiểm tra định dạng và render ảnh từng trang.
+`vietnamese-docs-style` tách thành hai phần. Bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp agent chọn đúng thể thức ngay từ đầu. Đi kèm là CLI `vndocs` để tạo file, điền mẫu giữ nguyên XML gốc, validate và render ảnh từng trang.
 
 ## Tính năng chính
 
-- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 8 profile (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`); NĐ30/2020 chỉ áp dụng cho văn bản hành chính nhà nước, tách biệt với văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), văn bản quy phạm pháp luật (Phụ lục I NĐ 187/2025/NĐ-CP), bài học thuật hay tài liệu nội bộ doanh nghiệp.
-- Sinh file `.docx` đa profile trực tiếp từ JSON đúng [JSON Schema](assets/schemas/document-input.schema.json) (`vndocs generate ... --validate`), điền token `{{name}}` tách nhiều run (`vndocs fill`) hoặc vá đúng vị trí văn bản bằng `vndocs edit --source-sha256`, giữ nguyên từng byte của các thành phần XML ngoài vùng sửa.
-- Soi nhanh file mẫu và phát hiện lỗi encoding `Ð` (`U+00D0` -> `Đ` `U+0110`) / placeholder / `kính giửi` qua `vndocs inspect` (kèm `--normalize-output` sửa không làm hỏng XML khác), rồi kiểm tra khổ giấy, lề từng section, font/màu kế thừa, named style role và tham chiếu numbering qua `vndocs validate`.
-- Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm cô lập (`vndocs render --png`), tránh trường hợp PDF cũ nằm sẵn trên đĩa bị nhận nhầm là bản mới.
-- Kèm bộ câu hỏi phỏng vấn lấy dữ liệu ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown 2 cột khi chat thuần text ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), chỉ mục agent ([llms.txt](llms.txt)) và đóng gói ZIP gọn sạch (`vndocs package`) không dính dữ liệu nghiên cứu hay test.
+- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 8 profile; NĐ30/2020 chỉ áp dụng cho văn bản hành chính nhà nước, tách biệt với văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), VBQPPL (Phụ lục I NĐ 187/2025/NĐ-CP), bài học thuật hay tài liệu công ty.
+- Sinh file `.docx` đa profile từ JSON đúng [JSON Schema](assets/schemas/document-input.schema.json) (`vndocs generate ... --validate`), điền token `{{name}}` (`vndocs fill`) hoặc vá vị trí xác minh bằng `vndocs edit --source-sha256`, giữ nguyên XML ngoài vùng sửa.
+- Soi nhanh file mẫu và phát hiện lỗi encoding `Ð` (`U+00D0` -> `Đ` `U+0110`), `kính giửi` hoặc placeholder sót qua `vndocs inspect`; kiểm tra khổ giấy, lề, font/màu kế thừa, style role và numbering qua `vndocs validate`.
+- Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm (`vndocs render --png`) để kiểm tra hiển thị thực tế trước khi bàn giao.
+- Kèm bộ câu hỏi phỏng vấn ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), chỉ mục [llms.txt](llms.txt) và đóng gói thành file ZIP (`vndocs package`).
 
-### Phạm vi hỗ trợ theo Profile
+### Các profile được hỗ trợ
 
 | Profile | Nhóm tài liệu | Rule & Validator | Starter template / Cấu hình tham chiếu |
 | --- | --- | --- | --- |
@@ -69,9 +69,9 @@ Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy
 | `minutes-administrative` | Biên bản thủ tục hành chính cụ thể | Rule lề/font/số trang | Chọn mẫu đúng thủ tục thực tế |
 | `custom` | Biểu mẫu `.docx` riêng của trường/cơ quan/công ty | Giữ mẫu; kiểm theo `--config` | Người dùng cung cấp ([ví dụ config](assets/rules/custom-example.json)) |
 
-### Benchmark công cụ công khai (Baseline 0/8 vs. Skill 8/8)
+### Benchmark: Baseline 0/8 vs. Skill 8/8
 
-Chạy qua `python evals/run_validation_benchmark.py` trên **16 case deterministic** (8 file baseline mặc định / áp nhầm lề vs. 8 đầu ra qua starter/builder/config của skill, được đối chiếu liên tục trong CI). Đây là **benchmark của bộ công cụ kiểm tra DOCX** (`validate_docx.py`), không phải bảng xếp hạng đo độ chính xác sinh văn bản tự do của từng mô hình LLM:
+Benchmark gồm **16 test case**, chạy bằng `python evals/run_validation_benchmark.py` (8 file baseline mặc định vs. 8 đầu ra dùng skill). Kết quả đo hành vi của bộ công cụ `validate_docx.py`, không phải đánh giá chất lượng sinh văn bản của từng mô hình LLM:
 
 | Hạng mục kiểm tra (`validate_docx.py`) | Baseline mặc định | Đầu ra dùng Skill |
 | --- | :---: | :---: |
@@ -82,7 +82,7 @@ Chạy qua `python evals/run_validation_benchmark.py` trên **16 case determinis
 | Font & màu chữ (`font`, `color`) | 2/2 case gán sai bị bắt | 0 lỗi |
 | Placeholder sót / `numId` hỏng (`placeholder`, `numbering`) | 3/3 case lỗi bị bắt | 0 lỗi |
 
-Xem bảng kết quả đầy đủ 16 case, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
+Xem bảng đầy đủ, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
 ## Cách bắt đầu
 
@@ -111,8 +111,6 @@ python -m pip install -e .
 # python -m pip install -r requirements.txt
 vndocs doctor
 ```
-
-Người dùng cuối không cần cài `requirements-dev.txt`.
 
 ### Tương thích AI Agent
 
@@ -180,8 +178,7 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
 
 ## Dữ liệu và quyền riêng tư
 
-- Toàn bộ xử lý `.docx` qua `vndocs` và `scripts/` diễn ra cục bộ trên máy. Đầu ra mặc định lưu trong `artifacts/` và `dist/` (cả hai đã nằm trong `.gitignore`).
-- Bộ công cụ Python không gửi telemetry, không đồng bộ đám mây và không mở kết nối mạng ra ngoài; khi render, LibreOffice chạy với profile tạm trong thư mục temp cục bộ.
+- `vndocs` chạy local, không gửi telemetry hay dữ liệu lên server. Đầu ra mặc định lưu trong `artifacts/` và `dist/` (đã nằm trong `.gitignore`); khi render, LibreOffice chạy với profile tạm trên máy.
 - Nếu bạn sử dụng skill thông qua AI Agent chạy trên đám mây, nội dung prompt tuân theo chính sách dữ liệu của nhà cung cấp mô hình đó — không dán tài liệu mật hoặc thông tin nhạy cảm chưa được phép lên dịch vụ ngoài.
 
 ## Thông tin cho người đóng góp
@@ -225,41 +222,39 @@ vietnamese-docs-style/
 ## Credits và giấy phép
 
 - **Tác giả:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
-- **Đóng góp & nguồn cảm hứng:**
+- **Đóng góp:**
   - Cảm ơn [@triensslci](https://github.com/triensslci) đã đóng góp profile `party` cùng bộ tài liệu quy chuẩn văn bản của Đảng ([party-documents.md](references/party-documents.md) theo QĐ 399-QĐ/TW và HD 05-HD/VPTW), văn bản quy phạm pháp luật ([legal-normative-documents.md](references/legal-normative-documents.md), [legal-normative.json](assets/rules/legal-normative.json) theo Luật 64/2025, Luật 87/2025, NĐ 78/2025 và Phụ lục I NĐ 187/2025), danh mục 29 loại văn bản hành chính & thẩm quyền ký NĐ30 ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)) và hướng dẫn văn phong hành chính – công vụ ([administrative-writing-style.md](references/administrative-writing-style.md)).
-  - Cảm ơn [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (giấy phép MIT) và nguồn nghiệp vụ gốc [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) về ý tưởng kiến trúc sinh `.docx` từ JSON Schema (`vndocs generate`), lệnh soi mẫu & phát hiện lỗi encoding `Ð` (`U+00D0`) (`vndocs inspect`), bộ câu hỏi phỏng vấn người dùng ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)) và chỉ mục [llms.txt](llms.txt) — đã được thiết kế lại phù hợp kiến trúc đa profile và OOXML lossless của dự án.
-- **Tham chiếu & thư viện nền tảng:** Đối chiếu thể thức từ **Nghị định 30/2020/NĐ-CP**, **Quy định 399-QĐ/TW**, **Hướng dẫn 05-HD/VPTW** và **Nghị định 187/2025/NĐ-CP**; xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
+  - Cảm ơn [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (giấy phép MIT) và nguồn nghiệp vụ gốc [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) về ý tưởng sinh `.docx` từ JSON Schema (`vndocs generate`), soi mẫu & phát hiện lỗi encoding `Ð` (`U+00D0`) (`vndocs inspect`), bộ câu hỏi phỏng vấn ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)) và chỉ mục [llms.txt](llms.txt).
+- **Quy chuẩn và thư viện sử dụng:** Đối chiếu thể thức từ **Nghị định 30/2020/NĐ-CP**, **Quy định 399-QĐ/TW**, **Hướng dẫn 05-HD/VPTW** và **Nghị định 187/2025/NĐ-CP**; xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
 - **Giấy phép:** Mã nguồn, script và tài liệu của dự án dùng giấy phép **MIT** ([LICENSE](LICENSE)). Các văn bản, biểu mẫu tham khảo của bên thứ ba giữ nguyên bản quyền và điều khoản gốc của đơn vị ban hành.
 
 ---
 
 # English
 
-## Visual Proof
+## Example
 
-Real LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice generated with the skill and simulated data**:
+LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice generated with the skill and simulated data**:
 
 | Page 1 — NĐ30 Header, Legal Bases & Repeating Table Header | Page 2 — Centered Top Page `2` & Recipients / Signer Block |
 | :---: | :---: |
 | ![Skill-generated 2-page notice — Page 1](docs/images/skill-generated-notice-p1.png) | ![Skill-generated 2-page notice — Page 2](docs/images/skill-generated-notice-p2.png) |
 
-`validate_docx.py --profile administrative` passes with 0 errors: A4 (`21.0 × 29.7 cm`), NĐ30 margins (`3.0 / 1.5 / 2.0 / 2.0 cm`), 2×2 aligned `Số:` / `Ngày` header row, `4.95 cm` motto underline, page 1 number hidden, and page `2` centered in the page 2 header (no fabricated signatures or stamps).
-
-See Before vs. After comparisons and real-world audits against human-authored Vietnamese government/enterprise `.docx` files in [evals/audit-comparison.md](evals/audit-comparison.md).
+`validate_docx.py --profile administrative` passes with 0 errors and zero fabricated signatures or stamps. Detailed layout metrics and real-world document comparisons are in [evals/audit-comparison.md](evals/audit-comparison.md).
 
 ## Overview
 
 Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 cm` margins, Calibri or Arial fonts, blue Word headings, or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices.
 
-`vietnamese-docs-style` combines context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) with the local `vndocs` CLI so agents pick the right conventions first and verify `.docx` structure and rendered pages before handoff.
+`vietnamese-docs-style` has two parts: context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) so agents choose the right format first, and the `vndocs` CLI to generate, template-fill cleanly, validate, and render `.docx` files.
 
 ## Key Features
 
-- Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json) for legal-normative documents (VBQPPL), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes clearly separated.
-- Declarative multi-profile JSON-to-DOCX generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), lossless `{{token}}` template filling (`vndocs fill`, including split-run tokens), and SHA256-verified slot patching (`vndocs edit`) while keeping untouched ZIP members byte-identical.
-- Template inspection & lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.
-- Real PDF and PNG rendering (`vndocs render --png`) using LibreOffice in an isolated temporary profile so stale PDFs never trigger false passes.
-- Root agent sitemap ([llms.txt](llms.txt)), pre-drafting interview checklist ([interview-questions.md](references/interview-questions.md)), chat Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and clean skill ZIP packaging (`vndocs package`) that excludes research corpora and tests.
+- Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
+- Declarative multi-profile JSON generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), `{{token}}` template filling (`vndocs fill`), and SHA256-verified slot patching (`vndocs edit`) preserving untouched ZIP members.
+- Template inspection and lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.
+- PDF and PNG page rendering (`vndocs render --png`) via LibreOffice in a temporary profile.
+- Root agent sitemap ([llms.txt](llms.txt)), interview checklist ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and skill ZIP packaging (`vndocs package`).
 
 ## Getting Started & Agent Support
 
@@ -303,13 +298,12 @@ vndocs render artifacts/demo/office-filled.docx --png
 
 Common workflows also include `vndocs generate ... --validate`, `vndocs inspect --normalize-output ...`, `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys and exit codes (`0` pass, `1` fail, `2` partial).
 
-### Public Reproducible Benchmark (`0/8` Baseline vs. `8/8` Skill)
+### Benchmark: 0/8 Baseline vs. 8/8 Skill
 
-Run `python evals/run_validation_benchmark.py` to execute all **16 deterministic validation cases** covering Decree 30/2020/NĐ-CP administrative notices/dispatches, Communist Party layouts (`party`, HD 05-HD/VPTW), legal-normative rules (`VBQPPL` / Decree 187/2025/NĐ-CP), font/color enforcement, placeholder checks, `numId` integrity, and custom organization configs.
+16 deterministic test cases (8 naive/misapplied baselines vs. 8 skill-guided outputs), run via `python evals/run_validation_benchmark.py`. Measures `validate_docx.py` tooling checks rather than multi-LLM prompt accuracy:
 
-- **Result:** `0 / 8` naive baseline documents pass vs. `8 / 8` skill-guided outputs pass (verified against published JSON in CI).
-- **Scope note:** Measures deterministic `validate_docx.py` tooling behavior rather than independent multi-LLM prompt accuracy.
-- **Full reports:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
+- **Result:** `0 / 8` baseline pass vs. `8 / 8` skill pass (checked continuously in CI).
+- **Details:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
 ## Limitations & Integrations
 
@@ -319,7 +313,7 @@ Run `python evals/run_validation_benchmark.py` to execute all **16 deterministic
 
 ## Data & Privacy
 
-- All `vndocs` / `scripts/` execution runs locally with zero telemetry, zero cloud sync, and zero outbound network requests. Local outputs go to gitignored `artifacts/` and `dist/`, and LibreOffice renders in an isolated temp directory.
+- `vndocs` runs locally and sends no telemetry or data to external servers. Local outputs go to gitignored `artifacts/` and `dist/`, and LibreOffice renders in an isolated temp directory.
 - When using cloud-hosted AI agents, prompt text is governed by that provider's privacy terms — avoid sending confidential records without authorization.
 
 ## Contributing
@@ -338,8 +332,8 @@ Run `python evals/run_validation_benchmark.py` to execute all **16 deterministic
 ## Credits & License
 
 - **Author:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
-- **Contributors & Inspiration:**
+- **Contributors:**
   - Special thanks to [@triensslci](https://github.com/triensslci) for contributing the `party` profile and reference guides for Communist Party documents ([party-documents.md](references/party-documents.md) per QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative documents ([legal-normative-documents.md](references/legal-normative-documents.md) and [legal-normative.json](assets/rules/legal-normative.json) per Laws 64/2025 & 87/2025, Decrees 78/2025 & 187/2025), the 29 Decree 30/2020/NĐ-CP document types & signing rules ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)), and administrative writing style guidelines ([administrative-writing-style.md](references/administrative-writing-style.md)).
-  - Appreciation to [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (MIT License) and upstream [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) for inspiring the declarative JSON-to-DOCX generator workflow (`vndocs generate`), template inspection & `U+00D0` (`Ð -> Đ`) encoding detection (`vndocs inspect`), pre-drafting interview questions ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and root [llms.txt](llms.txt) index, re-engineered natively for multi-profile OOXML workflows.
-- **Credits:** Formatting conventions referenced against Decree 30/2020/NĐ-CP, Regulation 399-QĐ/TW, Guideline 05-HD/VPTW, and Decree 187/2025/NĐ-CP; built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
+  - Appreciation to [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (MIT License) and upstream [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) for inspiring the declarative JSON-to-DOCX generator workflow (`vndocs generate`), template inspection & `U+00D0` (`Ð -> Đ`) encoding detection (`vndocs inspect`), pre-drafting interview questions ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and root [llms.txt](llms.txt) index.
+- **Standards & Libraries:** Formatting conventions referenced against Decree 30/2020/NĐ-CP, Regulation 399-QĐ/TW, Guideline 05-HD/VPTW, and Decree 187/2025/NĐ-CP; built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
 - **License:** Project-authored source, scripts, and documentation are licensed under the **MIT License** ([LICENSE](LICENSE)). Third-party reference materials remain under their original owners' licenses.
