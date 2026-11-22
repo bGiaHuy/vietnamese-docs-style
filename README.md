@@ -11,7 +11,7 @@ Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.2.0` (`42/42` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài trực tiếp từ mã nguồn (`pip install -e .`) hoặc xuất file ZIP skill qua `vndocs package`.
+**Trạng thái:** `v0.2.0` (`42/42` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -83,7 +83,22 @@ Chạy qua `python evals/run_validation_benchmark.py` trên **12 case determinis
 
 ## Cách bắt đầu
 
-**Yêu cầu hệ thống:** Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` cài tự động). LibreOffice chỉ cần khi xuất PDF/PNG bằng `vndocs render`.
+**Yêu cầu hệ thống:** Node.js/npm (nếu cài skill bằng `npx skills`) và Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` cài tự động cho bộ công cụ `vndocs`). LibreOffice chỉ cần khi xuất PDF/PNG bằng `vndocs render`.
+
+### Cài và cập nhật skill qua `npx skills`
+
+```bash
+# Cài skill
+npx skills add bGiaHuy/vietnamese-docs-style
+
+# Kiểm tra bản cập nhật
+npx skills check
+
+# Cập nhật các skill đã cài
+npx skills update
+```
+
+### Cài bộ công cụ Python `vndocs` từ mã nguồn
 
 ```bash
 git clone https://github.com/bGiaHuy/vietnamese-docs-style.git
@@ -233,7 +248,20 @@ Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 c
 
 ## Getting Started & Agent Support
 
-Requires Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml`); LibreOffice is optional and only needed for `vndocs render`.
+Requires Node.js/npm (for `npx skills`) and Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` for the local `vndocs` CLI); LibreOffice is optional and only needed for `vndocs render`.
+
+```bash
+# Install the skill
+npx skills add bGiaHuy/vietnamese-docs-style
+
+# Check for updates
+npx skills check
+
+# Update installed skills
+npx skills update
+```
+
+To install the local Python `vndocs` CLI from source:
 
 ```bash
 git clone https://github.com/bGiaHuy/vietnamese-docs-style.git
