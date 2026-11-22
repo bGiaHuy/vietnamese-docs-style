@@ -1,7 +1,9 @@
 """Deterministic, reproducible DOCX tooling validation benchmark (Baseline vs. Skill-Guided).
 
 This script measures structural and formatting checks enforced by `scripts/validate_docx.py`
-across 6 naive unguided baseline DOCX documents and 6 skill-guided DOCX outputs.
+across 8 naive unguided baseline DOCX documents and 8 skill-guided DOCX outputs across
+administrative (ND30), Party (HD 05-HD/VPTW), legal-normative (VBQPPL / ND 187/2025),
+academic, office, minutes, and custom profiles.
 It does NOT measure standalone LLM prompt accuracy; see `evals/audit-comparison.md`
 and `evals/manual-results.md` for scope and qualitative evaluations.
 """
@@ -242,14 +244,15 @@ def build_skill_showcase_notice(filepath):
 
 
 def run_benchmark():
-    """Run all 12 deterministic DOCX validation cases and return structured results."""
+    """Run all 16 deterministic DOCX validation cases and return structured results."""
     build_docx, create_demo, create_templates, fill_template, validate_docx = _load_tools()
     results = []
 
     with tempfile.TemporaryDirectory(prefix='vndocs-bench-') as tmp:
         root = Path(tmp)
+        legal_cfg = json.loads((REPO_ROOT / 'assets/rules/legal-normative.json').read_text(encoding='utf-8'))
 
-        # --- 6 Baseline (Unguided Default python-docx / Naive Output) ---
+        # --- 8 Baseline (Unguided Default python-docx / Misapplied Profile Output) ---
         naive_notice = build_naive_notice(root / 'b1_naive_notice.docx')
         r1 = validate_docx.inspect_doc(naive_notice, 'administrative')
         results.append(('baseline', 'Unguided ND30 notice (Letter, Calibri, default margins)', 'administrative', r1))
@@ -296,7 +299,25 @@ def run_benchmark():
         d6.save(p6)
         results.append(('baseline', 'Broken Word numbering reference (numId=99999)', 'academic', validate_docx.inspect_doc(p6, 'academic')))
 
-        # --- 6 Skill-Guided Outputs ---
+        d7 = Document()
+        build_docx.setup_document(d7, 'administrative')
+        d7.sections[0].left_margin = Cm(3.5)
+        d7.sections[0].top_margin = Cm(2.5)
+        build_docx.add_body(d7, 'NGHỊ QUYẾT CHI BỘ (dùng nhầm lề hành chính NĐ30)')
+        p7 = root / 'b7_party_wrong_margins.docx'
+        d7.save(p7)
+        results.append(('baseline', 'Unguided Party doc (ND30 3.5/2.5 cm margins instead of HD 05 fixed)', 'party', validate_docx.inspect_doc(p7, 'party')))
+
+        d8 = Document()
+        build_docx.setup_document(d8, 'administrative')
+        d8.sections[0].top_margin = Cm(2.5)
+        d8.sections[0].bottom_margin = Cm(2.5)
+        build_docx.add_body(d8, 'QUYẾT ĐỊNH QUY PHẠM (lề trên/dưới 2.5 cm thay vì 2.0 cm)')
+        p8 = root / 'b8_vbqppl_wrong_margins.docx'
+        d8.save(p8)
+        results.append(('baseline', 'Unguided VBQPPL doc (2.5 cm top/bottom margins vs. ND 187/2025 2.0 cm)', 'administrative+legal-normative', validate_docx.inspect_doc(p8, 'administrative', legal_cfg)))
+
+        # --- 8 Skill-Guided Outputs ---
         tpl_dir = REPO_ROOT / 'assets/templates'
         for case_id, label in [
             ('administrative-notice', 'ND30 notice starter filled + style role validation'),
@@ -325,6 +346,20 @@ def run_benchmark():
         p_custom = root / 's_custom.docx'
         d_custom.save(p_custom)
         results.append(('skill', 'Custom organization config (Arial 12pt, no landscape)', 'custom', validate_docx.inspect_doc(p_custom, 'custom', custom_cfg)))
+
+        d_party = Document()
+        build_docx.setup_document(d_party, 'party')
+        build_docx.add_body(d_party, 'Nội dung văn bản của Đảng theo Hướng dẫn 05-HD/VPTW (dữ liệu giả định).')
+        p_party = root / 's_party.docx'
+        d_party.save(p_party)
+        results.append(('skill', 'Skill-guided Party doc (HD 05-HD/VPTW fixed margins, 14pt, 20pt exact)', 'party', validate_docx.inspect_doc(p_party, 'party')))
+
+        d_vbqppl = Document()
+        build_docx.setup_document(d_vbqppl, 'administrative', legal_cfg)
+        build_docx.add_body(d_vbqppl, 'Dự thảo văn bản quy phạm pháp luật theo Phụ lục I NĐ 187/2025/NĐ-CP (giả định).')
+        p_vbqppl = root / 's_vbqppl.docx'
+        d_vbqppl.save(p_vbqppl)
+        results.append(('skill', 'Skill-guided VBQPPL doc (ND 187/2025 Appendix I rules, 14pt, 2.0 cm top/bottom)', 'administrative+legal-normative', validate_docx.inspect_doc(p_vbqppl, 'administrative', legal_cfg)))
 
     rows = []
     for group, label, profile, report in results:
@@ -369,8 +404,11 @@ def format_markdown(summary):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--json', action='store_true', help='Emit raw JSON summary instead of Markdown table')
+    parser.add_argument('--write-json', metavar='PATH', help='Write raw JSON summary to PATH')
     args = parser.parse_args(argv)
     summary = run_benchmark()
+    if args.write_json:
+        Path(args.write_json).write_text(json.dumps(summary, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     if args.json:
         print(json.dumps(summary, ensure_ascii=False, indent=2))
     else:

@@ -13,7 +13,7 @@
 | 3 | Chỉ trích lịch sử commit gộp (`9dd352a`) | **Quan sát đúng nhưng không nên rewrite history đã push.** Repo đã public (có stars/forks) và `CONTRIBUTING.md` quy định rõ không viết lại lịch sử đã công bố để tạo cảm giác quy trình giả. | **Giữ nguyên lịch sử cũ**; tách toàn bộ thay đổi mới thành 5 commit nguyên tử, rạch ròi theo từng chủ đề. |
 | 4 | Quickstart cài nhầm `requirements-dev.txt`, thiếu `pyproject.toml`, thiếu `LICENSE` | **Đúng.** Người dùng cuối chỉ cần runtime deps (`requirements.txt` hoặc `pip install -e .`), không cần `pytest`/`ruff`. | Thêm `LICENSE` (MIT), `pyproject.toml` với CLI `vndocs` + lệnh `vndocs doctor` kiểm tra môi trường và hướng dẫn LibreOffice theo từng OS. |
 | 5 | Cho rằng 7 profile là "ôm đồm", nên thu hẹp | **Đúng một phần về truyền thông, sai nếu cắt bỏ đa profile.** `SKILL.md` cố ý tránh áp đặt NĐ30/2020 lên báo cáo học thuật hoặc tài liệu doanh nghiệp. Vấn đề nằm ở chỗ README cũ chưa phân biệt rạch ròi profile nào đã có starter template sẵn và profile nào dùng builder/validator/custom config. | Giữ kiến trúc đa profile; thêm **Support Matrix** tách rõ **3 starter sẵn có** vs. **4 profile dùng builder/custom config**. |
-| 6 | Yêu cầu thêm bảng benchmark định lượng (10 prompt LLM) | **Đúng về nhu cầu bằng chứng định lượng, nhưng không được bịa benchmark LLM.** Không chạy thử nghiệm trên nhiều LLM thì không được giả lập số liệu pass/fail của model. | Giữ tính trung thực: tạo benchmark tái lập `evals/run_validation_benchmark.py` (12 case kiểm chứng cơ chế tạo & kiểm tra qua `validate_docx.py`) + so sánh trực tiếp với văn bản `.docx` thật ngoài thực tế. |
+| 6 | Yêu cầu thêm bảng benchmark định lượng (10 prompt LLM) | **Đúng về nhu cầu bằng chứng định lượng, nhưng không được bịa benchmark LLM.** Không chạy thử nghiệm trên nhiều LLM thì không được giả lập số liệu pass/fail của model. | Giữ tính trung thực: tạo benchmark tái lập `evals/run_validation_benchmark.py` (16 case kiểm chứng cơ chế tạo & kiểm tra qua `validate_docx.py`, công bố ở [BENCHMARK.md](BENCHMARK.md) và [benchmark-results.json](benchmark-results.json)) + so sánh trực tiếp với văn bản `.docx` thật ngoài thực tế. |
 
 ---
 
@@ -83,12 +83,12 @@ Những lỗi dưới đây **không có trong danh sách gợi ý ban đầu**,
 
 ## 4. Benchmark kiểm tra công cụ tái lập (`evals/run_validation_benchmark.py`)
 
-Chạy trực tiếp qua `python evals/run_validation_benchmark.py`:
+Xem báo cáo công khai đầy đủ tại [BENCHMARK.md](BENCHMARK.md) và dữ liệu JSON tại [benchmark-results.json](benchmark-results.json). Chạy trực tiếp qua `python evals/run_validation_benchmark.py`:
 
-- **Phạm vi đo lường:** Đo tỷ lệ pass/fail qua `scripts/validate_docx.py` trên **12 trường hợp tái lập bằng code** (6 file baseline tạo bằng `python-docx` mặc định không theo quy tắc skill vs. 6 file đầu ra sử dụng helper/starter/config của skill).
+- **Phạm vi đo lường:** Đo tỷ lệ pass/fail qua `scripts/validate_docx.py` trên **16 trường hợp tái lập bằng code** (8 file baseline tạo bằng `python-docx` mặc định hoặc áp nhầm lề NĐ30 lên văn bản Đảng/VBQPPL vs. 8 file đầu ra sử dụng helper/starter/config của skill).
 - **Giới hạn trung thực:** Đây là **benchmark deterministic của bộ công cụ DOCX**, không phải benchmark độc lập đo tỷ lệ sinh đúng của các mô hình ngôn ngữ (LLM) trên prompt tự nhiên. Ngoài ra, một số thuộc tính Word mặc định dùng theme/auto font (`Calibri`/`auto` ở case baseline đầu tiên) được validator ghi nhận trung thực vào mục `unchecked` thay vì suy đoán; các lỗi `page` và `margin` vẫn đủ làm case đó fail ngay.
 
-Kết quả thu được: **Baseline pass: 0/6 | Skill-guided pass: 6/6**.
+Kết quả thu được: **Baseline pass: 0/8 | Skill-guided pass: 8/8**.
 
 | Group | Case | Profile | Status | Issues | Codes |
 | --- | --- | --- | --- | ---: | --- |
@@ -98,9 +98,13 @@ Kết quả thu được: **Baseline pass: 0/6 | Skill-guided pass: 6/6**.
 | baseline | Unresolved `{{token}}` left in final DOCX | `administrative` | `fail` | 1 | placeholder |
 | baseline | Unresolved `[CẦN BỔ SUNG: ...]` left in final mode | `office` | `fail` | 1 | placeholder |
 | baseline | Broken Word numbering reference (`numId=99999`) | `academic` | `fail` | 1 | numbering |
+| baseline | Unguided Party doc (ND30 3.5/2.5 cm margins instead of HD 05 fixed) | `party` | `fail` | 2 | margin |
+| baseline | Unguided VBQPPL doc (2.5 cm top/bottom margins vs. ND 187/2025 2.0 cm) | `administrative+legal-normative` | `fail` | 2 | margin |
 | skill | ND30 notice starter filled + style role validation | `administrative` | `pass` | 0 | — |
 | skill | Academic short report starter filled + validation | `academic` | `pass` | 0 | — |
 | skill | Office minutes starter filled + validation | `minutes-general` | `pass` | 0 | — |
 | skill | Skill-generated 2-page ND30 notice (table + `PAGE` field) | `administrative` | `pass` | 0 | — |
 | skill | Multi-section office demo (portrait + landscape annex) | `minutes-general` | `pass` | 0 | — |
 | skill | Custom organization config (Arial 12pt, no landscape) | `custom` | `pass` | 0 | — |
+| skill | Skill-guided Party doc (HD 05-HD/VPTW fixed margins, 14pt, 20pt exact) | `party` | `pass` | 0 | — |
+| skill | Skill-guided VBQPPL doc (ND 187/2025 Appendix I rules, 14pt, 2.0 cm top/bottom) | `administrative+legal-normative` | `pass` | 0 | — |

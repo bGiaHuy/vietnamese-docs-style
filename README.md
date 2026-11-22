@@ -6,12 +6,13 @@ Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent
 
 [![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
 [![Static Checks](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml)
+[![Benchmark](https://img.shields.io/badge/benchmark-0%2F8%20baseline%20vs%208%2F8%20skill-brightgreen)](evals/BENCHMARK.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.2.0` (`47/47` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
+**Trạng thái:** `v0.2.0` (`48/48` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -68,19 +69,20 @@ Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy
 | `minutes-administrative` | Biên bản thủ tục hành chính cụ thể | Rule lề/font/số trang | Chọn mẫu đúng thủ tục thực tế |
 | `custom` | Biểu mẫu `.docx` riêng của trường/cơ quan/công ty | Giữ mẫu; kiểm theo `--config` | Người dùng cung cấp ([ví dụ config](assets/rules/custom-example.json)) |
 
-<details>
-<summary>Benchmark công cụ tái lập: Baseline 0/6 pass vs. Skill-guided 6/6 pass</summary>
+### Benchmark công cụ công khai (Baseline 0/8 vs. Skill 8/8)
 
-Chạy qua `python evals/run_validation_benchmark.py` trên **12 case deterministic** (6 file baseline tạo bằng `python-docx` mặc định vs. 6 đầu ra qua starter/builder/config của skill). Đây là phép đo hành vi cố định của bộ công cụ DOCX, không phải benchmark đo khả năng sinh văn bản của nhiều LLM trên prompt tự nhiên (xem đánh giá thủ công ở [evals/manual-results.md](evals/manual-results.md)).
+Chạy qua `python evals/run_validation_benchmark.py` trên **16 case deterministic** (8 file baseline mặc định / áp nhầm lề vs. 8 đầu ra qua starter/builder/config của skill, được đối chiếu liên tục trong CI). Đây là **benchmark của bộ công cụ kiểm tra DOCX** (`validate_docx.py`), không phải bảng xếp hạng đo độ chính xác sinh văn bản tự do của từng mô hình LLM:
 
 | Hạng mục kiểm tra (`validate_docx.py`) | Baseline mặc định | Đầu ra dùng Skill |
 | --- | :---: | :---: |
-| Tổng số case đạt `pass` | **0 / 6** | **6 / 6** |
-| Khổ giấy & lề NĐ30 (`page`, `margin`) | 3/3 case hành chính lỗi | 0 lỗi |
-| Font & màu chữ (`font`, `color`) | 2/3 case gán sai bị bắt | 0 lỗi |
-| Placeholder sót / `numId` hỏng | 3/3 case lỗi bị bắt | 0 lỗi |
+| **Tổng số case đạt `pass`** | **0 / 8 (0%)** | **8 / 8 (100%)** |
+| Khổ giấy & lề hành chính NĐ30 (`administrative`, `minutes-administrative`) | 0 / 3 pass (`margin`, `page`) | 0 lỗi |
+| Văn bản của Đảng (`party` — HD 05-HD/VPTW vs. áp nhầm lề NĐ30) | 0 / 1 pass (`margin`) | 1 / 1 pass |
+| VBQPPL (`administrative` + `legal-normative.json` — NĐ 187/2025) | 0 / 1 pass (`margin`) | 1 / 1 pass |
+| Font & màu chữ (`font`, `color`) | 2/2 case gán sai bị bắt | 0 lỗi |
+| Placeholder sót / `numId` hỏng (`placeholder`, `numbering`) | 3/3 case lỗi bị bắt | 0 lỗi |
 
-</details>
+Xem bảng kết quả đầy đủ 16 case, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
 ## Cách bắt đầu
 
@@ -205,7 +207,7 @@ vietnamese-docs-style/
 ├── evals/                     # Benchmark tái lập, báo cáo audit & manual evals
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 47 automated tests (pytest + LibreOffice render)
+└── tests/                     # 48 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -287,7 +289,15 @@ vndocs validate artifacts/demo/office-filled.docx --profile minutes-general
 vndocs render artifacts/demo/office-filled.docx --png
 ```
 
-Common workflows also include `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys and exit codes (`0` pass, `1` fail, `2` partial), and `python evals/run_validation_benchmark.py` for the reproducible `0/6` baseline vs. `6/6` skill-guided tooling benchmark (deterministic checks only; manual behavior reviews are in [evals/manual-results.md](evals/manual-results.md)).
+Common workflows also include `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys and exit codes (`0` pass, `1` fail, `2` partial).
+
+### Public Reproducible Benchmark (`0/8` Baseline vs. `8/8` Skill)
+
+Run `python evals/run_validation_benchmark.py` to execute all **16 deterministic validation cases** covering Decree 30/2020/NĐ-CP administrative notices/dispatches, Communist Party layouts (`party`, HD 05-HD/VPTW), legal-normative rules (`VBQPPL` / Decree 187/2025/NĐ-CP), font/color enforcement, placeholder checks, `numId` integrity, and custom organization configs.
+
+- **Result:** `0 / 8` naive baseline documents pass vs. `8 / 8` skill-guided outputs pass (verified against published JSON in CI).
+- **Scope note:** Measures deterministic `validate_docx.py` tooling behavior rather than independent multi-LLM prompt accuracy.
+- **Full reports:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
 ## Limitations & Integrations
 

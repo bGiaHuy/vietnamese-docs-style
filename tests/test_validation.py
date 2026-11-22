@@ -532,3 +532,17 @@ def test_skill_routes_only_to_existing_references():
             'references/administrative-doc-types-nd30.md',
             'references/administrative-writing-style.md'} <= paths
     assert all((root / path).is_file() for path in paths)
+
+
+def test_validation_benchmark_matches_published_json():
+    import importlib.util
+    root = Path(__file__).resolve().parents[1]
+    spec = importlib.util.spec_from_file_location(
+        'run_validation_benchmark', root / 'evals/run_validation_benchmark.py')
+    bench = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(bench)
+    summary = bench.run_benchmark()
+    assert (summary['baseline_pass'], summary['baseline_total']) == (0, 8)
+    assert (summary['skill_pass'], summary['skill_total']) == (8, 8)
+    published = json.loads((root / 'evals/benchmark-results.json').read_text(encoding='utf-8'))
+    assert summary == published

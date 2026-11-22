@@ -1,0 +1,156 @@
+{
+  "scope": "Deterministic tooling validation via validate_docx.py; not an independent multi-LLM prompt benchmark",
+  "baseline_pass": 0,
+  "baseline_total": 8,
+  "skill_pass": 8,
+  "skill_total": 8,
+  "cases": [
+    {
+      "group": "baseline",
+      "case": "Unguided ND30 notice (Letter, Calibri, default margins)",
+      "profile": "administrative",
+      "status": "fail",
+      "issue_count": 4,
+      "issue_codes": [
+        "margin",
+        "page"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unguided ND30 dispatch (Arial font, 2.54 cm margins)",
+      "profile": "administrative",
+      "status": "fail",
+      "issue_count": 4,
+      "issue_codes": [
+        "font",
+        "margin"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unguided minutes (blue Word heading, 2.0 cm left margin)",
+      "profile": "minutes-administrative",
+      "status": "fail",
+      "issue_count": 2,
+      "issue_codes": [
+        "color",
+        "margin"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unresolved {{token}} left in final DOCX",
+      "profile": "administrative",
+      "status": "fail",
+      "issue_count": 1,
+      "issue_codes": [
+        "placeholder"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unresolved [CẦN BỔ SUNG: ...] left in final mode",
+      "profile": "office",
+      "status": "fail",
+      "issue_count": 1,
+      "issue_codes": [
+        "placeholder"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Broken Word numbering reference (numId=99999)",
+      "profile": "academic",
+      "status": "fail",
+      "issue_count": 1,
+      "issue_codes": [
+        "numbering"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unguided Party doc (ND30 3.5/2.5 cm margins instead of HD 05 fixed)",
+      "profile": "party",
+      "status": "fail",
+      "issue_count": 2,
+      "issue_codes": [
+        "margin"
+      ]
+    },
+    {
+      "group": "baseline",
+      "case": "Unguided VBQPPL doc (2.5 cm top/bottom margins vs. ND 187/2025 2.0 cm)",
+      "profile": "administrative+legal-normative",
+      "status": "fail",
+      "issue_count": 2,
+      "issue_codes": [
+        "margin"
+      ]
+    },
+    {
+      "group": "skill",
+      "case": "ND30 notice starter filled + style role validation",
+      "profile": "administrative",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Academic short report starter filled + validation",
+      "profile": "academic",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Office minutes starter filled + validation",
+      "profile": "minutes-general",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Skill-generated 2-page ND30 notice (table + PAGE field)",
+      "profile": "administrative",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Multi-section office demo (portrait + landscape annex)",
+      "profile": "minutes-general",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Custom organization config (Arial 12pt, no landscape)",
+      "profile": "custom",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Skill-guided Party doc (HD 05-HD/VPTW fixed margins, 14pt, 20pt exact)",
+      "profile": "party",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    },
+    {
+      "group": "skill",
+      "case": "Skill-guided VBQPPL doc (ND 187/2025 Appendix I rules, 14pt, 2.0 cm top/bottom)",
+      "profile": "administrative+legal-normative",
+      "status": "pass",
+      "issue_count": 0,
+      "issue_codes": []
+    }
+  ]
+}
