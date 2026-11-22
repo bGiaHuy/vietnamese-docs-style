@@ -2,43 +2,94 @@
   "profile": "administrative",
   "doc_kind": "dispatch",
   "header": {
-    "parent_org": "UBND TỈNH THỬ NGHIỆM",
+    "parent_org": "ỦY BAN NHÂN DÂN TỈNH THỬ NGHIỆM",
     "organization": "SỞ TỔNG HỢP (GIẢ ĐỊNH)",
     "number": "125/STH-TH",
     "date": "Hà Nội, ngày 22 tháng 11 năm 2026",
-    "subject_brief": "V/v rà soát danh mục hồ sơ lưu trữ cuối năm (dữ liệu giả định)"
+    "subject_brief": "V/v hướng dẫn rà soát, chuẩn hóa thể thức văn bản điện tử và lập danh mục hồ sơ lưu trữ cuối năm 2026 (dữ liệu giả định)"
   },
   "recipients_to": [
-    "Các phòng chuyên môn trực thuộc (giả định)",
-    "Trung tâm Lưu trữ giả định"
+    "Các phòng, ban chuyên môn trực thuộc Sở (giả định)",
+    "Trung tâm Lưu trữ và Chuyển đổi số (giả định)",
+    "Bộ phận Văn thư - Tổng hợp các đơn vị trực thuộc"
   ],
   "body": [
     {
       "type": "paragraph",
-      "text": "Thực hiện kế hoạch công tác năm 2026 trong tình huống giả định, Sở Tổng hợp đề nghị các đơn vị phối hợp thực hiện một số nội dung sau:"
+      "text": "Thực hiện Chương trình công tác văn thư, lưu trữ năm 2026 của Ủy ban nhân dân tỉnh thử nghiệm và Kế hoạch số 88/KH-STH ngày 15 tháng 10 năm 2026 về việc kiểm tra, đánh giá chất lượng ban hành văn bản hành chính điện tử (tình huống giả định), Sở Tổng hợp hướng dẫn các phòng, ban và đơn vị trực thuộc triển khai đợt rà soát toàn diện hồ sơ cuối năm với các nội dung cụ thể như sau:"
     },
     {
-      "type": "bullet",
-      "items": [
-        "Rà soát toàn bộ hồ sơ công việc đã giải quyết xong trong năm 2026.",
-        "Lập mục lục hồ sơ nộp lưu về Bộ phận Văn thư trước ngày 05 tháng 12 năm 2026 (giả định)."
-      ],
+      "type": "heading",
+      "text": "I. NỘI DUNG RÀ SOÁT VÀ CHUẨN HÓA THỂ THỨC VĂN BẢN",
       "level": 1
     },
     {
       "type": "paragraph",
-      "text": "Đề nghị các đơn vị triển khai thực hiện theo đúng tiến độ nêu trên./."
+      "text": "1. Rà soát thể thức và kỹ thuật trình bày văn bản đi: Các đơn vị kiểm tra toàn bộ dự thảo công văn, thông báo, báo cáo, tờ trình trước khi trình ký phát hành theo đúng quy định tại Phụ lục I Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ về công tác văn thư. Toàn bộ văn bản phải sử dụng khổ giấy A4 (210 mm x 297 mm), lề trên 20–25 mm, lề dưới 20–25 mm, lề trái 30–35 mm, lề phải 15–20 mm, phông chữ Times New Roman thuộc bộ mã ký tự Unicode theo Tiêu chuẩn Việt Nam TCVN 6909:2001, màu chữ đen."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Kiểm soát cấu trúc bảng bố cục và ký tự tiếng Việt: Bộ phận Văn thư phối hợp với cán bộ soạn thảo kiểm tra kỹ phần Quốc hiệu, Tiêu ngữ, tên cơ quan ban hành, số và ký hiệu văn bản, địa danh và thời gian ban hành được trình bày trong bảng ẩn không viền đúng tỷ lệ ô trái – ô phải. Tuyệt đối khắc phục tình trạng văn bản sao chép từ nguồn cũ bị lỗi mã ký tự chữ Đ (U+00D0) hoặc sử dụng danh sách dấu chấm tròn tự động của công cụ hội thoại làm mất tính trang trọng của văn bản hành chính – công vụ."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Phân loại và lập danh mục hồ sơ công việc năm 2026: Mỗi chuyên viên được giao chủ trì hồ sơ có trách nhiệm tập hợp đầy đủ văn bản đi, văn bản đến, phiếu trình, biên bản họp và tài liệu tham khảo liên quan theo đúng trình tự thời gian giải quyết công việc; lập tờ bìa hồ sơ và mục lục văn bản trong hồ sơ trước khi bàn giao về Lưu trữ cơ quan."
+    },
+    {
+      "type": "heading",
+      "text": "II. DANH MỤC HỒ SƠ TRỌNG TÂM VÀ TIẾN ĐỘ BÀN GIAO",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Các đơn vị trực thuộc tổ chức rà soát, hoàn thiện và nộp lưu hồ sơ theo phân nhóm nhiệm vụ và mốc thời gian quy định tại bảng tổng hợp dưới đây (số liệu minh họa phục vụ kiểm thử):"
+    },
+    {
+      "type": "table",
+      "headers": ["TT", "Mã nhóm hồ sơ", "Tên nhóm hồ sơ và nội dung tài liệu nộp lưu", "Đơn vị chủ trì", "Thời hạn nộp"],
+      "rows": [
+        ["1", "HS-HC-01", "Hồ sơ ban hành quy chế làm việc, thông báo kết luận giao ban và chương trình công tác quý I–IV/2026", "Phòng Hành chính - Tổng hợp", "28/11/2026"],
+        ["2", "HS-KH-02", "Hồ sơ xây dựng kế hoạch đầu tư công trung hạn, báo cáo thẩm định và biên bản nghiệm thu giai đoạn", "Phòng Kế hoạch - Tài chính", "30/11/2026"],
+        ["3", "HS-NV-03", "Hồ sơ hướng dẫn nghiệp vụ chuyên ngành, văn bản trả lời kiến nghị và tổng hợp báo cáo chuyên đề", "Phòng Nghiệp vụ 1", "02/12/2026"],
+        ["4", "HS-NV-04", "Hồ sơ phối hợp liên ngành, biên bản làm việc với các địa phương và báo cáo đánh giá định kỳ", "Phòng Nghiệp vụ 2", "04/12/2026"],
+        ["5", "HS-PC-05", "Hồ sơ rà soát văn bản quy phạm pháp luật, báo cáo theo dõi thi hành pháp luật và kiểm tra nội bộ", "Phòng Pháp chế - Kiểm tra", "05/12/2026"],
+        ["6", "HS-LT-06", "Hồ sơ số hóa tài liệu lưu trữ lịch sử, nhật ký kiểm tra an toàn kho lưu trữ và biên bản giao nhận", "Trung tâm Lưu trữ giả định", "08/12/2026"],
+        ["7", "HS-CN-07", "Hồ sơ vận hành hệ thống quản lý văn bản điều hành, nhật ký sao lưu dữ liệu và cấp phát chữ ký số", "Bộ phận Công nghệ thông tin", "10/12/2026"]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "III. TỔ CHỨC THỰC HIỆN VÀ CHẾ ĐỘ BÁO CÁO",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Trưởng các phòng chuyên môn và Thủ trưởng đơn vị trực thuộc (giả định) chịu trách nhiệm trực tiếp trước Giám đốc Sở về tính đầy đủ, chính xác của danh mục hồ sơ nộp lưu; phân công 01 công chức làm đầu mối tổng hợp, đôn đốc và kiểm tra chéo thể thức văn bản trước khi đóng quyển bàn giao."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Phòng Hành chính - Tổng hợp chủ trì, phối hợp với Trung tâm Lưu trữ và Chuyển đổi số tổ chức hướng dẫn kỹ thuật chuẩn hóa tệp tin .docx, kiểm tra tự động định dạng lề trang, phông chữ, bảng biểu và bố cục trang ký nhằm bảo đảm không xảy ra tình trạng dòng chữ ký hoặc nơi nhận bị đẩy rơi lẻ sang trang tiếp theo."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Đối với các hồ sơ công việc chưa kết thúc trong năm 2026 hoặc cần gia hạn thời gian giải quyết sang quý I năm 2027, đơn vị chủ trì lập danh sách riêng kèm theo giải trình rõ lý do, tiến độ thực hiện và gửi về Phòng Hành chính - Tổng hợp trước ngày 05 tháng 12 năm 2026 để tổng hợp, báo cáo Lãnh đạo Sở xem xét, quyết định."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Trong quá trình triển khai thực hiện (tình huống minh họa), nếu phát sinh vướng mắc về quy trình lập danh mục hồ sơ hoặc kỹ thuật trình bày văn bản hành chính, đề nghị các đơn vị phản ánh kịp thời về Sở Tổng hợp (qua Phòng Hành chính - Tổng hợp) để được hướng dẫn, thống nhất xử lý theo quy định./."
     }
   ],
   "recipients": [
     "- Như trên;",
-    "- Lãnh đạo Sở (để b/c);",
-    "- Lưu: VT, TH."
+    "- Giám đốc và các Phó Giám đốc Sở (để b/c);",
+    "- Văn phòng UBND tỉnh thử nghiệm (để b/c);",
+    "- Cổng Thông tin điện tử Sở;",
+    "- Lưu: VT, HCTH (02b)."
   ],
   "signer": {
     "authority_lines": ["KT. GIÁM ĐỐC"],
     "position": "PHÓ GIÁM ĐỐC",
-    "note": "(Không có chữ ký trong tài liệu minh họa)",
-    "name": "Nguyễn Văn A (giả định)"
+    "note": "(Tài liệu minh họa kỹ thuật — không có chữ ký và con dấu)",
+    "name": "Nguyễn Văn Minh (giả định)"
   }
 }

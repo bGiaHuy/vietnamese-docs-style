@@ -1,41 +1,104 @@
 {
   "profile": "academic",
-  "title": "Báo cáo học thuật thử nghiệm về chuẩn hóa tài liệu tiếng Việt",
-  "subtitle": "Tình huống minh họa cấu trúc báo cáo không áp Quốc hiệu",
+  "title": "BÁO CÁO CHUYÊN ĐỀ NGHIÊN CỨU: KIẾN TRÚC ĐỊNH TUYẾN NGỮ CẢNH VÀ CHỈNH SỬA BỐ CỤC CÓ KIỂM SOÁT CHO TÀI LIỆU WORD (.DOCX) TIẾNG VIỆT",
+  "subtitle": "Tài liệu minh họa báo cáo học thuật đa trang theo profile academic — không áp Quốc hiệu và Tiêu ngữ hành chính",
   "metadata": [
-    "Tác giả: Nhóm nghiên cứu giả định",
-    "Học phần: Phương pháp nghiên cứu và trình bày báo cáo"
+    "Nhóm nghiên cứu: Nhóm Kỹ thuật Tài liệu & Hệ thống Agent (dữ liệu giả định)",
+    "Học phần / Chuyên đề: Xử lý Tài liệu Cấu trúc và Tự động hóa Văn phòng",
+    "Đơn vị: Khoa Công nghệ Thông tin — Trường Đại học Thử nghiệm",
+    "Thời gian thực hiện: Tháng 11 năm 2026"
   ],
   "body": [
     {
       "type": "heading",
-      "text": "1. Mục tiêu",
+      "text": "1. Đặt vấn đề và mục tiêu nghiên cứu",
       "level": 1
     },
     {
       "type": "paragraph",
-      "text": "Tài liệu minh họa quy trình sinh báo cáo học thuật từ JSON theo profile academic với lề chuẩn sạch sẽ, không áp Quốc hiệu hay tiêu ngữ của Nghị định 30/2020/NĐ-CP."
+      "text": "Trong quá trình ứng dụng các mô hình ngôn ngữ lớn (LLM) để tự động soạn thảo và chỉnh sửa tài liệu Word (.docx) tại Việt Nam, hai nhóm lỗi định dạng thường xuyên xuất hiện. Thứ nhất, khi tạo tài liệu mới mà không có bộ quy tắc định tuyến theo ngữ cảnh, mô hình thường sinh văn bản theo khuôn hội thoại chung chung với nhiều danh sách dấu chấm tròn, chữ in đậm dàn trải, khổ giấy US Letter (21,59 x 27,94 cm), phông chữ Calibri và tiêu đề màu xanh mặc định, hoặc áp nhầm Quốc hiệu – Tiêu ngữ của văn bản hành chính vào báo cáo khoa học. Thứ hai, khi chỉnh sửa bố cục trên tệp .docx có sẵn, việc để mô hình tác động trực tiếp lên cây XML thô thường gây sai lệch thứ tự phần tử theo chuẩn ECMA-376 và làm hỏng các bảng biểu không nằm trong phạm vi yêu cầu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Báo cáo chuyên đề này trình bày kiến trúc tách biệt hai luồng xử lý: (1) định tuyến thể thức theo 8 profile tài liệu Việt Nam khi khởi tạo hoặc điền mẫu, và (2) chỉnh sửa bố cục có kiểm soát thông qua bản đồ chỉ mục neo (anchor map) kết hợp kiểm định hình học trên bản render PDF thực tế."
     },
     {
       "type": "heading",
-      "text": "2. Quy trình thực hiện",
+      "text": "2. Cơ sở phương pháp và thiết kế hệ thống",
       "level": 1
+    },
+    {
+      "type": "heading",
+      "text": "2.1. Phân tách profile thể thức theo mục đích sử dụng",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Hệ thống thiết lập bộ thông số độc lập cho từng nhóm tài liệu dựa trên quy định hiện hành và thông lệ trình bày học thuật. Việc tách rời từng profile giúp loại bỏ hoàn toàn hiện tượng trộn lẫn thành phần thể thức giữa công văn hành chính, văn bản của Đảng và báo cáo nghiên cứu."
+    },
+    {
+      "type": "table",
+      "headers": ["Profile", "Nhóm tài liệu áp dụng", "Khổ giấy & Lề trang (Trên/Dưới/Trái/Phải)", "Phông chữ & Cỡ chữ thân bài", "Quy tắc bảo vệ cấu trúc đặc thù"],
+      "rows": [
+        ["administrative", "Công văn, thông báo, quyết định, tờ trình (NĐ 30/2020/NĐ-CP)", "A4; 2,0–2,5 / 2,0–2,5 / 3,0–3,5 / 1,5–2,0 cm", "Times New Roman, 13–14pt, giãn dòng 1,15–1,5", "Khóa bảng ẩn Quốc hiệu 2x2 và khối Nơi nhận/Chữ ký cuối bài"],
+        ["party", "Nghị quyết, chỉ thị, chương trình, báo cáo của Đảng (HD 05-HD/VPTW)", "A4; 2,0–2,5 / 2,0–2,5 / 3,0–3,5 / 1,5–2,0 cm", "Times New Roman, 14pt, giãn dòng cố định 20pt", "Số văn bản không có dấu hai chấm; Nơi nhận gạch chân; chức vụ ký không đậm"],
+        ["academic", "Báo cáo học thuật, đề cương luận văn, bài tiểu luận, đề thi", "A4; 2,0–2,5 / 2,0–2,5 / 3,0–3,5 / 2,0 cm", "Times New Roman, 13pt, giãn dòng 1,15–1,3", "Không chèn Quốc hiệu; đồng bộ phân cấp tiêu đề và bảng số liệu"],
+        ["minutes-general", "Biên bản họp nội bộ, biên bản làm việc nhóm dự án", "A4 (hỗ trợ phụ lục ngang Landscape)", "Times New Roman, 13pt, màu đen #000000", "Bảo toàn ngắt section dọc/ngang và bảng phân công nhiệm vụ"],
+        ["office", "Thông báo nội bộ doanh nghiệp, bản ghi nhớ, báo cáo tuần", "A4; lề văn phòng cân đối theo mẫu đơn vị", "Times New Roman, 13pt, trình bày rõ mạch", "Không ép khung hành chính nhà nước vào tài liệu nội bộ công ty"]
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "2.2. Chu trình chỉnh sửa bố cục 4 bước không chạm XML thô",
+      "level": 2
     },
     {
       "type": "numbered",
       "items": [
-        "Xác định loại tài liệu và nơi tiếp nhận.",
-        "Chuẩn bị cấu trúc mục rõ ràng và kiểm tra font, cỡ chữ sau khi xuất file."
+        "Lập bản đồ cấu trúc (vndocs map): Trích xuất danh sách section, bảng biểu, hình ảnh và đoạn văn kèm mã băm NFC 4 ký tự (T#h4, IMG#h4, P#h4), giúp giảm từ 90,1% đến 98,0% dung lượng ngữ cảnh so với việc nạp toàn bộ tệp word/document.xml.",
+        "Định vị mục tiêu từ ảnh chụp (Screenshot Grounding): Đối chiếu nội dung hàng/cột đặc trưng trong ảnh người dùng gửi với bản đồ cấu trúc trước; chỉ kích hoạt kết xuất nhãn Set-of-Mark (--annotate-marks) khi có từ hai bảng tương tự trở lên.",
+        "Thực thi thao tác định kiểu (vndocs layout-edit / paginate): Áp dụng 13 phép biến đổi đã kiểm tra thứ tự phần tử ECMA-376, tự động đồng bộ w:tblGrid với từng ô w:tcW (kể cả ô gộp gridSpan/vMerge) và bảo toàn nguyên vẹn cây XML ngoài mục tiêu (xml_ntpr = 1.0).",
+        "Đo đạc hình học sau kết xuất (vndocs diff-layout): Kết xuất PDF qua LibreOffice và đo tọa độ thực bằng PyMuPDF để phát hiện lỗi tràn lề phải hoặc nhảy trang ngoài ý muốn với giới hạn tối đa 2 vòng tinh chỉnh."
       ],
       "start": 1
     },
     {
+      "type": "heading",
+      "text": "3. Kết quả thực nghiệm và đánh giá định lượng",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Nhóm nghiên cứu tiến hành đánh giá hệ thống trên bộ dữ liệu phân tầng gồm 30 ca kiểm thử tiếng Việt (14 ca tài liệu ngắn 1–2 trang, 10 ca trung bình 3–6 trang, 6 ca tài liệu dài 8–12 trang) kết hợp 50 lượt chạy Live Agent A/B cô lập giữa hai nhánh có và không sử dụng skill. Toàn bộ dữ liệu bên dưới được trích xuất từ kịch bản kiểm thử tự động trong kho mã nguồn:"
+    },
+    {
       "type": "table",
-      "headers": ["Tiêu chí", "Mặc định profile academic"],
+      "headers": ["Tập đánh giá", "Quy mô mẫu", "Tỷ lệ đạt (Hit Rate)", "Bảo toàn ngoài mục tiêu (xml_ntpr)", "Mức giảm tổng Token (with vs without skill)", "Mức giảm thời gian thực thi"],
       "rows": [
-        ["Khổ giấy", "A4 (21.0 x 29.7 cm)"],
-        ["Phông chữ", "Times New Roman, 13pt, màu #000000"]
+        ["Validation Benchmark (validate_docx)", "16 ca (8 baseline / 8 skill)", "0/8 (0%) vs 8/8 (100%)", "1,0000", "Định tuyến trực tiếp qua rule validator", "Tự động kiểm tra dưới 1 giây/tệp"],
+        ["Deterministic Layout Oracle (v2.0)", "30 ca phân tầng (T01–T30)", "30/30 (100,0%)", "1,0000 (ZIP invariance 0,9960)", "Giảm 90,1%–98,0% payload XML tĩnh", "Hoàn tất 30 ca kiểm định tự động"],
+        ["Live Agent A/B Đợt 1 — Model flash", "24 lượt chạy (12 ca x 2 nhánh)", "12/12 vs 12/12 (100%)", "1,0000", "219.273 -> 72.536 token (-66,9%)", "98,1s -> 41,7s (-57,5%)"],
+        ["Live Agent A/B Đợt 1 — Model pro", "8 lượt chạy (4 ca khó x 2 nhánh)", "4/4 vs 4/4 (100%)", "1,0000", "619.055 -> 155.376 token (-74,9%)", "159,0s -> 59,5s (-62,6%)"],
+        ["Live Agent A/B Đợt 2 — Model flash", "12 lượt chạy (6 ca mở rộng x 2)", "6/6 vs 6/6 (100%)", "1,0000", "208.550 -> 97.790 token (-53,1%)", "77,2s -> 41,3s (-46,5%)"],
+        ["Live Agent A/B Đợt 2 — Model pro", "6 lượt chạy (3 ca kiểm chứng x 2)", "3/3 vs 3/3 (100%)", "1,0000", "324.405 -> 237.946 token (-26,7%)", "110,7s -> 85,0s (-23,2%)"]
       ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Số liệu thực nghiệm cho thấy việc cung cấp bản đồ cấu trúc gọn và các phép biến đổi định kiểu giúp mô hình tránh được vòng lặp đọc – sửa – lỗi trên XML thô, từ đó tiết kiệm từ 53,1% đến 74,9% tổng lượng token tiêu thụ trên các tác vụ chỉnh sửa bảng biểu, căn lề đoạn văn và xử lý phân trang phức tạp."
+    },
+    {
+      "type": "heading",
+      "text": "4. Kết luận và kiến nghị áp dụng",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Đối với tác vụ khởi tạo văn bản mới: Cần xác định rõ profile ngay từ bước đầu để áp dụng đúng khổ giấy, khung lề, phông chữ và thành phần bắt buộc; tuyệt đối không dùng chung một mẫu mặc định cho mọi loại tài liệu."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Đối với tác vụ điền mẫu và chỉnh sửa bố cục tệp có sẵn: Ưu tiên sử dụng cơ chế điền token bảo toàn byte (vndocs fill) hoặc các phép biến đổi bố cục theo neo (vndocs layout-edit, vndocs paginate) kết hợp kiểm tra hiển thị thực tế bằng LibreOffice và PyMuPDF trước khi bàn giao tài liệu chính thức."
     }
   ]
 }

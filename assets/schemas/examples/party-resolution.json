@@ -2,50 +2,93 @@
   "profile": "party",
   "doc_kind": "named",
   "header": {
-    "parent_org": "ĐẢNG BỘ XÃ THỬ NGHIỆM",
+    "parent_org": "ĐẢNG BỘ KHỐI CƠ QUAN THỬ NGHIỆM",
     "organization": "CHI BỘ PHÒNG TỔNG HỢP",
     "number": "01-NQ/CB",
     "date": "Hà Nội, ngày 22 tháng 11 năm 2026"
   },
   "title": "NGHỊ QUYẾT",
-  "subtitle": "về nhiệm vụ nâng cao chất lượng sinh hoạt chi bộ năm 2027 (dữ liệu giả định)",
+  "subtitle": "về nhiệm vụ nâng cao chất lượng sinh hoạt chi bộ, công tác kiểm tra, giám sát và chuẩn hóa văn bản của Đảng năm 2027 (dữ liệu giả định)",
   "legal_bases": [
-    "Căn cứ Điều lệ Đảng Cộng sản Việt Nam (tình huống minh họa);",
-    "Căn cứ chương trình công tác của Đảng uỷ xã thử nghiệm năm 2026."
+    "Căn cứ Điều lệ Đảng Cộng sản Việt Nam và các quy định, hướng dẫn của Trung ương về thi hành Điều lệ Đảng (tình huống minh họa);",
+    "Căn cứ Quy định số 399-QĐ/TW và Hướng dẫn số 05-HD/VPTW của Văn phòng Trung ương Đảng về thể thức và kỹ thuật trình bày văn bản của Đảng;",
+    "Căn cứ Nghị quyết của Đảng ủy Khối cơ quan thử nghiệm về phương hướng, nhiệm vụ công tác xây dựng Đảng năm 2027 và kết quả thảo luận tại hội nghị Chi bộ ngày 22 tháng 11 năm 2026,"
   ],
   "body": [
     {
       "type": "heading",
-      "text": "I. TÌNH HÌNH THỰC HIỆN NHIỆM VỤ",
+      "text": "I. ĐÁNH GIÁ TÌNH HÌNH VÀ KẾT QUẢ THỰC HIỆN NĂM 2026",
       "level": 1
     },
     {
       "type": "paragraph",
-      "text": "Trong năm qua, tập thể Chi bộ đã duy trì nền nếp sinh hoạt định kỳ và phân công nhiệm vụ cụ thể cho từng đảng viên (nội dung giả định phục vụ kiểm thử cấu trúc HD 05-HD/VPTW)."
+      "text": "1. Về lãnh đạo thực hiện nhiệm vụ chính trị và chuyên môn: Trong năm 2026 (dữ liệu giả định phục vụ kiểm thử cấu trúc văn bản Đảng), Chi bộ Phòng Tổng hợp đã bám sát sự chỉ đạo của Đảng ủy cấp trên, lãnh đạo cán bộ, đảng viên hoàn thành đúng tiến độ các chương trình công tác trọng tâm. Công tác tham mưu tổng hợp, thẩm định dự thảo văn bản và chuẩn hóa quy trình xử lý hồ sơ điện tử được triển khai đồng bộ, bảo đảm sự thống nhất giữa yêu cầu nghiệp vụ và kỷ luật hành chính."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Về công tác tư tưởng, tổ chức xây dựng Đảng và nền nếp sinh hoạt chi bộ: Chi bộ duy trì nghiêm chế độ sinh hoạt định kỳ hằng tháng và sinh hoạt chuyên đề hằng quý; nội dung sinh hoạt được chuẩn bị trước, gắn kết chặt chẽ giữa việc học tập nghị quyết với kiểm điểm tiến độ nhiệm vụ được phân công của từng đảng viên. Tinh thần tự phê bình và phê bình trong sinh hoạt được giữ vững trên nguyên tắc đoàn kết, dân chủ, thẳng thắn và xây dựng."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Những hạn chế, tồn tại và nguyên nhân: Bên cạnh kết quả đạt được, một số báo cáo sơ kết chuyên đề và dự thảo văn bản trong Chi bộ đôi lúc còn chuẩn bị sát thời điểm họp; kỹ thuật trình bày ở một số bản thảo chưa thống nhất về khoảng cách dòng cố định 20pt và định dạng bảng biểu theo Hướng dẫn số 05-HD/VPTW. Nguyên nhân chủ yếu do khâu rà soát thể thức trước khi ban hành chưa được tự động hóa đồng bộ."
     },
     {
       "type": "heading",
-      "text": "II. PHƯƠNG HƯỚNG, NHIỆM VỤ TRỌNG TÂM",
+      "text": "II. PHƯƠNG HƯỚNG, CHỈ TIÊU VÀ NHIỆM VỤ TRỌNG TÂM NĂM 2027",
       "level": 1
     },
     {
-      "type": "bullet",
-      "items": [
-        "Chuẩn bị tài liệu sinh hoạt chuyên đề trước mỗi kỳ họp ít nhất 03 ngày.",
-        "Theo dõi và đánh giá kết quả thực hiện nghị quyết hàng quý."
-      ],
+      "type": "paragraph",
+      "text": "1. Mục tiêu chung: Nâng cao năng lực lãnh đạo, sức chiến đấu của Chi bộ; xây dựng đội ngũ đảng viên có bản lĩnh chính trị vững vàng, gương mẫu trong thực thi công vụ; hoàn thành 100% chương trình công tác năm 2027 và chuẩn hóa toàn bộ hệ thống văn bản, hồ sơ của Chi bộ theo đúng quy định hiện hành."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Các chỉ tiêu và nhiệm vụ phân công cụ thể trong năm 2027 (số liệu minh họa):"
+    },
+    {
+      "type": "table",
+      "headers": ["TT", "Nội dung nhiệm vụ và chuyên đề công tác", "Chỉ tiêu phấn đấu", "Phân công phụ trách", "Thời gian thực hiện"],
+      "rows": [
+        ["1", "Duy trì sinh hoạt Chi bộ định kỳ hằng tháng và chuẩn bị dự thảo nội dung trước kỳ họp", "12/12 kỳ họp đúng lịch; gửi tài liệu trước 03 ngày", "Chi ủy Chi bộ", "Hằng tháng năm 2027"],
+        ["2", "Tổ chức sinh hoạt chuyên đề gắn với nâng cao chất lượng tham mưu, tổng hợp văn bản", "04 chuyên đề/năm (01 chuyên đề/quý)", "Phó Bí thư Chi bộ", "Quý I, II, III, IV/2027"],
+        ["3", "Chuẩn hóa thể thức nghị quyết, chương trình, báo cáo của Chi bộ theo HD 05-HD/VPTW", "100% văn bản ban hành đạt chuẩn thể thức", "Đảng viên phụ trách văn thư", "Thường xuyên trong năm"],
+        ["4", "Thực hiện kế hoạch kiểm tra, giám sát chuyên đề đối với đảng viên trong Chi bộ", "Kiểm tra, giám sát đạt 100% kế hoạch năm", "Chi ủy viên phụ trách KTGS", "Tháng 5 và tháng 10/2027"],
+        ["5", "Công tác bồi dưỡng quần chúng ưu tú và rà soát hồ sơ đảng viên định kỳ cuối năm", "100% hồ sơ được rà soát, bổ sung đầy đủ", "Bí thư Chi bộ", "Quý II và Quý IV/2027"],
+        ["6", "Tổng kết công tác xây dựng Đảng, đánh giá và xếp loại chất lượng đảng viên cuối năm", "100% đảng viên hoàn thành tốt nhiệm vụ trở lên", "Tập thể Chi bộ", "Tháng 11–12/2027"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Giải pháp trọng tâm về đổi mới phương thức làm việc: Chi ủy phân công rõ đầu mối chuẩn bị nội dung và thẩm định thể thức đối với từng dự thảo nghị quyết, kế hoạch, báo cáo; tăng cường ứng dụng bộ công cụ kiểm tra tự động để bảo đảm tính chuẩn mực về khổ giấy, căn lề, phông chữ Times New Roman cỡ 14pt, giãn dòng cố định và bố cục chữ ký đúng quy định của Đảng."
+    },
+    {
+      "type": "heading",
+      "text": "III. TỔ CHỨC THỰC HIỆN",
       "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Chi ủy Chi bộ Phòng Tổng hợp chịu trách nhiệm cụ thể hóa Nghị quyết này thành chương trình công tác hằng quý và hằng tháng; thường xuyên theo dõi, đôn đốc, kiểm tra kết quả thực hiện của từng đảng viên, định kỳ sơ kết 06 tháng và tổng kết cuối năm để báo cáo Đảng ủy Khối cơ quan thử nghiệm."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Mỗi đảng viên trong Chi bộ căn cứ chức trách, nhiệm vụ được giao chủ động xây dựng kế hoạch cá nhân năm 2027, nghiêm túc thực hiện quy chế làm việc và báo cáo kết quả tại các kỳ sinh hoạt Chi bộ định kỳ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nghị quyết này đã được Chi bộ Phòng Tổng hợp biểu quyết thông qua tại hội nghị ngày 22 tháng 11 năm 2026 và phổ biến tới toàn thể đảng viên trong Chi bộ để quán triệt, tổ chức thực hiện."
     }
   ],
   "recipients": [
-    "- Đảng uỷ xã thử nghiệm (b/c);",
-    "- Các đồng chí đảng viên trong Chi bộ;",
-    "- Lưu Chi bộ."
+    "- Đảng ủy Khối cơ quan thử nghiệm (để b/c);",
+    "- Ủy ban Kiểm tra Đảng ủy Khối (để b/c);",
+    "- Các đồng chí đảng viên trong Chi bộ (để t/h);",
+    "- Lưu Hồ sơ Chi bộ."
   ],
   "signer": {
     "authority_lines": ["T/M CHI BỘ"],
     "position": "BÍ THƯ",
-    "note": "(Không có chữ ký trong tài liệu minh họa)",
-    "name": "Trần Văn B (giả định)"
+    "note": "(Tài liệu minh họa kỹ thuật — không có chữ ký và con dấu)",
+    "name": "Trần Văn Bình (giả định)"
   }
 }
