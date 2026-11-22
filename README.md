@@ -1,6 +1,6 @@
 # Vietnamese Docs Style
 
-Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền mẫu và kiểm tra file Word (`.docx`) theo quy ước trình bày Việt Nam — từ văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng, VBQPPL đến báo cáo học thuật và tài liệu văn phòng.
+Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền mẫu và kiểm tra file Word (`.docx`) theo quy ước trình bày Việt Nam — văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng, VBQPPL, báo cáo học thuật và tài liệu văn phòng.
 
 *Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
 
@@ -12,7 +12,7 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.2.0` (`53/53` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
+**Trạng thái:** `v0.2.0` (`53/53` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ source code (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -44,13 +44,13 @@ Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương K
 
 ## Giới thiệu ngắn
 
-Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy ước địa phương, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
+Khi LLM hoặc script Python tự tạo một file `.docx` mới mà không được cấu hình định dạng phù hợp với văn bản của nước ta, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
 
 `vietnamese-docs-style` tách thành hai phần. Bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp agent chọn đúng thể thức ngay từ đầu. Đi kèm là CLI `vndocs` để tạo file, điền mẫu giữ nguyên XML gốc, validate và render ảnh từng trang.
 
 ## Tính năng chính
 
-- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 8 profile; NĐ30/2020 chỉ áp dụng cho văn bản hành chính nhà nước, tách biệt với văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), VBQPPL (Phụ lục I NĐ 187/2025/NĐ-CP), bài học thuật hay tài liệu công ty.
+- Chọn thể thức phù hợp với loại văn bản và nơi tiếp nhận thông qua 8 profile, hỗ trợ văn bản hành chính theo NĐ30/2020, văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), VBQPPL (NĐ 187/2025/NĐ-CP), tài liệu học thuật và tài liệu doanh nghiệp.
 - Sinh file `.docx` đa profile từ JSON đúng [JSON Schema](assets/schemas/document-input.schema.json) (`vndocs generate ... --validate`), điền token `{{name}}` (`vndocs fill`) hoặc vá vị trí xác minh bằng `vndocs edit --source-sha256`, giữ nguyên XML ngoài vùng sửa.
 - Soi nhanh file mẫu và phát hiện lỗi encoding `Ð` (`U+00D0` -> `Đ` `U+0110`), `kính giửi` hoặc placeholder sót qua `vndocs inspect`; kiểm tra khổ giấy, lề, font/màu kế thừa, style role và numbering qua `vndocs validate`.
 - Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm (`vndocs render --png`) để kiểm tra hiển thị thực tế trước khi bàn giao.
@@ -101,7 +101,7 @@ npx skills check
 npx skills update
 ```
 
-### Cài bộ công cụ Python `vndocs` từ mã nguồn
+### Cài bộ công cụ Python `vndocs` từ source code
 
 ```bash
 git clone https://github.com/bGiaHuy/vietnamese-docs-style.git
