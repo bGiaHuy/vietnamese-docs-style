@@ -50,7 +50,7 @@ def package_skill(root, destination):
             raise ValueError('Package member mismatch')
     return {'output': str(destination), 'files': len(entries),
             'sha256': hashlib.sha256(destination.read_bytes()).hexdigest(),
-            'excluded': ['source-documents/train_data', 'third-party research templates',
+            'excluded': ['references/source-documents', 'third-party research templates',
                          '.git', '.codex', '.test-deps', '.tools', 'artifacts', 'tests']}
 
 

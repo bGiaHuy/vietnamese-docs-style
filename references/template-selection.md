@@ -25,7 +25,7 @@ tra và tình trạng quyền tái phân phối. Nguồn công khai chưa mặc 
 Rút ra bố cục, trình tự thông tin, cách liên kết căn cứ với hành động, trình bày
 lịch/phân công. Không học lỗi OCR hoặc biến chi tiết riêng thành quy tắc chung.
 Không tái sử dụng dấu/chữ ký, số văn bản, người ký hoặc dữ kiện của tài liệu cũ.
-`assets/samples/` là ví dụ đã điền, không mặc định là mẫu trống.
+Ví dụ đã điền hoặc văn bản đã ban hành không mặc định là mẫu trống.
 
 ## Sửa DOCX
 
