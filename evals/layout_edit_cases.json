@@ -1,5 +1,5 @@
 {
-  "benchmark_name": "vietnamese-vibe-docx-edit-v1",
+  "benchmark_name": "vietnamese-docx-layout-edit-v1",
   "version": "2.0",
   "design_references": [
     "SkillsBench (arXiv:2602.12670): paired no-skill vs curated-skill arms, zero benchmark/skill leakage in task prompts, normalized gain g",

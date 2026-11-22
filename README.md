@@ -101,12 +101,12 @@ Benchmark gồm **16 test case**, chạy bằng `python evals/run_validation_ben
 
 Xem bảng đầy đủ, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
-### Benchmark chỉnh sửa bố cục (Vibe Docs): 30/30 Oracle Hit & `xml_ntpr = 1.0`
+### Benchmark chỉnh sửa bố cục: 30/30 Oracle Hit & `xml_ntpr = 1.0`
 
-Bộ benchmark phân tầng **30 ca (`T01`–`T30`)** trên văn bản ngắn/trung bình/dài (`short: 14`, `medium: 10`, `long: 6`), chạy tái lập bằng `python evals/run_vibe_edit_benchmark.py --run-oracle`:
+Bộ benchmark phân tầng **30 ca (`T01`–`T30`)** trên văn bản ngắn/trung bình/dài (`short: 14`, `medium: 10`, `long: 6`), chạy tái lập bằng `python evals/run_layout_benchmark.py --run-oracle`:
 
 - **Kết quả oracle (`vndocs`):** **30 / 30 (100.0%)** đạt mọi checkpoint hình học PDF + OOXML, **100%** bảo toàn cấu trúc XML ngoài vùng sửa (`xml_ntpr = 1.0`), **4 / 4** ca rủi ro/mơ hồ từ chối an toàn (kể cả `.docx` đã ký số `T28` và ảnh crop không phân biệt được `T17`).
-- **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`). Chi tiết nằm ở [`evals/VIBE-BENCHMARK.md`](evals/VIBE-BENCHMARK.md).
+- **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`). Chi tiết nằm ở [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md).
 
 ## Cách bắt đầu
 
@@ -227,7 +227,7 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
   python -m compileall -q scripts tests evals
   python -m pytest -q
   python evals/run_validation_benchmark.py
-  python evals/run_vibe_edit_benchmark.py --run-oracle
+  python evals/run_layout_benchmark.py --run-oracle
   ```
 - **Báo lỗi và đóng góp:** Mở issue tại [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) hoặc gửi Pull Request theo hướng dẫn tại [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -248,7 +248,7 @@ vietnamese-docs-style/
 ├── assets/                    # Starter templates, JSON Schema, ví dụ đầu vào & custom rules
 ├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
 ├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
-├── evals/                     # Benchmark tái lập, báo cáo audit & Vibe Docs 30-case eval
+├── evals/                     # Benchmark tái lập, báo cáo audit & layout-edit 30-case eval
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
 └── tests/                     # 93 automated tests (pytest + LibreOffice render)
@@ -304,7 +304,7 @@ Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 c
 
 - Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
 - Declarative multi-profile JSON generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), `{{token}}` template filling (`vndocs fill`), and SHA256-verified slot patching (`vndocs edit`) preserving untouched ZIP members.
-- Controlled Vibe Docs layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`).
+- Controlled layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`).
 - Template inspection and lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.
 - PDF and PNG page rendering (`vndocs render --png`, with SHA-256 PDF caching via `--cache-dir` and optional Windows Word COM backend via `--renderer word-win`) via LibreOffice in a temporary profile.
 - Root agent sitemap ([llms.txt](llms.txt)), interview checklist ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and skill ZIP packaging (`vndocs package`).
@@ -360,12 +360,12 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
 - **Result:** `0 / 8` baseline pass vs. `8 / 8` skill pass (checked continuously in CI).
 - **Details:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
-### Layout Editing Benchmark (Vibe Docs): 30/30 Oracle Hit & `xml_ntpr = 1.0`
+### Layout Editing Benchmark: 30/30 Oracle Hit & `xml_ntpr = 1.0`
 
-30 stratified DOCX layout cases (`T01`–`T30`; `short: 14`, `medium: 10`, `long: 6`), run via `python evals/run_vibe_edit_benchmark.py --run-oracle`:
+30 stratified DOCX layout cases (`T01`–`T30`; `short: 14`, `medium: 10`, `long: 6`), run via `python evals/run_layout_benchmark.py --run-oracle`:
 
 - **Oracle (`vndocs`):** **30 / 30 (100.0%)** pass every PDF geometry & OOXML checkpoint with **100%** non-target XML preservation (`xml_ntpr = 1.0`) and **4 / 4** safe fail-closed refusals (including signed `.docx` `T28` and indistinguishable crops `T17`).
-- **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`). See [`evals/VIBE-BENCHMARK.md`](evals/VIBE-BENCHMARK.md).
+- **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`). See [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md).
 
 ## Limitations & Integrations
 
@@ -388,7 +388,7 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
   python -m compileall -q scripts tests evals
   python -m pytest -q
   python evals/run_validation_benchmark.py
-  python evals/run_vibe_edit_benchmark.py --run-oracle
+  python evals/run_layout_benchmark.py --run-oracle
   ```
 - Report bugs or submit PRs via [GitHub Issues](https://github.com/bGiaHuy/vietnamese-docs-style/issues) following [CONTRIBUTING.md](CONTRIBUTING.md).
 

@@ -1,4 +1,4 @@
-"""Unit and LibreOffice integration tests for Phase 1B Vibe Docs extensions."""
+"""Unit and LibreOffice integration tests for extended table, image, and paragraph layout operations."""
 import struct
 import zlib
 from pathlib import Path

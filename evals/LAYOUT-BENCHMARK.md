@@ -1,4 +1,4 @@
-# Vibe Docs Benchmark Report (`evals/vibe_edit_cases.json` v2.0)
+# Layout Editing Benchmark Report (`evals/layout_edit_cases.json` v2.0)
 
 - Generated: `2026-11-22T21:26:23.682590+07:00`
 - Corpus cases: **30** (`short`: 14, `medium`: 10, `long`: 6)
@@ -20,8 +20,8 @@
 
 ## 2. Static Context Payload (`word/document.xml` vs `vndocs map`)
 
-- `SKILL.md`: **9496 bytes** (~2374 est tok)
-- `SKILL.md` + `references/tooling.md`: **24406 bytes** (~6102 est tok)
+- `SKILL.md`: **9484 bytes** (~2371 est tok)
+- `SKILL.md` + `references/tooling.md`: **24382 bytes** (~6096 est tok)
 
 | Tier | Cases | Mean `document.xml` | Mean `map --format markdown` | Reduction |
 |---|---:|---:|---:|---:|
@@ -67,6 +67,6 @@
 ## 4. Reproduce
 
 ```bash
-python evals/run_vibe_edit_benchmark.py --run-oracle --write-doc evals/VIBE-BENCHMARK.md
-python evals/run_vibe_edit_benchmark.py --measure-payload
+python evals/run_layout_benchmark.py --run-oracle --write-doc evals/LAYOUT-BENCHMARK.md
+python evals/run_layout_benchmark.py --measure-payload
 ```

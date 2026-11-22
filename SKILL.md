@@ -86,7 +86,7 @@ placeholder, lỗi ký tự `Ð` (`U+00D0`) và `scripts/generate_docx.py` theo
 Giữ section, heading, numbering, header/footer, bảng, mục lục và trường số trang
 của mẫu. Không áp quốc hiệu, bìa, thư ngỏ, nơi nhận hoặc cấm bullet cho mọi tài liệu.
 
-### Chỉnh sửa bố cục DOCX hiện có (Vibe Docs)
+### Chỉnh sửa bố cục DOCX hiện có
 
 Khi chỉnh sửa bảng, ảnh hoặc đoạn văn trên file `.docx` có sẵn, thực hiện quy trình 4 bước để giữ nguyên cấu trúc ngoài vùng sửa (`xml_ntpr == 1.0`):
 

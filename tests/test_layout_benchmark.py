@@ -1,4 +1,4 @@
-"""Unit and oracle grader tests for the Vibe Docs benchmark suite (`evals/`)."""
+"""Unit and oracle grader tests for the layout editing benchmark suite (`evals/`)."""
 import importlib.util
 import json
 from pathlib import Path
@@ -10,12 +10,12 @@ import map_docx
 from render_docx import find_renderer
 
 ROOT = Path(__file__).resolve().parent.parent
-CASES_PATH = ROOT / 'evals' / 'vibe_edit_cases.json'
-BENCH_SCRIPT = ROOT / 'evals' / 'run_vibe_edit_benchmark.py'
+CASES_PATH = ROOT / 'evals' / 'layout_edit_cases.json'
+BENCH_SCRIPT = ROOT / 'evals' / 'run_layout_benchmark.py'
 
 
 def _load_bench():
-    spec = importlib.util.spec_from_file_location('run_vibe_edit_benchmark', BENCH_SCRIPT)
+    spec = importlib.util.spec_from_file_location('run_layout_benchmark', BENCH_SCRIPT)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
     return mod
@@ -71,7 +71,7 @@ def test_generate_corpus_and_measure_payload(tmp_path):
     payload = bench.measure_payload(corpus_dir)
     assert payload['by_length_tier']['long']['mean_raw_doc_xml_bytes'] > payload['by_length_tier']['short']['mean_raw_doc_xml_bytes']
     assert payload['by_length_tier']['long']['mean_reduction_pct'] > 85.0
-    assert payload['instruction_overhead']['compact_vibe_skill_bytes'] < payload['instruction_overhead']['full_skill_md_bytes']
+    assert payload['instruction_overhead']['compact_layout_skill_bytes'] < payload['instruction_overhead']['full_skill_md_bytes']
 
 
 def test_grader_refusal_t04_and_transcript_parser(tmp_path):

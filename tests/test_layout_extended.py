@@ -1,4 +1,4 @@
-"""Unit and integration tests for Vibe Docs Phase 2 extensions (P2.1-P2.3)."""
+"""Unit and integration tests for Word COM rendering, render cache, track changes, and extended layout ops."""
 from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch

@@ -1,4 +1,4 @@
-"""Unit and LibreOffice integration tests for Phase 0 Vibe Docs PoC modules."""
+"""Unit and LibreOffice integration tests for layout mapping, editing, and diffing modules."""
 import json
 import unicodedata
 import zipfile

@@ -87,7 +87,7 @@ PDF cũ là thành công. Status `rendered` chỉ nghĩa đã tạo file, chưa 
 từ screenshot mà không làm biến dạng PDF sạch. Thiếu renderer hoặc PNG chưa tạo
 được trả code 2; lỗi chuyển đổi trả code 1. Kiểm tra ảnh thật trước khi nghiệm thu bố cục.
 
-## Chỉnh sửa bố cục có kiểm soát (Vibe Docs)
+## Chỉnh sửa bố cục có kiểm soát
 
 Luồng chỉnh sửa bố cục trên `.docx` hiện có giữ nguyên cấu trúc ngoài vùng đích (`xml_ntpr == 1.0`):
 

@@ -1,4 +1,4 @@
-"""Unit and LibreOffice integration tests for Vibe Docs Phase 3 (P3.1-P3.2)."""
+"""Unit and LibreOffice integration tests for auto-pagination and OOXML namespace hardening."""
 import zipfile
 from pathlib import Path
 

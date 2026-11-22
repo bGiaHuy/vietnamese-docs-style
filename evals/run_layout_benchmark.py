@@ -21,10 +21,10 @@ from docx.shared import Cm, Pt
 from lxml import etree
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-CASES_PATH = Path(__file__).resolve().parent / 'vibe_edit_cases.json'
+CASES_PATH = Path(__file__).resolve().parent / 'layout_edit_cases.json'
 ASSETS_TEMPLATES = REPO_ROOT / 'assets' / 'templates'
 
-COMPACT_VIBE_SKILL_BLOCK = """Vibe Docs Workflow (`vndocs` — NO raw XML surgery):
+COMPACT_LAYOUT_SKILL_BLOCK = """Controlled Layout Editing Workflow (`vndocs` — NO raw XML surgery):
 1. Map first: `vndocs map <src.docx> --format markdown` (add `--include-paragraphs` for paragraph anchors `P#h4`, `--format json` only if `source_sha256` or DXA needed).
 2. Fail-closed safety & Screenshot Grounding:
    - NEVER modify `[LAYOUT:...]` tables unless explicitly asked. If no valid data target exists or `< 0.51 cm` text col width is requested, STOP & report `status: "refused"`.
@@ -923,15 +923,15 @@ def measure_payload(corpus_dir=None):
 
         skill_md_path = REPO_ROOT / 'SKILL.md'
         tooling_md_path = REPO_ROOT / 'references' / 'tooling.md'
-        compact_b = len(COMPACT_VIBE_SKILL_BLOCK.encode('utf-8'))
+        compact_b = len(COMPACT_LAYOUT_SKILL_BLOCK.encode('utf-8'))
         full_skill_b = skill_md_path.stat().st_size if skill_md_path.is_file() else 0
         tooling_b = tooling_md_path.stat().st_size if tooling_md_path.is_file() else 0
 
         return {
             'token_estimation_note': 'Heuristic bytes/4 proxy for static payload only; live A/B measures exact model tokens from transcript.jsonl.',
             'instruction_overhead': {
-                'compact_vibe_skill_bytes': compact_b,
-                'compact_vibe_skill_est_tok': round(compact_b / 4),
+                'compact_layout_skill_bytes': compact_b,
+                'compact_layout_skill_est_tok': round(compact_b / 4),
                 'full_skill_md_bytes': full_skill_b,
                 'full_skill_md_est_tok': round(full_skill_b / 4),
                 'full_skill_plus_tooling_bytes': full_skill_b + tooling_b,
@@ -2185,7 +2185,7 @@ def analyze_ab(ab_root_dir):
 
     payload_stats = measure_payload(root / 'corpus' if (root / 'corpus').is_dir() else None)
     benchmark_out = {
-        'benchmark_name': 'vietnamese-vibe-docx-edit-v1',
+        'benchmark_name': 'vietnamese-docx-layout-edit-v1',
         'generated_at': datetime.now().astimezone().isoformat(),
         'run_summary': summary,
         'static_payload': payload_stats,
@@ -2202,7 +2202,7 @@ def analyze_ab(ab_root_dir):
 
 def _write_live_ab_report(report_path, data):
     lines = [
-        '# Live A/B Benchmark Report: Vibe Docs Skill (`with_skill` vs `without_skill`)',
+        '# Live A/B Benchmark Report: Layout Editing Skill (`with_skill` vs `without_skill`)',
         '',
         f"- Generated: `{data['generated_at']}`",
         f"- Arm A contamination count: **{len(data['contaminated_without_skill_runs'])}**",
@@ -2263,7 +2263,7 @@ def _write_live_ab_report(report_path, data):
     lines.extend([
         '',
         '## 4. Payload Tĩnh (`word/document.xml` vs `vndocs map`)',
-        f"- Compact skill block (~550-650 tok target): **{sp['instruction_overhead']['compact_vibe_skill_bytes']} bytes** (~{sp['instruction_overhead']['compact_vibe_skill_est_tok']} est tok)",
+        f"- Compact skill block (~550-650 tok target): **{sp['instruction_overhead']['compact_layout_skill_bytes']} bytes** (~{sp['instruction_overhead']['compact_layout_skill_est_tok']} est tok)",
         f"- Full `SKILL.md`: **{sp['instruction_overhead']['full_skill_md_bytes']} bytes** (~{sp['instruction_overhead']['full_skill_md_est_tok']} est tok)",
         f"- Full `SKILL.md` + `tooling.md`: **{sp['instruction_overhead']['full_skill_plus_tooling_bytes']} bytes** (~{sp['instruction_overhead']['full_skill_plus_tooling_est_tok']} est tok)",
         '',
@@ -2467,11 +2467,11 @@ def _execute_oracle_case(case, src_docx, sub_case_dir):
     return {'mode': 'layout_edit', 'report': edit_res}
 
 
-def _write_vibe_benchmark_doc(doc_path, oracle_report):
+def _write_layout_benchmark_doc(doc_path, oracle_report):
     ov = oracle_report['summary']
     sp = oracle_report['static_payload']
     lines = [
-        '# Vibe Docs Benchmark Report (`evals/vibe_edit_cases.json` v2.0)',
+        '# Layout Editing Benchmark Report (`evals/layout_edit_cases.json` v2.0)',
         '',
         f"- Generated: `{oracle_report['generated_at']}`",
         f"- Corpus cases: **{ov['total_cases']}** (`short`: {oracle_report['by_length_tier']['short']['n']}, `medium`: {oracle_report['by_length_tier']['medium']['n']}, `long`: {oracle_report['by_length_tier']['long']['n']})",
@@ -2531,8 +2531,8 @@ def _write_vibe_benchmark_doc(doc_path, oracle_report):
         '## 4. Reproduce',
         '',
         '```bash',
-        'python evals/run_vibe_edit_benchmark.py --run-oracle --write-doc evals/VIBE-BENCHMARK.md',
-        'python evals/run_vibe_edit_benchmark.py --measure-payload',
+        'python evals/run_layout_benchmark.py --run-oracle --write-doc evals/LAYOUT-BENCHMARK.md',
+        'python evals/run_layout_benchmark.py --measure-payload',
         '```',
     ])
     out = Path(doc_path)
@@ -2602,7 +2602,7 @@ def run_oracle_suite(write_doc=None):
         'cases': results,
     }
     if write_doc:
-        _write_vibe_benchmark_doc(write_doc, report)
+        _write_layout_benchmark_doc(write_doc, report)
     return report
 
 
