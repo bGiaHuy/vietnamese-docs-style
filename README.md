@@ -58,6 +58,8 @@ Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương K
 
 </details>
 
+**Tải / mở trực tiếp 10 file `.docx` mẫu đã điền sẵn (7 starter + 3 tài liệu sinh từ JSON):** [`assets/examples/`](assets/examples/)
+
 ## Giới thiệu ngắn
 
 Khi chưa được hướng dẫn đúng ngữ cảnh công việc, AI và script Python mặc định thường biến mọi văn bản thành danh sách dấu chấm tròn (`•`), **in đậm** dàn trải đầu dòng, rơi về khổ US Letter, lề `2.54 cm`, font Calibri/Arial và tiêu đề màu xanh của Word; nhiều trường hợp lại áp nhầm Quốc hiệu – Tiêu ngữ theo Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo doanh nghiệp. Khi chỉnh sửa trên file `.docx` có sẵn, cách để agent tự đọc và sửa XML thô cũng rất ngốn token và dễ phá hỏng các đoạn ngoài vùng yêu cầu.
@@ -253,7 +255,7 @@ vietnamese-docs-style/
 ├── llms.txt                   # Chỉ mục tài liệu & thứ tự đọc cho web/sandbox agents
 ├── requirements.txt           # Runtime dependencies
 ├── requirements-dev.txt       # Dev/CI dependencies (pytest, PyYAML, ruff)
-├── assets/                    # Starter templates, JSON Schema, ví dụ đầu vào & custom rules
+├── assets/                    # Starter templates, 10 file ví dụ .docx mở xem ngay (examples/), JSON Schema & custom rules
 ├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
 ├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
 ├── evals/                     # Benchmark tái lập, báo cáo audit & layout-edit 30-case eval
@@ -302,6 +304,8 @@ LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrat
 All 4 starters pass `validate_docx.py` with 0 errors on dummy inputs while keeping each document family separate.
 
 </details>
+
+**Ready-to-open DOCX examples (all 7 filled starters + 3 JSON-generated documents):** [`assets/examples/`](assets/examples/)
 
 ## Overview
 
