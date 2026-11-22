@@ -1,0 +1,44 @@
+{
+  "profile": "administrative",
+  "doc_kind": "dispatch",
+  "header": {
+    "parent_org": "UBND TỈNH THỬ NGHIỆM",
+    "organization": "SỞ TỔNG HỢP (GIẢ ĐỊNH)",
+    "number": "125/STH-TH",
+    "date": "Hà Nội, ngày 22 tháng 11 năm 2026",
+    "subject_brief": "V/v rà soát danh mục hồ sơ lưu trữ cuối năm (dữ liệu giả định)"
+  },
+  "recipients_to": [
+    "Các phòng chuyên môn trực thuộc (giả định)",
+    "Trung tâm Lưu trữ giả định"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Thực hiện kế hoạch công tác năm 2026 trong tình huống giả định, Sở Tổng hợp đề nghị các đơn vị phối hợp thực hiện một số nội dung sau:"
+    },
+    {
+      "type": "bullet",
+      "items": [
+        "Rà soát toàn bộ hồ sơ công việc đã giải quyết xong trong năm 2026.",
+        "Lập mục lục hồ sơ nộp lưu về Bộ phận Văn thư trước ngày 05 tháng 12 năm 2026 (giả định)."
+      ],
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Đề nghị các đơn vị triển khai thực hiện theo đúng tiến độ nêu trên./."
+    }
+  ],
+  "recipients": [
+    "- Như trên;",
+    "- Lãnh đạo Sở (để b/c);",
+    "- Lưu: VT, TH."
+  ],
+  "signer": {
+    "authority_lines": ["KT. GIÁM ĐỐC"],
+    "position": "PHÓ GIÁM ĐỐC",
+    "note": "(Không có chữ ký trong tài liệu minh họa)",
+    "name": "Nguyễn Văn A (giả định)"
+  }
+}

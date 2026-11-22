@@ -12,6 +12,8 @@ try:
         create_templates,
         edit_docx,
         fill_template,
+        generate_docx,
+        inspect_docx,
         package_skill,
         render_docx,
         validate_docx,
@@ -21,11 +23,15 @@ except ImportError:
     import create_templates
     import edit_docx
     import fill_template
+    import generate_docx
+    import inspect_docx
     import package_skill
     import render_docx
     import validate_docx
 
 COMMANDS = {
+    'generate': generate_docx.main,
+    'inspect': inspect_docx.main,
     'validate': validate_docx.main,
     'render': render_docx.main,
     'fill': fill_template.main,
@@ -37,10 +43,12 @@ COMMANDS = {
 
 HELP_TEXT = """usage: vndocs <command> [args...]
 
-Vietnamese DOCX creation, validation, rendering, and packaging CLI.
+Vietnamese DOCX creation, inspection, validation, rendering, and packaging CLI.
 
 commands:
   doctor     Check Python, DOCX runtime dependencies, and LibreOffice renderer
+  generate   Build a styled DOCX from a multi-profile JSON spec (and optional --validate)
+  inspect    Inspect DOCX geometry, styles, placeholders, and U+00D0 encoding issues
   validate   Inspect a DOCX file against profile or JSON rules
   render     Render a DOCX file to PDF (and optional PNGs) via LibreOffice
   fill       Fill {{token}} placeholders in a DOCX template

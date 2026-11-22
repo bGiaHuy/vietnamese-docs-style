@@ -1,7 +1,7 @@
 # Công cụ và phạm vi kiểm tra
 
 Python 3.10+; cài `pip install -e .` (hoặc `requirements.txt`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
-Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|validate|render|fill|edit|demo|templates|package>` hoặc chạy `python scripts/<tool>.py`.
+Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|package>` hoặc chạy `python scripts/<tool>.py`.
 Kiểm tra nhanh môi trường và LibreOffice renderer: `vndocs doctor`.
 LibreOffice là dependency hệ thống riêng để render. Trên Windows có thể chỉ
 định `--renderer` hoặc biến `VNDOCS_RENDERER`; không yêu cầu cài đè phiên bản sẵn.
@@ -14,7 +14,21 @@ config giữ nguyên. Các helper thêm nội dung kế thừa style thay vì g�
 tiếp. `add_numbered(doc, items, start=1)` tạo danh sách Word thật, một cấp;
 numbering nhiều cấp theo mẫu vẫn cần giữ hoặc cấu hình bằng công cụ phù hợp.
 
-Không gọi setup lên template cần bảo toàn. Điền token `{{name}}`:
+Không chạy `setup_document` hay `generate_docx.py` lên template cần bảo toàn.
+
+### Sinh DOCX từ JSON (`generate`) và soi/chuẩn hóa mẫu (`inspect`)
+
+```bash
+python scripts/generate_docx.py assets/schemas/examples/nd30-dispatch.json output.docx --validate
+python scripts/generate_docx.py - -o output.docx --validate < input.json
+python scripts/generate_docx.py --json-string '{"profile":"party","body":[{"type":"paragraph","text":"Nội dung"}]}' -o output.docx
+python scripts/inspect_docx.py template.docx --normalize-output clean-template.docx
+```
+
+- `generate_docx.py`: nhận file JSON, `-` (`stdin`) hoặc `--json-string` đúng theo `assets/schemas/document-input.schema.json`, hỗ trợ đa profile (`administrative`, `party`, `academic`, `office`, `proposal`, `minutes-general`, `minutes-administrative`, `custom`), tùy chọn `--config` (ví dụ `assets/rules/legal-normative.json`), `--validate` và `--draft`. Output bắt buộc có đuôi `.docx`.
+- `inspect_docx.py`: báo cáo SHA256, chữ ký số, kích thước/lề từng section, style đã dùng, font/màu kế thừa, các loại placeholder (`{{...}}`, `[CẦN BỔ SUNG: ...]`, `???`, `<...>`, chuỗi dấu chấm dài) và phát hiện ký tự `Ð` (`U+00D0`), `ð` (`U+00F0`) hoặc lỗi `kính giửi`. Tùy chọn `--normalize-output` vá trực tiếp `<w:t>` theo kiểu giữ nguyên byte các ZIP member khác qua `docx_package` (từ chối file đã ký số).
+
+Điền token `{{name}}`:
 
 ```bash
 python scripts/fill_template.py template.docx output.docx --values values.json

@@ -13,6 +13,8 @@ def package_skill(root, destination):
     candidates += sorted((root/'references').glob('*.md'))
     candidates += sorted((root/'scripts').glob('*.py'))
     candidates += sorted((root/'assets/rules').glob('*.json'))
+    if (root/'assets/schemas').is_dir():
+        candidates += sorted((root/'assets/schemas').glob('*.json'))
     manifest_path = root/'assets/templates/manifest.json'
     if not manifest_path.is_file():
         raise ValueError('Missing verified starter template manifest')

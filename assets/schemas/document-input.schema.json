@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/bGiaHuy/vietnamese-docs-style/main/assets/schemas/document-input.schema.json",
+  "title": "vietnamese-docs-style generate_docx input",
+  "description": "Multi-profile declarative JSON input schema for scripts/generate_docx.py (`vndocs generate`).",
+  "type": "object",
+  "required": ["body"],
+  "additionalProperties": false,
+  "properties": {
+    "profile": {
+      "type": "string",
+      "enum": [
+        "office",
+        "administrative",
+        "academic",
+        "proposal",
+        "minutes-administrative",
+        "minutes-general",
+        "party",
+        "custom"
+      ],
+      "default": "administrative"
+    },
+    "doc_kind": {
+      "type": "string",
+      "enum": ["named", "dispatch"],
+      "default": "named",
+      "description": "Use 'dispatch' for ND30/Party official letters (Công văn) without a centered document-type heading."
+    },
+    "header": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "parent_org": {"type": "string"},
+        "organization": {"type": "string"},
+        "number": {"type": "string"},
+        "date": {"type": "string"},
+        "subject_brief": {
+          "type": "string",
+          "description": "Displayed below number line for dispatches (e.g. 'V/v ...')."
+        }
+      }
+    },
+    "title": {"type": "string"},
+    "subtitle": {"type": "string"},
+    "metadata": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "recipients_to": {
+      "oneOf": [
+        {"type": "string"},
+        {"type": "array", "items": {"type": "string"}}
+      ]
+    },
+    "legal_bases": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "body": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["type"],
+        "oneOf": [
+          {
+            "properties": {
+              "type": {"const": "heading"},
+              "text": {"type": "string"},
+              "level": {"type": "integer", "minimum": 1, "maximum": 3, "default": 1}
+            },
+            "required": ["type", "text"],
+            "additionalProperties": false
+          },
+          {
+            "properties": {
+              "type": {"const": "paragraph"},
+              "text": {"type": "string"},
+              "italic": {"type": "boolean", "default": false},
+              "bold": {"type": "boolean", "default": false},
+              "align": {"type": "string", "enum": ["left", "center", "right", "justify"], "default": "justify"}
+            },
+            "required": ["type", "text"],
+            "additionalProperties": false
+          },
+          {
+            "properties": {
+              "type": {"const": "bullet"},
+              "items": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+              "level": {"type": "integer", "minimum": 1, "maximum": 3, "default": 1}
+            },
+            "required": ["type", "items"],
+            "additionalProperties": false
+          },
+          {
+            "properties": {
+              "type": {"const": "numbered"},
+              "items": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+              "start": {"type": "integer", "minimum": 1, "default": 1}
+            },
+            "required": ["type", "items"],
+            "additionalProperties": false
+          },
+          {
+            "properties": {
+              "type": {"const": "table"},
+              "headers": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+              "rows": {
+                "type": "array",
+                "items": {"type": "array", "items": {"type": "string"}}
+              }
+            },
+            "required": ["type", "headers", "rows"],
+            "additionalProperties": false
+          },
+          {
+            "properties": {
+              "type": {"const": "page_break"}
+            },
+            "required": ["type"],
+            "additionalProperties": false
+          }
+        ]
+      }
+    },
+    "recipients": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "signer": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "authority_lines": {"type": "array", "items": {"type": "string"}},
+        "position": {"type": "string"},
+        "position_bold": {"type": "boolean"},
+        "note": {"type": "string"},
+        "name": {"type": "string"}
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "profile": "academic",
+  "title": "Báo cáo học thuật thử nghiệm về chuẩn hóa tài liệu tiếng Việt",
+  "subtitle": "Tình huống minh họa cấu trúc báo cáo không áp Quốc hiệu",
+  "metadata": [
+    "Tác giả: Nhóm nghiên cứu giả định",
+    "Học phần: Phương pháp nghiên cứu và trình bày báo cáo"
+  ],
+  "body": [
+    {
+      "type": "heading",
+      "text": "1. Mục tiêu",
+      "level": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "Tài liệu minh họa quy trình sinh báo cáo học thuật từ JSON theo profile academic với lề chuẩn sạch sẽ, không áp Quốc hiệu hay tiêu ngữ của Nghị định 30/2020/NĐ-CP."
+    },
+    {
+      "type": "heading",
+      "text": "2. Quy trình thực hiện",
+      "level": 1
+    },
+    {
+      "type": "numbered",
+      "items": [
+        "Xác định loại tài liệu và nơi tiếp nhận.",
+        "Chuẩn bị cấu trúc mục rõ ràng và kiểm tra font, cỡ chữ sau khi xuất file."
+      ],
+      "start": 1
+    },
+    {
+      "type": "table",
+      "headers": ["Tiêu chí", "Mặc định profile academic"],
+      "rows": [
+        ["Khổ giấy", "A4 (21.0 x 29.7 cm)"],
+        ["Phông chữ", "Times New Roman, 13pt, màu #000000"]
+      ]
+    }
+  ]
+}

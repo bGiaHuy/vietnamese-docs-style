@@ -1,0 +1,43 @@
+# llms.txt — vietnamese-docs-style
+
+> Agent skill và bộ công cụ Python CLI (`vndocs`) để soạn, điền mẫu giữ nguyên XML gốc, kiểm tra định dạng, chuẩn hóa encoding và render tài liệu tiếng Việt (`.docx`) theo đa profile: Hành chính NĐ 30/2020/NĐ-CP, Văn bản của Đảng (QĐ 399-QĐ/TW & HD 05-HD/VPTW), VBQPPL (Luật 64/2025, 87/2025, NĐ 78/2025, NĐ 187/2025), Học thuật/Giáo dục và Văn phòng.
+
+## Điểm khởi đầu cho AI Agent
+
+- [SKILL.md](SKILL.md): Hướng dẫn chính, luật không bịa dữ kiện, bảng routing theo loại văn bản và quy trình kiểm tra trước bàn giao.
+- [AGENTS.md](AGENTS.md): Quy tắc tóm tắt cho Codex, Cursor, Copilot, Windsurf, OpenCode và Antigravity.
+
+## Schema & Bộ công cụ Python (`vndocs`)
+
+- [assets/schemas/document-input.schema.json](assets/schemas/document-input.schema.json): JSON Schema đa profile cho `scripts/generate_docx.py`.
+- [scripts/generate_docx.py](scripts/generate_docx.py): Sinh `.docx` từ JSON (`vndocs generate ... --validate`, nhận file, `-` stdin, hoặc `--json-string`).
+- [scripts/inspect_docx.py](scripts/inspect_docx.py): Soi khổ giấy, lề, font, style, placeholder và lỗi encoding `Ð` (`U+00D0`) / `ð` (`U+00F0`), hỗ trợ `--normalize-output` không làm hỏng XML khác.
+- [scripts/validate_docx.py](scripts/validate_docx.py): Kiểm tra chuẩn style kế thừa, bảng/header/footer, numbering và báo `unchecked`.
+- [scripts/fill_template.py](scripts/fill_template.py): Điền token `{{name}}` giữ nguyên byte các thành phần XML ngoài vùng sửa.
+- [scripts/edit_docx.py](scripts/edit_docx.py): Sửa chính xác theo SHA256 và slot map trên mẫu không dùng token.
+- [scripts/render_docx.py](scripts/render_docx.py): Render PDF/PNG qua LibreOffice cô lập + PyMuPDF.
+- [scripts/cli.py](scripts/cli.py): Entrypoint hợp nhất `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|package>`.
+
+## Tài liệu tham chiếu theo ngữ cảnh (`references/`)
+
+- [references/document-profiles.md](references/document-profiles.md): Chọn đúng trong 8 profile; tránh áp chéo NĐ30.
+- [references/interview-questions.md](references/interview-questions.md): Bộ câu hỏi lấy dữ liệu thiếu trước khi soạn.
+- [references/template-selection.md](references/template-selection.md): Ưu tiên mẫu người dùng/nơi tiếp nhận và bảo toàn cấu trúc gốc.
+- [references/starter-templates.md](references/starter-templates.md): Starter đi kèm trong `assets/templates/`.
+- [references/administrative-format-nd30.md](references/administrative-format-nd30.md): Thông số trang, lề, cỡ chữ NĐ30/2020.
+- [references/administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md): 29 loại văn bản NĐ30, số/ký hiệu, thẩm quyền ký, nơi nhận, bản sao.
+- [references/administrative-writing-style.md](references/administrative-writing-style.md): Văn phong hành chính – công vụ và cách viện dẫn căn cứ.
+- [references/party-documents.md](references/party-documents.md): Thể thức văn bản của Đảng (QĐ 399-QĐ/TW & HD 05-HD/VPTW 2026).
+- [references/legal-normative-documents.md](references/legal-normative-documents.md): Văn bản quy phạm pháp luật + [assets/rules/legal-normative.json](assets/rules/legal-normative.json).
+- [references/academic-report.md](references/academic-report.md): Trình bày báo cáo học thuật, luận văn, nghiên cứu.
+- [references/meeting-minutes.md](references/meeting-minutes.md): Biên bản họp nội bộ.
+- [references/editorial-quality-vi.md](references/editorial-quality-vi.md): Biên tập tiếng Việt giữ nguyên dữ kiện.
+- [references/numbering-and-structure.md](references/numbering-and-structure.md): Đánh số đa cấp và đề mục.
+- [references/markdown-preview-fallback.md](references/markdown-preview-fallback.md): Khung Markdown xem trước khi chỉ trả text trong chat.
+- [references/tooling.md](references/tooling.md): Tham số CLI, rule JSON keys và giới hạn `unchecked`.
+- [references/validation-checklist.md](references/validation-checklist.md): Checklist trước bàn giao.
+
+## Mẫu & Kiểm chứng
+
+- [assets/templates/manifest.json](assets/templates/manifest.json): Starter `.docx`, `.rules.json`, `.values.json` và ví dụ JSON tại `assets/schemas/examples/`.
+- [evals/BENCHMARK.md](evals/BENCHMARK.md): Benchmark công khai 16 case (`0/8` baseline vs. `8/8` skill) và [evals/audit-comparison.md](evals/audit-comparison.md).

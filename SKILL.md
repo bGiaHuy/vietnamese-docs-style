@@ -52,6 +52,8 @@ kết quả tuân thủ. Không gọi sở thích định dạng là yêu cầu 
 - Biên bản: `references/meeting-minutes.md`.
 - Biên tập: `references/editorial-quality-vi.md`.
 - Đánh số: `references/numbering-and-structure.md`.
+- Phỏng vấn lấy dữ liệu thiếu trước khi soạn: `references/interview-questions.md`.
+- Xem trước bố cục bằng Markdown khi chỉ trả text trong chat: `references/markdown-preview-fallback.md`.
 - Triển khai Word: `references/style-spec.md`; lệnh, cấu hình và giới hạn ở `references/tooling.md`.
 - Trước bàn giao: `references/validation-checklist.md`.
 
@@ -76,7 +78,10 @@ dùng cấu trúc tối thiểu theo profile và công bố mặc định quan t
 `scripts/build_docx.py` là thư viện helper, không phải generator đầy đủ.
 Không chạy `setup_document` lên mẫu sẵn để ghi đè style.
 Mẫu token dùng `fill_template.py`; mẫu không token có thể dùng `edit_docx.py`
-với hash nguồn và slot map đã xác minh. Xem `references/tooling.md`.
+với hash nguồn và slot map đã xác minh. Với mẫu người dùng gửi hoặc file `.docx` mới
+tạo từ JSON có cấu trúc sẵn, có thể dùng `scripts/inspect_docx.py` để soi thông số,
+placeholder, lỗi ký tự `Ð` (`U+00D0`) và `scripts/generate_docx.py` theo
+`assets/schemas/document-input.schema.json` (kèm `--validate`). Xem `references/tooling.md`.
 
 Giữ section, heading, numbering, header/footer, bảng, mục lục và trường số trang
 của mẫu. Không áp quốc hiệu, bìa, thư ngỏ, nơi nhận hoặc cấm bullet cho mọi tài liệu.

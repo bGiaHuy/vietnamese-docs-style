@@ -546,3 +546,116 @@ def test_validation_benchmark_matches_published_json():
     assert (summary['skill_pass'], summary['skill_total']) == (8, 8)
     published = json.loads((root / 'evals/benchmark-results.json').read_text(encoding='utf-8'))
     assert summary == published
+
+
+def test_inspect_docx_reports_structure_placeholders_and_eth_encoding(tmp_path):
+    from inspect_docx import inspect_file
+    doc = new_doc('administrative')
+    doc.add_paragraph('\u00d0ƠN VỊ {{organization}} [CẦN BỔ SUNG: số] kính giửi .....')
+    path = saved(tmp_path, doc, 'dirty.docx')
+    report = inspect_file(path)
+    assert len(report['sha256']) == 64
+    assert report['sections'][0]['orientation'] == 'portrait'
+    assert report['placeholders']['by_type']['token'] == ['{{organization}}']
+    assert '[CẦN BỔ SUNG: số]' in report['placeholders']['by_type']['draft_marker']
+    assert '.....' in report['placeholders']['by_type']['dot_fill']
+    issue_codes = {item['code'] for item in report['encoding_issues']}
+    assert {'eth_uppercase', 'typo'} <= issue_codes
+
+
+def test_inspect_docx_normalize_encoding_is_lossless_and_rejects_signed(tmp_path):
+    from zipfile import ZipFile
+    from inspect_docx import inspect_file, normalize_encoding
+    doc = new_doc('office')
+    doc.add_paragraph('\u00d0ơn vị thực hiện \u00f0úng quy trình.')
+    raw_docx = saved(tmp_path, doc, 'eth.docx')
+    with_opaque = tmp_path / 'with-opaque.docx'
+    opaque_bytes = b'<custom>keep-exact-bytes</custom>'
+    with ZipFile(raw_docx) as zin, ZipFile(with_opaque, 'w') as zout:
+        for info in zin.infolist():
+            zout.writestr(info, zin.read(info))
+        zout.writestr('word/custom-opaque.xml', opaque_bytes)
+    normalized = tmp_path / 'normalized.docx'
+    result = normalize_encoding(with_opaque, normalized)
+    assert result['replacements'] == {'U+00D0->U+0110': 1, 'U+00F0->U+0111': 1}
+    assert result['total_replacements'] == 2
+    with ZipFile(normalized) as zcheck:
+        assert zcheck.read('word/custom-opaque.xml') == opaque_bytes
+    assert not inspect_file(normalized)['encoding_issues']
+
+    signed = tmp_path / 'signed.docx'
+    with ZipFile(raw_docx) as zin, ZipFile(signed, 'w') as zout:
+        for info in zin.infolist():
+            zout.writestr(info, zin.read(info))
+        zout.writestr('_xmlsignatures/sig1.xml', b'<sig/>')
+    with pytest.raises(ValueError, match='signature'):
+        normalize_encoding(signed, tmp_path / 'blocked.docx')
+
+
+def test_generate_docx_examples_pass_validation(tmp_path):
+    from generate_docx import generate_from_spec
+    root = Path(__file__).resolve().parents[1] / 'assets/schemas/examples'
+
+    dispatch_spec = json.loads((root / 'nd30-dispatch.json').read_text(encoding='utf-8'))
+    dispatch_out = generate_from_spec(dispatch_spec, tmp_path / 'dispatch.docx')
+    assert inspect_doc(dispatch_out, 'administrative')['status'] == 'pass'
+    dispatch_text = '\n'.join(p.text for p in Document(dispatch_out).paragraphs
+                              + [p for t in Document(dispatch_out).tables for r in t.rows for c in r.cells for p in c.paragraphs])
+    assert 'V/v ' in dispatch_text and 'Kính gửi:' in dispatch_text
+    assert 'CÔNG VĂN' not in dispatch_text
+
+    party_spec = json.loads((root / 'party-resolution.json').read_text(encoding='utf-8'))
+    party_out = generate_from_spec(party_spec, tmp_path / 'party.docx')
+    assert inspect_doc(party_out, 'party')['status'] == 'pass'
+    party_text = '\n'.join(p.text for p in Document(party_out).paragraphs
+                           + [p for t in Document(party_out).tables for r in t.rows for c in r.cells for p in c.paragraphs])
+    assert 'ĐẢNG CỘNG SẢN VIỆT NAM' in party_text and 'Số 01-NQ/CB' in party_text
+    assert 'Số:' not in party_text
+    assert 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM' not in party_text
+
+    acad_spec = json.loads((root / 'academic-report.json').read_text(encoding='utf-8'))
+    acad_out = generate_from_spec(acad_spec, tmp_path / 'academic.docx')
+    assert inspect_doc(acad_out, 'academic')['status'] == 'pass'
+    acad_text = '\n'.join(p.text for p in Document(acad_out).paragraphs)
+    assert 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM' not in acad_text
+    assert 'ĐẢNG CỘNG SẢN VIỆT NAM' not in acad_text
+
+
+def test_generate_docx_cli_json_string_validate_and_vbqppl(tmp_path):
+    import generate_docx
+    root = Path(__file__).resolve().parents[1]
+    out = tmp_path / 'vbqppl.docx'
+    spec_str = json.dumps({
+        'profile': 'administrative',
+        'header': {
+            'organization': 'ỦY BAN NHÂN DÂN TỈNH THỬ NGHIỆM',
+            'number': '01/2026/QĐ-UBND',
+            'date': 'Hà Nội, ngày 22 tháng 11 năm 2026',
+        },
+        'title': 'QUYẾT ĐỊNH',
+        'subtitle': 'Ban hành Quy định thử nghiệm (giả định)',
+        'body': [{'type': 'paragraph', 'text': 'Điều 1. Phạm vi điều chỉnh thử nghiệm.'}],
+    }, ensure_ascii=False)
+    code = generate_docx.main([
+        '--json-string', spec_str,
+        '-o', str(out),
+        '--config', str(root / 'assets/rules/legal-normative.json'),
+        '--validate',
+    ])
+    assert code == 0
+    assert inspect_doc(out, 'administrative', root / 'assets/rules/legal-normative.json')['status'] == 'pass'
+    with pytest.raises(ValueError, match='\\.docx'):
+        generate_docx.generate_from_spec({'body': [{'type': 'paragraph', 'text': 'x'}]}, tmp_path / 'bad.txt')
+
+
+def test_cli_inspect_and_generate_dispatch(tmp_path):
+    import cli
+    root = Path(__file__).resolve().parents[1]
+    out = tmp_path / 'via-cli.docx'
+    assert cli.main([
+        'generate',
+        str(root / 'assets/schemas/examples/academic-report.json'),
+        str(out),
+        '--validate',
+    ]) == 0
+    assert cli.main(['inspect', str(out)]) == 0
