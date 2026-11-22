@@ -47,8 +47,7 @@ kết quả tuân thủ. Không gọi sở thích định dạng là yêu cầu 
 - Triển khai Word: `references/style-spec.md`; lệnh, cấu hình và giới hạn ở `references/tooling.md`.
 - Trước bàn giao: `references/validation-checklist.md`.
 
-Chỉ đọc phần liên quan. Không nạp toàn bộ `references/source-documents/train_data/`;
-đây là tư liệu nghiên cứu, không phải bộ quy tắc có thẩm quyền.
+Chỉ đọc phần liên quan trong `references/` theo bảng routing ở trên; ưu tiên các tài liệu quy chuẩn thay vì nạp toàn bộ thư mục tham khảo.
 
 ## Nội dung
 
