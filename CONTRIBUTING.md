@@ -14,9 +14,8 @@ old commits to imply a development process that did not happen.
 
 ## Where to review
 
-- `SKILL.md`, `AGENTS.md`, `GEMINI.md`, and `references/`: document selection, rules,
-  and workflow guidance (`AGENTS.md` and `GEMINI.md` remain at repository root for
-  cross-agent and Gemini CLI compatibility).
+- `SKILL.md`, `AGENTS.md`, and `references/`: document selection, rules, and workflow
+  guidance (`AGENTS.md` remains at repository root for cross-agent compatibility).
 - `scripts/`: executable DOCX creation, editing, validation, rendering, and packaging.
 - `assets/`: rules and starter templates; preserve provenance and verification metadata.
 - `tests/`: automated tooling checks; run `python -m pytest -q` after installing

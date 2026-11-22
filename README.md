@@ -45,7 +45,7 @@ Xem thêm so sánh Starter Trước/Sau Audit và kết quả chạy validator t
 
 Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy ước địa phương, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
 
-`vietnamese-docs-style` tách rõ hai phần: bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), [GEMINI.md](GEMINI.md), `references/`) để agent chọn đúng thể thức ngay từ đầu, đi kèm CLI `vndocs` để dựng file, điền mẫu giữ nguyên XML gốc, kiểm tra định dạng và render ảnh từng trang.
+`vietnamese-docs-style` tách rõ hai phần: bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) để agent chọn đúng thể thức ngay từ đầu, đi kèm CLI `vndocs` để dựng file, điền mẫu giữ nguyên XML gốc, kiểm tra định dạng và render ảnh từng trang.
 
 ## Tính năng chính
 
@@ -118,8 +118,8 @@ Người dùng cuối không cần cài `requirements-dev.txt`.
 | **Claude Code** | [SKILL.md](SKILL.md) | Đọc `SKILL.md` trong repo hoặc cài từ ZIP đóng gói qua `vndocs package --output dist/vietnamese-docx.zip` |
 | **OpenAI Codex** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Tự đọc `AGENTS.md` ở thư mục gốc và nạp `SKILL.md` theo nhu cầu |
 | **Cursor** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở repo làm workspace để nhận `AGENTS.md`, hoặc gắn `SKILL.md` vào rule/context |
-| **Gemini CLI** | [GEMINI.md](GEMINI.md), [SKILL.md](SKILL.md) | Tự nạp `GEMINI.md` ở thư mục gốc và tra cứu `SKILL.md` / `references/` |
-| **Antigravity** | [SKILL.md](SKILL.md), [GEMINI.md](GEMINI.md), [AGENTS.md](AGENTS.md) | Nhận diện tự động quy tắc dự án và skill tại thư mục gốc |
+| **Gemini CLI** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Cài qua `npx skills add bGiaHuy/vietnamese-docs-style` hoặc đọc `SKILL.md` / `references/` |
+| **Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Cài qua `npx skills` hoặc nhận diện tự động `SKILL.md` / `AGENTS.md` tại thư mục gốc |
 | **GitHub Copilot (VS Code)** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc hướng dẫn repo qua `AGENTS.md` / `SKILL.md` trong workspace |
 | **Windsurf** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở workspace chứa `AGENTS.md` và trỏ agent tới `SKILL.md` |
 | **OpenCode / Cline / Roo Code** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc chuẩn `AGENTS.md` ở gốc repo và gọi lệnh `vndocs` |
@@ -196,7 +196,6 @@ vietnamese-docs-style/
 ├── pyproject.toml             # Đóng gói PEP 621 & CLI `vndocs`
 ├── SKILL.md                   # Hướng dẫn chính cho AI Agent
 ├── AGENTS.md                  # Quy tắc chung cho Codex, Cursor, Copilot, Windsurf, OpenCode
-├── GEMINI.md                  # Quy tắc gốc cho Gemini CLI và Antigravity
 ├── requirements.txt           # Runtime dependencies
 ├── requirements-dev.txt       # Dev/CI dependencies (pytest, PyYAML, ruff)
 ├── assets/                    # Starter templates, manifest nguồn & ví dụ custom rule
@@ -236,7 +235,7 @@ See Before vs. After comparisons and real-world audits against human-authored Vi
 
 Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 cm` margins, Calibri or Arial fonts, blue Word headings, or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices.
 
-`vietnamese-docs-style` combines context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), [GEMINI.md](GEMINI.md), `references/`) with the local `vndocs` CLI so agents pick the right conventions first and verify `.docx` structure and rendered pages before handoff.
+`vietnamese-docs-style` combines context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) with the local `vndocs` CLI so agents pick the right conventions first and verify `.docx` structure and rendered pages before handoff.
 
 ## Key Features
 
@@ -276,7 +275,7 @@ vndocs doctor
 | --- | --- | --- |
 | **Claude Code** | [SKILL.md](SKILL.md) | Point to `SKILL.md` or install the ZIP built by `vndocs package` |
 | **OpenAI Codex / Cursor / Copilot / Windsurf / OpenCode** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Open the repo as workspace (`AGENTS.md` auto-discovered) and invoke `vndocs` |
-| **Gemini CLI / Antigravity** | [GEMINI.md](GEMINI.md), [SKILL.md](SKILL.md) | Automatically loads root `GEMINI.md` and consults `SKILL.md` / `references/` |
+| **Gemini CLI / Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Install via `npx skills add bGiaHuy/vietnamese-docs-style` or load `SKILL.md` / `AGENTS.md` |
 
 ## Usage
 
