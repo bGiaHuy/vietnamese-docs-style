@@ -1,13 +1,14 @@
 ---
 name: vietnamese-docx
 description: >
-  Soạn, biên tập hoặc kiểm tra văn bản tiếng Việt, kể cả đoạn văn, đề mục,
-  danh sách đánh số trong chat, hoặc tạo/sửa DOCX: công văn, quyết định,
-  tờ trình, báo cáo, kế hoạch, thông báo, giấy mời, biên bản theo Nghị định
-  30/2020/NĐ-CP; văn bản của Đảng (nghị quyết, chỉ thị, báo cáo của cấp ủy,
-  chi bộ); văn bản quy phạm pháp luật (luật, nghị định, thông tư, nghị quyết
-  HĐND, quyết định UBND); văn phong hành chính, căn cứ, thẩm quyền ký, nơi
-  nhận, viết hoa; báo cáo học thuật, biên bản họp nội bộ, tài liệu văn phòng.
+  Soạn, biên tập hoặc kiểm tra văn bản tiếng Việt và tạo/sửa file DOCX theo đúng
+  mẫu và nơi tiếp nhận, kể cả đoạn văn, đề mục, danh sách đánh số trong chat:
+  tài liệu văn phòng, đề xuất, biên bản họp nội bộ; học thuật và giáo dục (báo cáo,
+  tiểu luận, nghiên cứu, luận văn, đề thi); hành chính theo Nghị định 30/2020/NĐ-CP
+  (công văn, quyết định, tờ trình, thông báo, giấy mời, biên bản, văn phong hành chính);
+  văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW); văn bản quy phạm pháp luật (VBQPPL).
+  Mỗi nhóm áp thể thức và mẫu riêng, không áp chéo NĐ30 lên văn bản Đảng, học thuật
+  hay văn phòng.
 ---
 
 # Vietnamese DOCX
