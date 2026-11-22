@@ -23,7 +23,7 @@ Hiện nay, hầu hết các công cụ AI trên thị trường khi được y�
 
 ## Ví dụ
 
-Ảnh dưới là kết quả render (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang do skill tạo ra với dữ liệu giả định**:
+Ảnh dưới là kết quả render (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang ([`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx)) do skill tạo ra với dữ liệu giả định**:
 
 | Trang 1 — Header NĐ30, căn cứ và bảng lặp tiêu đề | Trang 2 — Số trang `2` căn giữa, nơi nhận và khối ký |
 | :---: | :---: |
@@ -31,18 +31,84 @@ Hiện nay, hầu hết các công cụ AI trên thị trường khi được y�
 
 Tệp nguồn vượt qua `validate_docx.py --profile administrative` với 0 lỗi (không tạo chữ ký hay con dấu giả). Chi tiết thông số trình bày và kết quả đối chiếu với văn bản thật nằm ở [evals/audit-comparison.md](evals/audit-comparison.md).
 
+### Bộ 10 tài liệu `.docx` mẫu bản đầy đủ nhiều trang (`assets/examples/`)
+
+Toàn bộ **10 tệp `.docx` mẫu hoàn chỉnh (dài từ 2 đến 4 trang/tài liệu, tổng cộng 32 trang in)** nằm sẵn tại [`assets/examples/`](assets/examples/), tất cả đều đạt `vndocs validate` (`status: pass`, `0` lỗi), bảng biểu chia cột cố định theo trọng số nội dung (`w:tblLayout="fixed"`) và khối chữ ký khóa chống rớt lẻ trang:
+
+| # | Tệp `.docx` mẫu mở xem ngay | Quy chuẩn / Profile | Số trang | Nguồn tạo |
+| :-: | --- | --- | :-: | --- |
+| 1 | [`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx) | Thông báo hành chính NĐ 30/2020/NĐ-CP — Mẫu 1.4 (`administrative`) | **2 trang** | Starter `administrative-notice` |
+| 2 | [`assets/examples/administrative-dispatch.docx`](assets/examples/administrative-dispatch.docx) | Công văn hành chính NĐ 30/2020/NĐ-CP — Mẫu 1.5 (`administrative`) | **3 trang** | Starter `administrative-dispatch` |
+| 3 | [`assets/examples/party-resolution.docx`](assets/examples/party-resolution.docx) | Nghị quyết Chi bộ — QĐ 399-QĐ/TW & HD 05-HD/VPTW (`party`) | **4 trang** | Starter `party-resolution` |
+| 4 | [`assets/examples/exam-paper.docx`](assets/examples/exam-paper.docx) | Đề thi kết thúc học phần chính thức + ma trận CLO (`academic`) | **3 trang** | Starter `exam-paper` |
+| 5 | [`assets/examples/thesis-research-outline.docx`](assets/examples/thesis-research-outline.docx) | Đề cương nghiên cứu luận văn thạc sĩ (`academic`) | **4 trang** | Starter `thesis-research-outline` |
+| 6 | [`assets/examples/academic-short-report.docx`](assets/examples/academic-short-report.docx) | Báo cáo kỹ thuật & kết quả thực nghiệm học thuật (`academic`) | **3 trang** | Starter `academic-short-report` |
+| 7 | [`assets/examples/office-minutes.docx`](assets/examples/office-minutes.docx) | Biên bản họp nội bộ A4 dọc + Phụ lục bảng theo dõi A4 ngang (`minutes-general`) | **3 trang** | Starter `office-minutes` |
+| 8 | [`assets/examples/from-json-nd30-dispatch.docx`](assets/examples/from-json-nd30-dispatch.docx) | Công văn NĐ 30/2020/NĐ-CP sinh tự động từ JSON (`administrative`) | **3 trang** | [`assets/schemas/examples/nd30-dispatch.json`](assets/schemas/examples/nd30-dispatch.json) |
+| 9 | [`assets/examples/from-json-party-resolution.docx`](assets/examples/from-json-party-resolution.docx) | Nghị quyết Chi bộ HD 05-HD/VPTW sinh tự động từ JSON (`party`) | **3 trang** | [`assets/schemas/examples/party-resolution.json`](assets/schemas/examples/party-resolution.json) |
+| 10 | [`assets/examples/from-json-academic-report.docx`](assets/examples/from-json-academic-report.docx) | Báo cáo chuyên đề học thuật sinh tự động từ JSON (`academic`) | **4 trang** | [`assets/schemas/examples/academic-report.json`](assets/schemas/examples/academic-report.json) |
+
 <details>
-<summary>Xem thêm 4 starter: Công văn NĐ30, Nghị quyết Đảng, Đề thi, Đề cương nghiên cứu</summary>
+<summary>Xem ảnh preview từng trang của nhóm Hành chính NĐ30 & Văn bản Đảng (Mẫu 2, 3, 8, 9)</summary>
 
-| Công văn NĐ30 (`administrative-dispatch`) | Nghị quyết Đảng (`party-resolution`, HD 05-HD/VPTW) |
-| :---: | :---: |
-| ![Starter Công văn NĐ30](docs/images/starter-dispatch.png) | ![Starter Nghị quyết Đảng HD05](docs/images/starter-party-resolution.png) |
+**2. Công văn NĐ30 ([`administrative-dispatch.docx`](assets/examples/administrative-dispatch.docx) — 3 trang):**
 
-| Đề thi (`exam-paper`) | Đề cương nghiên cứu (`thesis-research-outline`) |
-| :---: | :---: |
-| ![Starter Đề thi học phần](docs/images/starter-exam-paper.png) | ![Starter Đề cương nghiên cứu](docs/images/starter-thesis-outline.png) |
+| Trang 1 — Quốc hiệu, Số/Trích yếu `V/v`, Kính gửi | Trang 2 — Bảng phân bổ chỉ tiêu 6 đơn vị | Trang 3 — Đoạn kết gắn liền Nơi nhận & KT. Giám đốc |
+| :---: | :---: | :---: |
+| ![Công văn NĐ30 trang 1](docs/images/examples/administrative-dispatch-p1.png) | ![Công văn NĐ30 trang 2](docs/images/examples/administrative-dispatch-p2.png) | ![Công văn NĐ30 trang 3](docs/images/examples/administrative-dispatch-p3.png) |
 
-Cả 4 starter đều điền dữ liệu giả định, vượt qua `validate_docx.py` với `0` lỗi và giữ tách biệt từng nhóm thể thức.
+**3. Nghị quyết Chi bộ HD 05-HD/VPTW ([`party-resolution.docx`](assets/examples/party-resolution.docx) — 4 trang):**
+
+| Trang 1 — Header Đảng, `Số 06-NQ/CB`, Căn cứ & Phần I | Trang 2 — Phần II & Bảng phân công chuyên đề | Trang 3 — Bảng chuyên đề (tiếp) & Phần III | Trang 4 — Đoạn kết, `Nơi nhận:` gạch chân & `T/M CHI BỘ` |
+| :---: | :---: | :---: | :---: |
+| ![Nghị quyết Đảng trang 1](docs/images/examples/party-resolution-p1.png) | ![Nghị quyết Đảng trang 2](docs/images/examples/party-resolution-p2.png) | ![Nghị quyết Đảng trang 3](docs/images/examples/party-resolution-p3.png) | ![Nghị quyết Đảng trang 4](docs/images/examples/party-resolution-p4.png) |
+
+**8. Công văn NĐ30 sinh từ JSON ([`from-json-nd30-dispatch.docx`](assets/examples/from-json-nd30-dispatch.docx) — 3 trang):**
+
+| Trang 1 — Mở đầu & Mục I, II | Trang 2 — Bảng danh mục 7 nhóm hồ sơ nộp lưu | Trang 3 — Mục III & Khối Nơi nhận / Ký |
+| :---: | :---: | :---: |
+| ![JSON Công văn NĐ30 trang 1](docs/images/examples/from-json-nd30-dispatch-p1.png) | ![JSON Công văn NĐ30 trang 2](docs/images/examples/from-json-nd30-dispatch-p2.png) | ![JSON Công văn NĐ30 trang 3](docs/images/examples/from-json-nd30-dispatch-p3.png) |
+
+**9. Nghị quyết Chi bộ sinh từ JSON ([`from-json-party-resolution.docx`](assets/examples/from-json-party-resolution.docx) — 3 trang):**
+
+| Trang 1 — Căn cứ, Phần I & Phần II | Trang 2 — Bảng phân công nhiệm vụ năm 2027 | Trang 3 — Phần III, Nơi nhận gạch chân & Chữ ký |
+| :---: | :---: | :---: |
+| ![JSON Nghị quyết Đảng trang 1](docs/images/examples/from-json-party-resolution-p1.png) | ![JSON Nghị quyết Đảng trang 2](docs/images/examples/from-json-party-resolution-p2.png) | ![JSON Nghị quyết Đảng trang 3](docs/images/examples/from-json-party-resolution-p3.png) |
+
+</details>
+
+<details>
+<summary>Xem ảnh preview từng trang của nhóm Học thuật, Đề thi, Đề cương & Biên bản họp dọc/ngang (Mẫu 4, 5, 6, 7, 10)</summary>
+
+**4. Đề thi kết thúc học phần ([`exam-paper.docx`](assets/examples/exam-paper.docx) — 3 trang):**
+
+| Trang 1 — Khung Trường/Khoa, Mã đề 204 & Câu 1–3 | Trang 2 — Bảng dữ liệu Câu 3, Câu 4–5 & Ma trận CLO | Trang 3 — Ma trận CLO (tiếp), `--- HẾT ---` & Chữ ký duyệt |
+| :---: | :---: | :---: |
+| ![Đề thi trang 1](docs/images/examples/exam-paper-p1.png) | ![Đề thi trang 2](docs/images/examples/exam-paper-p2.png) | ![Đề thi trang 3](docs/images/examples/exam-paper-p3.png) |
+
+**5. Đề cương nghiên cứu luận văn ([`thesis-research-outline.docx`](assets/examples/thesis-research-outline.docx) — 4 trang):**
+
+| Trang 1 — Thông tin học viên & Mục 1 | Trang 2 — Câu hỏi nghiên cứu, Mục 2 & Mục 3 | Trang 3 — Bảng cấu trúc 4 chương & Mục 4 Tiến độ | Trang 4 — Bảng tiến độ (tiếp) & 6 Tài liệu tham khảo |
+| :---: | :---: | :---: | :---: |
+| ![Đề cương trang 1](docs/images/examples/thesis-research-outline-p1.png) | ![Đề cương trang 2](docs/images/examples/thesis-research-outline-p2.png) | ![Đề cương trang 3](docs/images/examples/thesis-research-outline-p3.png) | ![Đề cương trang 4](docs/images/examples/thesis-research-outline-p4.png) |
+
+**6. Báo cáo kỹ thuật học thuật ([`academic-short-report.docx`](assets/examples/academic-short-report.docx) — 3 trang):**
+
+| Trang 1 — Mục đích & Phương pháp | Trang 2 — Kết quả & Bảng tổng hợp A/B 50 lượt | Trang 3 — Hạn chế, Tài liệu tham khảo & Bảng kiểm tra |
+| :---: | :---: | :---: |
+| ![Báo cáo học thuật trang 1](docs/images/examples/academic-short-report-p1.png) | ![Báo cáo học thuật trang 2](docs/images/examples/academic-short-report-p2.png) | ![Báo cáo học thuật trang 3](docs/images/examples/academic-short-report-p3.png) |
+
+**7. Biên bản họp nội bộ + Phụ lục A4 ngang ([`office-minutes.docx`](assets/examples/office-minutes.docx) — 3 trang):**
+
+| Trang 1 (A4 Dọc) — Nội dung thảo luận & Quyết định | Trang 2 (A4 Dọc) — Bảng phân công 5 nhiệm vụ | Trang 3 (A4 Ngang) — Phụ lục bảng theo dõi 7 cột |
+| :---: | :---: | :---: |
+| ![Biên bản họp trang 1](docs/images/examples/office-minutes-p1.png) | ![Biên bản họp trang 2](docs/images/examples/office-minutes-p2.png) | ![Biên bản họp trang 3](docs/images/examples/office-minutes-p3.png) |
+
+**10. Báo cáo chuyên đề học thuật sinh từ JSON ([`from-json-academic-report.docx`](assets/examples/from-json-academic-report.docx) — 4 trang):**
+
+| Trang 1 — Đặt vấn đề & Mục 2.1 | Trang 2 — Bảng so sánh 5 Profile & Mục 2.2 | Trang 3 — Mục 3 & Bảng kết quả thực nghiệm | Trang 4 — Bảng thực nghiệm (tiếp) & Kết luận |
+| :---: | :---: | :---: | :---: |
+| ![JSON Báo cáo chuyên đề trang 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Báo cáo chuyên đề trang 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Báo cáo chuyên đề trang 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Báo cáo chuyên đề trang 4](docs/images/examples/from-json-academic-report-p4.png) |
 
 </details>
 
@@ -57,8 +123,6 @@ Cả 4 starter đều điền dữ liệu giả định, vượt qua `validate_d
 Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) tại [evals/audit-comparison.md](evals/audit-comparison.md).
 
 </details>
-
-**Tải / mở trực tiếp 10 file `.docx` mẫu đã điền sẵn (7 starter + 3 tài liệu sinh từ JSON):** [`assets/examples/`](assets/examples/)
 
 ## Giới thiệu ngắn
 
@@ -282,7 +346,7 @@ vietnamese-docs-style/
 
 ## Example
 
-LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice generated with the skill and simulated data**:
+LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice ([`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx)) generated with the skill and simulated data**:
 
 | Page 1 — NĐ30 Header, Legal Bases & Repeating Table Header | Page 2 — Centered Top Page `2` & Recipients / Signer Block |
 | :---: | :---: |
@@ -290,22 +354,47 @@ LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrat
 
 `validate_docx.py --profile administrative` passes with 0 errors and zero fabricated signatures or stamps. Detailed layout metrics and real-world document comparisons are in [evals/audit-comparison.md](evals/audit-comparison.md).
 
+### Full Multi-Page DOCX Example Suite (`assets/examples/`)
+
+All **10 complete, multi-page `.docx` examples (2–4 pages each, 32 rendered pages total)** are included in [`assets/examples/`](assets/examples/), passing `vndocs validate` (`0` issues) with fixed content-weighted column widths (`w:tblLayout="fixed"`) and orphan-protected signature blocks:
+
+| # | Ready-to-Open `.docx` Example | Profile / Standard | Pages | Source |
+| :-: | --- | --- | :-: | --- |
+| 1 | [`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx) | Decree 30/2020/NĐ-CP Notice — Form 1.4 (`administrative`) | **2 pages** | `administrative-notice` starter |
+| 2 | [`assets/examples/administrative-dispatch.docx`](assets/examples/administrative-dispatch.docx) | Decree 30/2020/NĐ-CP Official Dispatch — Form 1.5 (`administrative`) | **3 pages** | `administrative-dispatch` starter |
+| 3 | [`assets/examples/party-resolution.docx`](assets/examples/party-resolution.docx) | Party Cell Resolution — QĐ 399 & HD 05-HD/VPTW (`party`) | **4 pages** | `party-resolution` starter |
+| 4 | [`assets/examples/exam-paper.docx`](assets/examples/exam-paper.docx) | University Final Exam Paper + CLO Rubric (`academic`) | **3 pages** | `exam-paper` starter |
+| 5 | [`assets/examples/thesis-research-outline.docx`](assets/examples/thesis-research-outline.docx) | Master's Thesis Research Outline (`academic`) | **4 pages** | `thesis-research-outline` starter |
+| 6 | [`assets/examples/academic-short-report.docx`](assets/examples/academic-short-report.docx) | Technical & Experimental Academic Report (`academic`) | **3 pages** | `academic-short-report` starter |
+| 7 | [`assets/examples/office-minutes.docx`](assets/examples/office-minutes.docx) | Portrait Meeting Minutes + Landscape A4 Tracking Annex (`minutes-general`) | **3 pages** | `office-minutes` starter |
+| 8 | [`assets/examples/from-json-nd30-dispatch.docx`](assets/examples/from-json-nd30-dispatch.docx) | JSON-Generated Decree 30/2020 Dispatch (`administrative`) | **3 pages** | [`assets/schemas/examples/nd30-dispatch.json`](assets/schemas/examples/nd30-dispatch.json) |
+| 9 | [`assets/examples/from-json-party-resolution.docx`](assets/examples/from-json-party-resolution.docx) | JSON-Generated Party Cell Resolution (`party`) | **3 pages** | [`assets/schemas/examples/party-resolution.json`](assets/schemas/examples/party-resolution.json) |
+| 10 | [`assets/examples/from-json-academic-report.docx`](assets/examples/from-json-academic-report.docx) | JSON-Generated Academic Research Report (`academic`) | **4 pages** | [`assets/schemas/examples/academic-report.json`](assets/schemas/examples/academic-report.json) |
+
 <details>
-<summary>More starters: ND30 Dispatch, Party Resolution, Exam Paper, Research Outline</summary>
+<summary>Preview rendered pages: Administrative (NĐ30), Party (HD05), Academic, Exam, Thesis & Portrait+Landscape Minutes</summary>
 
-| ND30 Dispatch (`administrative-dispatch`) | Party Resolution (`party-resolution`, HD 05-HD/VPTW) |
-| :---: | :---: |
-| ![ND30 Dispatch Starter](docs/images/starter-dispatch.png) | ![Party Resolution Starter](docs/images/starter-party-resolution.png) |
+| ND30 Dispatch — Page 1 | ND30 Dispatch — Page 2 (6-Unit Table) | ND30 Dispatch — Page 3 (Recipients & Signer) |
+| :---: | :---: | :---: |
+| ![ND30 Dispatch Page 1](docs/images/examples/administrative-dispatch-p1.png) | ![ND30 Dispatch Page 2](docs/images/examples/administrative-dispatch-p2.png) | ![ND30 Dispatch Page 3](docs/images/examples/administrative-dispatch-p3.png) |
 
-| Exam Paper (`exam-paper`) | Research Outline (`thesis-research-outline`) |
-| :---: | :---: |
-| ![Exam Paper Starter](docs/images/starter-exam-paper.png) | ![Research Outline Starter](docs/images/starter-thesis-outline.png) |
+| Party Resolution — Page 1 | Party Resolution — Page 2 | Party Resolution — Page 3 | Party Resolution — Page 4 |
+| :---: | :---: | :---: | :---: |
+| ![Party Resolution Page 1](docs/images/examples/party-resolution-p1.png) | ![Party Resolution Page 2](docs/images/examples/party-resolution-p2.png) | ![Party Resolution Page 3](docs/images/examples/party-resolution-p3.png) | ![Party Resolution Page 4](docs/images/examples/party-resolution-p4.png) |
 
-All 4 starters pass `validate_docx.py` with 0 errors on dummy inputs while keeping each document family separate.
+| Exam Paper — Page 1 | Exam Paper — Page 2 (Data & CLO Matrix) | Exam Paper — Page 3 (End & Signers) |
+| :---: | :---: | :---: |
+| ![Exam Paper Page 1](docs/images/examples/exam-paper-p1.png) | ![Exam Paper Page 2](docs/images/examples/exam-paper-p2.png) | ![Exam Paper Page 3](docs/images/examples/exam-paper-p3.png) |
+
+| Office Minutes — Page 1 (Portrait) | Office Minutes — Page 2 (Portrait Table) | Office Minutes — Page 3 (Landscape A4 Annex) |
+| :---: | :---: | :---: |
+| ![Office Minutes Page 1](docs/images/examples/office-minutes-p1.png) | ![Office Minutes Page 2](docs/images/examples/office-minutes-p2.png) | ![Office Minutes Page 3](docs/images/examples/office-minutes-p3.png) |
+
+| JSON Academic Report — Page 1 | JSON Academic Report — Page 2 (Profile Table) | JSON Academic Report — Page 3 (A/B Table) | JSON Academic Report — Page 4 (Conclusions) |
+| :---: | :---: | :---: | :---: |
+| ![JSON Academic Report Page 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Academic Report Page 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Academic Report Page 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Academic Report Page 4](docs/images/examples/from-json-academic-report-p4.png) |
 
 </details>
-
-**Ready-to-open DOCX examples (all 7 filled starters + 3 JSON-generated documents):** [`assets/examples/`](assets/examples/)
 
 ## Overview
 
