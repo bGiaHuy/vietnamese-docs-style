@@ -1,0 +1,131 @@
+{
+  "profile": "party",
+  "source": "Project-authored Party resolution starter; QĐ 399-QĐ/TW and HD 05-HD/VPTW (2026); human review required",
+  "style_rules": {
+    "PartyParent": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "PartyOrg": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyTitleTop": {
+      "size_pt": [
+        15,
+        15
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyNumber": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "PartyDate": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": false,
+      "italic": true
+    },
+    "PartyDocType": {
+      "size_pt": [
+        15,
+        16
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartySubject": {
+      "size_pt": [
+        14,
+        15
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyHeading": {
+      "size_pt": [
+        14,
+        15
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyBody": {
+      "size_pt": [
+        14,
+        15
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "PartyAuthority": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyPosition": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "PartySignatureNote": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": false,
+      "italic": true
+    },
+    "PartySigner": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "PartyRecipientsLabel": {
+      "size_pt": [
+        14,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "PartyRecipients": {
+      "size_pt": [
+        12,
+        12
+      ],
+      "bold": false,
+      "italic": false
+    }
+  },
+  "required_text": [
+    "ĐẢNG CỘNG SẢN VIỆT NAM",
+    "NGHỊ QUYẾT",
+    "Nơi nhận:"
+  ]
+}

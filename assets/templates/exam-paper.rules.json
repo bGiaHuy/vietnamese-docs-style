@@ -1,0 +1,86 @@
+{
+  "profile": "academic",
+  "source": "Project-authored exam paper starter; no official institutional template claimed",
+  "margins_cm": {
+    "left": [
+      2.0,
+      2.0
+    ],
+    "right": [
+      2.0,
+      2.0
+    ],
+    "top": [
+      2.0,
+      2.0
+    ],
+    "bottom": [
+      2.0,
+      2.0
+    ]
+  },
+  "style_rules": {
+    "ExamSchool": {
+      "size_pt": [
+        12,
+        12
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "ExamDept": {
+      "size_pt": [
+        12,
+        12
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "ExamHeaderTitle": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "ExamMeta": {
+      "size_pt": [
+        12,
+        12
+      ],
+      "bold": false,
+      "italic": true
+    },
+    "ExamQuestionTitle": {
+      "size_pt": [
+        13,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "ExamBody": {
+      "size_pt": [
+        13,
+        13
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "ExamFooterLabel": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    }
+  },
+  "required_text": [
+    "Thời gian làm bài:",
+    "Mã đề:",
+    "Câu 1",
+    "HẾT"
+  ]
+}

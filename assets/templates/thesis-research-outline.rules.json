@@ -1,0 +1,68 @@
+{
+  "profile": "academic",
+  "source": "Project-authored thesis/research outline starter; adapt to university thesis rules",
+  "margins_cm": {
+    "left": [
+      3.0,
+      3.0
+    ],
+    "right": [
+      2.0,
+      2.0
+    ],
+    "top": [
+      2.5,
+      2.5
+    ],
+    "bottom": [
+      2.5,
+      2.5
+    ]
+  },
+  "style_rules": {
+    "Normal": {
+      "size_pt": [
+        13,
+        13
+      ]
+    },
+    "Title": {
+      "size_pt": [
+        16,
+        16
+      ],
+      "bold": true
+    },
+    "ThesisInstitution": {
+      "size_pt": [
+        13,
+        13
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "ThesisFaculty": {
+      "size_pt": [
+        13,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "ThesisSubtitle": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    }
+  },
+  "required_text": [
+    "ĐỀ CƯƠNG NGHIÊN CỨU",
+    "Tính cấp thiết",
+    "Phương pháp",
+    "Tiến độ thực hiện",
+    "Tài liệu tham khảo"
+  ]
+}

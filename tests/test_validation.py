@@ -372,7 +372,15 @@ def test_table_row_shape():
         add_table(new_doc(), ['A', 'B'], [['only one']])
 
 
-@pytest.mark.parametrize('template_id', ['administrative-notice', 'academic-short-report', 'office-minutes'])
+@pytest.mark.parametrize('template_id', [
+    'administrative-notice',
+    'administrative-dispatch',
+    'party-resolution',
+    'exam-paper',
+    'thesis-research-outline',
+    'academic-short-report',
+    'office-minutes',
+])
 def test_starter_template_fill_and_role_validation(tmp_path, template_id):
     from create_templates import BUILDERS
     doc, config, values = BUILDERS[template_id]()
@@ -659,3 +667,60 @@ def test_cli_inspect_and_generate_dispatch(tmp_path):
         '--validate',
     ]) == 0
     assert cli.main(['inspect', str(out)]) == 0
+
+
+def test_new_starters_keep_document_families_strictly_separated(tmp_path):
+    from create_templates import BUILDERS
+
+    def _all_text(doc):
+        parts = [p.text for p in doc.paragraphs]
+        parts += [p.text for t in doc.tables for r in t.rows for c in r.cells for p in c.paragraphs]
+        return '\n'.join(parts)
+
+    d_doc, _, d_vals = BUILDERS['administrative-dispatch']()
+    d_filled = tmp_path / 'dispatch.filled.docx'
+    fill_template(saved(tmp_path, d_doc, 'dispatch.docx'), d_filled, d_vals)
+    d_text = _all_text(Document(d_filled))
+    assert 'V/v ' in d_text and 'Kính gửi:' in d_text
+    assert 'CÔNG VĂN' not in d_text
+
+    p_doc, _, p_vals = BUILDERS['party-resolution']()
+    p_filled = tmp_path / 'party.filled.docx'
+    fill_template(saved(tmp_path, p_doc, 'party.docx'), p_filled, p_vals)
+    p_loaded = Document(p_filled)
+    p_text = _all_text(p_loaded)
+    assert 'ĐẢNG CỘNG SẢN VIỆT NAM' in p_text
+    assert 'Số 01-NQ/CB' in p_text and 'Số:' not in p_text
+    assert 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM' not in p_text
+    rec_label = p_loaded.tables[1].cell(0, 0).paragraphs[0]
+    assert rec_label.text == 'Nơi nhận:' and rec_label.runs[0].underline is True
+    pos_style = p_loaded.tables[1].cell(0, 1).paragraphs[1].style.name
+    assert pos_style == 'PartyPosition' and not p_loaded.styles[pos_style].font.bold
+
+    for tid in ('exam-paper', 'thesis-research-outline'):
+        doc, _, vals = BUILDERS[tid]()
+        filled = tmp_path / f'{tid}.filled.docx'
+        fill_template(saved(tmp_path, doc, f'{tid}.docx'), filled, vals)
+        text = _all_text(Document(filled))
+        assert 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM' not in text
+        assert 'ĐẢNG CỘNG SẢN VIỆT NAM' not in text
+
+
+def test_manifest_matches_all_packaged_starters():
+    import hashlib
+    tpl_dir = Path(__file__).resolve().parents[1] / 'assets/templates'
+    manifest = json.loads((tpl_dir / 'manifest.json').read_text(encoding='utf-8-sig'))
+    ids = [item['id'] for item in manifest]
+    assert set(ids) == {
+        'administrative-notice',
+        'administrative-dispatch',
+        'party-resolution',
+        'exam-paper',
+        'thesis-research-outline',
+        'academic-short-report',
+        'office-minutes',
+    }
+    for item in manifest:
+        assert item['visual_trial'] == 'reviewed'
+        actual = hashlib.sha256((tpl_dir / item['template']).read_bytes()).hexdigest()
+        assert actual == item['sha256'], item['id']

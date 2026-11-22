@@ -1,0 +1,20 @@
+{
+  "university": "TRƯỜNG ĐẠI HỌC THỬ NGHIỆM",
+  "faculty": "KHOA KHOA HỌC MÁY TÍNH",
+  "title": "Tên đề tài nghiên cứu / khóa luận thử nghiệm (giả định)",
+  "author": "Nguyễn Văn A — Mã HV: 000000 (giả định)",
+  "advisor": "TS. Trần Thị B (giả định)",
+  "major": "Kỹ thuật phần mềm",
+  "timeline": "01/2027 – 06/2027 (giả định)",
+  "status_note": "Đây là mẫu đề cương nghiên cứu giả định; bổ sung trang bìa và chuẩn trích dẫn theo quy định của trường.",
+  "rationale": "Trình bày bối cảnh bài toán, khoảng trống nghiên cứu và 1–2 câu hỏi nghiên cứu trọng tâm (nội dung giả định).",
+  "literature": "Tóm tắt các hướng tiếp cận chính trong nước và quốc tế liên quan trực tiếp đến câu hỏi nghiên cứu.",
+  "methodology": "Mô tả bộ dữ liệu dự kiến thu thập, quy trình thực nghiệm, chỉ số đánh giá định lượng và các kiểm tra đối chứng.",
+  "stage_1": "Tháng 1–2",
+  "task_1": "Khảo sát tài liệu, chốt thiết kế",
+  "deliverable_1": "Báo cáo tổng quan & bộ dữ liệu mẫu",
+  "stage_2": "Tháng 3–5",
+  "task_2": "Thử nghiệm, đánh giá và viết luận văn",
+  "deliverable_2": "Bản thảo hoàn chỉnh & mã nguồn",
+  "references": "Liệt kê các tài liệu tham khảo chính theo chuẩn trích dẫn (IEEE hoặc APA) do khoa quy định."
+}

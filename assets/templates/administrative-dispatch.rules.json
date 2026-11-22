@@ -1,0 +1,116 @@
+{
+  "profile": "administrative",
+  "source": "Project-authored official letter starter; NĐ30 Appendix I and Appendix III model 1.5; human review required",
+  "style_rules": {
+    "AdminAgencyParent": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "AdminAgency": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "AdminNational": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "AdminMotto": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "AdminNumber": {
+      "size_pt": [
+        13,
+        13
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "AdminDispatchBrief": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "AdminDate": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": false,
+      "italic": true
+    },
+    "AdminRecipientTo": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "AdminBody": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": false,
+      "italic": false
+    },
+    "AdminSigner": {
+      "size_pt": [
+        13,
+        14
+      ],
+      "bold": true,
+      "italic": false
+    },
+    "AdminSignatureNote": {
+      "size_pt": [
+        12,
+        13
+      ],
+      "bold": false,
+      "italic": true
+    },
+    "AdminRecipientsLabel": {
+      "size_pt": [
+        12,
+        12
+      ],
+      "bold": true,
+      "italic": true
+    },
+    "AdminRecipients": {
+      "size_pt": [
+        11,
+        11
+      ],
+      "bold": false,
+      "italic": false
+    }
+  },
+  "required_text": [
+    "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "Độc lập - Tự do - Hạnh phúc",
+    "Kính gửi:",
+    "Nơi nhận:"
+  ]
+}

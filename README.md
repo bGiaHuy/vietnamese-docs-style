@@ -4,6 +4,7 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 
 *Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
 
+[![Release](https://img.shields.io/github/v/release/bGiaHuy/vietnamese-docs-style?label=release)](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest)
 [![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
 [![Static Checks](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml)
 [![Benchmark](https://img.shields.io/badge/benchmark-0%2F8%20baseline%20vs%208%2F8%20skill-brightgreen)](evals/BENCHMARK.md)
@@ -12,7 +13,7 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.2.0` (`53/53` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ source code (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
+**Trạng thái:** `v0.3.0` (`59/59` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -29,6 +30,21 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 | ![Thông báo 2 trang tạo bằng skill — Trang 1](docs/images/skill-generated-notice-p1.png) | ![Thông báo 2 trang tạo bằng skill — Trang 2](docs/images/skill-generated-notice-p2.png) |
 
 Tệp nguồn vượt qua `validate_docx.py --profile administrative` với 0 lỗi (không tạo chữ ký hay con dấu giả). Chi tiết thông số trình bày và kết quả đối chiếu với văn bản thật nằm ở [evals/audit-comparison.md](evals/audit-comparison.md).
+
+<details>
+<summary>Xem thêm 4 starter: Công văn NĐ30, Nghị quyết Đảng, Đề thi, Đề cương nghiên cứu</summary>
+
+| Công văn NĐ30 (`administrative-dispatch`) | Nghị quyết Đảng (`party-resolution`, HD 05-HD/VPTW) |
+| :---: | :---: |
+| ![Starter Công văn NĐ30](docs/images/starter-dispatch.png) | ![Starter Nghị quyết Đảng HD05](docs/images/starter-party-resolution.png) |
+
+| Đề thi (`exam-paper`) | Đề cương nghiên cứu (`thesis-research-outline`) |
+| :---: | :---: |
+| ![Starter Đề thi học phần](docs/images/starter-exam-paper.png) | ![Starter Đề cương nghiên cứu](docs/images/starter-thesis-outline.png) |
+
+Cả 4 starter đều điền dữ liệu giả định, vượt qua `validate_docx.py` với `0` lỗi và giữ tách biệt từng nhóm thể thức.
+
+</details>
 
 <details>
 <summary>So sánh trước và sau</summary>
@@ -60,9 +76,9 @@ Khi LLM hoặc script Python tự tạo một file `.docx` mới mà không đư
 
 | Profile | Nhóm tài liệu | Rule & Validator | Starter template / Cấu hình tham chiếu |
 | --- | --- | --- | --- |
-| `administrative` | Thông báo, công văn, quyết định, tờ trình thuộc NĐ30/2020 ([29 loại & ký hiệu](references/administrative-doc-types-nd30.md), [văn phong](references/administrative-writing-style.md)) | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx) (tham chiếu Mẫu 1.4 NĐ30); VBQPPL dùng kèm [`legal-normative.json`](assets/rules/legal-normative.json) ([tham chiếu](references/legal-normative-documents.md)) |
-| `party` | Văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW ([tham chiếu](references/party-documents.md)) | Builder & validator (lề cố định `2.0/2.0/3.0/1.5 cm`, `14pt`, giãn dòng `Exactly 20pt`, số trang `14pt` cách mép trên `1.0 cm`) | Dựng qua `build_docx` (`new_doc('party')`) hoặc mẫu cấp ủy |
-| `academic` | Báo cáo học thuật ngắn, tiểu luận, học phần | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx) |
+| `administrative` | Thông báo, công văn, quyết định, tờ trình thuộc NĐ30/2020 ([29 loại & ký hiệu](references/administrative-doc-types-nd30.md), [văn phong](references/administrative-writing-style.md)) | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx), [`administrative-dispatch`](assets/templates/administrative-dispatch.docx) (Mẫu 1.4, 1.5 NĐ30); VBQPPL dùng kèm [`legal-normative.json`](assets/rules/legal-normative.json) ([tham chiếu](references/legal-normative-documents.md)) |
+| `party` | Văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW ([tham chiếu](references/party-documents.md)) | Builder & validator | [`party-resolution`](assets/templates/party-resolution.docx) |
+| `academic` | Báo cáo học thuật, tiểu luận, nghiên cứu, đề cương, đề thi | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx), [`exam-paper`](assets/templates/exam-paper.docx), [`thesis-research-outline`](assets/templates/thesis-research-outline.docx) |
 | `minutes-general` | Biên bản họp nhóm, họp nội bộ doanh nghiệp | Đầy đủ | [`office-minutes`](assets/templates/office-minutes.docx) |
 | `office` | Thông báo, ghi nhớ, báo cáo nội bộ văn phòng | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
 | `proposal` | Đề xuất dự án, kế hoạch công việc | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
@@ -87,6 +103,11 @@ Xem bảng đầy đủ, file JSON cho CI và đối chiếu văn bản thật t
 ## Cách bắt đầu
 
 **Yêu cầu hệ thống:** Node.js/npm (nếu cài skill bằng `npx skills`) và Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` cài tự động cho bộ công cụ `vndocs`). LibreOffice chỉ cần khi xuất PDF/PNG bằng `vndocs render`.
+
+### Dùng ngay trên Claude.ai / ChatGPT / Gemini (không cần cài CLI)
+
+- Tải [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) để nạp skill lên Claude hoặc tải lên khung chat có hỗ trợ chạy Python.
+- Hoặc dán link `https://raw.githubusercontent.com/bGiaHuy/vietnamese-docs-style/main/llms.txt` vào prompt để AI tự đọc quy chuẩn và mẫu tương ứng.
 
 ### Cài và cập nhật skill qua `npx skills`
 
@@ -214,7 +235,7 @@ vietnamese-docs-style/
 ├── evals/                     # Benchmark tái lập, báo cáo audit & manual evals
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 53 automated tests (pytest + LibreOffice render)
+└── tests/                     # 59 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -242,6 +263,21 @@ LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrat
 
 `validate_docx.py --profile administrative` passes with 0 errors and zero fabricated signatures or stamps. Detailed layout metrics and real-world document comparisons are in [evals/audit-comparison.md](evals/audit-comparison.md).
 
+<details>
+<summary>More starters: ND30 Dispatch, Party Resolution, Exam Paper, Research Outline</summary>
+
+| ND30 Dispatch (`administrative-dispatch`) | Party Resolution (`party-resolution`, HD 05-HD/VPTW) |
+| :---: | :---: |
+| ![ND30 Dispatch Starter](docs/images/starter-dispatch.png) | ![Party Resolution Starter](docs/images/starter-party-resolution.png) |
+
+| Exam Paper (`exam-paper`) | Research Outline (`thesis-research-outline`) |
+| :---: | :---: |
+| ![Exam Paper Starter](docs/images/starter-exam-paper.png) | ![Research Outline Starter](docs/images/starter-thesis-outline.png) |
+
+All 4 starters pass `validate_docx.py` with 0 errors on dummy inputs while keeping each document family separate.
+
+</details>
+
 ## Overview
 
 Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 cm` margins, Calibri or Arial fonts, blue Word headings, or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices.
@@ -259,6 +295,8 @@ Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 c
 ## Getting Started & Agent Support
 
 Requires Node.js/npm (for `npx skills`) and Python `3.10+` (`python-docx`, `PyMuPDF`, `lxml` for the local `vndocs` CLI); LibreOffice is optional and only needed for `vndocs render`.
+
+**Web chat (zero install):** Download [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) to upload as a skill/bundle, or share `https://raw.githubusercontent.com/bGiaHuy/vietnamese-docs-style/main/llms.txt` in chat.
 
 ```bash
 # Install the skill

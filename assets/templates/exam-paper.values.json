@@ -1,0 +1,21 @@
+{
+  "school": "TRƯỜNG ĐẠI HỌC THỬ NGHIỆM",
+  "department": "KHOA CÔNG NGHỆ THÔNG TIN",
+  "exam_status": "(Đề thi gồm 01 trang)",
+  "exam_title": "ĐỀ THI KẾT THÚC HỌC PHẦN (MẪU THỬ)",
+  "course": "Nhập môn Kỹ thuật phần mềm",
+  "duration": "90 phút (không sử dụng tài liệu)",
+  "exam_code": "01",
+  "instructions": "Lưu ý: Sinh viên trả lời trực tiếp vào giấy thi và ghi rõ mã đề.",
+  "q1_points": "3,0 điểm",
+  "q1_body": "Phân tích sự khác biệt giữa kiểm thử đơn vị (unit test) và kiểm thử tích hợp trong tình huống giả định.",
+  "q2_points": "4,0 điểm",
+  "q2_body": "Thiết kế cấu trúc module kiểm tra dữ liệu đầu vào theo định dạng JSON schema và trình bày các ca kiểm thử biên.",
+  "q3_points": "3,0 điểm",
+  "q3_body": "Nêu hai rủi ro thường gặp khi xử lý tài liệu XML đóng gói và cách phòng tránh khi viết bộ công cụ tự động.",
+  "status_note": "Đây là mẫu đề thi giả định; điều chỉnh theo quy định của trường/khoa khi sử dụng thật.",
+  "author_note": "(Chữ ký thử nghiệm)",
+  "author": "TS. Nguyễn Văn A (giả định)",
+  "reviewer_note": "(Chữ ký duyệt thử nghiệm)",
+  "reviewer": "PGS.TS. Trần Thị B (giả định)"
+}
