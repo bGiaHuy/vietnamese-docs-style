@@ -269,14 +269,14 @@ def validate_doc(filepath, profile='administrative', config=None, draft=False):
     return report['status'] != 'fail'
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath')
     parser.add_argument('--profile', default='administrative')
     parser.add_argument('--config', help='Explicit JSON rules for chosen template')
     parser.add_argument('--draft', action='store_true')
     parser.add_argument('--report', help='Write structured JSON report')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     try:
         report = inspect_doc(args.filepath, args.profile, args.config, args.draft)
     except (ValueError, OSError) as exc:

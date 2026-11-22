@@ -45,20 +45,21 @@ def edit_docx(source, destination, edits, expected_sha256=None):
     return report
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source')
     parser.add_argument('destination')
     parser.add_argument('--edits', required=True, help='JSON list of verified text slots')
     parser.add_argument('--source-sha256')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     try:
         edits = json.loads(Path(args.edits).read_text(encoding='utf-8-sig'))
         report = edit_docx(args.source, args.destination, edits, args.source_sha256)
     except (ValueError, OSError) as exc:
         parser.error(str(exc))
     print(json.dumps(report, ensure_ascii=False, indent=2))
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    raise SystemExit(main())

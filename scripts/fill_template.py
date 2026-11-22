@@ -58,20 +58,21 @@ def fill_template(source, destination, values, require_all=True):
 
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source')
     parser.add_argument('destination')
     parser.add_argument('--values', required=True, help='JSON file, plain token names to strings')
     parser.add_argument('--draft', action='store_true', help='Allow unfilled tokens/unused values')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     try:
         values = json.loads(Path(args.values).read_text(encoding='utf-8-sig'))
         report = fill_template(args.source, args.destination, values, not args.draft)
     except (ValueError, OSError) as exc:
         parser.error(str(exc))
     print(json.dumps(report, ensure_ascii=False, indent=2))
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    raise SystemExit(main())

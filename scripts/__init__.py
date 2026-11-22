@@ -1,0 +1,1 @@
+"""Vietnamese DOCX tooling package."""

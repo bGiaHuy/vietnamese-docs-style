@@ -223,8 +223,13 @@ def create_templates(destination):
     return manifest
 
 
-if __name__ == '__main__':
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output-dir', default='artifacts/template-suite')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     print(json.dumps(create_templates(args.output_dir), ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())

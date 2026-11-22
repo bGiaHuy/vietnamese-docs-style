@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vietnamese-docs-style"
+version = "0.2.0"
+description = "AI Agent Skill and Python DOCX tooling for Vietnamese document conventions (ND30/2020, academic, office)"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = [
+    "python-docx>=1.1.2,<2",
+    "PyMuPDF>=1.24,<2",
+    "lxml>=4.9,<7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+    "PyYAML>=6,<7",
+    "ruff>=0.17,<0.18",
+]
+
+[project.scripts]
+vndocs = "scripts.cli:main"
+
+[tool.setuptools]
+packages = ["scripts"]

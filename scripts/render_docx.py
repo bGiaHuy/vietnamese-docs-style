@@ -70,14 +70,14 @@ def render_doc(filepath, output_dir=None, renderer=None, timeout=120, png=False)
     return report
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath')
     parser.add_argument('--output-dir')
     parser.add_argument('--renderer', help='LibreOffice executable path')
     parser.add_argument('--timeout', type=float, default=120)
     parser.add_argument('--png', action='store_true')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     report = render_doc(args.filepath, args.output_dir, args.renderer, args.timeout, args.png)
     print(json.dumps(report, ensure_ascii=False, indent=2))
     return {'rendered': 0, 'fail': 1, 'not_checked': 2, 'partial': 2}[report['status']]

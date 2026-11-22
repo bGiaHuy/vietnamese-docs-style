@@ -1,6 +1,8 @@
 # Công cụ và phạm vi kiểm tra
 
-Python 3.10+; cài `requirements.txt`, kiểm thử bằng `requirements-dev.txt`.
+Python 3.10+; cài `pip install -e .` (hoặc `requirements.txt`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
+Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|validate|render|fill|edit|demo|templates|package>` hoặc chạy `python scripts/<tool>.py`.
+Kiểm tra nhanh môi trường và LibreOffice renderer: `vndocs doctor`.
 LibreOffice là dependency hệ thống riêng để render. Trên Windows có thể chỉ
 định `--renderer` hoặc biến `VNDOCS_RENDERER`; không yêu cầu cài đè phiên bản sẵn.
 

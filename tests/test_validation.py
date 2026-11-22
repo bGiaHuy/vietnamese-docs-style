@@ -405,6 +405,25 @@ def test_administrative_notice_nd30_header_alignment_and_signature_layout(tmp_pa
     assert Document(filled).tables[1].cell(0, 1).paragraphs[1].style.name == 'AdminSignatureNote'
 
 
+def test_cli_doctor_reports_environment():
+    import cli
+    report = cli.doctor_report()
+    assert report['python']['supported'] is True
+    assert report['dependencies']['python-docx']['installed'] is True
+    assert report['dependencies']['lxml']['installed'] is True
+    assert report['status'] in ('ok', 'partial')
+    with patch('render_docx.find_renderer', return_value=None):
+        assert cli.run_doctor([]) == 2
+
+
+def test_cli_validate_dispatch(tmp_path):
+    import cli
+    path = saved(tmp_path, new_doc('office'), 'office.docx')
+    assert cli.main(['validate', str(path), '--profile', 'office']) == 0
+    assert cli.main(['--help']) == 0
+    assert cli.main(['unknown-command']) == 2
+
+
 def test_package_excludes_research_and_detects_changed_template(tmp_path):
     import hashlib
     from zipfile import ZipFile

@@ -54,9 +54,14 @@ def package_skill(root, destination):
                          '.git', '.codex', '.test-deps', '.tools', 'artifacts', 'tests']}
 
 
-if __name__ == '__main__':
+def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', default=str(Path(__file__).resolve().parents[1]))
     parser.add_argument('--output', default='dist/vietnamese-docx.zip')
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     print(json.dumps(package_skill(args.root, args.output), ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())
