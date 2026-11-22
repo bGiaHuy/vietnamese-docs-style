@@ -1,8 +1,8 @@
 # Vietnamese Docs Style
 
-Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền mẫu và kiểm tra file Word (`.docx`) theo quy ước trình bày Việt Nam — văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng, VBQPPL, báo cáo học thuật và tài liệu văn phòng.
+Hiện nay, hầu hết các công cụ AI trên thị trường khi được yêu cầu viết văn bản hoặc tạo file Word (`.docx`) đều sinh ra theo một khuôn chung chung — dày đặc dấu chấm tròn (`•`), **in đậm** dàn trải, sai khổ giấy, cỡ chữ và font chữ chưa phù hợp với từng loại công việc thực tế, đồng thời dễ làm vỡ định dạng khi chỉnh sửa file có sẵn. **`vietnamese-docs-style`** là Agent Skill kèm bộ công cụ Python (`vndocs`) giúp AI soạn mới, điền mẫu, chỉnh sửa bố cục có kiểm soát (`xml_ntpr = 1.0`) và kiểm tra file `.docx` theo đúng quy chuẩn Việt Nam — từ văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng (QĐ 399 & HD 05-HD/VPTW), VBQPPL đến báo cáo học thuật, đề thi và tài liệu văn phòng.
 
-*Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
+*Out of the box, most AI tools generate generic `.docx` documents packed with chatbot-style bullet dots, scattered bold text, wrong paper sizes, and mismatched fonts/margins that break when editing existing layouts. `vietnamese-docs-style` is an Agent Skill and local Python CLI (`vndocs`) for generating, template-filling, controlled layout editing (`xml_ntpr = 1.0`), and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
 
 [![Release](https://img.shields.io/github/v/release/bGiaHuy/vietnamese-docs-style?label=release)](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest)
 [![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
@@ -60,9 +60,9 @@ Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương K
 
 ## Giới thiệu ngắn
 
-Khi LLM hoặc script Python tự tạo một file `.docx` mới mà không được cấu hình định dạng phù hợp với văn bản của nước ta, file thường rơi về khổ US Letter, lề `2.54 cm`, font Calibri hoặc Arial và tiêu đề màu xanh mặc định của Word. Nhiều prompt còn khiến AI áp nhầm Quốc hiệu, Tiêu ngữ của Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo công ty.
+Khi chưa được hướng dẫn đúng ngữ cảnh công việc, AI và script Python mặc định thường biến mọi văn bản thành danh sách dấu chấm tròn (`•`), **in đậm** dàn trải đầu dòng, rơi về khổ US Letter, lề `2.54 cm`, font Calibri/Arial và tiêu đề màu xanh của Word; nhiều trường hợp lại áp nhầm Quốc hiệu – Tiêu ngữ theo Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo doanh nghiệp. Khi chỉnh sửa trên file `.docx` có sẵn, cách để agent tự đọc và sửa XML thô cũng rất ngốn token và dễ phá hỏng các đoạn ngoài vùng yêu cầu.
 
-`vietnamese-docs-style` tách thành hai phần. Bộ hướng dẫn theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp agent chọn đúng thể thức ngay từ đầu. Đi kèm là CLI `vndocs` để tạo file, điền mẫu giữ nguyên XML gốc, validate và render ảnh từng trang.
+`vietnamese-docs-style` giải quyết bài toán trên bằng hai lớp phối hợp: bộ hướng dẫn định tuyến theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp AI chọn đúng thể thức và văn phong cho từng loại việc, kết hợp cùng CLI `vndocs` để tạo file mới, điền mẫu giữ nguyên XML gốc, chỉnh sửa bố cục có kiểm soát (`map -> layout-edit / paginate -> diff-layout`), kiểm tra lỗi và render ảnh từng trang qua LibreOffice + PyMuPDF.
 
 ## Tính năng chính
 
@@ -305,9 +305,9 @@ All 4 starters pass `validate_docx.py` with 0 errors on dummy inputs while keepi
 
 ## Overview
 
-Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 cm` margins, Calibri or Arial fonts, blue Word headings, or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices.
+Without task-specific conventions, most AI tools and Python DOCX scripts format documents like generic chatbot replies — overloaded with bullet dots (`•`), scattered **bold** phrases, US Letter pages, `2.54 cm` margins, Calibri/Arial defaults, and blue Word headings — or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices. When asked to modify existing `.docx` files, letting an agent rewrite raw XML directly consumes excess tokens and frequently breaks unrelated sections or layout structures.
 
-`vietnamese-docs-style` has two parts: context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) so agents choose the right format first, and the `vndocs` CLI to generate, template-fill cleanly, validate, and render `.docx` files.
+`vietnamese-docs-style` pairs two layers to solve both issues: context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) so agents select the right format and writing style upfront, and the `vndocs` CLI to generate, fill templates losslessly, perform controlled layout edits (`map -> layout-edit / paginate -> diff-layout`), validate, and render page previews via LibreOffice and PyMuPDF.
 
 ## Key Features
 
