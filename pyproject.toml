@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vietnamese-docs-style"
-version = "0.3.0"
+version = "0.4.0"
 description = "AI Agent Skill and Python DOCX tooling for Vietnamese document conventions (ND30/2020, Party HD 05-HD/VPTW, VBQPPL, academic/exam, office)"
 readme = "README.md"
 license = {file = "LICENSE"}

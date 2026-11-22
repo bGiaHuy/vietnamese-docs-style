@@ -13,7 +13,7 @@ Skill cho AI agent và bộ công cụ Python (`vndocs`) giúp tạo, điền m�
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.3.0` (`93/93` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
+**Trạng thái:** `v0.4.0` (`93/93` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -101,12 +101,20 @@ Benchmark gồm **16 test case**, chạy bằng `python evals/run_validation_ben
 
 Xem bảng đầy đủ, file JSON cho CI và đối chiếu văn bản thật tại: [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
-### Benchmark chỉnh sửa bố cục: 30/30 Oracle Hit & `xml_ntpr = 1.0`
+### Benchmark chỉnh sửa bố cục: 30/30 Oracle Hit, `xml_ntpr = 1.0` & So sánh Live Agent A/B
 
-Bộ benchmark phân tầng **30 ca (`T01`–`T30`)** trên văn bản ngắn/trung bình/dài (`short: 14`, `medium: 10`, `long: 6`), chạy tái lập bằng `python evals/run_layout_benchmark.py --run-oracle`:
+Bộ dataset phân tầng **30 ca (`T01`–`T30`)** trên tài liệu ngắn/trung bình/dài (`short: 14`, `medium: 10`, `long: 6`, mô tả tại [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json), tái tạo `.docx` bằng `python evals/run_layout_benchmark.py --generate-corpus`). Đây là benchmark nội bộ do dự án thiết kế cho ngữ cảnh tiếng Việt (`T01`–`T18` đã chạy **50 lượt Live Agent A/B cô lập** với `0` ca nhiễu Arm A; `T19`–`T30` kiểm chứng bằng oracle xác định):
 
-- **Kết quả oracle (`vndocs`):** **30 / 30 (100.0%)** đạt mọi checkpoint hình học PDF + OOXML, **100%** bảo toàn cấu trúc XML ngoài vùng sửa (`xml_ntpr = 1.0`), **4 / 4** ca rủi ro/mơ hồ từ chối an toàn (kể cả `.docx` đã ký số `T28` và ảnh crop không phân biệt được `T17`).
-- **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`). Chi tiết nằm ở [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md).
+| Nhóm kiểm thử (`with_skill` vs `without_skill`) | Model | Hit Rate | Mean Total Tok (`without -> with`) | Mean Calls | Mean Time (s) |
+| --- | --- | :---: | :---: | :---: | :---: |
+| Live A/B Đợt 1 (`T01`–`T12`: bảng, grid/vMerge, xoay ngang, từ chối) | `flash` (12 ca × 2) | 12/12 vs 12/12 | `219,273 -> 72,536` (**-66.9%**) | `11.3 -> 6.3` | `98.1 -> 41.7` (**-57.5%**) |
+| Live A/B Đợt 1 (`T03, T04, T07, T08`) | `pro` (4 ca × 2) | 4/4 vs 4/4 | `619,055 -> 155,376` (**-74.9%**) | `19.0 -> 9.5` | `159.0 -> 59.5` (**-62.6%**) |
+| Live A/B Đợt 2 (`T13`–`T18`: ảnh crop, lề/font ô, ảnh, Đảng HD05, multi-op) | `flash` (6 ca × 2) | 6/6 vs 6/6 | `208,550 -> 97,790` (**-53.1%**) | `11.8 -> 7.0` | `77.2 -> 41.3` (**-46.5%**) |
+| Live A/B Đợt 2 (`T13, T16, T17`) | `pro` (3 ca × 2) | 3/3 vs 3/3 | `324,405 -> 237,946` (**-26.7%**) | `17.7 -> 13.3` | `110.7 -> 85.0` (**-23.2%**) |
+
+- **Oracle xác định 30 ca (`--run-oracle`):** **30 / 30 (100.0%)** đạt mọi checkpoint hình học PDF + OOXML, **100%** bảo toàn cấu trúc XML ngoài vùng sửa (`xml_ntpr = 1.0`), **4 / 4** ca rủi ro/mơ hồ từ chối an toàn (gồm `.docx` đã ký số `T28` và ảnh crop không phân biệt được `T17`).
+- **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`).
+- **Dữ liệu & báo cáo đầy đủ (50 lượt A/B + 30 ca oracle + nguồn tham khảo):** [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md) · [`evals/layout-benchmark-results.json`](evals/layout-benchmark-results.json) · [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json).
 
 ## Cách bắt đầu
 
@@ -262,6 +270,7 @@ vietnamese-docs-style/
 - **Đóng góp:**
   - Cảm ơn [@triensslci](https://github.com/triensslci) đã đóng góp profile `party` cùng bộ tài liệu quy chuẩn văn bản của Đảng ([party-documents.md](references/party-documents.md) theo QĐ 399-QĐ/TW và HD 05-HD/VPTW), văn bản quy phạm pháp luật ([legal-normative-documents.md](references/legal-normative-documents.md), [legal-normative.json](assets/rules/legal-normative.json) theo Luật 64/2025, Luật 87/2025, NĐ 78/2025 và Phụ lục I NĐ 187/2025), danh mục 29 loại văn bản hành chính & thẩm quyền ký NĐ30 ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)) và hướng dẫn văn phong hành chính – công vụ ([administrative-writing-style.md](references/administrative-writing-style.md)).
   - Cảm ơn [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (giấy phép MIT) và nguồn nghiệp vụ gốc [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) về ý tưởng sinh `.docx` từ JSON Schema (`vndocs generate`), soi mẫu & phát hiện lỗi encoding `Ð` (`U+00D0`) (`vndocs inspect`), bộ câu hỏi phỏng vấn ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)) và chỉ mục [llms.txt](llms.txt).
+- **Công trình & Repo tham khảo thiết kế:** Luồng chỉnh sửa bố cục có kiểm soát và phương pháp đánh giá tham khảo thực nghiệm từ *WordInferBench*, *DocFormBench*, *SkillsBench*, *OfficeEval*, *LEDGER*, *DocEdit-v2*, *VFLM*, *AutoPresent* cùng các dự án mã nguồn mở [`kklimuk/docx-cli`](https://github.com/kklimuk/docx-cli) (MIT), [`ruwadgroup/docxengine`](https://github.com/ruwadgroup/docxengine) (Apache-2.0), [`anthropics/skills`](https://github.com/anthropics/skills) (Apache-2.0) và [`icip-cas/PPTAgent`](https://github.com/icip-cas/PPTAgent) (MIT) — xem bảng chi tiết kèm link bài báo tại [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md#4-design--evaluation-references).
 - **Quy chuẩn và thư viện sử dụng:** Đối chiếu thể thức từ **Nghị định 30/2020/NĐ-CP**, **Quy định 399-QĐ/TW**, **Hướng dẫn 05-HD/VPTW** và **Nghị định 187/2025/NĐ-CP**; xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
 - **Giấy phép:** Mã nguồn, script và tài liệu của dự án dùng giấy phép **MIT** ([LICENSE](LICENSE)). Các văn bản, biểu mẫu tham khảo của bên thứ ba giữ nguyên bản quyền và điều khoản gốc của đơn vị ban hành.
 
@@ -360,12 +369,20 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
 - **Result:** `0 / 8` baseline pass vs. `8 / 8` skill pass (checked continuously in CI).
 - **Details:** [`evals/BENCHMARK.md`](evals/BENCHMARK.md) · [`evals/benchmark-results.json`](evals/benchmark-results.json) · [`evals/audit-comparison.md`](evals/audit-comparison.md) · [`evals/manual-results.md`](evals/manual-results.md).
 
-### Layout Editing Benchmark: 30/30 Oracle Hit & `xml_ntpr = 1.0`
+### Layout Editing Benchmark: 30/30 Oracle Hit, `xml_ntpr = 1.0` & Live Agent A/B
 
-30 stratified DOCX layout cases (`T01`–`T30`; `short: 14`, `medium: 10`, `long: 6`), run via `python evals/run_layout_benchmark.py --run-oracle`:
+Self-authored stratified dataset of **30 Vietnamese DOCX layout cases (`T01`–`T30`)** (`short: 14`, `medium: 10`, `long: 6`; defined in [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json), corpus regenerated reproducibly via `python evals/run_layout_benchmark.py --generate-corpus`). `T01`–`T18` were evaluated across **50 isolated Live Agent A/B trajectories** (`without_skill` vs `with_skill`, `0` Arm-A contamination); extended cases `T19`–`T30` are verified via the deterministic oracle only:
 
-- **Oracle (`vndocs`):** **30 / 30 (100.0%)** pass every PDF geometry & OOXML checkpoint with **100%** non-target XML preservation (`xml_ntpr = 1.0`) and **4 / 4** safe fail-closed refusals (including signed `.docx` `T28` and indistinguishable crops `T17`).
-- **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`). See [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md).
+| Live A/B Suite (`with_skill` vs `without_skill`) | Model | Hit Rate | Mean Total Tok (`without -> with`) | Mean Calls | Mean Time (s) |
+| --- | --- | :---: | :---: | :---: | :---: |
+| Batch 1 (`T01`–`T12`: tables, grid/vMerge, landscape, refusals) | `flash` (12 × 2) | 12/12 vs 12/12 | `219,273 -> 72,536` (**-66.9%**) | `11.3 -> 6.3` | `98.1 -> 41.7` (**-57.5%**) |
+| Batch 1 (`T03, T04, T07, T08`) | `pro` (4 × 2) | 4/4 vs 4/4 | `619,055 -> 155,376` (**-74.9%**) | `19.0 -> 9.5` | `159.0 -> 59.5` (**-62.6%**) |
+| Batch 2 (`T13`–`T18`: screenshot crop, margins/font, image, Party HD05, multi-op) | `flash` (6 × 2) | 6/6 vs 6/6 | `208,550 -> 97,790` (**-53.1%**) | `11.8 -> 7.0` | `77.2 -> 41.3` (**-46.5%**) |
+| Batch 2 (`T13, T16, T17`) | `pro` (3 × 2) | 3/3 vs 3/3 | `324,405 -> 237,946` (**-26.7%**) | `17.7 -> 13.3` | `110.7 -> 85.0` (**-23.2%**) |
+
+- **30-case deterministic oracle (`--run-oracle`):** **30 / 30 (100.0%)** pass every PDF geometry & OOXML checkpoint with **100%** non-target XML preservation (`xml_ntpr = 1.0`) and **4 / 4** safe fail-closed refusals (including signed `.docx` `T28` and indistinguishable crops `T17`).
+- **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`).
+- **Full dataset, sanitized trajectories & paper references:** [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md) · [`evals/layout-benchmark-results.json`](evals/layout-benchmark-results.json) · [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json).
 
 ## Limitations & Integrations
 
@@ -398,5 +415,6 @@ Common workflows also include `vndocs generate ... --validate`, `vndocs inspect 
 - **Contributors:**
   - Special thanks to [@triensslci](https://github.com/triensslci) for contributing the `party` profile and reference guides for Communist Party documents ([party-documents.md](references/party-documents.md) per QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative documents ([legal-normative-documents.md](references/legal-normative-documents.md) and [legal-normative.json](assets/rules/legal-normative.json) per Laws 64/2025 & 87/2025, Decrees 78/2025 & 187/2025), the 29 Decree 30/2020/NĐ-CP document types & signing rules ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)), and administrative writing style guidelines ([administrative-writing-style.md](references/administrative-writing-style.md)).
   - Appreciation to [@kanazawahere/nd30](https://github.com/kanazawahere/nd30) (MIT License) and upstream [biencuong/vbhc](https://github.com/biencuong/vbhc) (Unlicense) for inspiring the declarative JSON-to-DOCX generator workflow (`vndocs generate`), template inspection & `U+00D0` (`Ð -> Đ`) encoding detection (`vndocs inspect`), pre-drafting interview questions ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and root [llms.txt](llms.txt) index.
+- **Research & Engineering References:** The controlled layout editing architecture and benchmark design draw on *WordInferBench*, *DocFormBench*, *SkillsBench*, *OfficeEval*, *LEDGER*, *DocEdit-v2*, *VFLM*, *AutoPresent*, and open-source tools [`kklimuk/docx-cli`](https://github.com/kklimuk/docx-cli) (MIT), [`ruwadgroup/docxengine`](https://github.com/ruwadgroup/docxengine) (Apache-2.0), [`anthropics/skills`](https://github.com/anthropics/skills) (Apache-2.0), and [`icip-cas/PPTAgent`](https://github.com/icip-cas/PPTAgent) (MIT) — see the cited paper table in [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md#4-design--evaluation-references).
 - **Standards & Libraries:** Formatting conventions referenced against Decree 30/2020/NĐ-CP, Regulation 399-QĐ/TW, Guideline 05-HD/VPTW, and Decree 187/2025/NĐ-CP; built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
 - **License:** Project-authored source, scripts, and documentation are licensed under the **MIT License** ([LICENSE](LICENSE)). Third-party reference materials remain under their original owners' licenses.

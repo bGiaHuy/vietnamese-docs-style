@@ -46,4 +46,4 @@
 
 - [assets/templates/manifest.json](assets/templates/manifest.json): Starter `.docx`, `.rules.json`, `.values.json` và ví dụ JSON tại `assets/schemas/examples/`.
 - [evals/BENCHMARK.md](evals/BENCHMARK.md): Benchmark công khai 16 case (`0/8` baseline vs. `8/8` skill) và [evals/audit-comparison.md](evals/audit-comparison.md).
-- [evals/LAYOUT-BENCHMARK.md](evals/LAYOUT-BENCHMARK.md): Benchmark chỉnh sửa bố cục 30 ca phân tầng (`T01`–`T30`, `evals/run_layout_benchmark.py`).
+- [evals/LAYOUT-BENCHMARK.md](evals/LAYOUT-BENCHMARK.md): Benchmark chỉnh sửa bố cục 30 ca phân tầng (`T01`–`T30`), kèm [dataset JSON](evals/layout_edit_cases.json), [số liệu so sánh Live A/B + oracle](evals/layout-benchmark-results.json) và [`evals/run_layout_benchmark.py`](evals/run_layout_benchmark.py).
