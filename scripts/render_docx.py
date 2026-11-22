@@ -13,9 +13,13 @@ def _sha256_file(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
 
 
+def _is_windows():
+    return os.name == 'nt'
+
+
 def find_word_win():
     """Return WINWORD executable path on Windows if detectable without launching COM."""
-    if os.name != 'nt':
+    if not _is_windows():
         return None
     for name in ('winword', 'WINWORD.EXE'):
         found = shutil.which(name)
@@ -38,7 +42,7 @@ def find_word_win():
 
 def _render_via_word_com(source, work_pdf, timeout=150):
     """Render DOCX to PDF using Windows Microsoft Word COM automation."""
-    if os.name != 'nt':
+    if not _is_windows():
         return 'not_checked', 'Microsoft Word COM requires Windows'
 
     ps_script = (

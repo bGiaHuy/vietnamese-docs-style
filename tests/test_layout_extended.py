@@ -249,9 +249,13 @@ def test_render_word_com_mocked_and_cache_hit(tmp_path):
 
     # Graceful not_checked when Word COM registry class is unavailable
     fake_proc = SimpleNamespace(returncode=1, stdout='', stderr='80040154 Class not registered')
-    with patch('render_docx.os.name', 'nt'), patch('render_docx.subprocess.run', return_value=fake_proc):
+    with patch('render_docx._is_windows', return_value=True), patch('render_docx.subprocess.run', return_value=fake_proc):
         out_missing = render_docx.render_doc(src, output_dir=tmp_path / 'r3', renderer='word-win')
         assert out_missing['status'] == 'not_checked'
+
+    with patch('render_docx._is_windows', return_value=False):
+        out_non_win = render_docx.render_doc(src, output_dir=tmp_path / 'r4', renderer='word-win')
+        assert out_non_win['status'] == 'not_checked'
 
     with patch('render_docx.find_renderer', return_value=None):
         cmp_res = diff_layout.compare_renderers(src, output_dir=tmp_path / 'cmp')
