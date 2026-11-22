@@ -34,7 +34,11 @@ def setup_document(doc, profile='administrative', config=None):
             setattr(section, side + '_margin', Cm(bounds[0]))
     setup_styles(doc, rules)
     if profile in ADMIN:
-        add_page_numbers(doc, position='header', show_first=False)
+        add_page_numbers(doc, position='header', show_first=False,
+                         size=rules['page_number_size_pt'])
+        if profile == 'party':
+            for section in doc.sections:
+                section.header_distance = Cm(1.0)
     return doc
 
 
@@ -74,7 +78,8 @@ def setup_styles(doc, rules=None):
     normal = doc.styles['Normal'].paragraph_format
     normal.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     normal.space_after = Pt(6)
-    normal.line_spacing = rules['line_spacing']
+    normal.line_spacing = (Pt(rules['line_spacing_exact_pt'])
+                           if rules['line_spacing_exact_pt'] else rules['line_spacing'])
     if rules['profile'] in ADMIN:
         normal.first_line_indent = Cm(1)
     for name, spec in rules['style_rules'].items():

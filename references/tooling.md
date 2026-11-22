@@ -33,7 +33,13 @@ trống rồi thay tất cả.
 Ví dụ `assets/rules/custom-example.json`. Dùng cùng config khi tạo mới và kiểm tra.
 Các khóa: `profile`, `source`, `font`, `color`, `body_size_pt`, `line_spacing`,
 `page_cm`, `allow_landscape`, `margins_cm`, `sections`, `style_rules`, `required_text`,
-`forbid_bullets`, `forbid_shading`. Không rõ khóa báo lỗi, không âm thầm bỏ qua.
+`forbid_bullets`, `forbid_shading`, `line_spacing_exact_pt`, `page_number_size_pt`.
+`line_spacing_exact_pt` (null hoặc số pt) đặt giãn dòng Exactly cho Normal, ưu tiên hơn
+`line_spacing`; `page_number_size_pt` là cỡ chữ field PAGE của profile có số trang.
+Profile `party` mặc định: lề 2,0/2,0/3,0/1,5 cm, body 14pt, Exactly 20pt, số trang
+14pt cách mép trên 1 cm, ẩn trang đầu (HD 05-HD/VPTW). Lề mặt sau khi in hai mặt
+(trái 15, phải 30 mm) chưa được tạo tự động. VBQPPL dùng
+`--profile administrative --config assets/rules/legal-normative.json`. Không rõ khóa báo lỗi, không âm thầm bỏ qua.
 
 `body_size_pt` và `line_spacing` cấu hình generator, chưa phải kiểm tra validator. `style_rules` ánh xạ tên paragraph style sang `font`, `color`, `size_pt: [min,max]`, `bold`, `italic`; generator thiết lập style, validator kiểm tra role được dùng, gồm override trực tiếp. Các thuộc tính chưa hỗ trợ vẫn ghi unchecked.
 `font`/`color` null bỏ kiểm tra đó. `page_cm` null bỏ kiểm tra khổ. Lề dùng

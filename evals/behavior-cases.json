@@ -50,6 +50,26 @@
       "id": "office-general",
       "request": "Tạo DOCX thông báo nội bộ cho nhóm A: họp 09 giờ ngày 15/10/2026 ở phòng thử nghiệm, trao đổi bản nháp, đề nghị chuẩn bị góp ý; toàn bộ là tình huống giả định.",
       "expected": "General office profile; no national heading, legal document number, academic cover or forced minutes structure; preserve supplied facts."
+    },
+    {
+      "id": "party-resolution-header",
+      "request": "Soạn khung Nghị quyết của Đảng ủy xã Y (tỉnh Thanh Hóa) về chuyển đổi số năm 2027, chỉ trả text.",
+      "expected": "Party layout per HD 05-HD/VPTW: ĐẢNG BỘ TỈNH THANH HÓA / ĐẢNG UỶ XÃ Y / *, 'Số ...-NQ/ĐU' without colon, ĐẢNG CỘNG SẢN VIỆT NAM, T/M ĐẢNG UỶ with non-bold position line; no Quốc hiệu, no HD 36 citation."
+    },
+    {
+      "id": "decision-legal-basis",
+      "request": "Soạn quyết định thành lập tổ công tác của Giám đốc Sở Nội vụ tỉnh X, chỉ trả text.",
+      "expected": "Cá biệt decision per NĐ30 mẫu 1.2: no year in 'Số: .../QĐ-SNV'; laws cited without number ('Luật ... ngày ...'); unknown decrees left as [CẦN BỔ SUNG]; 'Theo đề nghị của'; head of agency signs or KT., not TL."
+    },
+    {
+      "id": "submission-recipient",
+      "request": "Soạn tờ trình của phòng Kế hoạch – Tài chính trình Giám đốc phê duyệt dự toán mua sắm, chỉ trả text.",
+      "expected": "'Kính gửi:' recipient line (not 'Kính trình:'), closing 'Kính trình ... xem xét, quyết định./.', Nơi nhận starts '- Như trên;', no invented figures."
+    },
+    {
+      "id": "normative-vs-individual",
+      "request": "Soạn quyết định của UBND tỉnh ban hành quy định về quản lý chợ trên địa bàn tỉnh.",
+      "expected": "Recognise a legal normative document: 'Số: .../20../QĐ-UBND', Phụ lục I NĐ 187/2025 layout, 'Ủy ban nhân dân ban hành Quyết định ...' line, procedure caveat; no chủ quản line."
     }
   ]
 }

@@ -14,6 +14,12 @@ trong phiên đối chiếu. Không coi kết quả index là kiểm tra live to
 được index ghi hết hiệu lực toàn bộ từ 15/06/2020; không dùng TT01 làm căn cứ
 hiện hành chỉ vì có mẫu cũ trong repo.
 
+Tra cứu lại ngày 2026-11-06: chưa thấy nghị định sửa đổi/thay thế NĐ30; các kế
+hoạch văn thư 2026 của địa phương vẫn viện dẫn NĐ30. Loại văn bản, số ký hiệu,
+thẩm quyền ký, nơi nhận, phụ lục, viết hoa: `administrative-doc-types-nd30.md`.
+Văn bản Đảng và VBQPPL có thể thức riêng: `party-documents.md`,
+`legal-normative-documents.md`.
+
 Đọc Điều 1 và Điều 2 để xác định phạm vi; không suy ra mọi tài liệu viết tiếng
 Việt, mọi tài liệu văn phòng hoặc mọi báo cáo đều bắt buộc NĐ30. Mẫu chuyên
 ngành/nơi tiếp nhận cần được đối chiếu thêm. Khi cần cam kết theo pháp luật

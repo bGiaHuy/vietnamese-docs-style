@@ -1,8 +1,8 @@
 # Vietnamese Docs Style
 
-Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent, cán bộ hành chính, nhân viên văn phòng, sinh viên và lập trình viên tạo, điền mẫu và kiểm tra file Word (`.docx`) theo đúng quy ước trình bày Việt Nam (Nghị định 30/2020/NĐ-CP, báo cáo học thuật, biên bản họp).
+Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent, cán bộ hành chính, nhân viên văn phòng, sinh viên và lập trình viên tạo, điền mẫu và kiểm tra file Word (`.docx`) theo đúng quy ước trình bày Việt Nam (Nghị định 30/2020/NĐ-CP, văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW, văn bản quy phạm pháp luật, báo cáo học thuật, biên bản họp).
 
-*Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, academic, and office conventions.*
+*Agent skill and local Python CLI (`vndocs`) for generating, template-filling, and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
 
 [![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
 [![Static Checks](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/lint.yml)
@@ -11,7 +11,7 @@ Skill và bộ công cụ Python (`vndocs`) giúp người dùng AI coding agent
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.2.0` (`42/42` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
+**Trạng thái:** `v0.2.0` (`47/47` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Cài đặt:** chưa đóng gói bản GitHub Release riêng; cài skill nhanh qua `npx skills add bGiaHuy/vietnamese-docs-style`, cài từ mã nguồn (`pip install -e .`), hoặc xuất ZIP qua `vndocs package`.
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -49,17 +49,18 @@ Khi LLM hoặc script Python tự tạo một file `.docx` mới mà thiếu quy
 
 ## Tính năng chính
 
-- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 7 profile; NĐ30/2020 chỉ áp dụng cho văn bản hành chính thuộc phạm vi quy định, không ép lên bài học thuật hay tài liệu nội bộ doanh nghiệp.
+- Chọn đúng thể thức theo loại văn bản và nơi tiếp nhận qua 8 profile (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`); NĐ30/2020 chỉ áp dụng cho văn bản hành chính nhà nước, tách biệt với văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), văn bản quy phạm pháp luật (Phụ lục I NĐ 187/2025/NĐ-CP), bài học thuật hay tài liệu nội bộ doanh nghiệp.
 - Điền token `{{name}}` (kể cả khi Word tách token qua nhiều run) bằng `vndocs fill` hoặc vá đúng vị trí văn bản bằng `vndocs edit --source-sha256`, giữ nguyên từng byte của các thành phần XML ngoài vùng sửa.
 - Kiểm tra khổ giấy, lề từng section, font/màu kế thừa, named style role, placeholder sót (`{{...}}`, `[CẦN BỔ SUNG: ...]`) và tham chiếu numbering qua `vndocs validate`, kèm danh sách `unchecked` cho phần chưa kiểm tra.
 - Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm cô lập (`vndocs render --png`), tránh trường hợp PDF cũ nằm sẵn trên đĩa bị nhận nhầm là bản mới.
-- Hỗ trợ dựng tài liệu từ đầu (`scripts/build_docx.py`) với trường số trang `PAGE` thật và đóng gói bản phân phối ZIP gọn sạch (`vndocs package`) không dính dữ liệu nghiên cứu hay test.
+- Hỗ trợ dựng tài liệu từ đầu (`scripts/build_docx.py`) với trường số trang `PAGE` thật (tùy chỉnh `page_number_size_pt`, `line_spacing_exact_pt`) và đóng gói bản phân phối ZIP gọn sạch (`vndocs package`) không dính dữ liệu nghiên cứu hay test.
 
 ### Phạm vi hỗ trợ theo Profile
 
-| Profile | Nhóm tài liệu | Rule & Validator | Starter template sẵn có |
+| Profile | Nhóm tài liệu | Rule & Validator | Starter template / Cấu hình tham chiếu |
 | --- | --- | --- | --- |
-| `administrative` | Thông báo, công văn, quyết định thuộc NĐ30/2020 | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx) (tham chiếu Mẫu 1.4 NĐ30) |
+| `administrative` | Thông báo, công văn, quyết định, tờ trình thuộc NĐ30/2020 ([29 loại & ký hiệu](references/administrative-doc-types-nd30.md), [văn phong](references/administrative-writing-style.md)) | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx) (tham chiếu Mẫu 1.4 NĐ30); VBQPPL dùng kèm [`legal-normative.json`](assets/rules/legal-normative.json) ([tham chiếu](references/legal-normative-documents.md)) |
+| `party` | Văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW ([tham chiếu](references/party-documents.md)) | Builder & validator (lề cố định `2.0/2.0/3.0/1.5 cm`, `14pt`, giãn dòng `Exactly 20pt`, số trang `14pt` cách mép trên `1.0 cm`) | Dựng qua `build_docx` (`new_doc('party')`) hoặc mẫu cấp ủy |
 | `academic` | Báo cáo học thuật ngắn, tiểu luận, học phần | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx) |
 | `minutes-general` | Biên bản họp nhóm, họp nội bộ doanh nghiệp | Đầy đủ | [`office-minutes`](assets/templates/office-minutes.docx) |
 | `office` | Thông báo, ghi nhớ, báo cáo nội bộ văn phòng | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
@@ -202,9 +203,9 @@ vietnamese-docs-style/
 ├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
 ├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
 ├── evals/                     # Benchmark tái lập, báo cáo audit & manual evals
-├── references/                # Tài liệu quy chuẩn NĐ30, học thuật, biên bản, tooling
+├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 42 automated tests (pytest + LibreOffice render)
+└── tests/                     # 47 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -212,7 +213,8 @@ vietnamese-docs-style/
 ## Credits và giấy phép
 
 - **Tác giả:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
-- **Tham chiếu & thư viện nền tảng:** Đối chiếu thể thức hành chính từ **Nghị định 30/2020/NĐ-CP** (Cổng TTĐT Chính phủ); xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
+- **Đóng góp nổi bật:** Cảm ơn [@triensslci](https://github.com/triensslci) đã đóng góp profile `party` cùng bộ tài liệu quy chuẩn văn bản của Đảng ([party-documents.md](references/party-documents.md) theo QĐ 399-QĐ/TW và HD 05-HD/VPTW), văn bản quy phạm pháp luật ([legal-normative-documents.md](references/legal-normative-documents.md), [legal-normative.json](assets/rules/legal-normative.json) theo Luật 64/2025, Luật 87/2025, NĐ 78/2025 và Phụ lục I NĐ 187/2025), danh mục 29 loại văn bản hành chính & thẩm quyền ký NĐ30 ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)) và hướng dẫn văn phong hành chính – công vụ ([administrative-writing-style.md](references/administrative-writing-style.md)).
+- **Tham chiếu & thư viện nền tảng:** Đối chiếu thể thức từ **Nghị định 30/2020/NĐ-CP**, **Quy định 399-QĐ/TW**, **Hướng dẫn 05-HD/VPTW** và **Nghị định 187/2025/NĐ-CP**; xây dựng trên `python-docx`, `lxml`, `PyMuPDF` và `LibreOffice`.
 - **Giấy phép:** Mã nguồn, script và tài liệu của dự án dùng giấy phép **MIT** ([LICENSE](LICENSE)). Các văn bản, biểu mẫu tham khảo của bên thứ ba giữ nguyên bản quyền và điều khoản gốc của đơn vị ban hành.
 
 ---
@@ -239,11 +241,11 @@ Out of the box, LLMs and Python DOCX scripts default to US Letter pages, `2.54 c
 
 ## Key Features
 
-- Context-routed formatting across 7 profiles (`administrative`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) instead of imposing one rigid standard everywhere.
+- Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json) for legal-normative documents (VBQPPL), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes clearly separated.
 - Lossless `{{token}}` template filling (`vndocs fill`, including split-run tokens) and SHA256-verified slot patching (`vndocs edit`) while keeping untouched ZIP members byte-identical.
 - Structural and style validation (`vndocs validate`) covering page size, per-section margins, inherited font/color resolution, style roles, unresolved placeholders, and numbering definitions, with an explicit `unchecked` list.
 - Real PDF and PNG rendering (`vndocs render --png`) using LibreOffice in an isolated temporary profile so stale PDFs never trigger false passes.
-- Document builders with real `PAGE` fields (`scripts/build_docx.py`) and clean skill ZIP packaging (`vndocs package`) that excludes research corpora and tests.
+- Document builders with real `PAGE` fields, configurable `page_number_size_pt` and `line_spacing_exact_pt` (`scripts/build_docx.py`), and clean skill ZIP packaging (`vndocs package`) that excludes research corpora and tests.
 
 ## Getting Started & Agent Support
 
@@ -314,5 +316,6 @@ Common workflows also include `vndocs fill`, `vndocs edit --source-sha256 ...`, 
 ## Credits & License
 
 - **Author:** Bùi Gia Huy ([bGiaHuy](https://github.com/bGiaHuy)) · [vietnamese-docs-style](https://github.com/bGiaHuy/vietnamese-docs-style).
-- **Credits:** Administrative format referenced against Decree 30/2020/NĐ-CP (Vietnam Government Portal); built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
+- **Contributors:** Special thanks to [@triensslci](https://github.com/triensslci) for contributing the `party` profile and reference guides for Communist Party documents ([party-documents.md](references/party-documents.md) per QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative documents ([legal-normative-documents.md](references/legal-normative-documents.md) and [legal-normative.json](assets/rules/legal-normative.json) per Laws 64/2025 & 87/2025, Decrees 78/2025 & 187/2025), the 29 Decree 30/2020/NĐ-CP document types & signing rules ([administrative-doc-types-nd30.md](references/administrative-doc-types-nd30.md)), and administrative writing style guidelines ([administrative-writing-style.md](references/administrative-writing-style.md)).
+- **Credits:** Formatting conventions referenced against Decree 30/2020/NĐ-CP, Regulation 399-QĐ/TW, Guideline 05-HD/VPTW, and Decree 187/2025/NĐ-CP; built on `python-docx`, `lxml`, `PyMuPDF`, and `LibreOffice`.
 - **License:** Project-authored source, scripts, and documentation are licensed under the **MIT License** ([LICENSE](LICENSE)). Third-party reference materials remain under their original owners' licenses.

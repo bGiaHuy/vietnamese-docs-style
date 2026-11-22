@@ -484,3 +484,51 @@ def test_administrative_second_page_has_real_page_number(tmp_path):
         assert len(pdf) == 2
         assert pdf[0].get_text().splitlines()[0].strip() == 'Trang bắt đầu'
         assert pdf[1].get_text().splitlines()[0].strip() == '2'
+
+
+def test_party_profile_follows_guideline_05_layout(tmp_path):
+    doc = new_doc('party')
+    add_body(doc, 'Nội dung thử nghiệm văn bản của Đảng.')
+    section = doc.sections[0]
+    margins = [section.left_margin, section.right_margin, section.top_margin,
+               section.bottom_margin, section.header_distance]
+    assert [round(m.cm, 2) for m in margins] == [3.0, 1.5, 2.0, 2.0, 1.0]
+    normal = doc.styles['Normal']
+    assert normal.font.size == Pt(14)
+    assert normal.paragraph_format.line_spacing == Pt(20)
+    assert round(normal.paragraph_format.first_line_indent.cm, 2) == 1.0
+    assert section.different_first_page_header_footer
+    page_runs = [run for p in section.header.paragraphs for run in p.runs]
+    assert page_runs and page_runs[0].font.size == Pt(14)
+    assert inspect_doc(saved(tmp_path, doc), 'party')['status'] == 'pass'
+
+
+def test_party_profile_rejects_administrative_margins(tmp_path):
+    doc = new_doc('administrative')
+    add_body(doc, 'Lề hành chính không khớp lề cố định của văn bản Đảng.')
+    doc.sections[0].left_margin = Cm(3.5)
+    assert 'margin' in codes(inspect_doc(saved(tmp_path, doc), 'party'))
+
+
+def test_exact_line_spacing_config_is_validated():
+    with pytest.raises(ValueError):
+        load_rules('custom', {'line_spacing_exact_pt': 0})
+    assert load_rules('office')['line_spacing_exact_pt'] is None
+
+
+def test_legal_normative_rules_config_loads():
+    root = Path(__file__).resolve().parents[1]
+    rules = load_rules('administrative', root / 'assets/rules/legal-normative.json')
+    assert rules['margins_cm']['top'] == [2.0, 2.0]
+    assert rules['body_size_pt'] == 14
+
+
+def test_skill_routes_only_to_existing_references():
+    import re
+    root = Path(__file__).resolve().parents[1]
+    skill = (root / 'SKILL.md').read_text(encoding='utf-8')
+    paths = set(re.findall(r'`(references/[\w./-]+\.md)`', skill))
+    assert {'references/party-documents.md', 'references/legal-normative-documents.md',
+            'references/administrative-doc-types-nd30.md',
+            'references/administrative-writing-style.md'} <= paths
+    assert all((root / path).is_file() for path in paths)

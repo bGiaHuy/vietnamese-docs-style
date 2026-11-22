@@ -5,8 +5,11 @@ from copy import deepcopy
 from pathlib import Path
 
 PROFILES = ('office', 'administrative', 'academic', 'proposal', 'minutes-administrative',
-            'minutes-general', 'custom')
-ADMIN = ('administrative', 'minutes-administrative')
+            'minutes-general', 'party', 'custom')
+# Profiles with an official layout: hidden first-page PAGE field, 1 cm first-line
+# indent and plain-text dash bullets. 'party' follows Hướng dẫn 05-HD/VPTW (2026).
+ADMIN = ('administrative', 'minutes-administrative', 'party')
+PARTY_MARGINS_CM = {'left': [3.0, 3.0], 'right': [1.5, 1.5], 'top': [2.0, 2.0], 'bottom': [2.0, 2.0]}
 
 
 def load_rules(profile='administrative', config=None):
@@ -16,11 +19,14 @@ def load_rules(profile='administrative', config=None):
         'profile': profile, 'source': 'Skill defaults; not a compliance certificate',
         'font': None if profile == 'custom' else 'Times New Roman',
         'color': None if profile == 'custom' else '000000',
-        'body_size_pt': 13, 'line_spacing': 1.15,
+        'body_size_pt': 14 if profile == 'party' else 13, 'line_spacing': 1.15,
+        'line_spacing_exact_pt': 20 if profile == 'party' else None,
+        'page_number_size_pt': 14 if profile == 'party' else 13,
         'page_cm': None if profile == 'custom' else [21.0, 29.7],
         'allow_landscape': profile != 'custom',
-        'margins_cm': ({'left': [3.0, 3.5], 'right': [1.5, 2.0],
-                        'top': [2.0, 2.5], 'bottom': [2.0, 2.5]}
+        'margins_cm': (deepcopy(PARTY_MARGINS_CM) if profile == 'party'
+                       else {'left': [3.0, 3.5], 'right': [1.5, 2.0],
+                             'top': [2.0, 2.5], 'bottom': [2.0, 2.5]}
                        if profile in ADMIN else {}),
         'sections': [], 'style_rules': {}, 'required_text': [], 'forbid_bullets': False,
         'forbid_shading': False,
@@ -81,9 +87,12 @@ def _validate(rules):
         if not isinstance(color, str) or len(color) != 6 or any(c not in '0123456789abcdefABCDEF' for c in color):
             raise ValueError('color must be six hexadecimal digits or null')
         rules['color'] = color.upper()
-    for key in ('body_size_pt', 'line_spacing'):
+    for key in ('body_size_pt', 'line_spacing', 'page_number_size_pt'):
         if not number(rules[key]) or rules[key] <= 0:
             raise ValueError(f'{key} must be positive')
+    exact = rules['line_spacing_exact_pt']
+    if exact is not None and (not number(exact) or exact <= 0):
+        raise ValueError('line_spacing_exact_pt must be null or positive')
     if (not isinstance(rules['required_text'], list)
             or any(not isinstance(x, str) or not x for x in rules['required_text'])):
         raise ValueError('required_text must contain nonempty literal strings')

@@ -1,10 +1,13 @@
 ---
 name: vietnamese-docx
 description: >
-  Soạn, biên tập văn bản tiếng Việt và tạo/chỉnh sửa DOCX văn phòng, học thuật,
-  hành chính theo mẫu phù hợp. Dùng cả khi chỉ cần đoạn văn, đề mục hoặc danh
-  sách đánh số trong chat. Chọn thể thức theo loại văn bản và nơi tiếp nhận;
-  chỉ áp dụng Nghị định 30/2020/NĐ-CP trong phạm vi phù hợp.
+  Soạn, biên tập hoặc kiểm tra văn bản tiếng Việt, kể cả đoạn văn, đề mục,
+  danh sách đánh số trong chat, hoặc tạo/sửa DOCX: công văn, quyết định,
+  tờ trình, báo cáo, kế hoạch, thông báo, giấy mời, biên bản theo Nghị định
+  30/2020/NĐ-CP; văn bản của Đảng (nghị quyết, chỉ thị, báo cáo của cấp ủy,
+  chi bộ); văn bản quy phạm pháp luật (luật, nghị định, thông tư, nghị quyết
+  HĐND, quyết định UBND); văn phong hành chính, căn cứ, thẩm quyền ký, nơi
+  nhận, viết hoa; báo cáo học thuật, biên bản họp nội bộ, tài liệu văn phòng.
 ---
 
 # Vietnamese DOCX
@@ -39,7 +42,11 @@ kết quả tuân thủ. Không gọi sở thích định dạng là yêu cầu 
 - Chọn/tìm/sử dụng mẫu: `references/template-selection.md`.
 - Starter đi kèm: `references/starter-templates.md`.
 - Nguồn mẫu và văn bản thực tế: `references/template-sources.md`.
-- Hành chính: `references/administrative-format-nd30.md`; đối chiếu nguồn gốc và hiệu lực khi kết quả phụ thuộc quy định hiện hành.
+- Hành chính, thông số trang và cỡ chữ: `references/administrative-format-nd30.md`; đối chiếu nguồn gốc và hiệu lực khi kết quả phụ thuộc quy định hiện hành.
+- Hành chính, loại văn bản, số/ký hiệu, thẩm quyền ký (TM., KT., Q., TL., TUQ.), nơi nhận, phụ lục, độ mật/khẩn, bản sao, viết hoa, khung nội dung và lỗi hay gặp: `references/administrative-doc-types-nd30.md`.
+- Văn bản của Đảng (cấp ủy, chi bộ, ban đảng): `references/party-documents.md`. Không dùng thể thức NĐ30 cho văn bản Đảng.
+- Văn bản quy phạm pháp luật: `references/legal-normative-documents.md`. Phân biệt với quyết định, nghị quyết cá biệt theo NĐ30.
+- Văn phong hành chính – công vụ, căn cứ, viện dẫn, cụm từ khuôn mẫu: `references/administrative-writing-style.md`.
 - Học thuật: `references/academic-report.md`.
 - Biên bản: `references/meeting-minutes.md`.
 - Biên tập: `references/editorial-quality-vi.md`.
@@ -58,6 +65,8 @@ quyết định và nghĩa vụ khi biên tập.
 
 Bản nháp có thể dùng `[CẦN BỔ SUNG: ...]` và công bố trường thiếu. Hỏi khi thiếu
 thông tin làm thay đổi bản chất tài liệu. Không thêm số liệu để câu có vẻ cụ thể.
+Số hiệu văn bản nhớ được nhưng chưa có trong đầu vào hoặc chưa tra trên nguồn
+chính thức là chưa xác minh: ghi `[CẦN BỔ SUNG: căn cứ ...]` thay vì điền.
 
 ## DOCX
 
