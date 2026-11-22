@@ -385,6 +385,26 @@ def test_starter_template_fill_and_role_validation(tmp_path, template_id):
     assert '{{status_note}}' in ''.join(p.text for p in doc.paragraphs)
 
 
+def test_administrative_notice_nd30_header_alignment_and_signature_layout(tmp_path):
+    from create_templates import BUILDERS
+    doc, config, values = BUILDERS['administrative-notice']()
+    top, bottom = doc.tables
+    assert len(top.rows) == 2 and len(top.columns) == 2
+    assert '{{organization}}' in top.cell(0, 0).paragraphs[0].text
+    assert 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM' in top.cell(0, 1).paragraphs[0].text
+    assert 'Số: {{number}}' in top.cell(1, 0).paragraphs[0].text
+    assert '{{date}}' in top.cell(1, 1).paragraphs[0].text
+    assert bottom.rows[0]._tr.trPr.find(qn('w:cantSplit')) is not None
+    assert bottom.cell(0, 0).paragraphs[0].text == 'Nơi nhận:'
+    assert bottom.cell(0, 1).paragraphs[0].text == '{{position}}'
+    source = saved(tmp_path, doc, 'notice.docx')
+    filled = tmp_path / 'notice-filled.docx'
+    fill_template(source, filled, values)
+    report = inspect_doc(filled, config['profile'], config)
+    assert report['status'] == 'pass', report
+    assert Document(filled).tables[1].cell(0, 1).paragraphs[1].style.name == 'AdminSignatureNote'
+
+
 def test_package_excludes_research_and_detects_changed_template(tmp_path):
     import hashlib
     from zipfile import ZipFile

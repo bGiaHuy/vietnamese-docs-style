@@ -30,9 +30,19 @@ def borderless(table):
     props.append(borders)
 
 
-def role_paragraph(container, text, style, centered=True):
-    p = container.add_paragraph(text, style=style)
+def prevent_row_split(row):
+    row._tr.get_or_add_trPr().append(OxmlElement('w:cantSplit'))
+
+
+def role_paragraph(container, text, style, centered=True, reuse_first=False):
+    if reuse_first and len(container.paragraphs) == 1 and not container.paragraphs[0].text:
+        p = container.paragraphs[0]
+        p.style = style
+        p.text = text
+    else:
+        p = container.add_paragraph(text, style=style)
     p.paragraph_format.first_line_indent = Cm(0)
+    p.paragraph_format.space_before = Pt(0)
     p.paragraph_format.space_after = Pt(0)
     p.paragraph_format.line_spacing = 1.0
     if centered:
@@ -40,14 +50,14 @@ def role_paragraph(container, text, style, centered=True):
     return p
 
 
-def rule(container, width_cm, available_cm):
+def rule(container, width_cm, available_cm, space_after_pt=4):
     p = container.add_paragraph()
     p.paragraph_format.left_indent = Cm(max(0, (available_cm-width_cm)/2))
     p.paragraph_format.right_indent = p.paragraph_format.left_indent
     p.paragraph_format.first_line_indent = Cm(0)
-    p.paragraph_format.space_after = Pt(4)
-    p.paragraph_format.space_before = Pt(0)
-    p.paragraph_format.line_spacing = 1.0
+    p.paragraph_format.space_after = Pt(space_after_pt)
+    p.paragraph_format.space_before = Pt(2)
+    p.paragraph_format.line_spacing = Pt(6)
     p.add_run().font.size = Pt(1)
     borders = OxmlElement('w:pBdr')
     bottom = OxmlElement('w:bottom')
@@ -71,6 +81,7 @@ def notice():
             'AdminSubject': {'size_pt': [13, 14], 'bold': True, 'italic': False},
             'AdminBody': {'size_pt': [13, 14], 'bold': False, 'italic': False},
             'AdminSigner': {'size_pt': [13, 14], 'bold': True, 'italic': False},
+            'AdminSignatureNote': {'size_pt': [12, 13], 'bold': False, 'italic': True},
             'AdminRecipientsLabel': {'size_pt': [12, 12], 'bold': True, 'italic': True},
             'AdminRecipients': {'size_pt': [11, 11], 'bold': False, 'italic': False},
         },
@@ -79,45 +90,48 @@ def notice():
     doc = Document()
     setup_document(doc, 'administrative', config)
     doc.sections[0].different_first_page_header_footer = True
-    top = doc.add_table(rows=1, cols=2)
+    top = doc.add_table(rows=2, cols=2)
     top.autofit = False
-    top.columns[0].width, top.columns[1].width = Cm(7), Cm(9.5)
-    top.cell(0, 0).width, top.cell(0, 1).width = Cm(7), Cm(9.5)
+    top.columns[0].width, top.columns[1].width = Cm(6.8), Cm(9.7)
+    for row in top.rows:
+        prevent_row_split(row)
+        row.cells[0].width, row.cells[1].width = Cm(6.8), Cm(9.7)
     borderless(top)
-    left, right = top.rows[0].cells
-    for cell in (left, right):
-        first = cell.paragraphs[0]
-        first.paragraph_format.space_after = Pt(0)
-        first.paragraph_format.line_spacing = Pt(1)
-        first.add_run().font.size = Pt(1)
-    role_paragraph(left, '{{organization}}', 'AdminAgency')
-    rule(left, 1.8, 6.6)
-    role_paragraph(left, 'Số: {{number}}', 'AdminNumber')
-    role_paragraph(right, 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM', 'AdminNational')
-    role_paragraph(right, 'Độc lập - Tự do - Hạnh phúc', 'AdminMotto')
-    rule(right, 6.5, 9.1)
-    role_paragraph(right, '{{date}}', 'AdminDate')
+    left_top, right_top = top.rows[0].cells
+    left_meta, right_meta = top.rows[1].cells
+    role_paragraph(left_top, '{{organization}}', 'AdminAgency', reuse_first=True)
+    rule(left_top, 2.0, 6.42, space_after_pt=2)
+    role_paragraph(right_top, 'CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM', 'AdminNational', reuse_first=True)
+    role_paragraph(right_top, 'Độc lập - Tự do - Hạnh phúc', 'AdminMotto')
+    rule(right_top, 4.95, 9.32, space_after_pt=2)
+    p_num = role_paragraph(left_meta, 'Số: {{number}}', 'AdminNumber', reuse_first=True)
+    p_num.paragraph_format.space_before = Pt(4)
+    p_date = role_paragraph(right_meta, '{{date}}', 'AdminDate', reuse_first=True)
+    p_date.paragraph_format.space_before = Pt(4)
     title = doc.add_paragraph('THÔNG BÁO', style='Title')
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     title.paragraph_format.first_line_indent = Cm(0)
-    title.paragraph_format.space_before, title.paragraph_format.space_after = Pt(12), Pt(0)
+    title.paragraph_format.space_before, title.paragraph_format.space_after = Pt(14), Pt(2)
     role_paragraph(doc, '{{subject}}', 'AdminSubject')
-    rule(doc, 4.5, 16.5)
+    rule(doc, 4.0, 16.5, space_after_pt=12)
     for name in ('opening', 'time', 'location', 'participants', 'request'):
         doc.add_paragraph('{{' + name + '}}', style='AdminBody')
-    add_body(doc, '{{status_note}}')
+    note_p = add_body(doc, '{{status_note}}')
+    note_p.paragraph_format.space_after = Pt(12)
     bottom = doc.add_table(rows=1, cols=2)
+    bottom.autofit = False
+    bottom.columns[0].width, bottom.columns[1].width = Cm(7.5), Cm(9.0)
+    bottom.cell(0, 0).width, bottom.cell(0, 1).width = Cm(7.5), Cm(9.0)
+    prevent_row_split(bottom.rows[0])
     borderless(bottom)
-    for cell in bottom.rows[0].cells:
-        cell.paragraphs[0].paragraph_format.space_after = Pt(0)
-        cell.paragraphs[0].add_run().font.size = Pt(1)
     left, right = bottom.rows[0].cells
-    role_paragraph(left, 'Nơi nhận:', 'AdminRecipientsLabel', False)
+    role_paragraph(left, 'Nơi nhận:', 'AdminRecipientsLabel', False, reuse_first=True)
     role_paragraph(left, '- {{recipients}};', 'AdminRecipients', False)
     role_paragraph(left, '- Lưu: VT.', 'AdminRecipients', False)
-    role_paragraph(right, '{{position}}', 'AdminSigner')
-    p = role_paragraph(right, '{{signature_note}}', 'AdminBody')
-    p.paragraph_format.space_after = Pt(24)
+    role_paragraph(right, '{{position}}', 'AdminSigner', reuse_first=True)
+    p = role_paragraph(right, '{{signature_note}}', 'AdminSignatureNote')
+    p.paragraph_format.space_before = Pt(4)
+    p.paragraph_format.space_after = Pt(42)
     role_paragraph(right, '{{signer}}', 'AdminSigner')
     values = {
         'organization': 'ĐƠN VỊ THỬ NGHIỆM', 'number': '01/TB-TN',
