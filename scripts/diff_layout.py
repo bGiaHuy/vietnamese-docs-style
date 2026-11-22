@@ -315,19 +315,21 @@ def _detect_non_target_shifts(
     return shifts
 
 
-def _render_missing_pdfs(before_path, after_path, pdf_before, pdf_after, render_root, renderer):
-    """Resolve or render before/after PDFs via LibreOffice into isolated subdirectories."""
+def _render_missing_pdfs(before_path, after_path, pdf_before, pdf_after, render_root, renderer, cache_dir=None):
+    """Resolve or render before/after PDFs via configured renderer with optional SHA-256 cache."""
     resolved_before = Path(pdf_before) if pdf_before else None
     resolved_after = Path(pdf_after) if pdf_after else None
 
     need_render = (resolved_before is None) or (resolved_after is None)
-    if need_render and not render_docx.find_renderer(renderer):
+    if need_render and renderer != 'word-win' and cache_dir is None and not render_docx.find_renderer(renderer):
         return 'not_checked', None, None, 'LibreOffice renderer not found; skipping PDF layout diff'
 
     if resolved_before is None:
         b_dir = Path(render_root) / 'before'
         b_dir.mkdir(parents=True, exist_ok=True)
-        res = render_docx.render_doc(before_path, output_dir=b_dir, renderer=renderer)
+        res = render_docx.render_doc(before_path, output_dir=b_dir, renderer=renderer, cache_dir=cache_dir)
+        if res['status'] == 'not_checked':
+            return 'not_checked', None, None, res.get('message', 'Renderer unavailable')
         if res['status'] not in ('rendered', 'partial') or not res.get('pdf'):
             return 'fail', None, None, f"Before render failed: {res.get('message', res['status'])}"
         resolved_before = Path(res['pdf'])
@@ -337,7 +339,9 @@ def _render_missing_pdfs(before_path, after_path, pdf_before, pdf_after, render_
     if resolved_after is None:
         a_dir = Path(render_root) / 'after'
         a_dir.mkdir(parents=True, exist_ok=True)
-        res = render_docx.render_doc(after_path, output_dir=a_dir, renderer=renderer)
+        res = render_docx.render_doc(after_path, output_dir=a_dir, renderer=renderer, cache_dir=cache_dir)
+        if res['status'] == 'not_checked':
+            return 'not_checked', None, None, res.get('message', 'Renderer unavailable')
         if res['status'] not in ('rendered', 'partial') or not res.get('pdf'):
             return 'fail', str(resolved_before), None, f"After render failed: {res.get('message', res['status'])}"
         resolved_after = Path(res['pdf'])
@@ -345,6 +349,62 @@ def _render_missing_pdfs(before_path, after_path, pdf_before, pdf_after, render_
         return 'fail', str(resolved_before), None, f'Provided --pdf-after not found: {resolved_after}'
 
     return 'ok', str(resolved_before), str(resolved_after), 'Rendered and compared successfully'
+
+
+def compare_renderers(docx_path, output_dir=None, cache_dir=None):
+    """Compare page counts and matched table geometry between LibreOffice and Windows Word COM."""
+    src = Path(docx_path).resolve()
+    if not src.is_file():
+        raise FileNotFoundError(f'DOCX not found: {docx_path}')
+
+    temp_ctx = None
+    if output_dir:
+        out_root = Path(output_dir)
+        out_root.mkdir(parents=True, exist_ok=True)
+    else:
+        temp_ctx = tempfile.TemporaryDirectory(prefix='vndocs-cmp-renderers-')
+        out_root = Path(temp_ctx.name)
+
+    try:
+        lo_ren = render_docx.render_doc(src, output_dir=out_root / 'libreoffice', cache_dir=cache_dir)
+        wd_ren = render_docx.render_doc(src, output_dir=out_root / 'word-win', renderer='word-win', cache_dir=cache_dir)
+        if lo_ren['status'] not in ('rendered', 'partial') or wd_ren['status'] not in ('rendered', 'partial'):
+            return {
+                'status': 'not_checked',
+                'docx': str(src),
+                'libreoffice': lo_ren,
+                'word_win': wd_ren,
+                'message': 'Both LibreOffice and Microsoft Word COM are required to compare renderers.',
+            }
+
+        lo_map = map_docx.map_document(src, pdf_path=lo_ren['pdf'])
+        wd_map = map_docx.map_document(src, pdf_path=wd_ren['pdf'])
+        table_parity = []
+        for lt, wt in zip(lo_map['tables'], wd_map['tables']):
+            l_pdf, w_pdf = lt.get('pdf') or {}, wt.get('pdf') or {}
+            table_parity.append({
+                'anchor': lt['anchor'],
+                'lo_pages': l_pdf.get('pdf_pages', []),
+                'word_pages': w_pdf.get('pdf_pages', []),
+                'lo_width_cm': l_pdf.get('width_cm'),
+                'word_width_cm': w_pdf.get('width_cm'),
+                'width_delta_cm': (
+                    round(abs(l_pdf['width_cm'] - w_pdf['width_cm']), 2)
+                    if l_pdf.get('width_cm') is not None and w_pdf.get('width_cm') is not None
+                    else None
+                ),
+            })
+        return {
+            'status': 'ok',
+            'docx': str(src),
+            'lo_page_count': lo_map['page_count'],
+            'word_page_count': wd_map['page_count'],
+            'page_count_delta': (wd_map['page_count'] or 0) - (lo_map['page_count'] or 0),
+            'table_parity': table_parity,
+        }
+    finally:
+        if temp_ctx is not None:
+            temp_ctx.cleanup()
 
 
 def diff_layout(
@@ -357,8 +417,9 @@ def diff_layout(
     output_dir=None,
     crop_dir=None,
     renderer=None,
+    cache_dir=None,
 ):
-    """Compare LibreOffice-rendered PDF table geometry and non-target pagination between two DOCX files."""
+    """Compare rendered PDF geometry and non-target pagination between two DOCX files."""
     before_path = Path(before_docx)
     after_path = Path(after_docx)
     if not before_path.is_file():
@@ -376,7 +437,7 @@ def diff_layout(
 
     try:
         render_state, resolved_b_pdf, resolved_a_pdf, message = _render_missing_pdfs(
-            before_path, after_path, pdf_before, pdf_after, render_root, renderer,
+            before_path, after_path, pdf_before, pdf_after, render_root, renderer, cache_dir=cache_dir,
         )
         if render_state != 'ok':
             before_only = map_docx.map_document(before_path)
@@ -522,7 +583,8 @@ def main(argv=None):
     parser.add_argument('--pdf-after', help='Existing rendered PDF for after_docx')
     parser.add_argument('--output-dir', help='Directory to persist rendered PDFs')
     parser.add_argument('--crop-dir', help='Directory to write zoomed PNG crops of the target table or image')
-    parser.add_argument('--renderer', help='Explicit LibreOffice executable path')
+    parser.add_argument('--renderer', help='LibreOffice path or "word-win" for Windows Word COM')
+    parser.add_argument('--cache-dir', help='Directory for SHA-256 PDF render cache')
     parser.add_argument('--report', help='Write JSON report to file')
     args = parser.parse_args(argv)
 
@@ -536,6 +598,7 @@ def main(argv=None):
             output_dir=args.output_dir,
             crop_dir=args.crop_dir,
             renderer=args.renderer,
+            cache_dir=args.cache_dir,
         )
     except (FileNotFoundError, ValueError, OSError) as exc:
         parser.error(str(exc))

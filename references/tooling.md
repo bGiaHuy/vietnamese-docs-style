@@ -93,19 +93,25 @@ Luồng chỉnh sửa bố cục trên `.docx` hiện có giữ nguyên cấu tr
 
 1. `vndocs map src.docx [--format markdown|json] [--with-pdf | --pdf-path file.pdf] [--include-paragraphs]`
    Lập bản đồ section, bảng (`T#hash`), ảnh (`IMG#hash`) và đoạn (`P#hash`). Bảng bố cục (quốc hiệu, nơi nhận, chữ ký) được gắn `[LAYOUT:<role>]` và khóa mặc định.
-2. `vndocs render src.docx --output-dir out --png --annotate-marks`
-   Đọc ảnh chụp người dùng và đối chiếu chữ/số dòng/cột với `vndocs map` trước; chỉ chạy `--annotate-marks` để xuất `page-N-marks.png` có nhãn Set-of-Mark `[T#]` / `[IMG#]` khi còn `≥ 2` ứng viên tương tự hoặc dữ liệu chữ từ `map` chưa đủ chốt. Nếu có `≥ 2` bảng/ảnh giống hệt nhau về cấu trúc và nội dung mà ảnh bị crop không có tiêu đề/số trang để phân biệt, dừng lại hỏi người dùng thay vì đoán.
-3. `vndocs layout-edit src.docx dst.docx --plan plan.json [--dry-run] [--allow-layout-tables] [--profile <name>] [--source-sha256 <hex>]`
-   `plan.json` có dạng `{"operations": [...]}` (hoặc mảng JSON) với đúng 7 op hợp lệ:
+2. `vndocs render src.docx --output-dir out --png [--annotate-marks] [--renderer word-win] [--cache-dir .vndocs-cache]`
+   Đọc ảnh chụp người dùng và đối chiếu chữ/số dòng/cột với `vndocs map` trước; chỉ chạy `--annotate-marks` để xuất `page-N-marks.png` có nhãn Set-of-Mark `[T#]` / `[IMG#]` khi còn `≥ 2` ứng viên tương tự hoặc dữ liệu chữ từ `map` chưa đủ chốt. Hỗ trợ `--renderer word-win` (Word COM trên Windows), `--cache-dir` lưu cache PDF theo `SHA-256` kèm `render-manifest.json` chống stale render. Nếu có `≥ 2` bảng/ảnh giống hệt nhau mà ảnh bị crop không có tiêu đề/số trang để phân biệt, dừng lại hỏi người dùng thay vì đoán.
+3. `vndocs layout-edit src.docx dst.docx --plan plan.json [--dry-run] [--allow-layout-tables] [--profile <name>] [--source-sha256 <hex>] [--track-changes] [--author <name>]`
+   `plan.json` có dạng `{"operations": [...]}` (hoặc mảng JSON) với 13 op hợp lệ:
    - `table.scale_width`: `{op, target, factor | target_width_pct | target_width_cm}`
    - `table.set_col_widths`: `{op, target, widths: ["4cm", "5cm", ...]}` (đủ `grid_cols` cột)
    - `table.set_alignment`: `{op, target, align: "left|center|right"}`
    - `table.set_cell_margins`: `{op, target, top_cm?, bottom_cm?, left_cm?, right_cm?, clear_cell_overrides?}`
    - `table.set_font_size`: `{op, target, size_pt, preserve_header_size?}`
+   - `table.set_pagination`: `{op, target, repeat_header?, header_rows?, cant_split?}`
+   - `table.set_borders`: `{op, target, style?: "single|none|nil|double|dashed|dotted", size_eighth_pt?, color?, sides?}`
+   - `table.set_shading`: `{op, target, fill: "<6-hex>|clear", scope?: "header|all|odd_rows|even_rows|row", row_index?}`
    - `image.scale`: `{op, target: "IMG...", factor | width_cm | width_pct, align?}` (giữ tỷ lệ khung hình, đồng bộ `wp:extent` + `a:ext`)
    - `paragraph.set_format`: `{op, target | targets, align?, space_before_pt?, space_after_pt?, line_spacing? | line_spacing_exact_pt?, first_line_indent_cm?, left_indent_cm?, right_indent_cm?, keep_with_next?}`
-4. `vndocs diff-layout src.docx dst.docx [--target <anchor>] [--output-dir out] [--crop-dir crops]`
-   Đo lại kích thước bảng/ảnh trên PDF sau LibreOffice render, phát hiện tràn lề phải (`overflow_right_mm`), kiểm tra nhảy trang ngoài vùng đích (`non_target_page_shifts`) và xuất crop PNG trước/sau của target (`max_iter = 2`).
+   - `paragraph.merge_runs`: `{op, target | targets}` (gộp các run văn bản thuần liền kề cùng `rPr`, giữ nguyên ký tự/trường)
+   - `style.update`: `{op, style_name, font?, size_pt?, color?, bold?, italic?, align?, space_before_pt?, space_after_pt?, line_spacing? | line_spacing_exact_pt?, first_line_indent_cm?}` (sửa `word/styles.xml`, không chạm `word/document.xml`)
+   - `section.set_layout`: `{op, section_index?, orientation?: "portrait|landscape", page_size?: "A4|Letter", margins_cm?: {top?, bottom?, left?, right?, header?, footer?}}`
+4. `vndocs diff-layout src.docx dst.docx [--target <anchor>] [--output-dir out] [--crop-dir crops] [--renderer ...] [--cache-dir ...]`
+   Đo lại kích thước bảng/ảnh trên PDF sau render (hỗ trợ `--cache-dir` và `compare_renderers`), phát hiện tràn lề phải (`overflow_right_mm`), kiểm tra nhảy trang ngoài vùng đích (`non_target_page_shifts`) và xuất crop PNG trước/sau của target (`max_iter = 2`).
 
 ## Mẫu kiểm tra tái lập
 

@@ -57,6 +57,8 @@ ORDERED_CONTAINERS = {
     ),
     'tblCellMar': ('top', 'start', 'left', 'bottom', 'end', 'right'),
     'tcMar': ('top', 'start', 'left', 'bottom', 'end', 'right'),
+    'tblBorders': ('top', 'start', 'left', 'bottom', 'end', 'right', 'insideH', 'insideV'),
+    'tcBorders': ('top', 'start', 'left', 'bottom', 'end', 'right', 'insideH', 'insideV', 'tl2br', 'tr2bl'),
 }
 
 

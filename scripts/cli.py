@@ -115,7 +115,11 @@ def doctor_report(renderer=None):
         'status': status,
         'python': {'version': platform.python_version(), 'supported': python_ok},
         'dependencies': deps,
-        'renderer': {'libreoffice': lo_path, 'available': bool(lo_path)},
+        'renderer': {
+            'libreoffice': lo_path,
+            'available': bool(lo_path),
+            'word_win_available': bool(render_docx.find_word_win()),
+        },
         'hints': hints,
     }
 
