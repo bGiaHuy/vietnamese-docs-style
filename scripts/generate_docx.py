@@ -242,7 +242,12 @@ def _render_body_blocks(doc, spec, profile, rules):
                 for r in p.runs:
                     r.font.size = Pt(body_size_pt)
         elif kind == 'table':
-            table = build_docx.add_table(doc, block['headers'], block['rows'], profile=profile)
+            col_widths_cm = block.get('col_widths_cm')
+            tbl_font_pt = block.get('font_size_pt')
+            table = build_docx.add_table(
+                doc, block['headers'], block['rows'], profile=profile,
+                col_widths_cm=col_widths_cm, font_size_pt=tbl_font_pt,
+            )
             for row in table.rows:
                 _prevent_row_split(row)
         elif kind == 'page_break':
@@ -256,6 +261,8 @@ def _render_official_footer(doc, spec, profile):
     signer = spec.get('signer')
     if not recipients and not signer:
         return
+    if doc.paragraphs:
+        doc.paragraphs[-1].paragraph_format.keep_with_next = True
     is_party = profile == 'party'
     bottom = doc.add_table(rows=1, cols=2)
     bottom.autofit = False

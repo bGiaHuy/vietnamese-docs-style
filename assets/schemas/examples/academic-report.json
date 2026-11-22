@@ -38,7 +38,8 @@
     },
     {
       "type": "table",
-      "headers": ["Profile", "Nhóm tài liệu áp dụng", "Khổ giấy & Lề trang (Trên/Dưới/Trái/Phải)", "Phông chữ & Cỡ chữ thân bài", "Quy tắc bảo vệ cấu trúc đặc thù"],
+      "headers": ["Profile", "Nhóm tài liệu áp dụng", "Khổ giấy & Lề trang (Trên - Dưới - Trái - Phải)", "Phông chữ & Cỡ chữ thân bài", "Quy tắc bảo vệ cấu trúc đặc thù"],
+      "col_widths_cm": [3.05, 3.25, 3.55, 2.95, 3.7],
       "rows": [
         ["administrative", "Công văn, thông báo, quyết định, tờ trình (NĐ 30/2020/NĐ-CP)", "A4; 2,0–2,5 / 2,0–2,5 / 3,0–3,5 / 1,5–2,0 cm", "Times New Roman, 13–14pt, giãn dòng 1,15–1,5", "Khóa bảng ẩn Quốc hiệu 2x2 và khối Nơi nhận/Chữ ký cuối bài"],
         ["party", "Nghị quyết, chỉ thị, chương trình, báo cáo của Đảng (HD 05-HD/VPTW)", "A4; 2,0–2,5 / 2,0–2,5 / 3,0–3,5 / 1,5–2,0 cm", "Times New Roman, 14pt, giãn dòng cố định 20pt", "Số văn bản không có dấu hai chấm; Nơi nhận gạch chân; chức vụ ký không đậm"],
@@ -74,6 +75,7 @@
     {
       "type": "table",
       "headers": ["Tập đánh giá", "Quy mô mẫu", "Tỷ lệ đạt (Hit Rate)", "Bảo toàn ngoài mục tiêu (xml_ntpr)", "Mức giảm tổng Token (with vs without skill)", "Mức giảm thời gian thực thi"],
+      "col_widths_cm": [3.35, 2.25, 2.25, 2.55, 3.35, 2.75],
       "rows": [
         ["Validation Benchmark (validate_docx)", "16 ca (8 baseline / 8 skill)", "0/8 (0%) vs 8/8 (100%)", "1,0000", "Định tuyến trực tiếp qua rule validator", "Tự động kiểm tra dưới 1 giây/tệp"],
         ["Deterministic Layout Oracle (v2.0)", "30 ca phân tầng (T01–T30)", "30/30 (100,0%)", "1,0000 (ZIP invariance 0,9960)", "Giảm 90,1%–98,0% payload XML tĩnh", "Hoàn tất 30 ca kiểm định tự động"],

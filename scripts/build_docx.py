@@ -1,4 +1,5 @@
 """Reusable DOCX helpers. Template edits preserve existing formatting by default."""
+import re
 from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.section import WD_ORIENT
@@ -7,10 +8,110 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 try:
     from .document_rules import load_rules, section_rules, ADMIN
+    from . import ooxml_order
 except ImportError:
     from document_rules import load_rules, section_rules, ADMIN
+    import ooxml_order
 
 BLACK = RGBColor(0, 0, 0)
+DXA_PER_CM = 1440.0 / 2.54
+_CENTER_COL_HDR_RE = re.compile(
+    r'^(?:s?tt|mã(?:\s+\w+){0,2}|thời\s*(?:gian|hạn|điểm)|hạn(?:\s+\w+){0,2}|'
+    r'ngày(?:\s+\w+){0,2}|năm|tỷ\s*lệ|điểm(?:\s+\w+){0,2}|số\s*lượng|quy\s*mô(?:\s+\w+)?)$',
+    re.IGNORECASE,
+)
+_NARROW_COL_HDR_RE = re.compile(r'^(?:s?tt|mã(?:\s+\w+)?)$', re.IGNORECASE)
+_CODE_VAL_RE = re.compile(
+    r'^(?:\d+(?:[.,]\d+)?%?|(?:\d{1,2}/){1,2}\d{2,4}|[A-ZĐ]{2,6}-\d{1,4}(?:-\d{1,4})?|'
+    r'câu\s*\d+|CLO\d+(?:\s*,\s*CLO\d+)*|\d+(?:[.,]\d+)?\s*(?:điểm|trang|hồ\s*sơ|ca|lượt))$',
+    re.IGNORECASE,
+)
+
+
+def _w_el(tag, attrs=None):
+    el = OxmlElement(f'w:{tag}')
+    for key, val in (attrs or {}).items():
+        el.set(qn(f'w:{key}'), str(val))
+    return el
+
+
+def _ensure_pr(parent, tag):
+    node = parent.find(qn(f'w:{tag}'))
+    if node is None:
+        node = _w_el(tag)
+        ooxml_order.insert_ordered_child(parent, node, replace_existing=False)
+    return node
+
+
+def _printable_width_cm(doc):
+    if not doc.sections:
+        return 16.5
+    sec = doc.sections[-1]
+    page_w = sec.page_width.cm if sec.page_width else 21.0
+    left_m = sec.left_margin.cm if sec.left_margin else 2.5
+    right_m = sec.right_margin.cm if sec.right_margin else 2.0
+    return max(10.0, round(page_w - left_m - right_m, 2))
+
+
+def _auto_col_widths_cm(headers, rows, printable_w_cm, col_widths_cm=None):
+    n_cols = len(headers)
+    if col_widths_cm is not None:
+        if len(col_widths_cm) != n_cols:
+            raise ValueError(f'col_widths_cm length ({len(col_widths_cm)}) must match headers ({n_cols})')
+        vals = [float(x) for x in col_widths_cm]
+        total = sum(vals)
+        if total > printable_w_cm + 0.05:
+            scale = printable_w_cm / total
+            vals = [round(v * scale, 2) for v in vals]
+        return vals
+
+    weights = []
+    min_widths = []
+    for c_idx, hdr in enumerate(headers):
+        h_text = str(hdr or '').strip()
+        col_texts = [h_text] + [str(r[c_idx] or '').strip() for r in rows if c_idx < len(r)]
+        max_len = max((len(t) for t in col_texts), default=1)
+        avg_len = sum(len(t) for t in col_texts) / max(1, len(col_texts))
+        longest_word = max((len(tok) for t in col_texts for tok in t.split()), default=1)
+
+        if _NARROW_COL_HDR_RE.match(h_text) and max_len <= 4:
+            min_w = 1.15
+            weight = 1.15
+        elif _NARROW_COL_HDR_RE.match(h_text) and max_len <= 12:
+            min_w = 2.1
+            weight = 2.2
+        else:
+            # Ensure longest unbreakable token fits without mid-word splitting, while weighting by text volume
+            word_need_cm = min(4.2, max(1.6, longest_word * 0.235 + 0.55))
+            cap_cm = printable_w_cm / max(2, n_cols) * (1.3 if longest_word >= 10 else 0.92)
+            min_w = max(1.6, min(word_need_cm, cap_cm))
+            effective_len = 0.65 * max_len + 0.35 * avg_len
+            weight = max(min_w, (effective_len ** 0.58) * 0.75)
+        min_widths.append(min_w)
+        weights.append(weight)
+
+    min_sum = sum(min_widths)
+    if min_sum >= printable_w_cm:
+        scale = printable_w_cm / min_sum
+        return [round(w * scale, 3) for w in min_widths]
+
+    rem = printable_w_cm - min_sum
+    extra_weights = [max(0.05, w - mw * 0.6) for w, mw in zip(weights, min_widths)]
+    ew_sum = sum(extra_weights)
+    widths = [mw + rem * (ew / ew_sum) for mw, ew in zip(min_widths, extra_weights)]
+    rounded = [round(w, 2) for w in widths]
+    rounded[-1] = round(printable_w_cm - sum(rounded[:-1]), 2)
+    return rounded
+
+
+def _column_alignment(c_idx, hdr_text, rows):
+    h = str(hdr_text or '').strip()
+    if _CENTER_COL_HDR_RE.match(h):
+        return WD_ALIGN_PARAGRAPH.CENTER
+    vals = [str(r[c_idx] or '').strip() for r in rows if c_idx < len(r) and str(r[c_idx] or '').strip()]
+    if vals and all(len(v) <= 18 and _CODE_VAL_RE.match(v) for v in vals):
+        return WD_ALIGN_PARAGRAPH.CENTER
+    return WD_ALIGN_PARAGRAPH.LEFT
 
 
 def setup_document(doc, profile='administrative', config=None):
@@ -232,22 +333,86 @@ def set_table_grid_style(table, profile='administrative'):
     table.style = 'Table Grid'
 
 
-def add_table(doc, headers, rows, profile='administrative'):
+def _format_table_cell_paragraph(paragraph, align, size_pt=None, bold=None):
+    paragraph.alignment = align
+    pf = paragraph.paragraph_format
+    pf.first_line_indent = Cm(0)
+    pf.space_before = Pt(3)
+    pf.space_after = Pt(3)
+    pf.line_spacing = 1.1
+    if size_pt is not None or bold is not None:
+        for run in paragraph.runs:
+            if size_pt is not None:
+                run.font.size = Pt(size_pt)
+            if bold is not None:
+                run.bold = bold
+
+
+def _apply_table_layout_xml(table, col_widths_cm):
+    cols_dxa = [max(288, round(w * DXA_PER_CM)) for w in col_widths_cm]
+    total_dxa = sum(cols_dxa)
+    tbl = table._tbl
+    tbl_pr = _ensure_pr(tbl, 'tblPr')
+    ooxml_order.insert_ordered_child(tbl_pr, _w_el('tblW', {'w': total_dxa, 'type': 'dxa'}))
+    ooxml_order.insert_ordered_child(tbl_pr, _w_el('jc', {'val': 'center'}))
+    ooxml_order.insert_ordered_child(tbl_pr, _w_el('tblLayout', {'type': 'fixed'}))
+
+    cell_mar = tbl_pr.find(qn('w:tblCellMar'))
+    if cell_mar is None:
+        cell_mar = _w_el('tblCellMar')
+        ooxml_order.insert_ordered_child(tbl_pr, cell_mar, replace_existing=False)
+    for side, dxa in (('top', 80), ('left', 108), ('bottom', 80), ('right', 108)):
+        ooxml_order.insert_ordered_child(cell_mar, _w_el(side, {'w': dxa, 'type': 'dxa'}))
+    ooxml_order.normalize_ordered_children(cell_mar)
+    ooxml_order.normalize_ordered_children(tbl_pr)
+
+    tbl_grid = tbl.find(qn('w:tblGrid'))
+    if tbl_grid is None:
+        tbl_grid = _w_el('tblGrid')
+        tbl_pr.addnext(tbl_grid)
+    for child in list(tbl_grid):
+        tbl_grid.remove(child)
+    for w_dxa in cols_dxa:
+        tbl_grid.append(_w_el('gridCol', {'w': w_dxa}))
+
+    for r_idx, row in enumerate(table.rows):
+        tr_pr = _ensure_pr(row._tr, 'trPr')
+        if r_idx == 0:
+            ooxml_order.insert_ordered_child(tr_pr, _w_el('tblHeader'))
+        ooxml_order.insert_ordered_child(tr_pr, _w_el('cantSplit'))
+        ooxml_order.normalize_ordered_children(tr_pr)
+        for c_idx, cell in enumerate(row.cells):
+            w_dxa = cols_dxa[min(c_idx, len(cols_dxa) - 1)]
+            tc_pr = _ensure_pr(cell._tc, 'tcPr')
+            ooxml_order.insert_ordered_child(tc_pr, _w_el('tcW', {'w': w_dxa, 'type': 'dxa'}))
+            ooxml_order.insert_ordered_child(tc_pr, _w_el('vAlign', {'val': 'center' if r_idx == 0 else 'top'}))
+            ooxml_order.normalize_ordered_children(tc_pr)
+
+
+def add_table(doc, headers, rows, profile='administrative', col_widths_cm=None, font_size_pt=None):
     if not headers or any(len(row) != len(headers) for row in rows):
         raise ValueError('Table rows must match the nonempty header')
     table = doc.add_table(rows=1, cols=len(headers))
+    table.autofit = False
     set_table_grid_style(table, profile)
-    repeat = OxmlElement('w:tblHeader')
-    table.rows[0]._tr.get_or_add_trPr().append(repeat)
+
+    printable_w_cm = _printable_width_cm(doc)
+    widths_cm = _auto_col_widths_cm(headers, rows, printable_w_cm, col_widths_cm=col_widths_cm)
+    col_aligns = [_column_alignment(i, headers[i], rows) for i in range(len(headers))]
+
     for cell, text in zip(table.rows[0].cells, headers):
         paragraph = cell.paragraphs[0]
-        paragraph.paragraph_format.first_line_indent = Cm(0)
         paragraph.add_run(str(text)).bold = True
+        _format_table_cell_paragraph(paragraph, WD_ALIGN_PARAGRAPH.CENTER, size_pt=font_size_pt, bold=True)
+
     for values in rows:
-        for cell, value in zip(table.add_row().cells, values):
+        row_cells = table.add_row().cells
+        for c_idx, (cell, value) in enumerate(zip(row_cells, values)):
             paragraph = cell.paragraphs[0]
-            paragraph.paragraph_format.first_line_indent = Cm(0)
             paragraph.add_run(str(value))
+            _format_table_cell_paragraph(paragraph, col_aligns[c_idx], size_pt=font_size_pt)
+
+    _apply_table_layout_xml(table, widths_cm)
     return table
 
 
