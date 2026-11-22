@@ -1,8 +1,8 @@
 # Vietnamese Docs Style
 
-Hiện nay, hầu hết các công cụ AI trên thị trường khi được yêu cầu viết văn bản hoặc tạo file Word (`.docx`) đều sinh ra theo một khuôn chung chung - bulletpoint (`•`), **in đậm** dàn trải, sai khổ giấy, cỡ chữ và font chữ chưa phù hợp với từng loại công việc thực tế, đồng thời dễ làm vỡ định dạng khi chỉnh sửa file có sẵn. **`vietnamese-docs-style`** là Agent Skill kèm bộ công cụ Python (`vndocs`) giúp AI soạn mới, điền mẫu, chỉnh sửa bố cục có kiểm soát (`xml_ntpr = 1.0`) và kiểm tra file `.docx` theo đúng quy chuẩn Việt Nam — từ văn bản hành chính NĐ 30/2020/NĐ-CP, văn bản Đảng (QĐ 399 & HD 05-HD/VPTW), VBQPPL đến báo cáo học thuật, đề thi và tài liệu văn phòng.
+Hiện nay, khi yêu cầu các công cụ AI thông thường soạn tài liệu hoặc xuất file Word (`.docx`), kết quả rất dễ mắc hàng loạt lỗi quen thuộc: dùng khổ giấy US Letter, font Arial/Calibri, **màu chữ và nền bảng tô xanh đậm nhạt** mờ nhòe khi in trắng đen, dấu chấm tròn (`•`), **in đậm/in nghiêng** thiếu nhất quán, **đánh số tự động nhảy lỗi** (`9. 10. 11. 12.` giữa tài liệu), chia độ rộng cột bảng cào bằng, hàng bảng bị xé đôi qua hai trang mà không lặp lại tiêu đề, hay trang bìa vẫn dính header và số trang. Quan trọng hơn, các văn bản tiếng Việt trong thực tế không chỉ cần "trông gọn gàng" — rất nhiều nhóm tài liệu **có hẳn một bộ quy tắc trình bày chặt chẽ do Chính phủ và cơ quan Trung ương ban hành**, từ **Nghị định 30/2020/NĐ-CP** (văn bản hành chính nhà nước), **Quy định 399-QĐ/TW & Hướng dẫn 05-HD/VPTW** (văn bản của Đảng), **Nghị định 187/2025/NĐ-CP** (văn bản quy phạm pháp luật), cho tới quy chuẩn in ấn A4 đen trắng của giáo trình, báo cáo học thuật, đề thi và biên bản doanh nghiệp. **`vietnamese-docs-style`** là Agent Skill kèm bộ công cụ Python (`vndocs`) giúp AI soạn mới, điền mẫu, chỉnh sửa bố cục có kiểm soát (`xml_ntpr = 1.0`) và kiểm định file `.docx` tự động theo đúng từng quy chuẩn đó.
 
-*Out of the box, most AI tools generate generic `.docx` documents packed with chatbot-style bullet dots, scattered bold text, wrong paper sizes, and mismatched fonts/margins that break when editing existing layouts. `vietnamese-docs-style` is an Agent Skill and local Python CLI (`vndocs`) for generating, template-filling, controlled layout editing (`xml_ntpr = 1.0`), and validating Vietnamese `.docx` documents under Decree 30/2020/NĐ-CP administrative, Communist Party (QĐ 399-QĐ/TW & HD 05-HD/VPTW), legal-normative, academic, and office conventions.*
+*Out of the box, unguided AI tools generate `.docx` documents formatted like generic chatbot exports: US Letter paper, Arial/Calibri defaults, blue headings and zebra-shaded tables that fade in monochrome print, chatbot bullet dots (`•`), inconsistent bold/italic emphasis, broken continuous list numbering (`9. 10. 11. 12.`), equal-width table columns, rows ripped mid-sentence across page breaks without repeating headers, and leaked headers/page numbers on cover pages. More critically, Vietnamese documents are not governed by ad-hoc aesthetics alone — official records follow strict formatting regulations issued by the Government and Central agencies, including Decree 30/2020/NĐ-CP (administrative documents), Regulation 399-QĐ/TW & Guideline 05-HD/VPTW (Party documents), and Decree 187/2025/NĐ-CP (legal-normative acts), alongside crisp A4 black-and-white print standards for academic textbooks, exams, and corporate files. `vietnamese-docs-style` is an Agent Skill and local Python CLI (`vndocs`) for context-routed generation, lossless template filling, controlled layout editing (`xml_ntpr = 1.0`), and automated validation.*
 
 [![Release](https://img.shields.io/github/v/release/bGiaHuy/vietnamese-docs-style?label=release)](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest)
 [![DOCX Tests](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml/badge.svg)](https://github.com/bGiaHuy/vietnamese-docs-style/actions/workflows/tests.yml)
@@ -22,6 +22,41 @@ Hiện nay, hầu hết các công cụ AI trên thị trường khi được y�
 # Tiếng Việt
 
 ## Ví dụ
+
+### So sánh thực tế: AI mặc định (Không dùng skill) vs. Áp dụng `vietnamese-docs-style`
+
+Cùng một nội dung **Tài liệu giảng dạy cơ bản: Machine Learning** (6 buổi học, 13 bảng, nhiều danh sách và khối code Python), bảng dưới đối chiếu trực tiếp file `.docx` do AI thông thường tự tạo (không có skill) với kết quả dựng lại bằng `vietnamese-docs-style`:
+
+- **Bản AI mặc định (Không dùng skill — `fail`):** `vndocs validate --profile academic` bắt ngay **`343` lỗi mặc định** (`266` lỗi font `Arial`, `76` lỗi màu xanh `#17365D`/`#2F5597`, `1` lỗi khổ giấy `US Letter 21.59 × 27.94 cm`) và lên tới **`409` lỗi** khi bật `forbid_bullets` + `forbid_shading` (thêm `34` vùng tô nền xanh/zebra và `32` đoạn bullet dot `•`). Ngoài ra còn có hàng loạt lỗi bố cục thực tế: `13/13` bảng chia cột cào bằng và tắt `tblHeader`/`cantSplit`, hàng **`Precision` ở mục `5.2.` bị xé đôi qua trang 5–6**, mục **`6.4. Bài tập mở rộng` nhảy đánh số thành `9. 10. 11. 12.`**, trang bìa dính header/số trang `1`, in đậm/in nghiêng thiếu nhất quán.
+- **Bản dùng `vietnamese-docs-style` (`pass` — `0` lỗi):** Đạt **`0` lỗi** ở cả `validate --profile academic` mặc định lẫn chế độ chặt (`forbid_bullets`, `forbid_shading`). Đúng khổ A4 (`3,0 / 2,0 / 2,5 / 2,5 cm`), `Times New Roman`, chữ đen `#000000`, tắt header/số trang ở trang bìa, toàn bộ danh sách đánh số reset độc lập từ `1.`, mọi bảng biểu khóa `Table Grid` + chia cột theo trọng số + bật `tblHeader`/`cantSplit`.
+
+| Không dùng skill (`AI mặc định` — 409 lỗi) | Có dùng `vietnamese-docs-style` (`0` lỗi) |
+| :---: | :---: |
+| ![Before: Trang 2 AI mặc định](docs/images/before-ai-no-skill-p2.png) | ![After: Trang 2 dùng vietnamese-docs-style](docs/images/after-ai-with-skill-p2.png) |
+| **Trang 2 (Before):** Font Arial, chữ xanh in trên nền bảng tô xanh/zebra, bullet `•`, cột `Buổi` rộng `5.84 cm` bằng cột mô tả, bảng `1.2.` rớt dòng cuối sang trang 3 không lặp tiêu đề. | **Trang 2 (After):** A4 chuẩn, Times New Roman `#000000`, gạch đầu dòng `- ` thẳng hàng, `Table Grid` in trắng đen sắc nét, cột `Buổi` thu gọn `1.5 cm` nhường chỗ cho nội dung. |
+| ![Before: Bảng 5.2 bị xé đôi hàng Precision qua trang](docs/images/before-ai-no-skill-p6.png) | ![After: Bảng 5.2 khóa nguyên vẹn từng hàng](docs/images/after-ai-with-skill-metrics.png) |
+| **Bảng 5.2 (Before):** `tblHeader = False`, `cantSplit = 0` làm hàng **`Precision` bị xé đôi giữa câu qua trang 5–6** (*"có bao nhiêu mẫu đúng."* rớt lẻ không tiêu đề bảng); code mục `6.2.` đứt dòng qua trang 7. | **Bảng 5.2 (After):** Khóa `cantSplit` + lặp tiêu đề `tblHeader` giúp bảng `5.1.` và `5.2.` nguyên vẹn, dễ đối chiếu và không bao giờ xé đôi một hàng giữa trang. |
+| ![Before: Mục 6.4 nhảy đánh số 9 10 11 12](docs/images/before-ai-no-skill-p7.png) | ![After: Mục 6.4 reset độc lập 1 2 3 4](docs/images/after-ai-with-skill-numbering.png) |
+| **Mục 6.4 & Ôn tập (Before):** Tái sử dụng `List Number` không reset `abstractNum` khiến mục `6.4.` **nhảy số thành `9. 10. 11. 12.`**; phần Ôn tập đổi kiểu đánh số cứng, chữ `Gợi ý:` xanh nghiêng lệch tone, bảng cuối vỡ ngay sau hàng 1. | **Mục 6.4 & Ôn tập (After):** `add_numbered(start=1)` cấp `w:abstractNum` riêng nên mục `6.4.` đánh số chuẩn **`1. 2. 3. 4.`**; phần Ôn tập đồng bộ **`Câu 1.`–`Câu 6.`** + `Gợi ý:` màu đen `#000000` nhất quán. |
+
+<details>
+<summary>Xem thêm đối chiếu Trang bìa (Trang 1 Machine Learning) và đối chiếu Văn bản Hành chính NĐ 30/2020 (Before/After)</summary>
+
+| Trang bìa AI mặc định (Before) | Trang bìa dùng `vietnamese-docs-style` (After) |
+| :---: | :---: |
+| ![Before: Trang bìa AI mặc định](docs/images/before-ai-no-skill-p1.png) | ![After: Trang bìa dùng skill](docs/images/after-ai-with-skill-p1.png) |
+| Bìa dính header `TÀI LIỆU GIẢNG DẠY • MACHINE LEARNING`, số trang `1` ở đáy, chữ `MACHINE / LEARNING` gãy 2 dòng, màu xanh không đồng bộ. | Tắt header/số trang bìa (`different_first_page_header_footer = True`), `MACHINE LEARNING` trên một dòng, bảng tóm tắt chuẩn A4 rõ ràng. |
+
+| File Word mặc định (`before-naive`) | Starter NĐ30 đã kiểm tra (`after-audit-notice`) |
+| :---: | :---: |
+| ![Before: file docx mặc định](docs/images/before-naive.png) | ![After: starter NĐ30 đã kiểm tra](docs/images/after-audit-notice.png) |
+| **`validate_docx.py` → `fail` (4 lỗi):** sai khổ giấy sang US Letter, lề mặc định Word, font Calibri theme, gạch ngang `---` và thiếu bố cục `Số:`/`Ngày`, `Nơi nhận:`. | **`validate_docx.py` → `pass` (0 lỗi):** đúng khổ A4, lề chuẩn NĐ30, Times New Roman `#000000`, `Số:`/`Ngày` thẳng hàng và khối `Nơi nhận:`/ký tách rõ ràng. |
+
+Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) tại [evals/audit-comparison.md](evals/audit-comparison.md).
+
+</details>
+
+### Văn bản hành chính NĐ 30/2020 tạo bằng skill
 
 Ảnh dưới là kết quả render (`vndocs render --png` bằng LibreOffice và PyMuPDF) từ **Thông báo hành chính 2 trang ([`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx)) do skill tạo ra với dữ liệu giả định**:
 
@@ -109,23 +144,13 @@ Vì trình duyệt trên GitHub không hiển thị trực tiếp nội dung fil
 
 </details>
 
-<details>
-<summary>So sánh trước và sau</summary>
-
-| File Word mặc định (`before-naive`) | Starter NĐ30 đã kiểm tra (`after-audit-notice`) |
-| :---: | :---: |
-| ![Before: file docx mặc định](docs/images/before-naive.png) | ![After: starter NĐ30 đã kiểm tra](docs/images/after-audit-notice.png) |
-| **`validate_docx.py` → `fail` (4 lỗi):** sai khổ giấy sang US Letter, lề mặc định Word, font Calibri theme, gạch ngang `---` và thiếu bố cục `Số:`/`Ngày`, `Nơi nhận:`. | **`validate_docx.py` → `pass` (0 lỗi):** đúng khổ A4, lề chuẩn NĐ30, Times New Roman `#000000`, `Số:`/`Ngày` thẳng hàng và khối `Nơi nhận:`/ký tách rõ ràng. |
-
-Xem thêm đối chiếu với 2 văn bản `.docx` thật (**UBND xã Hương Khê, Hà Tĩnh 11/2026** và **Cục Quản lý đăng ký kinh doanh Mẫu 27, 2025**) tại [evals/audit-comparison.md](evals/audit-comparison.md).
-
-</details>
-
 ## Giới thiệu ngắn
 
-Khi chưa được hướng dẫn đúng ngữ cảnh công việc, AI và script Python mặc định thường biến mọi văn bản thành danh sách dấu chấm tròn (`•`), **in đậm** dàn trải đầu dòng, rơi về khổ US Letter, lề `2.54 cm`, font Calibri/Arial và tiêu đề màu xanh của Word; nhiều trường hợp lại áp nhầm Quốc hiệu – Tiêu ngữ theo Nghị định 30/2020/NĐ-CP vào báo cáo học thuật hoặc thông báo doanh nghiệp. Khi chỉnh sửa trên file `.docx` có sẵn, cách để agent tự đọc và sửa XML thô cũng rất ngốn token và dễ phá hỏng các đoạn ngoài vùng yêu cầu.
+Khi tạo `.docx` không có ràng buộc ngữ cảnh, phần lớn AI đi theo thói quen "xuất Markdown sang Word" mang tính thẩm mỹ màn hình phương Tây: khổ US Letter (`21.59 × 27.94 cm`), font Arial/Calibri, tiêu đề và bảng tô màu xanh đậm/zebra khó đọc khi in trắng đen, danh sách dấu chấm tròn (`•`), **in đậm** và *in nghiêng* thiếu nhất quán, đánh số list dùng chung `abstractNum` khiến phần sau bị nhảy nối số (`9. 10. 11. 12.`), còn bảng biểu chia cột cào bằng không có `tblHeader` / `cantSplit` khiến một hàng bị xé đôi ngay giữa trang.
 
-`vietnamese-docs-style` giải quyết bài toán trên bằng hai lớp phối hợp: bộ hướng dẫn định tuyến theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp AI chọn đúng thể thức và văn phong cho từng loại việc, kết hợp cùng CLI `vndocs` để tạo file mới, điền mẫu giữ nguyên XML gốc, chỉnh sửa bố cục có kiểm soát (`map -> layout-edit / paginate -> diff-layout`), kiểm tra lỗi và render ảnh từng trang qua LibreOffice + PyMuPDF.
+Ngược lại, văn bản tiếng Việt trong công việc thực tế **chịu sự chi phối của nhiều quy chuẩn trình bày nghiêm ngặt do Chính phủ và cơ quan Trung ương ban hành**: **Nghị định 30/2020/NĐ-CP** (văn bản hành chính nhà nước: bảng Quốc hiệu – Tiêu ngữ 2×2, cỡ chữ 13–14pt, lề bất đối xứng đóng quyển, khối Nơi nhận/Chữ ký), **Quy định 399-QĐ/TW & Hướng dẫn 05-HD/VPTW** (văn bản Đảng: `Số` không dấu hai chấm, 14pt, giãn dòng cố định 20pt, `Nơi nhận:` gạch chân, chức vụ không đậm), **Nghị định 187/2025/NĐ-CP** (VBQPPL), cùng chuẩn in A4 đen trắng tách biệt cho học thuật, giáo trình, đề thi và biên bản doanh nghiệp.
+
+`vietnamese-docs-style` giải quyết bài toán trên bằng hai lớp phối hợp: bộ hướng dẫn định tuyến theo ngữ cảnh ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) giúp AI chọn đúng thể thức ngay từ đầu, kết hợp cùng CLI `vndocs` để khởi tạo sạch, điền mẫu bảo toàn byte, chỉnh sửa bố cục có kiểm soát (`map -> layout-edit / paginate -> diff-layout`) và kiểm chứng trực tiếp bằng LibreOffice + PyMuPDF.
 
 ## Tính năng chính
 
@@ -343,6 +368,38 @@ vietnamese-docs-style/
 
 ## Example
 
+### Real-World Before vs. After: Default AI (No Skill) vs. `vietnamese-docs-style`
+
+On the exact same **Machine Learning Teaching Guide** (6 sessions, 13 tables, multi-section lists, and Python code), the comparison below contrasts a typical unguided AI `.docx` export against `vietnamese-docs-style`:
+
+- **Default AI without Skill (`fail`):** `vndocs validate --profile academic` flags **`343` errors** (`266` Arial font runs, `76` blue runs `#17365D`/`#2F5597`, `1` US Letter page size `21.59 × 27.94 cm`) — rising to **`409` errors** with `forbid_bullets` + `forbid_shading` (`+34` navy/zebra table shading regions, `+32` chatbot bullet dots `•`). Layout inspection reveals equal-width columns across all `13/13` tables with `tblHeader = False` and `cantSplit = 0`, the **`Precision` row ripped mid-sentence across pages 5–6**, section **`6.4.` jumping to `9. 10. 11. 12.`**, inconsistent bold/italic styling, and leaked header/page `1` on the cover page.
+- **Rebuilt with `vietnamese-docs-style` (`pass` — `0` errors):** Passes both default `academic` validation and strict `forbid_bullets + forbid_shading` with **`0` issues**. Crisp A4 (`3.0 / 2.0 / 2.5 / 2.5 cm`), `Times New Roman`, `#000000` ink-safe text, suppressed cover header/footer (`different_first_page_header_footer = True`), independent list numbering from `1.`, and fixed weighted `Table Grid` columns with `tblHeader` and `cantSplit`.
+
+| Default AI without Skill (`409` issues) | Rebuilt with `vietnamese-docs-style` (`0` issues) |
+| :---: | :---: |
+| ![Before: Default AI Page 2](docs/images/before-ai-no-skill-p2.png) | ![After: With Skill Page 2](docs/images/after-ai-with-skill-p2.png) |
+| **Page 2 (Before):** Arial font, blue ink on shaded tables, bullet dots `•`, equal `5.84 cm` columns, and Table `1.2.` splitting without header repeat. | **Page 2 (After):** A4, Times New Roman `#000000`, hanging `- ` items, B&W `Table Grid`, and content-weighted columns (`Buổi` = `1.5 cm`). |
+| ![Before: Table 5.2 Precision row split mid-sentence](docs/images/before-ai-no-skill-p6.png) | ![After: Table 5.2 rows kept intact](docs/images/after-ai-with-skill-metrics.png) |
+| **Table 5.2 (Before):** Missing `cantSplit` / `tblHeader` rips the **`Precision` row in half across pages 5–6**; code block orphans trailing lines onto page 7. | **Table 5.2 (After):** Locked `cantSplit` rows and repeating `tblHeader` keep both Table `5.1.` and Table `5.2.` cleanly intact on page 7. |
+| ![Before: Section 6.4 jumps to 9 10 11 12](docs/images/before-ai-no-skill-p7.png) | ![After: Section 6.4 resets cleanly 1 2 3 4](docs/images/after-ai-with-skill-numbering.png) |
+| **Section 6.4 & Review (Before):** Unreset `List Number` **jumps to `9. 10. 11. 12.`**; manual numbering format changes mid-page; blue italic hints; bottom table splits after row 1. | **Section 6.4 & Review (After):** Independent `w:abstractNum` numbering starts cleanly at **`1. 2. 3. 4.`** with uniform black Q&A hierarchy. |
+
+<details>
+<summary>Show Cover Page comparison (Page 1 Machine Learning) & Administrative NĐ 30/2020 Before/After</summary>
+
+| Before: Default AI Cover (`Page 1`) | After: Clean Skill Cover (`Page 1`) |
+| :---: | :---: |
+| ![Before: AI Cover](docs/images/before-ai-no-skill-p1.png) | ![After: Clean Cover](docs/images/after-ai-with-skill-p1.png) |
+| Leaked running header and page number `1` on the cover page; split two-line title. | Clean cover (`different_first_page_header_footer = True`), single-line title, crisp A4 metadata table. |
+
+| Naive Default DOCX (`before-naive`) | Audited NĐ30 Starter (`after-audit-notice`) |
+| :---: | :---: |
+| ![Before: naive docx](docs/images/before-naive.png) | ![After: audited notice](docs/images/after-audit-notice.png) |
+
+</details>
+
+### Administrative Decree 30/2020 Showcase
+
 LibreOffice renders (`vndocs render --png`) of a **2-page Vietnamese administrative notice ([`assets/examples/administrative-notice.docx`](assets/examples/administrative-notice.docx)) generated with the skill and simulated data**:
 
 | Page 1 — NĐ30 Header, Legal Bases & Repeating Table Header | Page 2 — Centered Top Page `2` & Recipients / Signer Block |
@@ -395,9 +452,11 @@ Because GitHub does not render `.docx` files inline in the browser, click the **
 
 ## Overview
 
-Without task-specific conventions, most AI tools and Python DOCX scripts format documents like generic chatbot replies — overloaded with bullet dots (`•`), scattered **bold** phrases, US Letter pages, `2.54 cm` margins, Calibri/Arial defaults, and blue Word headings — or force Decree 30/2020/NĐ-CP headers onto academic essays and private company notices. When asked to modify existing `.docx` files, letting an agent rewrite raw XML directly consumes excess tokens and frequently breaks unrelated sections or layout structures.
+When generating `.docx` files without task routing, most AI tools export documents styled like Western web chat transcripts: US Letter pages (`21.59 × 27.94 cm`), `Arial`/`Calibri` fonts, blue headings and zebra-shaded tables that fade in monochrome print, chatbot bullet dots (`•`), scattered **bold** and *italic* emphasis, reused list definitions causing broken numbering (`9. 10. 11. 12.`), and equal-width tables without `tblHeader`/`cantSplit` that tear rows mid-sentence across pages.
 
-`vietnamese-docs-style` pairs two layers to solve both issues: context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) so agents select the right format and writing style upfront, and the `vndocs` CLI to generate, fill templates losslessly, perform controlled layout edits (`map -> layout-edit / paginate -> diff-layout`), validate, and render page previews via LibreOffice and PyMuPDF.
+In practice, Vietnamese documents follow **strict statutory and institutional rulebooks issued by the Government and Central Party bodies**: **Decree 30/2020/NĐ-CP** (state administrative records with a 2×2 borderless National Motto/Issuer header, 13–14pt body, asymmetric binding margins, and anchored Recipients/Signer blocks), **Regulation 399-QĐ/TW & Guideline 05-HD/VPTW** (Communist Party records with non-colon numbering, 14pt body, exact 20pt line spacing, underlined `Nơi nhận:`, and non-bold signer rank), and **Decree 187/2025/NĐ-CP** (legal-normative acts), strictly separated from A4 black-and-white academic textbooks, thesis outlines, exams, and corporate minutes.
+
+`vietnamese-docs-style` pairs two layers to solve both issues: context-routed instructions ([SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md), `references/`) so agents select the right convention upfront, and the `vndocs` CLI to generate clean files, fill templates losslessly, apply controlled layout edits (`map -> layout-edit / paginate -> diff-layout`), validate against profile rules, and render page previews via LibreOffice and PyMuPDF.
 
 ## Key Features
 
