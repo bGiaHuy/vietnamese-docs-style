@@ -10,10 +10,13 @@ try:
     from . import (
         create_demo,
         create_templates,
+        diff_layout,
         edit_docx,
         fill_template,
         generate_docx,
         inspect_docx,
+        layout_edit,
+        map_docx,
         package_skill,
         render_docx,
         validate_docx,
@@ -21,10 +24,13 @@ try:
 except ImportError:
     import create_demo
     import create_templates
+    import diff_layout
     import edit_docx
     import fill_template
     import generate_docx
     import inspect_docx
+    import layout_edit
+    import map_docx
     import package_skill
     import render_docx
     import validate_docx
@@ -36,6 +42,9 @@ COMMANDS = {
     'render': render_docx.main,
     'fill': fill_template.main,
     'edit': edit_docx.main,
+    'map': map_docx.main,
+    'layout-edit': layout_edit.main,
+    'diff-layout': diff_layout.main,
     'demo': create_demo.main,
     'templates': create_templates.main,
     'package': package_skill.main,
@@ -46,16 +55,19 @@ HELP_TEXT = """usage: vndocs <command> [args...]
 Vietnamese DOCX creation, inspection, validation, rendering, and packaging CLI.
 
 commands:
-  doctor     Check Python, DOCX runtime dependencies, and LibreOffice renderer
-  generate   Build a styled DOCX from a multi-profile JSON spec (and optional --validate)
-  inspect    Inspect DOCX geometry, styles, placeholders, and U+00D0 encoding issues
-  validate   Inspect a DOCX file against profile or JSON rules
-  render     Render a DOCX file to PDF (and optional PNGs) via LibreOffice
-  fill       Fill {{token}} placeholders in a DOCX template
-  edit       Patch verified plain-text slots in a retained DOCX
-  demo       Generate a reproducible multi-section demo template and filled DOCX
-  templates  Regenerate project-authored starter templates
-  package    Build a clean distributable skill ZIP
+  doctor       Check Python, DOCX runtime dependencies, and LibreOffice renderer
+  generate     Build a styled DOCX from a multi-profile JSON spec (and optional --validate)
+  inspect      Inspect DOCX geometry, styles, placeholders, and U+00D0 encoding issues
+  validate     Inspect a DOCX file against profile or JSON rules
+  render       Render a DOCX file to PDF (and optional PNGs) via LibreOffice
+  fill         Fill {{token}} placeholders in a DOCX template
+  edit         Patch verified plain-text slots in a retained DOCX
+  map          Build a compact structural + spatial anchor map for DOCX editing
+  layout-edit  Apply table-scoped OOXML layout operations with XML preservation checks
+  diff-layout  Compare LibreOffice-rendered table geometry and pagination ripple before/after
+  demo         Generate a reproducible multi-section demo template and filled DOCX
+  templates    Regenerate project-authored starter templates
+  package      Build a clean distributable skill ZIP
 
 Run `vndocs <command> --help` for command-specific options."""
 

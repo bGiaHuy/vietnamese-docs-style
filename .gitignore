@@ -8,3 +8,4 @@ build/
 artifacts/
 .tools/
 dist/
+/research/

@@ -1,7 +1,7 @@
 # Công cụ và phạm vi kiểm tra
 
 Python 3.10+; cài `pip install -e .` (hoặc `requirements.txt`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
-Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|package>` hoặc chạy `python scripts/<tool>.py`.
+Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|package>` hoặc chạy `python scripts/<tool>.py`.
 Kiểm tra nhanh môi trường và LibreOffice renderer: `vndocs doctor`.
 LibreOffice là dependency hệ thống riêng để render. Trên Windows có thể chỉ
 định `--renderer` hoặc biến `VNDOCS_RENDERER`; không yêu cầu cài đè phiên bản sẵn.
@@ -82,8 +82,30 @@ code tương ứng 0/1/2. `--draft` chuyển placeholder thành cảnh báo. Boo
 
 Render dùng profile LibreOffice tạm riêng và output chuyển đổi mới; không nhận
 PDF cũ là thành công. Status `rendered` chỉ nghĩa đã tạo file, chưa phải người
-đã xem mọi trang. `--png` cần PyMuPDF. Thiếu renderer hoặc PNG chưa tạo được trả
-code 2; lỗi chuyển đổi trả code 1. Kiểm tra ảnh thật trước khi nghiệm thu bố cục.
+đã xem mọi trang. `--png` cần PyMuPDF; thêm `--annotate-marks` để xuất thêm ảnh
+`page-N-marks.png` có khung nhãn `[T#]`, `[T#:LAYOUT]`, `[IMG#]` phục vụ định vị
+từ screenshot mà không làm biến dạng PDF sạch. Thiếu renderer hoặc PNG chưa tạo
+được trả code 2; lỗi chuyển đổi trả code 1. Kiểm tra ảnh thật trước khi nghiệm thu bố cục.
+
+## Chỉnh sửa bố cục có kiểm soát (Vibe Docs)
+
+Luồng chỉnh sửa bố cục trên `.docx` hiện có giữ nguyên cấu trúc ngoài vùng đích (`xml_ntpr == 1.0`):
+
+1. `vndocs map src.docx [--format markdown|json] [--with-pdf | --pdf-path file.pdf] [--include-paragraphs]`
+   Lập bản đồ section, bảng (`T#hash`), ảnh (`IMG#hash`) và đoạn (`P#hash`). Bảng bố cục (quốc hiệu, nơi nhận, chữ ký) được gắn `[LAYOUT:<role>]` và khóa mặc định.
+2. `vndocs render src.docx --output-dir out --png --annotate-marks`
+   Đọc ảnh chụp người dùng và đối chiếu chữ/số dòng/cột với `vndocs map` trước; chỉ chạy `--annotate-marks` để xuất `page-N-marks.png` có nhãn Set-of-Mark `[T#]` / `[IMG#]` khi còn `≥ 2` ứng viên tương tự hoặc dữ liệu chữ từ `map` chưa đủ chốt. Nếu có `≥ 2` bảng/ảnh giống hệt nhau về cấu trúc và nội dung mà ảnh bị crop không có tiêu đề/số trang để phân biệt, dừng lại hỏi người dùng thay vì đoán.
+3. `vndocs layout-edit src.docx dst.docx --plan plan.json [--dry-run] [--allow-layout-tables] [--profile <name>] [--source-sha256 <hex>]`
+   `plan.json` có dạng `{"operations": [...]}` (hoặc mảng JSON) với đúng 7 op hợp lệ:
+   - `table.scale_width`: `{op, target, factor | target_width_pct | target_width_cm}`
+   - `table.set_col_widths`: `{op, target, widths: ["4cm", "5cm", ...]}` (đủ `grid_cols` cột)
+   - `table.set_alignment`: `{op, target, align: "left|center|right"}`
+   - `table.set_cell_margins`: `{op, target, top_cm?, bottom_cm?, left_cm?, right_cm?, clear_cell_overrides?}`
+   - `table.set_font_size`: `{op, target, size_pt, preserve_header_size?}`
+   - `image.scale`: `{op, target: "IMG...", factor | width_cm | width_pct, align?}` (giữ tỷ lệ khung hình, đồng bộ `wp:extent` + `a:ext`)
+   - `paragraph.set_format`: `{op, target | targets, align?, space_before_pt?, space_after_pt?, line_spacing? | line_spacing_exact_pt?, first_line_indent_cm?, left_indent_cm?, right_indent_cm?, keep_with_next?}`
+4. `vndocs diff-layout src.docx dst.docx [--target <anchor>] [--output-dir out] [--crop-dir crops]`
+   Đo lại kích thước bảng/ảnh trên PDF sau LibreOffice render, phát hiện tràn lề phải (`overflow_right_mm`), kiểm tra nhảy trang ngoài vùng đích (`non_target_page_shifts`) và xuất crop PNG trước/sau của target (`max_iter = 2`).
 
 ## Mẫu kiểm tra tái lập
 

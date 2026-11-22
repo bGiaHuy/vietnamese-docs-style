@@ -86,6 +86,15 @@ placeholder, lỗi ký tự `Ð` (`U+00D0`) và `scripts/generate_docx.py` theo
 Giữ section, heading, numbering, header/footer, bảng, mục lục và trường số trang
 của mẫu. Không áp quốc hiệu, bìa, thư ngỏ, nơi nhận hoặc cấm bullet cho mọi tài liệu.
 
+### Chỉnh sửa bố cục DOCX hiện có (Vibe Docs)
+
+Khi chỉnh sửa bảng, ảnh hoặc đoạn văn trên file `.docx` có sẵn, thực hiện quy trình 4 bước để giữ nguyên cấu trúc ngoài vùng sửa (`xml_ntpr == 1.0`):
+
+1. **Lập bản đồ (`map`):** chạy `vndocs map src.docx --format markdown` (thêm `--with-pdf` nếu cần tọa độ trang) để lấy anchor (`T#hash`, `IMG#hash`, `P#hash`). **Bảo vệ bảng bố cục `[LAYOUT:...]`** (quốc hiệu, nơi nhận, chữ ký) — chỉ sửa khi thật sự được yêu cầu kèm `--allow-layout-tables`.
+2. **Định vị từ ảnh chụp (Screenshot Grounding):** nếu có ảnh minh họa, đọc ảnh rồi đối chiếu chữ/số cột/số dòng đặc trưng với đầu ra `vndocs map` trước. Chỉ chạy thêm `vndocs render src.docx --png --annotate-marks` khi còn `≥ 2` ứng viên tương tự hoặc dữ liệu chữ từ `map` chưa đủ chốt. **Fail-closed:** nếu có `≥ 2` đối tượng giống hệt nhau về cấu trúc và nội dung mà ảnh bị crop không có tiêu đề hay số trang để phân biệt, **dừng lại hỏi người dùng**, không đoán.
+3. **Sửa có kiểm soát (`layout-edit`):** truyền JSON gồm các op hợp lệ (`table.scale_width`, `table.set_col_widths`, `table.set_alignment`, `table.set_cell_margins`, `table.set_font_size`, `image.scale`, `paragraph.set_format`) qua `vndocs layout-edit src.docx dst.docx --plan ...`. Không sửa XML tự do bằng regex; với văn bản Đảng kiểm tra thêm `references/party-documents.md`.
+4. **Đo lại & Giới hạn vòng lặp (`diff-layout`):** chạy `vndocs diff-layout src.docx dst.docx --target <anchor> --crop-dir ...` để kiểm tra kích thước thực sau render, tràn lề và nhảy trang ngoài target (`max_iter = 2`; sau 2 vòng chưa đạt thì dừng và báo số đo). Chi tiết CLI và schema ops xem `references/tooling.md`.
+
 ## Kiểm tra và bàn giao
 
 Text: rà dữ kiện, cấp đề mục, thứ tự và phạm vi yêu cầu.
