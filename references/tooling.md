@@ -1,10 +1,21 @@
 # Công cụ và phạm vi kiểm tra
 
-Python 3.10+; cài `pip install -e .` (hoặc `requirements.txt`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
-Sau khi cài đặt editable/package, có thể gọi trực tiếp qua lệnh `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|package>` hoặc chạy `python scripts/<tool>.py`.
-Kiểm tra nhanh môi trường và LibreOffice renderer: `vndocs doctor`.
+Python 3.10+; cài `pip install -e .` (hoặc `pip install -r requirements.txt` khi giải nén trực tiếp từ `vietnamese-docx.zip` không có `pyproject.toml`), kiểm thử bằng `pip install -e ".[dev]"` (hoặc `requirements-dev.txt`).
+Sau khi cài đặt editable/package, gọi trực tiếp `vndocs <subcmd>`; khi chạy từ gói ZIP độc lập, thay `vndocs <subcmd>` bằng `python scripts/cli.py <subcmd>` (hỗ trợ đầy đủ: `doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|package`) hoặc gọi riêng `python scripts/<tool>.py`.
+Kiểm tra nhanh môi trường và LibreOffice renderer: `python scripts/cli.py doctor` (hoặc `vndocs doctor`).
 LibreOffice là dependency hệ thống riêng để render. Trên Windows có thể chỉ
 định `--renderer` hoặc biến `VNDOCS_RENDERER`; không yêu cầu cài đè phiên bản sẵn.
+
+## Mục lục
+
+- Tạo mới và giữ mẫu
+- Cấu hình quy tắc
+- Kiểm tra và render
+- Chỉnh sửa bố cục có kiểm soát
+- Mẫu kiểm tra tái lập
+- Mẫu không có token
+- Starter đi kèm và đóng gói
+- Số trang và kiểm tra phát triển
 
 ## Tạo mới và giữ mẫu
 

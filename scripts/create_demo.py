@@ -8,9 +8,11 @@ from docx.shared import Cm
 
 try:
     from .build_docx import setup_document, add_body, add_table, add_numbered
+    from .docx_package import ensure_utf8_stdio
     from .fill_template import fill_template
 except ImportError:
     from build_docx import setup_document, add_body, add_table, add_numbered
+    from docx_package import ensure_utf8_stdio
     from fill_template import fill_template
 
 
@@ -60,6 +62,7 @@ def create_demo(output_dir):
 
 def main(argv=None):
     import argparse
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output-dir', default='artifacts/demo')
     args = parser.parse_args(argv)

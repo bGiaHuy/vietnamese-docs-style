@@ -8,6 +8,11 @@ import subprocess
 import tempfile
 from pathlib import Path
 
+try:
+    from .docx_package import ensure_utf8_stdio
+except ImportError:
+    from docx_package import ensure_utf8_stdio
+
 
 def _sha256_file(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
@@ -361,6 +366,7 @@ def render_doc(
 
 
 def main(argv=None):
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath')
     parser.add_argument('--output-dir')

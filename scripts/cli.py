@@ -12,6 +12,7 @@ try:
         create_demo,
         create_templates,
         diff_layout,
+        docx_package,
         edit_docx,
         fill_template,
         generate_docx,
@@ -27,6 +28,7 @@ except ImportError:
     import create_demo
     import create_templates
     import diff_layout
+    import docx_package
     import edit_docx
     import fill_template
     import generate_docx
@@ -140,6 +142,7 @@ def run_doctor(argv=None):
 
 def main(argv=None):
     """Dispatch `vndocs` subcommands cleanly while preserving subcommand --help."""
+    docx_package.ensure_utf8_stdio()
     args = list(sys.argv[1:] if argv is None else argv)
     if not args or args[0] in ('-h', '--help'):
         print(HELP_TEXT)

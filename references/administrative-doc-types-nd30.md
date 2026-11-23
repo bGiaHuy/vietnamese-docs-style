@@ -1,11 +1,25 @@
 # Loại văn bản, ký hiệu, thẩm quyền ký và nơi nhận theo NĐ30
 
 Nguồn: Nghị định 30/2020/NĐ-CP (Điều 7, 8, 13; Phụ lục I mục II–III; Phụ lục II;
-Phụ lục III). Đối chiếu bản ký trên Cổng TTĐT Chính phủ; bản chép trong
-`source-documents/` có lỗi OCR (ví dụ "TƯQ", "ỌĐ"), không chép lỗi đó.
+Phụ lục III). Đối chiếu bản ký trên Cổng TTĐT Chính phủ; tránh các lỗi OCR
+thường gặp ở bản chép không chính thức (ví dụ "TƯQ", "ỌĐ").
 Tình trạng tra cứu ngày 2026-11-06: chưa thấy văn bản thay thế hoặc sửa đổi
 NĐ30; vẫn kiểm tra lại khi cần khẳng định hiện hành. Thông số trang/cỡ chữ ở
 `administrative-format-nd30.md`; văn phong ở `administrative-writing-style.md`.
+
+## Mục lục
+
+- 29 loại văn bản hành chính và chữ viết tắt
+- Số và ký hiệu
+- Tên cơ quan, địa danh, ngày tháng
+- Thẩm quyền ký (Điều 13; Phụ lục I mục II.7)
+- Nơi nhận
+- Thành phần bổ sung (Phụ lục I mục III)
+- Bản sao
+- Viết hoa (Phụ lục II) — điểm hay sai
+- Khung nội dung theo loại hay dùng
+- Lỗi hay gặp khi soạn từ trí nhớ
+- Kết thúc nội dung
 
 ## 29 loại văn bản hành chính và chữ viết tắt
 

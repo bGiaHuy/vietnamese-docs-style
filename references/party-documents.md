@@ -3,6 +3,20 @@
 Không dùng NĐ30 cho văn bản của cấp ủy, tổ chức, cơ quan đảng: không Quốc hiệu,
 không `Số:`, đề ký dùng gạch chéo (`T/M`, `K/T`, `T/L`).
 
+## Mục lục
+
+- Nguồn hiện hành (tra cứu ngày 2026-11-06)
+- Thể loại và ký hiệu tên loại
+- Tên cơ quan ban hành (góc trái, dòng đầu)
+- Số và ký hiệu
+- Trang và nội dung (HD05 Phần II mục IV; Phụ lục 2)
+- Cỡ chữ từng thành phần
+- Đề ký
+- Nơi nhận
+- Bản sao
+- Khác biệt nhanh với NĐ30
+- Lỗi hay gặp khi soạn từ trí nhớ
+
 ## Nguồn hiện hành (tra cứu ngày 2026-11-06)
 
 | Nội dung | Văn bản hiện hành | Thay thế |

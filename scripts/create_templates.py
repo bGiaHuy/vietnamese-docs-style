@@ -12,9 +12,11 @@ from docx.oxml.ns import qn
 
 try:
     from .build_docx import setup_document, add_body, add_numbered, add_table
+    from .docx_package import ensure_utf8_stdio
     from .fill_template import fill_template
 except ImportError:
     from build_docx import setup_document, add_body, add_numbered, add_table
+    from docx_package import ensure_utf8_stdio
     from fill_template import fill_template
 
 LEGAL_SOURCE = 'https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/03/30.signed.pdf'
@@ -605,6 +607,7 @@ def create_templates(destination):
 
 
 def main(argv=None):
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output-dir', default='artifacts/template-suite')
     args = parser.parse_args(argv)

@@ -6,9 +6,9 @@ from pathlib import Path
 from lxml import etree
 
 try:
-    from .docx_package import read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
+    from .docx_package import ensure_utf8_stdio, read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
 except ImportError:
-    from docx_package import read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
+    from docx_package import ensure_utf8_stdio, read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
 
 TOKEN = re.compile(r'\{\{([^{}]+)\}\}')
 
@@ -59,6 +59,7 @@ def fill_template(source, destination, values, require_all=True):
 
 
 def main(argv=None):
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source')
     parser.add_argument('destination')

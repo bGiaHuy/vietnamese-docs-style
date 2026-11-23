@@ -13,7 +13,7 @@ Hiện nay, khi yêu cầu các công cụ AI thông thường soạn tài liệ
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.4.0` (`93/93` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
+**Trạng thái:** `v0.4.0` (`96/96` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -234,6 +234,7 @@ cd vietnamese-docs-style
 python -m pip install -e .
 # Nếu chỉ chạy trực tiếp `python scripts/...py` và không dùng `vndocs`:
 # python -m pip install -r requirements.txt
+# python scripts/cli.py doctor   # tương đương vndocs khi chạy từ vietnamese-docx.zip
 vndocs doctor
 ```
 
@@ -241,11 +242,11 @@ vndocs doctor
 
 | AI Agent / IDE | Tệp cấu hình trong repo | Cách tích hợp |
 | --- | --- | --- |
-| **Claude Code** | [SKILL.md](SKILL.md) | Đọc `SKILL.md` trong repo hoặc cài từ ZIP đóng gói qua `vndocs package --output dist/vietnamese-docx.zip` |
+| **Claude Code** | [SKILL.md](SKILL.md) | Đọc `SKILL.md` trong repo hoặc cài từ ZIP đóng gói qua `vndocs package --output dist/vietnamese-docx.zip` (giải nén vào `~/.claude/skills/vietnamese-docx/` hoặc `.claude/skills/vietnamese-docx/`) |
 | **OpenAI Codex** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Tự đọc `AGENTS.md` ở thư mục gốc và nạp `SKILL.md` theo nhu cầu |
 | **Cursor** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở repo làm workspace để nhận `AGENTS.md`, hoặc gắn `SKILL.md` vào rule/context |
 | **Gemini CLI** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Cài qua `npx skills add bGiaHuy/vietnamese-docs-style` hoặc đọc `SKILL.md` / `references/` |
-| **Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Cài qua `npx skills` hoặc nhận diện tự động `SKILL.md` / `AGENTS.md` tại thư mục gốc |
+| **Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Cài qua `npx skills` hoặc nhận diện tự động `SKILL.md` / `AGENTS.md` tại thư mục gốc (hoặc giải nén ZIP vào `~/.gemini/config/skills/vietnamese-docx/` / `.agents/skills/vietnamese-docx/`) |
 | **GitHub Copilot (VS Code)** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc hướng dẫn repo qua `AGENTS.md` / `SKILL.md` trong workspace |
 | **Windsurf** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Mở workspace chứa `AGENTS.md` và trỏ agent tới `SKILL.md` |
 | **OpenCode / Cline / Roo Code** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Đọc chuẩn `AGENTS.md` ở gốc repo và gọi lệnh `vndocs` |
@@ -347,7 +348,7 @@ vietnamese-docs-style/
 ├── evals/                     # Benchmark tái lập, báo cáo audit & layout-edit 30-case eval
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 93 automated tests (pytest + LibreOffice render)
+└── tests/                     # 96 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -492,14 +493,15 @@ cd vietnamese-docs-style
 python -m pip install -e .
 # Or install runtime deps directly without the `vndocs` CLI:
 # python -m pip install -r requirements.txt
+# python scripts/cli.py doctor   # standalone ZIP equivalent of vndocs
 vndocs doctor
 ```
 
 | AI Agent / IDE | Entry files | Integration |
 | --- | --- | --- |
-| **Claude Code** | [SKILL.md](SKILL.md) | Point to `SKILL.md` or install the ZIP built by `vndocs package` |
+| **Claude Code** | [SKILL.md](SKILL.md) | Point to `SKILL.md` or install the ZIP built by `vndocs package` (extract into `~/.claude/skills/vietnamese-docx/` or `.claude/skills/vietnamese-docx/`) |
 | **OpenAI Codex / Cursor / Copilot / Windsurf / OpenCode** | [AGENTS.md](AGENTS.md), [SKILL.md](SKILL.md) | Open the repo as workspace (`AGENTS.md` auto-discovered) and invoke `vndocs` |
-| **Gemini CLI / Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Install via `npx skills add bGiaHuy/vietnamese-docs-style` or load `SKILL.md` / `AGENTS.md` |
+| **Gemini CLI / Antigravity** | [SKILL.md](SKILL.md), [AGENTS.md](AGENTS.md) | Install via `npx skills add bGiaHuy/vietnamese-docs-style` or load `SKILL.md` / `AGENTS.md` (or extract the ZIP into `~/.gemini/config/skills/vietnamese-docx/` or `.agents/skills/vietnamese-docx/`) |
 
 ## Usage
 

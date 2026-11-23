@@ -11,10 +11,11 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Pt
 
 try:
-    from . import build_docx, document_rules, validate_docx
+    from . import build_docx, document_rules, docx_package, validate_docx
 except ImportError:
     import build_docx
     import document_rules
+    import docx_package
     import validate_docx
 
 ALIGN_MAP = {
@@ -344,6 +345,7 @@ def generate_from_spec(spec, output_path, config=None):
 
 
 def main(argv=None):
+    docx_package.ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('input_source', nargs='?', help='JSON spec file path, or "-" to read from stdin')
     parser.add_argument('output_pos', nargs='?', help='Optional output .docx path (positional)')

@@ -5,9 +5,9 @@ import json
 from pathlib import Path
 
 try:
-    from .docx_package import read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
+    from .docx_package import ensure_utf8_stdio, read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
 except ImportError:
-    from docx_package import read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
+    from docx_package import ensure_utf8_stdio, read_package, stories, paragraphs, text_of, replace_span, xml_bytes, write_package
 
 
 def edit_docx(source, destination, edits, expected_sha256=None):
@@ -46,6 +46,7 @@ def edit_docx(source, destination, edits, expected_sha256=None):
 
 
 def main(argv=None):
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source')
     parser.add_argument('destination')

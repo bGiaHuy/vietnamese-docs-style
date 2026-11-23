@@ -7,6 +7,15 @@ bản hành chính theo NĐ30, **không** có năm trong số ký hiệu. Khi ng
 muốn đặt quy tắc chung bằng công văn hoặc quyết định cá biệt, nêu rủi ro sai
 hình thức thay vì soạn tiếp như bình thường.
 
+## Mục lục
+
+- Nguồn hiện hành (tra cứu ngày 2026-11-06)
+- Hình thức và ký hiệu (Điều 4 Luật 64/2025, sửa bởi Luật 87/2025)
+- Trang và trình bày
+- Phần mở đầu và căn cứ theo mẫu
+- Phần kết thúc
+- Viết hoa
+
 ## Nguồn hiện hành (tra cứu ngày 2026-11-06)
 
 | Văn bản | Nội dung | Ghi chú |

@@ -11,8 +11,10 @@ from docx.text.run import Run
 
 try:
     from .document_rules import load_rules, section_rules
+    from .docx_package import ensure_utf8_stdio
 except ImportError:
     from document_rules import load_rules, section_rules
+    from docx_package import ensure_utf8_stdio
 
 PLACEHOLDER = re.compile(r'\[CẦN BỔ SUNG[^\]]*\]|\{\{[^{}]+\}\}', re.I)
 
@@ -270,6 +272,7 @@ def validate_doc(filepath, profile='administrative', config=None, draft=False):
 
 
 def main(argv=None):
+    ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath')
     parser.add_argument('--profile', default='administrative')

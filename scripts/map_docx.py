@@ -745,6 +745,7 @@ def format_markdown(mapping, *, include_paragraphs=False):
 
 
 def main(argv=None):
+    docx_package.ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath', help='Input DOCX path')
     parser.add_argument('--format', choices=('json', 'markdown'), default='json')

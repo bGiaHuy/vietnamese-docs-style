@@ -1515,6 +1515,7 @@ def _load_plan(spec):
 
 
 def main(argv=None):
+    docx_package.ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('source', help='Source DOCX path (preserved unmodified)')
     parser.add_argument('destination', help='Destination DOCX path')

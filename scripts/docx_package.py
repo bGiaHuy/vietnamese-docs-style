@@ -1,6 +1,7 @@
 """Minimal OOXML text edits; untouched ZIP members stay byte-for-byte identical."""
 import hashlib
 import os
+import sys
 import tempfile
 from pathlib import Path
 from zipfile import ZipFile, BadZipFile
@@ -9,6 +10,17 @@ from lxml import etree
 
 W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 NS = {'w': W}
+
+
+def ensure_utf8_stdio():
+    """Reconfigure stdout/stderr to UTF-8 to avoid Windows cp1252 JSON print errors."""
+    for stream in (sys.stdout, sys.stderr):
+        reconfigure = getattr(stream, 'reconfigure', None)
+        if callable(reconfigure):
+            try:
+                reconfigure(encoding='utf-8', errors='replace')
+            except (AttributeError, ValueError, OSError):
+                pass
 
 
 def read_package(source):

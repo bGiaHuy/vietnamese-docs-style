@@ -163,6 +163,7 @@ def normalize_encoding(source, destination):
 
 
 def main(argv=None):
+    docx_package.ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('filepath', help='DOCX file to inspect')
     parser.add_argument('--normalize-output', help='Write losslessly normalized DOCX (fixes Ð/ð encoding) to path')

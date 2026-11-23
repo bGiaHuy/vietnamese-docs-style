@@ -6,8 +6,9 @@ import tempfile
 from pathlib import Path
 
 try:
-    from . import map_docx, render_docx
+    from . import docx_package, map_docx, render_docx
 except ImportError:
+    import docx_package
     import map_docx
     import render_docx
 
@@ -575,6 +576,7 @@ def diff_layout(
 
 
 def main(argv=None):
+    docx_package.ensure_utf8_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('before_docx', help='Original DOCX path before layout edit')
     parser.add_argument('after_docx', help='Edited DOCX path after layout edit')

@@ -535,11 +535,116 @@ def test_skill_routes_only_to_existing_references():
     import re
     root = Path(__file__).resolve().parents[1]
     skill = (root / 'SKILL.md').read_text(encoding='utf-8')
-    paths = set(re.findall(r'`(references/[\w./-]+\.md)`', skill))
+    paths = set(re.findall(r'\]\((references/[\w./-]+\.md)\)', skill))
     assert {'references/party-documents.md', 'references/legal-normative-documents.md',
             'references/administrative-doc-types-nd30.md',
             'references/administrative-writing-style.md'} <= paths
     assert all((root / path).is_file() for path in paths)
+    actual_refs = {f'references/{p.name}' for p in (root / 'references').glob('*.md')}
+    assert paths == actual_refs
+    assert not re.search(r'(?:references|scripts|assets)\\', skill)
+
+
+def test_skill_conforms_to_anthropic_spec():
+    import re
+    import yaml
+
+    root = Path(__file__).resolve().parents[1]
+    skill = (root / 'SKILL.md').read_text(encoding='utf-8')
+    fm_match = re.match(r'^---\r?\n(.*?)\r?\n---\r?\n(.*)$', skill, re.S)
+    assert fm_match is not None
+    fm = yaml.safe_load(fm_match.group(1))
+    body = fm_match.group(2)
+
+    assert isinstance(fm.get('name'), str)
+    assert re.fullmatch(r'[a-z0-9-]+', fm['name'])
+    assert 1 <= len(fm['name']) <= 64
+
+    desc = fm.get('description', '').strip()
+    assert desc and len(desc) <= 1024
+    assert not re.search(r'<[^>]+>', desc)
+
+    compat = fm.get('compatibility', '').strip()
+    assert compat and len(compat) <= 500
+
+    assert len(body.splitlines()) < 500
+    assert 'source-documents/' not in skill
+
+    for ref_path in sorted((root / 'references').glob('*.md')):
+        ref_text = ref_path.read_text(encoding='utf-8')
+        assert 'source-documents/' not in ref_text, ref_path.name
+        lines = ref_text.splitlines()
+        if len(lines) > 100:
+            assert any(line.strip() == '## Mục lục' for line in lines[:30]), ref_path.name
+
+
+def test_packaged_zip_cli_runs_standalone(tmp_path):
+    import subprocess
+    import sys
+    from zipfile import ZipFile
+    from package_skill import package_skill
+
+    root = Path(__file__).resolve().parents[1]
+    zip_path = tmp_path / 'vietnamese-docx.zip'
+    result = package_skill(root, zip_path)
+    assert result['skill_name'] == 'vietnamese-docx'
+
+    with ZipFile(zip_path) as archive:
+        names = archive.namelist()
+        assert all(name.startswith('vietnamese-docx/') for name in names)
+        assert 'vietnamese-docx/SKILL.md' in names
+        assert 'vietnamese-docx/scripts/cli.py' in names
+        assert 'vietnamese-docx/README.md' not in names
+        assert 'vietnamese-docx/pyproject.toml' not in names
+        assert not any('source-documents' in name for name in names)
+        archive.extractall(tmp_path / 'unpacked')
+
+    skill_dir = tmp_path / 'unpacked/vietnamese-docx'
+    help_proc = subprocess.run(
+        [sys.executable, 'scripts/cli.py', '--help'],
+        cwd=skill_dir,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    assert help_proc.returncode == 0, help_proc.stderr
+    assert 'Vietnamese DOCX' in help_proc.stdout
+
+    doctor_proc = subprocess.run(
+        [sys.executable, 'scripts/cli.py', 'doctor'],
+        cwd=skill_dir,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    assert doctor_proc.returncode in (0, 2), doctor_proc.stderr
+    doctor_data = json.loads(doctor_proc.stdout)
+    assert doctor_data['status'] in ('ok', 'partial')
+
+
+def test_cli_handles_vietnamese_stdout_under_cp1252(tmp_path):
+    import os
+    import subprocess
+    import sys
+
+    root = Path(__file__).resolve().parents[1]
+    tpl_dir = root / 'assets/templates'
+    values = json.loads((tpl_dir / 'party-resolution.values.json').read_text(encoding='utf-8-sig'))
+    filled = tmp_path / 'party-filled.docx'
+    fill_template(tpl_dir / 'party-resolution.docx', filled, values)
+
+    env = {**os.environ, 'PYTHONIOENCODING': 'cp1252'}
+    rules = str(tpl_dir / 'party-resolution.rules.json')
+    for cmd in (
+        [sys.executable, 'scripts/cli.py', 'validate', str(filled), '--profile', 'party', '--config', rules],
+        [sys.executable, 'scripts/validate_docx.py', str(filled), '--profile', 'party', '--config', rules],
+    ):
+        proc = subprocess.run(cmd, cwd=root, env=env, capture_output=True, check=False)
+        stderr_text = proc.stderr.decode('utf-8', errors='replace')
+        assert proc.returncode == 0, stderr_text
+        assert 'UnicodeEncodeError' not in stderr_text
+        data = json.loads(proc.stdout.decode('utf-8'))
+        assert data['status'] == 'pass'
 
 
 def test_validation_benchmark_matches_published_json():
