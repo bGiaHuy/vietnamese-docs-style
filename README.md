@@ -91,11 +91,11 @@ Vì trình duyệt trên GitHub không hiển thị trực tiếp nội dung fil
 | :---: | :---: | :---: |
 | ![Công văn NĐ30 trang 1](docs/images/examples/administrative-dispatch-p1.png) | ![Công văn NĐ30 trang 2](docs/images/examples/administrative-dispatch-p2.png) | ![Công văn NĐ30 trang 3](docs/images/examples/administrative-dispatch-p3.png) |
 
-**Nghị quyết Chi bộ QĐ 399-QĐ/TW & HD 05-HD/VPTW (4 trang · [Xem đủ / Tải `.docx`](assets/examples/README.md#3-nghị-quyết-chi-bộ-qđ-399-qđtw--hd-05-hdvptw-4-trang)):**
+**Báo cáo Chuyên đề Học thuật Sinh từ JSON (4 trang · [Xem đủ / Tải `.docx`](assets/examples/README.md#10-báo-cáo-chuyên-đề-học-thuật-sinh-tự-động-từ-json-4-trang)):**
 
-| Trang 1 — Header Đảng, `Số 06-NQ/CB`, Căn cứ & Phần I | Trang 2 — Phần II & Bảng phân công chuyên đề | Trang 3 — Bảng chuyên đề (tiếp) & Phần III | Trang 4 — Đoạn kết, `Nơi nhận:` gạch chân & `T/M CHI BỘ` |
+| Trang 1 — Đặt vấn đề & Mục 2.1 | Trang 2 — Bảng so sánh 5 Profile & Mục 2.2 | Trang 3 — Mục 3 & Bảng kết quả thực nghiệm | Trang 4 — Bảng thực nghiệm (tiếp) & Kết luận |
 | :---: | :---: | :---: | :---: |
-| ![Nghị quyết Đảng trang 1](docs/images/examples/party-resolution-p1.png) | ![Nghị quyết Đảng trang 2](docs/images/examples/party-resolution-p2.png) | ![Nghị quyết Đảng trang 3](docs/images/examples/party-resolution-p3.png) | ![Nghị quyết Đảng trang 4](docs/images/examples/party-resolution-p4.png) |
+| ![JSON Báo cáo chuyên đề trang 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Báo cáo chuyên đề trang 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Báo cáo chuyên đề trang 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Báo cáo chuyên đề trang 4](docs/images/examples/from-json-academic-report-p4.png) |
 
 **Đề thi Kết thúc Học phần Chính thức + Ma trận CLO (3 trang · [Xem đủ / Tải `.docx`](assets/examples/README.md#4-đề-thi-kết-thúc-học-phần-chính-thức--ma-trận-clo-3-trang)):**
 
@@ -109,14 +109,8 @@ Vì trình duyệt trên GitHub không hiển thị trực tiếp nội dung fil
 | :---: | :---: | :---: |
 | ![Biên bản họp trang 1](docs/images/examples/office-minutes-p1.png) | ![Biên bản họp trang 2](docs/images/examples/office-minutes-p2.png) | ![Biên bản họp trang 3](docs/images/examples/office-minutes-p3.png) |
 
-**Báo cáo Chuyên đề Học thuật Sinh từ JSON (4 trang · [Xem đủ / Tải `.docx`](assets/examples/README.md#10-báo-cáo-chuyên-đề-học-thuật-sinh-tự-động-từ-json-4-trang)):**
-
-| Trang 1 — Đặt vấn đề & Mục 2.1 | Trang 2 — Bảng so sánh 5 Profile & Mục 2.2 | Trang 3 — Mục 3 & Bảng kết quả thực nghiệm | Trang 4 — Bảng thực nghiệm (tiếp) & Kết luận |
-| :---: | :---: | :---: | :---: |
-| ![JSON Báo cáo chuyên đề trang 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Báo cáo chuyên đề trang 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Báo cáo chuyên đề trang 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Báo cáo chuyên đề trang 4](docs/images/examples/from-json-academic-report-p4.png) |
-
 <details>
-<summary>Xem thêm ảnh các mẫu còn lại: Đề cương luận văn (4 trang), Báo cáo ngắn (3 trang), Công văn JSON (3 trang), Nghị quyết JSON (3 trang)</summary>
+<summary>Xem thêm ảnh các mẫu còn lại: Đề cương luận văn (4 trang), Báo cáo ngắn (3 trang), Công văn JSON (3 trang), Nghị quyết Chi bộ (4 trang), Nghị quyết JSON (3 trang)</summary>
 
 **5. Đề cương nghiên cứu luận văn ([Xem trong gallery](assets/examples/README.md#5-đề-cương-nghiên-cứu-luận-văn-thạc-sĩ-4-trang) — 4 trang):**
 
@@ -135,6 +129,12 @@ Vì trình duyệt trên GitHub không hiển thị trực tiếp nội dung fil
 | Trang 1 — Mở đầu & Mục I, II | Trang 2 — Bảng danh mục 7 nhóm hồ sơ nộp lưu | Trang 3 — Mục III & Khối Nơi nhận / Ký |
 | :---: | :---: | :---: |
 | ![JSON Công văn NĐ30 trang 1](docs/images/examples/from-json-nd30-dispatch-p1.png) | ![JSON Công văn NĐ30 trang 2](docs/images/examples/from-json-nd30-dispatch-p2.png) | ![JSON Công văn NĐ30 trang 3](docs/images/examples/from-json-nd30-dispatch-p3.png) |
+
+**Nghị quyết Chi bộ QĐ 399-QĐ/TW & HD 05-HD/VPTW (4 trang · [Xem đủ / Tải `.docx`](assets/examples/README.md#3-nghị-quyết-chi-bộ-qđ-399-qđtw--hd-05-hdvptw-4-trang)):**
+
+| Trang 1 — Header Đảng, `Số 06-NQ/CB`, Căn cứ & Phần I | Trang 2 — Phần II & Bảng phân công chuyên đề | Trang 3 — Bảng chuyên đề (tiếp) & Phần III | Trang 4 — Đoạn kết, `Nơi nhận:` gạch chân & `T/M CHI BỘ` |
+| :---: | :---: | :---: | :---: |
+| ![Nghị quyết Đảng trang 1](docs/images/examples/party-resolution-p1.png) | ![Nghị quyết Đảng trang 2](docs/images/examples/party-resolution-p2.png) | ![Nghị quyết Đảng trang 3](docs/images/examples/party-resolution-p3.png) | ![Nghị quyết Đảng trang 4](docs/images/examples/party-resolution-p4.png) |
 
 **9. Nghị quyết Chi bộ sinh từ JSON ([Xem trong gallery](assets/examples/README.md#9-nghị-quyết-chi-bộ-hd-05-hdvptw-sinh-tự-động-từ-json-3-trang) — 3 trang):**
 
@@ -165,12 +165,12 @@ Ngược lại, văn bản tiếng Việt trong công việc thực tế **chị
 
 | Profile | Nhóm tài liệu | Rule & Validator | Starter template / Cấu hình tham chiếu |
 | --- | --- | --- | --- |
+| `academic` | Báo cáo học thuật, tiểu luận, nghiên cứu, đề cương, đề thi | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx), [`exam-paper`](assets/templates/exam-paper.docx), [`thesis-research-outline`](assets/templates/thesis-research-outline.docx) |
+| `office` | Thông báo, ghi nhớ, báo cáo nội bộ văn phòng | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
+| `minutes-general` | Biên bản họp nhóm, họp nội bộ doanh nghiệp | Đầy đủ | [`office-minutes`](assets/templates/office-minutes.docx) |
+| `proposal` | Đề xuất dự án, kế hoạch công việc | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
 | `administrative` | Thông báo, công văn, quyết định, tờ trình thuộc NĐ30/2020 ([29 loại & ký hiệu](references/administrative-doc-types-nd30.md), [văn phong](references/administrative-writing-style.md)) | Đầy đủ | [`administrative-notice`](assets/templates/administrative-notice.docx), [`administrative-dispatch`](assets/templates/administrative-dispatch.docx) (Mẫu 1.4, 1.5 NĐ30); VBQPPL dùng kèm [`legal-normative.json`](assets/rules/legal-normative.json) ([tham chiếu](references/legal-normative-documents.md)) |
 | `party` | Văn bản của Đảng theo QĐ 399-QĐ/TW & HD 05-HD/VPTW ([tham chiếu](references/party-documents.md)) | Builder & validator | [`party-resolution`](assets/templates/party-resolution.docx) |
-| `academic` | Báo cáo học thuật, tiểu luận, nghiên cứu, đề cương, đề thi | Đầy đủ | [`academic-short-report`](assets/templates/academic-short-report.docx), [`exam-paper`](assets/templates/exam-paper.docx), [`thesis-research-outline`](assets/templates/thesis-research-outline.docx) |
-| `minutes-general` | Biên bản họp nhóm, họp nội bộ doanh nghiệp | Đầy đủ | [`office-minutes`](assets/templates/office-minutes.docx) |
-| `office` | Thông báo, ghi nhớ, báo cáo nội bộ văn phòng | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
-| `proposal` | Đề xuất dự án, kế hoạch công việc | Builder & validator | Dựng qua `build_docx` hoặc mẫu tổ chức |
 | `minutes-administrative` | Biên bản thủ tục hành chính cụ thể | Rule lề/font/số trang | Chọn mẫu đúng thủ tục thực tế |
 | `custom` | Biểu mẫu `.docx` riêng của trường/cơ quan/công ty | Giữ mẫu; kiểm theo `--config` | Người dùng cung cấp ([ví dụ config](assets/rules/custom-example.json)) |
 
@@ -265,6 +265,7 @@ vndocs render artifacts/demo/office-filled.docx --png
 
 - **Sinh DOCX từ JSON đa profile + tự kiểm tra ngay:**
   ```bash
+  vndocs generate assets/schemas/examples/academic-report.json artifacts/bao-cao-hoc-thuat.docx --validate
   vndocs generate assets/schemas/examples/nd30-dispatch.json artifacts/cong-van.docx --validate
   vndocs generate assets/schemas/examples/party-resolution.json artifacts/nq-chibo.docx --validate
   ```
@@ -427,15 +428,15 @@ Because GitHub does not render `.docx` files inline in the browser, click the **
 | 10 | [View JSON-Generated Academic Research Report](assets/examples/README.md#10-báo-cáo-chuyên-đề-học-thuật-sinh-tự-động-từ-json-4-trang) | `academic` | **4 pages** | [`academic-report.json`](assets/schemas/examples/academic-report.json) | [Download `.docx`](assets/examples/from-json-academic-report.docx?raw=1) |
 
 <details>
-<summary>Preview rendered pages: Administrative (NĐ30), Party (HD05), Academic, Exam, Thesis & Portrait+Landscape Minutes</summary>
+<summary>Preview rendered pages: Administrative (NĐ30), Academic, Exam, Portrait+Landscape Minutes & Party (HD05)</summary>
 
 | ND30 Dispatch — Page 1 | ND30 Dispatch — Page 2 (6-Unit Table) | ND30 Dispatch — Page 3 (Recipients & Signer) |
 | :---: | :---: | :---: |
 | ![ND30 Dispatch Page 1](docs/images/examples/administrative-dispatch-p1.png) | ![ND30 Dispatch Page 2](docs/images/examples/administrative-dispatch-p2.png) | ![ND30 Dispatch Page 3](docs/images/examples/administrative-dispatch-p3.png) |
 
-| Party Resolution — Page 1 | Party Resolution — Page 2 | Party Resolution — Page 3 | Party Resolution — Page 4 |
+| JSON Academic Report — Page 1 | JSON Academic Report — Page 2 (Profile Table) | JSON Academic Report — Page 3 (A/B Table) | JSON Academic Report — Page 4 (Conclusions) |
 | :---: | :---: | :---: | :---: |
-| ![Party Resolution Page 1](docs/images/examples/party-resolution-p1.png) | ![Party Resolution Page 2](docs/images/examples/party-resolution-p2.png) | ![Party Resolution Page 3](docs/images/examples/party-resolution-p3.png) | ![Party Resolution Page 4](docs/images/examples/party-resolution-p4.png) |
+| ![JSON Academic Report Page 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Academic Report Page 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Academic Report Page 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Academic Report Page 4](docs/images/examples/from-json-academic-report-p4.png) |
 
 | Exam Paper — Page 1 | Exam Paper — Page 2 (Data & CLO Matrix) | Exam Paper — Page 3 (End & Signers) |
 | :---: | :---: | :---: |
@@ -445,9 +446,9 @@ Because GitHub does not render `.docx` files inline in the browser, click the **
 | :---: | :---: | :---: |
 | ![Office Minutes Page 1](docs/images/examples/office-minutes-p1.png) | ![Office Minutes Page 2](docs/images/examples/office-minutes-p2.png) | ![Office Minutes Page 3](docs/images/examples/office-minutes-p3.png) |
 
-| JSON Academic Report — Page 1 | JSON Academic Report — Page 2 (Profile Table) | JSON Academic Report — Page 3 (A/B Table) | JSON Academic Report — Page 4 (Conclusions) |
+| Party Resolution — Page 1 | Party Resolution — Page 2 | Party Resolution — Page 3 | Party Resolution — Page 4 |
 | :---: | :---: | :---: | :---: |
-| ![JSON Academic Report Page 1](docs/images/examples/from-json-academic-report-p1.png) | ![JSON Academic Report Page 2](docs/images/examples/from-json-academic-report-p2.png) | ![JSON Academic Report Page 3](docs/images/examples/from-json-academic-report-p3.png) | ![JSON Academic Report Page 4](docs/images/examples/from-json-academic-report-p4.png) |
+| ![Party Resolution Page 1](docs/images/examples/party-resolution-p1.png) | ![Party Resolution Page 2](docs/images/examples/party-resolution-p2.png) | ![Party Resolution Page 3](docs/images/examples/party-resolution-p3.png) | ![Party Resolution Page 4](docs/images/examples/party-resolution-p4.png) |
 
 </details>
 
@@ -461,7 +462,7 @@ In practice, Vietnamese documents follow **strict statutory and institutional ru
 
 ## Key Features
 
-- Context-routed formatting across 8 profiles (`administrative`, `party`, `academic`, `minutes-general`, `office`, `proposal`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
+- Context-routed formatting across 8 profiles (`academic`, `office`, `minutes-general`, `proposal`, `administrative`, `party`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
 - Declarative multi-profile JSON generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), `{{token}}` template filling (`vndocs fill`), and SHA256-verified slot patching (`vndocs edit`) preserving untouched ZIP members.
 - Controlled layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`).
 - Template inspection and lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.

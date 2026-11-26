@@ -1,0 +1,309 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vietnamese-docs-style.local/schemas/independent-case.schema.json",
+  "title": "Vietnamese DOCX Independent Evaluation Case Schema",
+  "description": "Pre-registered schema for validation (val-v1) and sealed held-out (test-sealed-v1) evaluation cases.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "case_id",
+    "split",
+    "taxonomy_group",
+    "length_tier",
+    "instruction_type",
+    "expected_outcome",
+    "near_boundary_valid",
+    "provenance",
+    "source_docx_relpath",
+    "prompt_vi",
+    "grading"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "case_id": {
+      "type": "string",
+      "pattern": "^(VAL|SEAL)-[A-E][0-9]{2}_[a-z0-9_]+$"
+    },
+    "split": {
+      "type": "string",
+      "enum": ["val-v1", "test-sealed-v1"]
+    },
+    "taxonomy_group": {
+      "type": "string",
+      "enum": ["A", "B", "C", "D", "E"]
+    },
+    "length_tier": {
+      "type": "string",
+      "enum": ["short", "medium", "long", "very_long"]
+    },
+    "instruction_type": {
+      "type": "string",
+      "enum": ["descriptive", "inferential"]
+    },
+    "expected_outcome": {
+      "type": "string",
+      "enum": ["edit", "refuse"]
+    },
+    "near_boundary_valid": {
+      "type": "boolean"
+    },
+    "out_of_scope_for_vndocs": {
+      "type": "boolean",
+      "default": false
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_category",
+        "authoring_software",
+        "source_cluster_id",
+        "license_or_status",
+        "pii_redacted",
+        "created_without_vndocs_builders"
+      ],
+      "properties": {
+        "source_category": {
+          "type": "string",
+          "enum": [
+            "gov_portal_nd30",
+            "legal_normative",
+            "party_document",
+            "university_academic",
+            "enterprise_office",
+            "public_open_template",
+            "author_manual_office"
+          ]
+        },
+        "authoring_software": {
+          "type": "string",
+          "enum": [
+            "microsoft_word",
+            "google_docs",
+            "libreoffice_writer",
+            "wps_office",
+            "mixed_or_unknown"
+          ]
+        },
+        "source_cluster_id": {
+          "type": "string",
+          "minLength": 2,
+          "description": "Disjoint agency/template identifier used to verify zero overlap between val-v1 and test-sealed-v1."
+        },
+        "license_or_status": {
+          "type": "string",
+          "minLength": 2
+        },
+        "pii_redacted": {
+          "type": "boolean"
+        },
+        "created_without_vndocs_builders": {
+          "type": "boolean",
+          "const": true
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "source_docx_relpath": {
+      "type": "string",
+      "minLength": 5
+    },
+    "source_docx_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "attachments": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["kind", "relpath"],
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": ["screenshot_png", "reference_image", "rules_json"]
+          },
+          "relpath": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$"
+          },
+          "capture_method": {
+            "type": "string",
+            "enum": ["os_viewer_crop", "rendered_page_crop", "original_asset", "other"]
+          }
+        }
+      }
+    },
+    "prompt_vi": {
+      "type": "string",
+      "minLength": 15
+    },
+    "independent_solvability_verified": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["positive_non_vndocs_verified", "negative_mutation_verified"],
+      "properties": {
+        "positive_non_vndocs_verified": { "type": "boolean" },
+        "positive_method": { "type": "string" },
+        "negative_mutation_verified": { "type": "boolean" },
+        "negative_mutation_desc": { "type": "string" }
+      }
+    },
+    "grading": {
+      "type": "object",
+      "properties": {
+        "target_kind": {
+          "type": "string",
+          "enum": ["table", "image", "paragraph", "merge_runs", "style", "section", "paginate", "multi", "out_of_scope"]
+        },
+        "refusal_reason": { "type": "string" },
+        "target_ordinal": { "type": "integer", "minimum": 1 },
+        "target_image_ordinal": { "type": "integer", "minimum": 1 },
+        "target_section_index": { "type": "integer", "minimum": 1 },
+        "target_paragraph_ordinals": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1 }
+        },
+        "target_paragraph_text_match": { "type": "string" },
+        "target_style_name": { "type": "string" },
+        "expected_total_width_cm": { "type": "number", "minimum": 0.1 },
+        "expected_width_min_cm": { "type": "number", "minimum": 0.1 },
+        "expected_width_max_cm": { "type": "number", "minimum": 0.1 },
+        "expected_width_max_drift_cm": { "type": "number", "minimum": 0.0 },
+        "width_tolerance_cm": { "type": "number", "minimum": 0.05 },
+        "expected_col_widths_cm": {
+          "type": "array",
+          "items": { "type": "number", "minimum": 0.1 }
+        },
+        "col_tolerance_cm": { "type": "number", "minimum": 0.01 },
+        "expected_col_widths_pct": {
+          "type": "array",
+          "items": { "type": "number", "minimum": 0.1 }
+        },
+        "pct_tolerance": { "type": "number", "minimum": 0.1 },
+        "check_grid_span_tcw": { "type": "boolean" },
+        "expected_alignment": {
+          "type": "string",
+          "enum": ["left", "center", "right"]
+        },
+        "max_overflow_right_mm": { "type": "number", "minimum": 0.0 },
+        "expected_cell_margins_cm": {
+          "type": "object",
+          "properties": {
+            "top": { "type": "number" },
+            "bottom": { "type": "number" },
+            "left": { "type": "number" },
+            "right": { "type": "number" }
+          }
+        },
+        "margin_tolerance_cm": { "type": "number", "minimum": 0.005 },
+        "require_no_cell_margin_overrides": { "type": "boolean" },
+        "expected_data_font_pt": { "type": "number" },
+        "expected_header_font_pt": { "type": "number" },
+        "require_header_bold": { "type": "boolean" },
+        "expected_repeat_header": { "type": "boolean" },
+        "expected_cant_split": { "type": "boolean" },
+        "expected_border_style": { "type": "string" },
+        "expected_border_color": { "type": "string" },
+        "expected_header_shading_fill": { "type": "string" },
+        "expected_image_width_cm": { "type": "number" },
+        "image_width_tolerance_cm": { "type": "number" },
+        "max_aspect_ratio_delta_pct": { "type": "number" },
+        "expected_image_alignment": {
+          "type": "string",
+          "enum": ["left", "center", "right"]
+        },
+        "expected_para_align": {
+          "type": "string",
+          "enum": ["left", "center", "right", "both", "justify"]
+        },
+        "expected_first_line_cm_range": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": { "type": "number" }
+        },
+        "expected_line_rule": {
+          "type": "string",
+          "enum": ["exact", "auto", "atLeast"]
+        },
+        "expected_line_pt_range": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": { "type": "number" }
+        },
+        "min_para_spacing_pt": { "type": "number" },
+        "expected_keep_with_next": { "type": "boolean" },
+        "max_run_count_after": { "type": "integer", "minimum": 1 },
+        "expected_style_font": { "type": "string" },
+        "expected_style_size_pt": { "type": "number" },
+        "expected_style_color": { "type": "string" },
+        "expected_style_line_rule": { "type": "string" },
+        "expected_style_line_pt": { "type": "number" },
+        "expected_style_space_after_pt": { "type": "number" },
+        "require_document_xml_unchanged": { "type": "boolean" },
+        "expected_orientation": {
+          "type": "string",
+          "enum": ["portrait", "landscape"]
+        },
+        "expected_section_margins_cm": {
+          "type": "object",
+          "properties": {
+            "top": { "type": "number" },
+            "bottom": { "type": "number" },
+            "left": { "type": "number" },
+            "right": { "type": "number" }
+          }
+        },
+        "keep_section1_portrait": { "type": "boolean" },
+        "expected_max_pages": { "type": "integer", "minimum": 1 },
+        "require_no_orphan_signature": { "type": "boolean" },
+        "validate_profile": {
+          "type": "string",
+          "enum": ["administrative", "party", "academic", "legal_normative"]
+        },
+        "require_track_changes_tags": { "type": "boolean" },
+        "require_namespace_audit_pass": { "type": "boolean" },
+        "require_mc_alternate_preserved": { "type": "boolean" },
+        "require_header_footer_byte_identical": { "type": "boolean" },
+        "expected_pagination_ripple": { "type": "boolean" },
+        "require_layout_tables_unchanged": { "type": "boolean" },
+        "target_footer_part": { "type": "string" },
+        "expected_footer_text_contains": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "target_header_part": { "type": "string" },
+        "expected_header_text_contains": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "expected_footnote_font_pt": { "type": "number" },
+        "expected_footnote_font_name": { "type": "string" },
+        "target_nested_table_ordinal": { "type": "integer", "minimum": 1 },
+        "expected_nested_table_alignment": {
+          "type": "string",
+          "enum": ["left", "center", "right"]
+        },
+        "expected_nested_table_shading_fill": { "type": "string" },
+        "expected_hanging_indent_cm_range": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": { "type": "number" }
+        }
+      }
+    }
+  }
+}

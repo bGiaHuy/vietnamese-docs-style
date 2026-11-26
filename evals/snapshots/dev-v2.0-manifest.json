@@ -1,0 +1,69 @@
+{
+  "snapshot_id": "dev-v2.0",
+  "split_role": "development_historical_baseline",
+  "frozen_at": "2026-11-23T22:55:00.066696+07:00",
+  "git_provenance": {
+    "benchmark_publish_commit": "b2bb949fbaac170752eaf728cd823bda8374c8d0",
+    "release_tag_v0_4_0": "4ad2d0820ddcf0e48c07c501f3f999795fab35d8",
+    "head_at_freeze": "1696eee3dbe8a5671bc6b0f9e1ab1cc75074561b"
+  },
+  "scientific_scope": {
+    "corpus_composition": {
+      "total": 30,
+      "generated_by_vndocs_builders": 27,
+      "starter_templates": 3,
+      "external_in_the_wild": 0
+    },
+    "known_methodological_limitations": [
+      "Development overfitting: 27/30 DOCX inputs built by internal scripts/build_docx.py & generate_docx.py; prompts reference specific parameter targets.",
+      "Oracle and grader coupling: evals/run_layout_benchmark.py imports scripts/* (map_docx, diff_layout, ooxml_order, layout_edit, auto_paginate, validate_docx) to execute golden plans and grade submissions.",
+      "Synthetic distribution bias: clean OOXML without multi-tier Word/GDocs/WPS quirks, tblW=pct/auto inheritance, or >150 KB real-world documents.",
+      "Sequential SKILL.md evolution: Batch 1 (T01-T12) ran on SKILL.md 7,013 B, Batch 2 (T13-T18) on 8,827 B, and SKILL.md was edited post-hoc after observing T13/T17 token usage (9,484 B at freeze).",
+      "Accuracy ceiling saturation: both without_skill and with_skill achieved 25/25 (100%) hit rate on T01-T18, yielding Normalized Gain g = 0.0% and measuring efficiency rather than correctness lift."
+    ],
+    "valid_claims": [
+      "deterministic engine integration check (30/30)",
+      "efficiency comparison on T01-T18 (token/call/latency delta)"
+    ],
+    "disallowed_claims": [
+      "out-of-distribution generalization",
+      "independent accuracy superiority over unguided agents"
+    ]
+  },
+  "frozen_files": {
+    "evals/layout_edit_cases.json": {
+      "sha256": "2b12fdb03b2c801b0a46f44c2b96bfb400233694f47dedc6c484594517913897",
+      "bytes": 28572
+    },
+    "evals/run_layout_benchmark.py": {
+      "sha256": "40c468751fe4d339e0441c97583cb2add3165bacb0e223b9f08dbd3dd870e283",
+      "bytes": 130909
+    },
+    "evals/layout-benchmark-results.json": {
+      "sha256": "0ec33bc703f4881c7f97bd6f9ca41e1c59d89a7dd315bcae3d35d62cfea140a1",
+      "bytes": 237198
+    },
+    "evals/LAYOUT-BENCHMARK.md": {
+      "sha256": "5286742bd0042b2be02ea77c6022756574c1a8bbd532f8636e2014164174aa5d",
+      "bytes": 19136
+    }
+  },
+  "summary_metrics_frozen": {
+    "oracle_cases": 30,
+    "oracle_hits": 30,
+    "live_ab_trajectories": 50,
+    "live_ab_batch1_t01_t12_runs": 32,
+    "live_ab_batch2_t13_t18_runs": 18,
+    "arm_a_contamination": 0,
+    "without_skill_hit_rate": 1.0,
+    "with_skill_hit_rate": 1.0,
+    "normalized_gain_g": 0.0
+  },
+  "local_raw_archive": {
+    "path": "research/eval/archives/dev-v2.0-50-trajectories-sanitized.zip",
+    "gitignored": true,
+    "sha256": "8100ba685c482851e35dfaf47ba4c53460a92a19d36068dc61fee5799bfeb28b",
+    "bytes": 4539457,
+    "entry_count": 205
+  }
+}

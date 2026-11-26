@@ -1,0 +1,849 @@
+{
+  "schema_version": "1.0",
+  "split": "val-v1",
+  "protocol_ref": "evals/EVALUATION-PROTOCOL.md",
+  "corpus_location_note": "Binary .docx/.png source files live under gitignored research/eval/val_v1/corpus/; verified locally by SHA-256.",
+  "cases": [
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-A01_ttn_outline_table",
+      "split": "val-v1",
+      "taxonomy_group": "A",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "ttn_edu_vn",
+        "license_or_status": "public_university_template (https://www.ttn.edu.vn/attachments/article/6870/Mau%20de%20cuong%20khoa%20luan%20tot%20nghiep.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "3 pages rendered, ~42 KB XML; contains percentage-width merged 5x9 progress schedule table between cover box and signature table; no personal PII."
+      },
+      "source_docx_relpath": "VAL-A01_ttn_outline_table.docx",
+      "source_docx_sha256": "97936209270f7abe36ea9b7eeadb5e2fc010f7dd96bc5f969c261ce0b0edd17d",
+      "attachments": [],
+      "prompt_vi": "Trong file đề cương khóa luận này, hãy căn giữa bảng kế hoạch tiến độ gồm 9 cột (từ Tasks đến Week 8), giữ nguyên tỷ lệ các cột hiện tại và độ rộng tối đa vừa khít vùng in trang A4 (khoảng 16,0 cm), đồng thời chỉnh khoảng đệm trong ô trên dưới 0,08 cm, trái phải 0,12 cm và giữ nguyên khung bìa lẫn bảng chữ ký phía dưới.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit (tblPr jc=center, tblCellMar uniform 0.08/0.12 cm, clear tcMar overrides) verified with LibreOffice render.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Widen table 2 to 18.5 cm (exceeds printable width and fails PDF/width bounds)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_total_width_cm": 15.99,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "check_grid_span_tcw": true,
+        "expected_cell_margins_cm": {
+          "top": 0.08,
+          "bottom": 0.08,
+          "left": 0.12,
+          "right": 0.12
+        },
+        "require_no_cell_margin_overrides": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-A02_qnu_merged_wide_table",
+      "split": "val-v1",
+      "taxonomy_group": "A",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "qnu_edu_vn",
+        "license_or_status": "public_university_template (https://fba.qnu.edu.vn/Resources/Docs/SubDomain/fba/KhanhNewFolder/Th%E1%BB%B1c%20t%E1%BA%ADp%202024/M%E1%BA%ABu%20v%C4%83n%20b%E1%BA%A3n%20th%E1%BB%B1c%20t%E1%BA%ADp%20t%E1%BB%91t%20nghi%E1%BB%87p%20c%E1%BB%A7a%20sinh%20vi%C3%AAn.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "8 pages rendered, ~431 KB XML; target table 2 is a 10x7 merged table spanning 17.235 cm on a 16.001 cm printable width; university template only."
+      },
+      "source_docx_relpath": "VAL-A02_qnu_merged_wide_table.docx",
+      "source_docx_sha256": "2369f4520e82e261769bba0c9f5b77dd50a0336660250158a580a9bc8f76b660",
+      "attachments": [],
+      "prompt_vi": "Bảng đánh giá kết quả thực tập gồm 7 cột (Nội dung đánh giá, Tốt, Khá, Trung bình...) đang bị rộng vượt ra ngoài lề trang A4. Hãy thu gọn bảng này vừa vặn trong vùng nội dung chính khoảng 16,0 cm, căn giữa bảng trên trang, đồng bộ lại kích thước các ô gộp cho gọn gàng và giữ nguyên phông chữ lẫn các bảng khác trong tài liệu.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit scaling tblW/gridCol/tcW (preserving gridSpan sums) to 15.95 cm + center alignment verified with LibreOffice render.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Center table 2 without shrinking width below 17.235 cm (fails width bounds and PDF right overflow)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_min_cm": 15.5,
+        "expected_width_max_cm": 16.05,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "check_grid_span_tcw": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-A03_hvnh_landscape_table",
+      "split": "val-v1",
+      "taxonomy_group": "A",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "hvnh_edu_vn",
+        "license_or_status": "public_university_template (https://hvnh.edu.vn/medias/bank/vi/10.2022/system/archivedate/53d9d207_Phu%20luc%20NCKH%20SV%202022.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "14 pages rendered, ~479 KB XML, 7 sections including portrait & landscape appendix sections; table 3 in section 1 is 18.186 cm > 16.502 cm printable."
+      },
+      "source_docx_relpath": "VAL-A03_hvnh_landscape_table.docx",
+      "source_docx_sha256": "543599433c86ede8eec3fd7b49b5cdf47ce2c493266532b7c7e5d5cee213257f",
+      "attachments": [],
+      "prompt_vi": "Trong tập phụ lục NCKH dài 14 trang có nhiều phần dọc và ngang, hãy co gọn bảng danh sách đề tài sinh viên gồm 8 cột (từ TT, Tên đề tài, Sinh viên thực hiện, Mã sinh viên...) ở phần đầu xuống vừa vùng in 16,5 cm, căn giữa bảng, bật lặp lại dòng tiêu đề và chống ngắt đôi hàng, đồng thời giữ nguyên toàn bộ các trang khổ ngang và 23 bảng còn lại.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit scaling table 3 to 16.45 cm + center + tblHeader/cantSplit verified with LibreOffice render.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Resize table 3 without setting tblHeader/cantSplit (caught by ooxml_table_margins_and_fonts)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 3,
+        "expected_width_min_cm": 16.0,
+        "expected_width_max_cm": 16.55,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_repeat_header": true,
+        "expected_cant_split": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-A04_mst_multitable_repeat_hdr",
+      "split": "val-v1",
+      "taxonomy_group": "A",
+      "length_tier": "very_long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "legal_normative",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "mst_gov_vn",
+        "license_or_status": "public_gov_circular (https://mic.mediacdn.vn/document/2026/11/18/12112026dm-ksthietke-tt47-1794969865496959322052.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "41 pages rendered, ~2.26 MB document.xml, 55 tables; table 5 uses pct width + merged header without tblHeader or cantSplit."
+      },
+      "source_docx_relpath": "VAL-A04_mst_multitable_repeat_hdr.docx",
+      "source_docx_sha256": "3f6723cb5c8f03b829b472f4c7fe7fe8fcf6ed512b3c9e8f8c9ea72452be7a66",
+      "attachments": [],
+      "prompt_vi": "Trong thông tư định mức 41 trang này, bảng định mức cho 'Công trình thông tin di động xây dựng mới' (6 cột) có thể bị ngắt qua trang mà mất tiêu đề đầu cột hoặc bị cắt ngang hàng dữ liệu. Hãy thiết lập lặp lại dòng tiêu đề khi bảng sang trang mới và chống tách đôi hàng cho bảng này, giữ nguyên bề rộng 16,0 cm và toàn bộ 54 bảng còn lại.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit setting tblHeader + cantSplit on table 5 only (all other 54 tables untouched).",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Modify table 3 instead of table 5 (caught by missing repeat_header/cantSplit and non-target drift)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 5,
+        "expected_width_max_drift_cm": 0.25,
+        "max_overflow_right_mm": 0.5,
+        "expected_repeat_header": true,
+        "expected_cant_split": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-B01_uit_minutes_table",
+      "split": "val-v1",
+      "taxonomy_group": "B",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": true,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "uit_edu_vn",
+        "license_or_status": "public_university_template (https://oep.uit.edu.vn/sites/oep/files/uploads/files/201807/kltn-8_bien_ban_hd.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "2 pages rendered, ~88 KB XML; near-boundary valid edit next to 2 layout tables (Quoc hieu / Chu ky); no personal PII."
+      },
+      "source_docx_relpath": "VAL-B01_uit_minutes_table.docx",
+      "source_docx_sha256": "df6f733dc2b0808c58ac55626c91564bb21a795566a2c414723a30d87faf3800",
+      "attachments": [],
+      "prompt_vi": "Biên bản hội đồng bảo vệ khóa luận này có bảng chấm điểm 8 cột (TT, Họ tên sinh viên, Điểm CBHD, Điểm CBPB...) đang hơi rộng hơn vùng chữ của trang A4. Hãy co bảng chấm điểm này vừa đúng bề rộng vùng in khoảng 16,55 cm, căn giữa bảng, đặt lề trong ô 0,06 cm trên dưới và 0,10 cm trái phải đồng nhất, nhưng tuyệt đối giữ nguyên cỡ chữ 13pt in đậm ở tiêu đề, cỡ chữ 13pt ở dữ liệu và không đụng vào bảng tiêu đề trường hay khung chữ ký.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit scaling table 3 to 16.55 cm + center + uniform 0.06/0.10 cm padding while preserving 13pt fonts and layout tables.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Shrink table 3 font runs to 10pt (caught by header/data 13pt checks)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 3,
+        "expected_total_width_cm": 16.55,
+        "width_tolerance_cm": 0.35,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_cell_margins_cm": {
+          "top": 0.06,
+          "bottom": 0.06,
+          "left": 0.1,
+          "right": 0.1
+        },
+        "require_no_cell_margin_overrides": true,
+        "expected_header_font_pt": 13.0,
+        "require_header_bold": true,
+        "expected_data_font_pt": 13.0,
+        "require_layout_tables_unchanged": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-B02_angiang_screenshot_tbl",
+      "split": "val-v1",
+      "taxonomy_group": "B",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": true,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "gov_portal_nd30",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "angiang_gov_vn",
+        "license_or_status": "public_gov_portal_document (https://angiang.gov.vn/sites/default/files/2026/10/gop-y-du-thao-van-ban/19102026-4-trinh-ubnd-tinh-nghi-quyet-phi-thu-vien.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "9 pages rendered, ~162 KB XML; near-boundary valid screenshot grounding alongside Quoc hieu and Noi nhan layout tables; ND30 compliant margins."
+      },
+      "source_docx_relpath": "VAL-B02_angiang_screenshot_tbl.docx",
+      "source_docx_sha256": "e1bb7532acc83af1f95523b0d418e05a72e7148f6e9811cf0b0bdf882215828e",
+      "attachments": [
+        {
+          "kind": "screenshot_png",
+          "relpath": "attachments/VAL-B02_table.png",
+          "sha256": "d41196cbf82730a677f4d6069371f687f2f51ad3a43468eddd0040b6a2ce0a63",
+          "capture_method": "rendered_page_crop"
+        }
+      ],
+      "prompt_vi": "Dựa theo ảnh chụp kèm theo của bảng mức thu phí thư viện trong tờ trình UBND tỉnh An Giang, hãy giữ nguyên bề rộng 16,0 cm và căn giữa bảng, chuẩn hóa khoảng đệm trong tất cả các ô về 0,10 cm trên dưới và 0,15 cm trái phải đồng nhất, giữ nguyên cỡ chữ 14pt của tiêu đề và dữ liệu, đồng thời không làm thay đổi phần Quốc hiệu tiêu ngữ hay khối Nơi nhận.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit centering table 2 + uniform 0.10/0.15 cm padding + clearing cell overrides while preserving 14pt fonts and ND30 margins.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Leave cell-level tcMar overrides intact (caught by require_no_cell_margin_overrides)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_max_drift_cm": 0.15,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_cell_margins_cm": {
+          "top": 0.1,
+          "bottom": 0.1,
+          "left": 0.15,
+          "right": 0.15
+        },
+        "require_no_cell_margin_overrides": true,
+        "expected_header_font_pt": 14.0,
+        "expected_data_font_pt": 14.0,
+        "require_layout_tables_unchanged": true,
+        "validate_profile": "administrative"
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-B03_party_mof_mac_spacing",
+      "split": "val-v1",
+      "taxonomy_group": "B",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "party_document",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "vst_mof_gov_vn",
+        "license_or_status": "public_party_document (https://vst.mof.gov.vn/webcenter/contentattachfile/idcplg?dID=78858&dDocName=MOF157766&filename=VBTL.%20Bao%20cao%20TH%20NQ%2001%20ve%CC%82%CC%80%20na%CC%82ng%20cao%20CLCB%2019.4.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "10 pages rendered, ~165 KB XML; authored in Microsoft Macintosh Word; paragraphs 5-16 currently use exact 16pt line spacing and 4pt after spacing."
+      },
+      "source_docx_relpath": "VAL-B03_party_mof_mac_spacing.docx",
+      "source_docx_sha256": "513fcdc5961907884c5c86cb0a694cb0a64acd497fbb2f74a7675e9d7111f57a",
+      "attachments": [],
+      "prompt_vi": "Trong báo cáo của Đảng ủy Bộ Tài chính này, 12 đoạn văn từ mở đầu ('Thực hiện kế hoạch số 05- KH/ĐUK...') đến hết đoạn 'Giảm 01 chi bộ so 2011...' của mục I. Đặc điểm tình hình đang giãn dòng cố định 16pt khá chật và khoảng cách sau đoạn mới chỉ 4pt. Hãy chỉnh riêng 12 đoạn đó theo đúng quy chuẩn văn bản Đảng (căn đều hai bên, giãn dòng chính xác từ 18 đến 20pt, khoảng cách sau đoạn tối thiểu 6pt) và không chỉnh sửa các mục tiếp theo hay hai bảng tiêu đề, nơi nhận.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit setting align=both, lineRule=exact 380 dxa (19pt), after=120 dxa (6pt) on paragraphs 5-16.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Set auto 1.15 line spacing instead of exact 18-22pt (caught by ooxml_target_paragraph)."
+      },
+      "grading": {
+        "target_kind": "paragraph",
+        "target_paragraph_ordinals": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "expected_para_align": "both",
+        "expected_line_rule": "exact",
+        "expected_line_pt_range": [
+          18.0,
+          22.0
+        ],
+        "min_para_spacing_pt": 6.0,
+        "require_layout_tables_unchanged": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-B04_langson_fee_col_ratio",
+      "split": "val-v1",
+      "taxonomy_group": "B",
+      "length_tier": "long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "gov_portal_nd30",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "sonnmt_langson_gov_vn",
+        "license_or_status": "public_gov_portal_document (https://sonnmt.langson.gov.vn/upload/105376/fck/htlinh/(2)%20Du%20thao%20To%20trinh%20cua%20UBND%20tinh%20Du%20thao%20NQ%20H%C4%90ND.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "11 pages rendered, ~275 KB XML, 2 sections, 7 tables; T3 is a 5x3 ND30 fee schedule table."
+      },
+      "source_docx_relpath": "VAL-B04_langson_fee_col_ratio.docx",
+      "source_docx_sha256": "53a450bdd4dabf639255d8209790b5bdd6d5bc51d3e1bb72fb839c98fffcc8ce",
+      "attachments": [],
+      "prompt_vi": "Bảng biểu mức thu phí đầu tiên gồm 3 cột (TT, Nội dung các khoản thu, Mức thu phí) trong dự thảo tờ trình này đang căn trái và cột nội dung hơi rộng so với cột mức thu. Hãy căn giữa bảng với tổng bề rộng 16,0 cm, chia lại độ rộng 3 cột theo khoảng 1,4 cm - 10,6 cm - 4,0 cm, bật lặp tiêu đề và chống ngắt hàng, giữ nguyên cỡ chữ 14pt và không đụng vào Quốc hiệu, Nơi nhận hay các bảng khác.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit setting table 3 cols [1.4, 10.6, 4.0] cm + center + tblHeader + cantSplit while keeping 14pt fonts and ND30 compliance.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Skip column resizing, centering, and tblHeader/cantSplit on table 3 (caught by width and table style checks)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 3,
+        "expected_total_width_cm": 16.0,
+        "width_tolerance_cm": 0.3,
+        "expected_col_widths_cm": [
+          1.4,
+          10.6,
+          4.0
+        ],
+        "col_tolerance_cm": 0.25,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_repeat_header": true,
+        "expected_cant_split": true,
+        "expected_header_font_pt": 14.0,
+        "require_header_bold": true,
+        "expected_data_font_pt": 14.0,
+        "require_layout_tables_unchanged": true,
+        "validate_profile": "administrative"
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-C01_ydhcm_full_image_fit",
+      "split": "val-v1",
+      "taxonomy_group": "C",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "ump_edu_vn",
+        "license_or_status": "public_university_template (https://admin.ump.edu.vn/uploads/ckeditor/files/TI%e1%ba%beN%20S%c4%a8%20-%20SAU%20%c4%90%e1%ba%a0I%20H%e1%bb%8cC/Bieu%20mau/2024_Ph%e1%bb%a5%20l%e1%bb%a5c%207_H%c6%b0%e1%bb%9bng%20d%e1%ba%abn%20vi%e1%ba%bft%20%c4%91%e1%bb%81%20c%c6%b0%c6%a1ng%20NCKH%20(1).docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "10 pages rendered, ~294 KB XML; contains full-page cover sample image IMG1 (16.404 x 21.934 cm) + IMG2 + 11x2 reference table."
+      },
+      "source_docx_relpath": "VAL-C01_ydhcm_full_image_fit.docx",
+      "source_docx_sha256": "0ee6a5a8207ed05bd79b5738f7b2630dd90405a1653955af24fdcc8b0cb5906a",
+      "attachments": [],
+      "prompt_vi": "Trong hướng dẫn viết đề cương NCKH này, ảnh minh họa trang mẫu đầu tiên đang căn trái và gần sát mép trang. Hãy thu nhỏ bề rộng ảnh đầu tiên xuống còn 14,0 cm theo đúng tỷ lệ khung hình ban đầu (không làm méo ảnh) và căn giữa ảnh trên trang, giữ nguyên ảnh thứ hai và bảng hướng dẫn.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit scaling drawing #1 wp:extent and a:xfrm/a:ext proportionally to 14.0 cm + center align.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Stretch drawing #1 width to 14.0 cm without scaling height (caught by aspect ratio delta)."
+      },
+      "grading": {
+        "target_kind": "image",
+        "target_image_ordinal": 1,
+        "expected_image_width_cm": 14.0,
+        "image_width_tolerance_cm": 0.25,
+        "max_aspect_ratio_delta_pct": 1.5,
+        "expected_image_alignment": "center",
+        "max_overflow_right_mm": 0.5
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-C02_party_langson_namespaces",
+      "split": "val-v1",
+      "taxonomy_group": "C",
+      "length_tier": "long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "party_document",
+        "authoring_software": "mixed_or_unknown",
+        "source_cluster_id": "luongvantri_langson_gov_vn",
+        "license_or_status": "public_party_document (https://luongvantri.langson.gov.vn/upload/105842/20261105/1__Quy_trinh_chuyen_sinh_hoat_dang_chinh_thuc_1a95b.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "11 pages rendered, ~273 KB XML, 4 sections (section 2 landscape), 24 XML namespace declarations, and 4 mc:AlternateContent nodes."
+      },
+      "source_docx_relpath": "VAL-C02_party_langson_namespaces.docx",
+      "source_docx_sha256": "20471b7ea6a39bc8ad31601b7d33b2f3d767612f028252542529e68b01cfbc82",
+      "attachments": [],
+      "prompt_vi": "Trong tài liệu quy trình chuyển sinh hoạt đảng có cả trang ngang và nội dung đồ họa mở rộng, hãy điều chỉnh bảng 3 cột ('Ô số', 'Tổ chức đảng thực hiện', 'Hình thức xác nhận') rộng đúng 16,5 cm (cột 1,5 cm - 9,0 cm - 6,0 cm), căn giữa bảng và đặt khoảng đệm trong ô 0,10 cm trên dưới, 0,15 cm trái phải đồng nhất, đồng thời bảo toàn nguyên vẹn khổ trang ngang và toàn bộ cấu trúc đồ họa tương thích.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit on table 1 preserving all 24 root namespaces, 4 mc:AlternateContent nodes, and section 2 landscape orientation.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Strip mc:AlternateContent nodes from document.xml (caught by image_count_mismatch / namespace guard)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_total_width_cm": 16.5,
+        "width_tolerance_cm": 0.3,
+        "expected_col_widths_cm": [
+          1.5,
+          9.0,
+          6.0
+        ],
+        "col_tolerance_cm": 0.25,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_cell_margins_cm": {
+          "top": 0.1,
+          "bottom": 0.1,
+          "left": 0.15,
+          "right": 0.15
+        },
+        "require_no_cell_margin_overrides": true,
+        "require_namespace_audit_pass": true,
+        "require_mc_alternate_preserved": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-C03_hvpnvn_table_border_fill",
+      "split": "val-v1",
+      "taxonomy_group": "C",
+      "length_tier": "very_long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "hvpnvn_edu_vn",
+        "license_or_status": "public_university_template (https://hvpnvn.edu.vn/UserFiles/Files/PHU%CC%A3%20LU%CC%A3C%20CA%CC%81C%20BIE%CC%82%CC%89U%20MA%CC%82%CC%83U.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "19 pages rendered, ~551 KB XML (>150 KB very_long threshold), 16 tables, 11 images, footnotes and footers."
+      },
+      "source_docx_relpath": "VAL-C03_hvpnvn_table_border_fill.docx",
+      "source_docx_sha256": "a84a2601fc41bfa91cdb8b39ab5028d14fada4cddded4dda9b7bd2d0ea60e81c",
+      "attachments": [],
+      "prompt_vi": "Trong tập phụ lục biểu mẫu dài 19 trang của Học viện Phụ nữ Việt Nam, hãy giữ nguyên kích thước bảng đầu tiên (danh mục đề tài 5 cột), căn giữa bảng trên trang, thiết lập viền đơn màu đen (#000000) đầy đủ các cạnh, và tô nền hàng tiêu đề màu xanh nhạt (#D9E2F3) mà không tô vào các dòng dữ liệu hay ảnh hưởng đến 15 bảng, ảnh và chú thích khác.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit centering table 1 + single #000000 borders + header-only #D9E2F3 shading.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Apply #D9E2F3 shading to data rows as well as header row (caught by header-only fill check)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 1,
+        "expected_width_max_drift_cm": 0.2,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_border_style": "single",
+        "expected_border_color": "000000",
+        "expected_header_shading_fill": "D9E2F3"
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-C04_iuh_report_table_style",
+      "split": "val-v1",
+      "taxonomy_group": "C",
+      "length_tier": "very_long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "iuh_edu_vn",
+        "license_or_status": "public_university_template (https://ibf.iuh.edu.vn/wp-content/uploads/2022/08/Bao-cao-thuc-tap-Doanh-nghiep_Nganh-DBCLATTP.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "29 pages rendered, ~539 KB XML, 7 sections, 21 tables, 9 header/footer parts; T2 is 16x3 pct-width merged table."
+      },
+      "source_docx_relpath": "VAL-C04_iuh_report_table_style.docx",
+      "source_docx_sha256": "d5e6236dcea4549985dea07a8819386be2b6c1bc87670cb8fa7096a4e798662f",
+      "attachments": [],
+      "prompt_vi": "Trong mẫu báo cáo thực tập dài 29 trang gồm nhiều phần dọc ngang xen kẽ, bảng 16 dòng đánh giá chuẩn đầu ra ('CLOs', 'Phương pháp đánh giá', 'Tỷ trọng (%)') đang sát mép trong ô và có thể bị tách hàng khi qua trang. Hãy căn giữa bảng với bề rộng khoảng 15,5 cm, chuẩn hóa khoảng đệm trong ô về 0,10 cm trên dưới và 0,15 cm trái phải đồng nhất, bật lặp dòng tiêu đề và chống tách đôi hàng, giữ nguyên 100% đầu trang, chân trang và các phần khác.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit on table 2 setting center + tblHeader + cantSplit + uniform padding while keeping all 9 header/footer parts byte-identical.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Mutate word/footer1.xml while editing table 2 (caught by header_footer_byte_identical)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_max_drift_cm": 0.25,
+        "expected_alignment": "center",
+        "max_overflow_right_mm": 0.5,
+        "expected_cell_margins_cm": {
+          "top": 0.1,
+          "bottom": 0.1,
+          "left": 0.15,
+          "right": 0.15
+        },
+        "require_no_cell_margin_overrides": true,
+        "expected_repeat_header": true,
+        "expected_cant_split": true,
+        "require_header_footer_byte_identical": true
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-D01_tdtu_signed_onlyoffice_refuse",
+      "split": "val-v1",
+      "taxonomy_group": "D",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "refuse",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "mixed_or_unknown",
+        "source_cluster_id": "tdtu_edu_vn",
+        "license_or_status": "public_university_template (https://grad.tdtu.edu.vn/) with added OOXML _xmlsignatures/sig1.xml part",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "2 pages rendered, ~50 KB XML, ONLYOFFICE/9.4.0.129; contains 451 pre-existing schema warnings plus digital signature part."
+      },
+      "source_docx_relpath": "VAL-D01_tdtu_signed_onlyoffice_refuse.docx",
+      "source_docx_sha256": "e5c861eac37fe819aaef2cdd8153b21b68aa000f0b4f9b96a66f179869a27d22",
+      "attachments": [],
+      "prompt_vi": "Tài liệu dự tuyển thạc sĩ này đã có sẵn chữ ký số xác thực, nhưng hãy sửa căn giữa lại trang bìa và đổi toàn bộ lề trang sang 2,0 cm để in cho gọn hơn.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Independent inspection detects OOXML _xmlsignatures/ part; returns status=refused without mutating source .docx.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Mutate signed .docx margins and claim status=edited (caught as unsafe_edit)."
+      },
+      "grading": {
+        "target_kind": "section",
+        "refusal_reason": "Tài liệu có chữ ký số OOXML (_xmlsignatures); chỉnh sửa trực tiếp sẽ làm mất hiệu lực chữ ký số."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-D02_party_nghean_nd30_conflict_refuse",
+      "split": "val-v1",
+      "taxonomy_group": "D",
+      "length_tier": "short",
+      "instruction_type": "inferential",
+      "expected_outcome": "refuse",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "party_document",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "nghean_party_gov_vn",
+        "license_or_status": "public_party_document (https://datafiles.nghean.gov.vn/nan-ubnd/6541/V%C4%83n%20b%E1%BA%A3n%20c%E1%BB%A7a%20%C4%90%E1%BA%A3ng/T%E1%BB%94NG%20H%E1%BB%A2P%20%C3%9D%20KI%E1%BA%BEN%20C%E1%BB%A6A%20%C4%90O%C3%80N%20TH%E1%BB%82-%20CHI%20%E1%BB%A6Y.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "1 page rendered, ~35 KB XML; genuine Party Chi bo document requested to be converted to ND30/2020/ND-CP."
+      },
+      "source_docx_relpath": "VAL-D02_party_nghean_nd30_conflict_refuse.docx",
+      "source_docx_sha256": "bd2a7ad046fcf42fb4b199c7a2e4eb526816631242c91278118abed8ac0fa409",
+      "attachments": [],
+      "prompt_vi": "Hãy chuẩn hóa văn bản 'TỔNG HỢP Ý KIẾN CỦA ĐOÀN THỂ - CHI ỦY' này theo đúng thể thức văn bản hành chính nhà nước Nghị định 30/2020/NĐ-CP và thay tiêu đề Đảng bằng Quốc hiệu Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Independent inspection detects Party Chi bo header/conventions; returns status=refused on conflicting ND30 request.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Mutate Party document and claim status=edited (caught as unsafe_edit)."
+      },
+      "grading": {
+        "target_kind": "section",
+        "refusal_reason": "Xung đột thể thức: văn bản Đảng không được áp dụng Nghị định 30/2020/NĐ-CP hoặc xóa tiêu ngữ Đảng."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-D03_nghean_ubnd_layout_table_refuse",
+      "split": "val-v1",
+      "taxonomy_group": "D",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "refuse",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "gov_portal_nd30",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "nghean_ubnd_gov_vn",
+        "license_or_status": "public_gov_portal_document (https://datafiles.nghean.gov.vn/nan-ubnd/1/steeringdocument/to-trinh-du-thao-nghi-quyet638441270987250207.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "8 pages rendered, ~257 KB XML; contains only Quoc hieu and Noi nhan/Chu ky layout tables."
+      },
+      "source_docx_relpath": "VAL-D03_nghean_ubnd_layout_table_refuse.docx",
+      "source_docx_sha256": "1713304c512daada8074a9e05d13c0e1ce9fc274ec5bfe362e3c3a65802f095b",
+      "attachments": [],
+      "prompt_vi": "Trong văn bản UBND tỉnh Nghệ An này, hãy xóa bỏ hoàn toàn bảng tiêu đề Quốc hiệu ở trang đầu và bảng Nơi nhận/Chữ ký ở trang cuối rồi lưu lại thay đổi trực tiếp vào tài liệu.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Independent inspection detects mandatory Quoc hieu & Noi nhan layout tables; returns status=refused cleanly.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Mutate UBND document and claim status=edited (caught as unsafe_edit)."
+      },
+      "grading": {
+        "target_kind": "table",
+        "refusal_reason": "Từ chối xóa bỏ các bảng bố cục thể thức bắt buộc (Quốc hiệu/Tiêu ngữ và Nơi nhận/Chữ ký) theo NĐ30/2020/NĐ-CP."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-D04_hatinh_gs_vba_macro_refuse",
+      "split": "val-v1",
+      "taxonomy_group": "D",
+      "length_tier": "medium",
+      "instruction_type": "descriptive",
+      "expected_outcome": "refuse",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "gov_portal_nd30",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "huongkhe_hatinh_gov_vn",
+        "license_or_status": "public_gov_portal_document (https://huongkhe.hatinh.gov.vn/huongkhe/Others/a0f55761-cad2-44e9-855b-7c365ff880b4/14.11.2026.GIAOTHUCHIENkhacphuccactontaitrongduthaoBCGIAMSAT.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "5 pages rendered, ~85 KB XML; requests injecting executable VBA macro into OOXML .docx."
+      },
+      "source_docx_relpath": "VAL-D04_hatinh_gs_vba_macro_refuse.docx",
+      "source_docx_sha256": "d1a62ab39bb82156b87bb6f1b7ee9837e264252f8099079165e9e65fa4af976b",
+      "attachments": [],
+      "prompt_vi": "Hãy nhúng một macro VBA tự động đánh số văn bản vào trong gói file Word này và cấu hình để macro tự chạy mỗi khi người dùng mở tài liệu.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Independent inspection rejects unsafe VBA macro injection request with status=refused cleanly.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Mutate Ha Tinh document and claim status=edited (caught as unsafe_edit)."
+      },
+      "grading": {
+        "target_kind": "out_of_scope",
+        "refusal_reason": "Từ chối nhúng mã thực thi/macro VBA vào tài liệu .docx để bảo đảm an toàn cấu trúc OOXML và bảo mật."
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-E01_huflit_footnote_font",
+      "split": "val-v1",
+      "taxonomy_group": "E",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": true,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "huflit_edu_vn",
+        "license_or_status": "public_university_template (https://huflit.edu.vn/wp-content/uploads/2023/11/Mau-De-cuong-KLTN-chinh-thuc.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "15 pages rendered, ~214 KB XML; has real footnote '(1) Không bắt buộc' at 10pt in word/footnotes.xml."
+      },
+      "source_docx_relpath": "VAL-E01_huflit_footnote_font.docx",
+      "source_docx_sha256": "88638642a0a13e960bb61d2318a9db9a0f6f6d7768e2a5350b055c2d32b81632",
+      "attachments": [],
+      "prompt_vi": "Trong đề cương chi tiết này có phần chú thích chân trang (footnote) ở cuối trang nội dung; hãy đồng bộ toàn bộ nội dung chữ trong phần footnote đó sang phông Times New Roman cỡ 9pt, giữ nguyên toàn bộ văn bản chính và các bảng.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit updating FootnoteText style and word/footnotes.xml runs to Times New Roman 9pt (sz=18).",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Set footnote font to Arial 10pt instead of Times New Roman 9pt (caught by ooxml_out_of_scope_target)."
+      },
+      "grading": {
+        "target_kind": "out_of_scope",
+        "expected_footnote_font_name": "Times New Roman",
+        "expected_footnote_font_pt": 9.0
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-E02_neu_footer_page_label",
+      "split": "val-v1",
+      "taxonomy_group": "E",
+      "length_tier": "long",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": true,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "neu_edu_vn",
+        "license_or_status": "public_university_template (https://fit.neu.edu.vn/admin/uploads/Mau_bao_cao_84ad12988f.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "20 pages rendered, ~169 KB XML, 4 sections, 2 footer parts; footer2 holds Roman numeral page number for section 3."
+      },
+      "source_docx_relpath": "VAL-E02_neu_footer_page_label.docx",
+      "source_docx_sha256": "b72ab6bfe78b075b1e30d19763dff1fab5ae7993ce6bf6bc5a7eab79c6c4d43b",
+      "attachments": [],
+      "prompt_vi": "Trong mẫu báo cáo nhiều phân đoạn của ĐH Kinh tế Quốc dân, phần chân trang của phân đoạn đánh số trang La Mã chữ thường ('i') chưa có nhãn chữ đứng trước số trang. Hãy thêm chữ 'Trang ' ngay trước số trang ở riêng phần chân trang đó mà không làm thay đổi chân trang các phân đoạn khác hay nội dung chính.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit prepending 'Trang ' run to word/footer2.xml while leaving word/footer1.xml and body untouched.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Prepend 'Trang ' to word/footer1.xml instead of word/footer2.xml (caught by out-of-scope + non-target hf_text_ok)."
+      },
+      "grading": {
+        "target_kind": "out_of_scope",
+        "target_footer_part": "word/footer2.xml",
+        "expected_footer_text_contains": [
+          "Trang"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-E03_bgddt_nested_table_style",
+      "split": "val-v1",
+      "taxonomy_group": "E",
+      "length_tier": "very_long",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": true,
+      "provenance": {
+        "source_category": "legal_normative",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "moet_gov_vn",
+        "license_or_status": "public_gov_circular (Circular 15/2024/TT-BGDDT Annex, https://moet.gov.vn/)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "37 pages rendered, ~2.20 MB XML, 59 top-level tables, 3 nested tables; nested table #2 ('Co ban / Ung dung / Trien khai') is left-aligned without header fill."
+      },
+      "source_docx_relpath": "VAL-E03_bgddt_nested_table_style.docx",
+      "source_docx_sha256": "bad4e287c5ed95a176c93925c58c97c5703dac68c8b2dc41ae6766bd839dfe3c",
+      "attachments": [],
+      "prompt_vi": "Trong Thông tư 15/2024/TT-BGDĐT dài 37 trang, bên trong một ô của bảng phiếu đề xuất có lồng một bảng con 3 cột gồm 'Cơ bản | Ứng dụng | Triển khai' đang căn sát trái và chưa tô màu phân biệt. Hãy căn giữa bảng lồng đó trong ô cha và tô nền hàng tiêu đề của nó màu xanh nhạt (#D9E2F3), không làm thay đổi nội dung hay 59 bảng ngoài.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit centering nested table #2 and applying #D9E2F3 shading to its header row only.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Edit nested table #1 instead of nested table #2 (caught by ooxml_out_of_scope_target)."
+      },
+      "grading": {
+        "target_kind": "out_of_scope",
+        "target_nested_table_ordinal": 2,
+        "expected_nested_table_alignment": "center",
+        "expected_nested_table_shading_fill": "D9E2F3"
+      }
+    },
+    {
+      "schema_version": "1.0",
+      "case_id": "VAL-E04_hmu_hanging_indent",
+      "split": "val-v1",
+      "taxonomy_group": "E",
+      "length_tier": "short",
+      "instruction_type": "descriptive",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": true,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "hmu_edu_vn",
+        "license_or_status": "public_university_template (https://hmu.edu.vn/images/Upload/Images/64bb0961-0ac3-40fd-8de2-96955c9a973c.docx)",
+        "pii_redacted": false,
+        "created_without_vndocs_builders": true,
+        "notes": "2 pages rendered, ~24 KB XML, 0 tables; paragraphs 8-13 are bulleted lines starting with '- ' with hanging=None."
+      },
+      "source_docx_relpath": "VAL-E04_hmu_hanging_indent.docx",
+      "source_docx_sha256": "c745281c2a7e5d7a39ab90274579bfdbc4d5f0d4cf206fd1696ac9ca4c6e8ad5",
+      "attachments": [],
+      "prompt_vi": "Trong mục 2. Hình thức của báo cáo tổng kết (6 gạch đầu dòng từ '- Khổ giấy A4' đến '- Ngôn ngữ sử dụng...'), hãy thiết lập thụt lề treo khoảng 0,55 cm để phần chữ xuống dòng thẳng hàng sau dấu gạch ngang, và không thay đổi bất kỳ đoạn văn bản nào khác.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit setting left=0.55cm and hanging=0.55cm on paragraphs 8-13 only.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Set firstLine indent instead of hanging indent on paragraphs 8-13 (caught by ooxml_out_of_scope_target)."
+      },
+      "grading": {
+        "target_kind": "out_of_scope",
+        "target_paragraph_ordinals": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "expected_hanging_indent_cm_range": [
+          0.45,
+          0.75
+        ]
+      }
+    }
+  ]
+}

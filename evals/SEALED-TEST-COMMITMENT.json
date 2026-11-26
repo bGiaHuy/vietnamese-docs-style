@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "status": "pending_phase3_curation",
+  "sealed_split_id": "test-sealed-v1",
+  "protocol_doc": "evals/EVALUATION-PROTOCOL.md",
+  "case_schema": "evals/schemas/independent-case.schema.json",
+  "target_case_count": 30,
+  "taxonomy_quota": {
+    "A": 6,
+    "B": 6,
+    "C": 6,
+    "D": 6,
+    "E": 6
+  },
+  "storage_policy": "Stored strictly outside development workspace; unsealed exactly once after frozen_system_tag is set.",
+  "bundle_sha256": null,
+  "per_case_manifest_sha256": null,
+  "frozen_system_tag": null,
+  "frozen_system_commit_sha": null,
+  "committed_at": null,
+  "evaluated_at": null
+}

@@ -1,5 +1,8 @@
 # Layout Editing Benchmark Report (`evals/layout_edit_cases.json` v2.0)
 
+> [!IMPORTANT]
+> **Frozen Historical Development Baseline (`dev-v2.0`):** Benchmark này được đồng thiết kế trong quá trình phát triển `vndocs` (`27` tài liệu sinh từ builder nội bộ + `3` starter templates; oracle/grader dùng chung code với `scripts/`; `50` Live A/B trajectories trên `T01`–`T18` đạt `100%` hit rate ở cả hai arm / bão hòa trần, $g = 0.0\%$). Toàn bộ dữ liệu và số liệu lịch sử bên dưới được **giữ nguyên không chỉnh sửa** để làm baseline lịch sử và hồi quy kỹ thuật, **không** dùng làm bằng chứng tổng quát hóa trên tài liệu thực tế. Xem manifest đóng băng tại [snapshots/dev-v2.0-manifest.json](snapshots/dev-v2.0-manifest.json) và giao thức đánh giá độc lập tại [EVALUATION-PROTOCOL.md](EVALUATION-PROTOCOL.md).
+
 > **Scope & Methodology Note:** Self-authored benchmark designed for Vietnamese `.docx` workflows (Decree 30/2020/NĐ-CP layout protection, Party HD 05-HD/VPTW formatting, NFD Vietnamese, Word 365 namespaces, OOXML digital signatures). Cases `T01`–`T18` were evaluated in **50 isolated Live Agent A/B trajectories** (`without_skill` vs `with_skill`, `0` Arm-A contamination) alongside the deterministic oracle; extended cases `T19`–`T30` are verified by the **30-case deterministic oracle** (`100.0%` hit, `xml_ntpr = 1.0`) and have not yet been evaluated in Live Agent A/B runs. All local machine paths and session IDs are stripped from [evals/layout-benchmark-results.json](layout-benchmark-results.json).
 
 - Generated: `2026-11-22T21:26:23.682590+07:00`
