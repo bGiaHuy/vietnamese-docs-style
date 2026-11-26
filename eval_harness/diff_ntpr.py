@@ -191,9 +191,16 @@ def check_non_target_preservation(
     if "*" in allowed_hf:
         hf_text_ok = True
     elif allowed_hf:
+        # Allow newly split/unlinked header/footer parts that preserve the original text of an allowed part.
+        allowed_orig_texts = {b_hf[k]["text_nfc"] for k in allowed_hf if k in b_hf}
         hf_text_ok = (
             {k: v["text_nfc"] for k, v in b_hf.items() if k not in allowed_hf}
-            == {k: v["text_nfc"] for k, v in a_hf.items() if k not in allowed_hf}
+            == {
+                k: v["text_nfc"]
+                for k, v in a_hf.items()
+                if k not in allowed_hf
+                and not (k not in b_hf and v["text_nfc"] in allowed_orig_texts)
+            }
         )
     else:
         hf_text_ok = {k: v["text_nfc"] for k, v in b_hf.items()} == {k: v["text_nfc"] for k, v in a_hf.items()}

@@ -16,7 +16,7 @@ compatibility: >
   Microsoft Word on Windows for PDF/PNG visual verification.
 metadata:
   author: bGiaHuy
-  version: "0.4.0"
+  version: "0.4.1"
 ---
 
 # Vietnamese DOCX
@@ -104,11 +104,12 @@ Khi chỉnh sửa bảng, ảnh hoặc đoạn văn trên file `.docx` có sẵn
 2. **Định vị từ ảnh chụp (Screenshot Grounding):** nếu có ảnh minh họa, đọc ảnh rồi đối chiếu chữ/số cột/số dòng đặc trưng với đầu ra `map` trước. Chỉ chạy thêm `python scripts/cli.py render src.docx --png --annotate-marks` khi còn `≥ 2` ứng viên tương tự hoặc dữ liệu chữ từ `map` chưa đủ chốt. **Fail-closed:** nếu có `≥ 2` đối tượng giống hệt nhau về cấu trúc và nội dung mà ảnh bị crop không có tiêu đề hay số trang để phân biệt, **dừng lại hỏi người dùng**, không đoán.
 3. **Sửa có kiểm soát (`layout-edit` / `paginate`):** truyền JSON gồm 13 op hợp lệ (`table.scale_width`, `table.set_col_widths`, `table.set_alignment`, `table.set_cell_margins`, `table.set_font_size`, `table.set_pagination`, `table.set_borders`, `table.set_shading`, `image.scale`, `paragraph.set_format`, `paragraph.merge_runs`, `style.update`, `section.set_layout`) qua `python scripts/cli.py layout-edit src.docx dst.docx --plan ...` (hỗ trợ `--track-changes` để ghi vết revision). Với yêu cầu gom chữ ký rơi lẻ sang trang sau hoặc co gọn vừa `N` trang mà không cắt chữ, dùng `python scripts/cli.py paginate src.docx dst.docx --fix-orphan-signature --target-pages N --profile <name>`. Không sửa XML tự do bằng regex; với văn bản Đảng kiểm tra thêm [references/party-documents.md](references/party-documents.md).
 4. **Đo lại & Giới hạn vòng lặp (`diff-layout`):** chạy `python scripts/cli.py diff-layout src.docx dst.docx --target <anchor> --crop-dir ... [--cache-dir ...]` (hỗ trợ `--renderer word-win` trên máy Windows có Word) để kiểm tra kích thước thực sau render, tràn lề và nhảy trang ngoài target (`max_iter = 2`; sau 2 vòng chưa đạt thì dừng và báo số đo). Chi tiết CLI và schema ops xem [references/tooling.md](references/tooling.md).
+5. **Tác vụ OOXML ngoài phạm vi `layout-edit` (Out-of-Scope Fallback):** khi yêu cầu hợp lệ chạm vùng chưa có op trực tiếp (ví dụ: font/cỡ chữ `footnote`/`endnote`, sửa nhãn `header`/`footer` riêng một section, thụt lề treo `hanging`, bảng lồng `w:tbl//w:tbl`), không lặp `layout-edit`/`diff-layout` vô ích; sửa trực tiếp part XML tối thiểu qua `zipfile` + `lxml` (nếu sửa header/footer của riêng một section, nhớ tách liên kết `is_linked_to_previous` / nhân bản part cho các section sau giữ nguyên chữ gốc), rồi chạy `python scripts/cli.py normalize-ooxml src.docx dst.docx` để giữ đúng thứ tự thẻ con ECMA-376.
 
 ## Kiểm tra và bàn giao
 
 Text: rà dữ kiện, cấp đề mục, thứ tự và phạm vi yêu cầu.
-DOCX: theo checklist, dùng helper khi phù hợp và kiểm tra hiển thị thật:
+DOCX: chỉ nạp đúng 1 tệp `references/*.md` liên quan theo bảng routing, dùng helper khi phù hợp và kiểm tra có chọn lọc theo phạm vi sửa:
 
 ```bash
 python scripts/validate_docx.py output.docx --profile academic
@@ -118,8 +119,7 @@ Validator kiểm tra thuộc tính đã hỗ trợ trong từng section, style k
 body/bảng/header/footer; nhận `--config` cho mẫu và `--draft` cho bản nháp.
 Đọc [references/tooling.md](references/tooling.md) để hiểu pass/fail/partial và danh sách unchecked.
 Các thuộc tính chưa kiểm tra không được gọi là đã đạt.
-Render thật bằng `python scripts/render_docx.py output.docx --png` (hoặc `python scripts/cli.py render ... --png`); thiếu renderer
-phải báo chưa kiểm tra. Mở xem ảnh mọi trang trước khi kết luận bố cục đạt.
+Với tài liệu dài (`> 4` trang), ưu tiên đọc `map` dạng text và chỉ render/kiểm tra ảnh các trang có vùng vừa sửa (`±1` trang qua `diff-layout --crop-dir`); **không** render hay mở xem toàn bộ các trang. Bỏ qua bước render PNG cho ca từ chối (`refuse`), sửa footnote, hoặc thay đổi thuộc tính phi hình học; thiếu renderer phải báo chưa kiểm tra.
 
 Sửa lỗi làm sai nội dung/mất bố cục trước bàn giao. Trả file khi đã tạo file;
 nêu mẫu/chuẩn, trường thiếu và kiểm tra chưa thực hiện. Không gọi tài liệu

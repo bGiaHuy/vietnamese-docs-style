@@ -288,15 +288,15 @@
         "license_or_status": "public_party_document (https://vst.mof.gov.vn/webcenter/contentattachfile/idcplg?dID=78858&dDocName=MOF157766&filename=VBTL.%20Bao%20cao%20TH%20NQ%2001%20ve%CC%82%CC%80%20na%CC%82ng%20cao%20CLCB%2019.4.docx)",
         "pii_redacted": false,
         "created_without_vndocs_builders": true,
-        "notes": "10 pages rendered, ~165 KB XML; authored in Microsoft Macintosh Word; paragraphs 5-16 currently use exact 16pt line spacing and 4pt after spacing."
+        "notes": "10 pages rendered, ~165 KB XML; authored in Microsoft Macintosh Word; paragraphs 5-15 currently use exact 16pt line spacing and 4pt after spacing."
       },
       "source_docx_relpath": "VAL-B03_party_mof_mac_spacing.docx",
       "source_docx_sha256": "513fcdc5961907884c5c86cb0a694cb0a64acd497fbb2f74a7675e9d7111f57a",
       "attachments": [],
-      "prompt_vi": "Trong báo cáo của Đảng ủy Bộ Tài chính này, 12 đoạn văn từ mở đầu ('Thực hiện kế hoạch số 05- KH/ĐUK...') đến hết đoạn 'Giảm 01 chi bộ so 2011...' của mục I. Đặc điểm tình hình đang giãn dòng cố định 16pt khá chật và khoảng cách sau đoạn mới chỉ 4pt. Hãy chỉnh riêng 12 đoạn đó theo đúng quy chuẩn văn bản Đảng (căn đều hai bên, giãn dòng chính xác từ 18 đến 20pt, khoảng cách sau đoạn tối thiểu 6pt) và không chỉnh sửa các mục tiếp theo hay hai bảng tiêu đề, nơi nhận.",
+      "prompt_vi": "Trong báo cáo của Đảng ủy Bộ Tài chính này, 11 đoạn văn từ mở đầu ('Thực hiện kế hoạch số 05- KH/ĐUK...') đến hết đoạn 'Giảm 01 chi bộ so 2011...' của mục I. Đặc điểm tình hình đang giãn dòng cố định 16pt khá chật và khoảng cách sau đoạn mới chỉ 4pt. Hãy chỉnh riêng 11 đoạn đó theo đúng quy chuẩn văn bản Đảng (căn đều hai bên, giãn dòng chính xác từ 18 đến 20pt, khoảng cách sau đoạn tối thiểu 6pt) và không chỉnh sửa các mục tiếp theo hay hai bảng tiêu đề, nơi nhận.",
       "independent_solvability_verified": {
         "positive_non_vndocs_verified": true,
-        "positive_method": "Direct zipfile+lxml OOXML edit setting align=both, lineRule=exact 380 dxa (19pt), after=120 dxa (6pt) on paragraphs 5-16.",
+        "positive_method": "Direct zipfile+lxml OOXML edit setting align=both, lineRule=exact 380 dxa (19pt), after=120 dxa (6pt) on paragraphs 5-15.",
         "negative_mutation_verified": true,
         "negative_mutation_desc": "Set auto 1.15 line spacing instead of exact 18-22pt (caught by ooxml_target_paragraph)."
       },
@@ -313,8 +313,7 @@
           12,
           13,
           14,
-          15,
-          16
+          15
         ],
         "expected_para_align": "both",
         "expected_line_rule": "exact",

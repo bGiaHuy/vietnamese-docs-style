@@ -1090,3 +1090,158 @@ def test_runner_evaluate_and_val_registry_cap(tmp_path: Path) -> None:
     q_tr.write_text('{"type":"error","message":"You’ve hit your usage limit. Upgrade to Pro."}\n', encoding="utf-8")
     q_err.write_text("", encoding="utf-8")
     assert _is_codex_quota_error(q_tr, q_err) is True
+
+
+def test_diff_ntpr_allows_unlinked_footer_copy_preserving_original_text():
+    from lxml import etree
+
+    from eval_harness.diff_ntpr import check_non_target_preservation
+
+    empty_doc = etree.tostring(
+        etree.fromstring(b'<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body/></w:document>')
+    )
+    base_info = {
+        "paragraphs": [],
+        "tables": [],
+        "images": [],
+        "sections": [],
+        "notes_text_nfc": {},
+        "headers_footers": {
+            "word/footer1.xml": {"text_nfc": "Cover"},
+            "word/footer2.xml": {"text_nfc": "i"},
+        },
+    }
+    valid_after = {
+        **base_info,
+        "headers_footers": {
+            "word/footer1.xml": {"text_nfc": "Cover"},
+            "word/footer2.xml": {"text_nfc": "Trang i"},
+            "word/footer3.xml": {"text_nfc": "i"},
+        },
+    }
+    res_ok = check_non_target_preservation(
+        base_info,
+        valid_after,
+        {"word/document.xml": empty_doc},
+        {"word/document.xml": empty_doc},
+        target_kind="out_of_scope",
+        allow_header_footer_parts={"word/footer2.xml"},
+    )
+    assert res_ok["details"]["hf_text_ok"] is True
+
+    bad_after = {
+        **base_info,
+        "headers_footers": {
+            "word/footer1.xml": {"text_nfc": "Cover"},
+            "word/footer2.xml": {"text_nfc": "Trang i"},
+            "word/footer3.xml": {"text_nfc": "MODIFIED"},
+        },
+    }
+    res_bad = check_non_target_preservation(
+        base_info,
+        bad_after,
+        {"word/document.xml": empty_doc},
+        {"word/document.xml": empty_doc},
+        target_kind="out_of_scope",
+        allow_header_footer_parts={"word/footer2.xml"},
+    )
+    assert res_bad["details"]["hf_text_ok"] is False
+
+
+def test_sealed_verify_mark_and_blind_audit_from_report(tmp_path: Path):
+    import json
+    from unittest.mock import patch
+
+    import pytest
+
+    from eval_harness.curator import (
+        mark_commitment_evaluated,
+        prepare_blind_audit_from_report,
+        seal_commitment,
+        verify_commitment,
+    )
+    from eval_harness.stats import bootstrap_ci  # sanity ensure stats available
+
+    assert bootstrap_ci([1.0, 1.0])["mean"] == 1.0
+
+    # Minimal synthetic val manifest + valid disjoint 30-case sealed bundle using quota mock
+    val_manifest = tmp_path / "val.json"
+    val_manifest.write_text(json.dumps({"cases": [{"case_id": "VAL-A01_x", "provenance": {"source_cluster_id": "v_1"}, "source_docx_sha256": "abc"}]}), encoding="utf-8")
+
+    sroot = tmp_path / "sealed"
+    (sroot / "corpus").mkdir(parents=True)
+    docx_f = sroot / "corpus" / "SEAL-A01_demo.docx"
+    docx_f.write_bytes(b"PK-fake-docx")
+    s_manifest = sroot / "test_sealed_v1_cases.json"
+    s_manifest.write_text(
+        json.dumps({
+            "cases": [{
+                "case_id": "SEAL-A01_demo",
+                "split": "test-sealed-v1",
+                "taxonomy_group": "A",
+                "length_tier": "short",
+                "instruction_type": "descriptive",
+                "expected_outcome": "edit",
+                "source_docx_relpath": "corpus/SEAL-A01_demo.docx",
+                "source_docx_sha256": "def",
+                "prompt_vi": "Chinh bang",
+                "provenance": {"source_cluster_id": "seal_1"},
+            }]
+        }),
+        encoding="utf-8",
+    )
+    comm_path = tmp_path / "SEALED-TEST-COMMITMENT.json"
+
+    with patch("eval_harness.curator.validate_manifest", return_value={"valid": True, "group_counts": {"A": 6, "B": 6, "C": 6, "D": 6, "E": 6}, "errors": []}):
+        comm = seal_commitment(sroot, "test_sealed_v1_cases.json", val_manifest, comm_path, frozen_system_tag="eval-freeze-v1")
+    assert comm["status"] == "committed_awaiting_eval"
+
+    ok_verify = verify_commitment(comm_path, sroot, "test_sealed_v1_cases.json")
+    assert ok_verify["valid"] is True and ok_verify["errors"] == []
+
+    # Tamper detection
+    docx_f.write_bytes(b"PK-tampered")
+    bad_verify = verify_commitment(comm_path, sroot, "test_sealed_v1_cases.json")
+    assert bad_verify["valid"] is False
+    assert any("bundle_sha256 mismatch" in e for e in bad_verify["errors"])
+    docx_f.write_bytes(b"PK-fake-docx")
+
+    # Single-use lock check
+    marked = mark_commitment_evaluated(comm_path, notes="single shot")
+    assert marked["status"] == "evaluated_sealed_once"
+    assert verify_commitment(comm_path, sroot, "test_sealed_v1_cases.json")["valid"] is False
+    with pytest.raises(ValueError, match="already evaluated"):
+        mark_commitment_evaluated(comm_path)
+
+    # prepare_blind_audit_from_report strips all arm/model identifiers from scoring_sheet.csv
+    run_wdir = tmp_path / "runs" / "arm2_full_skill" / "SEAL-A01_demo"
+    run_wdir.mkdir(parents=True)
+    sub_docx = run_wdir / "SEAL-A01_demo.docx"
+    sub_docx.write_bytes(b"PK-after")
+    runs_mf = tmp_path / "runs_manifest.json"
+    runs_mf.write_text(json.dumps({"runs": [{"case_id": "SEAL-A01_demo", "arm": "arm2_full_skill", "work_dir": str(run_wdir)}]}), encoding="utf-8")
+    rep_path = tmp_path / "benchmark_report.json"
+    rep_path.write_text(json.dumps({"rows": [{"case_id": "SEAL-A01_demo", "arm": "arm2_full_skill", "model_id": "test-model"}]}), encoding="utf-8")
+
+    blind_out = tmp_path / "blind_out"
+    with patch("eval_harness.curator.render_to_pdf", return_value={"status": "not_rendered"}):
+        res_blind = prepare_blind_audit_from_report(
+            rep_path,
+            s_manifest,
+            sroot,
+            blind_out,
+            runs_manifest_path=runs_mf,
+            max_cases=5,
+            seed=42,
+        )
+    assert res_blind["item_count"] == 1
+    csv_txt = (blind_out / "scoring_sheet.csv").read_text(encoding="utf-8-sig")
+    assert "BLIND-001" in csv_txt
+    assert "arm2_full_skill" not in csv_txt
+    assert "test-model" not in csv_txt
+    viewer_f = blind_out / "viewer.html"
+    assert viewer_f.is_file()
+    viewer_txt = viewer_f.read_text(encoding="utf-8")
+    assert "BLIND-001" in viewer_txt
+    assert "arm2_full_skill" not in viewer_txt
+    assert "test-model" not in viewer_txt

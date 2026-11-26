@@ -177,6 +177,7 @@ LibreOffice/Word tính field khi render; custom giữ field và cần kiểm tra
 Renderer có thể thay font khi máy thiếu font, nên tên font trong XML không thay
 việc xem bản render.
 
+`python scripts/cli.py normalize-ooxml src.docx dst.docx` chuẩn hóa thứ tự thẻ con ECMA-376 trên các part XML đã sửa (`document.xml`, `styles.xml`, `footnotes.xml`, `endnotes.xml`, `header*.xml`, `footer*.xml`), chỉ chạm những part phát sinh vi phạm và giữ nguyên byte-identical mọi part còn lại.
 `python -m ruff check scripts tests` và `python -m pytest -q` là kiểm tra local
 được CI chạy trong repo nguồn (tests và dependency phát triển không nằm trong ZIP cài skill).
 Để render PDF/PNG ở local, cài LibreOffice theo hệ điều hành:

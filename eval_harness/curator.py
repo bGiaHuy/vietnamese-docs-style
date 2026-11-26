@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import html as html_lib
 import json
 import random
 import re
@@ -345,6 +346,34 @@ def verify_solvability(
     }
 
 
+def _compute_sealed_hashes(
+    sroot: Path,
+    sealed_manifest_relpath: str,
+) -> tuple[str, str, list[dict[str, Any]]]:
+    """Compute canonical bundle_sha256 and per_case_manifest_sha256 for a sealed directory."""
+    mpath = sroot / sealed_manifest_relpath
+    _, cases = _load_cases(mpath)
+    bundle_hasher = hashlib.sha256()
+    manifest_sha = _sha256_file(mpath)
+
+    rel_files: list[Path] = [Path(sealed_manifest_relpath)]
+    for c in cases:
+        rel_files.append(Path(c["source_docx_relpath"]))
+        for att in c.get("attachments") or []:
+            rel_files.append(Path(att["relpath"]))
+
+    seen_rel: set[str] = set()
+    for rel in sorted(rel_files, key=lambda p: p.as_posix()):
+        rel_posix = rel.as_posix()
+        if rel_posix in seen_rel:
+            continue
+        seen_rel.add(rel_posix)
+        data = (sroot / rel).read_bytes()
+        bundle_hasher.update(rel_posix.encode("utf-8") + b"\x00")
+        bundle_hasher.update(hashlib.sha256(data).hexdigest().encode("ascii") + b"\n")
+    return bundle_hasher.hexdigest(), manifest_sha, cases
+
+
 def seal_commitment(
     sealed_dir: str | Path,
     sealed_manifest_relpath: str,
@@ -365,26 +394,7 @@ def seal_commitment(
     if not disjoint_res["disjoint"]:
         raise ValueError(f"Sealed split overlaps with val-v1: {disjoint_res}")
 
-    _, cases = _load_cases(mpath)
-    bundle_hasher = hashlib.sha256()
-    manifest_sha = _sha256_file(mpath)
-
-    rel_files: list[Path] = [Path(sealed_manifest_relpath)]
-    for c in cases:
-        rel_files.append(Path(c["source_docx_relpath"]))
-        for att in c.get("attachments") or []:
-            rel_files.append(Path(att["relpath"]))
-
-    seen_rel: set[str] = set()
-    for rel in sorted(rel_files, key=lambda p: p.as_posix()):
-        rel_posix = rel.as_posix()
-        if rel_posix in seen_rel:
-            continue
-        seen_rel.add(rel_posix)
-        fpath = sroot / rel
-        data = fpath.read_bytes()
-        bundle_hasher.update(rel_posix.encode("utf-8") + b"\x00")
-        bundle_hasher.update(hashlib.sha256(data).hexdigest().encode("ascii") + b"\n")
+    bundle_sha, manifest_sha, cases = _compute_sealed_hashes(sroot, sealed_manifest_relpath)
 
     commitment = {
         "schema_version": "1.0",
@@ -395,7 +405,7 @@ def seal_commitment(
         "target_case_count": len(cases),
         "taxonomy_quota": val_report["group_counts"],
         "storage_policy": "Stored strictly outside development workspace; unsealed exactly once after frozen_system_tag is set.",
-        "bundle_sha256": bundle_hasher.hexdigest(),
+        "bundle_sha256": bundle_sha,
         "per_case_manifest_sha256": manifest_sha,
         "frozen_system_tag": frozen_system_tag,
         "frozen_system_commit_sha": frozen_system_commit_sha,
@@ -405,6 +415,67 @@ def seal_commitment(
     out_path = Path(output_commitment_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(commitment, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return commitment
+
+
+def verify_commitment(
+    commitment_path: str | Path,
+    sealed_dir: str | Path,
+    sealed_manifest_relpath: str,
+    *,
+    allow_already_evaluated: bool = False,
+) -> dict[str, Any]:
+    """Verify sealed bundle hashes against commitment JSON and enforce single-use policy."""
+    cpath = Path(commitment_path)
+    commitment = json.loads(cpath.read_text(encoding="utf-8"))
+    errors: list[str] = []
+
+    if commitment.get("evaluated_at") is not None and not allow_already_evaluated:
+        errors.append(f"Sealed commitment already evaluated at {commitment['evaluated_at']}")
+    if not commitment.get("bundle_sha256") or not commitment.get("per_case_manifest_sha256"):
+        errors.append("Commitment JSON has null SHA-256 hashes (not yet sealed).")
+
+    sroot = Path(sealed_dir).resolve()
+    actual_bundle_sha, actual_manifest_sha, cases = _compute_sealed_hashes(sroot, sealed_manifest_relpath)
+    if commitment.get("bundle_sha256") and actual_bundle_sha != commitment["bundle_sha256"]:
+        errors.append(
+            f"bundle_sha256 mismatch: expected={commitment['bundle_sha256']} actual={actual_bundle_sha}"
+        )
+    if commitment.get("per_case_manifest_sha256") and actual_manifest_sha != commitment["per_case_manifest_sha256"]:
+        errors.append(
+            f"per_case_manifest_sha256 mismatch: expected={commitment['per_case_manifest_sha256']} actual={actual_manifest_sha}"
+        )
+
+    return {
+        "valid": len(errors) == 0,
+        "commitment_path": str(cpath),
+        "case_count": len(cases),
+        "bundle_sha256": actual_bundle_sha,
+        "per_case_manifest_sha256": actual_manifest_sha,
+        "already_evaluated": commitment.get("evaluated_at") is not None,
+        "errors": errors,
+    }
+
+
+def mark_commitment_evaluated(
+    commitment_path: str | Path,
+    *,
+    evaluated_at: str | None = None,
+    notes: str | None = None,
+) -> dict[str, Any]:
+    """Stamp evaluated_at on a sealed commitment JSON so it cannot be re-run cleanly."""
+    cpath = Path(commitment_path)
+    commitment = json.loads(cpath.read_text(encoding="utf-8"))
+    if not commitment.get("bundle_sha256") or not commitment.get("per_case_manifest_sha256"):
+        raise ValueError("Cannot mark unsealed commitment (bundle_sha256 is null) as evaluated.")
+    if commitment.get("evaluated_at") is not None:
+        raise ValueError(f"Sealed commitment was already evaluated at {commitment['evaluated_at']}.")
+
+    commitment["evaluated_at"] = evaluated_at or datetime.now().astimezone().isoformat()
+    commitment["status"] = "evaluated_sealed_once"
+    if notes:
+        commitment["evaluation_notes"] = notes
+    cpath.write_text(json.dumps(commitment, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return commitment
 
 
@@ -459,7 +530,219 @@ def prepare_blind_audit(
     (out_root / "key.json").write_text(json.dumps(key_rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     with (out_root / "scoring_sheet.csv").open("w", encoding="utf-8-sig", newline="") as fh:
         csv.writer(fh).writerows(csv_rows)
-    return {"item_count": len(key_rows), "out_dir": str(out_root)}
+    viewer_path = render_blind_viewer_html(out_root)
+    return {"item_count": len(key_rows), "out_dir": str(out_root), "viewer_html": str(viewer_path)}
+
+
+def render_blind_viewer_html(out_dir: str | Path) -> Path:
+    """Render a zero-leakage static HTML viewer from scoring_sheet.csv and items/ PNGs only."""
+    out_root = Path(out_dir)
+    csv_path = out_root / "scoring_sheet.csv"
+    if not csv_path.is_file():
+        raise FileNotFoundError(f"scoring_sheet.csv not found in {out_root}")
+
+    rows: list[dict[str, Any]] = []
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as fh:
+        reader = csv.DictReader(fh)
+        for rec in reader:
+            bid = rec["blind_id"]
+            b_dir = out_root / "items" / bid / "before"
+            a_dir = out_root / "items" / bid / "after"
+            b_pngs = [p.relative_to(out_root).as_posix() for p in sorted(b_dir.glob("*.png"))] if b_dir.is_dir() else []
+            a_pngs = [p.relative_to(out_root).as_posix() for p in sorted(a_dir.glob("*.png"))] if a_dir.is_dir() else []
+            rows.append({
+                "blind_id": bid,
+                "case_id": rec["case_id"],
+                "prompt_vi": rec["prompt_vi"],
+                "before_pngs": b_pngs,
+                "after_pngs": a_pngs,
+                "score_request_accuracy_1_to_5": rec.get("score_request_accuracy_1_to_5", ""),
+                "score_visual_aesthetics_1_to_5": rec.get("score_visual_aesthetics_1_to_5", ""),
+                "score_non_target_integrity_1_to_5": rec.get("score_non_target_integrity_1_to_5", ""),
+                "notes": rec.get("notes", ""),
+            })
+
+    cards: list[str] = []
+    for item in rows:
+        bid = html_lib.escape(item["blind_id"])
+        cid = html_lib.escape(item["case_id"])
+        prompt = html_lib.escape(item["prompt_vi"])
+        b_imgs = "\n".join(
+            f'<figure><figcaption>{html_lib.escape(Path(p).name)}</figcaption>'
+            f'<img src="{html_lib.escape(p)}" loading="lazy" alt="Before"></figure>'
+            for p in item["before_pngs"]
+        ) or "<p class='empty'>No before PNG</p>"
+        a_imgs = "\n".join(
+            f'<figure><figcaption>{html_lib.escape(Path(p).name)}</figcaption>'
+            f'<img src="{html_lib.escape(p)}" loading="lazy" alt="After"></figure>'
+            for p in item["after_pngs"]
+        ) or "<p class='empty'>No after PNG</p>"
+        cards.append(
+            f"""<section class="card" data-blind-id="{bid}">
+  <header><h2>{bid} — <code>{cid}</code></h2></header>
+  <p class="prompt">{prompt}</p>
+  <div class="grid">
+    <div class="col"><h3>Before (Original)</h3>{b_imgs}</div>
+    <div class="col"><h3>After (Submitted)</h3>{a_imgs}</div>
+  </div>
+  <div class="scores">
+    <label>Request Accuracy (1–5): <input type="number" min="1" max="5" data-field="score_request_accuracy_1_to_5" value="{html_lib.escape(item['score_request_accuracy_1_to_5'])}"></label>
+    <label>Visual Aesthetics (1–5): <input type="number" min="1" max="5" data-field="score_visual_aesthetics_1_to_5" value="{html_lib.escape(item['score_visual_aesthetics_1_to_5'])}"></label>
+    <label>Non-Target Integrity (1–5): <input type="number" min="1" max="5" data-field="score_non_target_integrity_1_to_5" value="{html_lib.escape(item['score_non_target_integrity_1_to_5'])}"></label>
+    <label class="notes">Notes: <input type="text" data-field="notes" value="{html_lib.escape(item['notes'])}"></label>
+  </div>
+</section>"""
+        )
+
+    payload_json = json.dumps(
+        [
+            {"blind_id": r["blind_id"], "case_id": r["case_id"], "prompt_vi": r["prompt_vi"]}
+            for r in rows
+        ],
+        ensure_ascii=False,
+    ).replace("</", "<\\/")
+
+    html_doc = f"""<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<title>Blind Human Visual Audit Viewer ({len(rows)} items)</title>
+<style>
+  body {{ font-family: system-ui, -apple-system, sans-serif; margin: 24px; background: #f7f8fa; color: #1f2937; }}
+  .topbar {{ position: sticky; top: 0; background: #fff; padding: 12px 16px; border: 1px solid #d1d5db; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; z-index: 10; }}
+  button {{ background: #2563eb; color: #fff; border: 0; padding: 8px 14px; border-radius: 6px; font-weight: 600; cursor: pointer; }}
+  .card {{ background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 16px; margin-bottom: 24px; }}
+  .prompt {{ background: #f3f4f6; padding: 10px 12px; border-radius: 6px; }}
+  .grid {{ display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 12px 0; }}
+  .col {{ border: 1px solid #e5e7eb; border-radius: 8px; padding: 8px; max-height: 760px; overflow-y: auto; background: #fafafa; }}
+  figure {{ margin: 0 0 12px 0; }}
+  figcaption {{ font-size: 12px; color: #6b7280; margin-bottom: 4px; }}
+  img {{ width: 100%; border: 1px solid #d1d5db; border-radius: 4px; }}
+  .scores {{ display: flex; flex-wrap: wrap; gap: 12px; padding-top: 8px; border-top: 1px solid #e5e7eb; }}
+  .scores label {{ font-size: 13px; font-weight: 500; }}
+  .scores input[type="number"] {{ width: 56px; padding: 4px; margin-left: 4px; }}
+  .scores label.notes {{ flex: 1 1 280px; display: flex; gap: 6px; align-items: center; }}
+  .scores label.notes input {{ flex: 1; padding: 4px 6px; }}
+</style>
+</head>
+<body>
+<div class="topbar">
+  <div><strong>Blind Human Visual Audit</strong> — {len(rows)} anonymized items (arm/model hidden)</div>
+  <button onclick="downloadCsv()">Download scoring_sheet.csv</button>
+</div>
+{''.join(cards)}
+<script>
+const ITEMS = {payload_json};
+function csvEscape(v) {{
+  const s = String(v ?? '');
+  return /[",\\r\\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}}
+function downloadCsv() {{
+  const hdr = ['blind_id','case_id','prompt_vi','score_request_accuracy_1_to_5','score_visual_aesthetics_1_to_5','score_non_target_integrity_1_to_5','notes'];
+  const lines = [hdr.join(',')];
+  for (const item of ITEMS) {{
+    const sec = document.querySelector('section[data-blind-id="' + item.blind_id + '"]');
+    const val = (f) => sec.querySelector('input[data-field="' + f + '"]').value;
+    lines.push([
+      item.blind_id, item.case_id, item.prompt_vi,
+      val('score_request_accuracy_1_to_5'),
+      val('score_visual_aesthetics_1_to_5'),
+      val('score_non_target_integrity_1_to_5'),
+      val('notes'),
+    ].map(csvEscape).join(','));
+  }}
+  const blob = new Blob(['\\uFEFF' + lines.join('\\r\\n') + '\\r\\n'], {{ type: 'text/csv;charset=utf-8;' }});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'scoring_sheet.csv';
+  a.click();
+}}
+</script>
+</body>
+</html>
+"""
+    viewer_path = out_root / "viewer.html"
+    viewer_path.write_text(html_doc, encoding="utf-8")
+    return viewer_path
+
+
+def prepare_blind_audit_from_report(
+    report_path: str | Path,
+    manifest_path: str | Path,
+    corpus_dir: str | Path,
+    out_dir: str | Path,
+    *,
+    runs_manifest_path: str | Path | None = None,
+    max_cases: int = 12,
+    seed: int = 42,
+    arms: list[str] | None = None,
+) -> dict[str, Any]:
+    """Select stratified edited cases from a benchmark report and export a blind visual audit pack."""
+    rpath = Path(report_path)
+    rep = json.loads(rpath.read_text(encoding="utf-8"))
+    _, cases = _load_cases(manifest_path)
+    case_map = {c["case_id"]: c for c in cases}
+
+    rm_path = Path(runs_manifest_path) if runs_manifest_path else (rpath.parent / "runs_manifest.json")
+    if not rm_path.is_file():
+        raise FileNotFoundError(f"runs_manifest.json not found near {rpath}: {rm_path}")
+    rm_data = json.loads(rm_path.read_text(encoding="utf-8"))
+    run_entries = rm_data["runs"] if isinstance(rm_data, dict) and "runs" in rm_data else rm_data
+    wdir_map = {(e["case_id"], e["arm"]): Path(e["work_dir"]) for e in run_entries}
+
+    wanted_arms = set(arms or ["arm0_no_skill", "arm1_standards_only", "arm2_full_skill"])
+    # Stratify edited cases round-robin across visual taxonomy groups (preferring A, B, C, E).
+    by_group: dict[str, list[str]] = {}
+    for cid, case in sorted(case_map.items()):
+        if case.get("expected_outcome") != "edit":
+            continue
+        by_group.setdefault(case.get("taxonomy_group", "A"), []).append(cid)
+
+    group_order = [g for g in ("A", "B", "C", "E", "D") if g in by_group]
+    selected_cases: list[str] = []
+    idx_by_group = {g: 0 for g in group_order}
+    while len(selected_cases) < max_cases:
+        progressed = False
+        for g in group_order:
+            pos = idx_by_group[g]
+            if pos < len(by_group[g]):
+                selected_cases.append(by_group[g][pos])
+                idx_by_group[g] = pos + 1
+                progressed = True
+                if len(selected_cases) >= max_cases:
+                    break
+        if not progressed:
+            break
+
+    selected_set = set(selected_cases)
+    cdir = Path(corpus_dir)
+    run_items: list[dict[str, Any]] = []
+    for row in rep.get("rows", []):
+        cid = row["case_id"]
+        arm = row["arm"]
+        if cid not in selected_set or arm not in wanted_arms:
+            continue
+        wdir = wdir_map.get((cid, arm))
+        if wdir is None:
+            continue
+        dst_docx = wdir / f"{cid}.docx"
+        if not dst_docx.is_file():
+            continue
+        case = case_map[cid]
+        run_items.append(
+            {
+                "case_id": cid,
+                "arm": arm,
+                "model": row.get("model_id"),
+                "prompt_vi": case.get("prompt_vi", ""),
+                "src_docx": str(cdir / case["source_docx_relpath"]),
+                "dst_docx": str(dst_docx),
+            }
+        )
+
+    res = prepare_blind_audit(run_items, out_dir, seed=seed)
+    res["selected_cases"] = sorted(selected_set)
+    return res
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -494,6 +777,27 @@ def main(argv: list[str] | None = None) -> int:
     p_seal.add_argument("--frozen-tag")
     p_seal.add_argument("--frozen-sha")
 
+    p_vcom = sub.add_parser("verify-commitment", help="Verify sealed SHA-256 hashes and single-use status")
+    p_vcom.add_argument("--commitment", default="evals/SEALED-TEST-COMMITMENT.json")
+    p_vcom.add_argument("--sealed-dir", required=True)
+    p_vcom.add_argument("--sealed-manifest-relpath", required=True)
+    p_vcom.add_argument("--allow-already-evaluated", action="store_true")
+
+    p_mark = sub.add_parser("mark-evaluated", help="Stamp evaluated_at on SEALED-TEST-COMMITMENT.json")
+    p_mark.add_argument("--commitment", default="evals/SEALED-TEST-COMMITMENT.json")
+    p_mark.add_argument("--evaluated-at", default=None)
+    p_mark.add_argument("--notes", default=None)
+
+    p_blind = sub.add_parser("prepare-blind-audit", help="Export blind before/after PNG visual audit pack")
+    p_blind.add_argument("--report", required=True)
+    p_blind.add_argument("--manifest", required=True)
+    p_blind.add_argument("--corpus-dir", required=True)
+    p_blind.add_argument("--out-dir", required=True)
+    p_blind.add_argument("--runs-manifest", default=None)
+    p_blind.add_argument("--max-cases", type=int, default=12)
+    p_blind.add_argument("--seed", type=int, default=42)
+    p_blind.add_argument("--arms", nargs="+", default=None)
+
     args = parser.parse_args(argv)
     if args.cmd == "lint-prompts":
         _, cases = _load_cases(args.manifest)
@@ -520,6 +824,30 @@ def main(argv: list[str] | None = None) -> int:
             op = Path(args.output)
             op.parent.mkdir(parents=True, exist_ok=True)
             op.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    elif args.cmd == "verify-commitment":
+        out = verify_commitment(
+            args.commitment,
+            args.sealed_dir,
+            args.sealed_manifest_relpath,
+            allow_already_evaluated=args.allow_already_evaluated,
+        )
+    elif args.cmd == "mark-evaluated":
+        out = mark_commitment_evaluated(
+            args.commitment,
+            evaluated_at=args.evaluated_at,
+            notes=args.notes,
+        )
+    elif args.cmd == "prepare-blind-audit":
+        out = prepare_blind_audit_from_report(
+            args.report,
+            args.manifest,
+            args.corpus_dir,
+            args.out_dir,
+            runs_manifest_path=args.runs_manifest,
+            max_cases=args.max_cases,
+            seed=args.seed,
+            arms=args.arms,
+        )
     else:
         out = seal_commitment(
             args.sealed_dir,
@@ -531,6 +859,8 @@ def main(argv: list[str] | None = None) -> int:
         )
 
     print(json.dumps(out, ensure_ascii=False, indent=2))
+    if args.cmd == "verify-commitment" and not out.get("valid"):
+        return 1
     return 0
 
 

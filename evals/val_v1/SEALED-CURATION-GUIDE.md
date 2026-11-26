@@ -28,6 +28,7 @@ Phải khớp [`../EVALUATION-PROTOCOL.md`](../EVALUATION-PROTOCOL.md) và [`../
 ## 3. Quy trình 5 Bước Kiểm định & Niêm phong (`eval_harness.curator`)
 
 ### Bước 1 — Viết manifest và kiểm định Zero-Leakage & Quotas
+Tham khảo cấu trúc mẫu tổng hợp tại [`../schemas/sealed-manifest-example.json`](../schemas/sealed-manifest-example.json) (khớp [`../schemas/independent-case.schema.json`](../schemas/independent-case.schema.json)), rồi kiểm định tệp manifest thực tế:
 ```powershell
 python -m eval_harness.curator validate-manifest `
   --manifest <SEALED_DIR>/test_sealed_v1_cases.json `
@@ -37,8 +38,8 @@ python -m eval_harness.curator validate-manifest `
 ### Bước 2 — Kiểm tra Tách nguồn hoàn toàn với `val-v1`
 ```powershell
 python -m eval_harness.curator check-disjoint `
-  --val evals/val_v1/val_v1_cases.json `
-  --sealed <SEALED_DIR>/test_sealed_v1_cases.json
+  --val-manifest evals/val_v1/val_v1_cases.json `
+  --sealed-manifest <SEALED_DIR>/test_sealed_v1_cases.json
 ```
 Yêu cầu kết quả: `"disjoint": true`, `"overlapping_clusters": []`, `"overlapping_hashes": []`.
 
@@ -63,13 +64,44 @@ Sau khi đóng băng `test-sealed-v1` và đẩy `SKILL.md` / `vndocs` lên git 
 ```powershell
 python -m eval_harness.curator seal-commitment `
   --sealed-dir <SEALED_DIR> `
-  --manifest-relpath test_sealed_v1_cases.json `
-  --val evals/val_v1/val_v1_cases.json `
+  --sealed-manifest-relpath test_sealed_v1_cases.json `
+  --val-manifest evals/val_v1/val_v1_cases.json `
   --output evals/SEALED-TEST-COMMITMENT.json `
   --frozen-tag eval-freeze-v1 `
   --frozen-sha <GIT_COMMIT_SHA>
 ```
 Chỉ file băm SHA-256 `evals/SEALED-TEST-COMMITMENT.json` được ghi vào repository; toàn bộ nội dung `test-sealed-v1` giữ ngoài workspace cho tới khi chạy đánh giá chính thức **1 lần duy nhất**.
 
-### Bước 5 — Chuẩn bị Mẫu Chấm Trực quan Mù (*Blind Audit*)
-Khi đánh giá xong cả 3 Arm trên `val-v1` hoặc `test-sealed-v1`, dùng `eval_harness.curator.prepare_blind_audit(...)` để render PDF/PNG trước–sau với mã ẩn ngẫu nhiên và tạo phiếu chấm CSV 3 trục (1–5) cho người chấm độc lập.
+### Bước 5 — Kiểm chứng Niêm phong & Chạy Đánh giá 1 Lần Duy nhất
+Ngay trước khi chạy benchmark chính thức trên bản tag đã đóng băng (`eval-freeze-v1`), kiểm tra lại toàn vẹn SHA-256 và đảm bảo tập niêm phong chưa từng được mở:
+```powershell
+python -m eval_harness.curator verify-commitment `
+  --commitment evals/SEALED-TEST-COMMITMENT.json `
+  --sealed-dir <SEALED_DIR> `
+  --sealed-manifest-relpath test_sealed_v1_cases.json
+```
+Chạy đánh giá 3 nhánh (thực hiện bên ngoài quy trình phát triển, sau đó đóng dấu đã đánh giá 1 lần):
+```powershell
+python -m eval_harness.runner run `
+  --manifest <SEALED_DIR>/test_sealed_v1_cases.json `
+  --corpus-dir <SEALED_DIR>/corpus `
+  --out-dir <SEALED_EVAL_OUT_DIR> `
+  --sandbox danger-full-access `
+  --workers 3
+
+python -m eval_harness.curator mark-evaluated `
+  --commitment evals/SEALED-TEST-COMMITMENT.json `
+  --notes "Evaluated once on tag eval-freeze-v1"
+```
+
+### Bước 6 — Tạo Bộ Chấm Trực quan Mù (*Blind Audit Pack*)
+Dùng CLI xuất gói PNG trước/sau ẩn toàn bộ tên Arm/model kèm phiếu chấm `scoring_sheet.csv` và giao diện HTML tương tác `viewer.html` cho người chấm độc lập:
+```powershell
+python -m eval_harness.curator prepare-blind-audit `
+  --report <OUT_DIR>/benchmark_report.json `
+  --manifest <MANIFEST_JSON> `
+  --corpus-dir <CORPUS_DIR> `
+  --out-dir <OUT_DIR>/blind_audit `
+  --max-cases 12 `
+  --seed 42
+```

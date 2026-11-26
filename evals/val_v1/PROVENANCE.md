@@ -46,3 +46,12 @@ Kiểm tra tự động bằng lệnh:
 ```powershell
 python -m eval_harness.curator check-disjoint --val evals/val_v1/val_v1_cases.json --sealed <SEALED_PRIVATE_DIR>/test_sealed_v1_cases.json
 ```
+
+---
+
+## Errata (`val-v1.1` — Post-Milestone #1)
+
+Sau khi đóng băng và commit Milestone #1 (`val-v1.0`, `val_v1_milestone_1_20261126`), kiểm tra hậu kiểm các ca rớt toàn bộ ở Milestone #1 đã phát hiện 2 lỗi kỹ thuật thuộc benchmark/harness (không thay đổi số liệu lịch sử Milestone #1 đã lưu trữ):
+
+1. **`VAL-B03_party_mof_mac_spacing` (lỗi đếm `12` thay vì `11` đoạn):** Khoảng từ đoạn mở đầu `'Thực hiện kế hoạch số 05- KH/ĐUK...'` (`P5`) đến hết đoạn `'Giảm 01 chi bộ so 2011...'` (`P15`) gồm đúng **11 đoạn** (`P5..P15`); `P16` là tiêu đề mục tiếp theo (`'II. Kết quả sau 04 năm...'`) vốn bị prompt yêu cầu không chỉnh sửa. Đã sửa `prompt_vi` (`"12 đoạn"` → `"11 đoạn"`) và `target_paragraph_ordinals` (`[5..15]`).
+2. **`eval_harness/diff_ntpr.py` trên `VAL-E02_neu_footer_page_label` (ngắt liên kết footer hợp lệ giữa các section):** Khi tách liên kết (`section.footer.is_linked_to_previous = False`) để chỉ sửa `word/footer2.xml` mà vẫn bảo toàn nguyên chữ `'i'` ở các phân đoạn sau bằng một part mới (`word/footer3.xml`), kiểm tra `hf_text_ok` trước đây báo sai lệch vì xuất hiện key mới `word/footer3.xml`. Đã cập nhật `check_non_target_preservation` để chấp nhận part header/footer mới phát sinh có `text_nfc` trùng khớp nguyên văn của part nằm trong `allow_header_footer_parts`, trong khi vẫn giữ chặt bất biến cho mọi header/footer cũ ngoài mục tiêu.

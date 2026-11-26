@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "split_notes": "Purely synthetic illustrative example matching evals/schemas/independent-case.schema.json (zero real documents).",
+  "cases": [
+    {
+      "schema_version": "1.0",
+      "case_id": "SEAL-A01_synthetic_example_table",
+      "split": "test-sealed-v1",
+      "taxonomy_group": "A",
+      "length_tier": "medium",
+      "instruction_type": "inferential",
+      "expected_outcome": "edit",
+      "near_boundary_valid": false,
+      "out_of_scope_for_vndocs": false,
+      "provenance": {
+        "source_category": "university_academic",
+        "authoring_software": "microsoft_word",
+        "source_cluster_id": "synthetic_example_not_for_eval",
+        "license_or_status": "synthetic_schema_example_only",
+        "pii_redacted": true,
+        "created_without_vndocs_builders": true,
+        "notes": "Synthetic template example illustrating required fields for external curators."
+      },
+      "source_docx_relpath": "corpus/SEAL-A01_synthetic_example_table.docx",
+      "source_docx_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "attachments": [],
+      "prompt_vi": "Trong báo cáo tổng hợp này, bảng danh sách kết quả 6 cột ở mục II đang bị tràn lề phải; hãy thu gọn bảng vừa vùng nội dung trang A4 khoảng 16,0 cm và căn giữa bảng, giữ nguyên các bảng và đoạn văn khác.",
+      "independent_solvability_verified": {
+        "positive_non_vndocs_verified": true,
+        "positive_method": "Direct zipfile+lxml OOXML edit scaling table #2 gridCols and tblW proportionally to 16.0 cm centered.",
+        "negative_mutation_verified": true,
+        "negative_mutation_desc": "Scale tblW without syncing w:gridCol widths so table remains overflowed."
+      },
+      "grading": {
+        "target_kind": "table",
+        "target_ordinal": 2,
+        "expected_width_cm": 16.0,
+        "expected_width_max_drift_cm": 0.25,
+        "max_overflow_right_mm": 0.5,
+        "expected_alignment": "center"
+      }
+    }
+  ]
+}

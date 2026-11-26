@@ -1,5 +1,9 @@
 """ECMA-376 child-element ordering and canonical non-target preservation checks."""
+import argparse
 import hashlib
+import json
+import zipfile
+from pathlib import Path
 from lxml import etree
 
 W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
@@ -248,3 +252,79 @@ def check_non_target_preservation(before_root, after_root, allowed_body_indices)
         'unexpected_indices': unexpected,
         'structure_changed': False,
     }
+
+
+def _is_checked_word_part(name):
+    if name in ('word/document.xml', 'word/styles.xml', 'word/footnotes.xml', 'word/endnotes.xml'):
+        return True
+    return (name.startswith('word/header') or name.startswith('word/footer')) and name.endswith('.xml')
+
+
+def normalize_docx_ooxml(src_path, dst_path):
+    """Normalize ECMA-376 child ordering only in WordprocessingML parts with violations."""
+    src = Path(src_path)
+    dst = Path(dst_path)
+    if not src.is_file():
+        raise FileNotFoundError(f'Input DOCX not found: {src}')
+
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    parts_checked = []
+    parts_normalized = []
+    violations_before = 0
+    violations_after = 0
+
+    with zipfile.ZipFile(src, 'r') as zin:
+        entries = [(info, zin.read(info.filename)) for info in zin.infolist()]
+
+    out_entries = []
+    for info, raw in entries:
+        name = info.filename
+        if _is_checked_word_part(name):
+            parts_checked.append(name)
+            root = etree.fromstring(raw)
+            v_before = check_element_order(root)
+            if v_before:
+                violations_before += len(v_before)
+                for elem in root.iter():
+                    normalize_ordered_children(elem)
+                v_after = check_element_order(root)
+                violations_after += len(v_after)
+                raw = etree.tostring(root, xml_declaration=True, encoding='UTF-8', standalone=True)
+                parts_normalized.append(name)
+        out_entries.append((info, raw))
+
+    tmp_dst = dst.with_suffix(dst.suffix + '.tmp')
+    with zipfile.ZipFile(tmp_dst, 'w', compression=zipfile.ZIP_DEFLATED) as zout:
+        for info, raw in out_entries:
+            new_info = zipfile.ZipInfo(filename=info.filename, date_time=info.date_time)
+            new_info.compress_type = info.compress_type
+            new_info.external_attr = info.external_attr
+            zout.writestr(new_info, raw)
+    tmp_dst.replace(dst)
+
+    return {
+        'src': str(src),
+        'dst': str(dst),
+        'parts_checked': parts_checked,
+        'parts_normalized': parts_normalized,
+        'violations_before': violations_before,
+        'violations_after': violations_after,
+    }
+
+
+def main(argv=None):
+    """CLI entrypoint for `vndocs normalize-ooxml`."""
+    parser = argparse.ArgumentParser(
+        prog='vndocs normalize-ooxml',
+        description='Normalize ECMA-376 child element order in edited DOCX XML parts.',
+    )
+    parser.add_argument('src', help='Input DOCX path')
+    parser.add_argument('dst', help='Output DOCX path')
+    args = parser.parse_args(argv)
+    result = normalize_docx_ooxml(args.src, args.dst)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return 0 if result['violations_after'] == 0 else 1
+
+
+if __name__ == '__main__':
+    raise SystemExit(main())
