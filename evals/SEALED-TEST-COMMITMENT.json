@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "status": "pending_phase3_curation",
+  "status": "committed_awaiting_eval",
   "sealed_split_id": "test-sealed-v1",
   "protocol_doc": "evals/EVALUATION-PROTOCOL.md",
   "case_schema": "evals/schemas/independent-case.schema.json",
@@ -13,10 +13,10 @@
     "E": 6
   },
   "storage_policy": "Stored strictly outside development workspace; unsealed exactly once after frozen_system_tag is set.",
-  "bundle_sha256": null,
-  "per_case_manifest_sha256": null,
-  "frozen_system_tag": null,
-  "frozen_system_commit_sha": null,
-  "committed_at": null,
+  "bundle_sha256": "37415efd7149839204f0b54188ea336b3eb829805244542daf1dda5d95d67e63",
+  "per_case_manifest_sha256": "765faafb5b6950c00a4402bb931bd9327793a90eae8be2324bc750b7d4524c92",
+  "frozen_system_tag": "eval-freeze-v1",
+  "frozen_system_commit_sha": "e5ee327af209540a54d5e287a1b4e85cab502556",
+  "committed_at": "2026-11-26T20:59:02.054689+07:00",
   "evaluated_at": null
 }
