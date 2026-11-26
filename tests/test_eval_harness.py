@@ -178,7 +178,22 @@ def test_independent_case_schema_and_commitment_files():
     commitment = json.loads(commit_path.read_text(encoding="utf-8"))
     assert commitment["sealed_split_id"] == "test-sealed-v1"
     assert commitment["target_case_count"] == 30
-    assert commitment["status"] == "pending_phase3_curation"
+    assert commitment["status"] in {
+        "pending_phase3_curation",
+        "committed_awaiting_eval",
+        "evaluated_sealed_once",
+    }
+    if commitment["status"] in {"committed_awaiting_eval", "evaluated_sealed_once"}:
+        for key in (
+            "bundle_sha256",
+            "per_case_manifest_sha256",
+            "frozen_system_tag",
+            "frozen_system_commit_sha",
+            "committed_at",
+        ):
+            assert isinstance(commitment.get(key), str) and commitment[key]
+    if commitment["status"] == "evaluated_sealed_once":
+        assert isinstance(commitment.get("evaluated_at"), str) and commitment["evaluated_at"]
 
     assert registry_path.is_file()
     for line in registry_path.read_text(encoding="utf-8").splitlines():

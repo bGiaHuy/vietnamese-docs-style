@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "status": "committed_awaiting_eval",
+  "status": "evaluated_sealed_once",
   "sealed_split_id": "test-sealed-v1",
   "protocol_doc": "evals/EVALUATION-PROTOCOL.md",
   "case_schema": "evals/schemas/independent-case.schema.json",
@@ -18,5 +18,6 @@
   "frozen_system_tag": "eval-freeze-v1",
   "frozen_system_commit_sha": "e5ee327af209540a54d5e287a1b4e85cab502556",
   "committed_at": "2026-11-26T20:59:02.054689+07:00",
-  "evaluated_at": null
+  "evaluated_at": "2026-11-26T23:11:57.909462+07:00",
+  "evaluation_notes": "Official single-shot 3-Arm evaluation (90 runs, ag_flash) on frozen tag eval-freeze-v1"
 }
