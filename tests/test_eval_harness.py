@@ -158,7 +158,7 @@ def test_dev_v2_frozen_manifest_matches_files():
     }
     assert set(manifest["frozen_files"].keys()) == expected_paths
     for rel, meta in manifest["frozen_files"].items():
-        data = (ROOT / rel).read_bytes()
+        data = (ROOT / rel).read_bytes().replace(b"\r\n", b"\n")
         assert hashlib.sha256(data).hexdigest() == meta["sha256"], f"Frozen hash mismatch for {rel}"
         assert len(data) == meta["bytes"], f"Frozen byte size mismatch for {rel}"
 
