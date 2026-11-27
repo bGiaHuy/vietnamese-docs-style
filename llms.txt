@@ -17,11 +17,11 @@
 - [scripts/edit_docx.py](scripts/edit_docx.py): Sửa chính xác theo SHA256 và slot map trên mẫu không dùng token.
 - [scripts/render_docx.py](scripts/render_docx.py): Render PDF/PNG qua LibreOffice cô lập + PyMuPDF (hỗ trợ `--annotate-marks`, `--cache-dir` và `--renderer word-win`).
 - [scripts/map_docx.py](scripts/map_docx.py): Lập bản đồ anchor `T#`/`IMG#`/`P#`, section/lề và nhận diện `[LAYOUT:...]` (`vndocs map`).
-- [scripts/ooxml_order.py](scripts/ooxml_order.py): Kiểm tra/chèn thẻ đúng thứ tự schema ECMA-376 và đo `xml_ntpr`.
+- [scripts/ooxml_order.py](scripts/ooxml_order.py): Kiểm tra/chèn thẻ đúng thứ tự schema ECMA-376, đo `xml_ntpr`, và chuẩn hóa thứ tự thẻ con qua `vndocs normalize-ooxml`.
 - [scripts/layout_edit.py](scripts/layout_edit.py): Sửa bố cục có kiểm soát (13 op, đọc-kiểm lại, `--track-changes`, bảo toàn namespace gốc `w14`/`w15`/`mc:Ignorable`).
 - [scripts/diff_layout.py](scripts/diff_layout.py): So đo PDF trước/sau, tràn lề, nhảy trang ngoài target và `compare_renderers` (`vndocs diff-layout`).
 - [scripts/auto_paginate.py](scripts/auto_paginate.py): Co gọn bố cục nhiều bậc đúng chuẩn profile để gom chữ ký lẻ hoặc vừa số trang (`vndocs paginate`).
-- [scripts/cli.py](scripts/cli.py): Entrypoint hợp nhất `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|package>`.
+- [scripts/cli.py](scripts/cli.py): Entrypoint hợp nhất `vndocs <doctor|generate|inspect|validate|render|fill|edit|demo|templates|map|layout-edit|diff-layout|paginate|normalize-ooxml|package>`.
 
 ## Tài liệu tham chiếu theo ngữ cảnh (`references/`)
 
@@ -47,3 +47,6 @@
 - [assets/templates/manifest.json](assets/templates/manifest.json): Starter `.docx`, `.rules.json`, `.values.json`; 10 file `.docx` mẫu điền sẵn/sinh từ JSON tại [assets/examples/](assets/examples/) và ví dụ JSON đầu vào tại `assets/schemas/examples/`.
 - [evals/BENCHMARK.md](evals/BENCHMARK.md): Benchmark công khai 16 case (`0/8` baseline vs. `8/8` skill) và [evals/audit-comparison.md](evals/audit-comparison.md).
 - [evals/LAYOUT-BENCHMARK.md](evals/LAYOUT-BENCHMARK.md): Benchmark chỉnh sửa bố cục 30 ca phân tầng (`T01`–`T30`), kèm [dataset JSON](evals/layout_edit_cases.json), [số liệu so sánh Live A/B + oracle](evals/layout-benchmark-results.json) và [`evals/run_layout_benchmark.py`](evals/run_layout_benchmark.py).
+- [evals/EVALUATION-PROTOCOL.md](evals/EVALUATION-PROTOCOL.md): Giao thức đánh giá độc lập 3 nhánh (`Arm 0: No Skill`, `Arm 1: Standards-Only`, `Arm 2: Full Skill + vndocs`), đăng ký trước thống kê & quy tắc niêm phong.
+- [evals/VAL-V1-BENCHMARK.md](evals/VAL-V1-BENCHMARK.md): Kết quả `val-v1` (20 tài liệu `.docx` thực tế, 420 lượt chạy qua Milestone #1 & #2, `contamination_count = 0`).
+- [evals/SEALED-TEST-REPORT.md](evals/SEALED-TEST-REPORT.md): Báo cáo đánh giá đơn lượt trên tập niêm phong `test-sealed-v1` (30 tài liệu độc lập, tag đóng băng `eval-freeze-v1`, `ag_flash`: `100.0%` vs `86.7%`/`86.7%`) và [evals/SEALED-TEST-COMMITMENT.json](evals/SEALED-TEST-COMMITMENT.json).

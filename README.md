@@ -13,7 +13,7 @@ Hiện nay, khi yêu cầu các công cụ AI thông thường soạn tài liệ
 [![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-informational)](#cách-bắt-đầu)
 [![AI Agents](https://img.shields.io/badge/agents-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%20Windsurf%20%7C%20Antigravity-6f42c1)](#tương-thích-ai-agent)
 
-**Trạng thái:** `v0.4.0` (`96/96` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
+**Trạng thái:** `v0.4.1` (`114/114` automated tests pass trên Python `3.10` và `3.12`) · **Giấy phép:** [MIT](LICENSE) · **Tải nhanh:** [`vietnamese-docx.zip`](https://github.com/bGiaHuy/vietnamese-docs-style/releases/latest) (GitHub Releases), cài skill qua `npx skills add bGiaHuy/vietnamese-docs-style`, hoặc cài từ source code (`pip install -e .`).
 
 **Ngôn ngữ / Language:** [Tiếng Việt](#tiếng-việt) | [English](#english)
 
@@ -156,7 +156,7 @@ Ngược lại, văn bản tiếng Việt trong công việc thực tế **chị
 
 - Chọn thể thức phù hợp với loại văn bản và nơi tiếp nhận thông qua 8 profile, hỗ trợ văn bản hành chính theo NĐ30/2020, văn bản của Đảng (QĐ 399-QĐ/TW, HD 05-HD/VPTW), VBQPPL (NĐ 187/2025/NĐ-CP), tài liệu học thuật và tài liệu doanh nghiệp.
 - Sinh file `.docx` đa profile từ JSON đúng [JSON Schema](assets/schemas/document-input.schema.json) (`vndocs generate ... --validate`), điền token `{{name}}` (`vndocs fill`) hoặc vá vị trí xác minh bằng `vndocs edit --source-sha256`, giữ nguyên XML ngoài vùng sửa.
-- Chỉnh sửa bố cục `.docx` hiện có theo quy trình 4 bước (`vndocs map` -> đối chiếu ảnh/`--annotate-marks` -> `vndocs layout-edit` với 13 op có `--track-changes` và bảo toàn namespace Word 365 -> `vndocs diff-layout` đo PDF trước/sau), kèm `vndocs paginate` tự co gọn bố cục đúng chuẩn profile (gom chữ ký rơi lẻ sang trang cuối hoặc ép vừa số trang) mà không sửa bất kỳ từ nào (`xml_ntpr == 1.0`).
+- Chỉnh sửa bố cục `.docx` hiện có theo quy trình 4 bước (`vndocs map` -> đối chiếu ảnh/`--annotate-marks` -> `vndocs layout-edit` với 13 op có `--track-changes` và bảo toàn namespace Word 365 -> `vndocs diff-layout` đo PDF trước/sau), kèm `vndocs paginate` tự co gọn bố cục đúng chuẩn profile (gom chữ ký rơi lẻ sang trang cuối hoặc ép vừa số trang) mà không sửa bất kỳ từ nào (`xml_ntpr == 1.0`), và `vndocs normalize-ooxml` chuẩn hóa thứ tự thẻ con ECMA-376 cho các phần OOXML sửa trực tiếp ngoài `layout-edit`.
 - Soi nhanh file mẫu và phát hiện lỗi encoding `Ð` (`U+00D0` -> `Đ` `U+0110`), `kính giửi` hoặc placeholder sót qua `vndocs inspect`; kiểm tra khổ giấy, lề, font/màu kế thừa, style role và numbering qua `vndocs validate`.
 - Render PDF và PNG từng trang bằng LibreOffice + PyMuPDF trong profile tạm (`vndocs render --png`, hỗ trợ cache PDF theo `SHA-256` qua `--cache-dir` và tùy chọn `--renderer word-win` trên máy Windows có Microsoft Word) để kiểm tra hiển thị thực tế trước khi bàn giao.
 - Kèm bộ câu hỏi phỏng vấn ([interview-questions.md](references/interview-questions.md)), hướng dẫn xem trước Markdown ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), chỉ mục [llms.txt](llms.txt) và đóng gói thành file ZIP (`vndocs package`).
@@ -203,6 +203,19 @@ Bộ dataset phân tầng **30 ca (`T01`–`T30`)** trên tài liệu ngắn/tru
 - **Oracle xác định 30 ca (`--run-oracle`):** **30 / 30 (100.0%)** đạt mọi checkpoint hình học PDF + OOXML, **100%** bảo toàn cấu trúc XML ngoài vùng sửa (`xml_ntpr = 1.0`), **4 / 4** ca rủi ro/mơ hồ từ chối an toàn (gồm `.docx` đã ký số `T28` và ảnh crop không phân biệt được `T17`).
 - **Giảm payload ngữ cảnh (`vndocs map` vs `word/document.xml` thô):** giảm trung bình **90.1%** (`short`), **96.9%** (`medium`) và **98.0%** (`long`).
 - **Dữ liệu & báo cáo đầy đủ (50 lượt A/B + 30 ca oracle + nguồn tham khảo):** [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md) · [`evals/layout-benchmark-results.json`](evals/layout-benchmark-results.json) · [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json).
+
+### Benchmark Độc lập 3 Nhánh (`val-v1` & Tập niêm phong `test-sealed-v1`)
+
+Đánh giá tách biệt qua [`eval_harness/`](eval_harness/) theo giao thức đăng ký trước [`evals/EVALUATION-PROTOCOL.md`](evals/EVALUATION-PROTOCOL.md) so sánh **3 nhánh cô lập** (`Arm 0: No Skill`, `Arm 1: Standards-Only`, `Arm 2: Full Skill + vndocs`), xác nhận **`0` lượt nhiễm chéo** (`contamination_count = 0`):
+
+- **Tập validation công khai `val-v1` (20 `.docx` thực tế *in-the-wild*, 420 lượt qua 2 milestone):**
+  - *Milestone #1 (`v0.4.0`, 300 lượt, 5 cấu hình `ag_flash`, `ag_pro`, `codex_gpt61_low/medium/high`):* `Arm 2` tăng `+10.0` đến `+35.0 pp` so với `Arm 0` (`codex_gpt61_medium`: `45.0% -> 80.0%`, McNemar $p = 0.0156$), chứng minh cả tri thức chuẩn (`Arm 1`) lẫn công cụ có cấu trúc (`Arm 2`) đều đóng góp rõ rệt.
+  - *Milestone #2 (`v0.4.1` + `normalize-ooxml`, 120 lượt):* `ag_flash` đạt **`95.0%` `pass@1`** (`75.0%` Arm 0 / `85.0%` Arm 1); `codex_gpt61_low` tăng từ `85.0% -> 95.0%` (`55.0%` Arm 0 / `85.0%` Arm 1, McNemar $p = 0.0078$, Nhóm E tăng `50.0% -> 100.0%`).
+- **Tập niêm phong chính thức `test-sealed-v1` (30 tài liệu độc lập, cam kết SHA-256 trước khi mở, chạy đơn lượt 90 runs trên `ag_flash` tại tag đóng băng `eval-freeze-v1`):**
+  - `arm0_no_skill`: `86.7%` `pass@1`, `97.5%` checkpoint mean, `0.0%` collateral.
+  - `arm1_standards_only`: `86.7%` `pass@1`, `97.8%` checkpoint mean, `4.2%` collateral.
+  - `arm2_full_skill`: **`100.0%` `pass@1`**, **`100.0%` checkpoint mean**, **`0.0%` collateral** (`+13.33 pp`, normalized gain $g = 1.0000$, `0/4` cặp bất đồng nghiêng hoàn toàn về `Arm 2`; đánh đổi `1.83x` fresh+output tokens / `2.91x` total tokens do bước kiểm định & render).
+- **Báo cáo chi tiết:** [`evals/VAL-V1-BENCHMARK.md`](evals/VAL-V1-BENCHMARK.md) · [`evals/SEALED-TEST-REPORT.md`](evals/SEALED-TEST-REPORT.md) · [`evals/SEALED-TEST-COMMITMENT.json`](evals/SEALED-TEST-COMMITMENT.json).
 
 ## Cách bắt đầu
 
@@ -288,6 +301,7 @@ vndocs render artifacts/demo/office-filled.docx --png
   vndocs layout-edit source.docx artifacts/scaled.docx --plan plan.json --track-changes
   vndocs diff-layout source.docx artifacts/scaled.docx --target <ANCHOR> --cache-dir .vndocs-cache
   vndocs paginate source.docx artifacts/onepage.docx --fix-orphan-signature --profile administrative
+  vndocs normalize-ooxml source.docx artifacts/normalized.docx
   ```
 - **Prompt mẫu gửi AI Agent:**
   - *Hành chính:* `Tạo file DOCX thông báo lịch họp theo thể thức NĐ30/2020; chỗ nào thiếu thông tin ký hoặc số văn bản thì đánh dấu [CẦN BỔ SUNG: ...].`
@@ -322,7 +336,7 @@ Danh sách đầy đủ subcommand, cấu hình JSON và exit codes (`0` pass, `
   ```bash
   python -m pip install -e ".[dev]"
   python -m ruff check .
-  python -m compileall -q scripts tests evals
+  python -m compileall -q scripts tests evals eval_harness
   python -m pytest -q
   python evals/run_validation_benchmark.py
   python evals/run_layout_benchmark.py --run-oracle
@@ -346,10 +360,11 @@ vietnamese-docs-style/
 ├── assets/                    # Starter templates, 10 file ví dụ .docx mở xem ngay (examples/), JSON Schema & custom rules
 ├── docs/images/               # Ảnh preview Before/After và đầu ra tạo bằng skill
 ├── docs/internal/             # Hồ sơ triển khai và nghiệm thu nội bộ
-├── evals/                     # Benchmark tái lập, báo cáo audit & layout-edit 30-case eval
+├── evals/                     # Benchmark tái lập, báo cáo audit, val-v1 & test-sealed-v1
+├── eval_harness/              # Bộ chấm & thống kê độc lập 3-Arm (val-v1 / test-sealed-v1)
 ├── references/                # Tài liệu quy chuẩn NĐ30, văn bản Đảng, VBQPPL, học thuật, biên bản, tooling
 ├── scripts/                   # Package Python & CLI `vndocs`
-└── tests/                     # 96 automated tests (pytest + LibreOffice render)
+└── tests/                     # 114 automated tests (pytest + LibreOffice render)
 ```
 
 </details>
@@ -464,7 +479,7 @@ In practice, Vietnamese documents follow **strict statutory and institutional ru
 
 - Context-routed formatting across 8 profiles (`academic`, `office`, `minutes-general`, `proposal`, `administrative`, `party`, `minutes-administrative`, `custom`) plus [`legal-normative.json`](assets/rules/legal-normative.json), keeping Decree 30/2020/NĐ-CP, Party guidelines (QĐ 399-QĐ/TW & HD 05-HD/VPTW), academic reports, and corporate minutes separated.
 - Declarative multi-profile JSON generation (`vndocs generate --validate`, [JSON Schema](assets/schemas/document-input.schema.json)), `{{token}}` template filling (`vndocs fill`), and SHA256-verified slot patching (`vndocs edit`) preserving untouched ZIP members.
-- Controlled layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`).
+- Controlled layout editing on existing `.docx` files (`vndocs map` -> screenshot/Set-of-Mark `--annotate-marks` grounding -> `vndocs layout-edit` across 13 ops with optional `--track-changes` & Word 365 namespace preservation -> `vndocs diff-layout`), plus profile-safe auto-pagination (`vndocs paginate`) to absorb orphan signature blocks or meet target page budgets without modifying text (`xml_ntpr == 1.0`), and `vndocs normalize-ooxml` to enforce ECMA-376 child element ordering on OOXML parts modified outside `layout-edit`.
 - Template inspection and lossless `Ð` (`U+00D0` -> `Đ` `U+0110`) encoding normalization (`vndocs inspect --normalize-output`), plus structural and style validation (`vndocs validate`) with an explicit `unchecked` list.
 - PDF and PNG page rendering (`vndocs render --png`, with SHA-256 PDF caching via `--cache-dir` and optional Windows Word COM backend via `--renderer word-win`) via LibreOffice in a temporary profile.
 - Root agent sitemap ([llms.txt](llms.txt)), interview checklist ([interview-questions.md](references/interview-questions.md)), Markdown layout fallback ([markdown-preview-fallback.md](references/markdown-preview-fallback.md)), and skill ZIP packaging (`vndocs package`).
@@ -512,7 +527,7 @@ vndocs validate artifacts/demo/office-filled.docx --profile minutes-general
 vndocs render artifacts/demo/office-filled.docx --png
 ```
 
-Common workflows also include `vndocs generate ... --validate`, `vndocs inspect --normalize-output ...`, `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs map`, `vndocs layout-edit --track-changes`, `vndocs diff-layout --cache-dir ...`, `vndocs paginate`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys, all 13 layout ops, and exit codes (`0` pass, `1` fail, `2` partial).
+Common workflows also include `vndocs generate ... --validate`, `vndocs inspect --normalize-output ...`, `vndocs fill`, `vndocs edit --source-sha256 ...`, `vndocs map`, `vndocs layout-edit --track-changes`, `vndocs diff-layout --cache-dir ...`, `vndocs paginate`, `vndocs normalize-ooxml`, `vndocs templates`, and `vndocs package` (or calling `python scripts/<tool>.py`). See [references/tooling.md](references/tooling.md) for JSON rule keys, all 13 layout ops, and exit codes (`0` pass, `1` fail, `2` partial).
 
 ### Benchmark: 0/8 Baseline vs. 8/8 Skill
 
@@ -536,6 +551,19 @@ Self-authored stratified dataset of **30 Vietnamese DOCX layout cases (`T01`–`
 - **Static payload reduction (`vndocs map` vs raw `word/document.xml`):** **90.1%** (`short`), **96.9%** (`medium`), **98.0%** (`long`).
 - **Full dataset, sanitized trajectories & paper references:** [`evals/LAYOUT-BENCHMARK.md`](evals/LAYOUT-BENCHMARK.md) · [`evals/layout-benchmark-results.json`](evals/layout-benchmark-results.json) · [`evals/layout_edit_cases.json`](evals/layout_edit_cases.json).
 
+### Independent 3-Arm Benchmark (`val-v1` & Sealed `test-sealed-v1`)
+
+Evaluated independently via [`eval_harness/`](eval_harness/) under the pre-registered [`evals/EVALUATION-PROTOCOL.md`](evals/EVALUATION-PROTOCOL.md) across **3 isolated arms** (`Arm 0: No Skill`, `Arm 1: Standards-Only`, `Arm 2: Full Skill + vndocs`), verified at **`0` cross-arm leaks** (`contamination_count = 0`):
+
+- **Public validation split `val-v1` (20 real in-the-wild `.docx` files, 420 runs across 2 milestones):**
+  - *Milestone #1 (`v0.4.0`, 300 runs, 5 configs: `ag_flash`, `ag_pro`, `codex_gpt61_low/medium/high`):* `Arm 2` improved `pass@1` by `+10.0` to `+35.0 pp` over `Arm 0` (`codex_gpt61_medium`: `45.0% -> 80.0%`, McNemar $p = 0.0156$), separating domain-knowledge gains (`Arm 1`) from structured tooling gains (`Arm 2`).
+  - *Milestone #2 (`v0.4.1` + `normalize-ooxml`, 120 runs):* `ag_flash` reached **`95.0%` `pass@1`** (`75.0%` Arm 0 / `85.0%` Arm 1); `codex_gpt61_low` rose from `85.0% -> 95.0%` (`55.0%` Arm 0 / `85.0%` Arm 1, McNemar $p = 0.0078$, Group E jumping `50.0% -> 100.0%`).
+- **Official sealed split `test-sealed-v1` (30 disjoint cases, externally curated, SHA-256 committed pre-eval, single-shot 90 runs on `ag_flash` against frozen tag `eval-freeze-v1`):**
+  - `arm0_no_skill`: `86.7%` `pass@1`, `97.5%` checkpoint mean, `0.0%` collateral.
+  - `arm1_standards_only`: `86.7%` `pass@1`, `97.8%` checkpoint mean, `4.2%` collateral.
+  - `arm2_full_skill`: **`100.0%` `pass@1`**, **`100.0%` checkpoint mean**, **`0.0%` collateral** (`+13.33 pp`, normalized gain $g = 1.0000$, `0/4` discordant pairs; `1.83x` fresh+output tokens / `2.91x` total tokens trade-off from explicit validation & rendering).
+- **Full reports:** [`evals/VAL-V1-BENCHMARK.md`](evals/VAL-V1-BENCHMARK.md) · [`evals/SEALED-TEST-REPORT.md`](evals/SEALED-TEST-REPORT.md) · [`evals/SEALED-TEST-COMMITMENT.json`](evals/SEALED-TEST-COMMITMENT.json).
+
 ## Limitations & Integrations
 
 - **LibreOffice (recommended cross-platform renderer) & optional Word COM:** `winget install TheDocumentFoundation.LibreOffice` (Windows), `brew install --cask libreoffice` (macOS), or `sudo apt-get install -y libreoffice-writer fonts-liberation` (Ubuntu/Debian); override via `--renderer` or `VNDOCS_RENDERER`. `--renderer word-win` is optional on Windows hosts that have desktop Microsoft Word installed (unavailable on Linux/CI or hosts without Office COM registered).
@@ -554,7 +582,7 @@ Self-authored stratified dataset of **30 Vietnamese DOCX layout cases (`T01`–`
   ```bash
   python -m pip install -e ".[dev]"
   python -m ruff check .
-  python -m compileall -q scripts tests evals
+  python -m compileall -q scripts tests evals eval_harness
   python -m pytest -q
   python evals/run_validation_benchmark.py
   python evals/run_layout_benchmark.py --run-oracle
